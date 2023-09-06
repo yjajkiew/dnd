@@ -1,4 +1,4 @@
-  ---
+---
 layout: default
 title: Bases de données
 nav_order: 4
