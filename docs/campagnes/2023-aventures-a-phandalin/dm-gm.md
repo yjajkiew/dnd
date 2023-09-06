@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pour DM/GM
-parent: Aventure à Phandalin
+parent: Aventures à Phandalin
 grand_parent: Campagnes
 nav_order: 1
 ---
