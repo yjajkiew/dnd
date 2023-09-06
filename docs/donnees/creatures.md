@@ -32313,6 +32313,7 @@ _Monstruosité de taille G, typiquement neutre_
 **Sens** vision dans le noir 36 m, Perception passive 13  
 **Langues** comprend le draconique mais ne peut pas parler, télépathie 18 m  
 **Puissance** 5 (1800 PX) **Bonus de maîtrise** +3
+
 _Fizban´s Treasury of Dragons_
 {: .label .label-red }
 
