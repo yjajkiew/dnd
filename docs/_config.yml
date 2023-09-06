@@ -1,10 +1,10 @@
 #theme: jekyll-theme-leap-day
 remote_theme: pmarsceill/just-the-docs
 
-title: DnD | Donjons & Drgons | yann.me
+title: DnD | Donjons & Dragons | yann.me
 description: Aides, astuces, campagnes, ressources Donjons & Dragons
 
-logo: "/assets/domotique-yann-logo.png"
+logo: "/assets/dungeons-and-dragons-logo.png"
 
 aux_links:
   "Retour au site yann.me":
