@@ -24,15 +24,20 @@ Le sort capte une partie de l'énergie entrante, ce qui réduit son effet sur vo
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts supplémentaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Druide
-{: .label }
+{: .label .label-green }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Agrandissement/Rapetissement
 ============================
@@ -55,14 +60,19 @@ Si la cible est une créature, toutes les choses qu'elle porte et transporte cha
 **Rapetissement**. La taille de la cible est diminuée de moitié dans toutes les dimensions, et son poids est divisé par huit. Cette réduction diminue sa taille d'une catégorie, de M à P par exemple. Jusqu'à la fin du sort, la cible a un désavantage à ses jets de Force et à ses jets de sauvegarde de Force. Les armes de la cible rapetissent aussi. Tant que ces armes sont réduites, les attaques de la cible occasionnent 1d4 dégâts en moins (minimum 1 point de dégâts).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Aide
 ====
@@ -83,14 +93,19 @@ Votre sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les points de vie de chaque cible augmentent de 5 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Alarme
 ======
@@ -111,10 +126,13 @@ Vous mettez en place une alarme contre les intrusions indésirables. Choisissez 
 Une alarme mentale vous alerte avec une sonnerie dans votre esprit à condition que vous soyez à 1,5 kilomètre maximum de la zone surveillée. Cette sonnerie vous réveille si vous êtes endormi. Une alarme audible produit le son d'une clochette à main, pendant 10 secondes, pouvant être entendue à 18 mètres.  
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Allié planaire
 ==============
@@ -139,8 +157,10 @@ Après qu'une créature ait accompli la tâche que vous lui avez confiée, ou lo
 Une créature enrôlée dans votre groupe compte comme un membre à part entière, recevant son quota de points d'expérience comme tous les autres membres.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Amélioration de caractéristique
 ===============================
@@ -167,19 +187,25 @@ Vous touchez une créature et lui accordez une amélioration magique. Choisissez
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien \[TCoE\]
+{: .label .label-purple }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Amélioration de compétences
 ===========================
@@ -201,12 +227,16 @@ Description non disponible (non OGL). Résumé :
 La cible double son bonus de maîtrise pour une compétence.
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Amis
 ====
@@ -226,12 +256,16 @@ niveau 0 - enchantement
 Pour la durée du sort, vous avez un avantage à tous vos jets de Charisme effectués contre une créature de votre choix qui n'a pas une attitude hostile envers vous. Lorsque le sort prend fin, la créature réalise que vous avez utilisé la magie pour l'influencer et devient hostile à votre égard. Une créature plutôt violente risque de vous attaquer. D'autres créatures peuvent vous demander de l'argent ou un service (à la discrétion du MD), cela dépend de la nature de l'échange que vous avez eu avec la créature.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -254,13 +288,16 @@ Ce sort vous permet de persuader une bête que vous ne lui voulez aucun mal. Cho
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez charmer une bête supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Animation d'objets
 ==================
@@ -358,12 +395,16 @@ Si vous ordonnez à un objet d'attaquer, il peut faire une simple attaque au cor
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, vous pouvez animer deux objets supplémentaires pour chaque niveau d'emplacement au-delà du niveau 5.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Animation des morts
 ===================
@@ -386,10 +427,13 @@ La créature est sous votre contrôle pour une période de 24 heures, à la fin 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous animez ou réaffirmez votre contrôle sur deux créatures mortes-vivantes additionnelles pour chaque niveau d'emplacement au-delà du niveau 3. Chaque créature doit provenir d'un cadavre ou d'un tas d'ossements différent.  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Antidétection
 =============
@@ -409,12 +453,16 @@ niveau 3 - abjuration
 Pour la durée du sort, vous cachez une cible que vous touchez de la divination magique. La cible peut être une créature consentante, un endroit ou un objet ne faisant pas plus de 3 mètres dans toutes les dimensions. La cible ne peut pas être ciblée par quelque divination magique que ce soit ou perçue grâce à des objets de détection magique.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Apaisement des émotions
 =======================
@@ -436,10 +484,13 @@ Vous pouvez supprimer tous les effets qui font qu'une cible est charmée ou effr
 Ou vous pouvez rendre une cible indifférente à des créatures envers qui elle montre des signes d'hostilité. Cette indifférence prend fin lorsque la cible est attaquée ou blessée par un sort ou lorsqu'elle est témoin d'une attaque envers un de ses alliés. Lorsque le sort prend fin, la créature redevient hostile, à moins que le MD en décide autrement.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Apparence trompeuse
 ===================
@@ -462,12 +513,16 @@ Les modifications apportées par ce sort ne résistent pas à une inspection phy
 Une créature peut utiliser son action pour inspecter une cible et elle doit réussir un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort. Si elle réussit, la créature comprend que la cible est déguisée.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Appel de destrier
 =================
@@ -491,8 +546,10 @@ Tant que votre destrier se trouve à 1,5 kilomètre ou moins de vous, vous pouve
 Vous ne pouvez avoir plus d'un destrier lié grâce à ce sort en même temps. Par une action, vous pouvez libérer votre destrier du lien qui vous unit, et ce à n'importe quel moment. Le destrier disparaît alors.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Appel de destrier supérieur
 ===========================
@@ -514,8 +571,10 @@ Vous contrôlez la monture en combat. Tant que la monture est à moins de 1,5 km
 La monture disparaît temporairement lorsqu'elle tombe à 0 point de vie ou lorsque vous la rejetez par une action. Lancer à nouveau ce sort invoque de nouveau la monture liée, avec tous ses points de vie restaurés et tous les états supprimés. Vous ne pouvez avoir plus d'une monture liée par ce sort ou _appel de destrier_ en même temps. Par une action, vous pouvez libérer une monture de son lien, la faisant disparaître définitivement. Chaque fois que la monture disparaît, elle laisse derrière elle les objets qu'elle portait ou transportait.  
 
 Paladin
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Appel de familier
 =================
@@ -540,8 +599,10 @@ Vous ne pouvez pas avoir plus d'un familier à la fois. Si vous lancez ce sort a
 Enfin, lorsque vous lancez un sort qui a une portée de contact, votre familier peut lancer le sort comme s'il était celui qui avait réalisé l'incantation. Votre familier doit se situer à 30 mètres de vous maximum, et doit utiliser sa réaction pour lancer le sort au moment où vous l'incantez. Si le sort requiert un jet d'attaque, vous utilisez votre modificateur à l'attaque pour ce jet.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Appel de la foudre
 ==================
@@ -564,9 +625,10 @@ Si vous êtes en extérieur et dans des conditions orageuses lors de l'incantati
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Arme élémentaire
 ================
@@ -587,12 +649,16 @@ Une arme non magique que vous touchez devient une arme magique. Choisissez l'un 
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou 6, le bonus aux jets d'attaque monte à +2 et les dégâts supplémentaires montent à 2d4. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, le bonus monte à +3 et les dégâts supplémentaires à 3d4.  
 
 Paladin
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Arme magique
 ============
@@ -613,14 +679,19 @@ Vous touchez une arme non magique. Jusqu'à la fin du sort, l'arme est considér
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le bonus augmente à +2. Lorsque vous utilisez un emplacement de sort de niveau 6 ou supérieur, le bonus augmente à +3.  
 
 Magicien
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Ensorceleur \[TCoE\]
+{: .label .label-purple }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Arme sacrée
 ===========
@@ -642,10 +713,13 @@ Description non disponible (non OGL). Résumé :
 L'arme cible brille, inflige 2d8 dégâts radiants supplémentaires et peut exploser sur un rayon de 9 m (JdS ou 4d8 radiants).
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Arme spirituelle
 ================
@@ -668,8 +742,10 @@ L'arme peut prendre la forme de votre choix. Les clercs d'une divinité associé
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts infligés augmentent de 1d8 pour chaque niveau d'emplacement pair supérieur au niveau 2.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Armure d'Agathys
 ================
@@ -690,6 +766,7 @@ Une force magique protectrice vous entoure, se manifestant sous la forme d'un gi
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les points de vie temporaires et les dégâts de froid augmentent de 5 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -711,10 +788,13 @@ niveau 1 - abjuration
 Vous touchez une créature consentante qui ne porte pas d'armure, et une force magique de protection l'englobe jusqu'à ce que le sort prenne fin. La CA de la cible passe à 13 + son modificateur de Dextérité. Le sort prend fin si la cible enfile une armure ou si vous prenez une action pour interrompre le sort.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Arrêt du temps
 ==============
@@ -735,10 +815,13 @@ Vous arrêtez brièvement l'écoulement du temps pour tout le monde, sauf pour v
 Ce sort prend fin si l'une des actions que vous utilisez lors de cette période, ou l'un des effets que vous créez au cours de cette période, affecte une créature autre que vous ou un objet étant porté par quelqu'un d'autre que vous. De plus, le sort prend fin si vous vous déplacez à plus de 300 mètres d'où vous l'avez lancé.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Aspersion d'acide
 =================
@@ -759,10 +842,13 @@ Vous propulsez une bulle d'acide. Choisissez une ou deux créatures que vous pou
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Assassin imaginaire
 ===================
@@ -783,10 +869,13 @@ Vous exploitez les cauchemars d'une créature à portée que vous pouvez voir et
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts sont augmentés de 1d10 pour chaque niveau d'emplacement au-delà du niveau 4.  
 
 Magicien
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Assignation infernale
 =====================
@@ -808,10 +897,13 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 diable FP 6 hostile (+1 FP/niv)
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Assistance
 ==========
@@ -831,11 +923,13 @@ niveau 0 - divination
 Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer un d4 et ajouter le résultat du dé à un jet de caractéristique de son choix. Elle peut lancer le dé avant ou après avoir effectué son jet de caractéristique. Le sort prend alors fin.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Attraction terrestre
 ====================
@@ -855,15 +949,19 @@ niveau 2 - transmutation
 Choisissez une créature que vous pouvez voir dans la portée. Des bandes jaunes d'énergie magique entourent la créature. La cible doit réussir un jet de sauvegarde de Force sous peine de voir sa vitesse de vol (le cas échéant) réduite à 0 mètre pour la durée du sort. Une créature volante affectée par ce sort descend à la vitesse de 18 mètres par round jusqu'à ce qu'elle atteigne le sol ou que le sort se termine.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Aube
 ====
@@ -885,10 +983,13 @@ Description non disponible (non OGL). Résumé :
 Les créatures dans un cylindre de 9 x 12 m doivent réussir un JdS de Con. ou subir 4d10 dégâts radiants.
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Augure
 ======
@@ -914,12 +1015,16 @@ Le sort ne considère pas les circonstances qui pourraient changer l'issue de la
 Si vous incantez le sort plus d'une fois avant la fin de votre prochain repos long, il y a une probabilité cumulative de 25 % de recevoir une réponse aléatoire, et ce, à chaque incantation après la première. Le MD fait ce jet en secret.  
 
 Clerc
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Magicien \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Aura de pureté
 ==============
@@ -939,10 +1044,13 @@ niveau 4 - abjuration
 Une énergie purificatrice irradie de vous en une aura de 9 mètres de rayon. Jusqu'à la fin du sort, l'aura, centrée sur vous, se déplace en même temps que vous. Toute créature qui n'est pas hostile et est présente dans l'aura (vous y compris) ne peut pas tomber malade, a la résistance aux dégâts de poison, et a un avantage à ses jets de sauvegarde contre les effets provoquant les états suivants : aveuglé, charmé, assourdi, effrayé, paralysé, empoisonné et étourdi.  
 
 Paladin
+{: .label .label-green }
 
 Clerc \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Aura de vie
 ===========
@@ -962,10 +1070,13 @@ niveau 4 - abjuration
 Une énergie protégeant tout ce qui vit irradie de vous en une aura de 9 mètres de rayon. Jusqu'à la fin du sort, l'aura, centrée sur vous, se déplace en même temps que vous. Toute créature qui n'est pas hostile et est présente dans l'aura (vous y compris) a la résistance aux dégâts nécrotiques, et son maximum de points de vie ne peut pas être réduit. De plus, une créature vivante, non hostile, étant à 0 point de vie, regagne 1 point de vie lorsqu'elle débute son tour au sein de l'aura.  
 
 Paladin
+{: .label .label-green }
 
 Clerc \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Aura de vitalité
 ================
@@ -985,12 +1096,16 @@ niveau 3 - évocation
 Une énergie régénératrice irradie de vous en une aura de 9 mètres de rayon. Jusqu'à la fin du sort, l'aura, centrée sur vous, se déplace en même temps que vous. Vous pouvez utiliser une action bonus pour qu'une créature présente dans l'aura (vous y compris) récupère 2d6 points de vie.  
 
 Paladin
+{: .label .label-green }
 
 Clerc \[TCoE\]
+{: .label .label-purple }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Aura du croisé
 ==============
@@ -1010,8 +1125,10 @@ niveau 3 - évocation
 Un pouvoir sacré irradie de vous sous la forme d'une aura de 9 mètres de rayon, réveillant la hardiesse des créatures amicales. Jusqu'à la fin du sort, l'aura se déplace en même temps que vous, centrée sur vous. Toute créature dans l'aura qui ne vous est pas hostile (y compris vous-même) inflige 1d4 dégâts radiants supplémentaires lorsqu'elle touche avec une attaque avec une arme.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Aura magique de Nystul
 ======================
@@ -1034,8 +1151,10 @@ Lorsque vous lancez le sort, choisissez l'un ou les deux effets suivants. L'effe
 **Masque**. Vous modifiez la manière dont la cible apparaît aux sorts et effets magiques qui détectent le type d'une créature, comme le Sens divin du paladin ou le déclencheur du sort _symbole_. Vous choisissez un type de créature, les autres sorts et effets magiques traitent la cible comme si elle était de ce type ou de cet alignement.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Aura sacrée
 ===========
@@ -1055,8 +1174,10 @@ niveau 8 - abjuration
 Une lumière divine émane de vous pour former une douce radiation dans un rayon de 9 mètres autour de vous. Les créatures de votre choix dans ce rayon au moment d'incanter émettent une lumière faible sur un rayon de 1,50 mètre et bénéficient d'un avantage à tous les jets de sauvegarde. Les autres créatures ont un désavantage aux jets d'attaque contre les créatures touchées par le sort. De plus, lorsqu'un fiélon ou un mort-vivant frappent une créature touchée par le sort avec une attaque au corps à corps, l'aura s'illumine d'une lumière vive. L'attaquant doit réussir un jet de sauvegarde de Constitution, sans quoi il est aveuglé jusqu'à la fin du sort.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Aversion/Attirance
 ==================
@@ -1082,13 +1203,16 @@ Si la cible inflige des dégâts ou quelque autre tort à une créature affecté
 Une créature qui réussit son jet de sauvegarde contre cet effet y est immunisée pour 1 minute, après quoi elle peut de nouveau être affectée.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Bagou
 =====
@@ -1108,10 +1232,13 @@ niveau 8 - transmutation
 Jusqu'à ce que le sort se termine, lorsque vous effectuez un jet de Charisme, vous pouvez remplacer le résultat du dé par un 15. De plus, peu importe vos propos, les magies qui permettent de savoir si vous dites la vérité ou non indiquent que ce que vous dites est vrai.  
 
 Barde
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Baies nourricières
 ==================
@@ -1132,11 +1259,13 @@ Jusqu'à dix baies imprégnées de magie apparaissent dans votre main pour la du
 Les baies perdent leur potentiel si elles n'ont pas été consommées dans les 24 heures qui suivent le lancement du sort.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Bannissement
 ============
@@ -1160,16 +1289,22 @@ Si la cible est native d'un plan d'existence différent de celui sur lequel vous
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 4.  
 
 Clerc
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Barrière de lames
 =================
@@ -1190,8 +1325,10 @@ Vous créez un mur de lames acérées et tourbillonnantes faites d'énergie magi
 Lorsqu'une créature pénètre dans la zone du mur pour la première fois de son tour ou lorsqu'elle débute son tour dans la zone, la créature doit effectuer un jet de sauvegarde de Dextérité, subissant 6d10 dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Bénédiction
 ===========
@@ -1212,10 +1349,13 @@ Vous bénissez jusqu'à trois créatures de votre choix, dans la portée du sort
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Blessure
 ========
@@ -1236,8 +1376,10 @@ Faites une attaque au corps à corps avec un sort contre une créature que vous 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d10 chaque niveau d'emplacement au-delà du niveau 1.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Bosquet des druides
 ===================
@@ -1259,9 +1401,10 @@ Description non disponible (non OGL). Résumé :
 Protège une zone de 27 x 27 x 27 m par un brouillard, des lianes, des arbres animés, ou autres effets.
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Bouche magique
 ==============
@@ -1284,10 +1427,13 @@ Lorsque vous lancez ce sort, vous pouvez décider que le sort prend fin une fois
 Les conditions de déclenchement peuvent être aussi génériques ou aussi précises que vous le souhaitez. Cependant, elles doivent être basées sur des critères visuels ou audibles perceptibles à 9 mètres ou moins de l'objet. Par exemple, vous pouvez commander à la bouche de parler lorsqu'une créature quelconque s'approche à 9 mètres ou moins de l'objet, ou lorsqu'on sonne une clochette d'argent à 9 mètres ou moins.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Bouclier
 ========
@@ -1307,10 +1453,13 @@ niveau 1 - abjuration
 Une barrière invisible de force magique apparaît et vous protège. Jusqu'au début de votre prochain tour, vous obtenez un bonus de +5 à votre CA, y compris contre l'attaque qui a déclenché le sort, et vous ne prenez aucun dégât par le sort _projectile magique_.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Bouclier de feu
 ===============
@@ -1332,12 +1481,16 @@ Les flammes forment autour de vous un bouclier de chaleur ou de froid, à votre 
 De plus, si une créature située à 1,50 mètre ou moins de vous vous touche avec une attaque au corps à corps, des flammes jaillissent du bouclier. L'attaquant subit alors 2d8 dégâts de feu ou de froid, selon le modèle choisi.  
 
 Magicien
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Ensorceleur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Bouclier de la foi
 ==================
@@ -1357,10 +1510,13 @@ niveau 1 - abjuration
 Un champ scintillant apparaît et entoure une créature de votre choix dans la portée du sort, lui accordant un bonus de +2 à la CA pour la durée du sort.  
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Bouclier de platine de Fizban
 =============================
@@ -1382,10 +1538,13 @@ Description non disponible (non OGL). Résumé :
 Le lanceur gagne un abri partiel, la résistance aux dégâts d'acide, de froid, de feu, de foudre et de poison, et Évasion.
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Fizban´s Treasury of Dragons
+{: .label .label-red }
 
 Bouffée de poison
 =================
@@ -1406,15 +1565,19 @@ Vous tendez votre paume vers une créature visible dans la portée du sort et vo
 Les dégâts de ce sort augmentent de 1d12 lorsque vous atteignez le niveau 5 (2d12), le niveau 11 (3d12) et le niveau 17 (4d12).  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Boule de feu
 ============
@@ -1436,10 +1599,13 @@ Le feu contourne les coins. Il enflamme les objets inflammables qui ne sont pas 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts sont augmentés de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Boule de feu à retardement
 ==========================
@@ -1463,10 +1629,13 @@ Le feu endommage les objets dans la zone et enflamme les objets inflammables qui
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou supérieur, les dégâts de base augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 7.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Bourrasque
 ==========
@@ -1489,15 +1658,19 @@ La bourrasque disperse les gaz et la vapeur, et elle éteint les bougies, les to
 Lors d'une action bonus à chacun de vos tours avant que le sort prenne fin, vous pouvez changer la direction du corridor de vent.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Brume mortelle
 ==============
@@ -1520,10 +1693,13 @@ Le brouillard s'éloigne de vous au début de votre tour, au rythme de 3 mètres
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 5.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Cage de force
 =============
@@ -1548,12 +1724,16 @@ Une créature à l'intérieur de la cage ne peut pas la quitter par des moyens n
 Ce sort ne peut pas être dissipé avec le sort _dissipation de la magie_.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Cage des âmes
 =============
@@ -1575,10 +1755,13 @@ Description non disponible (non OGL). Résumé :
 Vole une âme pour gagner des pv, lui poser des questions, obtenir l'avantage à un dé ou voir un lieu qu'elle connaissait.
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Carquois magique
 ================
@@ -1599,8 +1782,10 @@ Vous transmutez votre carquois pour qu'il produise constamment des munitions non
 À chacun de vos tours avant que le sort ne prenne fin, vous pouvez utiliser votre action bonus pour effectuer deux attaques avec une arme qui utilise les munitions de ce carquois. Chaque fois que vous effectuez une attaque à distance, votre carquois remplace magiquement la munition que vous venez d'utiliser par une nouvelle munition similaire non magique. Chaque munition créée par ce sort est détruite lorsque le sort prend fin. Si le carquois n'est plus en votre possession, le sort prend fin.  
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Catapulte
 =========
@@ -1621,10 +1806,13 @@ Choisissez un objet pesant de 500 g à 2,5 kg à portée et qui n'est ni porté 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le poids maximal de l'objet que vous pouvez cibler avec ce sort augmente de 2,5 kg et les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Cécité/Surdité
 ==============
@@ -1645,14 +1833,19 @@ Vous pouvez aveugler ou assourdir un ennemi. Choisissez une créature que vous p
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Cercle de mort
 ==============
@@ -1673,12 +1866,16 @@ Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les dégâts augmentent de 2d6 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Cercle de pouvoir
 =================
@@ -1698,8 +1895,10 @@ niveau 5 - abjuration
 Vous irradiez de l'énergie divine, distordant et diffusant de l'énergie magique à 9 mètres autour de vous. Jusqu'à la fin du sort, la sphère se déplace en même temps que vous de sorte que vous en restez l'épicentre. Pour la durée du sort, toute créature amicale dans la zone (vous y compris) a un avantage à ses jets de sauvegarde effectués contre des sorts et tout autre effet magique. De plus, lorsque les créatures affectées réussissent un jet de sauvegarde effectué contre un sort ou un effet magique qui leur permet de réduire de moitié les dégâts subis en cas de réussite au jet de sauvegarde, elles ne prennent aucun dégât de la part de ce sort ou effet magique.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Cercle de téléportation
 =======================
@@ -1721,14 +1920,19 @@ Nombre de grands temples, guildes et autres endroits importants ont installé de
 Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au même endroit, tous les jours pendant 1 an. Vous n'êtes pas obligé de traverser le cercle de téléportation lorsque vous lancez ce sort pour créer un cercle de téléportation permanent.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Cercle magique
 ==============
@@ -1754,14 +1958,19 @@ Lorsque vous lancez ce sort, vous pouvez décider que la magie fonctionne en sen
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort niveau 4 ou supérieur, la durée augmente de 1 heure pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Cérémonie
 =========
@@ -1787,10 +1996,13 @@ Vous réalisez une cérémonie religieuse qui est imprégnée de magie. Lorsque 
 **Mariage**. Vous touchez des humanoïdes adultes prêts à s'unir par les liens du mariage. Pour les 7 prochains jours, chaque cible gagne un bonus de +2 à la CA tant qu'ils sont à 9 mètres ou moins l'un de l'autre. Une créature ne peut bénéficier de nouveau de ce rite que si elle est veuve.  
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Chaîne d'éclairs
 ================
@@ -1812,10 +2024,13 @@ Toute cible doit effectuer un jet de sauvegarde de Dextérité, subissant 10d8 d
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 7 ou supérieur, un trait additionnel s'élance de la première cible vers une autre cible pour chaque niveau d'emplacement au-delà du niveau 6.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Champ antimagie
 ===============
@@ -1844,10 +2059,13 @@ Les propriétés et les pouvoirs d'une arme magique sont réprimés s'ils sont u
 **_Dissipation de la magie_**. Les sorts et les effets magiques tel que _dissipation de la magie_ n'ont aucun effet sur la sphère. De même, les sphères créées par des sorts de _champ antimagie_ ne s'annulent pas l'une l'autre.  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Changement de forme
 ===================
@@ -1872,11 +2090,13 @@ Lorsque vous vous transformez, vous choisissez si votre équipement tombe sur le
 Pour toute la durée du sort, vous pouvez utiliser votre action pour changer de nouveau de forme avec les mêmes conditions et règles que pour la forme précédente, à une exception près : si votre nouvelle forme possède plus de points de vie que votre forme actuelle, votre nombre de points de vie reste le même.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Changement de plan
 ==================
@@ -1898,17 +2118,22 @@ Sinon, si vous connaissez la séquence des symboles d'un cercle de téléportati
 Vous pouvez utiliser ce sort pour bannir une créature non consentante dans un autre plan. Choisissez une créature à portée et faites un jet d'attaque au corps à corps avec un sort contre elle. Si vous la touchez, la créature doit effectuer un jet de sauvegarde de Charisme. En cas d'échec, elle est transportée à un endroit aléatoire du plan d'existence que vous avez visé. Une créature transportée de la sorte devra trouver elle-même un moyen de revenir dans votre plan d'existence.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Charme-monstre
 ==============
@@ -1929,17 +2154,22 @@ Vous essayez de charmer une créature que vous pouvez voir à portée. Celle-ci 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 4. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Charme-personne
 ===============
@@ -1960,17 +2190,22 @@ Vous pouvez tenter de charmer un humanoïde que vous pouvez voir à portée. Ce 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1. Les créatures doivent se trouver à 9 mètres maximum les unes des autres lorsque vous les ciblez.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Châtiment aveuglant
 ===================
@@ -1991,8 +2226,10 @@ La prochaine fois que vous touchez une créature avec une attaque au corps à co
 Une créature aveuglée par ce sort effectue un nouveau jet de sauvegarde de Constitution à la fin de chacun de ses tours. Sur un jet de sauvegarde réussi, elle n'est plus aveuglée.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Châtiment calcinant
 ===================
@@ -2013,10 +2250,13 @@ La prochaine fois que vous touchez une créature avec une attaque au corps à co
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts supplémentaires initiaux infligés par l'attaque augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Paladin
+{: .label .label-green }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Châtiment courroucé
 ===================
@@ -2036,8 +2276,10 @@ niveau 1 - évocation
 La prochaine fois que vous touchez une cible lors d'une attaque au corps à corps avec une arme pendant la durée du sort, votre attaque inflige 1d6 dégâts psychiques supplémentaires. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse ou être effrayée jusqu'à la fin du sort. Par une action, la créature peut effectuer un jet de Sagesse contre le DD de sauvegarde de votre sort pour mettre un terme à cet effet et au sort.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Châtiment débilitant
 ====================
@@ -2057,8 +2299,10 @@ niveau 4 - évocation
 La prochaine fois que vous touchez une créature lors d'une attaque au corps à corps avec une arme pendant la durée du sort, votre arme frappe à la fois le corps et l'esprit de la cible, et lui inflige 4d6 dégâts psychiques supplémentaires. La cible doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, elle a un désavantage à ses jets d'attaque et à ses jets de caractéristique, et ne peut utiliser de réaction, jusqu'à la fin de son prochain tour.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Châtiment du ban
 ================
@@ -2078,8 +2322,10 @@ niveau 5 - abjuration
 La prochaine fois que vous touchez une créature avec une attaque avec une arme avant que ce sort ne prenne fin, votre arme crépite avec force, votre attaque infligeant 5d10 dégâts de force supplémentaires à la cible. De plus, si cette attaque réduit la cible à 50 points de vie ou moins, vous la bannissez. Si la cible est native d'un autre plan d'existence que celui sur lequel vous vous trouvez, la cible disparaît, retournant sur son plan d'origine. Si la cible est native du plan d'existence sur lequel vous êtes, la créature est envoyée sur un demi-plan non-dangereux. Tant qu'elle s'y trouve, la cible est incapable d'agir. Elle y reste jusqu'à ce que le sort prenne fin, puis la cible réapparaît à l'endroit qu'elle avait quitté ou à l'espace inoccupé le plus proche si cet espace est déjà occupé.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Châtiment révélateur
 ====================
@@ -2100,8 +2346,10 @@ La prochaine fois que vous touchez une créature lors d'une attaque avec une arm
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts supplémentaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Châtiment tonitruant
 ====================
@@ -2121,8 +2369,10 @@ niveau 1 - évocation
 La première fois que vous touchez une cible lors une attaque au corps à corps avec une arme pendant que le sort est actif, votre arme résonne tel un tonnerre audible à 90 mètres à la ronde, et l'attaque inflige 2d6 dégâts de tonnerre supplémentaires à la cible. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Force sous peine d'être repoussée de vous sur 3 mètres puis de tomber à terre.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Chien de garde de Mordenkainen
 ==============================
@@ -2144,8 +2394,10 @@ Le chien est invisible pour toutes les créatures, vous excepté, et on ne peut 
 Au début de chacun de vos tours, le chien tente de mordre une créature se trouvant à 1,50 mètre ou moins de lui et qui vous est hostile. Le bonus à l'attaque du chien de garde est égal au modificateur de votre caractéristique d'incantation + votre bonus de maîtrise. Si le coup touche, il inflige 4d8 dégâts perforants.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Clairvoyance
 ============
@@ -2167,14 +2419,19 @@ Lorsque vous lancez le sort, vous choisissez de voir ou d'entendre. Vous pouvez 
 Une créature qui peut voir le détecteur (comme une créature bénéficiant du sort _voir l'invisible_ ou de vision véritable) voit un orbe lumineux et intangible de la taille de votre poing.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Clignotement
 ============
@@ -2195,10 +2452,13 @@ Lancez un d20 à la fin de chacun de vos tours pour toute la durée du sort. Si 
 Lorsque vous êtes dans le plan éthéré, vous pouvez voir et entendre le plan dont vous êtes originaire, qui apparaît en nuances de gris, mais vous ne pouvez voir à plus de 18 mètres. Vous ne pouvez affecter et être affecté que par d'autres créatures du plan éthéré. Les créatures qui n'y sont pas ne peuvent ni vous percevoir ni interagir avec vous, à moins qu'une capacité le leur permette.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Clone
 =====
@@ -2219,8 +2479,10 @@ Ce sort crée le double inerte d'une créature vivante, servant de protection co
 À n'importe quel moment, une fois le clone mature, si la créature originale meurt, son âme est transférée dans le clone, à condition que l'âme soit libre et qu'elle soit consentante à son retour à la vie. Le clone est physiquement identique à l'original et a la même personnalité, les mêmes souvenirs, et les mêmes caractéristiques, mais pas l'équipement d'origine. Le corps original de la créature reste où il est, s'il existe encore, il devient inerte et ne peut revenir à la vie tant que son âme est ailleurs.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Coffre secret de Léomund
 ========================
@@ -2242,8 +2504,10 @@ Tant que le coffre reste dans le plan éthéré, vous pouvez utiliser une action
 Passé un délai de 60 jours, il y a 5 % de risque par jour (les risques se cumulent de jour en jour) que l'effet du sort prenne fin. L'effet du sort prend fin si vous lancez de nouveau ce sort, si la réplique miniature du coffre est détruite, ou si vous choisissez de mettre un terme au sort par une action. Si le sort prend fin et que la version large du coffre se trouve toujours dans le plan éthéré, il est irrémédiablement perdu.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Collet
 ======
@@ -2267,13 +2531,16 @@ Une créature entravée peut effectuer un jet de sauvegarde de Dextérité à la
 Après le déclenchement du piège, le sort se termine lorsque le piège ne retient plus aucune créature.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Colonne de flamme
 =================
@@ -2294,8 +2561,10 @@ Une colonne verticale de feu divin dévale des cieux vers un endroit que vous sp
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, les dégâts de feu ou les dégâts radiants (selon votre choix) sont augmentés de 1d6 pour chaque niveau d'emplacement au-delà du niveau 5.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Communication à distance
 ========================
@@ -2316,12 +2585,16 @@ Vous faites parvenir un court message de 25 mots ou moins à une créature avec 
 Vous pouvez envoyer le message sans égard à la distance, voire sur d'autres plans d'existence. Si la cible est sur un plan différent du vôtre, le message a 5 % de chance de ne pas arriver au destinataire.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Communication avec les animaux
 ==============================
@@ -2341,13 +2614,16 @@ niveau 1 - divination (rituel)
 Vous gagnez la capacité de comprendre et de communiquer verbalement (ou oralement) avec des bêtes pour la durée du sort. Les connaissances et la compréhension de nombreuses bêtes sont limitées par leur intelligence, mais au minimum, elles peuvent vous communiquer des informations sur les alentours et les bêtes à proximité, incluant tout ce qu'elles peuvent percevoir ou ont perçu au cours des derniers jours. Vous devriez être capable de convaincre une bête de vous rendre un petit service, à la discrétion du MD.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Communication avec les morts
 ============================
@@ -2368,12 +2644,16 @@ Vous accordez un semblant de vie et d'intelligence à un cadavre de votre choix 
 Jusqu'à ce que le sort se termine, vous pouvez poser cinq questions au cadavre. Le cadavre ne connaît que ce qu'il savait durant son vivant, y compris les langues. Les réponses sont généralement brèves, énigmatiques ou répétitives, et le cadavre n'est pas obligé de donner une réponse honnête si vous lui êtes hostile ou s'il vous reconnaît comme étant un ennemi. Ce sort ne permet pas le retour de l'âme de la créature à son corps ; il ne fait qu'animer son esprit. Ainsi, le défunt ne peut pas apprendre de nouvelles informations, ne comprend pas tout ce qui s'est passé depuis son trépas et ne peut pas spéculer sur les événements futurs.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Magicien \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Communication avec les plantes
 ==============================
@@ -2397,13 +2677,16 @@ Si une créature végétale se situe dans la zone, vous pouvez communiquer avec 
 Ce sort peut obliger les plantes créées par le sort _enchevêtrement_ à relâcher une créature entravée.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Communion
 =========
@@ -2425,8 +2708,10 @@ Les entités divines ne sont pas nécessairement omniscientes. Vous pouvez donc 
 Si vous incantez le sort plus d'une fois avant la fin de votre prochain repos long, il y a une probabilité cumulative de 25 % de ne recevoir aucune réponse et ce, pour chaque incantation après la première. Le MD fait ce jet en secret.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Communion avec la nature
 ========================
@@ -2453,11 +2738,13 @@ Vous obtenez instantanément la connaissance de trois types d'informations sur l
 Par exemple, vous pourriez déterminer l'emplacement d'un puissant mort-vivant dans la zone, la localisation des principales sources d'eau potables, et situer les villes à proximité.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Compréhension des langues
 =========================
@@ -2478,14 +2765,19 @@ Pendant la durée du sort, vous comprenez la signification littérale de toute l
 Ce sort ne décode pas les messages secrets dans un texte ou un glyphe, tel qu'un symbole magique, qui ne fait pas partie du langage écrit.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Compulsion
 ==========
@@ -2506,8 +2798,10 @@ Les créatures de votre choix, à portée, que vous pouvez voir et qui peuvent v
 Une cible n'est pas contrainte de se déplacer dans une direction si celle-ci est manifestement mortelle, comme un feu ou un gouffre, mais elle provoquera des attaques d'opportunité en se déplaçant dans la direction désignée.  
 
 Barde
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Cône de froid
 =============
@@ -2528,12 +2822,16 @@ Un souffle d'air froid est propulsé de vos mains. Chaque créature se trouvant 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 5.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Confusion
 =========
@@ -2578,15 +2876,19 @@ La créature peut agir et se déplacer normalement.
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le rayon de la sphère augmente de 1,50 mètre pour chaque niveau d'emplacement au-delà du niveau 4.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Contact avec un autre plan
 ==========================
@@ -2607,10 +2909,13 @@ Vous contactez mentalement un demi-dieu, l'esprit d'un sage depuis longtemps dis
 Sur un jet de sauvegarde réussi, vous pouvez poser à l'entité jusqu'à cinq questions. Vous devez poser vos questions avant que le sort ne finisse. Le MD répond à chacune de ces questions par un seul mot, comme « oui », « non », « peut-être », « jamais », « insignifiant » ou « flou » (si l'entité ne connaît pas la réponse à la question). Si une réponse en un mot risque d'être source de confusion, le MD peut donner une courte phrase en guise de réponse.  
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Contact glacial
 ===============
@@ -2631,12 +2936,16 @@ Vous créez une main squelettique fantomatique dans l'espace d'une créature à 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Contagion
 =========
@@ -2664,11 +2973,13 @@ Votre toucher est vecteur de maladie. Effectuez une attaque au corps à corps av
 **Pourriture**. La chair de la créature se dégrade. La créature a un désavantage aux jets de Charisme et est vulnérable à tous les types de dégâts.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Contamination
 =============
@@ -2688,8 +2999,10 @@ niveau 6 - nécromancie
 Vous libérez une infection virulente sur une créature que vous voyez dans la portée du sort. La cible doit effectuer un jet de sauvegarde de Constitution, subissant 14d6 dégâts nécrotiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Les dégâts ne peuvent réduire les points de vie de la cible sous 1. Si la cible échoue le jet de sauvegarde, son maximum de points de vie est amputé pour 1 heure de la même quantité de dégâts nécrotiques subis. Tout effet qui enraye la maladie permet au maximum de points de vie de la créature de retrouver sa valeur normale avant la fin de l'effet du sort.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Contrat
 =======
@@ -2711,17 +3024,22 @@ Une créature liée doit suivre vos instructions au mieux de ses capacités. Vou
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau supérieur, la durée du sort passe à 10 jours avec un emplacement de niveau 6, à 30 jours pour un niveau 7, à 180 jours pour un niveau 8, et elle passe à 1 an et 1 jour en utilisant un emplacement de niveau 9.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Contresort
 ==========
@@ -2742,12 +3060,16 @@ Vous tentez d'interrompre une créature au moment où elle incante un sort. Si l
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le sort interrompu n'a aucun effet si son niveau est inférieur ou égal à celui du niveau de l'emplacement de sort utilisé.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Contrôle de l'eau
 =================
@@ -2773,13 +3095,16 @@ Lorsqu'une créature entre dans le vortex pour la première fois de son tour ou 
 La première fois, à chaque tour, qu'un objet entre dans le vortex, l'objet subit 2d8 dégâts contondants ; ces dégâts sont de nouveau infligés à chaque tour que l'objet passe dans le vortex.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Contrôle des flammes
 ====================
@@ -2804,13 +3129,16 @@ Vous choisissez un feu non magique visible dans la portée du sort de 1,50 mètr
 Si vous lancez ce sort plusieurs fois, vous pouvez avoir jusqu'à trois de ses effets non-instantanés actifs à la fois, et vous pouvez en dissiper un en une action.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Contrôle des vents
 ==================
@@ -2833,13 +3161,16 @@ Vous prenez le contrôle de l'air dans un cube de 30 mètres d'arête visible da
 **Ascension**. Vous créez un courant ascendant soutenu à l'intérieur du cube provenant de la face inférieure du cube. Les créatures tombant dans le cube ne subissent que la moitié des dégâts dus à la chute. Lorsqu'une créature dans le cube réalise un saut vertical, elle peut sauter jusqu'à 3 mètres de plus que la normale.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Contrôle du climat
 ==================
@@ -2946,13 +3277,16 @@ Ouragan
   
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Convocation d'aberration
 ========================
@@ -2974,8 +3308,10 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 esprit d'aberration (tyrannoeil, slaad ou rejeton stellaire) amical (bloc de stat/votre niv).
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -2999,6 +3335,7 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 esprit de créature artificielle (argile, métal ou pierre) amical (bloc de stat/votre niv).
 
 Magicien
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -3022,11 +3359,13 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 esprit d'élémentaire (air, terre, feu ou eau) amical (bloc de stat/votre niv).
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -3050,13 +3389,16 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 esprit draconique (chromatique, de gemmes ou métallique) amical (stat/niv).
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Fizban´s Treasury of Dragons
+{: .label .label-red }
 
 Convocation de bête
 ===================
@@ -3078,9 +3420,10 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 esprit de bête (air, terre ou eau) amical (bloc de stat/votre niv).
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -3104,8 +3447,10 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 esprit de céleste (vengeur ou défenseur) amical (bloc de stat/votre niv).
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -3129,10 +3474,13 @@ Lancer l'initiative pour le démon, qui a ses propres tours. Lorsque vous l'invo
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le FP augmente de 1 pour chaque niveau d'emplacement au-delà du niveau 4.  
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Convocation de démons mineurs
 =============================
@@ -3173,10 +3521,13 @@ Les démons sont hostiles à toutes les créatures, vous y compris. Lancez l'ini
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou 7, vous invoquez deux fois plus de démons. Si vous le lancez en utilisant un emplacement de sort de niveau 8 ou 9, vous invoquez trois fois plus de démons.  
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Convocation de fée
 ==================
@@ -3198,13 +3549,16 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 esprit de fée (furieux, joyeux ou rusé) amical (bloc de stat/votre niv).
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -3228,8 +3582,10 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 esprit de fiélon (démon, diable ou yugoloth) amical (bloc de stat/votre niv).
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -3253,8 +3609,10 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 esprit de mort-vivant (fantomatique, putride ou squelettique) amical (bloc de stat/votre niv).
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -3278,8 +3636,10 @@ Description non disponible (non OGL). Résumé :
 Invoque 1 esprit de rejeton d'ombre (fureur, désespoir ou peur) amical (bloc de stat/votre niv).
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -3304,8 +3664,10 @@ Si une autre créature porte ou tient l'objet, briser le saphir ne téléporte p
 Le sort _dissipation de la magie_, ou un effet similaire, lancé avec succès sur le saphir met fin à l'effet du sort.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Coquille antivie
 ================
@@ -3327,9 +3689,10 @@ La barrière empêche les créatures affectées de pénétrer ou de traverser la
 Si vous vous déplacez de sorte qu'une créature affectée est obligée de passer au travers de la barrière, le sort prend fin.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Corde enchantée
 ===============
@@ -3352,8 +3715,10 @@ Les attaques et les sorts ne peuvent pas traverser l'entrée de l'espace extradi
 Tout ce qui se trouve dans l'espace extradimensionnel en tombe lorsque le sort prend fin.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Cordon de flèches
 =================
@@ -3375,8 +3740,10 @@ Lorsque vous lancez ce sort, vous pouvez désigner toutes les créatures que vou
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, le nombre de munitions qui peuvent être affectées augmente de deux pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Costume d'Outremonde de Tasha
 =============================
@@ -3398,10 +3765,13 @@ Description non disponible (non OGL). Résumé :
 Immunisé aux dégâts de feu/poison ou radiants/nécrotiques, vitesse de vol de 12 m, +2 à la CA, armes magiques, 2 attaques.
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -3425,12 +3795,16 @@ En partant de la créature avec le plus petit nombre de points de vie, chaque cr
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, ajoutez 2d10 au lancer initial pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Coup au but
 ===========
@@ -3450,14 +3824,19 @@ niveau 0 - divination
 Vous tendez votre main et pointez un doigt en direction d'une cible à portée. Votre magie vous aide à trouver une petite faille dans les défenses de votre cible. Lors de votre prochain tour, vous obtenez un avantage pour votre premier jet d'attaque contre la cible, à condition que le sort ne soit pas déjà terminé.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Coup de tonnerre
 ================
@@ -3478,17 +3857,22 @@ Vous créez un bruit de tonnerre qui peut être entendu jusqu'à 30 mètres. Hor
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Couronne d'étoiles
 ==================
@@ -3510,12 +3894,16 @@ Description non disponible (non OGL). Résumé :
 Si l'attaque avec un sort touche, 7 atomes infligent chacun 4d12 dégâts radiants (+1 atome/niv).
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Couronne du dément
 ==================
@@ -3538,14 +3926,19 @@ La cible peut agir normalement au cours de son tour si vous ne choisissez aucune
 Lors de vos tours suivants, vous devez utiliser votre action pour maintenir le contrôle sur votre cible, sans quoi le sort prend fin. La cible peut également effectuer un jet de sauvegarde de Sagesse à la fin de chacun de ses tours. Si elle le réussit, le sort prend fin.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Couteau de glace
 ================
@@ -3566,13 +3959,16 @@ Vous créez un éclat de glace et le lancez vers une créature dans la portée d
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts de froid infligés augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Création
 ========
@@ -3621,10 +4017,13 @@ Utiliser un matériau créé à l'aide du sort _création_ en tant que composant
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, les arêtes du cube augmentent de 1,50 mètre pour chaque niveau d'emplacement au-delà du niveau 5.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Création d'homoncule
 ====================
@@ -3646,8 +4045,10 @@ Description non disponible (non OGL). Résumé :
 Crée un homunculus auquel le lanceur peut transférer ses points de vie jusqu'à son prochain repos long.
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Création de mort-vivant
 =======================
@@ -3670,12 +4071,16 @@ La créature est sous votre contrôle pour 24 heures. Passé ce délai, elle ces
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7, vous pouvez animer ou réaffirmer votre contrôle sur quatre goules. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8, vous pouvez animer ou réaffirmer votre contrôle sur cinq goules ou deux blêmes ou deux nécrophages. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 9, vous pouvez animer ou réaffirmer votre contrôle sur six goules ou trois blêmes ou trois nécrophages ou deux momies.  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Création de nourriture et d'eau
 ===============================
@@ -3695,10 +4100,13 @@ niveau 3 - invocation
 Vous créez 22,5 kg de nourriture et 120 litres d'eau sur le sol ou dans des contenants, à portée, ce qui est assez pour subvenir aux besoins de quinze humanoïdes ou de cinq montures pour 24 heures. La nourriture est fade mais nourrissante, et se gâte si elle n'est pas mangée au-delà de 24 heures. L'eau est claire et ne croupit pas.  
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Création ou destruction d'eau
 =============================
@@ -3721,11 +4129,13 @@ Soit vous créez, soit vous détruisez de l'eau.
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous créez ou détruisez 40 litres d'eau supplémentaires, ou augmentez la taille du cube de 1,50 mètre d'arête, pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Croissance d'épines
 ===================
@@ -3746,11 +4156,13 @@ Le sol, sur un rayon de 6 mètres centré sur un point dans la portée du sort, 
 La transformation du sol est camouflée afin de paraître naturelle. Toute créature qui ne voit pas la zone lorsque le sort est incanté doit réussir un jet de Sagesse (Perception) contre le DD de sauvegarde de votre sort, sans quoi elle ne reconnait pas la nature dangereuse du terrain avant d'y pénétrer.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Croissance végétale
 ===================
@@ -3773,13 +4185,16 @@ Vous pouvez désigner une ou plusieurs zones de dimension variable comme étant 
 Si vous lancez ce sort sur une période de 8 heures, vous enrichissez le sol. Toutes les plantes présentes dans une surface de 400 mètres de rayon centrée sur point dans la portée du sort sont enrichies pour 1 année. Les plantes produisent deux fois plus de nourriture lors de la récolte.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Danse irrésistible d'Otto
 =========================
@@ -3800,10 +4215,13 @@ Choisissez une créature visible et à portée. La cible entame une danse hilara
 La victime doit utiliser tout son mouvement pour danser tout en restant à la même place et à un désavantage à ses jets de sauvegarde de Dextérité et ses jets d'attaque. Les autres créatures ont un avantage à leur jet d'attaque contre la victime. Par une action, la victime peut tenter un jet de sauvegarde de Sagesse afin de regagner le contrôle d'elle-même. Sur un jet réussi, le sort prend fin.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Danse macabre
 =============
@@ -3825,10 +4243,13 @@ Description non disponible (non OGL). Résumé :
 Jusqu'à 5 corps de taille M ou P deviennent des zombies ou des squelettes sous le contrôle du lanceur (+2 corps/niv).
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Déblocage
 =========
@@ -3850,12 +4271,16 @@ Un objet cible qui est maintenu fermé par un verrou normal, ou qui est bloqué 
 Si vous choisissez un objet cible qui est tenu fermé par un sort _verrou magique_, ce sort est supprimé pendant 10 minutes, au cours desquelles l'objet cible peut être ouvert et fermé normalement. Quand vous lancez le sort, un coup fort et audible jusqu'à 90 mètres émane de l'objet cible.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Décharge occulte
 ================
@@ -3876,8 +4301,10 @@ Un rayon d'énergie crépitante zigzague jusqu'à une créature à portée. Effe
 Ce sort crée plus d'un rayon lorsque vous montez en niveau : deux rayons au niveau 5, trois rayons au niveau 11, et quatre rayons au niveau 17. Vous pouvez diriger les rayons sur une cible unique et les répartir entre différentes créatures. Effectuez un jet d'attaque séparé pour chaque rayon.  
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Dédale
 ======
@@ -3899,8 +4326,10 @@ La cible peut utiliser son action pour tenter de s'évader. Dans ce cas, elle ef
 Lorsque le sort prend fin, la cible réapparait dans l'espace qu'elle avait quitté. Si celui-ci est occupé, elle apparait dans l'espace inoccupé le plus proche.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Déguisement
 ===========
@@ -3922,12 +4351,16 @@ Les modifications apportées par ce sort ne résistent pas à une inspection phy
 Pour détecter que vous êtes déguisé, une créature peut utiliser son action pour inspecter votre apparence et elle doit réussir un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Délivrance des malédictions
 ===========================
@@ -3947,14 +4380,19 @@ niveau 3 - abjuration
 Au contact, toutes les malédictions affligeant une créature ou un objet prennent fin. Si l'objet est un objet magique maudit, la malédiction persiste, mais le sort met un terme au lien entre le propriétaire et l'objet de sorte qu'il peut être retiré ou qu'il peut s'en débarrasser.  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Déluge d'énergie négative
 =========================
@@ -3976,10 +4414,13 @@ Description non disponible (non OGL). Résumé :
 La cible doit réussir un JdS de Con. ou subir 5d12 dégâts nécrotiques. Morte, la cible devient un zombie.
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Demi-plan
 =========
@@ -4000,10 +4441,13 @@ Vous créez une porte d'ombres sur une surface plate et solide, que vous pouvez 
 Chaque fois que vous lancez ce sort, vous pouvez créer un nouveau demi-plan, ou faire en sorte que la porte d'ombre que vous faites apparaître soit connectée avec un demi-plan que vous avez précédemment créé grâce à ce sort. De plus, si vous connaissez la nature et le contenu d'un demi-plan créé, via ce sort, par une autre créature, vous pouvez plutôt faire en sorte que votre porte d'ombre soit connectée à ce demi-plan.  
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Désintégration
 ==============
@@ -4027,10 +4471,13 @@ Le sort désintègre automatiquement un objet non magique de taille G ou plus pe
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les dégâts sont augmentés de 3d6 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Détection de la magie
 =====================
@@ -4051,21 +4498,28 @@ Pour la durée du sort, vous percevez la présence de magie à 9 mètres ou moin
 Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 30 cm de pierre, 2,50 cm de métal ordinaire, une mince feuille de plomb ou 90 cm de bois ou de terre.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Détection des pensées
 =====================
@@ -4089,12 +4543,16 @@ Vous pouvez aussi employer ce sort pour détecter la présence de créatures pen
 Après avoir détecté la présence d'une créature de cette manière, vous pouvez lire ses pensées pour le reste de la durée du sort tel que décrit ci-dessus, même si vous ne pouvez plus la voir, mais à condition qu'elle reste dans la portée du sort.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Détection du mal et du bien
 ===========================
@@ -4115,10 +4573,13 @@ Pour la durée du sort, vous savez si une aberration, un céleste, un élémenta
 Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 30 cm de pierre, 2,50 cm de métal ordinaire, une mince feuille de plomb ou 90 cm de bois ou de terre.  
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Détection du poison et des maladies
 ===================================
@@ -4139,15 +4600,19 @@ Pour la durée du sort, vous pouvez percevoir la présence et localiser les pois
 Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 30 cm de pierre, 2,50 cm de métal ordinaire, une mince feuille de plomb ou 90 cm de bois ou de terre.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Discours captivant
 ==================
@@ -4167,10 +4632,13 @@ niveau 2 - enchantement
 Vous entrelacez des phrases distrayantes, ce qui force les créatures de votre choix, que vous pouvez voir et qui peuvent vous entendre, à effectuer un jet de sauvegarde de Sagesse. Toute créature qui ne peut pas être charmée réussit automatiquement son jet de sauvegarde, et si vous ou vos compagnons combattez une créature, celle-ci a un avantage à son jet de sauvegarde. Si une cible échoue son jet de sauvegarde, elle se voit affligée d'un désavantage à ses jets de Sagesse (Perception) effectués pour repérer une autre créature que vous, et ce jusqu'à ce que le sort prenne fin ou jusqu'à ce qu'elle ne puisse plus vous entendre. Ce sort prend fin si vous êtes incapable d'agir ou ne pouvez plus parler.  
 
 Barde
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Dispersion
 ==========
@@ -4192,12 +4660,16 @@ Description non disponible (non OGL). Résumé :
 Jusqu'à 5 créatures sont téléportées (JdS de Sag. si non consentantes) dans un rayon de 36 m.
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Disque flottant de Tenser
 =========================
@@ -4219,8 +4691,10 @@ Le disque est immobile tant que vous vous trouvez à 6 mètres de lui. Si vous v
 Si vous vous déplacez à plus de 30 mètres du disque (par exemple parce qu'il ne peut pas passer au-dessus d'un obstacle pour vous suivre), le sort prend fin.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Dissimulation
 =============
@@ -4242,8 +4716,10 @@ Si la cible est une créature, elle sombre dans un état d'animation suspendue. 
 Vous pouvez placer une condition pour que le sort prenne fin prématurément. Vous pouvez choisir ce que vous souhaitez comme condition, mais elle doit survenir ou être visible à 1,5 kilomètre ou moins de la cible. La condition pourrait être, par exemple, « Après 1 000 ans » ou « Lorsque la tarasque s'éveille ». Ce sort prend également fin si la cible subit des dégâts.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Dissipation de la magie
 =======================
@@ -4264,21 +4740,28 @@ Choisissez une créature, un objet ou un effet magique dans la portée du sort. 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les effets d'un sort actif sur la cible prennent automatiquement fin si le niveau du sort est égal ou inférieur au niveau de l'emplacement de sort utilisé.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Dissipation du mal et du bien
 =============================
@@ -4301,10 +4784,13 @@ Vous pouvez mettre fin prématurément au sort en utilisant l'une ou l'autre des
 **Renvoi**. Par une action, effectuez une attaque au corps à corps avec un sort contre un céleste, un élémentaire, une fée, un fiélon ou un mort-vivant à portée. Si votre attaque touche, vous tentez de renvoyer cette créature sur son plan d'origine. La créature doit réussir un jet de sauvegarde de Charisme sous peine d'être envoyée sur son plan natif (si elle ne s'y trouve pas actuellement). S'ils ne sont pas sur leur plan natif, les morts-vivants sont envoyés dans la Gisombre et les fées dans la Féerie.  
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Divination
 ==========
@@ -4326,12 +4812,16 @@ Le sort ne considère pas les circonstances qui pourraient changer l'issue de la
 Si vous incantez le sort plus d'une fois avant la fin de votre prochain repos long, il y a une probabilité cumulative de 25 % de recevoir une réponse aléatoire, et ce, pour chaque incantation après la première. Le MD fait ce jet en secret.  
 
 Clerc
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Magicien \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Doigt de mort
 =============
@@ -4352,12 +4842,16 @@ Vous envoyez de l'énergie négative à travers une créature visible dans la po
 Un humanoïde tué par ce sort se relève au début de votre prochain tour, comme un zombi que vous commandez en permanence et qui suit vos ordres verbaux au mieux de sa capacité.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Domination de bête
 ==================
@@ -4380,13 +4874,16 @@ Vous pouvez utiliser votre action pour prendre un contrôle total et précis de 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5, vous pouvez maintenir votre concentration sur ce sort pendant 10 minutes. Lorsque vous utilisez un emplacement de sort de niveau 6, vous pouvez maintenir votre concentration sur ce sort pendant 1 heure. Et en utilisant un emplacement de sort de niveau 7, vous pouvez maintenir votre concentration pendant 8 heures.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Domination de monstre
 =====================
@@ -4410,14 +4907,19 @@ Chaque fois que la cible subit des dégâts, elle tente un nouveau jet de sauveg
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 9, la durée du sort sous concentration augmente jusqu'à 8 heures.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Domination de personne
 ======================
@@ -4441,12 +4943,16 @@ Chaque fois que la cible subit des dégâts, elle tente un nouveau jet de sauveg
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6, la durée du sort sous concentration augmente jusqu'à 10 minutes. Avec un emplacement de sort de niveau 7, la durée du sort sous concentration augmente jusqu'à 1 heure. Avec un emplacement de sort de niveau 8 ou supérieur, la durée du sort sous concentration augmente jusqu'à 8 heures.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Don des langues
 ===============
@@ -4466,16 +4972,22 @@ niveau 3 - divination
 Ce sort confère à la créature que vous touchez la capacité de comprendre toutes les langues parlées qu'elle entend. De plus, lorsque la cible parle, toutes les créatures qui connaissent au moins un langage, et peuvent l'entendre, comprennent ce qu'elle dit.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Double illusoire
 ================
@@ -4497,12 +5009,16 @@ Vous pouvez utiliser une action pour déplacer votre double illusoire jusqu'à d
 Vous pouvez voir à travers ses yeux et entendre par ses oreilles comme si vous étiez là où il est. À chacun de vos tours, par une action bonus, vous pouvez retrouver vos sens et inversement. Tant que vous utilisez ses sens, vous êtes aveugle et sourd à votre environnement immédiat.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Dragon illusoire
 ================
@@ -4524,8 +5040,10 @@ Description non disponible (non OGL). Résumé :
 Les créatures qui voient le dragon illusoire de taille TG doivent réussir un JdS de Sag. ou être effrayées durant 1 min.
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Druidisme
 =========
@@ -4549,9 +5067,10 @@ En murmurant aux esprits de la nature, vous créez l'un des effets suivants, dan
 • Vous éteignez ou allumez instantanément une bougie, une torche ou un petit feu de camp.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Duel forcé
 ==========
@@ -4572,8 +5091,10 @@ Vous essayez de contraindre une créature d'engager un duel avec vous. Une créa
 Ce sort se termine si vous attaquez une autre créature, si vous lancez un sort qui cible une autre créature hostile que la cible, si une créature qui vous est alliée inflige des dégâts à la cible ou lance un sort sur la cible qui lui est nuisible, ou si vous terminez votre tour à plus de 9 mètres de la cible.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Éclair
 ======
@@ -4595,10 +5116,13 @@ L'éclair enflamme les objets inflammables qui ne sont pas portés ou transport�
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Éclair de chaos
 ===============
@@ -4659,8 +5183,10 @@ Si vous avez fait un double avec les d8, l'énergie chaotique rebondit depuis la
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, chaque cible reçoit 1d6 dégâts supplémentaires du type déterminé pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Ensorceleur
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Éclair traçant
 ==============
@@ -4681,8 +5207,10 @@ Un éclair silencieux fonce sur une créature de votre choix dans la portée du 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts infligés augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Éclat du soleil
 ===============
@@ -4704,15 +5232,19 @@ Une créature aveuglée par le sort fait un autre jet de sauvegarde de Constitut
 Ce sort dissipe dans sa zone toute ténèbres créées par un sort.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Clerc \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Embrasement
 ===========
@@ -4734,15 +5266,19 @@ Le feu de joie met le feu aux objets inflammables dans sa zone qui ne sont ni te
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Emprisonnement
 ==============
@@ -4775,10 +5311,13 @@ Un sort de _dissipation de la magie_ ne peut mettre un terme au sort que s'il es
 Vous ne pouvez utiliser une composante spéciale particulière que pour créer une seule prison à la fois. Si vous lancez le sort à nouveau en utilisant la même composante, la cible de la première incantation est immédiatement libérée de ses entraves.  
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Enchevêtrement
 ==============
@@ -4800,11 +5339,13 @@ Une créature prise dans la zone lorsque vous incantez le sort doit réussir un 
 Lorsque le sort prend fin, les plantes invoquées se fanent.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Énervation
 ==========
@@ -4826,12 +5367,16 @@ Description non disponible (non OGL). Résumé :
 La cible doit réussir un JdS de Dex. ou subir 4d8 dégâts nécrotiques à chaque round (+1d8/niv).
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Ennemi subconscient
 ===================
@@ -4851,10 +5396,13 @@ niveau 9 - illusion
 Puisant dans les peurs les plus profondes d'un groupe de créatures, vous créez des créatures illusoires dans leur esprit, qu'elles sont les seules à voir. Chaque créature se trouvant dans une sphère de 9 mètres de rayon centrée sur un point de votre choix et à portée, doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, la créature devient effrayée pour toute la durée du sort. L'illusion fait appel aux peurs les plus profondes de la créature, donnant vie à ses pires cauchemars, telle une menace implacable. À la fin de chacun de ses tours, la créature affectée doit réussir un jet de sauvegarde de Sagesse ou subir 4d10 dégâts psychiques. En cas de réussite, le sort prend fin pour cette créature.  
 
 Magicien
+{: .label .label-green }
 
 Occultiste \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Ennemis à foison
 ================
@@ -4875,14 +5423,19 @@ Vous atteignez l'esprit d'une créature que vous pouvez voir et la forcez à eff
 À chaque fois que la créature affectée choisit une autre créature comme cible, elle doit choisir la cible au hasard parmi les créatures qu'elle peut voir à portée de l'attaque, du sort ou de toute autre capacité qu'elle utilise. Si un ennemi provoque une attaque d'opportunité de la part de la créature affectée, la créature doit effectuer cette attaque si elle en est capable.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Entraves de givre
 =================
@@ -4904,10 +5457,13 @@ Description non disponible (non OGL). Résumé :
 Les créatures dans un cône de 9 m doivent réussir un JdS de Con. ou subir 3d8 dégâts de froid et une vitesse de 0 (dégâts/niv).
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Fizban´s Treasury of Dragons
+{: .label .label-red }
 
 Épée de Mordenkainen
 ====================
@@ -4928,10 +5484,13 @@ Vous créez un plan de force en forme d'épée qui flotte dans l'air, dans la po
 Lorsque l'épée fait son apparition, vous faites une attaque au corps à corps avec un sort contre une cible de votre choix à 1,50 mètre ou moins de l'épée. Si elle touche, la cible reçoit 3d10 dégâts de force. Jusqu'à la fin du sort, vous pouvez utiliser une action bonus à chacun de vos tours pour déplacer l'épée jusqu'à 6 mètres vers un endroit que vous voyez et répéter cette attaque contre la même cible ou une autre.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Épine mentale
 =============
@@ -4952,12 +5511,16 @@ Vous atteignez l'esprit d'une créature que vous pouvez voir à portée. La cibl
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 \[E\] pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Éruption de lames
 =================
@@ -4978,10 +5541,13 @@ Vous créez temporairement un cercle de lames spectrales autour de vous. Toutes 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez les niveaux 5 (2d6), 11 (3d6) et 17 (4d6).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -5004,13 +5570,16 @@ Choisissez un point au sol que vous pouvez voir dans la portée du sort. Une ér
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d12 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Espièglerie de Nathair
 ======================
@@ -5032,12 +5601,16 @@ Description non disponible (non OGL). Résumé :
 Remplit un cube de 6 m d'un effet magique. L'effet aléatoire peut être charmé, aveuglé, incapable d'agir ou terrain difficile.
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Fizban´s Treasury of Dragons
+{: .label .label-red }
 
 Esprit faible
 =============
@@ -5060,15 +5633,19 @@ En cas d'échec, les valeurs de Charisme et d'Intelligence de la créature passe
 Ce sort peut également être dissipé grâce à un sort de _restauration supérieure, guérison_ ou _souhait_.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Esprit guérisseur
 =================
@@ -5091,11 +5668,13 @@ Par une action bonus à votre tour, vous pouvez déplacer l'esprit jusqu'à 9 m�
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les soins augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Esprit impénétrable
 ===================
@@ -5115,10 +5694,13 @@ niveau 8 - abjuration
 Jusqu'à ce que le sort prenne fin, une créature consentante que vous touchez est immunisée contre les dégâts psychiques, tout effet qui permettrait de connaître ses émotions ou de lire ses pensées, les sorts de divination et l'état charmé. Le sort déjoue même le sort _souhait_ et les sorts ou effets aux pouvoirs similaires utilisés pour affecter l'esprit de la cible ou obtenir des informations au sujet de la cible.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Esprits gardiens
 ================
@@ -5140,8 +5722,10 @@ Lorsque vous lancez ce sort, vous pouvez désigner des créatures que vous pouve
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Éveil
 =====
@@ -5163,11 +5747,13 @@ La cible obtient une valeur d'Intelligence égale à 10. La cible gagne égaleme
 Vous charmez la bête ou la plante éveillée pendant 30 jours ou jusqu'à ce que vous, ou vos compagnons, nuisiez à la cible. Lorsque le charme prend fin, la créature éveillée choisit si elle reste amicale envers vous, en fonction de la manière dont vous l'avez traité lorsqu'elle était charmée.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Fabrication
 ===========
@@ -5189,8 +5775,10 @@ Choisissez des matériaux bruts que vous pouvez voir et à portée. Vous pouvez 
 Les créatures et les objets magiques ne peuvent pas être créés ou transmutés grâce à ce sort. Vous ne pouvez pas non plus utiliser ce sort pour créer des objets qui nécessitent d'ordinaire un haut niveau d'artisanat, comme des bijoux, des armes, des lunettes, ou des armures, à moins que vous n'ayez la maîtrise du type d'outils d'artisans en rapport avec l'objet que vous comptez fabriquer.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Façonnage de l'eau
 ==================
@@ -5215,13 +5803,16 @@ Choisissez un cube d'eau visible de 1,50 mètre d'arête dans la portée du sort
 Si vous lancez ce sort plusieurs fois, vous ne pouvez avoir que deux de ces effets non-instantanés actifs à la fois, et vous pouvez en dissiper un en une action.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Façonnage de la pierre
 ======================
@@ -5241,13 +5832,16 @@ niveau 4 - transmutation
 Vous touchez un objet en pierre de taille M ou P ou un bloc de pierre d'un maximum de 1,50 mètre d'arête et vous lui donnez n'importe quelle forme qui vous convient. Par exemple, vous pouvez transformer un gros rocher en arme, statue ou coffre, ou réaliser un petit passage à travers un mur, tant que le mur fait moins de 1,50 mètre d'épaisseur. Vous pouvez aussi façonner une porte de pierre et son encadrement pour pouvoir la fermer. L'objet que vous créez peut avoir un maximum de deux charnières et un verrou mais des détails mécaniques plus fins sont impossibles.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Façonnage de la terre
 =====================
@@ -5271,13 +5865,16 @@ Vous choisissez une section de terre ou de pierre qui ne dépasse pas un cube de
 Si vous lancez ce sort plusieurs fois, vous pouvez avoir jusqu'à deux de ces effets non-instantanés actifs à la fois, et vous pouvez en dissiper un en une action.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Faveur divine
 =============
@@ -5297,8 +5894,10 @@ niveau 1 - évocation
 Votre prière vous donne de la puissance dans un rayonnement divin. Jusqu'à ce que le sort se termine, vos attaques avec une arme infligent 1d4 dégâts radiants supplémentaires lorsqu'elles touchent.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Ferrage foudroyant
 ==================
@@ -5319,10 +5918,13 @@ Vous créez une décharge d'énergie foudroyante qui frappe une créature de vot
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez les niveaux 5 (2d8), 11 (3d8) et 17 (4d8).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -5345,13 +5947,16 @@ Vous produisez un grand festin, incluant des breuvages et des mets magnifiques. 
 Une créature qui partage le festin reçoit de nombreux bénéfices. La créature est guérie des maladies et des empoisonnements. Elle devient immunisée aux poisons, ne peut être effrayée et tous ses jets de sauvegarde de Sagesse ont un avantage. Son maximum de points de vie est aussi augmenté de 2d10 et elle gagne la même quantité de points de vie. Ces bénéfices persistent pendant 24 heures.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Feuille morte
 =============
@@ -5371,12 +5976,16 @@ niveau 1 - transmutation
 Choisissez jusqu'à cinq créatures en chute libre dans la portée du sort. Le taux de descente d'une créature en chute libre est ramené à 18 mètres par round jusqu'à la fin du sort. Si la créature atterrit avant la fin du sort, elle ne subit aucun dégât de chute et elle retombe sur ses pieds. Le sort prend alors fin pour cette créature.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Flambée d'Aganazzar
 ===================
@@ -5397,10 +6006,13 @@ Une ligne de flammes rugissantes de 9 mètres de long et 1,50 mètre de large é
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Flamme éternelle
 ================
@@ -5420,12 +6032,16 @@ niveau 2 - évocation
 Une flamme, d'une luminosité équivalente à celle d'une torche, fait éruption depuis un objet que vous touchez. L'effet ressemble à une flamme régulière, mais il ne produit aucune chaleur et ne nécessite pas d'oxygène. Une flamme éternelle peut être recouverte ou dissimulée, mais elle ne peut pas être étouffée ou éteinte.  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Flamme sacrée
 =============
@@ -5446,8 +6062,10 @@ Un rayonnement semblable à des flammes descend sur une créature que vous pouve
 Les dégâts du sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8), et le niveau 17 (4d8).  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Flammes
 =======
@@ -5469,9 +6087,10 @@ Vous pouvez également attaquer avec la flamme, mettant ainsi un terme au sort. 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Fléau
 =====
@@ -5492,10 +6111,13 @@ Jusqu'à 3 créatures de votre choix, que vous pouvez voir et qui sont à porté
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Fléau d'insectes
 ================
@@ -5517,13 +6139,16 @@ Lorsque la sphère apparait, chaque créature s'y trouvant doit effectuer un jet
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 5.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Fléau élémentaire
 =================
@@ -5544,13 +6169,16 @@ Choisissez une créature que vous pouvez voir dans la portée, et choisissez l'u
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 4. Les créatures doivent être à 9 mètres les unes des autres lorsque vous les ciblez.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Flèche acide de Melf
 ====================
@@ -5571,8 +6199,10 @@ Une flèche verte scintillante jaillit en direction d'une cible à portée et l'
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts (initiaux et à retardement) sont augmentés de 1d4 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Flèche de foudre
 ================
@@ -5595,8 +6225,10 @@ La munition, ou l'arme, retrouve ensuite sa forme habituelle.
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts de chaque effet du sort augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Flèches enflammées
 ==================
@@ -5617,15 +6249,19 @@ Vous touchez un carquois contenant des flèches ou des carreaux. Quand une cible
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le nombre de munitions qui peut affecter ce sort augmente de deux pour chaque emplacement supérieur au niveau 3.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Flétrissement
 =============
@@ -5647,15 +6283,19 @@ Si vous ciblez une plante non magique qui n'est pas non plus une créature, comm
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts sont augmentés de 1d8 pour chaque niveau d'emplacement au-delà du niveau 4.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Flétrissure épouvantable d'Abi-Dalzim
 =====================================
@@ -5676,10 +6316,13 @@ Vous absorbez l'humidité de chaque créature dans un cube de 9 mètres d'arête
 Les plantes non magiques dans la zone qui ne sont pas des créatures, comme les arbres et les arbustes, se flétrissent et meurent instantanément.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Flou
 ====
@@ -5699,10 +6342,13 @@ niveau 2 - illusion
 Votre corps devient flou, changeant et ondulant pour tous ceux qui peuvent vous voir. Tant que le sort dure, toutes les créatures ont un désavantage au jet d'attaque dirigé contre vous. Un attaquant est immunisé contre cet effet s'il n'utilise pas la vue, comme avec le combat aveugle, ou s'il peut voir à travers les illusions, comme avec une vision véritable.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Force fantasmagorique
 =====================
@@ -5726,10 +6372,13 @@ Tant que la cible est sous l'effet du sort, elle considère le fantasme comme r�
 Une cible affectée est tellement persuadée de la réalité du fantasme que l'illusion peut même lui faire subir des dégâts. Un fantasme façonné à l'image d'une créature peut attaquer la cible. De la même manière, un fantasme apparaissant comme du feu, un bassin d'acide ou du magma peut brûler la cible. À chaque round, lors de votre tour, le fantasme peut infliger 1d6 dégâts psychiques à la cible si elle se trouve dans l'espace du fantasme ou à 1,50 mètre ou moins du fantasme, dans le cas où l'illusion est celle d'une créature ou un danger qui pourrait logiquement infliger des dégâts, comme une attaque. La cible perçoit les dégâts comme étant du type approprié à l'illusion.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -5756,16 +6405,22 @@ Ce sort n'a pas d'effet si vous l'incantez alors que vous êtes sur le plan éth
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou supérieur, vous pouvez cibler jusqu'à trois créatures consentantes (vous y compris) pour chaque niveau d'emplacement au-delà du niveau 7. Les créatures doivent être dans un rayon de 3 mètres autour de vous lorsque vous lancez le sort.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Forme gazeuse
 =============
@@ -5787,12 +6442,16 @@ Alors qu'elle est dans cet état, la cible ne peut se déplacer que par le vol, 
 Alors qu'elle est dans l'état d'un nuage brumeux, la cible ne peut parler ou manipuler des objets. Les objets qu'elle transportait ou tenait ne peuvent être lâchés ou utilisés de quelconque façon. La cible ne peut attaquer ou lancer des sorts.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Formes animales
 ===============
@@ -5815,9 +6474,10 @@ Les statistiques d'une cible sont remplacées par les statistiques de la bête c
 L'équipement de la cible fusionne avec sa nouvelle forme. La cible ne peut pas activer, manipuler, ou bénéficier de quelque manière que ce soit de son équipement.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Forteresse d'intellect
 ======================
@@ -5838,12 +6498,16 @@ Pour la durée du sort, vous ou une créature consentante que vous pouvez voir �
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement supérieur au niveau 3. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -5867,8 +6531,10 @@ Description non disponible (non OGL). Résumé :
 Fait apparaitre une forteresse de pierre sur une surface de 36 x 36 m pour 7 jours.
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Fou rire de Tasha
 =================
@@ -5889,10 +6555,13 @@ Une créature de votre choix, que vous pouvez voir et à portée, a l'impression
 À la fin de chacun de ses tours, et à chaque fois qu'elle subit des dégâts, la cible peut effectuer un nouveau jet de sauvegarde de Sagesse. La cible a un avantage à son jet de sauvegarde s'il est déclenché par des dégâts. En cas de réussite, le sort prend fin.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Fouet épineux
 =============
@@ -5913,7 +6582,7 @@ Vous créez une longue et épaisse liane ressemblant à de la vigne et recouvert
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -5936,8 +6605,10 @@ Vous fouettez psychiquement l'esprit d'une créature que vous pouvez voir à por
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement supérieur au niveau 2. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -5959,12 +6630,16 @@ niveau 2 - invocation
 Une brume argentée vous enveloppe puis vous vous téléportez jusqu'à 9 mètres dans un espace inoccupé que vous pouvez voir.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Foulée d'Ashardalon
 ===================
@@ -5986,12 +6661,16 @@ Description non disponible (non OGL). Résumé :
 Le lanceur gagne une vitesse de +6 m et inflige 1d6 dégâts de feu à 1,50 m lors de son déplacement (vitesse et dégâts/niv).
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Fizban´s Treasury of Dragons
+{: .label .label-red }
 
 Foulée dimensionnelle
 =====================
@@ -6013,12 +6692,16 @@ Description non disponible (non OGL). Résumé :
 Téléporte le lanceur à 18 m à chaque round par une action bonus.
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Foulée tonitruante
 ==================
@@ -6039,12 +6722,16 @@ Vous vous téléportez dans un espace inoccupé que vous pouvez voir à portée.
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Fracassement
 ============
@@ -6066,14 +6753,19 @@ Un objet non magique qui n'est pas porté ou transporté subit aussi les dégât
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts du sort augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Frappe du vent d'acier
 ======================
@@ -6095,10 +6787,13 @@ Description non disponible (non OGL). Résumé :
 Si l'attaque avec un sort touche, inflige 6d10 dégâts de force à 5 créatures, puis le lanceur se téléporte.
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Frappe du zéphyr
 ================
@@ -6119,8 +6814,10 @@ Vous vous déplacez comme le vent. Tant que le sort n'est pas terminé, votre mo
 Une fois avant que le sort ne se termine, vous pouvez vous donner un avantage à un jet d'attaque avec une arme à votre tour. Cette attaque inflige 1d8 dégâts de force supplémentaires si elle touche. Que vous touchiez ou non, votre vitesse augmente de 9 mètres jusqu'à la fin de ce tour.  
 
 Rôdeur
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Frappe piégeuse
 ===============
@@ -6142,8 +6839,10 @@ Tant qu'elle est entravée par ce sort, la cible subit 1d6 dégâts perforants a
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Frayeur
 =======
@@ -6164,10 +6863,13 @@ Vous éveillez le sens de la mortalité chez une créature que vous pouvez voir 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.  
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Fureur de la nature
 ===================
@@ -6189,11 +6891,13 @@ Description non disponible (non OGL). Résumé :
 Anime arbres, roches et plantes dans un cube de 18 x 18 x 18 m.
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Fusion dans la pierre
 =====================
@@ -6215,13 +6919,16 @@ Tant que vous êtes fusionné avec la pierre, vous ne pouvez pas voir ce qui se 
 De petits dégâts physiques sur la pierre ne vous affectent pas, mais sa destruction partielle ou un changement de sa forme (à condition que vous ne puissiez plus être contenu dedans) vous expulse de la pierre et vous inflige 6d6 dégâts contondants. La destruction complète de la pierre (ou sa transmutation en une autre matière) vous expulse et vous inflige 50 dégâts contondants. Si vous êtes expulsé, vous tombez à terre dans l'espace inoccupé le plus proche de votre point de fusion dans la pierre.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Gardien de la foi
 =================
@@ -6242,8 +6949,10 @@ Un gardien spectral de taille G apparait et flotte au-dessus d'un espace de votr
 Toute créature vous étant hostile qui se déplace pour la première fois lors de son tour dans un espace à 3 mètres ou moins du gardien doit effectuer un jet de sauvegarde de Dextérité, subissant 20 dégâts radiants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le gardien se volatilise après avoir infligé un total de 60 dégâts.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Gardien de la nature
 ====================
@@ -6273,11 +6982,13 @@ Un esprit de la nature répond à votre appel et vous transforme en un puissant 
 • Si vous êtes sur le sol, le sol dans un rayon de 4,50 mètres autour de vous est un terrain difficile pour vos ennemis.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Gelure
 ======
@@ -6298,15 +7009,19 @@ Vous faîtes se former une couche de gel engourdissante sur une créature que vo
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Glas
 ====
@@ -6327,12 +7042,16 @@ Vous pointez une créature que vous pouvez voir à portée, et le son douloureux
 Les dégâts du sort augmentent de un dé lorsque vous atteignez le niveau 5 (2d8 ou 2d12), le niveau 11 (3d8 ou 3d12) et le niveau 17 (4d8 ou 4d12).  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Globe d'invulnérabilité
 =======================
@@ -6354,10 +7073,13 @@ Tout sort de niveau 5 ou moins incanté à l'extérieur de la barrière ne peut 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, la barrière bloque les sorts d'un niveau supérieur pour chaque niveau d'emplacement au-delà du niveau 6.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Glyphe de protection
 ====================
@@ -6384,12 +7106,16 @@ Lorsque vous inscrivez le glyphe, faites un choix entre les _runes explosives_ o
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts des runes explosives augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3. Si vous créez un _sort glyphique_, vous pouvez emmagasiner un sort dont le niveau est équivalent ou moindre à l'emplacement de sort utilisé pour le _glyphe de protection_.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Gourdin magique
 ===============
@@ -6409,9 +7135,10 @@ niveau 0 - transmutation
 Le bois du bâton ou du gourdin que vous tenez est altéré par les pouvoirs de la nature. Pour la durée du sort, vous pouvez utiliser votre caractéristique d'incantation plutôt que votre Force pour les jets d'attaque au corps à corps et de dégâts avec cette arme, et les dégâts de l'arme deviennent des d8. De plus, l'arme devient une arme magique, si ce n'est pas déjà le cas. Ce sort se termine si vous le lancez de nouveau ou si vous lâchez l'arme enchantée.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Graisse
 =======
@@ -6432,10 +7159,13 @@ Une graisse visqueuse recouvre le sol sur un carré de 3 mètres de côté centr
 Lorsque la graisse apparaît, chaque créature se tenant debout dans la zone doit réussir un jet de sauvegarde de Dextérité sous peine de tomber à terre. Une créature qui entre dans la zone ou y termine son tour doit également réussir un jet de sauvegarde de Dextérité si elle ne veut pas tomber à terre.  
 
 Magicien
+{: .label .label-green }
 
 Ensorceleur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Grande foulée
 =============
@@ -6456,15 +7186,19 @@ Vous touchez une créature. La vitesse de la cible augmente de 3 mètres jusqu'�
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Grêle d'épines
 ==============
@@ -6485,8 +7219,10 @@ La prochaine fois que vous touchez une créature lors d'une attaque à distance 
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 1 (jusqu'à un maximum de 6d10).  
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Guérison
 ========
@@ -6507,11 +7243,13 @@ Choisissez une créature que vous voyez dans la portée du sort. Une décharge d
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, la quantité de points de vie récupérés est augmentée de 10 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Guérison de groupe
 ==================
@@ -6531,8 +7269,10 @@ niveau 9 - évocation
 Un flot d'énergie curative émane de votre personne vers les créatures blessées qui vous entourent. Vous redonnez jusqu'à 700 points de vie, répartis à votre guise entre les créatures de votre choix qui sont visibles dans la portée du sort. Les créatures soignées par ce sort sont aussi guéries de toutes maladies et des effets qui les rendent sourds ou aveugles. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Hâte
 ====
@@ -6553,10 +7293,13 @@ Choisissez une créature consentante visible dans la portée du sort. Jusqu'à l
 Lorsque le sort prend fin, la cible ne peut plus bouger ou agir jusqu'à la fin de son prochain tour, car une vague de léthargie la submerge.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Héroïsme
 ========
@@ -6577,10 +7320,13 @@ Une créature consentante que vous touchez est submergée par le courage. Jusqu'
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Barde
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Hurlement psychique
 ===================
@@ -6602,14 +7348,19 @@ Description non disponible (non OGL). Résumé :
 Jusqu'à 10 créatures doivent réussir un JdS d'Int. ou subir 14d6 dégâts psychiques.
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Identification
 ==============
@@ -6630,10 +7381,13 @@ Vous choisissez un objet que vous devez toucher durant toute la durée du sort. 
 Si vous touchez une créature durant toute la durée du sort, au lieu d'un objet, vous apprenez quels sorts l'affectent actuellement, le cas échéant.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Illusion mineure
 ================
@@ -6656,14 +7410,19 @@ Si l'illusion est une image ou un objet (comme une chaise, des traces de pas bou
 Si une créature utilise une action pour examiner le son ou l'image, elle peut comprendre qu'il s'agit d'une illusion grâce à un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort. Si une créature discerne l'illusion pour ce qu'elle est, l'illusion s'évanouit pour la créature.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Illusion programmée
 ===================
@@ -6686,10 +7445,13 @@ La condition de déclenchement peut être générale ou aussi détaillée que vo
 Les interactions physiques avec l'image révèlent qu'il s'agit d'une illusion, car les choses passent au travers. Une créature qui utilise son action pour examiner l'image peut déterminer qu'il s'agit d'une illusion en réussissant un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort. Si une créature découvre le caractère illusoire de l'image, cette créature peut voir au travers de l'image, et tout son produit par l'illusion lui semble faux et sonne creux.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Image majeure
 =============
@@ -6712,14 +7474,19 @@ Une interaction physique avec l'image révèle sa nature illusoire puisqu'on peu
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, le sort persiste jusqu'au moment de sa dissipation, sans requérir de concentration.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Image miroir
 ============
@@ -6743,14 +7510,19 @@ La CA d'un duplicata est égale à 10 + votre modificateur de Dextérité. Si un
 Une créature n'est pas affectée par ce sort si elle ne peut pas voir, si elle se fie sur un autre sens que la vision, comme la vision aveugle, ou si elle peut percevoir les illusions comme étant fausses, comme avec vision suprême.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Image silencieuse
 =================
@@ -6772,12 +7544,16 @@ Vous pouvez utiliser votre action pour déplacer l'image à n'importe quel endro
 Une interaction physique avec l'image révèle qu'il s'agit d'une illusion, parce que les choses peuvent passer au travers. Une créature qui utilise son action pour examiner l'image peut déterminer qu'il s'agit en fait d'une illusion en réussissant un jet d'Intelligence (Investigation) contre votre DD du jet de sauvegarde de ce sort. Si une créature voit l'illusion pour ce qu'elle est, la créature peut voir à travers l'image.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Immobilisation de monstre
 =========================
@@ -6798,14 +7574,19 @@ Choisissez une créature que vous pouvez voir et à portée. La cible doit réus
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 5. Les créatures doivent toutes être à 9 mètres les unes des autres quand vous les ciblez.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Immobilisation de personne
 ==========================
@@ -6826,19 +7607,25 @@ Choisissez un humanoïde visible dans la portée du sort. La cible doit réussir
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler un humanoïde supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2. Les humanoïdes doivent être situés à 9 mètres ou moins les uns des autres.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Immolation
 ==========
@@ -6859,10 +7646,13 @@ Les flammes enveloppent une créature visible dans la portée du sort. La cible 
 Si les dégâts de ce sort tuent une cible, celle-ci est transformée en cendre.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Infestation
 ===========
@@ -6883,15 +7673,19 @@ Vous faites apparaître momentanément sur une créature que vous pouvez voir à
 Les dégâts du sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Injonction
 ==========
@@ -6918,12 +7712,16 @@ Des injonctions typiques et leurs effets suivent. Vous pouvez émettre un ordre 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez affecter une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1. Les créatures que vous ciblez doivent toutes être dans un rayon de 9 mètres.  
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Insecte géant
 =============
@@ -6946,9 +7744,10 @@ Une créature reste à sa taille géante pour la durée du sort, jusqu'à ce qu'
 Le MD peut vous autoriser à choisir des cibles différentes de celles présentées ci-dessus. Par exemple, si vous transformez une abeille, sa version géante pourrait avoir les mêmes statistiques que la guêpe géante.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Interdiction
 ============
@@ -6971,8 +7770,10 @@ Lorsque vous lancez ce sort, vous pouvez désigner un mot de passe. Une créatur
 La zone affectée par ce sort ne peut pas se superposer à une zone créée par un autre sort d'_interdiction_. Si vous lancez _interdiction_ chaque jour pendant 30 jours sur la même zone, le sort durera jusqu'à ce qu'il soit dissipé et les composantes matérielles seront consommées lors de la dernière incantation.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Inversion de la gravité
 =======================
@@ -6994,13 +7795,16 @@ Si les créatures et objets rencontrent dans leur chute des objets solides (comm
 Lorsque le sort prend fin, les objets et créatures affectées tombent au sol.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Invisibilité
 ============
@@ -7021,14 +7825,19 @@ Une créature que vous touchez devient invisible jusqu'à la fin du sort. Tout c
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Invisibilité supérieure
 =======================
@@ -7048,12 +7857,16 @@ niveau 4 - illusion
 Vous ou une créature que vous touchez devenez invisible jusqu'à la fin de la durée du sort. Tout ce que porte ou transporte la cible est invisible tant que ça demeure sur sa personne.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Invocation d'animaux
 ====================
@@ -7079,11 +7892,13 @@ Chaque bête est également considérée comme une fée, et elle disparaît lors
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant certains niveaux d'emplacement de sort, vous choisissez l'option d'invocation ci-dessus, et plus de créatures apparaissent : deux fois plus de créatures invoquées avec un emplacement de sort de niveau 5, trois fois plus avec un emplacement de sort de niveau 7, et quatre fois plus avec un emplacement de sort de niveau 9.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Invocation d'élémentaire
 ========================
@@ -7105,11 +7920,13 @@ Si votre concentration est brisée, l'élémentaire ne disparaît pas, mais vous
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, le FP de l'élémentaire invoqué augmente de 1 pour chaque niveau d'emplacement au-delà du niveau 5.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Invocation d'élémentaires mineurs
 =================================
@@ -7136,11 +7953,13 @@ Les créatures invoquées ont une attitude amicale envers vous et vos compagnons
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant certains niveaux d'emplacements de sorts supérieurs, vous choisissez l'une des options d'invocations ci-dessus, et un nombre plus important de créatures apparaîtra ; deux fois plus avec un emplacement de sort de niveau 6 et trois fois plus avec un emplacement de sort de niveau 8.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Invocation d'êtres sylvestres
 =============================
@@ -7167,11 +7986,13 @@ Les créatures invoquées ont une attitude amicale envers vous et vos compagnons
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant des niveaux d'emplacements de sorts supérieurs, vous choisissez l'une des options d'invocation ci-dessus, et un nombre plus important de créatures apparaîtra ; deux fois plus avec un emplacement de sort de niveau 6 et trois fois plus avec un emplacement de sort de niveau 8.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Invocation de céleste
 =====================
@@ -7193,8 +8014,10 @@ Le céleste a une attitude amicale envers vous et vos compagnons pour la durée 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 9, vous invoquez un céleste de FP 5 ou inférieur.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Invocation de fée
 =================
@@ -7217,11 +8040,13 @@ Si votre concentration est interrompue, la fée ne disparaît pas. Au lieu de ce
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, le FP augmente de 1 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Invocation de projectiles
 =========================
@@ -7241,8 +8066,10 @@ niveau 3 - invocation
 Vous lancez une arme non magique ou tirez une munition non magique en l'air pour créer un cône d'armes identiques propulsées vers l'avant, qui disparaissent une fois l'autre course terminée. Chaque créature dans un cône de 18 mètres doit effectuer un jet de sauvegarde de Dextérité, subissant 3d8 dégâts en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le type de dégâts est le même que celui de l'arme ou de la munition utilisée comme composante.  
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Invocation de volée
 ===================
@@ -7262,8 +8089,10 @@ niveau 5 - invocation
 Vous tirez une munition non magique avec une arme à distance ou lancez une arme non magique dans les airs et choisissez un point à portée. Des centaines de reproductions de cette munition ou de cette arme tombent en une véritable pluie de projectiles puis disparaissent. Chaque créature, présente dans un cylindre haut de 6 mètres et d'un rayon de 12 mètres centré au point que vous avez choisi, doit effectuer un jet de sauvegarde de Dextérité. Une créature subit 8d8 dégâts en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le type de dégâts infligés est le même que celui de la munition ou de l'arme.  
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Invulnérabilité
 ===============
@@ -7285,8 +8114,10 @@ Description non disponible (non OGL). Résumé :
 Le lanceur gagne l'immunité à tous les dégàts.
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Lame aux flammes vertes
 =======================
@@ -7307,10 +8138,13 @@ Vous brandissez l'arme utilisée pour l'incantation du sort et effectuez une att
 Les dégâts de ce sort augmentent suivant votre niveau. Au niveau 5, l'attaque de corps à corps inflige 1d8 dégâts de feu supplémentaires à la première cible, et les dégâts de feu subis par la seconde cible atteignent 1d8 + le modificateur de votre caractéristique d'incantation. Les deux jets de dégâts augmentent chacun de 1d8 supplémentaire aux niveaux 11 (2d8 et 2d8) et 17 (3d8 et 3d8).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -7333,12 +8167,16 @@ Vous tissez ensemble des fils d'ombre pour créer une épée de ténèbres solid
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou 4, les dégâts passent à 3d8. Lorsque vous le lancez en utilisant un emplacement de sort de niveau 5 ou 6, les dégâts passent à 4d8. Lorsque vous le lancez en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts passent à 5d8.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Lame de feu
 ===========
@@ -7361,11 +8199,13 @@ La lame enflammée émet une lumière vive dans un rayon de 3 mètres et une lum
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 tous les 2 niveaux d'emplacement au-dessus du niveau 2.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Lame du désastre
 ================
@@ -7387,10 +8227,13 @@ Description non disponible (non OGL). Résumé :
 Réalise 2 attaques de sort au CàC et inflige 4d12 dégâts de force. Critique (18-20) inflige 12d12. +2 attaques via action bonus.
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -7413,10 +8256,13 @@ Vous brandissez l'arme utilisée pour l'incantation du sort et effectuez une att
 Les dégâts de ce sort augmentent suivant votre niveau. Au niveau 5, l'attaque au corps à corps inflige 1d8 dégâts de tonnerre supplémentaires à la cible, et les dégâts que la cible subit si elle se déplace passent à 2d8. Les deux jets de dégâts augmentent ensuite de 1d8 aux niveaux 11 (2d8 et 3d8) et 17 (3d8 et 4d8).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -7440,14 +8286,19 @@ Description non disponible (non OGL). Résumé :
 La cible doit réussir un JdS d'Int. ou subir 7d6 dégâts psychiques et être incapable d'agir (dégâts/niv).
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Fizban´s Treasury of Dragons
+{: .label .label-red }
 
 Lenteur
 =======
@@ -7470,12 +8321,16 @@ Si la créature tente de lancer un sort qui a un temps d'incantation d'une actio
 Une créature affectée par ce sort effectue un jet de sauvegarde de Sagesse à la fin de chacun de ses tours. En cas de réussite, les effets du sort prennent fin.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Lévitation
 ==========
@@ -7496,10 +8351,13 @@ Une créature ou un objet non tenu de votre choix, visible et à portée du sort
 La cible peut se déplacer seulement si elle se propulse ou se tire à l'aide d'un objet ou d'une surface à sa portée (comme un mur ou un plafond). Elle peut ainsi se déplacer comme si elle grimpait. Vous pouvez changer l'altitude jusqu'à 6 mètres dans une direction ou une autre à votre tour. Si vous êtes la cible, vous pouvez vous déplacer vers le haut ou vers le bas lors de votre mouvement. Autrement, vous pouvez utiliser votre action pour déplacer la cible, qui doit demeurer dans la portée du sort. Lorsque le sort prend fin, la cible rejoint doucement le sol si elle est toujours en suspension.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Liane avide
 ===========
@@ -7520,11 +8378,13 @@ Vous invoquez une liane qui surgit du sol dans un emplacement inoccupé de votre
 Jusqu'à ce que le sort prenne fin, vous pouvez diriger la liane pour qu'elle fouette la même créature, ou une autre créature, par une action bonus à chacun de vos tours.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Libellé aérien
 ==============
@@ -7544,13 +8404,16 @@ niveau 2 - transmutation (rituel)
 Vous faites apparaitre jusqu'à dix mots dans une partie du ciel que vous pouvez voir. Les mots semblent être faits de nuage et restent en place pour la durée du sort. Les mots se dissipent quand le sort se termine. Un vent fort peut disperser les nuages et mettre fin au sort prématurément.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Liberté de mouvement
 ====================
@@ -7571,15 +8434,19 @@ Vous touchez une créature consentante. Pour la durée du sort, les mouvements d
 La cible peut aussi dépenser 1,50 mètre de son mouvement pour se dégager d'une contrainte non magique, comme des menottes ou l'étreinte d'une créature. Enfin, l'environnement aquatique n'impose aucune pénalité sur les mouvements et les attaques de la cible.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Lien avec une bête
 ==================
@@ -7599,11 +8466,13 @@ niveau 1 - divination
 Vous établissez un lien télépathique avec une bête que vous touchez, qui est amicale ou que vous avez charmée. Le sort échoue si l'Intelligence de la bête est de 4 ou plus. Jusqu'à la fin du sort, le lien est actif tant que vous et la bête êtes à portée de vue. Via le lien, la bête peut comprendre vos messages télépathiques, et elle peut communiquer par télépathie ses émotions et des concepts simples en retour. Tant que le lien est actif, la bête à un avantage à ses jets attaque contre toute créature à 1,50 mètre de vous et que vous pouvez voir.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Lien de protection
 ==================
@@ -7624,10 +8493,13 @@ Ce sort protège une créature consentante que vous touchez et crée une connexi
 Le sort se termine si vous tombez à 0 point de vie ou si vous et la cible êtes séparés de plus de 18 mètres de distance. Le sort prend également fin s'il est lancé à nouveau sur l'une des créatures connectées. Vous pouvez également rompre le sort au prix d'une action.  
 
 Clerc
+{: .label .label-green }
 
 Paladin \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Lien télépathique de Rary
 =========================
@@ -7648,10 +8520,13 @@ Vous tissez un lien télépathique unissant jusqu'à huit créatures consentante
 Jusqu'à ce que le sort prenne fin, les cibles peuvent communiquer télépathiquement via ce lien, qu'elles aient ou non une langue en commun. La communication est possible quelle que soit la distance qui sépare les cibles, mais elle ne fonctionne plus pour des créatures se trouvant sur différents plans d'existence.  
 
 Magicien
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Localisation d'animaux ou de plantes
 ====================================
@@ -7671,13 +8546,16 @@ niveau 2 - divination (rituel)
 Décrivez ou nommez une espèce spécifique de bête ou de plante. En vous concentrant sur les murmures de la Nature qui vous environne, vous apprenez la direction et la distance de la créature, ou plante de cette espèce, la plus proche dans les 7,5 kilomètres à la ronde, à condition qu'il y en ait.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Localisation d'objet
 ====================
@@ -7699,19 +8577,25 @@ Ce sort peut localiser un objet spécifique que vous connaissez, à condition qu
 Ce sort ne peut pas localiser un objet si une épaisseur de plomb, même une mince feuille, s'interpose sur la ligne de mire qui vous sépare vous et l'objet.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Localisation de créature
 ========================
@@ -7733,19 +8617,25 @@ Le sort peut localiser une créature spécifique que vous connaissez ou la plus 
 Ce sort ne peut localiser une créature si un cours d'eau d'au moins 3 mètres de large fait obstacle à un trajet direct entre vous et la créature.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Lueur d'espoir
 ==============
@@ -7765,8 +8655,10 @@ niveau 3 - abjuration
 Ce sort confère espoir et vitalité. Choisissez des créatures dans la portée du sort. Pour la durée du sort, chaque cible bénéficie d'un avantage à ses jets de sauvegarde de Sagesse et à ses jets de sauvegarde contre la mort. Elle récupère aussi le maximum de points de vie lors d'une guérison.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Lueurs féeriques
 ================
@@ -7787,11 +8679,13 @@ Tous les objets à l'intérieur d'un cube de 6 mètres d'arête dans la portée 
 Les jets d'attaque contre des créatures affectées ou des objets bénéficient d'un avantage si l'attaquant peut les voir. Les créatures affectées ou les objets ne peuvent bénéficier de l'état invisible.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Lumière
 =======
@@ -7812,14 +8706,19 @@ Vous touchez un objet qui ne dépasse pas 3 mètres dans toutes les dimensions. 
 Si vous ciblez un objet tenu ou porté par une créature hostile, cette créature doit réussir un jet de sauvegarde de Dextérité pour éviter le sort.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Lumière du jour
 ===============
@@ -7841,17 +8740,22 @@ Si vous choisissez un point sur un objet que vous tenez ou sur un objet qui n'es
 Si une portion de la zone du sort chevauche une zone de ténèbres créée par un sort de niveau 3 ou moindre, le sort qui génère les ténèbres est dissipé.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Lumières dansantes
 ==================
@@ -7872,12 +8776,16 @@ Ce sort permet de créer jusqu'à quatre lumières, de la taille de torches, qui
 Au prix d'une action bonus lors de votre tour, il est possible de déplacer les lumières jusqu'à 18 mètres vers un nouvel emplacement à portée. Une lumière doit se situer à 6 mètres ou moins d'une autre lumière créée par ce sort, et une lumière s'éclipse si elle se trouve au-delà de la portée du sort.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Maelström
 =========
@@ -7897,9 +8805,10 @@ niveau 5 - évocation
 Une masse d'eau de 1,50 mètre de profondeur apparaît et tourbillonne dans un rayon de 9 mètres centré sur un point que vous pouvez voir dans la portée du sort. Le point doit se situer sur le sol ou dans un plan d'eau. Jusqu'à ce que le sort se termine, cette région est un terrain difficile, et toute créature qui y débute son tour doit effectuer un jet de sauvegarde de Force. En cas d'échec, elle subit 6d6 dégâts contondants et est tirée de 3 mètres vers le centre.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Main de Bigby
 =============
@@ -7926,10 +8835,13 @@ Lorsque vous lancez ce sort et par une action bonus aux tours qui suivent, vous 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, les dégâts du Poing de Bigby augmentent de 2d8 et les dégâts de la Main broyeuse de Bigby augmentent de 2d6, et ce pour chaque emplacement de niveau supérieur au 5eme.  
 
 Magicien
+{: .label .label-green }
 
 Ensorceleur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Main de mage
 ============
@@ -7951,14 +8863,19 @@ Le lanceur de sorts peut utiliser son action pour contrôler la main. La main pe
 La main ne peut attaquer, activer des objets magiques ou transporter plus de 5 kg.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mains brûlantes
 ===============
@@ -7979,10 +8896,13 @@ En tendant vos mains, les pouces en contact et les doigts écartés, un mince ri
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Malédiction
 ===========
@@ -8008,12 +8928,16 @@ Un sort de _délivrance des malédictions_ met fin à cet effet. À la discréti
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, la durée de concentration maximale monte à 10 minutes. Si vous utilisez un emplacement de sort de niveau 5 ou supérieur, le sort dure 8 heures. Si vous utilisez un emplacement de sort de niveau 7 ou supérieur, le sort dure 24 heures. Si vous utilisez un emplacement de sort de niveau 9, le sort dure jusqu'à ce qu'il soit dissipé. Utiliser un emplacement de sort de niveau 5 ou supérieur permet de s'affranchir de la concentration en ce qui concerne la durée du sort.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Maléfice
 ========
@@ -8036,6 +8960,7 @@ Une _délivrance des malédictions_ lancée sur la cible met fin au sort prémat
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou 4, vous pouvez maintenir votre concentration sur ce sort pendant 8 heures. Si vous utilisez un emplacement de sort de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur ce sort pendant 24 heures.  
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -8059,10 +8984,13 @@ De l'autre côté du portail se trouve un magnifique hall donnant sur de nombreu
 Vous pouvez créer autant d'étage que vous le souhaitez, mais l'espace total ne peut pas dépasser 50 cubes, chaque cube mesurant 3 mètres d'arête. Vous choisissez l'ameublement et la décoration du lieu. Il contient suffisamment de nourriture pour servir un banquet-à-neuf-plats pour 100 personnes. Un personnel de 100 serviteurs quasi-transparents est au service de quiconque pénètre dans le manoir. Vous décidez de l'apparence visuelle de ces serviteurs et de leur livrée. Ils obéissent complètement à vos ordres. Chaque serviteur peut réaliser n'importe quelle tâche qu'un serviteur humain pourrait faire, mais ils ne peuvent pas attaquer ou entreprendre une action qui nuirait directement à une autre créature. Ainsi les serviteurs peuvent apporter des choses, nettoyer, réparer, plier le linge, allumer des feux, servir la nourriture, verser le vin, etc. Les serviteurs peuvent se déplacer de partout dans la demeure mais ne peuvent pas la quitter. Les meubles, et tout autre objet créé par ce sort, se dissipent dans un nuage de fumée dès l'instant où ils quittent le manoir. Lorsque le sort prend fin, toute créature ou objet laissé se trouvant à l'intérieur de l'espace extradimensionnel est expulsée à l'endroit dégagé le plus proche de l'entrée.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Marche sur l'eau
 ================
@@ -8083,15 +9011,19 @@ Le sort attribue la capacité de se déplacer sur toute surface liquide (eau, ac
 Si vous ciblez une créature submergée dans un liquide, le sort déplace la cible vers la surface du liquide à une vitesse de 18 mètres par round.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Marche sur le vent
 ==================
@@ -8112,9 +9044,10 @@ Vous et jusqu'à 10 créatures consentantes que vous pouvez voir et à portée, 
 Si une créature est sous forme nuageuse et en train de voler lorsque l'effet prend fin, la créature redescend à la vitesse de 18 mètres par round pendant 1 minute jusqu'à ce qu'elle touche terre, ce qu'elle fait sans encombre. Si elle ne touche pas le sol après 1 minute, la créature chute de la distance restante.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Marque du chasseur
 ==================
@@ -8135,8 +9068,10 @@ Vous choisissez une créature que vous pouvez voir et à portée, et la marquez 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou 4, vous pouvez maintenir votre concentration sur ce sort pendant 8 heures maximum. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur ce sort pendant 24 heures maximum.  
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mauvais oeil
 ============
@@ -8159,14 +9094,19 @@ Pour la durée du sort, vos yeux prennent un couleur d'encre noire sont imprégn
 **Fièvre**. La cible a un désavantage à ses jets d'attaque et à ses jets de caractéristique. À la fin de chacun de ses tours, elle peut effectuer un nouveau jet de sauvegarde de Sagesse. Si elle le réussit, l'effet prend fin.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Message
 =======
@@ -8186,12 +9126,16 @@ niveau 0 - transmutation
 Vous pointez votre doigt en direction d'une créature à portée et murmurez un message. La cible (et seulement la cible) entend le message et peut répondre en un murmure que vous seul pouvez entendre. Vous pouvez lancer ce sort à travers des objets solides si vous connaissez bien la cible et que vous savez qu'elle est derrière l'obstacle. Ce sort est arrêté par un silence magique, 30 cm de pierre, 2,50 cm de métal, une fine feuille de plomb ou 90 cm de bois. Ce sort ne doit pas forcément suivre une ligne droite et peut contourner les angles ou passer par de petites ouvertures.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Messager animal
 ===============
@@ -8213,13 +9157,16 @@ Lorsque le messager arrive, il livre son message à la créature que vous avez d
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, la durée du sort augmente de 48 heures pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Métal brûlant
 =============
@@ -8241,11 +9188,13 @@ Si une créature tient ou porte l'objet et en subit les dégâts de feu, la cré
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts sont augmentés de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Métamorphose
 ============
@@ -8269,15 +9218,19 @@ La créature est limitée dans les actions qu'elle peut entreprendre par la natu
 L'équipement de la cible fusionne avec sa nouvelle forme. La créature ne peut pas activer, utiliser, manipuler ou recevoir le moindre avantage de son équipement.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Métamorphose de groupe
 ======================
@@ -8299,12 +9252,16 @@ Description non disponible (non OGL). Résumé :
 Transforme jusqu'à 10 créatures en nouvelles formes de bêtes de FP/niveau au plus égal au FP/niveau de la cible.
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Métamorphose suprême
 ====================
@@ -8331,12 +9288,16 @@ Si le sort devient permanent, vous ne pouvez plus contrôler la créature. Elle 
 **Créature en objet**. Si vous transformez une créature en objet, elle endosse sa nouvelle forme avec tout l'équipement qu'elle transporte ou tient, à condition que la taille de l'objet ne soit pas supérieure à celle de la créature. Les statistiques de la créature deviennent celles de l'objet, et la créature n'a aucun souvenir du temps passé sous cette forme une fois qu'elle retrouve sa forme normale.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Minuscules météores de Melf
 ===========================
@@ -8357,10 +9318,13 @@ Vous créez six météores minuscules dans votre espace. Ils flottent dans l'air
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le nombre de météores créés augmente de deux pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Mirage
 ======
@@ -8383,13 +9347,16 @@ L'illusion inclut des éléments visuels, auditifs, tactiles et olfactifs, il pe
 Les créatures possédant la vision véritable peuvent voir la véritable forme du terrain au travers de l'illusion : cependant, tous les autres éléments de l'illusion restent en place, ainsi même si la créature est avertie de la présence de l'illusion, elle peut continuer à interagir physiquement avec l'illusion.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mixture caustique de Tasha
 ==========================
@@ -8411,8 +9378,10 @@ Description non disponible (non OGL). Résumé :
 Les créatures sur une ligne de 9 x 1,50 m doivent réussir un JdS de Dex. ou subir 2d4 dégâts d'acide chaque tour (+2d4/niv).
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -8437,10 +9406,13 @@ Vous endossez une nouvelle forme. Lorsque vous lancez ce sort, choisissez l'une 
 **_Armes naturelles_**. Vous vous dotez de griffes, crocs, épines, cornes ou d'une autre arme naturelle de votre choix. Votre attaque à mains nues inflige 1d6 dégâts contondants, perforants ou tranchants, suivant ce qui est le plus approprié à l'arme naturelle que vous avez choisie, et vous obtenez la maîtrise de votre attaque à mains nues. Enfin, votre arme naturelle est une arme magique et a un bonus de +1 aux jets d'attaque et de dégâts.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Modification de mémoire
 =======================
@@ -8465,10 +9437,13 @@ Un sort de _délivrance des malédictions_ ou de _restauration supérieure_ lanc
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, vous pouvez modifier la mémoire de la cible concernant un événement datant de 7 jours maximum (niveau 6), 30 jours maximum (niveau 7), 1 an maximum (niveau 8), ou de n'importe quelle période du passé de la créature (niveau 9).  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Monture fantôme
 ===============
@@ -8489,8 +9464,10 @@ Une créature semi-réelle de taille G ressemblant à un cheval apparaît, à po
 Pour toute la durée du sort, vous, ou une créature de votre choix, pouvez chevaucher la monture. La créature utilise les statistiques d'un cheval de selle, à l'exception de sa vitesse de déplacement qui est de 30 mètres, il peut également parcourir 15 kilomètres en une heure, ou 20 kilomètres s'il voyage à un rythme rapide. Lorsque le sort prend fin, la monture disparaît progressivement, donnant 1 minute à son cavalier pour mettre pied à terre. Le sort se termine si vous utilisez votre action pour le dissiper ou si la monture subit des dégâts.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Moquerie cruelle
 ================
@@ -8511,8 +9488,10 @@ Vous vomissez un flot d'insultes entremêlées de subtils enchantements sur une 
 Les dégâts de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5 (2d4), le niveau 11 (3d4) et le niveau 17 (4d4).  
 
 Barde
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mort simulée
 ============
@@ -8533,15 +9512,19 @@ Vous touchez une créature consentante et la plongez dans un état cataleptique 
 Pour toute la durée du sort, ou jusqu'à ce que vous utilisiez une action pour toucher la cible et annuler le sort, la cible passe pour morte auprès de toute personne ne faisant pas une inspection approfondie ou face à des sorts censés donner l'état de santé de la cible. La cible est incapable d'agir et aveuglée, sa vitesse de déplacement tombe à 0. La cible obtient la résistance à tous les types de dégâts, à l'exception des dégâts psychiques. Si la cible est malade ou empoisonnée lorsque vous lancez ce sort, ou tombe malade ou empoisonnée alors qu'elle est déjà soumise à ce sort, la maladie ou le poison n'ont aucun effet jusqu'à ce que ce sort prenne fin.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Mot de guérison
 ===============
@@ -8562,13 +9545,16 @@ Une créature visible de votre choix récupère des points de vie à hauteur de 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les points de vie récupérés augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mot de guérison de groupe
 =========================
@@ -8589,10 +9575,13 @@ niveau 3 - évocation
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les points de vie récupérés augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Clerc
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mot de pouvoir douloureux
 =========================
@@ -8614,12 +9603,16 @@ Description non disponible (non OGL). Résumé :
 La cible (100 pv max) a sa vitesse réduite à 3 m, un désavantage aux d20 et doit faire un JdS de Con. pour lancer des sorts.
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Mot de pouvoir étourdissant
 ===========================
@@ -8640,14 +9633,19 @@ Vous prononcez un mot de pouvoir qui peut submerger l'esprit d'une créature que
 La créature étourdie doit effectuer un jet de sauvegarde de Constitution à la fin de chacun de ses tours. Sur un jet réussi, l'étourdissement prend fin.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mot de pouvoir guérisseur
 =========================
@@ -8667,10 +9665,13 @@ niveau 9 - évocation
 Une vague d'énergie curative parcourt la créature que vous touchez. La cible récupère tous ses points de vie. Si la créature est charmée, effrayée, paralysée ou étourdie, cet état prend fin. Si la créature est à terre, elle peut utiliser sa réaction pour se mettre debout. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
 
 Barde
+{: .label .label-green }
 
 Clerc \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Mot de pouvoir mortel
 =====================
@@ -8690,14 +9691,19 @@ niveau 9 - enchantement
 Vous prononcez un mot de pouvoir qui peut contraindre une créature que vous pouvez voir et à portée de sort à mourir instantanément. Si la créature possède 100 points de vie ou moins, elle meurt. Dans le cas contraire, le sort n'a aucun effet.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mot de radiance
 ===============
@@ -8718,8 +9724,10 @@ Vous prononcez un mot divin et un éclat brûlant jaillit de vous. Toutes les cr
 Les dégâts du sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
 
 Clerc
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Mot de retour
 =============
@@ -8740,8 +9748,10 @@ Vous, et jusqu'à cinq créatures consentantes se trouvant à 1,50 mètre de vou
 Vous devez désigner un sanctuaire en lançant ce sort dans un lieu, comme un temple, dédié, ou puissamment connecté, à votre dieu. Si vous tentez de lancer ce sort de cette manière dans une zone qui n'est pas dédiée à votre dieu, le sort n'a aucun effet.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Motif hypnotique
 ================
@@ -8761,14 +9771,19 @@ niveau 3 - illusion
 Vous créez des lueurs de couleurs changeantes qui emplissent les airs dans un cube de 9 mètres d'arête à portée. Les lueurs apparaissent pendant un moment et disparaissent. Chaque créature dans la zone d'effet qui voit les lueurs doit faire un jet de sauvegarde de Sagesse. Si elle échoue, la créature est charmée pour la durée du sort. Tant qu'elle est charmée par ce sort, la créature est incapable d'agir et a une vitesse égale à 0. Le sort prend fin pour une créature charmée si elle subit des dégâts ou si quelqu'un d'autre utilise son action pour la secouer et la sortir de sa torpeur.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mur d'eau
 =========
@@ -8789,13 +9804,16 @@ Vous créez un mur d'eau sur le sol, à un point que vous pouvez voir à portée
 Toute attaque à distance avec une arme qui entre dans l'espace du mur à un désavantage au jet d'attaque, et tous les dégâts de feu sont réduits de moitié si l'effet de feu traverse le mur pour atteindre son objectif. Les sorts infligeant des dégâts de froid qui traversent la paroi transforment en glace solide la zone du mur impactée (au minimum un carré de 1,50 mètre est gelé). Chaque section gelée de 1,50 mètre de côté a 15 pv et une CA de 5. Réduire les points de vie d'une section gelée à 0 la détruit. Lorsqu'une section est détruite, l'eau du mur ne le remplit pas.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Mur d'épines
 ============
@@ -8818,9 +9836,10 @@ Une créature peut se déplacer au travers du mur, quoique lentement et difficil
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les deux types de dégâts sont augmentés de 1d8 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mur de feu
 ==========
@@ -8844,13 +9863,16 @@ L'autre côté du mur n'inflige aucun dégât.
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts du sort augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 4.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mur de force
 ============
@@ -8871,8 +9893,10 @@ Un mur de force invisible apparaît en un point de votre choix à portée. Le mu
 Rien ne peut traverser physiquement le mur. Il est immunisé à tous les types de dégâts et ne peut être dissipé avec un sort de _dissipation de la magie_. Cependant, un sort de _désintégration_ détruit le mur instantanément. Le mur est également présent dans le plan éthéré, bloquant les voyages éthérés au travers du mur.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mur de glace
 ============
@@ -8895,8 +9919,10 @@ Le mur est un objet qui peut être endommagé, il est donc possible d'y créer u
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les dégâts qu'inflige le mur lorsqu'il apparaît augmentent de 2d6, et les dégâts infligés aux créatures qui traversent le voile d'air glacial augmentent de 1d6, pour chaque niveau d'emplacement au-delà du niveau 6.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mur de lumière
 ==============
@@ -8918,12 +9944,16 @@ Description non disponible (non OGL). Résumé :
 Crée un mur de lumière de 18 x 3 x 1,50 m qui peut infliger 4d8 dégâts radiants à une cible à chaque tour (dégâts/niv).
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Mur de pierre
 =============
@@ -8948,13 +9978,16 @@ Le mur est un objet de pierre qui peut être endommagé et donc ébréché. Chaq
 Si vous maintenez votre concentration sur ce sort pendant toute sa durée, le mur devient permanent et ne peut plus être dissipé. Sinon, le mur disparaît lorsque le sort se termine.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mur de sable
 ============
@@ -8974,8 +10007,10 @@ niveau 3 - évocation
 Vous créez un mur de sable tourbillonnant sur le sol à un point que vous pouvez voir à portée. Vous pouvez créer un mur mesurant jusqu'à 9 mètres de long, 3 mètres de haut et 3 mètres d'épaisseur, qui disparaîtra à la fin du sort. Il bloque la ligne de vue, mais pas le déplacement. Une créature est aveuglée tant qu'elle se trouve dans l'espace occupé par le mur et doit dépenser 3 mètres de mouvement pour 1 mètre parcouru dans celui-ci.  
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Mur de vent
 ===========
@@ -8997,11 +10032,13 @@ Lorsque le mur apparaît, chaque créature se trouvant dans la zone doit effectu
 Le vent violent garde les brumes, brouillards, et autres gaz éloignés. Les objets et créatures volants de taille P ou inférieure ne peuvent pas passer au travers du mur. S'ils ne sont pas tenus ou fixés, les objets légers amenés dans le mur s'envolent. Les flèches, carreaux et autres projectiles ordinaires tirés en direction de cibles situées de l'autre côté du mur sont détournés et automatiquement perdus (les rochers projetés par des géants ou des engins de siège, ou tout autre projectile similaire, ne sont pas affectés). Les créatures sous forme gazeuse ne peuvent pas traverser le mur de vent.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Mur prismatique
 ===============
@@ -9032,10 +10069,13 @@ Tant que cette couche est en place, les sorts ne peuvent être lancés au traver
 **7\. Violet**. En cas d'échec au jet de sauvegarde, la créature est aveuglée. Elle doit alors réussir un jet de sauvegarde de Sagesse au début de votre prochain tour. Si elle réussit ce nouveau jet de sauvegarde, elle n'est plus aveuglée. Si elle échoue ce nouveau jet de sauvegarde, la créature est transportée dans un autre plan d'existence que le MD choisit, et n'est plus aveuglée (typiquement, une créature qui ne se trouve pas dans son plan d'existence originel y est renvoyée, tandis que les autres créatures sont généralement envoyées dans le plan Astral ou le plan éthéré). Cette couche peut être détruite par un sort de _dissipation de la magie_ ou tout autre sort similaire d'un niveau supérieur ou égal qui peut mettre un terme aux sorts ou aux effets magiques.  
 
 Magicien
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Murmures dissonants
 ===================
@@ -9056,6 +10096,7 @@ Vous murmurez une mélodie discordante qui ne peut être entendue que par une cr
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts sont augmentés de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Barde
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -9078,12 +10119,16 @@ Nommez ou décrivez une personne, un lieu ou un objet. Le sort apporte à votre 
 Ce que vous apprenez est précis mais peut être dissimulé dans un langage figuré. Par exemple, si vous avez une mystérieuse hache magique dans votre main, le sort peut révéler cette information : « Malheur au scélérat qui touche de ses mains la hache, car le manche tranchera celles du malin. Seul un vrai Enfant de la pierre, aimant et aimé de Moradin, pourrait réveiller le vrai pouvoir de cette hache, et seulement avec le mot sacré Rudnogg sur les lèvres ».  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Nappe de brouillard
 ===================
@@ -9104,15 +10149,19 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le rayon de la sphère augmente de 6 mètres pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Nuage incendiaire
 =================
@@ -9134,12 +10183,16 @@ Lorsque le nuage apparaît, chaque créature présente à l'intérieur doit effe
 Le nuage s'éloigne de 3 mètres de vous dans la direction de votre choix, et ce au début de chacun de vos tours.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Nuage nauséabond
 ================
@@ -9161,12 +10214,16 @@ Chaque créature totalement dans le nuage au début de son tour doit effectuer u
 Un vent modéré (d'au moins 15 km/h) disperse le nuage après 4 rounds. Un vent fort (d'au moins 30 km/h) le disperse après 1 round.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Nuée de boules de neige de Snilloc
 ==================================
@@ -9187,10 +10244,13 @@ Une rafale de boules de neige magiques apparait à un point que vous choisissez 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Nuée de dagues
 ==============
@@ -9211,12 +10271,16 @@ Vous emplissez l'espace de dagues tournoyantes dans un cube de 1,50 mètre d'ar�
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 2d4 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -9239,10 +10303,13 @@ Des orbes de feux ardents s'abattent sur le sol à quatre différents points vis
 Le sort endommage les objets dans la zone et enflamme les objets inflammables qui ne sont pas portés ou transportés.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Oeil magique
 ============
@@ -9264,8 +10331,10 @@ Vous recevez une image mentale de ce que peut voir l'œil qui possède une visio
 Par une action, vous pouvez faire avancer l'œil de 9 mètres dans n'importe quelle direction. Il n'y a aucune limite d'éloignement entre vous et l'œil, mais celui-ci ne peut changer de plan d'existence. Les obstacles solides bloquent le mouvement mais l'œil peut passer à travers n'importe quelle ouverture d'un diamètre 2,50 cm ou plus.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Ombre d'égarement
 =================
@@ -9285,8 +10354,10 @@ niveau 4 - nécromancie
 Des ombres en formes de flammes enveloppent votre corps jusqu'à la fin du sort. Vous êtes alors dans une zone de visibilité nulle pour les autres. Les ombres transforment la lumière faible dans une rayon de 3 mètres en ténèbres, et la lumière vive dans la même zone en lumière faible. Jusqu'à la fin du sort, vous avez la résistance aux dégâts radiants. De plus, chaque fois qu'une créature à 3 mètres ou moins de vous vous touche avec une attaque, les ombres s'en prennent à cette créature et lui infligent 2d8 dégâts nécrotiques.  
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Orbe chromatique
 ================
@@ -9307,8 +10378,10 @@ Vous projetez une sphère d'énergie de 10 cm de diamètre vers une créature qu
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -9333,9 +10406,10 @@ Si l'un des piliers ne peut atteindre sa pleine hauteur en raison d'un plafond o
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, vous pouvez créer deux piliers supplémentaires pour chaque niveau d'emplacement au-delà du niveau 6.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Parole divine
 =============
@@ -9360,8 +10434,10 @@ Vous prononcez une parole divine, emplie de la puissance qui a façonné le mond
 Indépendamment de ses points de vie actuels, un céleste, un élémentaire, une fée ou un fiélon qui échoue son jet est retourné à son plan d'origine (s'il n'y est pas déjà) et il ne peut revenir sur votre plan pendant 24 heures, peu importe le moyen, à l'exception du sort _souhait_.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Passage par les arbres
 ======================
@@ -9382,11 +10458,13 @@ Vous gagnez la capacité de pénétrer dans un arbre et de vous déplacer à l'i
 Vous pouvez utiliser ce moyen de transport une fois par tour pendant toute la durée du sort. Vous devez terminer chacun de vos tours en dehors d'un arbre.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Passage sans trace
 ==================
@@ -9406,11 +10484,13 @@ niveau 2 - abjuration
 Un voile d'ombres et de silence émane de vous, vous protégeant, ainsi que vos compagnons, de la détection. Pour la durée du sort, chaque créature que vous choisissez et se trouvant à 9 mètres de vous (vous y compris) a un bonus de +10 aux jets de Dextérité (Discrétion) et ne peut pas être pistée, sauf par des moyens magiques. Une créature qui reçoit ce bonus ne laisse ni piste ni trace de son passage.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Passe-muraille
 ==============
@@ -9431,8 +10511,10 @@ Un passage apparaît à un endroit de votre choix que vous pouvez voir sur une s
 Quand l'ouverture disparaît, toutes créatures ou tous objets encore présents dans le passage créé se retrouvent éjectés sans dommage vers un endroit non occupé près de la surface sur laquelle a été lancé le sort.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Pattes d'araignée
 =================
@@ -9452,12 +10534,16 @@ niveau 2 - transmutation
 Jusqu'à ce que le sort se termine, une créature consentante que vous touchez gagne la capacité de se déplacer vers le haut, le bas, et le long de surfaces verticales ou encore à l'envers aux plafonds, tout en laissant ses mains libres. La cible gagne également une vitesse d'escalade égale à sa vitesse de marche.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Peau d'écorce
 =============
@@ -9477,11 +10563,13 @@ niveau 2 - transmutation
 Vous touchez une créature consentante. Jusqu'à la fin du sort, la peau de la cible prend une texture rugueuse telle l'écorce d'un arbre et la CA de la cible ne peut être inférieure à 16, peu importe le type d'armure qu'elle porte.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Peau de pierre
 ==============
@@ -9501,15 +10589,19 @@ niveau 4 - abjuration
 Ce sort transforme la chair d'une créature consentante que vous touchez en un revêtement aussi dur que la pierre. Jusqu'à ce que le sort se termine, la cible obtient la résistante aux dégâts non magiques contondants, perforants et tranchants.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Perturbations synaptiques
 =========================
@@ -9531,14 +10623,19 @@ Description non disponible (non OGL). Résumé :
 Les créatures dans un rayon de 6 m doivent réussir un JdS d'Int. ou subir 8d6 dégâts psychiques.
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Petite hutte de Léomund
 =======================
@@ -9560,10 +10657,13 @@ Neuf créatures de taille M ou inférieure peuvent tenir sous le dôme avec vous
 Jusqu'à ce que le sort prenne fin, vous pouvez faire en sorte que l'intérieur du dôme soit faiblement éclairé voire plongé dans les ténèbres. Le dôme est opaque depuis l'extérieur, de la couleur de votre choix, mais il est transparent depuis l'intérieur.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Pétrification
 =============
@@ -9586,14 +10686,19 @@ Si la créature est physiquement brisée tandis qu'elle est pétrifiée, elle so
 Si vous maintenez votre concentration sur ce sort pendant sa durée maximale, la créature est changée en pierre jusqu'à ce que cet effet soit dissipé.  
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Ensorceleur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Peur
 ====
@@ -9613,14 +10718,19 @@ niveau 3 - illusion
 Vous projetez une image fantasmatique des pires craintes d'une créature. Chaque créature dans un cône de 9 mètres doit réussir un jet de sauvegarde de Sagesse sous peine de lâcher ce qu'elle tient et être effrayée pour la durée du sort. Tant qu'elle est effrayée par ce sort, la créature doit utiliser l'action Foncer et s'éloigner de vous par le chemin disponible le plus sûr, et ce à chacun de ses tours, à moins qu'elle n'ait nulle part où aller. Si la créature termine son tour à un endroit où il n'y a aucune ligne de mire entre elle et vous, la créature peut effectuer un jet de sauvegarde de Sagesse. En cas de réussite, le sort prend fin pour cette créature.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Pierre magique
 ==============
@@ -9641,11 +10751,13 @@ Vous touchez un à trois cailloux et les imprégnez de magie. Vous ou quelqu'un 
 Si vous lancez ce sort à nouveau, le sort s'arrête pour tous les cailloux encore sous effet magique du sort précédent.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Piqûre mentale
 ==============
@@ -9666,10 +10778,13 @@ Vous injectez une pointe d'énergie psychique désorientante dans l'esprit d'une
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez les niveaux 5 (2d6), 11 (3d6) et 17 (4d6).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -9692,10 +10807,13 @@ La foudre jaillit de votre main pour délivrer un choc électrique à une créat
 Les dégâts du sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Poigne terreuse de Maximilien
 =============================
@@ -9718,10 +10836,13 @@ Pour se libérer, la cible entravée peut utiliser son action pour faire un jet 
 Au prix d'une action, vous pouvez atteindre une créature différente avec la main ou la déplacer dans un espace inoccupé différent à portée. La main libère une cible entravée si vous le faites.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Portail
 =======
@@ -9744,14 +10865,19 @@ Les divinités et autres dirigeants planaires peuvent empêcher l'ouverture d'un
 Lorsque vous lancez ce sort, vous pouvez énoncer le nom d'une créature spécifique (un pseudonyme, un titre ou un surnom ne suffit pas). Si cette créature est sur un plan différent du vôtre, le portail s'ouvre à proximité de la créature nommée, laquelle est aussitôt aspirée par le portail pour apparaître dans un espace inoccupé de votre côté du portail. Vous ne bénéficiez d'aucun pouvoir spécial sur la créature et elle libre d'agir selon la volonté du MD. Elle peut partir, vous attaquer ou vous aider.  
 
 Clerc
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Portail magique
 ===============
@@ -9773,12 +10899,16 @@ Les portails sont des anneaux luisants en deux dimensions remplis de brumes qui 
 Toute créature ou objet entrant dans un portail ressort par l'autre portail comme s'ils étaient adjacents l'un de l'autre. Passer au travers d'un portail par le côté non fonctionnel n'a aucun effet. La brume qui remplit chaque portail est opaque et bloque la vision au travers. À votre tour, vous pouvez faire tourner les anneaux par une action bonus de sorte que la face active des portails soit orientée dans une autre direction.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Porte dimensionnelle
 ====================
@@ -9800,14 +10930,19 @@ Vous pouvez transporter des objets tant que leurs poids ne dépassent pas votre 
 Si vous devriez arriver à un endroit déjà occupé par un objet ou une créature, vous et la créature se déplaçant avec vous subissez 4d6 dégâts de force et la téléportation échoue.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Prémonition
 ===========
@@ -9828,15 +10963,19 @@ Vous touchez une créature consentante pour lui octroyer une faculté limitée d
 Le sort prend immédiatement fin si vous l'incantez à nouveau avant la fin de la durée.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Préservation des morts
 ======================
@@ -9857,12 +10996,16 @@ Vous touchez un corps ou ce qu'il en reste. Pour la durée du sort, la cible est
 Le sort augmente également la durée limite au-delà de laquelle il n'est plus possible de ramener un corps à la vie. Les jours passés sous l'influence de ce sort ne comptent pas dans le total de jours passés à l'état de cadavre pour des sorts comme _rappel à la vie_.  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Paladin \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Prestidigitation
 ================
@@ -9889,14 +11032,19 @@ Ce sort est un tour de magie mineur que les lanceurs de sorts novices emploient 
 Si le sort est lancé plusieurs fois, il est possible de conserver actifs 3 de ces effets non instantanés simultanément, et il est possible de révoquer ces effets au prix d'une action.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Prévoyance
 ==========
@@ -9918,8 +11066,10 @@ Le sort conditionné prend effet immédiatement après que les conditions de dé
 Le sort conditionné ne prend effet que sur vous, même s'il peut normalement cibler d'autres créatures. Vous ne pouvez utiliser qu'un seul sort de _prévoyance_ à la fois. Si vous lancez ce sort de nouveau, l'effet du sort _prévoyance_ déjà actif sur vous se termine. Le sort _prévoyance_ se termine également si vous ne portez plus sa composante matérielle sur vous.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Prière de guérison
 ==================
@@ -9940,10 +11090,13 @@ Jusqu'à six créatures de votre choix visibles dans la portée du sort récupè
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les points de vie récupérés augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Clerc
+{: .label .label-green }
 
 Paladin \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Prison mentale
 ==============
@@ -9965,12 +11118,16 @@ Description non disponible (non OGL). Résumé :
 La cible doit réussir un JdS d'Int. ou subir 5d10 dégâts psychiques et se croire entouré par des flammes ou autre danger.
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Projectile magique
 ==================
@@ -9991,10 +11148,13 @@ Vous créez trois fléchettes de force magique d'un bleu lumineux. Chaque fléch
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, il crée une fléchette additionnelle pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Projection astrale
 ==================
@@ -10019,12 +11179,16 @@ Le sort peut aussi se terminer prématurément pour vous ou un de vos compagnons
 Si vous êtes retourné à votre corps prématurément, vos compagnons conservent leur forme astrale et ils doivent trouver eux-mêmes le chemin du retour, en tombant à 0 point de vie, habituellement.  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Projection d'image
 ==================
@@ -10047,10 +11211,13 @@ Vous pouvez voir à travers ses yeux et entendre via ses oreilles comme si vous 
 Les interactions physiques avec l'image révèlent qu'il s'agit d'une illusion, car les choses passent au travers. Une créature qui utilise son action pour examiner l'image peut déterminer qu'il s'agit d'une illusion en réussissant un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort. Si une créature découvre le caractère illusoire de l'image, cette créature peut voir au travers de l'image, et tout son produit par l'illusion lui semble faux et sonne creux.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Protection contre la mort
 =========================
@@ -10072,10 +11239,13 @@ La première fois que la cible atteint 0 point de vie à cause de dégâts reçu
 Si le sort est toujours actif lorsque la cible est victime d'un effet qui la tuerait instantanément sans causer de dégât, cet effet est nul pour la cible, et le sort prend fin.  
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Protection contre le mal et le bien
 ===================================
@@ -10096,16 +11266,22 @@ Jusqu'à ce que le sort prenne fin, une créature consentante que vous touchez e
 La protection confère un certain nombre de bénéfices. Les créatures de ces types ont un désavantage à leurs jets d'attaque effectués contre la cible. De plus, elles ne peuvent ni effrayer, ni charmer, ni posséder la cible. Si la cible est déjà charmée, effrayée, ou possédée par une telle créature, la cible a un avantage à tout nouveau jet de sauvegarde qu'elle effectuerait contre l'effet en question.  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Protection contre le poison
 ===========================
@@ -10126,15 +11302,19 @@ Vous touchez une créature. Si elle est empoisonnée, vous neutralisez le poison
 Pour toute la durée du sort, la cible a un avantage à ses jets de sauvegarde effectués pour éviter d'être empoisonnée, et a une résistance aux dégâts de poison.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Protection contre les armes
 ===========================
@@ -10154,12 +11334,16 @@ niveau 0 - abjuration
 Vous tendez votre main et tracez un symbole de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous obtenez la résistance contre les dégâts contondants, tranchants et perforants infligés par des attaques avec arme.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -10181,17 +11365,22 @@ niveau 3 - abjuration
 Pour la durée du sort, une créature consentante que vous touchez bénéficie d'une résistance à un type de dégâts de votre choix : acide, froid, feu, foudre ou tonnerre.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Protection primordiale
 ======================
@@ -10212,9 +11401,10 @@ Vous obtenez la résistance aux dégâts d'acide, froid, feu, radiant et tonnerr
 Si vous subissez des dégâts d'un type pré-cité, vous pouvez utiliser votre réaction pour obtenir l'immunité à ces dégâts, y compris contre des dégâts à déclenchement. Dans ce cas, vous perdez toutes vos résistances aux dégâts et gagnez l'immunité choisie jusqu'à la fin de votre prochain tour, au terme duquel le sort prend fin.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Protections et sceaux
 =====================
@@ -10247,10 +11437,13 @@ Toute la zone protégée irradie la magie. Un sort de _dissipation de la magie_ 
 Vous pouvez faire en sorte que la structure que vous protégez le soit de manière permanente. Pour cela, lancez ce sort tous les jours pendant un an.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Purification de nourriture et d'eau
 ===================================
@@ -10270,13 +11463,16 @@ niveau 1 - transmutation (rituel)
 Toute la nourriture et toutes les boissons, non magiques, se trouvant dans une sphère de 1,50 mètre de rayon, et centrée sur un point de votre choix à portée, sont purifiées et débarrassées de tout poison et de toute maladie.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Pyrotechnie
 ===========
@@ -10298,12 +11494,16 @@ Visez une zone de flammes non magiques qui rentre dans un cube de 1,50 mètre d'
 **Fumée**. Une épaisse fumée s'échappe de la cible dans un rayon de 7,50 mètres, remplissant chaque recoin de la zone. La visibilité dans la zone enfumée est nulle. La fumée dure une minute ou jusqu'à ce qu'un fort vent la dissipe.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Quête
 =====
@@ -10326,17 +11526,22 @@ Vous pouvez mettre fin prématurément au sort en utilisant une action pour l'an
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou 8, la durée du sort passe à 1 an. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 9, le sort persiste jusqu'à ce qu'il soit dissipé par l'un des sorts mentionnés ci-dessus.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Rappel à la vie
 ===============
@@ -10359,12 +11564,16 @@ Ce sort referme les blessures mortelles, mais il ne restaure pas les parties du 
 Revenir du monde des morts est une épreuve. La cible subit une pénalité de -4 à tous ses jets d'attaque, de sauvegarde et de caractéristique. À chaque fois que la cible termine un repos long, la pénalité est réduite de 1 jusqu'à ce qu'elle soit nulle.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Rayon affaiblissant
 ===================
@@ -10385,10 +11594,13 @@ Un rayon noir d'énergie négative s'échappe de votre doigt en direction d'une 
 À la fin de chacun de ses tours, la cible effectue un jet de sauvegarde de Constitution contre le sort. En cas de réussite, le sort prend fin.  
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Rayon ardent
 ============
@@ -10410,10 +11622,13 @@ Effectuez une attaque à distance avec un sort pour chaque rayon. Si elle touche
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous générez un rayon supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Rayon de givre
 ==============
@@ -10434,10 +11649,13 @@ Un faisceau frigide de lumière bleuâtre se dirige vers une créature dans la p
 Les dégâts du sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Rayon de lune
 =============
@@ -10461,9 +11679,10 @@ Un métamorphe effectue son jet de sauvegarde avec un désavantage. S'il échoue
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Rayon de soleil
 ===============
@@ -10485,15 +11704,19 @@ Vous pouvez créer une nouvelle ligne de lumière par une action, à chacun de v
 Pour toute la durée du sort, un point de lumière intense brille dans votre main. Il répand une lumière vive dans un rayon de 9 mètres et une lumière faible sur 9 mètres supplémentaires. Cette lumière est équivalente à celle du soleil.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Clerc \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Rayon empoisonné
 ================
@@ -10514,10 +11737,13 @@ Un rayon d'énergie verdâtre et contagieuse est envoyé en direction d'une cré
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Rayonnement écoeurant
 =====================
@@ -10537,12 +11763,16 @@ niveau 4 - évocation
 Une lumière tamisée et verdâtre se propage dans une sphère de 9 mètres de rayon centrée sur un point que vous choisissez à portée. La lumière se propage autour des angles et dure jusqu'à la fin du sort. Lorsqu'une créature entre dans la zone du sort pour la première fois pendant un tour ou y commence son tour, elle doit réussir un jet de sauvegarde de Constitution ou subir 4d10 dégâts radiants. Elle perd alors aussi un niveau d'épuisement et émet une faible lumière verdâtre dans un rayon de 1,50 mètres. Cette lumière empêche la créature d'être invisible. La lumière et tous les niveaux d'épuisement causés par ce sort disparaissent lorsque le sort se termine.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Rayons prismatiques
 ===================
@@ -10570,12 +11800,16 @@ Huit rayons de lumière multicolore émanent de votre main. Chaque rayon est d'u
 **8\. Spécial**. La cible est frappée par deux rayons. Relancez deux fois le dé et rejouez tous les 8.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Barde \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Raz-de-marée
 ============
@@ -10595,13 +11829,16 @@ niveau 3 - invocation
 Vous conjurez une vague d'eau qui s'écrase sur une zone à portée. La zone peut mesurer jusqu'à 9 mètres de long, 3 mètres de large et 3 mètres de haut. Chaque créature dans la portée du sort doit faire un jet de sauvegarde de Dextérité. En cas d'échec, la créature subit 4d8 dégâts contondants et tombe à terre. En cas de réussite, la créature subit la moitié de ces dégâts et ne tombe pas à terre. L'eau se propage ensuite à travers le sol dans toutes les directions, éteignant toute flamme non protégée dans sa zone et dans les 9 mètres autour, puis disparait.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Régénération
 ============
@@ -10622,13 +11859,16 @@ Vous touchez une créature afin de stimuler sa capacité à guérir naturellemen
 Les membres de la cible qui sont sectionnés (doigts, jambes, queues, etc.) repoussent après 2 minutes, le cas échéant. Si vous tenez le membre en question et que vous l'approchez du moignon, le sort permet de rattacher instantanément le membre au moignon.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Réincarnation
 =============
@@ -10712,9 +11952,10 @@ Tieffelin
 La créature réincarnée se rappelle de sa vie passée. Elle conserve les capacités qu'elle possédait sous son ancienne forme ; elle change cependant de race, et change donc de traits raciaux en conséquence.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Réparation
 ==========
@@ -10734,17 +11975,22 @@ niveau 0 - transmutation
 Ce sort répare une simple fissure, déchirure ou fêlure sur un objet que vous touchez, comme un maillon de chaîne cassé, une clé brisée en deux morceaux, un accroc sur un manteau ou une fuite sur une outre. Tant que la fissure ou l'accroc n'excède pas 30 cm dans toutes les dimensions, vous le réparez, ne laissant aucune trace de la détérioration passée. Ce sort peut réparer physiquement un objet magique ou un artificiel, mais ne peut pas rendre sa magie à un objet.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Repli expéditif
 ===============
@@ -10764,12 +12010,16 @@ niveau 1 - transmutation
 Ce sort vous permet de vous déplacer à une vitesse incroyable. Lorsque vous lancez ce sort, puis par une action bonus à chacun de vos tours jusqu'à la fin du sort, vous pouvez effectuer l'action Foncer.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Représailles infernales
 =======================
@@ -10790,8 +12040,10 @@ Vous pointez votre doigt, et la créature qui vous a infligé des dégâts est m
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts sont augmentés de 1d10 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Résistance
 ==========
@@ -10811,11 +12063,13 @@ niveau 0 - abjuration
 Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer un d4 et ajouter le résultat du dé à un jet de sauvegarde de son choix. Elle peut lancer le dé avant ou après avoir effectué son jet de sauvegarde. Le sort prend alors fin.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Respiration aquatique
 =====================
@@ -10835,15 +12089,19 @@ niveau 3 - transmutation (rituel)
 Ce sort procure à un maximum de dix créatures consentantes, à portée et que vous pouvez voir, la capacité de respirer sous l'eau jusqu'à la fin de sa durée. Les créatures affectées conservent également leur mode de respiration normale.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Restauration partielle
 ======================
@@ -10863,17 +12121,22 @@ niveau 2 - abjuration
 Vous touchez une créature et vous pouvez mettre fin à une maladie ou à un état l'affligeant. L'état peut être aveuglé, assourdi, paralysé ou empoisonné.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Restauration supérieure
 =======================
@@ -10897,15 +12160,19 @@ Vous imprégnez une créature que vous touchez d'une énergie positive afin d'an
 • Un effet qui réduit le maximum de points de vie de la cible  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Résurrection
 ============
@@ -10929,10 +12196,13 @@ Revenir du monde des morts est une épreuve. La cible subit une pénalité de -4
 Incanter ce sort pour redonner vie à une créature morte depuis plus d'une année vous handicape fortement. Jusqu'à ce que vous terminiez un repos long, vous ne pouvez pas incanter de sort et vous avez un désavantage à tous les jets d'attaque, de sauvegarde et de caractéristique.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Résurrection suprême
 ====================
@@ -10954,11 +12224,13 @@ Ce sort referme toutes les blessures, neutralise tout poison, guérit toutes les
 Le sort peut même fournir un nouveau corps si l'original n'existe plus. Dans ce cas, vous devez prononcer le nom de la créature et la créature apparaît alors dans un espace inoccupé que vous choisissez à 3 mètres ou moins de vous.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Retour à la vie
 ===============
@@ -10978,14 +12250,19 @@ niveau 3 - nécromancie
 Vous touchez une créature morte depuis au plus une minute. Cette créature revient à la vie avec 1 point de vie. Ce sort ne peut ni ramener à la vie une créature morte de vieillesse ni restaurer des parties perdues du corps.  
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Rôdeur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Sacre de la glace
 =================
@@ -11009,15 +12286,19 @@ Jusqu'à la fin du sort, la glace givre votre corps et vous bénéficiez des ava
 • Vous pouvez utiliser votre action pour créer un cône de 4,50 mètres s'étendant de vos mains tendues vers une direction choisie. Chaque créature dans le cône doit faire un jet de sauvegarde de Constitution, subissant 4d6 dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Une créature qui rate son jet de sauvegarde contre cet effet voit son mouvement être divisé par deux jusqu'à la fin de votre prochain tour.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Sacre de la pierre
 ==================
@@ -11040,15 +12321,19 @@ Jusqu'à la fin du sort, votre corps se recouvre de pierre et vous bénéficiez 
 • Vous pouvez vous déplacer sur des terrains difficiles faits de terre et de roche sans être affecté. Vous pouvez traverser la terre et la roche comme si c'était de l'air et sans les déstabiliser, mais vous ne pouvez pas vous y arrêter. Si vous le faites, vous êtes éjecté vers l'espace inoccupé le plus proche, ce sort se termine et vous êtes étourdi jusqu'à la fin de votre prochain tour.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Sacre des flammes
 =================
@@ -11071,15 +12356,19 @@ Les flammes courent sur votre corps et répandent, pour la durée du sort, une l
 • Vous pouvez utiliser votre action pour créer une ligne de feu de 4,50 mètres de long et 1,50 mètre de large s'étendant à partir de vous vers une direction de votre choix. Chaque créature dans la ligne de mire doit faire un jet de sauvegarde de Dextérité, subissant 4d8 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Sacre du vent
 =============
@@ -11102,15 +12391,19 @@ Jusqu'à la fin du sort le vent tourbillonne autour de vous et vous bénéficiez
 • Vous pouvez utiliser votre action pour créer un cube de 4,50 mètres d'arête de vent tourbillonnant ayant pour centre un point visible distant de 18 mètres maximum. Toute créature se trouvant dans cette zone doit faire un jet de sauvegarde de Constitution, subissant 2d10 dégâts contondants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Si une créature de taille G ou inférieure rate son jet de sauvegarde, elle est également repoussée de jusqu'à 3 mètres du centre du cube.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Sanctification
 ==============
@@ -11142,8 +12435,10 @@ Deuxièmement, vous pouvez apposer un effet supplémentaire à la zone. Choisiss
 **_Langues_**. Les créatures affectées peuvent communiquer avec toutes les autres créatures présentes dans la zone d'effet, même si elles n'ont aucun langage en commun.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Sanctuaire
 ==========
@@ -11164,8 +12459,10 @@ Vous protégez une créature dans la portée du sort contre les attaques. Jusqu'
 Si la créature protégée fait une attaque, lance un sort qui affecte une créature ennemie ou inflige des dégâts à une autre créature, ce sort se termine.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Sanctuaire privé de Mordenkainen
 ================================
@@ -11194,8 +12491,10 @@ Lancer ce sort au même endroit, tous les jours pendant un an, rend son effet pe
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, vous pouvez augmenter la taille du cube de 30 mètres pour chaque niveau d'emplacement au-delà du niveau 4. Ainsi vous pourriez protéger un cube de 60 mètres d'arête en utilisant un emplacement de sort de niveau 5.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Saut
 ====
@@ -11215,15 +12514,19 @@ niveau 1 - transmutation
 Vous touchez une créature. La distance de saut de la créature est triplée pour la durée du sort.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Saute de vent
 =============
@@ -11246,13 +12549,16 @@ Vous saisissez l'air et l'obligez à créer un des effets suivants à un point q
 • Vous créez un effet sensoriel inoffensif qui utilise l'air, comme provoquer le bruissement de feuilles, faire claquer des volets ou faire onduler des vêtements dans une brise.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Sauvagerie primitive
 ====================
@@ -11273,9 +12579,10 @@ Vous canalisez la magie primale pour qu'elle aiguise vos dents ou vos ongles, le
 Les dégâts du sort augmentent de 1d10 lorsque vous atteignez le niveau 5 (2d10), le niveau 11 (3d10) et le niveau 17 (4d10).  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Scrutation
 ==========
@@ -11336,17 +12643,22 @@ Un morceau de corps, une mèche de cheveux, un bout d'ongle, ou similaire
 En cas de réussite au jet de sauvegarde, la cible n'est pas affectée et vous ne pouvez plus utiliser ce sort contre elle pendant 24 heures. En cas d'échec, le sort crée un capteur invisible à 3 mètres de la cible. Vous pouvez voir et entendre comme si vous étiez à la place du capteur. Le capteur se déplace avec la cible, restant à 3 mètres d'elle pour toute la durée du sort. Une créature qui peut voir l'invisible voit le capteur comme un orbe lumineux de la taille de votre poing. Plutôt que de cibler une créature, vous pouvez cibler un lieu que vous avez déjà vu par le passé. Dans ce cas, le capteur apparaît à l'endroit ciblé et ne bouge pas.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Secousse sismique
 =================
@@ -11367,15 +12679,19 @@ Vous causez un tremblement dans le sol à portée. Chaque créature autre que vo
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Sens animal
 ===========
@@ -11395,9 +12711,10 @@ niveau 2 - divination (rituel)
 Vous touchez une bête consentante. Pour la durée du sort, vous pouvez utiliser votre action pour voir à travers les yeux de la bête et entendre ce qu'elle entend. Vous pouvez continuer jusqu'à ce que vous utilisiez une action pour retrouver vos propres sens. Lorsque vous percevez par l'intermédiaire des sens de la bête, vous bénéficiez des sens spéciaux que possède la créature. Cependant, vous perdez l'usage de vos propres sens.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -11420,13 +12737,16 @@ Ce sort vous permet de déterminer le chemin physique le plus court et le plus d
 Pour la durée du sort, aussi longtemps que vous êtes sur le même plan d'existence que la destination, vous en connaissez la distance et la direction. Lorsque vous vous y déplacez, chaque fois que vous êtes confronté à un choix d'itinéraire, vous déterminez automatiquement lequel présente la route la plus courte et la plus directe (mais pas nécessairement la plus sure) vers votre destination.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Sens des pièges
 ===============
@@ -11447,13 +12767,16 @@ Vous ressentez la présence de tout piège se trouvant à portée et dans votre 
 Ce sort révèle simplement qu'un piège est présent. Vous n'apprenez pas l'emplacement de chaque piège, mais vous apprenez la nature générale du danger que représente le piège que vous avez détecté.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Serviteur invisible
 ===================
@@ -11475,12 +12798,16 @@ Une fois par tour, par une action bonus, vous pouvez mentalement ordonner au ser
 Si vous demandez à votre serviteur d'effectuer une tâche qui devrait l'envoyer à plus de 18 mètres de vous, le sort prend fin.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Serviteur miniature
 ===================
@@ -11502,8 +12829,10 @@ Description non disponible (non OGL). Résumé :
 Transforme un objet de taille TP en une créature avec bras et jambes qui obéit au lanceur (+2 objets/niv).
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Sieste
 ======
@@ -11524,12 +12853,16 @@ Vous faites un geste apaisant et jusqu'à trois créatures volontaires de votre 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous pouvez cibler une créature volontaire supplémentaire pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Silence
 =======
@@ -11550,12 +12883,16 @@ Pour la durée du sort, aucun son ne peut être créé au sein (ou passer à tra
 Lancer un sort qui comprend une composante verbale à l'intérieur de la sphère est impossible.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Simulacre
 =========
@@ -11578,8 +12915,10 @@ Si le simulacre subit des dégâts, vous pouvez le réparer dans un laboratoire 
 Si vous lancez ce sort de nouveau, tout clone actuellement actif que vous avez créé grâce à ce sort est instantanément détruit.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Simulacre de vie
 ================
@@ -11600,10 +12939,13 @@ Vous vous protégez avec un semblant nécromantique de vie. Vous gagnez 1d4 + 4 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous gagnez 5 points de vie temporaires supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Soins
 =====
@@ -11624,17 +12966,22 @@ Une créature que vous touchez récupère un nombre de points de vie égal à 1d
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, la quantité de points de vie récupérés est augmentée de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Soins de groupe
 ===============
@@ -11655,13 +13002,16 @@ Un flot d'énergie curative émane d'un point de votre choix dans la portée du 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, la quantité de points de vie récupérés est augmentée de 1d8 pour chaque niveau d'emplacement au-delà du niveau 5.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Sommeil
 =======
@@ -11684,12 +13034,16 @@ Les morts-vivants et les créatures immunisées contre les effets de charme ne s
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, lancez 2d8 supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Songe
 =====
@@ -11712,12 +13066,16 @@ Le messager peut prendre la forme d'un monstre terrifiant aux yeux de la cible. 
 Si vous possédez une partie du corps, une mèche de cheveux, un ongle coupé ou une portion semblable du corps de la cible, celle-ci fait son jet de sauvegarde avec un désavantage.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Songe du voile bleu
 ===================
@@ -11739,12 +13097,16 @@ Description non disponible (non OGL). Résumé :
 Vous et jusqu'à 8 créatures consentantes tombez inconscients et êtes transportés dans un autre monde sur le plan matériel.
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -11767,10 +13129,13 @@ Vous touchez une créature consentante et lui donnez le pouvoir de cracher de l'
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Souhait
 =======
@@ -11798,10 +13163,13 @@ Vous pouvez également réaliser d'autres choses que les exemples ci-dessus. Dé
 Le stress de lancer ce sort pour produire un effet autre que la reproduction d'un autre sort vous affaiblit. Après avoir subi cette tension, chaque fois que vous lancez un sort avant d'avoir terminé un repos long, vous subissez 1d10 dégâts nécrotiques par niveau de sort. Ces dégâts ne peuvent être réduits ou évités, d'une quelconque manière. De plus, votre Force tombe à 3, si elle n'est pas déjà inférieure à 3, pendant 2d4 jours. Pour chaque jour passé à vous reposer ou à pratiquer une activité mineure, votre temps de récupération diminue de 2 jours. Enfin, vous avez 33 % de chance de ne plus jamais être capable de lancer le sort _souhait_ si vous avez subi ce stress.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Sphère aqueuse
 ==============
@@ -11825,13 +13193,16 @@ En tant qu'action, vous pouvez déplacer la sphère jusqu'à 9 mètres en ligne 
 Quand le sort se termine, la sphère tombe au sol et éteint toutes les flammes normales dans un rayon de 9 mètres. Toute créature entravée par la sphère se retrouve à terre dans l'espace où elle tombe. Puis l'eau disparait.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Sphère de feu
 =============
@@ -11854,13 +13225,16 @@ Lorsque vous déplacez la sphère, vous pouvez la diriger par-dessus des barriè
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts sont augmentés de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Ensorceleur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Sphère de tempête
 =================
@@ -11883,10 +13257,13 @@ Les créatures à 9 mètres ou moins de la sphère ont un désavantage à leurs 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 4.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Sphère de vitriol
 =================
@@ -11907,10 +13284,13 @@ Vous visez un endroit à portée du sort, et une balle brillante d'acide émerau
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts initiaux augmentent de 2d4 pour chaque niveau d'emplacement au-delà du niveau 4.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Sphère glaciale d'Otiluke
 =========================
@@ -11933,10 +13313,13 @@ Si vous le souhaitez, vous pouvez vous abstenir de tirer le globe une fois que v
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
 Magicien
+{: .label .label-green }
 
 Ensorceleur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Sphère résiliente d'Otiluke
 ===========================
@@ -11959,8 +13342,10 @@ La sphère n'a pas de poids et est tout juste assez large pour contenir la créa
 Un sort de _désintégration_ ciblant le globe le détruit sans rien endommager de ce qu'il contient.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Stabilisation
 =============
@@ -11980,8 +13365,10 @@ niveau 0 - nécromancie
 Vous touchez une créature vivante qui est à 0 point de vie. La créature devient stable. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Suggestion
 ==========
@@ -12004,14 +13391,19 @@ Vous pouvez également spécifier des conditions qui déclencheront une activit�
 Si vous, ou un de vos compagnons, blessez la cible, le sort se termine.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Suggestion de groupe
 ====================
@@ -12035,14 +13427,19 @@ Si vous, ou un de vos compagnons, blessez une des créatures sous l'effet de ce 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7, la durée du sort augmente à 10 jours. Avec un emplacement de sort de niveau 8, la durée du sort augmente à 30 jours. Avec un emplacement de sort de niveau 9, la durée du sort augmente à une année plus un jour.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Symbole
 =======
@@ -12074,14 +13471,19 @@ Lorsque vous inscrivez le glyphe, choisissez l'un des options suivantes pour dé
 **Étourdissement**. Chaque cible doit réussir un jet de sauvegarde de Sagesse sous peine d'être étourdie pendant 1 minute.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Druide \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Télékinésie
 ===========
@@ -12104,10 +13506,13 @@ Vous obtenez la capacité de déplacer ou manipuler les créatures ou les objets
 Vous pouvez exercer un contrôle fin sur les objets avec votre emprise télékinétique, comme manipuler un objet simple, ouvrir une porte ou un contenant, déposer ou récupérer un objet d'un contenant ouvert, ou déverser le contenu d'une fiole.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Télépathie
 ==========
@@ -12128,8 +13533,10 @@ Vous créez un lien télépathique entre vous et une créature consentante qui v
 Jusqu'à ce que le sort prenne fin, vous et la cible pouvez échanger instantanément des mots, des images, des sons et tout autre message sensoriel entre vous. La cible qui reçoit le message sait qu'il vient de vous. Le sort permet à une créature ayant une valeur d'Intelligence de 1 au minimum de comprendre la signification de vos mots et de saisir le sens des messages sensoriels que vous lui envoyez.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Téléportation
 =============
@@ -12243,12 +13650,16 @@ Fausse destination
 **_Incident_**. Les effets magiques imprévisibles du sort résultent en un voyage périlleux. Chaque créature téléportée (ou l'objet ciblé) subit 3d10 dégâts de force et le MD relance sur la table pour voir où vous vous retrouvez à présent (plusieurs incidents peuvent alors se produire de suite, infligeant des dégâts à chaque fois).  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Tempête de feu
 ==============
@@ -12269,13 +13680,16 @@ Une tempête formée de rideaux enflammés apparait à l'endroit de votre choix,
 Le feu endommage les objets dans la zone et allume les objets inflammables qui ne sont pas portés ou transportés. Si vous le souhaitez, les végétaux dans la zone ne sont pas touchés par le sort.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Tempête de grêle
 ================
@@ -12297,13 +13711,16 @@ Les grêlons transforment la zone d'effet de la tempête en un terrain difficile
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts contondants augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 4.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Tempête de neige
 ================
@@ -12325,13 +13742,16 @@ Le sol dans la zone est couvert de glace glissante, rendant le terrain difficile
 Si une créature commence son tour dans la zone d'effet du sort tout en étant concentrée sur un sort, elle doit réussir un jet de sauvegarde de Constitution contre le DD de sauvegarde de votre sort, sans quoi elle perd sa concentration.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Tempête vengeresse
 ==================
@@ -12356,9 +13776,10 @@ Pour chaque round durant lequel vous maintenez votre concentration sur ce sort, 
 **Round 5-10**. Des rafales de vent et des pluies glaciales se déchaînent dans la zone sous le nuage. La zone devient un terrain difficile et est profondément obscurcie. Chaque créature qui s'y trouve subit 1d6 dégâts de froid. Les attaques à distance avec une arme sont impossibles dans la zone. Le vent et la pluie compte comme une distraction importante pour ce qui est de maintenir sa concentration sur ses sorts. Enfin, les puissantes rafales de vent (atteignant 30 à 75 km/h) dispersent automatiquement le brouillard, le brume, et tout autre phénomène similaire dans la zone, qu'ils soient naturels ou magiques.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Temple des dieux
 ================
@@ -12380,8 +13801,10 @@ Description non disponible (non OGL). Résumé :
 Fait apparaitre un temple dédié à un dieu sur une surface de 36 x 36 m pour 1 jour.
 
 Clerc
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Ténèbres
 ========
@@ -12403,12 +13826,16 @@ Si le point choisi est un objet que vous portez ou qui n'est pas porté ou trans
 Si n'importe quelle portion de ce sort chevauche une portion de lumière créée par un sort de niveau 2 ou moins, le sort de lumière est alors dissipé.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Ténèbres oppressantes
 =====================
@@ -12430,10 +13857,13 @@ Description non disponible (non OGL). Résumé :
 Les créatures dans une sphère de ténèbres de 18 m de rayon doivent réussir un JdS de Sag. ou subir 8d8 dégâts psychiques.
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Tentacules de Hadar
 ===================
@@ -12455,8 +13885,10 @@ Des sarments d'énergie noire jaillissent de vous et frappent toutes les créatu
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Tentacules noirs d'Evard
 ========================
@@ -12478,8 +13910,10 @@ Lorsqu'une créature pénètre dans la zone affectée pour la première fois lor
 Une créature entravée par les tentacules peut utiliser son action pour faire un jet de Force ou de Dextérité (selon son choix) contre le DD de sauvegarde de votre sort. En cas de réussite, elle se libère.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Terraformage
 ============
@@ -12503,13 +13937,16 @@ Ce sort ne peut manipuler la pierre naturelle et les constructions en pierre. La
 De même, le sort n'affecte pas la croissance de la végétation. Les plantes sont transportées par le mouvement du sol.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Terrain hallucinatoire
 ======================
@@ -12530,15 +13967,19 @@ Vous faites en sorte qu'un terrain dans un cube de 45 mètres d'arête, à port�
 Les caractéristiques palpables du terrain ne sont pas modifiées, ce qui fait que les créatures qui pénètrent dans la zone voient probablement au travers de l'illusion. Si la différence entre l'illusion et la réalité n'est pas évidente par le contact, une créature qui examine attentivement l'illusion peut tenter un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort pour ne plus en être affectée. Une créature qui comprend que l'illusion en est une, la voit comme une vague image superposée au terrain réel.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Texte illusoire
 ===============
@@ -12561,12 +14002,16 @@ Dans le cas où le sort serait dissipé, le texte original et l'illusion dispara
 Une créature qui possède la vision véritable peut lire le message caché.  
 
 Barde
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Thaumaturgie
 ============
@@ -12593,8 +14038,10 @@ Vous simulez une chose extraordinaire, un signe de puissance surnaturelle. Vous 
 Si vous lancez ce sort plusieurs fois, vous pouvez avoir activement jusqu'à trois de ses effets à la fois, et vous pouvez rompre un effet au prix d'une action.  
 
 Clerc
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Toile d'araignée
 ================
@@ -12618,10 +14065,13 @@ Une créature entravée par les toiles peut utiliser son action pour faire un je
 Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé au feu se consume en un round, causant 2d4 dégâts de feu à toute créature commençant son tour dans les toiles enflammées.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Toucher du vampire
 ==================
@@ -12642,12 +14092,16 @@ Le contact de votre main nimbée d'ombres peut aspirer la force vitale des autre
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Ensorceleur \[TCoE\]
+{: .label .label-purple }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Tourbillon
 ==========
@@ -12669,13 +14123,16 @@ Une créature doit faire un jet de sauvegarde de Dextérité la première fois d
 Une créature entravée peut utiliser une action pour faire un jet de Force ou de Dextérité contre le DD de sauvegarde de votre sort. En cas de réussite, la créature n'est plus entravée par la tornade et est projetée à 3d6 x 3 mètres dans une direction aléatoire.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Tourbillon de poussière
 =======================
@@ -12698,13 +14155,16 @@ Par une action bonus, vous pouvez déplacer le tourbillon de poussière jusqu'à
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Trait de feu
 ============
@@ -12725,10 +14185,13 @@ Vous lancez un trait de feu sur une créature ou un objet à portée. Faites une
 Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4d10).  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Trait ensorcelé
 ===============
@@ -12749,10 +14212,13 @@ Un rayon d'énergie bleu crépitante est projeté sur une créature à portée, 
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts initiaux sont augmentés de 1d12 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (BR+)
 
@@ -12775,10 +14241,13 @@ Vous sacrifiez une partie de votre santé pour soigner les blessures d'une autre
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Transformation de Tenser
 ========================
@@ -12800,8 +14269,10 @@ Description non disponible (non OGL). Résumé :
 La lanceur gagne 50 pv, l'avantage aux jets d'attaque, 2d12 extra de dégâts de force, des maîtrises martiales et deux attaques.
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Transformation draconique
 =========================
@@ -12823,13 +14294,16 @@ Description non disponible (non OGL). Résumé :
 Le lanceur gagne vision aveugle (9 m), souffle (6d8 dégâts de force dans un cône de 18 m) et des ailes (vitesse de vol de 18 m).
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Fizban´s Treasury of Dragons
+{: .label .label-red }
 
 Transmutation de la pierre
 ==========================
@@ -12853,11 +14327,13 @@ Si vous lancez le sort sur un plafond, la boue tombe. Toute créature sous cette
 **Transmutation de la boue en roche**. De la boue ou des sables mouvants dans la zone se transforment en pierre tendre sur un maximum de 3 mètres de profondeur pour la durée du sort. Toute créature dans la zone lorsque la boue se transforme doit faire un jet de sauvegarde de Dextérité. En cas de réussite au jet de sauvegarde, la créature est déplacée de façon sûre vers un espace inoccupé. En cas d'échec, la créature se retrouve entravée par la roche. Une créature restrainte, ou une autre créature à portée, peut utiliser une action pour tenter de briser le rocher en réussissant un jet de Force DD 20 ou en lui infligeant des dégâts. Le rocher a une CA de 15, 25 points de vie, et est immunisé contre le poison et les dégâts psychiques.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Tremblement de terre
 ====================
@@ -12883,13 +14359,16 @@ Une fissure qui s'ouvre sous une structure cause l'effondrement de la structure 
 **_Structures_**. La secousse inflige 50 dégâts contondants à toute structure en contact avec le sol qui se trouve dans la zone lorsque vous incantez le sort ainsi qu'au début de chacun de vos tours jusqu'à ce que le sort prenne fin. Si la structure atteint 0 point de vie, elle s'effondre pour possiblement blesser les créatures proches. Une créature située à la moitié ou moins de la hauteur de la structure doit réaliser un jet de sauvegarde de Dextérité. En cas d'échec, elle subit 5d6 dégâts contondants, tombe à terre et est ensevelie dans les décombres. Un jet de Force (Athlétisme) de DD 20 est requis pour s'en extirper. Le MD peut ajuster le DD en fonction de la nature des décombres. En cas de réussite, la créature subit la moitié de ces dégâts, ne tombe pas à terre et n'est pas ensevelie.  
 
 Clerc
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Tsunami
 =======
@@ -12913,9 +14392,10 @@ Au début de chacun de vos tours après que le mur soit apparu, le mur, ainsi qu
 Une créature piégée dans le mur peut se déplacer en nageant. Cependant, du fait de la puissance de la vague, une créature doit réussir un jet de Force (Athlétisme) contre le DD de sauvegarde de votre sort pour pouvoir se déplacer. Si elle échoue, elle ne peut pas bouger. Une créature qui se déplace en dehors de la zone d'effet tombe au sol.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Urne magique
 ============
@@ -12941,8 +14421,10 @@ Si le récipient est détruit ou si le sort prend fin, votre âme retourne immé
 Lorsque le sort prend fin, le récipient se détruit.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Vague destructrice
 ==================
@@ -12962,8 +14444,10 @@ niveau 5 - évocation
 Vous frappez le sol, créant une onde d'énergie divine qui se propage à partir de vous. Chaque créature que vous choisissez, située à 9 mètres ou moins de vous, doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, elle subit 5d6 dégâts de tonnerre ainsi que 5d6 dégâts radiants ou nécrotiques (au choix) et tombe à terre. En cas de réussite elle ne subit que la moitié de ces dégâts et ne tombe pas à terre.  
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Vague tonnante
 ==============
@@ -12985,15 +14469,19 @@ En outre, les objets non fixés qui se trouvent entièrement dans la zone d'effe
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Vent protecteur
 ===============
@@ -13019,15 +14507,19 @@ Le vent a les effets suivants :
 • Les attaques à distance avec une arme ont un désavantage si elles rentrent ou sortent de la zone de vent.  
 
 Barde
+{: .label .label-green }
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Xanathar´s Guide to Everything
+{: .label .label-red }
 
 Verrou magique
 ==============
@@ -13048,8 +14540,10 @@ Vous touchez un objet fermé comme une porte, une fenêtre, un portail ou un cof
 L'objet affecté par le sort est plus difficile à briser ou forcer ; le DD pour le briser ou tenter de le crocheter augmente de 10.  
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Vision dans le noir
 ===================
@@ -13069,15 +14563,19 @@ niveau 2 - transmutation
 Vous touchez une créature consentante pour lui conférer la capacité de voir dans le noir. Pour la durée du sort, cette créature obtient la vision dans le noir (portée 18 mètres).  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Rôdeur
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Vision suprême
 ==============
@@ -13097,16 +14595,22 @@ niveau 6 - divination
 Ce sort donne à la créature consentante que vous touchez la capacité de voir les choses telles qu'elles sont réellement. Pour la durée du sort, la créature est dotée d'une vision véritable, remarque les portes secrètes cachées par magie et peut voir dans le plan éthéré jusqu'à une portée de 36 mètres.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Voie végétale
 =============
@@ -13126,9 +14630,10 @@ niveau 6 - invocation
 Ce sort crée un lien magique entre une plante inanimée de taille G ou supérieure se trouvant à portée et une autre plante pouvant se trouver n'importe où sur le même plan d'existence. Vous devez avoir déjà vu ou touché au moins une fois la plante de destination. Pour toute la durée du sort, n'importe quelle créature peut pénétrer dans la plante ciblée et en sortir par la plante de destination en utilisant 1,50 mètre de son mouvement.  
 
 Druide
-{: .label }
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Voile spirituel
 ===============
@@ -13150,12 +14655,16 @@ Description non disponible (non OGL). Résumé :
 Si l'attaque touche, inflige 1d8 dégâts radiants, nécrotiques ou de froid extra. La cible ne regagne de pv ce tour (dégâts/niv).
 
 Clerc
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Tasha´s Cauldron of Everything
 
@@ -13177,12 +14686,16 @@ niveau 2 - divination
 Pour la durée du sort, vous percevez les créatures et objets invisibles comme s'ils étaient visibles, et vous pouvez voir dans le plan éthéré. Les objets et créatures éthérées apparaissent fantomatiques et translucides.  
 
 Barde
+{: .label .label-green }
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Vol
 ===
@@ -13203,12 +14716,16 @@ Vous touchez une créature consentante. La cible obtient une vitesse de vol de 1
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous pouvez cibler une créature additionnelle pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 Ensorceleur
+{: .label .label-green }
 
 Magicien
+{: .label .label-green }
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-red }
 
 Voracité de Hadar
 =================
@@ -13229,8 +14746,10 @@ Vous ouvrez une passerelle dans l'obscurité qui règne entre les étoiles, vers
 Le néant altère et déforme la trame de l'espace, la zone est alors considérée comme un terrain difficile. Toute créature qui commence son tour dans la zone subit 2d6 dégâts de froid. Toute créature qui termine son tour dans la zone doit effectuer un jet de sauvegarde de Dextérité, subissant 2d6 dégâts d'acide du fait des tentacules laiteuses venant de l'autre monde qui se frottent contre elle en cas d'échec.  
 
 Occultiste
+{: .label .label-green }
 
 Player´s Handbook
+{: .label .label-purple }
 
 Zone de vérité
 ==============
@@ -13251,9 +14770,13 @@ Vous créez une zone magique qui protège de la tromperie dans une sphère de 4,
 Une créature affectée est consciente du sort et peut ainsi éviter de répondre à des questions auxquelles elle aurait normalement répondu par un mensonge. Une telle créature peut rester évasive dans ses réponses tant qu'elles restent dans les limites de la vérité.  
 
 Barde
+{: .label .label-green }
 
 Clerc
+{: .label .label-green }
 
 Paladin
+{: .label .label-green }
 
 Player´s Handbook (SRD)
+{: .label .label-purple }
