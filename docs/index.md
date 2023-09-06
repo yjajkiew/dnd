@@ -53,6 +53,3 @@ Site web : [https://yann.me](https://yann.me)
 
 Contact : contact@yann.me
 
-
-{% include comments.md %}
-
