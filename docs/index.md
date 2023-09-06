@@ -7,7 +7,7 @@ comments: true
 
 # Donjons & Dragons 
 
-<p align="center"><img src="/assets/domotique-yann-logo.png" /></p>
+<p align="center"><img src="/assets/dungeons-and-dragons-logo.png" /></p>
 
 *TODO*
 
