@@ -10713,7 +10713,7 @@ _Fiélon (démon) de taille P, chaotique mauvais_
 **Langues** abyssal, télépathie 18 m (ne fonctionne qu'avec les créatures qui comprennent l'abyssal)  
 **Puissance** 1/4 (50 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Griffes**. +2, 1,50 m, 2d4 tranchants  
 A|**Morsure**. +2, 1,50 m, 1d6 perforants  
 A|**Nuage fétide (1/jour)**.  
