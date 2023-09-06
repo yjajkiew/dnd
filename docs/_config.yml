@@ -1,0 +1,24 @@
+#theme: jekyll-theme-leap-day
+remote_theme: pmarsceill/just-the-docs
+
+title: DnD | Donjons & Drgons | yann.me
+description: Aides, astuces, campagnes, ressources Donjons & Dragons
+
+logo: "/assets/domotique-yann-logo.png"
+
+aux_links:
+  "Retour au site yann.me":
+    - "https://yann.me"
+
+# Enable or disable the site search
+search_enabled: true
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2023  Yann Jajkiewicz."
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
+
+# jekyll plugins
+plugins:
+  - jekyll-sitemap
