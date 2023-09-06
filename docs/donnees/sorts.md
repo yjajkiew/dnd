@@ -6198,6 +6198,8 @@ Magicien
 {: .label .label-green }
 
 Player´s Handbook (BR+)
+{: .label .label-red }
+
 
 Forme éthérée
 =============
