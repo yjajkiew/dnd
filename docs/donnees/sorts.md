@@ -42,7 +42,7 @@ Xanathar´s Guide to Everything
 Agrandissement/Rapetissement
 ============================
 
-\[ Enlarge/Reduce \]
+_\[ Enlarge/Reduce \]_
 
 niveau 2 - transmutation
 
@@ -1117,7 +1117,7 @@ Player´s Handbook (SRD)
 Aversion/Attirance
 ==================
 
-\[ Antipathy/Sympathy \]
+_\[ Antipathy/Sympathy \]_
 
 niveau 8 - enchantement
 
@@ -1752,7 +1752,7 @@ Xanathar´s Guide to Everything
 Cécité/Surdité
 ==============
 
-\[ Blindness/Deafness \]
+_\[ Blindness/Deafness \]_
 
 niveau 2 - nécromancie
 
@@ -4634,7 +4634,7 @@ Player´s Handbook (SRD)
 Dissimulation
 =============
 
-_\[ Sequester \]_ \[ Dissimulation suprême \]
+_\[ Sequester \] \[ Dissimulation suprême \]_
 
 niveau 7 - transmutation
 
@@ -6030,7 +6030,7 @@ Player´s Handbook (SRD)
 Fléau
 =====
 
-_\[ Bane \]_ \[ Imprécation \]
+_\[ Bane \] \[ Imprécation \]_
 
 niveau 1 - enchantement
 
@@ -6391,7 +6391,7 @@ Player´s Handbook (SRD)
 Formes animales
 ===============
 
-_\[ Animal Shapes \]_ \[ Métamorphose animale \]
+_\[ Animal Shapes \] \[ Métamorphose animale \]_
 
 niveau 8 - transmutation
 
@@ -7777,7 +7777,7 @@ Player´s Handbook (SRD)
 Invisibilité supérieure
 =======================
 
-_\[ Greater Invisibility \]_ \[ Invisibilité suprême \]
+_\[ Greater Invisibility \] \[ Invisibilité suprême \]_
 
 niveau 4 - illusion
 
@@ -7986,7 +7986,7 @@ Player´s Handbook (SRD)
 Invocation de projectiles
 =========================
 
-_\[ Conjure Barrage \]_ \[ Hérissement de projectiles \]
+_\[ Conjure Barrage \] \[ Hérissement de projectiles \]_
 
 niveau 3 - invocation
 
@@ -9431,7 +9431,7 @@ Player´s Handbook (SRD)
 Mort simulée
 ============
 
-_\[ Feign Death \]_ \[ État cadavérique \]
+_\[ Feign Death \] \[ État cadavérique \]_
 
 niveau 3 - nécromancie (rituel)
 
@@ -11128,7 +11128,7 @@ Player´s Handbook (SRD)
 Projection d'image
 ==================
 
-_\[ Project Image \]_ \[ Image projetée \]
+_\[ Project Image \] \[ Image projetée \]_
 
 niveau 7 - illusion
 
@@ -12076,7 +12076,7 @@ Player´s Handbook (SRD)
 Restauration supérieure
 =======================
 
-_\[ Greater Restoration \]_ \[ Restauration suprême \]
+_\[ Greater Restoration \] \[ Restauration suprême \]_
 
 niveau 5 - abjuration
 
@@ -12686,7 +12686,7 @@ Player´s Handbook (SRD)
 Sens des pièges
 ===============
 
-_\[ Find Traps \]_ \[ Détection des pièges \]
+_\[ Find Traps \] \[ Détection des pièges \]_
 
 niveau 2 - divination
 
