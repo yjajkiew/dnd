@@ -1,5 +1,6 @@
 #theme: jekyll-theme-leap-day
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+remote_theme: jeremyboggs/5e
 
 title: DnD | Donjons & Drgons | yann.me
 description: Aides, astuces, campagnes, ressources Donjons & Dragons
