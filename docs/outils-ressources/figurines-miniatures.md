@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Figurines & Miniatures
-parent: Outils
+parent: Outils & Ressources
 nav_order: 4
 ---
 
