@@ -33526,7 +33526,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Vecna l'archiliche
+Vecna l'archiliche
 ======================
 
 _\[ Vecna the Archlich \]_
