@@ -3082,7 +3082,7 @@ Frappe contraignante.
 
 _Rules (Tasha´s Cauldron of Everything)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 Bête de la terre
 ==================
@@ -3109,7 +3109,7 @@ Maillet.
 
 _Rules (Tasha´s Cauldron of Everything)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 Bête du ciel
 ==============
@@ -3136,7 +3136,7 @@ Déchiqueté.
 
 _Rules (Tasha´s Cauldron of Everything)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 Bête éclipsante
 =================
@@ -5727,7 +5727,7 @@ A|**Voix autoritaire**.
 
 _Adventures (Descent into Avernus)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 Corbeau
 =========
@@ -5990,7 +5990,7 @@ R|**Inarrêtable (3/jour)**.
 
 _Adventures (Descent into Avernus)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 Crânefeu
 ==========
@@ -6483,7 +6483,7 @@ R|**Parade d'attaque**.
 
 _Rules (Tasha´s Cauldron of Everything)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 Demi-dragon rouge, vétéran
 ============================
@@ -14931,7 +14931,7 @@ Gantelet noir de Baine
 
 _\[ Black Gauntlet of Bane \]_
 
-__Humanoïde (humain) de taille M, loyal mauvais__
+_Humanoïde (humain) de taille M, loyal mauvais_
 
 **Classe d'armure** 16 (cotte de mailles)  
 **Points de vie** 51 (6d8 + 24)  
@@ -14968,7 +14968,7 @@ Garde
 
 _\[ Guard \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 11 (2d8 + 2)  
@@ -15057,7 +15057,7 @@ __Garou-chacal
 
 _\[ Jackalwere \]_
 
-__Humanoïde (métamorphe) de taille M, chaotique mauvais__
+_Humanoïde (métamorphe) de taille M, chaotique mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 18 (4d8)  
@@ -15265,8 +15265,7 @@ _Géant de taille P, loyal mauvais_
 A|**Massue**. +4, 1,50 m, 1d6+2 contondants  
 A|**Rocher**. +4, 6/18 m, 1d8+2 contondants  
 
-
-Extra (Adventurers League)__
+_Extra (Adventurers League)_
 {: .label .label-red }
 
 Géant des nuages
@@ -15543,7 +15542,7 @@ __Géant des tempêtes, quintessent legacy
 
 _\[ Storm Giant Quintessent \]_
 
-__Géant (géant des tempêtes) de taille TG, chaotique bon__
+_Géant (géant des tempêtes) de taille TG, chaotique bon_
 
 **Classe d'armure** 12  
 **Points de vie** 230 (20d12 + 100)  
@@ -15873,7 +15872,7 @@ Giff
 
 _\[ Giff \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 16 (cuirasse)  
 **Points de vie** 60 (8d8 + 24)  
@@ -15903,7 +15902,7 @@ Giff legacy
 
 _\[ Giff \]_
 
-__Humanoïde de taille M, loyal neutre__
+_Humanoïde de taille M, loyal neutre_
 
 **Classe d'armure** 16 (cuirasse)  
 **Points de vie** 60 (8d8 + 24)  
@@ -15990,7 +15989,7 @@ Githyanki, chevalier
 
 _\[ Githyanki Knight \]_
 
-__Humanoïde (gith) de taille M, loyal mauvais__
+_Humanoïde (gith) de taille M, loyal mauvais_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 91 (14d8 + 28)  
@@ -16012,8 +16011,7 @@ __Humanoïde (gith) de taille M, loyal mauvais__
 A|**Attaques multiples**.  
 A|**Épée à deux mains en argent**. +9, 1,50 m, 2d6+6 tranchants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 __Githyanki, commandant suprême
@@ -16021,7 +16019,7 @@ __Githyanki, commandant suprême
 
 _\[ Githyanki Supreme Commander \]_
 
-__Humanoïde (gith) de taille M, tout alignement__
+_Humanoïde (gith) de taille M, tout alignement_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 187 (22d8 + 88)  
@@ -16054,7 +16052,7 @@ __Githyanki, commandant suprême legacy
 
 _\[ Githyanki Supreme Commander \]_
 
-__Humanoïde (gith) de taille M, loyal mauvais__
+_Humanoïde (gith) de taille M, loyal mauvais_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 187 (22d8 + 88)  
@@ -16086,7 +16084,7 @@ Githyanki, gish
 
 _\[ Githyanki Gish \]_
 
-__Humanoïde (gith, magicien) de taille M, tout alignement__
+_Humanoïde (gith, magicien) de taille M, tout alignement_
 
 **Classe d'armure** 17 (demi-plate)  
 **Points de vie** 130 (20d8 + 40)  
@@ -16116,7 +16114,7 @@ Githyanki, gish legacy
 
 _\[ Githyanki Gish \]_
 
-__Humanoïde (gith) de taille M, loyal mauvais__
+_Humanoïde (gith) de taille M, loyal mauvais_
 
 **Classe d'armure** 17 (demi-plate)  
 **Points de vie** 123 (19d8 + 38)  
@@ -16146,7 +16144,7 @@ Githyanki, guerrier
 
 _\[ Githyanki Warrior \]_
 
-__Humanoïde (gith) de taille M, loyal mauvais__
+_Humanoïde (gith) de taille M, loyal mauvais_
 
 **Classe d'armure** 17 (demi-plate)  
 **Points de vie** 49 (9d8 + 9)  
@@ -16167,8 +16165,7 @@ __Humanoïde (gith) de taille M, loyal mauvais__
 A|**Attaques multiples**.  
 A|**Épée à deux mains**. +4, 1,50 m, 2d6+2 tranchants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 __Githyanki, kith'rak
@@ -16237,7 +16234,7 @@ Githzerai, anarque
 
 _\[ Githzerai Anarch \]_
 
-__Humanoïde (gith) de taille M, tout alignement__
+_Humanoïde (gith) de taille M, tout alignement_
 
 **Classe d'armure** 20 (défense psychique)  
 **Points de vie** 144 (17d8 + 68)  
@@ -16270,7 +16267,7 @@ Githzerai, anarque legacy
 
 _\[ Githzerai Anarch \]_
 
-__Humanoïde (gith) de taille M, loyal neutre__
+_Humanoïde (gith) de taille M, loyal neutre_
 
 **Classe d'armure** 20  
 **Points de vie** 144 (17d8 + 68)  
@@ -16302,7 +16299,7 @@ Githzerai, illuminé
 
 _\[ Githzerai Enlightened \]_
 
-__Humanoïde (gith) de taille M, tout alignement__
+_Humanoïde (gith) de taille M, tout alignement_
 
 **Classe d'armure** 18 (défense psychique)  
 **Points de vie** 112 (15d8 + 45)  
@@ -16333,7 +16330,7 @@ Githzerai, illuminé legacy
 
 _\[ Githzerai Enlightened \]_
 
-__Humanoïde (gith) de taille M, loyal neutre__
+_Humanoïde (gith) de taille M, loyal neutre_
 
 **Classe d'armure** 18  
 **Points de vie** 112 (15d8 + 45)  
@@ -16363,7 +16360,7 @@ Githzerai, moine
 
 _\[ Githzerai Monk \]_
 
-__Humanoïde (gith) de taille M, loyal neutre__
+_Humanoïde (gith) de taille M, loyal neutre_
 
 **Classe d'armure** 14  
 **Points de vie** 38 (7d8 + 7)  
@@ -16386,8 +16383,7 @@ __Humanoïde (gith) de taille M, loyal neutre__
 A|**Attaques multiples**.  
 A|**Attaque à mains nues**. +4, 1,50 m, 1d8+2 contondants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Githzerai, zerth
@@ -16395,7 +16391,7 @@ Githzerai, zerth
 
 _\[ Githzerai Zerth \]_
 
-__Humanoïde (gith) de taille M, loyal neutre__
+_Humanoïde (gith) de taille M, loyal neutre_
 
 **Classe d'armure** 17  
 **Points de vie** 84 (13d8 + 26)  
@@ -16419,8 +16415,7 @@ __Humanoïde (gith) de taille M, loyal neutre__
 A|**Attaques multiples**.  
 A|**Attaque à mains nues**. +7, 1,50 m, 2d6+4 contondants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Glabrezu
@@ -16463,7 +16458,7 @@ Gladiateur
 
 _\[ Gladiator \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 16 (armure de cuir clouté, bouclier)  
 **Points de vie** 112 (15d8 + 45)  
@@ -16495,7 +16490,7 @@ Gnoll
 
 _\[ Gnoll \]_
 
-__Humanoïde (gnoll) de taille M, chaotique mauvais__
+_Humanoïde (gnoll) de taille M, chaotique mauvais_
 
 **Classe d'armure** 15 (armure de peaux, bouclier)  
 **Points de vie** 22 (5d8)  
@@ -16552,7 +16547,7 @@ Gnoll, carnasseur legacy
 
 _\[ Gnoll Flesh Gnawer \]_
 
-__Humanoïde (gnoll) de taille M, chaotique mauvais__
+_Humanoïde (gnoll) de taille M, chaotique mauvais_
 
 **Classe d'armure** 14 (armure de cuir clouté)  
 **Points de vie** 22 (4d8 + 4)  
@@ -16610,7 +16605,7 @@ Gnoll, chasseur legacy
 
 _\[ Gnoll Hunter \]_
 
-__Humanoïde (gnoll) de taille M, chaotique mauvais__
+_Humanoïde (gnoll) de taille M, chaotique mauvais_
 
 **Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 22 (4d8 + 4)  
@@ -16659,8 +16654,7 @@ A|**Attaques multiples**.
 A|**Griffes**. +5, 1,50 m, 1d8+3 tranchants  
 A|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Gnoll, désséché
@@ -16668,7 +16662,7 @@ Gnoll, désséché
 
 _\[ Gnoll Witherling \]_
 
-__Mort-vivant de taille M, typiquement chaotique mauvais__
+_Mort-vivant de taille M, typiquement chaotique mauvais_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
@@ -16699,7 +16693,7 @@ Gnoll, désséché legacy
 
 _\[ Gnoll Witherling \]_
 
-__Mort-vivant de taille M, chaotique mauvais__
+_Mort-vivant de taille M, chaotique mauvais_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
@@ -16790,7 +16784,7 @@ Gobelin
 
 _\[ Goblin \]_
 
-__Humanoïde (gobelinoïde) de taille P, neutre mauvais__
+_Humanoïde (gobelinoïde) de taille P, neutre mauvais_
 
 **Classe d'armure** 15 (armure de cuir, bouclier)  
 **Points de vie** 7 (2d6)  
@@ -16818,7 +16812,7 @@ Gobelin, chef
 
 _\[ Goblin Boss \]_
 
-__Humanoïde (gobelinoïde) de taille P, neutre mauvais__
+_Humanoïde (gobelinoïde) de taille P, neutre mauvais_
 
 **Classe d'armure** 17 (chemise de mailles, bouclier)  
 **Points de vie** 21 (6d6)  
@@ -16839,8 +16833,7 @@ A|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants
 A|**Javeline**. +2, 1,50 m ou 9/36 m, 1d6 perforants  
 R|**Attaque redirigée**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Gobelours
@@ -16848,7 +16841,7 @@ Gobelours
 
 _\[ Bugbear \]_
 
-__Humanoïde (gobelinoïde) de taille M, chaotique mauvais__
+_Humanoïde (gobelinoïde) de taille M, chaotique mauvais_
 
 **Classe d'armure** 16 (armure de peaux, bouclier)  
 **Points de vie** 27 (5d8 + 5)  
@@ -16877,7 +16870,7 @@ Gobelours, chef
 
 _\[ Bugbear Chief \]_
 
-__Humanoïde (gobelinoïde) de taille M, chaotique mauvais__
+_Humanoïde (gobelinoïde) de taille M, chaotique mauvais_
 
 **Classe d'armure** 17 (chemise de mailles, bouclier)  
 **Points de vie** 65 (10d8 + 20)  
@@ -16899,8 +16892,7 @@ A|**Attaques multiples**.
 A|**Morgenstern**. +5, 1,50 m, 2d8+3 perforants  
 A|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 __Golem d'argile
@@ -16968,7 +16960,7 @@ A|**Attaques multiples**.
 A|**Coup**. +3, 1,50 m, 2d6+1 contondants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Golem de bronze
@@ -17002,7 +16994,7 @@ A|**Coup**. +10, 1,50 m, 3d8+5 contondants
 A|**Lance**. +10, 3 m, 3d10+5 perforants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Golem de chair
@@ -17104,7 +17096,7 @@ A|**Coup**. +6, 1,50 m, 3d10+5 contondants
 A|**Vent glacial (Recharge 5-6)**.  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Golem de pierre
@@ -17234,8 +17226,7 @@ A|**Poing**. +13, 3 m, 3d8+7 contondants
 A|**Sabots**. +13, 1,50 m, 3d10+7 contondants  
 A|**Cornes**. +13, 3 m, 7d10+7 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Goule
@@ -17243,7 +17234,7 @@ Goule
 
 _\[ Ghoul \]_
 
-__Mort-vivant de taille M, chaotique mauvais__
+_Mort-vivant de taille M, chaotique mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
@@ -17394,7 +17385,7 @@ Grand singe
 
 _\[ Ape \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 19 (3d8 + 6)  
@@ -17555,7 +17546,7 @@ Grenouille
 
 _\[ Frog \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 11  
 **Points de vie** 1 (1d4 - 1)  
@@ -17582,7 +17573,7 @@ Grenouille géante
 
 _\[ Giant Frog \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 11  
 **Points de vie** 18 (4d8)  
@@ -17661,8 +17652,7 @@ A|**Queue**. +7, 3 m, 2d6+4 contondants
 A|**Tentacules**. +7, 3 m, 4d8+4 tranchants  
 A|**Bec**. +7, 3 m, 2d8+4 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Griffe rampante
@@ -17731,7 +17721,7 @@ Griffecendre legacy
 
 _\[ Boneclaw \]_
 
-__Mort-vivant de taille G, chaotique mauvais__
+_Mort-vivant de taille G, chaotique mauvais_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 127 (17d10 + 34)  
@@ -17825,7 +17815,7 @@ __Grung, guerrier d'élite
 
 _\[ Grung Elite Warrior \]_
 
-__Humanoïde de taille P, tout alignement__
+_Humanoïde de taille P, tout alignement_
 
 **Classe d'armure** 13  
 **Points de vie** 49 (9d6 + 18)  
@@ -17859,7 +17849,7 @@ __Grung, guerrier d'élite legacy
 
 _\[ Grung Elite Warrior \]_
 
-__Humanoïde (grung) de taille P, loyal mauvais__
+_Humanoïde (grung) de taille P, loyal mauvais_
 
 **Classe d'armure** 13  
 **Points de vie** 49 (9d6 + 18)  
@@ -17923,7 +17913,7 @@ Grung, sauvageon
 
 _\[ Grung Wildling \]_
 
-__Humanoïde de taille P, tout alignement__
+_Humanoïde de taille P, tout alignement_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 27 (5d6 + 10)  
@@ -17957,7 +17947,7 @@ Grung, sauvageon legacy
 
 _\[ Grung Wildling \]_
 
-__Humanoïde (grung) de taille P, loyal mauvais__
+_Humanoïde (grung) de taille P, loyal mauvais_
 
 **Classe d'armure** 13 (16 avec _peau d'écorce_)  
 **Points de vie** 27 (5d6 + 10)  
@@ -18251,7 +18241,7 @@ Guêpe géante
 
 _\[ Giant Wasp \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 13 (3d8)  
@@ -18276,7 +18266,7 @@ Guerrier momifié
 
 _\[ Mummified Warrior \]_
 
-__Mort-vivant de taille M, neutre__
+_Mort-vivant de taille M, neutre_
 
 **Classe d'armure** 8  
 **Points de vie** 19 (3d8 + 6)  
@@ -18297,7 +18287,7 @@ __Mort-vivant de taille M, neutre__
 A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Guerrier tribal
@@ -18305,7 +18295,7 @@ Guerrier tribal
 
 _\[ Tribal Warrior \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 12 (armure de peaux)  
 **Points de vie** 11 (2d8 + 2)  
@@ -18489,7 +18479,7 @@ Halaster Blackcloak
 
 _\[ Halaster Blackcloak \]_
 
-__Humanoïde (humain) de taille M, chaotique mauvais__
+_Humanoïde (humain) de taille M, chaotique mauvais_
 
 **Classe d'armure** 14 (17 avec _armure de mage_)  
 **Points de vie** 246 (29d8 + 116)  
@@ -18583,7 +18573,7 @@ Héritier des profondeurs legacy
 
 _\[ Deep Scion \]_
 
-__Humanoïde (métamorphe) de taille M, neutre mauvais__
+_Humanoïde (métamorphe) de taille M, neutre mauvais_
 
 **Classe d'armure** 11  
 **Points de vie** 67 (9d8 + 27)  
@@ -18648,7 +18638,7 @@ Hippocampe
 
 _\[ Sea Horse \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 11  
 **Points de vie** 1 (1d4 - 1)  
@@ -18673,7 +18663,7 @@ Hippocampe géant
 
 _\[ Giant Sea Horse \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 16 (3d10)  
@@ -18729,7 +18719,7 @@ Hobgobelin
 
 _\[ Hobgoblin \]_
 
-__Humanoïde (gobelinoïde) de taille M, loyal mauvais__
+_Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 
 **Classe d'armure** 18 (cotte de mailles, bouclier)  
 **Points de vie** 11 (2d8 + 2)  
@@ -18756,7 +18746,7 @@ Hobgobelin, capitaine
 
 _\[ Hobgoblin Captain \]_
 
-__Humanoïde (gobelinoïde) de taille M, loyal mauvais__
+_Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 
 **Classe d'armure** 17 (demi-plate)  
 **Points de vie** 39 (6d8 + 12)  
@@ -18784,7 +18774,7 @@ Hobgobelin, dévastateur
 
 _\[ Hobgoblin Devastator \]_
 
-__Fée (gobelinoïde) de taille M, typiquement loyal neutre__
+_Fée (gobelinoïde) de taille M, typiquement loyal neutre_
 
 **Classe d'armure** 13 (armure de cuir clouté)  
 **Points de vie** 45 (7d8 + 14)  
@@ -18813,7 +18803,7 @@ Hobgobelin, dévastateur legacy
 
 _\[ Hobgoblin Devastator \]_
 
-__Humanoïde (gobelinoïde) de taille M, loyal mauvais__
+_Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 
 **Classe d'armure** 13 (armure de cuir clouté)  
 **Points de vie** 45 (7d8 + 14)  
@@ -18846,7 +18836,7 @@ Hobgobelin, ombre de fer
 
 _\[ Hobgoblin Iron Shadow \]_
 
-__Fée (gobelinoïde) de taille M, typiquement loyal neutre__
+_Fée (gobelinoïde) de taille M, typiquement loyal neutre_
 
 **Classe d'armure** 15  
 **Points de vie** 32 (5d8 + 10)  
@@ -18876,7 +18866,7 @@ Hobgobelin, ombre de fer legacy
 
 _\[ Hobgoblin Iron Shadow \]_
 
-__Humanoïde (gobelinoïde) de taille M, loyal mauvais__
+_Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 
 **Classe d'armure** 15  
 **Points de vie** 32 (5d8 + 10)  
@@ -18908,7 +18898,7 @@ Hobgobelin, seigneur de guerre
 
 _\[ Hobgoblin Warlord \]_
 
-__Humanoïde (gobelinoïde) de taille M, loyal mauvais__
+_Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 
 **Classe d'armure** 20 (harnois, bouclier)  
 **Points de vie** 97 (13d8 + 39)  
@@ -18931,8 +18921,7 @@ A|**Javeline**. +9, 1,50 m ou 9/36 m, 1d6+3 perforants
 A|**Commandement (Recharge après un repos court ou long)**.  
 R|**Parade**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 __Homme-lézard
@@ -18971,7 +18960,7 @@ __Homme-lézard, chaman
 
 _\[ Lizardfolk Shaman \]_
 
-__Humanoïde (homme-lézard) de taille M, neutre__
+_Humanoïde (homme-lézard) de taille M, neutre_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 27 (5d8 + 5)  
@@ -19185,7 +19174,7 @@ Huldin
 
 _\[ Huldin \]_
 
-__Humanoïde (humain) de taille M, loyal mauvais__
+_Humanoïde (humain) de taille M, loyal mauvais_
 
 **Classe d'armure** 18 (cotte de mailles, bouclier)  
 **Points de vie** 112 (15d8 + 45)  
@@ -19208,7 +19197,7 @@ A|**Épée longue +1**. +8, 1,50 m, 2d8+5 tranchants
 A|**Coup de bouclier**. +7, 1,50 m, 2d4+4 contondants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Hurleur
@@ -19470,7 +19459,7 @@ Hyène
 
 _\[ Hyena \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 11  
 **Points de vie** 5 (1d8 + 1)  
@@ -19497,7 +19486,7 @@ Hyène géante
 
 _\[ Giant Hyena \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 45 (6d10 + 12)  
@@ -19548,7 +19537,7 @@ Illusionniste legacy
 
 _\[ Illusionist \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 38 (7d8 + 7)  
@@ -19600,7 +19589,8 @@ _Élémentaire de taille TG, neutre mauvais_
 **Langues** commun, igné  
 **Puissance** 19 (22000 PX)
 
-Adventures (Princes of the Apocalypse)
+_Adventures (Princes of the Apocalypse)_
+{: .label .label-red }
 
 Incantateur (niv 1)
 =======================
@@ -19810,7 +19800,7 @@ Invocateur legacy
 
 _\[ Conjurer \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 40 (9d8)  
@@ -19845,7 +19835,7 @@ Irisia
 
 _\[ Irisia \]_
 
-__Humanoïde (humain) de taille M, chaotique bon__
+_Humanoïde (humain) de taille M, chaotique bon_
 
 **Classe d'armure** 13 (chemise de mailles)  
 **Points de vie** 33 (6d8 + 6)  
@@ -19870,7 +19860,7 @@ A|**Épée longue**.
 A|**Renvoi des morts-vivants (Recharge après un repos court ou long)**.  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Jarlaxle Baenre
@@ -19878,7 +19868,7 @@ Jarlaxle Baenre
 
 _\[ Jarlaxle Baenre \]_
 
-__Humanoïde (elfe) de taille M, chaotique neutre__
+_Humanoïde (elfe) de taille M, chaotique neutre_
 
 **Classe d'armure** 24 (_armur de cuir +3_, Défense élégante)  
 **Points de vie** 123 (19d8 + 38)  
@@ -19997,7 +19987,7 @@ Kenku
 
 _\[ Kenku \]_
 
-__Humanoïde (kenku) de taille M, chaotique neutre__
+_Humanoïde (kenku) de taille M, chaotique neutre_
 
 **Classe d'armure** 13  
 **Points de vie** 13 (3d8)  
@@ -20109,7 +20099,7 @@ Kobold
 
 _\[ Kobold \]_
 
-__Humanoïde (kobold) de taille P, loyal mauvais__
+_Humanoïde (kobold) de taille P, loyal mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 5 (2d6 - 2)  
@@ -20137,7 +20127,7 @@ Kobold ailé
 
 _\[ Winged Kobold \]_
 
-__Humanoïde (kobold) de taille P, loyal mauvais__
+_Humanoïde (kobold) de taille P, loyal mauvais_
 
 **Classe d'armure** 13  
 **Points de vie** 7 (3d6 - 3)  
@@ -20195,7 +20185,7 @@ __Kobold, écu-dragon legacy
 
 _\[ Kobold Dragonshield \]_
 
-__Humanoïde (kobold) de taille P, loyal mauvais__
+_Humanoïde (kobold) de taille P, loyal mauvais_
 
 **Classe d'armure** 15 (armure de cuir, bouclier)  
 **Points de vie** 44 (8d6 + 16)  
@@ -20226,7 +20216,7 @@ Kobold, ensorceleur des écailles
 
 _\[ Kobold Scale Sorcerer \]_
 
-__Humanoïde de taille P, tout alignement__
+_Humanoïde de taille P, tout alignement_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 27 (5d6 + 10)  
@@ -20256,7 +20246,7 @@ Kobold, ensorceleur des écailles legacy
 
 _\[ Kobold Scale Sorcerer \]_
 
-__Humanoïde (kobold) de taille P, loyal mauvais__
+_Humanoïde (kobold) de taille P, loyal mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 27 (5d6 + 10)  
@@ -20288,7 +20278,7 @@ Kobold, inventeur
 
 _\[ Kobold Inventor \]_
 
-__Humanoïde de taille P, tout alignement__
+_Humanoïde de taille P, tout alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 13 (3d6 + 3)  
@@ -20316,7 +20306,7 @@ Kobold, inventeur legacy
 
 _\[ Kobold Inventor \]_
 
-__Humanoïde (kobold) de taille P, loyal mauvais__
+_Humanoïde (kobold) de taille P, loyal mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 13 (3d6 + 3)  
@@ -20871,7 +20861,7 @@ Laeral Silverhand
 
 _\[ Laeral Silverhand \]_
 
-__Humanoïde (humain) de taille M, chaotique bon__
+_Humanoïde (humain) de taille M, chaotique bon_
 
 **Classe d'armure** 18 (_robe de l'archimage_)  
 **Points de vie** 228 (24d8 + 120)  
@@ -20917,7 +20907,7 @@ Lame-en-peine, commandant
 
 _\[ Sword Wraith Commander \]_
 
-__Mort-vivant de taille M, typiquement loyal mauvais__
+_Mort-vivant de taille M, typiquement loyal mauvais_
 
 **Classe d'armure** 18 (cuirasse, bouclier)  
 **Points de vie** 127 (15d8 + 60)  
@@ -20951,7 +20941,7 @@ __Lame-en-peine, commandant legacy
 
 _\[ Sword Wraith Commander \]_
 
-__Mort-vivant de taille M, loyal mauvais__
+_Mort-vivant de taille M, loyal mauvais_
 
 **Classe d'armure** 18 (cuirasse, bouclier)  
 **Points de vie** 127 (15d8 + 60)  
@@ -21014,7 +21004,7 @@ __Lame-en-peine, guerrier legacy
 
 _\[ Sword Wraith Warrior \]_
 
-__Mort-vivant de taille M, loyal mauvais__
+_Mort-vivant de taille M, loyal mauvais_
 
 **Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 45 (6d8 + 18)  
@@ -21043,7 +21033,7 @@ Lame nocturne
 
 _\[ Night Blade \]_
 
-__Humanoïde (humain) de taille M, chaotique mauvais__
+_Humanoïde (humain) de taille M, chaotique mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 11 (2d8 + 2)  
@@ -21102,7 +21092,7 @@ Lekhet
 
 _\[ Lekhet \]_
 
-__Humanoïde (yuan-ti) de taille M, loyal neutre__
+_Humanoïde (yuan-ti) de taille M, loyal neutre_
 
 **Classe d'armure** 11  
 **Points de vie** 40 (9d8)  
@@ -21129,8 +21119,7 @@ A|**Attaques multiples**.
 A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
 A|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
 
-
-Extra (Adventurers League)__
+_Extra (Adventurers League)_
 {: .label .label-red }
 
 Lémure
@@ -21303,7 +21292,7 @@ Lézard
 
 _\[ Lizard \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 2 (1d4)  
@@ -21328,7 +21317,7 @@ Lézard géant
 
 _\[ Giant Lizard \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 19 (3d10 + 3)  
@@ -21381,7 +21370,7 @@ Liche
 
 _\[ Lich \]_
 
-__Mort-vivant de taille M, tout alignement mauvais__
+_Mort-vivant de taille M, tout alignement mauvais_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 135 (18d8 + 54)  
@@ -21517,8 +21506,7 @@ _Plante de taille M, neutre mauvais_
 A|**Constriction**. +4, 3 m, 2d6+2 contondants  
 A|**Enchevêtrement des plantes (Recharge 5-6)**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Lièvre
@@ -21526,7 +21514,7 @@ Lièvre
 
 _\[ Hare \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 13  
 **Points de vie** 1 (1d4 - 1)  
@@ -21551,7 +21539,7 @@ Lion
 
 _\[ Lion \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 26 (4d10 + 4)  
@@ -21582,7 +21570,7 @@ Loup
 
 _\[ Wolf \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
@@ -21641,7 +21629,7 @@ __Loup-garou
 
 _\[ Werewolf \]_
 
-__Humanoïde (humain, métamorphe) de taille M, chaotique mauvais__
+_Humanoïde (humain, métamorphe) de taille M, chaotique mauvais_
 
 **Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme de loup ou sous forme hybride  
 **Points de vie** 58 (9d8 + 18)  
@@ -21673,7 +21661,7 @@ Loup sanguinaire
 
 _\[ Dire Wolf \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 37 (5d10 + 10)  
@@ -21764,7 +21752,7 @@ Mage
 
 _\[ Mage \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 40 (9d8)  
@@ -21798,7 +21786,7 @@ Magicien abjurateur
 
 _\[ Abjurer Wizard \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 104 (16d8 32)  
@@ -21828,7 +21816,7 @@ Magicien devin
 
 _\[ Diviner Wizard \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 90 (20d8)  
@@ -21858,7 +21846,7 @@ Magicien enchanteur
 
 _\[ Enchanter Wizard \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 49 (11d8)  
@@ -21887,7 +21875,7 @@ Magicien évocateur
 
 _\[ Evoker Wizard \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 121 (22d8 + 22)  
@@ -21916,7 +21904,7 @@ Magicien illusionniste
 
 _\[ Illusionist Wizard \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 44 (8d8 + 8)  
@@ -21945,7 +21933,7 @@ Magicien invocateur
 
 _\[ Conjurer Wizard \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 58 (13d8)  
@@ -21975,7 +21963,7 @@ Magicien nécromant
 
 _\[ Necromancer Wizard \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 110 (20d8 + 20)  
@@ -22006,7 +21994,7 @@ Magicien transmutateur
 
 _\[ Transmuter Wizard \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 49 (11d8)  
@@ -22064,7 +22052,7 @@ __Maître des âmes
 
 _\[ Master of Souls \]_
 
-__Humanoïde (humain) de taille M, neutre mauvais__
+_Humanoïde (humain) de taille M, neutre mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 45 (6d8 + 18)  
@@ -22101,7 +22089,7 @@ Maître voleur
 
 _\[ Master Thief \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 16 (armure de cuir clouté)  
 **Points de vie** 84 (13d8 + 26)  
@@ -22132,7 +22120,7 @@ __Maître voleur legacy
 
 _\[ Master Thief \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 16 (armure de cuir clouté)  
 **Points de vie** 84 (13d8 + 26)  
@@ -22164,7 +22152,7 @@ Maldryn
 
 _\[ Maldryn \]_
 
-__Humanoïde (demi-elfe) de taille M, neutre mauvais__
+_Humanoïde (demi-elfe) de taille M, neutre mauvais_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 31 (7d8)  
@@ -22192,7 +22180,7 @@ Niv 4 (1) : _tempête de grêle_
 A|**Bâton**. +2, 1,50 m, 1d6 contondants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Malfrat
@@ -22200,7 +22188,7 @@ Malfrat
 
 _\[ Thug \]_
 
-__Humanoïde (toute race) de taille M, tout alignement non bon__
+_Humanoïde (toute race) de taille M, tout alignement non bon_
 
 **Classe d'armure** 11 (armure de cuir)  
 **Points de vie** 32 (5d8 + 10)  
@@ -22229,7 +22217,7 @@ Mammouth
 
 _\[ Mammoth \]_
 
-__Bête de taille TG, sans alignement__
+_Bête de taille TG, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 126 (11d12 + 55)  
@@ -22275,8 +22263,7 @@ _Fiélon (démon) de taille P, chaotique mauvais_
 
 A|**Griffes**. +2, 1,50 m, 2d4 tranchants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Manshoon
@@ -22284,7 +22271,7 @@ Manshoon
 
 _\[ Manshoon \]_
 
-__Humanoïde (humain) de taille M, loyal mauvais__
+_Humanoïde (humain) de taille M, loyal mauvais_
 
 **Classe d'armure** 19 (_robe de l'archimage, bâton de puissance_)  
 **Points de vie** 126 (23d8 + 23)  
@@ -22431,8 +22418,7 @@ A|**Attaques multiples**.
 A|**Trident**. +10, 1,50 m ou 6/18 m, 2d6+6 perforants  
 A|**Jet d'eau**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Marilith
@@ -22860,7 +22846,7 @@ Mercenaire de Bois noir
 
 _\[ Black Wood Mercenary \]_
 
-__Humanoïde (humain) de taille M, neutre__
+_Humanoïde (humain) de taille M, neutre_
 
 **Classe d'armure** 13 (chemise de mailles)  
 **Points de vie** 38 (7d8 + 7)  
@@ -22879,7 +22865,7 @@ A|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants
 A|**Arbalète légère**. +2, 24/96 m, 1d8 perforants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Merregon
@@ -23073,7 +23059,7 @@ Niv 2 (3) : _flèche acide de Melf, sphère de feu, vision dans le noir_
 A|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+1 perforants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Mezzoloth
@@ -23117,7 +23103,7 @@ Miirym
 
 _\[ Miirym \]_
 
-__Mort-vivant de taille G, -__
+_Mort-vivant de taille G, -_
 
 **Classe d'armure** 10  
 **Points de vie** 262 (25d10 + 125)  
@@ -23143,7 +23129,7 @@ Mille-pattes géant
 
 _\[ Giant Centipede \]_
 
-__Bête de taille P, sans alignement__
+_Bête de taille P, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 4 (1d6 + 1)  
@@ -23368,7 +23354,7 @@ Molosse
 
 _\[ Mastiff \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 5 (1d8 + 1)  
@@ -23561,7 +23547,7 @@ Momie
 
 _\[ Mummy \]_
 
-__Mort-vivant de taille M, loyal mauvais__
+_Mort-vivant de taille M, loyal mauvais_
 
 **Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 58 (9d8 + 18)  
@@ -23612,8 +23598,7 @@ _Artificiel de taille M, loyal neutre_
 A|**Dague**. +3, 1,50 m, 1d4+1 perforants  
 A|**Javeline**. +2, 1,50 m ou 9/36 m, 1d6 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Morbilleux
@@ -23649,7 +23634,7 @@ Morbilleux legacy
 
 _\[ Meazel \]_
 
-__Humanoïde (morbilleux) de taille M, neutre mauvais__
+_Humanoïde (morbilleux) de taille M, neutre mauvais_
 
 **Classe d'armure** 13  
 **Points de vie** 35 (10d8 - 10)  
@@ -23749,7 +23734,7 @@ Morse
 
 _\[ Walrus \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 9  
 **Points de vie** 22 (3d10 + 6)  
@@ -23774,7 +23759,7 @@ Morse géant
 
 _\[ Giant Walrus \]_
 
-__Bête de taille TG, sans alignement__
+_Bête de taille TG, sans alignement_
 
 **Classe d'armure** 9  
 **Points de vie** 55 (9d12 + 27)  
@@ -23834,7 +23819,7 @@ Mule
 
 _\[ Mule \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 11 (2d8 + 2)  
@@ -23881,8 +23866,7 @@ A|**Poing**. +2, 1,50 m, 2d4 contondants
 A|**Spores pacificatrices (3/jour)**.  
 A|**Spores de communication (3/jour)**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Myconide, pousse
@@ -23909,8 +23893,7 @@ Plante de taille P, loyal neutre__
 A|**Poing**.  
 A|**Spores de communication (3/jour)**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Myconide, souverain
@@ -23941,8 +23924,7 @@ A|**Spores hallucinogènes**.
 A|**Spores pacificatrices**.  
 A|**Spores de communication**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Nabassu
@@ -24095,7 +24077,7 @@ Naga osseux
 
 _\[ Bone Naga \]_
 
-__Mort-vivant de taille G, loyal mauvais__
+_Mort-vivant de taille G, loyal mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 58 (9d10 + 9)  
@@ -24123,9 +24105,7 @@ Niv 1 (4) : _sommeil_
 Niv 2 (3) : _détection des pensées, immobilisation de personne_  
 Niv 3 (2) : _éclair_  
 A|**Morsure**. +5, 3 m, 2d6+3 perforants  
-
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Nagpa
@@ -24164,7 +24144,7 @@ Nagpa legacy
 
 _\[ Nagpa \]_
 
-__Humanoïde (nagpa) de taille M, neutre mauvais__
+_Humanoïde (nagpa) de taille M, neutre mauvais_
 
 **Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 187 (34d8 + 34)  
@@ -24298,7 +24278,7 @@ Nécromant legacy
 
 _\[ Necromancer \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 66 (12d8 + 12)  
@@ -24335,7 +24315,7 @@ Nécromite de Myrkul
 
 _\[ Necromite of Myrkul \]_
 
-__Humanoïde (humain) de taille M, neutre mauvais__
+_Humanoïde (humain) de taille M, neutre mauvais_
 
 **Classe d'armure** 11  
 **Points de vie** 13 (2d8 + 4)  
@@ -24362,7 +24342,7 @@ Nécrophage
 
 _\[ Wight \]_
 
-__Mort-vivant de taille M, neutre mauvais__
+_Mort-vivant de taille M, neutre mauvais_
 
 **Classe d'armure** 14 (armure de cuir clouté)  
 **Points de vie** 45 (6d8 + 18)  
@@ -24635,7 +24615,7 @@ Nerissa
 
 _\[ Nerissa \]_
 
-__Humanoïde (humain) de taille M, loyal bon__
+_Humanoïde (humain) de taille M, loyal bon_
 
 **Classe d'armure** 14  
 **Points de vie** 22 (4d8 + 4)  
@@ -24656,8 +24636,7 @@ A|**Attaques multiples**.
 A|**Mains nues**. +4, 1,50 m, 1d6+2 contondants  
 R|**Parade**.  
 
-
-Extra (Adventurers League)__
+_Extra (Adventurers League)_
 {: .label .label-red }
 
 Nielleux
@@ -24687,14 +24666,14 @@ A|**Griffes**. +3, 1,50 m, 1d4+1 perforants
 
 _Monster Manual (BR+)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 Nilebog
 ===========
 
 _\[ Nilbog \]_
 
-__Fée (gobelinoïde) de taille P, typiquement chaotique neutre__
+_Fée (gobelinoïde) de taille P, typiquement chaotique neutre_
 
 **Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 7 (2d6)  
@@ -24724,7 +24703,7 @@ Nilebog legacy
 
 _\[ Nilbog \]_
 
-__Humanoïde (gobelinoïde) de taille P, chaotique mauvais__
+_Humanoïde (gobelinoïde) de taille P, chaotique mauvais_
 
 **Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 7 (2d6)  
@@ -24756,7 +24735,7 @@ Noble
 
 _\[ Noble \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 15 (cuirasse)  
 **Points de vie** 9 (2d8)  
@@ -24804,8 +24783,7 @@ A|**Griffes**. +4, 1,50 m, 1d6+3 tranchants
 A|**Regard de putréfaction**.  
 A|**Intuition mystérieuse**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 __Nuée d'insectes
@@ -24813,7 +24791,7 @@ __Nuée d'insectes
 
 _\[ Swarm of Insects \]_
 
-__Nuée de bêtes TP de taille M, sans alignement__
+_Nuée de bêtes TP de taille M, sans alignement_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 22 (5d8)  
@@ -24841,7 +24819,7 @@ __Nuée de chauves-souris
 
 _\[ Swarm of Bats \]_
 
-__Nuée de bêtes TP de taille M, sans alignement__
+_Nuée de bêtes TP de taille M, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
@@ -24871,7 +24849,7 @@ Nuée de corbeaux
 
 _\[ Swarm of Ravens \]_
 
-__Nuée de bêtes TP de taille M, sans alignement__
+_Nuée de bêtes TP de taille M, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 24 (7d8 - 7)  
@@ -24919,8 +24897,7 @@ __Nuée d'humanoïdes (gobelinoïde) TP de taille M, loyal mauvais__
 **Nuée**.  
 A|**Cimeterre minuscule**. +3, 0 m, 4d4 tranchants  
 
-
-Extra (Adventurers League)__
+_Extra (Adventurers League)_
 {: .label .label-red }
 
 Nuée de piranhas
@@ -24928,7 +24905,7 @@ Nuée de piranhas
 
 _\[ Swarm of Quippers \]_
 
-__Nuée de bêtes TP de taille M, sans alignement__
+_Nuée de bêtes TP de taille M, sans alignement_
 
 **Classe d'armure** 13  
 **Points de vie** 28 (8d8 - 8)  
@@ -24958,7 +24935,7 @@ Nuée de rats
 
 _\[ Swarm of Rats \]_
 
-__Nuée de bêtes TP de taille M, sans alignement__
+_Nuée de bêtes TP de taille M, sans alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 24 (7d8 - 7)  
@@ -24987,7 +24964,7 @@ __Nuée de rats-crânes
 
 _\[ Swarm of Cranium Rats \]_
 
-__Nuée de bêtes TP de taille M, typiquement loyal mauvais__
+_Nuée de bêtes TP de taille M, typiquement loyal mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 76 (17d8)  
@@ -25017,7 +24994,7 @@ __Nuée de rats-crânes legacy
 
 _\[ Swarm of Cranium Rats \]_
 
-__Nuée de bêtes TP de taille M, loyal mauvais__
+_Nuée de bêtes TP de taille M, loyal mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 36 (8d8)  
@@ -25049,7 +25026,7 @@ Nuée de serpents venimeux
 
 _\[ Swarm of Poisonous Snakes \]_
 
-__Nuée de bêtes TP de taille M, sans alignement__
+_Nuée de bêtes TP de taille M, sans alignement_
 
 **Classe d'armure** 14  
 **Points de vie** 36 (8d8)  
@@ -25077,7 +25054,7 @@ Nuée de vers putrides
 
 _\[ Swarm of Rot Grubs \]_
 
-__Nuée de bêtes TP de taille M, sans alignement__
+_Nuée de bêtes TP de taille M, sans alignement_
 
 **Classe d'armure** 8  
 **Points de vie** 22 (5d8)  
@@ -25104,7 +25081,7 @@ Nuée de vers putrides legacy
 
 _\[ Swarm of Rot Grubs \]_
 
-__Nuée de bêtes TP de taille M, sans alignement__
+_Nuée de bêtes TP de taille M, sans alignement_
 
 **Classe d'armure** 8  
 **Points de vie** 22 (5d8)  
@@ -25226,7 +25203,7 @@ Objet dansant
 
 _\[ Dancing Item \]_
 
-__Artificiel de taille G ou plus petite, -__
+_Artificiel de taille G ou plus petite, -_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 10 + cinq fois votre niveau de barde  
@@ -25447,7 +25424,7 @@ __Occultiste de l'Archifée
 
 _\[ Warlock of the Archfey \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 13 (16 avec _armure de mage_)  
 **Points de vie** 67 (15d8)  
@@ -25480,7 +25457,7 @@ __Occultiste de l'Archifée legacy
 
 _\[ Warlock of the Archfey \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 11 (14 avec _armure de mage_)  
 **Points de vie** 49 (11d8)  
@@ -25514,7 +25491,7 @@ Occultiste du Fiélon
 
 _\[ Warlock of the Fiend \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 13 (16 avec _armure de mage_)  
 **Points de vie** 78 (12d8 + 24)  
@@ -25548,7 +25525,7 @@ Occultiste du Fiélon legacy
 
 _\[ Warlock of the Fiend \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 78 (12d8 + 24)  
@@ -25582,7 +25559,7 @@ Occultiste du Grand Ancien
 
 _\[ Warlock of the Great Old One \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 13 (16 avec _armure de mage_)  
 **Points de vie** 91 (14d8 + 28)  
@@ -25615,7 +25592,7 @@ Occultiste du Grand Ancien legacy
 
 _\[ Warlock of the Great Old One \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 91 (14d8 + 28)  
@@ -25898,7 +25875,8 @@ __\[ Ogrémoch \]
 **Langues** commun, terreux  
 **Puissance** 20 (24500 PX)
 
-Adventures (Princes of the Apocalypse)
+_Adventures (Princes of the Apocalypse)_
+{: .label .label-red }
 
 Oinoloth
 ============
@@ -25995,14 +25973,15 @@ _Élémentaire de taille TG, neutre mauvais_
 **Langues** aquatique  
 **Puissance** 18 (20000 PX)
 
-Adventures (Princes of the Apocalypse)
+_Adventures (Princes of the Apocalypse)_
+{: .label .label-red }
 
 Ombre
 =========
 
 _\[ Shadow \]_
 
-__Mort-vivant de taille M, chaotique mauvais__
+_Mort-vivant de taille M, chaotique mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 16 (3d8 + 3)  
@@ -26035,7 +26014,7 @@ Ombre, ancienne
 
 _\[ Ancient Shadow \]_
 
-__Mort-vivant de taille M, chaotique mauvais__
+_Mort-vivant de taille M, chaotique mauvais_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 32 (5d8 + 10)  
@@ -26060,7 +26039,7 @@ __Mort-vivant de taille M, chaotique mauvais__
 A|**Absorption de Force**. +5, 1,50 m, 2d6+3 nécrotiques  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Ombre, vénérable
@@ -26068,7 +26047,7 @@ Ombre, vénérable
 
 _\[ Venerable Shadow \]_
 
-__Mort-vivant de taille M, chaotique mauvais__
+_Mort-vivant de taille M, chaotique mauvais_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 27 (5d8 + 5)  
@@ -26095,7 +26074,7 @@ __Mort-vivant de taille M, chaotique mauvais__
 A|**Absorption de Force**. +5, 1,50 m, 2d8+3 nécrotiques  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 _Oni_
@@ -26138,7 +26117,7 @@ Orateur du dragon
 
 _\[ Dragon Speaker \]_
 
-__Humanoïde de taille P, tout alignement__
+_Humanoïde de taille P, tout alignement_
 
 **Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 36 (8d6 + 8)  
@@ -26162,7 +26141,7 @@ _Orc_
 
 _\[ Orc \]_
 
-__Humanoïde (orc) de taille M, chaotique mauvais__
+_Humanoïde (orc) de taille M, chaotique mauvais_
 
 **Classe d'armure** 13 (armure de peaux)  
 **Points de vie** 15 (2d8 + 6)  
@@ -26190,7 +26169,7 @@ Orc, chef de guerre
 
 _\[ Orc War Chief \]_
 
-__Humanoïde (orc) de taille M, chaotique mauvais__
+_Humanoïde (orc) de taille M, chaotique mauvais_
 
 **Classe d'armure** 16 (cotte de mailles)  
 **Points de vie** 93 (11d8 + 44)  
@@ -26213,8 +26192,7 @@ A|**Hache à deux mains**.
 A|**Lance**.  
 A|**Cri de guerre (1/jour)**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Orc, croc rouge de Shargaas
@@ -26222,7 +26200,7 @@ Orc, croc rouge de Shargaas
 
 _\[ Orc Red Fang of Shargaas \]_
 
-__Humanoïde (orc) de taille M, chaotique mauvais__
+_Humanoïde (orc) de taille M, chaotique mauvais_
 
 **Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 52 (8d8 + 16)  
@@ -26253,7 +26231,7 @@ Orc, griffe de Luthic
 
 _\[ Orc Claw of Luthic \]_
 
-__Humanoïde (orc) de taille M, chaotique mauvais__
+_Humanoïde (orc) de taille M, chaotique mauvais_
 
 **Classe d'armure** 14 (armure de peaux)  
 **Points de vie** 45 (6d8 + 18)  
@@ -26285,7 +26263,7 @@ __Orc, lame d'Ilneval
 
 _\[ Orc Blade of Ilneval \]_
 
-__Humanoïde (orc) de taille M, chaotique mauvais__
+_Humanoïde (orc) de taille M, chaotique mauvais_
 
 **Classe d'armure** 18 (cotte de mailles, bouclier)  
 **Points de vie** 60 (8d8 + 24)  
@@ -26316,7 +26294,7 @@ Orc, main de Yurtrus
 
 _\[ Orc Hand of Yurtrus \]_
 
-__Humanoïde (orc) de taille M, chaotique mauvais__
+_Humanoïde (orc) de taille M, chaotique mauvais_
 
 **Classe d'armure** 12 (armure de peaux)  
 **Points de vie** 30 (4d8 + 12)  
@@ -26346,7 +26324,7 @@ Orc, Oeil de Gruumsh
 
 _\[ Orc Eye of Gruumsh \]_
 
-__Humanoïde (orc) de taille M, chaotique mauvais__
+_Humanoïde (orc) de taille M, chaotique mauvais_
 
 **Classe d'armure** 16 (broigne, bouclier)  
 **Points de vie** 45 (6d8 + 18)  
@@ -26459,7 +26437,7 @@ Orog
 
 _\[ Orog \]_
 
-__Humanoïde (orc) de taille M, chaotique mauvais__
+_Humanoïde (orc) de taille M, chaotique mauvais_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 42 (5d8 + 20)  
@@ -26583,7 +26561,7 @@ Ours brun
 
 _\[ Brown Bear \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 34 (4d10 + 12)  
@@ -26612,7 +26590,7 @@ __Ours-garou
 
 _\[ Werebear \]_
 
-__Humanoïde (humain, métamorphe) de taille M, neutre bon__
+_Humanoïde (humain, métamorphe) de taille M, neutre bon_
 
 **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme d'ours et sous forme hybride.  
 **Points de vie** 135 (18d8 + 54)  
@@ -26673,7 +26651,7 @@ Ours noir
 
 _\[ Black Bear \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 19 (3d8 + 6)  
@@ -26702,7 +26680,7 @@ Ours polaire
 
 _\[ Polar Bear \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 42 (5d10 + 15)  
@@ -26759,7 +26737,7 @@ Panthère
 
 _\[ Panther \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 13 (3d8)  
@@ -26804,8 +26782,7 @@ _Monstruosité de taille M, sans alignement_
 
 A|**Dard**. +4, 1,50 m, 1d6+2 perforants  
 
-
-Extra (Adventurers League)__
+_Extra (Adventurers League)_
 {: .label .label-red }
 
 Pégase
@@ -26861,8 +26838,7 @@ A|**Attaques multiples**.
 A|**Appendice**. +4, 1,50 m, 1d6+2 contondants  
 A|**Gaz paralysant (Recharge 5-6)**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Perceur
@@ -27065,7 +27041,7 @@ Phoque
 
 _\[ Seal \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 11  
 **Points de vie** 9 (2d8)  
@@ -27145,7 +27121,7 @@ Pieuvre
 
 _\[ Octopus \]_
 
-__Bête de taille P, sans alignement__
+_Bête de taille P, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 3 (1d6)  
@@ -27175,7 +27151,7 @@ Pieuvre géante
 
 _\[ Giant Octopus \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 11  
 **Points de vie** 52 (8d10 + 8)  
@@ -27205,7 +27181,7 @@ Piranha
 
 _\[ Quipper \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 13  
 **Points de vie** 1 (1d4 - 1)  
@@ -27253,8 +27229,7 @@ _Fée de taille TP, neutre bon_
 1/jour chacun : _lumières dansantes, détection du mal et du bien, détection des pensées, enchevêtrement, métamorphose, sommeil_  
 A|**Invisibilité supérieure**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Planétar
@@ -27300,7 +27275,7 @@ Plésiosaure
 
 _\[ Plesiosaurus \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 68 (8d10 + 24)  
@@ -27327,7 +27302,7 @@ Poing de Baine
 
 _\[ Fist of Bane \]_
 
-__Humanoïde (humain) de taille M, loyal mauvais__
+_Humanoïde (humain) de taille M, loyal mauvais_
 
 **Classe d'armure** 18 (cotte de mailles, bouclier)  
 **Points de vie** 22 (4d8 + 4)  
@@ -27355,7 +27330,7 @@ Poney
 
 _\[ Pony \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 11 (2d8 + 2)  
@@ -27567,7 +27542,7 @@ __Prêtre de guerre
 
 _\[ War priest \]_
 
-__Humanoïde (clerc) de taille M, tout alignement__
+_Humanoïde (clerc) de taille M, tout alignement_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 117 (18d8 + 36)  
@@ -27599,7 +27574,7 @@ __Prêtre de guerre legacy
 
 _\[ War priest \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 117 (18d8 + 36)  
@@ -27667,7 +27642,7 @@ __Prêtre du kraken legacy
 
 _\[ Kraken Priest \]_
 
-__Humanoïde (toute race) de taille M, tout alignement mauvais__
+_Humanoïde (toute race) de taille M, tout alignement mauvais_
 
 **Classe d'armure** 10  
 **Points de vie** 75 (10d8 + 30)  
@@ -27699,7 +27674,7 @@ Protégé du dragon
 
 _\[ Dragon Blessed \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 14 (armure d'écailles)  
 **Points de vie** 75 (10d8 + 30)  
@@ -27753,7 +27728,7 @@ Ptéranodon
 
 _\[ Pteranodon \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 13 (3d8)  
@@ -27773,7 +27748,7 @@ A|**Morsure**.
 
 _Monster Manual (BR+)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 Quadrone
 ============
@@ -27801,8 +27776,7 @@ A|**Attaques multiples**.
 A|**Coup**. +3, 1,50 m, 1d4+1 contondants  
 A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Quaggoth
@@ -27810,7 +27784,7 @@ Quaggoth
 
 _\[ Quaggoth \]_
 
-__Humanoïde (quaggoth) de taille M, chaotique neutre__
+_Humanoïde (quaggoth) de taille M, chaotique neutre_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 45 (6d8 + 18)  
@@ -27831,8 +27805,7 @@ __Humanoïde (quaggoth) de taille M, chaotique neutre__
 A|**Attaques multiples**.  
 A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Quaggoth, serviteur des spores
@@ -27859,8 +27832,7 @@ _Plante de taille M, sans alignement_
 A|**Attaques multiples**.  
 A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Quasit
@@ -27901,7 +27873,7 @@ Quetzalcoatlus
 
 _\[ Quetzalcoatlus \]_
 
-__Bête (dinosaure) de taille TG, sans alignement__
+_Bête (dinosaure) de taille TG, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 30 (4d12 + 4)  
@@ -27927,7 +27899,7 @@ Quetzalcoatlus legacy
 
 _\[ Quetzalcoatlus \]_
 
-__Bête de taille TG, sans alignement__
+_Bête de taille TG, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 30 (4d12 + 4)  
@@ -27979,7 +27951,7 @@ A|**Liane diabolique**. +6, 3 m, 2d6+3 contondants
 A|**Pollen diabolique (Recharge 5-6)**.  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Raie manta de récif
@@ -27987,7 +27959,7 @@ Raie manta de récif
 
 _\[ Reef Manta Ray \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 16 (3d8 + 3)  
@@ -28006,7 +27978,7 @@ __Bête de taille G, sans alignement__
 A|**Coup de tête**. +3, 1,50 m, 1d6+1 contondants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Rakshasa
@@ -28048,7 +28020,7 @@ _Rat_
 
 _\[ Rat \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 1 (1d4 - 1)  
@@ -28074,7 +28046,7 @@ __Rat-crâne
 
 _\[ Cranium Rat \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 2 (1d4)  
@@ -28100,7 +28072,7 @@ __Rat-crâne legacy
 
 _\[ Cranium Rat \]_
 
-__Bête de taille TP, loyal mauvais__
+_Bête de taille TP, loyal mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 2 (1d4)  
@@ -28126,7 +28098,7 @@ __Rat-garou
 
 _\[ Wererat \]_
 
-__Humanoïde (humain, métamorphe) de taille M, loyal mauvais__
+_Humanoïde (humain, métamorphe) de taille M, loyal mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 33 (6d8 + 6)  
@@ -28158,7 +28130,7 @@ Rat géant
 
 _\[ Giant Rat \]_
 
-__Bête de taille P, sans alignement__
+_Bête de taille P, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 7 (2d6)  
@@ -28185,7 +28157,7 @@ Rejeton de Kyuss
 
 _\[ Spawn of Kyuss \]_
 
-__Mort-vivant de taille M, typiquement chaotique mauvais__
+_Mort-vivant de taille M, typiquement chaotique mauvais_
 
 **Classe d'armure** 10  
 **Points de vie** 76 (9d8 + 36)  
@@ -28217,7 +28189,7 @@ Rejeton de Kyuss legacy
 
 _\[ Spawn of Kyuss \]_
 
-__Mort-vivant de taille M, chaotique mauvais__
+_Mort-vivant de taille M, chaotique mauvais_
 
 **Classe d'armure** 10  
 **Points de vie** 76 (9d8 + 36)  
@@ -28275,7 +28247,7 @@ Rejeton des mers legacy
 
 _\[ Sea Spawn \]_
 
-__Humanoïde de taille M, neutre mauvais__
+_Humanoïde de taille M, neutre mauvais_
 
 **Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 32 (5d8 + 10)  
@@ -28673,8 +28645,7 @@ _Monstruosité de taille G, sans alignement_
 **Corps brûlant**.  
 A|**Morsure**. +6, 1,50 m, 3d10+4 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Renard
@@ -28682,7 +28653,7 @@ Renard
 
 _\[ Fox \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 13  
 **Points de vie** 2 (1d4)  
@@ -28708,7 +28679,7 @@ Requin-chasseur
 
 _\[ Hunter Shark \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 45 (6d10 + 12)  
@@ -28736,7 +28707,7 @@ Requin de récif
 
 _\[ Reef Shark \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
@@ -28764,7 +28735,7 @@ Requin géant
 
 _\[ Giant Shark \]_
 
-__Bête de taille TG, sans alignement__
+_Bête de taille TG, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 126 (11d12 + 55)  
@@ -28810,8 +28781,7 @@ _Plante de taille M, neutre mauvais_
 A|**Griffes**. +3, 1,50 m, 2d4+1 perforants  
 A|**Épines**. +3, 9/18 m, 2d6+1 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Revenant
@@ -28819,7 +28789,7 @@ Revenant
 
 _\[ Revenant \]_
 
-__Mort-vivant de taille M, neutre__
+_Mort-vivant de taille M, neutre_
 
 **Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 136 (16d8 + 64)  
@@ -28853,7 +28823,7 @@ Rhinocéros
 
 _\[ Rhinoceros \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 45 (6d10 + 12)  
@@ -29018,7 +28988,7 @@ Roturier
 
 _\[ Commoner \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 4 (1d8)  
@@ -29043,7 +29013,7 @@ Rotz
 
 _\[ Rotz \]_
 
-__Humanoïde (humain) de taille M, neutre mauvais__
+_Humanoïde (humain) de taille M, neutre mauvais_
 
 **Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 33 (6d8 + 6)  
@@ -29067,7 +29037,7 @@ A|**Attaques multiples**.
 A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Rutterkin
@@ -29131,7 +29101,7 @@ Sage
 
 _\[ Sage \]_
 
-__Humanoïde (toute race) de taille M, -__
+_Humanoïde (toute race) de taille M, -_
 
 **Classe d'armure** 10 (13 avec _armure de mage_)  
 **Points de vie** 22 (5d8)  
@@ -29161,7 +29131,7 @@ Sage, maître
 
 _\[ Master Sage \]_
 
-__Humanoïde (toute race) de taille M, -__
+_Humanoïde (toute race) de taille M, -_
 
 **Classe d'armure** 10 (13 avec _armure de mage_)  
 **Points de vie** 54 (12d8)  
@@ -29192,7 +29162,7 @@ Sahuagin
 
 _\[ Sahuagin \]_
 
-__Humanoïde (sahuagin) de taille M, loyal mauvais__
+_Humanoïde (sahuagin) de taille M, loyal mauvais_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
@@ -29224,7 +29194,7 @@ Sahuagin, baron
 
 _\[ Sahuagin Baron \]_
 
-__Humanoïde (sahuagin) de taille G, loyal mauvais__
+_Humanoïde (sahuagin) de taille G, loyal mauvais_
 
 **Classe d'armure** 16 (cuirasse)  
 **Points de vie** 76 (9d10 + 27)  
@@ -29248,8 +29218,7 @@ A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants
 A|**Morsure**. +7, 1,50 m, 2d4+4 perforants  
 A|**Trident**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 __Sahuagin, prêtresse
@@ -29257,7 +29226,7 @@ __Sahuagin, prêtresse
 
 _\[ Sahuagin Priestess \]_
 
-__Humanoïde (sahuagin) de taille M, loyal mauvais__
+_Humanoïde (sahuagin) de taille M, loyal mauvais_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
@@ -29284,8 +29253,7 @@ A|**Attaques multiples**.
 A|**Griffes**. +3, 1,50 m, 1d4+1 tranchants  
 A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Salamandre
@@ -29389,7 +29357,7 @@ Sanglier
 
 _\[ Boar \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
@@ -29416,7 +29384,7 @@ __Sanglier-garou
 
 _\[ Wereboar \]_
 
-__Humanoïde (humain, métamorphe) de taille M, neutre mauvais__
+_Humanoïde (humain, métamorphe) de taille M, neutre mauvais_
 
 **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme de sanglier ou sous forme hybride  
 **Points de vie** 78 (12d8 + 24)  
@@ -29448,7 +29416,7 @@ Sanglier géant
 
 _\[ Giant Boar \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 42 (5d10 + 15)  
@@ -29475,7 +29443,7 @@ Sanuya
 
 _\[ Sanuya \]_
 
-__Humanoïde (humain) de taille M, loyal mauvais__
+_Humanoïde (humain) de taille M, loyal mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
@@ -29497,8 +29465,7 @@ Niv 1 (4) : _projectile magique_
 Niv 2 (3) : _foulée brumeuse, immobilisation de personne_  
 A|**Bâton**.  
 
-
-Extra (Adventurers League)__
+_Extra (Adventurers League)_
 {: .label .label-red }
 
 Satyre
@@ -29535,7 +29502,7 @@ Scarabée de feu géant
 
 _\[ Giant Fire Beetle \]_
 
-__Bête de taille P, sans alignement__
+_Bête de taille P, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 4 (1d6 + 1)  
@@ -29582,7 +29549,7 @@ Scorpion
 
 _\[ Scorpion \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 1 (1d4 - 1)  
@@ -29607,7 +29574,7 @@ Scorpion géant
 
 _\[ Giant Scorpion \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 52 (7d10 + 14)  
@@ -29634,7 +29601,7 @@ Seigneur de guerre
 
 _\[ Warlord \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 229 (27d8 + 108)  
@@ -29667,7 +29634,7 @@ Seigneur de guerre legacy
 
 _\[ Warlord \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 229 (27d8 + 108)  
@@ -29700,7 +29667,7 @@ __Seigneur des crânes
 
 _\[ Skull Lord \]_
 
-__Mort-vivant (ensorceleur) de taille M, typiquement loyal mauvais__
+_Mort-vivant (ensorceleur) de taille M, typiquement loyal mauvais_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 112 (15d8 + 45)  
@@ -29738,7 +29705,7 @@ __Seigneur des crânes legacy
 
 _\[ Skull Lord \]_
 
-__Mort-vivant de taille M, loyal mauvais__
+_Mort-vivant de taille M, loyal mauvais_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 105 (14d8 + 42)  
@@ -29822,7 +29789,7 @@ Seigneur Soth
 
 _\[ Lord Soth \]_
 
-__Mort-vivant de taille M (paladin), loyal mauvais__
+_Mort-vivant de taille M (paladin), loyal mauvais_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 228 (24d8 + 120)  
@@ -29860,7 +29827,7 @@ Selkie
 
 _\[ Selkie \]_
 
-__Humanoïde (humain, métamorphe) de taille M, chaotique neutre__
+_Humanoïde (humain, métamorphe) de taille M, chaotique neutre_
 
 **Classe d'armure** 13  
 **Points de vie** 33 (6d8 + 6)  
@@ -29884,7 +29851,7 @@ A|**Épée courte (forme humanoïde ou hybride uniquement)**. +4, 1,50 m, 1d6+2 
 A|**Arbalète de poing (forme humanoïde ou hybride uniquement)**. +4, 9/36 m, 1d6+2 perforants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 __Sentinelle d'eau
@@ -29921,7 +29888,7 @@ Serpent constricteur
 
 _\[ Constrictor Snake \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 13 (2d10 + 2)  
@@ -29947,7 +29914,7 @@ Serpent constricteur géant
 
 _\[ Giant Constrictor Snake \]_
 
-__Bête de taille TG, sans alignement__
+_Bête de taille TG, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 60 (8d12 + 8)  
@@ -30052,7 +30019,7 @@ Serpent venimeux
 
 _\[ Poisonous Snake \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 13  
 **Points de vie** 2 (1d4)  
@@ -30077,7 +30044,7 @@ Serpent venimeux géant
 
 _\[ Giant Poisonous Snake \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 14  
 **Points de vie** 11 (2d8 + 2)  
@@ -30103,7 +30070,7 @@ Serpent volant
 
 _\[ Flying Snake \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 14  
 **Points de vie** 5 (2d4)  
@@ -30164,7 +30131,7 @@ Serviteur homoncule
 
 _\[ Homunculus Servant \]_
 
-__Artificiel de taille TP, -__
+_Artificiel de taille TP, -_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 1 + votre modificateur d'Intelligence + votre niveau d'artificier (l'homoncule a un nombre de Dés de vie \[d4\] égal à votre niveau d'artificier)  
@@ -30560,7 +30527,7 @@ Singe géant
 
 _\[ Giant Ape \]_
 
-__Bête de taille TG, sans alignement__
+_Bête de taille TG, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 157 (15d12 + 60)  
@@ -30610,8 +30577,7 @@ A|**Attaques multiples**.
 A|**Griffes**. +8, 1,50 m, 2d6+5 tranchants  
 A|**Morsure**. +8, 1,50 m, 2d6+5 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Slaad funeste
@@ -30648,8 +30614,7 @@ A|**Morsure (forme de slaad uniquement)**. +9, 1,50 m, 1d8+5 perforants
 A|**Griffes (forme de slaad uniquement)**. +9, 1,50 m, 1d10+5 tranchants  
 A|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Slaad gris
@@ -30686,8 +30651,7 @@ A|**Morsure (forme de slaad uniquement)**. +7, 1,50 m, 1d6+3 perforants
 A|**Griffes (forme de slaad uniquement)**. +7, 1,50 m, 1d10+3 tranchants  
 A|**Épée à deux mains**. +7, 1,50 m, 2d6+3 tranchants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Slaad rouge
@@ -30717,8 +30681,7 @@ A|**Attaques multiples**.
 A|**Griffes**. +6, 1,50 m, 1d8+3 tranchants  
 A|**Morsure**. +6, 1,50 m, 2d4+3 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 __Slaad, têtard
@@ -30745,8 +30708,7 @@ _Aberration de taille TP, chaotique neutre_
 **Résistance à la magie**.  
 A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Slaad vert
@@ -30783,8 +30745,7 @@ A|**Griffes (forme de slaad uniquement)**. +7, 1,50 m, 1d6+4 tranchants
 A|**Bâton**. +7, 1,50 m, 2d6+4 contondants  
 A|**Jet de flammes**. +4, 18 m, 3d6 feu  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Solar
@@ -30946,7 +30907,7 @@ Sorcemort
 
 _\[ Deathlock \]_
 
-__Mort-vivant (occultiste) de taille M, typiquement neutre mauvais__
+_Mort-vivant (occultiste) de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 36 (8d8)  
@@ -31015,7 +30976,7 @@ Sorcemort, conspirateur legacy
 
 _\[ Deathlock Mastermind \]_
 
-__Mort-vivant de taille M, neutre mauvais__
+_Mort-vivant de taille M, neutre mauvais_
 
 **Classe d'armure** 13 (16 avec _armure de mage_)  
 **Points de vie** 110 (20d8 + 20)  
@@ -31048,7 +31009,7 @@ Sorcemort legacy
 
 _\[ Deathlock \]_
 
-__Mort-vivant de taille M, neutre mauvais__
+_Mort-vivant de taille M, neutre mauvais_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 36 (8d8)  
@@ -31080,7 +31041,7 @@ Sorcemort, nécrophage
 
 _\[ Deathlock Wight \]_
 
-__Mort-vivant (occultiste) de taille M, typiquement neutre mauvais__
+_Mort-vivant (occultiste) de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 37 (5d8 + 15)  
@@ -31114,7 +31075,7 @@ Sorcemort, nécrophage legacy
 
 _\[ Deathlock Wight \]_
 
-__Mort-vivant de taille M, neutre mauvais__
+_Mort-vivant de taille M, neutre mauvais_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 37 (5d8 + 15)  
@@ -31195,8 +31156,7 @@ A|**4- Rayon de blessure**.
 A|**Création d'eau et de nourriture**.  
 R|**Renvoi de sort**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Spectre
@@ -31204,7 +31164,7 @@ Spectre
 
 _\[ Specter \]_
 
-__Mort-vivant de taille M, chaotique mauvais__
+_Mort-vivant de taille M, chaotique mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
@@ -31254,8 +31214,7 @@ _Plante de taille G, sans alignement_
 **Sinistre ressemblance**.  
 A|**Contact**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Squelette
@@ -31263,7 +31222,7 @@ Squelette
 
 _\[ Skeleton \]_
 
-__Mort-vivant de taille M, loyal mauvais__
+_Mort-vivant de taille M, loyal mauvais_
 
 **Classe d'armure** 13 (restes d'armure)  
 **Points de vie** 13 (2d8 + 4)  
@@ -31320,7 +31279,7 @@ Squelette de minotaure
 
 _\[ Minotaur Skeleton \]_
 
-__Mort-vivant de taille G, loyal mauvais__
+_Mort-vivant de taille G, loyal mauvais_
 
 **Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 67 (9d10 + 18)  
@@ -31350,7 +31309,7 @@ Strahd von Zarovich
 
 _\[ Strahd von Zarovich \]_
 
-__Mort-vivant (métamorphe) de taille M, loyal mauvais__
+_Mort-vivant (métamorphe) de taille M, loyal mauvais_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 144 (17d8 + 68)  
@@ -31391,7 +31350,7 @@ Strige
 
 _\[ Stirge \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 2 (1d4)  
@@ -31480,7 +31439,7 @@ Tabaxi, chasseur
 
 _\[ Tabaxi Hunter \]_
 
-__Humanoïde (tabaxi) de taille M, chaotique bon__
+_Humanoïde (tabaxi) de taille M, chaotique bon_
 
 **Classe d'armure** 14 (armure de cuir)  
 **Points de vie** 40 (9d8)  
@@ -31509,7 +31468,7 @@ Tabaxi, ménestrel
 
 _\[ Tabaxi Minstrel \]_
 
-__Humanoïde (tabaxi) de taille M, chaotique bon__
+_Humanoïde (tabaxi) de taille M, chaotique bon_
 
 **Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
@@ -31762,7 +31721,7 @@ A|**Appendice**. +4, 4,50 m, 1d6+6 contondants
 A|**Engloutissement**.  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Ténébreux
@@ -31770,7 +31729,7 @@ Ténébreux
 
 _\[ Nightwalker \]_
 
-__Mort-vivant de taille TG, typiquement chaotique mauvais__
+_Mort-vivant de taille TG, typiquement chaotique mauvais_
 
 **Classe d'armure** 14  
 **Points de vie** 337 (25d12 + 175)  
@@ -31803,7 +31762,7 @@ Ténébreux legacy
 
 _\[ Nightwalker \]_
 
-__Mort-vivant de taille TG, chaotique mauvais__
+_Mort-vivant de taille TG, chaotique mauvais_
 
 **Classe d'armure** 14  
 **Points de vie** 297 (22d12 + 154)  
@@ -31835,7 +31794,7 @@ Teril
 
 _\[ Teril \]_
 
-__Humanoïde (demi-elfe) de taille M, neutre bon__
+_Humanoïde (demi-elfe) de taille M, neutre bon_
 
 **Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 13 (3d8)  
@@ -31856,7 +31815,7 @@ A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants
 A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Tertre errant
@@ -31917,8 +31876,7 @@ A|**Attaques multiples**.
 A|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
 A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Tiamat
@@ -31951,7 +31909,7 @@ Tigre
 
 _\[ Tiger \]_
 
-__Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 37 (5d10 + 10)  
@@ -32009,7 +31967,7 @@ __Tigre-garou
 
 _\[ Weretiger \]_
 
-__Humanoïde (humain, métamorphe) de taille M, neutre__
+_Humanoïde (humain, métamorphe) de taille M, neutre_
 
 **Classe d'armure** 12  
 **Points de vie** 120 (16d8 + 48)  
@@ -32182,7 +32140,7 @@ Torte
 
 _\[ Tortle \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
@@ -32211,7 +32169,7 @@ Torte, druide
 
 _\[ Tortle Druid \]_
 
-__Humanoïde de taille M, tout alignement__
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
@@ -32241,7 +32199,7 @@ Torte, druide legacy
 
 _\[ Tortle Druid \]_
 
-__Humanoïde (torte) de taille M, loyal neutre__
+_Humanoïde (torte) de taille M, loyal neutre_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
@@ -32270,7 +32228,7 @@ Torte legacy
 
 _\[ Tortle \]_
 
-__Humanoïde (torte) de taille M, loyal bon__
+_Humanoïde (torte) de taille M, loyal bon_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
@@ -32299,7 +32257,7 @@ Torve
 
 _\[ Grimlock \]_
 
-__Humanoïde (torve) de taille M, neutre mauvais__
+_Humanoïde (torve) de taille M, neutre mauvais_
 
 **Classe d'armure** 11  
 **Points de vie** 11 (2d8 + 2)  
@@ -32405,7 +32363,7 @@ Transmutateur legacy
 
 _\[ Transmuter \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 40 (9d8)  
@@ -32570,7 +32528,7 @@ Tricératops
 
 _\[ Triceratops \]_
 
-__Bête de taille TG, sans alignement__
+_Bête de taille TG, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 95 (10d12 + 30)  
@@ -32617,8 +32575,7 @@ A|**Attaques multiples**.
 A|**Poing**. +3, 1,50 m, 1d4+1 contondants  
 A|**Javeline**. +3, 1,50 m ou 9/36 m, 1d6+1 perforants  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Triton du feu, guerrier
@@ -32654,7 +32611,7 @@ Triton du feu, guerrier legacy
 
 _\[ Firenewt Warrior \]_
 
-__Humanoïde (triton du feu) de taille M, neutre mauvais__
+_Humanoïde (triton du feu) de taille M, neutre mauvais_
 
 **Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 22 (4d8 + 4)  
@@ -32713,7 +32670,7 @@ __Triton du feu, occultiste d'Imix legacy
 
 _\[ Firenewt Warlock of Imix \]_
 
-__Humanoïde (triton du feu) de taille M, neutre mauvais__
+_Humanoïde (triton du feu) de taille M, neutre mauvais_
 
 **Classe d'armure** 10 (13 avec _armure de mage_)  
 **Points de vie** 33 (6d8 + 6)  
@@ -32744,7 +32701,7 @@ Tritsir
 
 _\[ Tritsir \]_
 
-__Humanoïde (humain) de taille M, loyal mauvais__
+_Humanoïde (humain) de taille M, loyal mauvais_
 
 **Classe d'armure** 10 (13 avec _armure de mage_)  
 **Points de vie** 90 (12d8 + 36)  
@@ -32771,7 +32728,7 @@ Nivx 1 à 5 (4 de niveau 5) : _représailles infernales, mains brûlantes, nuage
 A|**Masse d'armes**. +3, 1,50 m, 1d6 contondants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Troglodyte
@@ -32779,7 +32736,7 @@ Troglodyte
 
 _\[ Troglodyte \]_
 
-__Humanoïde (troglodyte) de taille M, chaotique mauvais__
+_Humanoïde (troglodyte) de taille M, chaotique mauvais_
 
 **Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 13 (2d8 + 4)  
@@ -33091,7 +33048,7 @@ __Truite têtevide
 
 _\[ Knucklehead Trout \]_
 
-__Bête de taille P, sans alignement__
+_Bête de taille P, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 7 (2d6)  
@@ -33117,7 +33074,7 @@ Tyramort
 
 _\[ Death Tyrant \]_
 
-__Mort-vivant de taille G, loyal mauvais__
+_Mort-vivant de taille G, loyal mauvais_
 
 **Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 187 (25d10 + 50)  
@@ -33150,8 +33107,7 @@ A|**9- Rayon de désintégration**.
 A|**10- Rayon de mort**.  
 L|**Rayon oculaire**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Tyrannoeil
@@ -33191,8 +33147,7 @@ A|**9- Rayon de désintégration**.
 A|**10- Rayon de mort**.  
 L|**Rayon oculaire**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Tyrannosaure
@@ -33200,7 +33155,7 @@ Tyrannosaure
 
 _\[ Tyrannosaurus Rex \]_
 
-__Bête de taille TG, sans alignement__
+_Bête de taille TG, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 136 (13d12 + 52)  
@@ -33323,8 +33278,7 @@ A|**Épée longue**. +8, 1,50 m, 1d8+3 tranchants
 A|**Regard hypnotique**.  
 A|**Téléportation**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Vajra Safahr
@@ -33332,7 +33286,7 @@ Vajra Safahr
 
 _\[ Vajra Safahr \]_
 
-__Humanoïde (humain) de taille M, loyal neutre__
+_Humanoïde (humain) de taille M, loyal neutre_
 
 **Classe d'armure** 14 (_Bâton noir_ ; 17 avec _armure de mage_)  
 **Points de vie** 126 (23d8 + 23)  
@@ -33361,7 +33315,7 @@ Vampire
 
 _\[ Vampire \]_
 
-__Mort-vivant (métamorphe) de taille M, loyal mauvais__
+_Mort-vivant (métamorphe) de taille M, loyal mauvais_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 144 (17d8 + 68)  
@@ -33406,7 +33360,7 @@ Vampirien
 
 _\[ Vampire Spawn \]_
 
-__Mort-vivant de taille M, neutre mauvais__
+_Mort-vivant de taille M, neutre mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 82 (11d8 + 33)  
@@ -33625,7 +33579,7 @@ Vautour
 
 _\[ Vulture \]_
 
-__Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 5 (1d8 + 1)  
@@ -33653,7 +33607,7 @@ Vautour géant
 
 _\[ Giant Vulture \]_
 
-__Bête de taille G, neutre mauvais__
+_Bête de taille G, neutre mauvais_
 
 **Classe d'armure** 10  
 **Points de vie** 22 (3d10 + 6)  
@@ -33683,7 +33637,7 @@ __Vecna l'archiliche
 
 _\[ Vecna the Archlich \]_
 
-__Mort-vivant (magicien) de taille M, loyal mauvais__
+_Mort-vivant (magicien) de taille M, loyal mauvais_
 
 **Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 272 (32d8 + 128)  
@@ -33876,7 +33830,7 @@ Vellynne Harpell
 
 _\[ Vellynne Harpell \]_
 
-__Humanoïde (humain) de taille M, neutre__
+_Humanoïde (humain) de taille M, neutre_
 
 **Classe d'armure** 13 (_bracelets de défense_)  
 **Points de vie** 67 (9d8 + 27)  
@@ -33899,7 +33853,7 @@ Vélociraptor
 
 _\[ Velociraptor \]_
 
-__Bête (dinosaure) de taille TP, sans alignement__
+_Bête (dinosaure) de taille TP, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 10 (3d4 + 3)  
@@ -33927,7 +33881,7 @@ Vélociraptor legacy
 
 _\[ Velociraptor \]_
 
-__Bête de taille TP, sans alignement__
+_Bête de taille TP, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 10 (3d4 + 3)  
@@ -33984,7 +33938,7 @@ Vétéran
 
 _\[ Veteran \]_
 
-__Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 17 (clibanion)  
 **Points de vie** 58 (9d8 + 18)  
@@ -34013,7 +33967,7 @@ Viplo
 
 _\[ Viplo \]_
 
-__Humanoïde (halfelin) de taille P, loyal neutre__
+_Humanoïde (halfelin) de taille P, loyal neutre_
 
 **Classe d'armure** 10  
 **Points de vie** 9 (2d6 + 2)  
@@ -34033,8 +33987,7 @@ Sorts mineurs (à volonté) : _réparation, trait de feu_
 Niv 1 (2) : _déguisement, mains brûlantes_  
 A|**Bâton**.  
 
-
-Extra (Adventurers League)__
+_Extra (Adventurers League)_
 {: .label .label-red }
 
 Vissepince
@@ -34260,7 +34213,7 @@ Xiximantre
 
 _\[ Xiximantre \]_
 
-__Humanoïde (homme serpent) de taille M, neutre__
+_Humanoïde (homme serpent) de taille M, neutre_
 
 **Classe d'armure** 11 (14 avec _armure de mage_)  
 **Points de vie** 38 (11d8-11)  
@@ -34287,7 +34240,7 @@ Niv 1-5 (3 de niveau 5) : _compréhension des langues, couronne du dément, dét
 A|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+2 perforants  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Xorn
@@ -34355,7 +34308,7 @@ Xvart legacy
 
 _\[ Xvart \]_
 
-__Humanoïde (xvart) de taille P, chaotique mauvais__
+_Humanoïde (xvart) de taille P, chaotique mauvais_
 
 **Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 7 (2d6)  
@@ -34415,7 +34368,7 @@ Xvart, occultiste de Raxivort legacy
 
 _\[ Xvart Warlock of Raxivort \]_
 
-__Humanoïde (xvart) de taille P, chaotique mauvais__
+_Humanoïde (xvart) de taille P, chaotique mauvais_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 22 (5d6 + 5)  
@@ -34539,7 +34492,8 @@ Damage immunities foudre, poison, tonnerre
 **Langues** aérien  
 **Puissance** 18 (20000 PX)
 
-Adventures (Princes of the Apocalypse)
+_Adventures (Princes of the Apocalypse)_
+{: .label .label-red }
 
 Yeenoghu
 ============
@@ -34648,7 +34602,7 @@ A|**Regard givrant**.
 
 _Monster Manual (BR+)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 Yéti abominable
 ===================
@@ -34679,8 +34633,7 @@ A|**Griffes**. +11, 1,50 m, 2d6+7 tranchants
 A|**Regard givrant**.  
 A|**Souffle de froid (Recharge 6)**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 Yochlol
@@ -34718,8 +34671,7 @@ A|**Attaques multiples**.
 A|**Coup (Morsure sous forme d'araignée)**. +6, 1,50 m, 1d6+2 contondants  
 A|**Forme brumeuse**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 __Yuan-ti, abomination
@@ -35171,7 +35123,7 @@ A|**Arc long (forme de yuan-ti uniquement)**. +4, 45/180 m, 1d8+2 perforants
 
 _Monster Manual (BR+)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 __Yuan-ti, sang-pur
 =====================
@@ -35205,7 +35157,7 @@ A|**Arc court**. +3, 24/96 m, 1d6+1 perforants
 
 _Monster Manual (BR+)_
 {: .label .label-red }
-{: .label .label-red }
+
 
 Zaratan
 ===========
@@ -35410,7 +35362,7 @@ A|**Téléportation (dans le château uniquement)**.
 B|**Discrétion dans les ombres**.  
 
 
-Extra (AideDD)__
+_Extra (AideDD)_
 {: .label .label-red }
 
 Zombi
@@ -35418,7 +35370,7 @@ Zombi
 
 _\[ Zombie \]_
 
-__Mort-vivant de taille M, neutre mauvais__
+_Mort-vivant de taille M, neutre mauvais_
 
 **Classe d'armure** 8  
 **Points de vie** 22 (3d8 + 9)  
@@ -35447,7 +35399,7 @@ Zombi musqué jaune
 
 _\[ Yellow Musk Zombie \]_
 
-__Mort-vivant de taille M, sans alignement__
+_Mort-vivant de taille M, sans alignement_
 
 **Classe d'armure** 9  
 **Points de vie** 33 (6d8 + 6)  
@@ -35474,7 +35426,7 @@ Zombi ogre
 
 _\[ Ogre Zombie \]_
 
-__Mort-vivant de taille G, neutre mauvais__
+_Mort-vivant de taille G, neutre mauvais_
 
 **Classe d'armure** 8  
 **Points de vie** 85 (9d10 + 36)  
@@ -35524,8 +35476,7 @@ Mort-vivant de taille G, neutre mauvais__
 **Tenacité de mort-vivant**.  
 A|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
 
-
-Extra (Adventurers League)__
+_Extra (Adventurers League)_
 {: .label .label-red }
 
 
@@ -35534,7 +35485,7 @@ Zombi tyrannoeil
 
 _\[ Beholder Zombie \]_
 
-__Mort-vivant de taille G, neutre mauvais__
+_Mort-vivant de taille G, neutre mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 93 (11d10 + 33)  
@@ -35559,8 +35510,7 @@ A|**2- Rayon de peur**.
 A|**3- Rayon affaiblissant**.  
 A|**4- Rayon de désintégration**.  
 
-
-Monster Manual__
+_Monster Manual_
 {: .label .label-red }
 
 
