@@ -3182,7 +3182,8 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Convocation d'artificiel
 ========================
@@ -3206,7 +3207,8 @@ Invoque 1 esprit de créature artificielle (argile, métal ou pierre) amical (bl
 Magicien
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Convocation d'élémentaire
 =========================
@@ -3236,7 +3238,8 @@ Magicien
 Rôdeur
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Convocation d'esprit draconique
 ===============================
@@ -3294,7 +3297,8 @@ Druide
 Rôdeur
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Convocation de céleste
 ======================
@@ -3321,7 +3325,8 @@ Clerc
 Paladin
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Convocation de démon majeur
 ===========================
@@ -3419,7 +3424,9 @@ Occultiste
 Rôdeur
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
+
 
 Convocation de fiélon
 =====================
@@ -3446,7 +3453,9 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
+
 
 Convocation de mort-vivant
 ==========================
@@ -3473,7 +3482,9 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
+
 
 Convocation de rejeton d'ombre
 ==============================
@@ -3500,7 +3511,9 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
+
 
 Convocations instantanées de Drawmij
 ====================================
@@ -3632,7 +3645,9 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
+
 
 Couleurs dansantes
 ==================
@@ -5366,7 +5381,9 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
+
 
 Éruption de terre
 =================
@@ -5743,7 +5760,8 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Festin des héros
 ================
@@ -6328,7 +6346,8 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Forteresse majestueuse
 ======================
@@ -6429,7 +6448,9 @@ Ensorceleur
 Magicien
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
+
 
 Foulée brumeuse
 ===============
@@ -7965,7 +7986,8 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Lame d'ombres
 =============
@@ -8054,7 +8076,8 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Lame retentissante
 ==================
@@ -8083,7 +8106,8 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Lance d'arçon psychique de Raulothim
 ====================================
@@ -9202,7 +9226,7 @@ Ensorceleur
 Magicien
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
 
@@ -10613,7 +10637,8 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Poigne électrique
 =================
@@ -12869,7 +12894,8 @@ Magicien
 Occultiste
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Souffle du dragon
 =================
@@ -14356,7 +14382,8 @@ Occultiste
 Paladin
 {: .label .label-green }
 
-Tasha´s Cauldron of Everything
+Tasha´s Tasha´s Cauldron of Everything
+{: .label .label-red }
 
 Voir l'invisible
 ================
