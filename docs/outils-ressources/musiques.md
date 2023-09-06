@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musiques
-parent: Outils
+parent: Outils & Ressources
 nav_order: 3
 ---
 
