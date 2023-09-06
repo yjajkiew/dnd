@@ -12,17 +12,14 @@ Aarakocra
 
 Humanoïde (aarakocra) de taille M, neutre bon
 
----
 **Classe d'armure** 12  
 **Points de vie** 13 (3d8)  
 **Vitesse** 6 m, vol 15 m
 
----
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
 |---|---|---|---|---|---|
 |10 (+0)|14 (+2)|10 (+0)|11 (+0)|12 (+1)|11 (+0)
 
----
 **Compétences** Perception +5  
 **Sens** Perception passive 15  
 **Langues** aérien, aarakocra  
