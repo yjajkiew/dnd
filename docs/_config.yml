@@ -1,6 +1,5 @@
 #theme: jekyll-theme-leap-day
-#remote_theme: pmarsceill/just-the-docs
-remote_theme: jeremyboggs/5e
+remote_theme: pmarsceill/just-the-docs
 
 title: DnD | Donjons & Drgons | yann.me
 description: Aides, astuces, campagnes, ressources Donjons & Dragons
@@ -18,7 +17,7 @@ search_enabled: true
 footer_content: "Copyright &copy; 2023  Yann Jajkiewicz."
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: nil
+color_scheme: dark
 
 # jekyll plugins
 plugins:
