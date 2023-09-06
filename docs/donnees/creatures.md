@@ -34569,10 +34569,10 @@ A|**Forme brumeuse**.
 _Monster Manual_
 {: .label .label-red }
 
-__Yuan-ti, abomination
+Yuan-ti, abomination
 ========================
 
-__\[ Yuan-ti Abomination \] \[ Abomination yuan-tie \]
+_\[ Yuan-ti Abomination \] \[ Abomination yuan-tie \]_
 
 Monstruosité (métamorphe, yuan-ti) de taille G, neutre mauvais__
 
@@ -34606,10 +34606,10 @@ A|**Arc long (forme d'abomination uniquement)**. +6, 45/180 m, 2d8+3 perforants
 _Monster Manual (BR+)_
 {: .label .label-red }
 
-__Yuan-ti, anathème
+Yuan-ti, anathème
 =====================
 
-__\[ Yuan-ti Anathema \]
+_\[ Yuan-ti Anathema \]_
 
 Monstruosité de taille TG, typiquement neutre mauvais__
 
@@ -34642,10 +34642,10 @@ Métamorphe.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Yuan-ti, anathème legacy
+Yuan-ti, anathème legacy
 ============================
 
-__\[ Yuan-ti Anathema \]
+_\[ Yuan-ti Anathema \]_
 
 Monstruosité (métamorphe, yuan-ti) de taille TG, neutre mauvais__
 
@@ -34681,10 +34681,10 @@ A|**Déluge de morsures**. +10, 3 m, 6d6+6 perforants
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Yuan-ti, annonciateur de cauchemars
+Yuan-ti, annonciateur de cauchemars
 =======================================
 
-__\[ Yuan-ti Nightmare Speaker \] \[ Yuan-ti, orateur des cauchemars \]
+_\[ Yuan-ti Nightmare Speaker \] \[ Yuan-ti, orateur des cauchemars \]_
 
 Monstruosité (occultiste) de taille M, typiquement neutre mauvais__
 
@@ -34717,10 +34717,10 @@ Métamorphe.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Yuan-ti, annonciateur de cauchemars legacy
+Yuan-ti, annonciateur de cauchemars legacy
 ==============================================
 
-__\[ Yuan-ti Nightmare Speaker \]
+_\[ Yuan-ti Nightmare Speaker \]_
 
 Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
 
@@ -34757,10 +34757,10 @@ A|**Invocation de cauchemar (Recharge après un repos court ou long)**.
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Yuan-ti, chuchoteur des consciences
+Yuan-ti, chuchoteur des consciences
 =======================================
 
-__\[ Yuan-ti Mind Whisperer \]
+_\[ Yuan-ti Mind Whisperer \]_
 
 Monstruosité (occultiste) de taille M, typiquement neutre mauvais__
 
@@ -34793,10 +34793,10 @@ Métamorphe.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Yuan-ti, chuchoteur des consciences legacy
+Yuan-ti, chuchoteur des consciences legacy
 ==============================================
 
-__\[ Yuan-ti Mind Whisperer \]
+_\[ Yuan-ti Mind Whisperer \]_
 
 Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
 
@@ -34833,10 +34833,10 @@ A|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Yuan-ti, garde des couvées
+Yuan-ti, garde des couvées
 ==============================
 
-__\[ Yuan-ti Broodguard \]
+_\[ Yuan-ti Broodguard \]_
 
 Monstruosité de taille M, typiquement neutre mauvais__
 
@@ -34864,10 +34864,10 @@ Griffes.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Yuan-ti, garde des couvées legacy
+Yuan-ti, garde des couvées legacy
 =====================================
 
-__\[ Yuan-ti Broodguard \]
+_\[ Yuan-ti Broodguard \]_
 
 Humanoïde (yuan-ti) de taille M, neutre mauvais__
 
@@ -34896,10 +34896,10 @@ A|**Griffes**. +4, 1,50 m, 1d6+2 tranchants
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Yuan-ti, maître de la fosse
+Yuan-ti, maître de la fosse
 ===============================
 
-__\[ Yuan-ti Pit Master \]
+_\[ Yuan-ti Pit Master \]_
 
 Monstruosité (occultiste) de taille M, typiquement neutre mauvais__
 
@@ -34931,10 +34931,10 @@ Métamorphe.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Yuan-ti, maître de la fosse legacy
+Yuan-ti, maître de la fosse legacy
 ======================================
 
-__\[ Yuan-ti Pit Master \]
+_\[ Yuan-ti Pit Master \]_
 
 Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
 
@@ -34970,10 +34970,10 @@ A|**Sommeil de Merrshaulk (1/jour)**.
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Yuan-ti, malison
+Yuan-ti, malison
 ====================
 
-__\[ Yuan-ti Malison \]
+_\[ Yuan-ti Malison \]_
 
 Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
 
@@ -35020,10 +35020,10 @@ _Monster Manual (BR+)_
 {: .label .label-red }
 
 
-__Yuan-ti, sang-pur
+Yuan-ti, sang-pur
 =====================
 
-__\[ Yuan-ti Pureblood \]
+_\[ Yuan-ti Pureblood \]_
 
 Humanoïde (yuan-ti) de taille M, neutre mauvais__
 
