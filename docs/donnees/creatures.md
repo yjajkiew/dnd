@@ -30,6 +30,7 @@ A|**Serres**. +4, 1,50 m, 1d4+2 tranchants
 A|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
 
 Monster Manual (BR+)
+{: .label .label-red }
 
 Abishaï blanc
 =============
@@ -64,6 +65,7 @@ Griffes.
 Représailles vicieuses.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Abishaï blanc legacy
 ====================
@@ -99,6 +101,7 @@ Griffes.
 Représailles vicieuses.  
 
 Mordenkainen´s Tome of Foes
+{: .label .label-red }
 
 Abishaï bleu
 ============
@@ -133,6 +136,7 @@ Incantation.
 Téléportation.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Abishaï bleu legacy
 ===================
@@ -167,6 +171,7 @@ Batôn.
 Morsure.  
 
 Mordenkainen´s Tome of Foes
+{: .label .label-red }
 
 Abishaï noir
 ============
@@ -200,6 +205,7 @@ Ténèbres rampantes (Recharge 6).
 Discrétion dans les ombres.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Abishaï noir legacy
 ===================
@@ -235,6 +241,7 @@ Morsure.
 Ténèbres rampantes (Recharge 6).  
 
 Mordenkainen´s Tome of Foes
+{: .label .label-red }
 
 Abishaï rouge
 =============
@@ -270,6 +277,7 @@ Incitation au fanatisme.
 Pouvoir de la Reine des Dragons.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Abishaï rouge legacy
 ====================
@@ -306,6 +314,7 @@ Incitation au fanatisme.
 Pouvoir de la Reine des Dragons.  
 
 Mordenkainen´s Tome of Foes
+{: .label .label-red }
 
 Abishaï vert
 ============
@@ -338,6 +347,7 @@ Griffe fiélonne.
 Incantation.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Abishaï vert legacy
 ===================
@@ -372,6 +382,7 @@ Attaques multiples.
 Griffes.  
 
 Mordenkainen´s Tome of Foes
+{: .label .label-red }
 
 Abjurateur legacy
 =================
@@ -408,6 +419,7 @@ Niv 7 (1) : _téléportation_
 A|**Bâton**.  
 
 Volo´s Guide to Monsters
+{: .label .label-red }
 
 Aboleth
 =======
@@ -567,6 +579,7 @@ Morsure.
 Griffes.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Affligé colérique
 =================
@@ -595,6 +608,7 @@ Attaques multiples.
 Crochet.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Affligé misérable
 =================
@@ -620,6 +634,7 @@ Tactique de groupe misérable.
 Morsure.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Affligé perdu
 =============
@@ -648,6 +663,7 @@ Bras épineux.
 Étreinte serrée.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Affligé solitaire
 =================
@@ -676,6 +692,7 @@ Bras de harpon.
 Étreinte douloureuse.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Aigle
 =====
@@ -764,6 +781,7 @@ Incantation.
 Annulation de sort (3/jour).  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Alhoon legacy
 =============
@@ -806,6 +824,7 @@ A|**Étreinte glaciale**. +8, 1,50 m, 3d6 froid
 A|**Explosion de l'esprit (Recharge 5-6)**.  
 
 Volo´s Guide to Monsters
+{: .label .label-red }
 
 Alkilith
 ========
@@ -842,6 +861,7 @@ Attaques multiples.
 Tentacle.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Alkilith legacy
 ===============
@@ -875,6 +895,7 @@ Attaques multiples.
 Tentacle.  
 
 Mordenkainen´s Tome of Foes
+{: .label .label-red }
 
 Allip
 =====
@@ -907,6 +928,7 @@ Babil mugissant (Recharge 6).
 Murmures de compulsion.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Allip legacy
 ============
@@ -938,6 +960,7 @@ A|**Murmures de la folie**.
 A|**Babil mugissant (Recharge 6)**.  
 
 Mordenkainen´s Tome of Foes
+{: .label .label-red }
 
 Allosaure
 =========
@@ -1028,6 +1051,7 @@ Incantation.
 Charme instinctif.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 Amnizu legacy
 =============
@@ -1064,6 +1088,7 @@ Oubli (Recharge 6).
 Charme instinctif.  
 
 Mordenkainen´s Tome of Foes
+{: .label .label-red }
 
 Androsphinx
 ===========
@@ -1208,6 +1233,7 @@ Niv 1 (2) : _mains brûlantes, déguisement, bouclier_
 A|**Dague**. +2, 1,50 m ou 6/18 m, 1d4 perforants  
 
 Volo´s Guide to Monsters
+{: .label .label-red }
 
 _
 
@@ -1275,6 +1301,7 @@ A|**Morsure**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Araignée de monte, femelle_
 ============================
@@ -1303,6 +1330,7 @@ Patte collante.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Araignée de monte, femelle legacy_
 ===================================
@@ -1331,6 +1359,7 @@ A|**Patte collante**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Araignée de monte, mâle_
 =========================
@@ -1359,6 +1388,7 @@ Patte collante.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Araignée de monte, mâle legacy_
 ================================
@@ -1387,6 +1417,7 @@ A|**Patte collante**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Araignée de phase_
 ===================
@@ -1415,6 +1446,7 @@ A|**Morsure**. +4, 1,50 m, 1d10+2 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Araignée géante_
 =================
@@ -1444,6 +1476,7 @@ A|**Toile d'araignée (Recharge 5-6)**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Araignée-loup géante_
 ======================
@@ -1472,6 +1505,7 @@ A|**Morsure**. +3, 1,50 m, 1d6+1 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Arbre éveillé_
 ===============
@@ -1499,6 +1533,7 @@ A|**Coup**. +6, 3 m, 3d6+4 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Arbuste éveillé_
 =================
@@ -1526,6 +1561,7 @@ A|**Écorchure**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Arcanaloth_
 ============
@@ -1570,6 +1606,7 @@ A|**Téléportation**.
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Archer_
 ========
@@ -1598,6 +1635,7 @@ B|**Oeil de l'archer (3/jour)**.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Archer legacy_
 ===============
@@ -1626,6 +1664,7 @@ A|**Arc long**. +6, 45/90 m, 1d8+4 perforants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Archidruide_
 =============
@@ -1656,6 +1695,7 @@ Changement de forme (2/jour).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Archidruide legacy_
 ====================
@@ -1694,6 +1734,7 @@ A|**Changement de forme (2/jour)**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Archimage_
 ===========
@@ -1734,6 +1775,7 @@ A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+2 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Armanite_
 ==========
@@ -1766,6 +1808,7 @@ Lance d'arçon éclair (Recharge 5–6).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Armanite legacy_
 =================
@@ -1799,6 +1842,7 @@ Lance d'arçon éclair (Recharge 5–6).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Armure animée_
 ===============
@@ -1828,6 +1872,7 @@ A|**Coup**. +4, 1,50 m, 1d6+2 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Assassin_
 ==========
@@ -1860,6 +1905,7 @@ A|**Arbalète légère**. +6, 24/96 m, 1d8+3 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Auroch_
 ========
@@ -1884,6 +1930,7 @@ _Corne.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Auroch legacy_
 ===============
@@ -1909,6 +1956,7 @@ A|**Corne**. +7, 1,50 m, 2d8+5 perforants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Automate, cobra de fer_
 ========================
@@ -1938,6 +1986,7 @@ Morsure.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Automate, cobra de fer legacy_
 ===============================
@@ -1966,6 +2015,7 @@ Morsure.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Avatar de la mort_
 ===================
@@ -2024,6 +2074,7 @@ A|**Marteau de guerre**. +5, 1,50 m, 1d8+3 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Babau_
 =======
@@ -2055,6 +2106,7 @@ Regard affaiblissant.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Babau legacy_
 ==============
@@ -2088,6 +2140,7 @@ A|**Regard affaiblissant**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Babélien_
 ==========
@@ -2117,6 +2170,7 @@ A|**Salive aveuglante (Recharge 5-6)**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Babouin_
 =========
@@ -2142,6 +2196,7 @@ A|**Morsure**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Badîan_
 ========
@@ -2210,6 +2265,7 @@ Attaque (coûte 2 actions).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Baël legacy_
 =============
@@ -2252,6 +2308,7 @@ Téléportation.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Balhannoth_
 ============
@@ -2285,6 +2342,7 @@ Disparition.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Balhannoth legacy_
 ===================
@@ -2318,6 +2376,7 @@ Disparition.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Balor_
 =======
@@ -2353,6 +2412,7 @@ A|**Téléportation**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Banderhobb_
 ============
@@ -2385,6 +2445,7 @@ Discrétion dans les ombres.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Banderhobb legacy_
 ===================
@@ -2416,6 +2477,7 @@ A|**Foulée d'ombre**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Bandit_
 ========
@@ -2441,6 +2503,7 @@ A|**Arbalète légère**. +3, 24/96 m, 1d8+1 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Bandit, capitaine_
 ===================
@@ -2470,6 +2533,7 @@ R|**Parade**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Banshie_
 =========
@@ -2541,6 +2605,7 @@ Charge (coûte 2 actions).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Baphomet legacy_
 =================
@@ -2583,6 +2648,7 @@ Charge (coûte 2 actions).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Barde_
 =======
@@ -2614,6 +2680,7 @@ Raillerie (2/jour)
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Barde legacy_
 ==============
@@ -2647,6 +2714,7 @@ A|**Arc court**. +4, 24/96 m, 1d6+2 perforants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Barghest_
 ==========
@@ -2680,6 +2748,7 @@ Métamorphe.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Barghest legacy_
 =================
@@ -2715,6 +2784,7 @@ A|**Griffes**. +6, 1,50 m, 1d8+4 tranchants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Barlgura_
 ==========
@@ -2776,6 +2846,7 @@ A|**Morsure**. +5, 1,50 m, 2d6+3 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Bec de hache_
 ==============
@@ -2800,6 +2871,7 @@ _A|**Bec**. +4, 1,50 m, 1d8+2 tranchants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Béhir_
 =======
@@ -2830,6 +2902,7 @@ A|**Engloutissement**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Belaphoss_
 ===========
@@ -2893,6 +2966,7 @@ A|**Morsure**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Belette géante_
 ================
@@ -2919,6 +2993,7 @@ A|**Morsure**. +5, 1,50 m, 1d4+3 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Berbalang_
 ===========
@@ -2949,6 +3024,7 @@ Duplication spectrale (Recharge après un repos court ou long).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Berbalang legacy_
 ==================
@@ -2979,6 +3055,7 @@ Griffes.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Berserker_
 ===========
@@ -3004,6 +3081,7 @@ A|**Hache à deux mains**. +5, 1,50 m, 1d12+3 tranchants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Bête de la mer_
 ================
@@ -3109,6 +3187,7 @@ A|**Tentacule**. +6, 3 m, 1d6+4 contondants
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Bison fétide_
 ==============
@@ -3135,6 +3214,7 @@ Corne.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Bison fétide legacy_
 =====================
@@ -3162,6 +3242,7 @@ A|**Corne**. +6, 1,50 m, 1d6+4 perforants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Blaireau_
 ==========
@@ -3187,6 +3268,7 @@ A|**Morsure**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Blaireau géant_
 ================
@@ -3214,6 +3296,7 @@ A|**Morsure**. +3, 1,50 m, 1d6+1 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Blarks_
 ========
@@ -3271,6 +3354,7 @@ A|**Morsure**. +3, 1,50 m, 2d8+3 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Bodak_
 =======
@@ -3304,6 +3388,7 @@ Aura d'annihilation.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Bodak legacy_
 ==============
@@ -3336,6 +3421,7 @@ A|**Regard flétrissant**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Boeuf_
 =======
@@ -3361,6 +3447,7 @@ Corne.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Boeuf legacy_
 ==============
@@ -3387,6 +3474,7 @@ A|**Corne**. +6, 1,50 m, 1d6+4 perforants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Boiseux_
 =========
@@ -3419,6 +3507,7 @@ Gourdin.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Boiseux legacy_
 ================
@@ -3452,6 +3541,7 @@ A|**Gourdin**. +7, 1,50 m, 4d4+4 contondants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Bonnet-rouge_
 ==============
@@ -3481,6 +3571,7 @@ Poursuite de fer.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Bonnet-rouge legacy_
 =====================
@@ -3510,6 +3601,7 @@ A|**Poursuite de fer**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Bousniarf_
 ===========
@@ -3568,6 +3660,7 @@ B|**Pied léger**.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Bretteur legacy_
 =================
@@ -3597,6 +3690,7 @@ A|**Rapière**. +6, 1,50 m, 1d8+4 perforants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Brume vampirique_
 ==================
@@ -3630,6 +3724,7 @@ Absorption de vie.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Brume vampirique legacy_
 =========================
@@ -3663,6 +3758,7 @@ Absorption de vie.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Brutacien_
 ===========
@@ -3751,6 +3847,7 @@ A|**Saut implacable**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Bulezau_
 =========
@@ -3781,6 +3878,7 @@ Queue barbelée.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Bulezau legacy_
 ================
@@ -3811,6 +3909,7 @@ Queue barbelée.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Cachalot_
 ==========
@@ -3874,6 +3973,7 @@ A|**Charme satanique**.
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Canoloth_
 ==========
@@ -3908,6 +4008,7 @@ Langue.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Canoloth legacy_
 =================
@@ -3943,6 +4044,7 @@ Langue.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Catoblépas_
 ============
@@ -3970,6 +4072,7 @@ Rayon de la mort (Recharge 5-6).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Catoblépas legacy_
 ===================
@@ -3997,6 +4100,7 @@ A|**Rayon de la mort (Recharge 5-6)**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Centaure_
 ==========
@@ -4026,6 +4130,7 @@ A|**Arc long**. +4, 45/180 m, 1d8+2 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Cérébrum_
 ==========
@@ -4082,6 +4187,7 @@ _A|**Morsure**. +2, 1,50 m, 1d4 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Cerveau, vénérable_
 ====================
@@ -4120,6 +4226,7 @@ Tentacule (coûte 2 actions).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Cerveau vénérable draconique_
 ==============================
@@ -4157,6 +4264,7 @@ Briseur de concentration (coûte 2 actions).
 _
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 _Cerveau, vénérable legacy_
 ===========================
@@ -4197,6 +4305,7 @@ L|**Lien psychique intense**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Chacal_
 ========
@@ -4224,6 +4333,7 @@ A|**Morsure**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chamane Uthgardt_
 ==================
@@ -4277,6 +4387,7 @@ _A|**Morsure**. +5, 1,50 m, 1d4 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Champion_
 ==========
@@ -4307,6 +4418,7 @@ B|**Second souffle (recharge après un repos court ou long)**.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Champion legacy_
 =================
@@ -4337,6 +4449,7 @@ A|**Arc court \[E\]**. +6, 24/96 m, 1d6+2 perforants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Charognard rampant_
 ====================
@@ -4366,6 +4479,7 @@ A|**Morsure**. +4, 1,50 m, 2d4+2 perforants
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Chasme_
 ========
@@ -4398,6 +4512,7 @@ A|**Rostre**. +5, 1,50 m, 4d6+2 perforants
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Chat_
 ======
@@ -4424,6 +4539,7 @@ A|**Griffes**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chauve-souris_
 ===============
@@ -4450,6 +4566,7 @@ A|**Morsure**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chauve-souris-garou_
 =====================
@@ -4510,6 +4627,7 @@ A|**Morsure**. +4, 1,50 m, 1d6+2 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Cheval de guerre_
 ==================
@@ -4535,6 +4653,7 @@ A|**Sabots**. +6, 1,50 m, 2d6+4 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Cheval de selle_
 =================
@@ -4559,6 +4678,7 @@ _A|**Sabots**. +5, 1,50 m, 2d4+3 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Cheval de trait_
 =================
@@ -4583,6 +4703,7 @@ _A|**Sabots**. +6, 1,50 m, 2d4+4 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chevalier_
 ===========
@@ -4613,6 +4734,7 @@ R|**Parade**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chevalier de la mort_
 ======================
@@ -4652,6 +4774,7 @@ R|**Parade**.
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Chevalier noir_
 ================
@@ -4686,6 +4809,7 @@ B|**Repoussé**.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Chevalier noir legacy_
 =======================
@@ -4719,6 +4843,7 @@ A|**Aspect épouvantable (Recharge après un repos court ou long)**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Chèvre_
 ========
@@ -4745,6 +4870,7 @@ A|**Coup de tête**. +3, 1,50 m, 1d4+1 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chèvre de montagne_
 ====================
@@ -4797,6 +4923,7 @@ A|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chèvre géante à deux têtes_
 ============================
@@ -4853,6 +4980,7 @@ A|**Souffle de feu (Recharge 5-6)**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chien de chasse yeth_
 ======================
@@ -4883,6 +5011,7 @@ Sinistre aboiement.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Chien de chasse yeth legacy_
 =============================
@@ -4913,6 +5042,7 @@ A|**Sinistre aboiement**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Chien du trépas_
 =================
@@ -4940,6 +5070,7 @@ A|**Morsure**. +4, 1,50 m, 1d6+2 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chien esquiveur_
 =================
@@ -4967,6 +5098,7 @@ A|**Téléportation (Recharge 4-6)**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chien sauvage_
 ===============
@@ -5051,6 +5183,7 @@ A|**Souffle de feu (Recharge 5-6)**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chitineux_
 ===========
@@ -5081,6 +5214,7 @@ Dague.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Chitineux legacy_
 ==================
@@ -5111,6 +5245,7 @@ A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Choldrithe_
 ============
@@ -5143,6 +5278,7 @@ Incantation.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Choldrithe legacy_
 ===================
@@ -5178,6 +5314,7 @@ A|**Toile d'araignée (Recharge 5-6)**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Chouette_
 ==========
@@ -5205,6 +5342,7 @@ A|**Serres**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chouette géante_
 =================
@@ -5232,6 +5370,7 @@ A|**Serres**. +3, 1,50 m, 2d6+1 tranchants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Chuul_
 =======
@@ -5263,6 +5402,7 @@ A|**Tentacules**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Cockatrice_
 ============
@@ -5287,6 +5427,7 @@ _A|**Morsure**. +3, 1,50 m, 1d4+1 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Colimassue_
 ============
@@ -5317,6 +5458,7 @@ Coquille protectrice.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Colimassue legacy_
 ===================
@@ -5348,6 +5490,7 @@ Coquille protectrice.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Collecteur de cadavres_
 ========================
@@ -5379,6 +5522,7 @@ Convocation de spectres (Recharge après un repos court ou long).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Collecteur de cadavres legacy_
 ===============================
@@ -5409,6 +5553,7 @@ Souffle paralysant (Recharge 5–6).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Compagnon d'armes (niv 1)_
 ===========================
@@ -5438,6 +5583,7 @@ R|**Protection (défenseur seulement)**.
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Compagnon d'armes (niv 2)_
 ===========================
@@ -5468,6 +5614,7 @@ R|**Protection (défenseur seulement)**.
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Compagnon d'armes (niv 3)_
 ===========================
@@ -5499,6 +5646,7 @@ R|**Protection (défenseur seulement)**.
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Compagnon d'armes (niv 4)_
 ===========================
@@ -5530,6 +5678,7 @@ R|**Protection (défenseur seulement)**.
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Compagnon d'armes (niv 5)_
 ===========================
@@ -5561,6 +5710,7 @@ R|**Protection (défenseur seulement)**.
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Compagnon d'armes (niv 6)_
 ===========================
@@ -5593,6 +5743,7 @@ R|**Protection (défenseur seulement)**.
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Compagnon Drake_
 =================
@@ -5621,6 +5772,7 @@ R|**Attaques imprégnées**.
 _
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 _Consul de fer_
 ===============
@@ -5677,6 +5829,7 @@ A|**Bec**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Couatl_
 ========
@@ -5712,6 +5865,7 @@ A|**Changement de forme**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Coursier géant_
 ================
@@ -5739,6 +5893,7 @@ Explosion de feu (Recharge 5-6).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Coursier géant legacy_
 =======================
@@ -5766,6 +5921,7 @@ A|**Explosion de feu (Recharge 5-6)**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Crabe_
 =======
@@ -5792,6 +5948,7 @@ A|**Pinces**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Crabe des cavernes_
 ====================
@@ -5823,6 +5980,7 @@ Filament collant.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Crabe des cavernes legacy_
 ===========================
@@ -5853,6 +6011,7 @@ A|**Filament**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Crabe géant_
 =============
@@ -5879,6 +6038,7 @@ A|**Pinces**. +3, 1,50 m, 1d6+1 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Crâne de Bhaal_
 ================
@@ -5973,6 +6133,7 @@ A|**Engloutissement**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Criard_
 ========
@@ -5999,6 +6160,7 @@ R|**Hurlement**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Crocodile_
 ===========
@@ -6025,6 +6187,7 @@ A|**Morsure**. +4, 1,50 m, 1d10+2 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Crocodile géant_
 =================
@@ -6053,6 +6216,7 @@ A|**Queue**. +8, 3 m, 2d8+5 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Crokek'toeck_
 ==============
@@ -6115,6 +6279,7 @@ A|**Engloutissement**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Cuirassier astral_
 ===================
@@ -6154,6 +6319,7 @@ Projection psychique (coûte 3 actions).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Cuirassier astral legacy_
 ==========================
@@ -6193,6 +6359,7 @@ L|**Projection psychique (coûte 3 actions)**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Cultiste_
 ==========
@@ -6219,6 +6386,7 @@ A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Cyclope_
 =========
@@ -6307,6 +6475,7 @@ Coup.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Dauphin enchanteur_
 ====================
@@ -6337,6 +6506,7 @@ Saut féerique.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Dauphin legacy_
 ================
@@ -6364,6 +6534,7 @@ A|**Coup**. +4, 1,50 m, 1d6+2 contondants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Défenseur d'acier_
 ===================
@@ -6461,6 +6632,7 @@ L|**Infâme malédiction (coûte 3 actions)**.
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Demi-ogre_
 ===========
@@ -6524,6 +6696,7 @@ Sort (coûte 2 actions).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Démogorgon legacy_
 ===================
@@ -6568,6 +6741,7 @@ L|**Regard qui rend fou**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Démon des ombres_
 ==================
@@ -6602,14 +6776,14 @@ _
 
 _Monster Manual (BR+)_
 
-_Derro_
+Derro
 =======
 
 _\[ Derro \]_
 
 _Aberration de taille P, typiquement chaotique mauvais_
 
-_**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 13 (3d6 + 3)  
 **Vitesse** 9 m
 
@@ -6620,24 +6794,24 @@ _**Classe d'armure** 13 (armure de cuir)
 **Compétences** Discrétion +4  
 **Sens** vision dans le noir 36 m, Perception passive 7  
 **Langues** nain, commun des profondeurs  
-**Puissance** 1/4 (50 PX) **Bonus de maîtrise** +2_
+**Puissance** 1/4 (50 PX) **Bonus de maîtrise** +2
 
-_Résistance à la magie.  
+Résistance à la magie.  
 Sensibilité au soleil.  
 Lance crochue.  
 Arbalète légère.  
-_
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
-_Derro legacy_
+Derro legacy
 ==============
 
 _\[ Derro \]_
 
 _Humanoïde (derro) de taille P, chaotique mauvais_
 
-_**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 13 (3d6 + 3)  
 **Vitesse** 9 m
 
@@ -6648,24 +6822,24 @@ _**Classe d'armure** 13 (armure de cuir)
 **Compétences** Discrétion +4  
 **Sens** vision dans le noir 36 m, Perception passive 7  
 **Langues** nain, commun des profondeurs  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_Résistance à la magie.  
+Eésistance à la magie.  
 Sensibilité au soleil.  
 Lance crochue.  
 Arbalète légère.  
-_
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
-_Derro, savant_
+Derro, savant
 ===============
 
 _\[ Derro Savant \]_
 
 _Aberration (ensorceleur) de taille P, typiquement chaotique mauvais_
 
-_**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 36 (8d6 + 8)  
 **Vitesse** 9 m
 
@@ -6676,25 +6850,25 @@ _**Classe d'armure** 13 (armure de cuir)
 **Compétences** Discrétion +4  
 **Sens** vision dans le noir 36 m, Perception passive 7  
 **Langues** nain, commun des profondeurs  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_Résistance à la magie.  
+Résistance à la magie.  
 Sensibilité au soleil.  
 Bâton.  
 Faisceau chromatique.  
 Incantation.  
-_
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
-_Derro, savant legacy_
+Derro, savant legacy
 ======================
 
 _\[ Derro Savant \]_
 
 _Humanoïde (derro) de taille P, chaotique mauvais_
 
-_**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 36 (8d6 + 8)  
 **Vitesse** 9 m
 
@@ -6705,24 +6879,24 @@ _**Classe d'armure** 13 (armure de cuir)
 **Compétences** Discrétion +4  
 **Sens** vision dans le noir 36 m, Perception passive 7  
 **Langues** nain, commun des profondeurs  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_Résistance à la magie.  
+Résistance à la magie.  
 Incantation.  
 Sensibilité au soleil.  
 Bâton.  
-_
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
-_Deslor_
+Deslor
 ========
 
 _\[ Deslor \]_
 
 _Humanoïde (humain) de taille M, neutre_
 
-_**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 49 (9d8+9)  
 **Vitesse** 9 m
 
@@ -6734,28 +6908,27 @@ _**Classe d'armure** 12 (15 avec _armure de mage_)
 **Compétences** Arcanes +6, Histoire +6  
 **Sens** Perception passive 11  
 **Langues** commun, elfique, draconique, géant  
-**Puissance** 6 (2300 PX)_
+**Puissance** 6 (2300 PX)
 
-_**Incantation**.  
+**Incantation**.  
 Sorts mineurs (à volonté) : _lumière, trait de feu_  
 Niv 1 (4) : _sommeil_  
 Niv 2 (3) : _déblocage, suggestion_  
 Niv 3 (3) : _vol_  
 Niv 4 (3) : _invisibilité supérieure, tempête de grêle_  
 Niv 5 (1) : _cône de froid_  
-A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+1 perforants  
-_
+A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+1 perforants 
 
 _Extra (AideDD)_
 
-_Destrier noir_
+Destrier noir
 ===============
 
 _\[ Nightmare \]_
 
 _Fiélon de taille G, neutre mauvais_
 
-_**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 68 (8d10 + 24)  
 **Vitesse** 18 m, vol 27 m
 
@@ -6766,24 +6939,24 @@ _**Classe d'armure** 13 (armure naturelle)
 **Immunités** feu  
 **Sens** Perception passive 11  
 **Langues** comprend l'abyssal, le commun et l'infernal mais ne peut pas parler  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Résistance au feu partagée**.  
+**Résistance au feu partagée**.  
 **Illumination**.  
 A|**Sabots**. +6, 1,50 m, 2d8+4 contondants  
 A|**Galop éthéré**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Déva_
+Déva
 ======
 
 _\[ Deva \]_
 
 _Céleste de taille M, loyal bon_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 136 (16d8 + 64)  
 **Vitesse** 9 m, vol 27 m
 
@@ -6797,9 +6970,9 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** charmé, effrayé, épuisement  
 **Sens** vision dans le noir 36 m, Perception passive 19  
 **Langues** toutes, télépathie 36 m  
-**Puissance** 10 (5900 PX)_
+**Puissance** 10 (5900 PX)
 
-_**Armes angéliques**.  
+**Armes angéliques**.  
 **Incantation innée**.  
 À volonté : _détection du mal et du bien_  
 1/jour chacun : _rappel à la vie_  
@@ -6808,18 +6981,18 @@ A|**Attaques multiples**.
 A|**Masse d'armes**. +8, 1,50 m, 1d6+4 contondants  
 A|**Contact guérisseur (3/jour)**.  
 A|**Changement de forme**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dévastateur gris_
+Dévastateur gris
 ==================
 
 _\[ Gray Render \]_
 
 _Monstruosité de taille G, typiquement chaotique neutre_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 189 (18d10 + 90)  
 **Vitesse** 9 m
 
@@ -6831,24 +7004,24 @@ _**Classe d'armure** 19 (armure naturelle)
 **Compétences** Perception +2  
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** —  
-**Puissance** 12 (8400 PX) **Bonus de maîtrise** +4_
+**Puissance** 12 (8400 PX) **Bonus de maîtrise** +4
 
-_Attaques multiples.  
+Attaques multiples.  
 Morsure.  
 Griffes.  
 Saccage sanglant.  
-_
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
-_Dévastateur gris legacy_
+Dévastateur gris legacy
 =========================
 
 _\[ Gray Render \]_
 
 _Monstruosité de taille G, chaotique neutre_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 189 (18d10 + 90)  
 **Vitesse** 9 m
 
@@ -6860,24 +7033,24 @@ _**Classe d'armure** 19 (armure naturelle)
 **Compétences** Perception +2  
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** —  
-**Puissance** 12 (8400 PX)_
+**Puissance** 12 (8400 PX)
 
-_Attaques multiples.  
+Attaques multiples.  
 Morsure.  
 Griffes.  
 Saccage sanglant.  
-_
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
-_Devin legacy_
+Devin legacy
 ==============
 
 _\[ Diviner \]_
 
 _Humanoïde (toute race) de taille M, tout alignement_
 
-_**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 67 (15d8)  
 **Vitesse** 9 m
 
@@ -6889,9 +7062,9 @@ _**Classe d'armure** 12 (15 avec _armure de mage_)
 **Compétences** Arcanes +7, Histoire +7  
 **Sens** Perception passive 11  
 **Langues** quatre langues au choix  
-**Puissance** 8 (3900 PX)_
+**Puissance** 8 (3900 PX)
 
-_**Incantation**.  
+**Incantation**.  
 Sorts mineurs (à volonté) : _lumière, coup au but_  
 Niv 1 (4) : _détection de la magie\*, armure de mage_  
 Niv 2 (3) : _détection des pensées\*, rayon ardent_  
@@ -6903,19 +7076,19 @@ Niv 7 (1) : _boule de feu à retardement, téléportation_
 Niv 8 (1) : _dédale_  
 \* sort de divination de niveau 1 ou supérieur  
 **Présage (Recharge après que le devin ait lancé un sort de divination de niveau 1 ou supérieur)**.  
-A|**Bâton**.  
-_
+A|**Bâton**.
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
-_Dévoreur_
+Dévoreur
 ==========
 
 _\[ Devourer \]_
 
 _Mort-vivant de taille G, typiquement chaotique mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 189 (18d10 + 90)  
 **Vitesse** 9 m
 
@@ -6930,23 +7103,23 @@ _**Classe d'armure** 16 (armure naturelle)
 **Langues** abyssal, télépathie 36 m  
 **Puissance** 13 (10000 PX) **Bonus de maîtrise** +5_
 
-_Nature insolite.  
+Nature insolite.  
 Attaques multiples.  
 Griffes.  
 Emprisonnement de l'âme.  
-Déchirure des âmes (Recharge 6).  
-_
+Déchirure des âmes (Recharge 6).
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
-_Dévoreur d'intellect_
+Dévoreur d'intellect
 ======================
 
 _\[ Intellect Devourer \]_
 
 _Aberration de taille TP, loyal mauvais_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 21 (6d4 + 6)  
 **Vitesse** 12 m
 
@@ -6959,25 +7132,25 @@ _**Classe d'armure** 12
 **Immunités** aveuglé  
 **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 12  
 **Langues** comprend le profond mais ne peut pas parler, télépathie 18 m  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Détection de la sentience**.  
+**Détection de la sentience**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
 A|**Consommation de l'intellect**.  
 A|**Vol de corps**.  
-_
 
 _Monster Manual_
+{: .label .label-red }
 
-_Dévoreur legacy_
+Dévoreur legacy
 =================
 
 _\[ Devourer \]_
 
 _Fiélon de taille G, chaotique mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 178 (17d10 + 85)  
 **Vitesse** 9 m
 
@@ -6990,24 +7163,24 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 10  
 **Langues** abyssal, télépathie 36 m  
-**Puissance** 13 (10000 PX)_
+**Puissance** 13 (10000 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Griffes**. +10, 1,50 m, 2d6+5 tranchants  
 A|**Emprisonnement de l'âme**.  
 A|**Déchirure des âmes (Recharge 6)**.  
-_
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
-_Dhergoloth_
+Dhergoloth
 ============
 
 _\[ Dhergoloth \]_
 
 _Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 119 (14d8 + 56)  
 **Vitesse** 9 m
 
@@ -7021,26 +7194,26 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 18 m, vision aveugle 18 m, Perception passive 10  
 **Langues** abyssal, infernal, télépathie 18 m  
-**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3_
+**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3
 
-_Résistance à la magie.  
+Résistance à la magie.  
 Attaques multiples.  
 Griffes.  
 Griffes agitées (Recharge 5–6).  
 Incantation.  
 Téléportation.  
-_
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
-_Dhergoloth legacy_
+Dhergoloth legacy
 ===================
 
 _\[ Dhergoloth \]_
 
 _Fiélon (yugoloth) de taille M, neutre mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 119 (14d8 + 56)  
 **Vitesse** 9 m
 
@@ -7054,27 +7227,27 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 18 m, vision aveugle 18 m, Perception passive 10  
 **Langues** abyssal, infernal, télépathie 18 m  
-**Puissance** 7 (2900 PX)_
+**Puissance** 7 (2900 PX)
 
-_Incantation innée.  
+Incantation innée.  
 Résistance à la magie.  
 Armes magiques.  
 Attaques multiples.  
 Griffes.  
 Griffes agitées (Recharge 5–6).  
 Téléportation.  
-_
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
-_Diable à chaînes_
+Diable à chaînes
 ==================
 
 _\[ Chain Devil \] \[ Diable des chaînes \]_
 
 _Fiélon (diable) de taille M, loyal mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 85 (10d8 + 40)  
 **Vitesse** 9 m
 
@@ -7088,26 +7261,26 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 11  
 **Langues** infernal, télépathie 36 m  
-**Puissance** 8 (3900 PX)_
+**Puissance** 8 (3900 PX)
 
-_**Vision de diable**.  
+**Vision de diable**.  
 **Résistance à la magie**.  
 A|**Attaques multiples**.  
 A|**Chaine**. +8, 3 m, 2d6+4 tranchants  
 A|**Animation des chaînes (Recharge après un repos court ou long)**.  
 R|**Masque déstabilisant**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Diable barbelé_
+Diable barbelé
 ================
 
 _\[ Barbed Devil \]_
 
 _Fiélon (diable) de taille M, loyal mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 110 (13d8 + 52)  
 **Vitesse** 9 m
 
@@ -7122,27 +7295,27 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 18  
 **Langues** infernal, télépathie 36 m  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_**Peau barbelée**.  
+**Peau barbelée**.  
 **Vision de diable**.  
 **Résistance à la magie**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +6, 1,50 m, 1d6+3 perforants  
 A|**Queue**. +6, 1,50 m, 2d6+3 perforants  
 A|**Jet de flammes**. +5, 45 m, 3d6 feu  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Diable barbu_
+Diable barbu
 ==============
 
 _\[ Bearded Devil \]_
 
 _Fiélon (diable) de taille M, loyal mauvais_
 
-_**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 52 (8d8 + 16)  
 **Vitesse** 9 m
 
@@ -7156,26 +7329,26 @@ _**Classe d'armure** 13 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 10  
 **Langues** infernal, télépathie 36 m  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Vision de diable**.  
+**Vision de diable**.  
 **Résistance à la magie**.  
 **Inébranlable**.  
 A|**Attaques multiples**.  
 A|**Barbe**. +5, 1,50 m, 1d8+2 perforants  
 A|**Coutille**. +5, 3 m, 1d10+3 tranchants  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Diable cornu_
+Diable cornu
 ==============
 
 _\[ Horned Devil \]_
 
 _Fiélon (diable) de taille G, loyal mauvais_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 178 (17d10 + 85)  
 **Vitesse** 6 m, vol 18 m
 
@@ -7189,26 +7362,26 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 13  
 **Langues** infernal, télépathie 36 m  
-**Puissance** 11 (7200 PX)_
+**Puissance** 11 (7200 PX)
 
-_**Vision de diable**.  
+**Vision de diable**.  
 **Résistance à la magie**.  
 A|**Attaques multiples**.  
 A|**Fourche**. +10, 3 m, 2d8+6 perforants  
 A|**Queue**. +10, 3 m, 1d8+6 perforants  
 A|**Jet de flammes**. +7, 45 m, 4d6 feu  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Diable épineux_
+Diable épineux
 ================
 
 _\[ Spined Devil \]_
 
 _Fiélon (diable) de taille P, loyal mauvais_
 
-_**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 22 (5d6 + 5)  
 **Vitesse** 6 m, vol 12 m
 
@@ -7221,9 +7394,9 @@ _**Classe d'armure** 13 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 12  
 **Langues** infernal, télépathie 36 m  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Vision de diable**.  
+**Vision de diable**.  
 **Repli aérien**.  
 **Épines limitées**.  
 **Résistance à la magie**.  
@@ -7231,18 +7404,18 @@ A|**Attaques multiples**.
 A|**Morsure**. +2, 1,50 m, 2d4 tranchants  
 A|**Fourche**. +2, 1,50 m, 1d6 perforants  
 A|**Épine caudale**. +4, 6/24 m, 1d4+2 perforants  
-_
 
 _Monster Manual_
+{: .label .label-red }
 
-_Diable gelé_
+Diable gelé
 =============
 
 _\[ Ice Devil \]_
 
 _Fiélon (diable) de taille G, loyal mauvais_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 180 (19d10 + 76)  
 **Vitesse** 12 m
 
@@ -7256,27 +7429,27 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 12  
 **Langues** infernal, télépathie 36 m  
-**Puissance** 14 (11500 PX)_
+**Puissance** 14 (11500 PX)
 
-_**Vision de diable**.  
+**Vision de diable**.  
 **Résistance à la magie**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +10, 1,50 m, 2d6+5 perforants  
 A|**Griffes**. +10, 1,50 m, 2d4+5 tranchants  
 A|**Queue**. +10, 3 m, 2d6+5 contondants  
 A|**Mur de glace (Recharge 6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Diable osseux_
+Diable osseux
 ===============
 
 _\[ Bone Devil \]_
 
 _Fiélon (diable) de taille G, loyal mauvais_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 142 (15d10 + 60)  
 **Vitesse** 12 m, vol 12 m
 
@@ -7291,25 +7464,25 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 12  
 **Langues** infernal, télépathie 36 m  
-**Puissance** 9 (5000 PX)_
+**Puissance** 9 (5000 PX)
 
-_**Vision de diable**.  
+**Vision de diable**.  
 **Résistance à la magie**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +8, 3 m, 1d8+4 tranchants  
 A|**Dard**. +8, 3 m, 2d8+4 perforants  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Diablotin_
+Diablotin
 ===========
 
 _\[ Imp \]_
 
 _Fiélon (diable, métamorphe) de taille TP, loyal mauvais_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 10 (3d4 + 3)  
 **Vitesse** 6 m, vol 12 m
 
@@ -7323,25 +7496,25 @@ _**Classe d'armure** 13
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 11  
 **Langues** infernal, commun  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_**Métamorphe**.  
+**Métamorphe**.  
 **Vision de diable**.  
 **Résistance à la magie**.  
 A|**Dard (Morsure sous forme de bête)**. +5, 1,50 m, 1d4+3 perforants  
 A|**Invisibilité**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Diantrefosse_
+Diantrefosse
 ==============
 
 _\[ Pit Fiend \]_
 
 _Fiélon (diable) de taille G, loyal mauvais_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 300 (24d10 + 168)  
 **Vitesse** 9 m, vol 18 m
 
@@ -7355,9 +7528,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision véritable 36 m, Perception passive 14  
 **Langues** infernal, télépathie 36 m  
-**Puissance** 20 (25000 PX)_
+**Puissance** 20 (25000 PX)
 
-_**Aura de peur**.  
+**Aura de peur**.  
 **Résistance à la magie**.  
 **Armes magiques**.  
 **Incantation innée**.  
@@ -7367,19 +7540,19 @@ A|**Attaques multiples**.
 A|**Morsure**. +14, 1,50 m, 4d6+8 perforants  
 A|**Griffes**. +14, 3 m, 2d8+8 tranchants  
 A|**Masse d'armes**. +14, 3 m, 2d6+8 contondants  
-A|**Queue**. +14, 3 m, 3d10+8 contondants  
-_
+A|**Queue**. +14, 3 m, 3d10+8 contondants 
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Djinn_
+Djinn
 =======
 
 _\[ Djinni \]_
 
 _Élémentaire de taille G, chaotique bon_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 161 (14d10 + 84)  
 **Vitesse** 9 m, vol 27 m
 
@@ -7391,28 +7564,28 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** foudre, tonnerre  
 **Sens** vision dans le noir 36 m, Perception passive 13  
 **Langues** aérien  
-**Puissance** 11 (7200 PX)_
+**Puissance** 11 (7200 PX)
 
-_**Disparition élémentaire**.  
+**Disparition élémentaire**.  
 **Incantation innée**.  
 À volonté : _détection du mal et du bien, détection de la magie, vague tonnante_  
 3/jour chacun : _création de nourriture et d'eau_ (peut créer du vin à la place de l'eau), _marche sur le vent_  
 1/jour chacun : _invocation d'élémentaire_ (élémentaire de l'air uniquement), _création, invisibilité, changement de plan_  
 A|**Attaques multiples**.  
 A|**Cimeterre**. +9, 1,50 m, 2d6+5 tranchants  
-A|**Création de tourbillon**.  
-_
+A|**Création de tourbillon**.
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Doppelganger_
+Doppelganger
 ==============
 
 _\[ Doppelganger \]_
 
 _Monstruosité (métamorphe) de taille M, neutre_
 
-_**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 52 (8d8 + 16)  
 **Vitesse** 9 m
 
@@ -7424,26 +7597,26 @@ _**Classe d'armure** 14
 **Immunités** charmé  
 **Sens** vision dans le noir 18 m, Perception passive 11  
 **Langues** commun  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Métamorphe**.  
+**Métamorphe**.  
 **Embuscade**.  
 **Attaque surprise**.  
 A|**Attaques multiples**.  
 A|**Coup**. +6, 1,50 m, 1d6+4 contondants  
 A|**Lecture des pensées**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dracohydre_
+Dracohydre
 ============
 
 _\[ Dracohydra \]_
 
 _Monstruosité de taille TG, typiquement chaotique mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 218 (19d12 + 95)  
 **Vitesse** 9 m, nage 9 m, vol 9 m
 
@@ -7454,26 +7627,26 @@ _**Classe d'armure** 17 (armure naturelle)
 **Compétences** Perception +9  
 **Sens** vision dans le noir 18 m, Perception passive 19  
 **Langues** comprend le draconique mais ne peut pas parler  
-**Puissance** 11 (7200 PX) **Bonus de maîtrise** +4_
+**Puissance** 11 (7200 PX) **Bonus de maîtrise** +4
 
-_Têtes multiples.  
+Têtes multiples.  
 Têtes réactives.  
 Toujours éveillée.  
 Attaques multiples.  
 Morsure.  
-Souffle prismatique (Recharge 4-6).  
-_
+Souffle prismatique (Recharge 4-6). 
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dracoliche bleue, adulte_
+Dracoliche bleue, adulte
 ==========================
 
 _\[ Adult Blue Dracolich \]_
 
 _Mort-vivant de taille TG, loyal mauvais_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 225 (18d12 + 108)  
 **Vitesse** 12 m, creusement 9 m, vol 24 m
 
@@ -7488,9 +7661,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé, paralysé, empoisonné  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24  
 **Langues** commun, draconique  
-**Puissance** 17 (18000 PX)_
+**Puissance** 17 (18000 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 **Résistance à la magie**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +13, 1,50 m, 2d6+7 tranchants  
@@ -7501,18 +7674,18 @@ A|**Souffle de foudre (Recharge 5-6)**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual_
+{: .label .label-red }
 
-_Draconien, conspirateur_
+Draconien, conspirateur
 =========================
 
 _\[ Draconian Mastermind \] \[ Draconien, stratège \]_
 
 _Monstruosité de taille M, tout alignement_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 67 (9d8 + 27)  
 **Vitesse** 9 m
 
@@ -7525,27 +7698,27 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** charmé  
 **Sens** vision véritable 18 m, Perception passive 13  
 **Langues** commun, draconique  
-**Puissance** 6 (2300 PX) **Bonus de maîtrise** +3_
+**Puissance** 6 (2300 PX) **Bonus de maîtrise** +3
 
-_Spasmes d'agonie.  
+Spasmes d'agonie.  
 Attaques multiples.  
 Déchirement.  
 Rayon d'énergie.  
 Souffle toxique (Recharge 5–6).  
 Incantation.  
 Bouclier magique (3/jour).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Draconien, cuirassé_
+Draconien, cuirassé
 =====================
 
 _\[ Draconian Dreadnought \]_
 
 _Monstruosité de taille G, tout alignement_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 57 (6d10 + 24)  
 **Vitesse** 9 m, vol 12 m
 
@@ -7556,25 +7729,25 @@ _**Classe d'armure** 16 (armure naturelle)
 **Sauvegardes** For +6, Sag +2  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** commun, draconique  
-**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2_
+**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2
 
-_Spasmes d'agonie.  
+Spasmes d'agonie.  
 Attaques multiples.  
 Épée dentelée.  
 Queue.  
-Vol de forme.  
-_
+Vol de forme. 
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Draconien, fantassin_
+Draconien, fantassin
 ======================
 
 _\[ Draconian Foot Soldier \]_
 
 _Monstruosité de taille M, tout alignement_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m
 
@@ -7584,24 +7757,24 @@ _**Classe d'armure** 14 (armure naturelle)
 
 **Sens** vision dans le noir 18 m, Perception passive 9  
 **Langues** commun, draconique  
-**Puissance** 1/2 (100 PX) **Bonus de maîtrise** +2_
+**Puissance** 1/2 (100 PX) **Bonus de maîtrise** +2
 
-_**Chute contrôlée**.  
+**Chute contrôlée**.  
 **Spasmes d'agonie**.  
 A|**Attaques multiples**.  
 A|**Épée courte**. +3, 1,50 m, 1d6+1 perforants  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Draconien, infiltré_
+Draconien, infiltré
 =====================
 
 _\[ Draconian Infiltrator \]_
 
 _Monstruosité de taille M, tout alignement_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 12 m, escalade 9 m
 
@@ -7615,24 +7788,24 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 18 m, Perception passive 13  
 **Langues** commun, draconique  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_Spasmes d'agonie.  
+Spasmes d'agonie.  
 Vol plané.  
 Attaques multiples.  
 Dague.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Draconien, mage_
+Draconien, mage
 =================
 
 _\[ Draconian Mage \]_
 
 _Monstruosité de taille M, tout alignement_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 40 (9d8)  
 **Vitesse** 9 m
 
@@ -7643,26 +7816,26 @@ _**Classe d'armure** 15 (armure naturelle)
 **Sauvegardes** Int +2, Sag +2, Cha +4  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** commun, draconique  
-**Puissance** 2 (450 PX) **Bonus de maîtrise** +2_
+**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 
-_Spasmes d'agonie.  
+Spasmes d'agonie.  
 Vol plané.  
 Attaques multiples.  
 Trident.  
 Rayon nécrotique.  
 Incantation.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Draconnoeil_
+Draconnoeil
 =============
 
 _\[ Eyedrake \]_
 
 _Aberration de taille G, typiquement loyal mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 119 (14d10 + 42)  
 **Vitesse** O m, vol 9 m (stationnaire)
 
@@ -7675,24 +7848,24 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** à terre  
 **Sens** vision dans le noir 36 m, Perception passive 18  
 **Langues** profond, draconique  
-**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3_
+**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3
 
-_Nature insolite.  
+Nature insolite.  
 Morsure.  
 Souffle antimagie (Recharge 6).  
 Rayons oculaires.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Draegloth_
+Draegloth
 ===========
 
 _\[ Draegloth \]_
 
 _Fiélon (démon) de taille G, typiquement chaotique mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 123 (13d10 + 52)  
 **Vitesse** 9 m
 
@@ -7706,25 +7879,25 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 13  
 **Langues** abyssal, elfique, commun des profondeurs  
-**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3_
+**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3
 
-_Ascendance féerique.  
+Ascendance féerique.  
 Attaques multiples.  
 Morsure.  
 Griffes.  
 Incantation.  
-_
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
-_Draegloth legacy_
+Draegloth legacy
 ==================
 
 _\[ Draegloth \]_
 
 _Fiélon (démon) de taille G, chaotique mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 123 (13d10 + 52)  
 **Vitesse** 9 m
 
@@ -7738,27 +7911,27 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 13  
 **Langues** abyssal, elfique, commun des profondeurs  
-**Puissance** 7 (2900 PX)_
+**Puissance** 7 (2900 PX)
 
-_**Ascendance féerique**.  
+**Ascendance féerique**.  
 **Incantation innée**.  
 À volonté : _ténèbres_  
 1/jour chacun : _lumières dansantes, lueurs féeriques_  
 A|**Attaques multiples**.  
 A|**Morsure**. +8, 1,50 m, 2d10+5 perforants  
-A|**Griffes**. +8, 3 m, 2d10+5 tranchants  
-_
+A|**Griffes**. +8, 3 m, 2d10+5 tranchants
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
-_Dragon blanc, adulte_
+Dragon blanc, adulte
 ======================
 
 _\[ Adult White Dragon \]_
 
 _Dragon (chromatique) de taille TG, chaotique mauvais_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 200 (16d12 + 96)  
 **Vitesse** 12 m, creusement 9 m, nage 12 m, vol 24 m
 
@@ -7771,9 +7944,9 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** froid  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21  
 **Langues** commun, draconique  
-**Puissance** 13 (10000 PX)_
+**Puissance** 13 (10000 PX)
 
-_**Marche sur la glace**.  
+**Marche sur la glace**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
@@ -7783,19 +7956,19 @@ A|**Présence terrifiante**.
 A|**Souffle de froid (Recharge 5-6)**.  
 L|**Détection**.  
 L|**Attaque avec la queue**.  
-L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
+L|**Attaque avec les ailes (coûte 2 actions)**. 
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon blanc, ancien_
+Dragon blanc, ancien
 ======================
 
 _\[ Ancient White Dragon \] \[ Dragon blanc, vénérable \]_
 
 _Dragon (chromatique) de taille Gig, chaotique mauvais_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 333 (18d20 + 144)  
 **Vitesse** 12 m, creusement 12 m, nage 12 m, vol 24 m
 
@@ -7808,9 +7981,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Immunités** froid  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 **Langues** commun, draconique  
-**Puissance** 20 (25000 PX)_
+**Puissance** 20 (25000 PX)
 
-_**Marche sur la glace**.  
+**Marche sur la glace**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +14, 4,50 m, 2d10+8 perforants  
@@ -7821,18 +7994,18 @@ A|**Souffle de froid (Recharge 5-6)**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon blanc, dragonnet_
+Dragon blanc, dragonnet
 =========================
 
 _\[ White Dragon Wyrmling \]_
 
 _Dragon (chromatique) de taille M, chaotique mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 9 m, creusement 4,50 m, nage 9 m, vol 18 m
 
@@ -7845,22 +8018,22 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** froid  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 A|**Souffle de froid (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon blanc, jeune_
+Dragon blanc, jeune
 =====================
 
 _\[ Young White Dragon \]_
 
 _Dragon (chromatique) de taille G, chaotique mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 133 (14d10 + 56)  
 **Vitesse** 12 m, creusement 6 m, nage 12 m, vol 24 m
 
@@ -7873,25 +8046,25 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** froid  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 **Langues** commun, draconique  
-**Puissance** 6 (2300 PX)_
+**Puissance** 6 (2300 PX)
 
-_**Marche sur la glace**.  
+**Marche sur la glace**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +7, 3 m, 2d10+4 perforants  
 A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
 A|**Souffle de froid (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon bleu, adulte_
+Dragon bleu, adulte
 =====================
 
 _\[ Adult Blue Dragon \]_
 
 _Dragon (chromatique) de taille TG, loyal mauvais_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 225 (18d12 + 108)  
 **Vitesse** 12 m, creusement 9 m, vol 24 m
 
@@ -7904,9 +8077,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** foudre  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22  
 **Langues** commun, draconique  
-**Puissance** 16 (15000 PX)_
+**Puissance** 16 (15000 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +12, 1,50 m, 2d6+7 tranchants  
 A|**Morsure**. +12, 3 m, 2d10+7 perforants  
@@ -7916,18 +8089,18 @@ A|**Souffle de foudre (Recharge 5-6)**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon bleu, ancien_
+Dragon bleu, ancien
 =====================
 
 _\[ Ancient Blue Dragon \] \[ Dragon bleu, vénérable \]_
 
 _Dragon (chromatique) de taille Gig, loyal mauvais_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 481 (26d20 + 208)  
 **Vitesse** 12 m, creusement 12 m, vol 24 m
 
@@ -7940,9 +8113,9 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** foudre  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27  
 **Langues** commun, draconique  
-**Puissance** 23 (50000 PX)_
+**Puissance** 23 (50000 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +16, 4,50 m, 2d10+9 perforants  
 A|**Griffes**. +16, 3 m, 2d6+9 tranchants  
@@ -7952,18 +8125,18 @@ A|**Souffle de foudre (Recharge 5-6)**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon bleu, dragonnet_
+Dragon bleu, dragonnet
 ========================
 
 _\[ Blue Dragon Wyrmling \]_
 
 _Dragon (chromatique) de taille M, loyal mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 52 (8d8 + 16)  
 **Vitesse** 9 m, creusement 4,50 m, vol 18 m
 
@@ -7976,22 +8149,22 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** foudre  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_A|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
+A|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
 A|**Souffle de foudre (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon bleu, jeune_
+Dragon bleu, jeune
 ====================
 
 _\[ Young Blue Dragon \]_
 
 _Dragon (chromatique) de taille G, loyal mauvais_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 152 (16d10 + 64)  
 **Vitesse** 12 m, creusement 6 m, vol 24 m
 
@@ -8004,24 +8177,24 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** foudre  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19  
 **Langues** commun, draconique  
-**Puissance** 9 (5000 PX)_
+**Puissance** 9 (5000 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Morsure**. +9, 3 m, 2d10+5 perforants  
 A|**Griffes**. +9, 1,50 m, 2d6+5 tranchants  
-A|**Souffle de foudre (Recharge 5-6)**.  
-_
+A|**Souffle de foudre (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon-cave_
+Dragon-cave
 =============
 
 _\[ Hollow Dragon \]_
 
 _Mort-vivant de taille TG, tout alignement_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 241 (21d12 + 105)  
 **Vitesse** 12 m, vol 24 m
 
@@ -8036,9 +8209,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités**charmé, assourdi, épuisement, effrayé, paralysé, empoisonné,  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 **Langues** commun, draconique  
-**Puissance** 18 (20000 PX) **Bonus de maîtrise** +6_
+**Puissance** 18 (20000 PX) **Bonus de maîtrise** +6
 
-_Résistance légendaire (3/jour).  
+Résistance légendaire (3/jour).  
 Reconstruction.  
 Attaques multiples.  
 Morsure.  
@@ -8048,18 +8221,18 @@ Souffle radiant (Recharge 5-6).
 Griffes.  
 Lien fantomatique (coûte 2 actions).  
 Écailles en plein essor (coûte 3 actions).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon d'airain, adulte_
+_Dragon d'airain, adulte
 =========================
 
 _\[ Adult Brass Dragon \]_
 
 _Dragon (métallique) de taille TG, chaotique bon_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 172 (15d12 + 75)  
 **Vitesse** 12 m, creusement 9 m, vol 24 m
 
@@ -8072,9 +8245,9 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21  
 **Langues** commun, draconique  
-**Puissance** 13 (10000 PX)_
+**Puissance** 13 (10000 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +11, 3 m, 2d10+6 perforants  
 A|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
@@ -8086,18 +8259,18 @@ A|**Souffle de sommeil**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'airain, ancien_
+Dragon d'airain, ancien
 =========================
 
 _\[ Ancient Brass Dragon \] \[ Dragon d'airain, vénérable \]_
 
 _Dragon (métallique) de taille Gig, chaotique bon_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 297 (17d20 + 119)  
 **Vitesse** 12 m, creusement 12 m, vol 24 m
 
@@ -8110,9 +8283,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24  
 **Langues** commun, draconique  
-**Puissance** 20 (25000 PX)_
+**Puissance** 20 (25000 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +14, 4,50 m, 2d10+8 perforants  
 A|**Griffes**. +14, 3 m, 2d6+8 tranchants  
@@ -8125,18 +8298,18 @@ A|**Changement de forme**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'airain, dragonnet_
+Dragon d'airain, dragonnet
 ============================
 
 _\[ Brass Dragon Wyrmling \]_
 
 _Dragon (métallique) de taille M, chaotique bon_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 16 (3d8 + 3)  
 **Vitesse** 9 m, creusement 4,50 m, vol 18 m
 
@@ -8149,24 +8322,24 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 A|**Souffle de combat (Recharge 5-6)**.  
 A|**Souffle de feu**.  
 A|**Souffle de sommeil**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'airain, jeune_
+Dragon d'airain, jeune
 ========================
 
 _\[ Young Brass Dragon \]_
 
 _Dragon (métallique) de taille G, chaotique bon_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 110 (13d10 + 39)  
 **Vitesse** 12 m, creusement 6 m, vol 24 m
 
@@ -8179,26 +8352,26 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 **Langues** commun, draconique  
-**Puissance** 6 (2300 PX)_
+**Puissance** 6 (2300 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Morsure**. +7, 3 m, 2d10+4 perforants  
 A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
 A|**Souffle de combat (Recharge 5-6)**.  
 A|**Souffle de feu**.  
 A|**Souffle de sommeil**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'améthyste, adulte_
+Dragon d'améthyste, adulte
 ============================
 
 _\[ Adult Amethyst Dragon \]_
 
 _Dragon (diamantin) de taille TG, typiquement neutre_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 229 (17d12 + 119)  
 **Vitesse** 12 m, vol 24 m (stationnaire), nage 12 m
 
@@ -8212,9 +8385,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** effrayé, à terre  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 16 (15000 PX) **Bonus de maîtrise** +5_
+**Puissance** 16 (15000 PX) **Bonus de maîtrise** +5
 
-_**Amphibien**.  
+**Amphibien**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +12, 3 m, 2d10+7 perforants  
@@ -8227,18 +8400,18 @@ B|**Foulée psychique**.
 L|**Griffes**.  
 L|**Psioniques (coûte 2 actions)**.  
 L|**Cristal explosif (coûte 3 actions)**.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon d'améthyste, ancien_
+Dragon d'améthyste, ancien
 ============================
 
 _\[ Ancient Amethyst Dragon \] \[ Dragon d'améthyste, vénérable \]_
 
 _Dragon (diamantin) de taille Gig, typiquement neutre_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 444 (24d20 + 192)  
 **Vitesse** 12 m, vol 24 m (stationnaire), nage 12 m
 
@@ -8252,9 +8425,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Immunités** effrayé, à terre  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 28  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 23 (50000 PX) **Bonus de maîtrise** +7_
+**Puissance** 23 (50000 PX) **Bonus de maîtrise** +7
 
-_Amphibien.  
+Amphibien.  
 Résistance légendaire (3/jour).  
 Attaques multiples.  
 Morsure.  
@@ -8265,19 +8438,19 @@ Changement de forme.
 Foulée psychique.  
 Griffes.  
 Psioniques (coûte 2 actions).  
-Cristal explosif (coûte 3 actions).  
-_
+Cristal explosif (coûte 3 actions).
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon d'améthyste, dragonnet_
+Dragon d'améthyste, dragonnet
 ===============================
 
 _\[ Amethyst Dragon Wyrmling \]_
 
 _Dragon (diamantin) de taille M, typiquement neutre_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m, vol 18 m (stationnaire), nage 9 m
 
@@ -8291,24 +8464,24 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** effrayé, à terre  
 **Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 15  
 **Langues** draconique, télépathie 36 m  
-**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2_
+**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2
 
-_Amphibien.  
+Amphibien.  
 Morsure.  
 Souffle singulier (Recharge 5-6).  
 Incantation (psioniques).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon d'améthyste, jeune_
+Dragon d'améthyste, jeune
 ===========================
 
 _\[ Young Amethyst Dragon \]_
 
 _Dragon (diamantin) de taille G, typiquement neutre_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 168 (16d10 + 80)  
 **Vitesse** 12 m, vol 24 m (stationnaire), nage 12 m
 
@@ -8322,26 +8495,26 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** effrayé, à terre  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 20  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 9 (5000 PX) **Bonus de maîtrise** +4_
+**Puissance** 9 (5000 PX) **Bonus de maîtrise** +4
 
-_Amphibien.  
+Amphibien.  
 Attaques multiples.  
 Morsure.  
 Griffes.  
 Souffle singulier (Recharge 5-6).  
 Incantation (psioniques).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon d'argent, adulte_
+Dragon d'argent, adulte
 =========================
 
 _\[ Adult Silver Dragon \]_
 
 _Dragon (métallique) de taille TG, loyal bon_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 243 (18d12 + 126)  
 **Vitesse** 12 m, vol 24 m
 
@@ -8354,9 +8527,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** froid  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21  
 **Langues** commun, draconique  
-**Puissance** 16 (15000 PX)_
+**Puissance** 16 (15000 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +13, 3 m, 2d10+8 perforants  
 A|**Griffes**. +13, 1,50 m, 2d6+8 tranchants  
@@ -8368,19 +8541,19 @@ A|**Souffle paralysant**.
 A|**Changement de forme**.  
 L|**Détection**.  
 L|**Attaque avec la queue**.  
-L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
+L|**Attaque avec les ailes (coûte 2 actions)**.
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'argent, ancien_
+Dragon d'argent, ancien
 =========================
 
 _\[ Ancient Silver Dragon \] \[ Dragon d'argent, vénérable \]_
 
 _Dragon (métallique) de taille Gig, loyal bon_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 487 (25d20 + 225)  
 **Vitesse** 12 m, vol 24 m
 
@@ -8393,9 +8566,9 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** froid  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26  
 **Langues** commun, draconique  
-**Puissance** 23 (50000 PX)_
+**Puissance** 23 (50000 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +17, 4,50 m, 2d10+10 perforants  
 A|**Griffes**. +17, 3 m, 2d6+10 tranchants  
@@ -8408,18 +8581,18 @@ A|**Changement de forme**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'argent, dragonnet_
+Dragon d'argent, dragonnet
 ============================
 
 _\[ Silver Dragon Wyrmling \]_
 
 _Dragon (métallique) de taille M, loyal bon_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m, vol 18 m
 
@@ -8432,24 +8605,24 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** froid  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_A|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
+A|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
 A|**Souffle de combat (Recharge 5-6)**.  
 A|**Souffle de froid**.  
 A|**Souffle paralysant**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'argent, jeune_
+Dragon d'argent, jeune
 ========================
 
 _\[ Young Silver Dragon \]_
 
 _Dragon (métallique) de taille G, loyal bon_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 168 (16d10 + 80)  
 **Vitesse** 12 m, vol 24 m
 
@@ -8462,26 +8635,26 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** froid  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 **Langues** commun, draconique  
-**Puissance** 9 (5000 PX)_
+**Puissance** 9 (5000 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Morsure**. +10, 3 m, 2d10+6 perforants  
 A|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
 A|**Souffle de combat (Recharge 5-6)**.  
 A|**Souffle de froid**.  
 A|**Souffle paralysant**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'émeraude, adulte_
+Dragon d'émeraude, adulte
 ===========================
 
 _\[ Adult Emerald Dragon \]_
 
 _Dragon (diamantin) de taille TG, typiquement loyal neutre_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 207 (18d12 + 90)  
 **Vitesse** 12 m, creusement 9 m, vol 24 m
 
@@ -8494,9 +8667,9 @@ _**Classe d'armure** 18 (armure naturelle)
 **Résistances** feu, psychique  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 14 (11500 PX) **Bonus de maîtrise** +5_
+**Puissance** 14 (11500 PX) **Bonus de maîtrise** +5
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 **Perception décalée (1/jour)**.  
 **Fouisseur**.  
 A|**Attaques multiples**.  
@@ -8511,18 +8684,18 @@ B|**Foulée psychique**.
 L|**Griffes**.  
 L|**Psioniques (coûte 2 actions)**.  
 L|**Braises d'émeraude (coûte 3 actions)**.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon d'émeraude, ancien_
+Dragon d'émeraude, ancien
 ===========================
 
 _\[ Ancient Emerald Dragon \] \[ Dragon d'émeraude, vénérable \]_
 
 _Dragon (diamantin) de taille Gig, typiquement loyal neutre_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 332 (19d20 + 133)  
 **Vitesse** 12 m, creusement 9 m, vol 24 m
 
@@ -8535,9 +8708,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Résistances** feu, psychique  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 28  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 21 (33000 PX) **Bonus de maîtrise** +7_
+**Puissance** 21 (33000 PX) **Bonus de maîtrise** +7
 
-_Résistance légendaire (3/jour).  
+Résistance légendaire (3/jour).  
 Fouisseur.  
 Perception faussée (1/jour).  
 Attaques multiples.  
@@ -8550,18 +8723,18 @@ Foulée psychique.
 Griffes.  
 Psioniques (coûte 2 actions).  
 Braises d'émeraude (coûte 3 actions).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon d'émeraude, dragonnet_
+Dragon d'émeraude, dragonnet
 ==============================
 
 _\[ Emerald Dragon Wyrmling \]_
 
 _Dragon (diamantin) de taille M, typiquement loyal neutre_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 9 m, creusement 6 m, vol 18 m
 
@@ -8574,24 +8747,24 @@ _**Classe d'armure** 16 (armure naturelle)
 **Résistances** feu, psychique  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 15  
 **Langues** draconique, télépathie 36 m  
-**Puissance** 2 (450 PX) **Bonus de maîtrise** +2_
+**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 
-_Fouisseur.  
+Fouisseur.  
 Morsure.  
 Souffle désoriantant (Recharge 5-6).  
 Incantation (psioniques).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon d'émeraude, jeune_
+Dragon d'émeraude, jeune
 ==========================
 
 _\[ Young Emerald Dragon \]_
 
 _Dragon (diamantin) de taille G, typiquement loyal neutre_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 142 (15d10 + 60)  
 **Vitesse** 12 m, creusement 9 m, vol 18 m
 
@@ -8604,26 +8777,26 @@ _**Classe d'armure** 17 (armure naturelle)
 **Résistances** feu, psychique  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3_
+**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3
 
-_Fouisseur.  
+Fouisseur.  
 Attaques multiples.  
 Morsure.  
 Griffes.  
 Souffle désoriantant (Recharge 5-6).  
 Incantation (psioniques).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon d'ombre rouge, jeune_
+Dragon d'ombre rouge, jeune
 =============================
 
 _\[ Young Red Shadow Dragon \]_
 
 _Dragon de taille G, chaotique mauvais_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 178 (17d10 + 85)  
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
@@ -8637,27 +8810,27 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 **Langues** commun, draconique  
-**Puissance** 13 (10000 PX)_
+**Puissance** 13 (10000 PX)
 
-_**Ombre vivante**.  
+**Ombre vivante**.  
 **Discrétion dans les ombres**.  
 **Sensibilité au soleil**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
 A|**Morsure**. +10, 3 m, 2d10+6 perforants  
 A|**Souffle d'ombres (Recharge 5-6)**.  
-_
 
 _Monster Manual_
+{: .label .label-red }
 
-_Dragon d'or, adulte_
+Dragon d'or, adulte
 =====================
 
 _\[ Adult Gold Dragon \]_
 
 _Dragon (métallique) de taille TG, loyal bon_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 256 (19d12 + 133)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -8670,9 +8843,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24  
 **Langues** commun, draconique  
-**Puissance** 17 (18000 PX)_
+**Puissance** 17 (18000 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +14, 3 m, 2d10+8 perforants  
@@ -8686,18 +8859,18 @@ A|**Changement de forme**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'or, ancien_
+Dragon d'or, ancien
 =====================
 
 _\[ Ancient Gold Dragon \] \[ Dragon d'or, vénérable \]_
 
 _Dragon (métallique) de taille Gig, loyal bon_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 546 (28d20 + 252)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -8710,9 +8883,9 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27  
 **Langues** commun, draconique  
-**Puissance** 24 (62000 PX)_
+**Puissance** 24 (62000 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +17, 4,50 m, 2d10+10 perforants  
@@ -8726,18 +8899,18 @@ A|**Changement de forme**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'or, dragonnet_
+Dragon d'or, dragonnet
 ========================
 
 _\[ Gold Dragon Wyrmling \]_
 
 _Dragon (métallique) de taille M, loyal bon_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 60 (8d8 + 24)  
 **Vitesse** 9 m, nage 9 m, vol 18 m
 
@@ -8750,25 +8923,25 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
 A|**Souffle de combat (Recharge 5-6)**.  
 A|**Souffle de feu**.  
 A|**Souffle affaiblissant**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon d'or, jeune_
+Dragon d'or, jeune
 ====================
 
 _\[ Young Gold Dragon \]_
 
 _Dragon (métallique) de taille G, loyal bon_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 178 (17d10 + 85)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -8781,27 +8954,27 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19  
 **Langues** commun, draconique  
-**Puissance** 10 (5900 PX)_
+**Puissance** 10 (5900 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +10, 3 m, 2d10+6 perforants  
 A|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
 A|**Souffle de combat (Recharge 5-6)**.  
 A|**Souffle de feu**.  
 A|**Souffle affaiblissant**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon de bronze, adulte_
+Dragon de bronze, adulte
 ==========================
 
 _\[ Adult Bronze Dragon \]_
 
 _Dragon (métallique) de taille TG, loyal bon_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 212 (17d12 + 102)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -8814,9 +8987,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** foudre  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22  
 **Langues** commun, draconique  
-**Puissance** 15 (13000 PX)_
+**Puissance** 15 (13000 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +12, 1,50 m, 2d6+7 tranchants  
@@ -8830,18 +9003,18 @@ A|**Changement de forme**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon de bronze, ancien_
+Dragon de bronze, ancien
 ==========================
 
 _\[ Ancient Bronze Dragon \] \[ Dragon de bronze, vénérable \]_
 
 _Dragon (métallique) de taille Gig, loyal bon_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 444 (24d20 + 192)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -8854,9 +9027,9 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** foudre  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27  
 **Langues** commun, draconique  
-**Puissance** 22 (41000 PX)_
+**Puissance** 22 (41000 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +16, 4,50 m, 2d10+9 perforants  
@@ -8870,18 +9043,18 @@ A|**Changement de forme**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon de bronze, dragonnet_
+Dragon de bronze, dragonnet
 =============================
 
 _\[ Bronze Dragon Wyrmling \]_
 
 _Dragon (métallique) de taille M, loyal bon_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 9 m, nage 9 m, vol 18 m
 
@@ -8894,25 +9067,25 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** foudre  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
 A|**Souffle de combat (Recharge 5-6)**.  
 A|**Souffle de foudre**.  
 A|**Souffle répulsif**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon de bronze, jeune_
+Dragon de bronze, jeune
 =========================
 
 _\[ Young Bronze Dragon \]_
 
 _Dragon (métallique) de taille G, loyal bon_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 142 (15d10 + 60)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -8925,27 +9098,27 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** foudre  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17  
 **Langues** commun, draconique  
-**Puissance** 8 (3900 PX)_
+**Puissance** 8 (3900 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +8, 3 m, 2d10+5 perforants  
 A|**Griffes**. +8, 1,50 m, 2d6+5 tranchants  
 A|**Souffle de combat (Recharge 5-6)**.  
 A|**Souffle de foudre**.  
 A|**Souffle répulsif**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon de cristal, adulte_
+Dragon de cristal, adulte
 ===========================
 
 _\[ Adult Crystal Dragon \]_
 
 _Dragon (diamantin) de taille TG, typiquement chaotique neutre_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 172 (15d12 + 75)  
 **Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
 
@@ -8958,9 +9131,9 @@ _**Classe d'armure** 16 (armure naturelle)
 **Résistances** froid, radiant  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 20  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 12 (8400 PX) **Bonus de maîtrise** +4_
+**Puissance** 12 (8400 PX) **Bonus de maîtrise** +4
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +9, 3 m, 2d10+5 perforants  
 A|**Griffes**. +9, 1,50 m, 1d8+5 tranchants  
@@ -8973,18 +9146,18 @@ B|**Foulée psychique**.
 L|**Griffes**.  
 L|**Psioniques (coûte 2 actions)**.  
 L|**Frappe stellaire (coûte 3 actions)**.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon de cristal, ancien_
+Dragon de cristal, ancien
 ===========================
 
 _\[ Ancient Crystal Dragon \] \[ Dragon de cristal, vénérable \]_
 
 _Dragon (diamantin) de taille Gig, typiquement chaotique neutre_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 222 (12d20 + 96)  
 **Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
 
@@ -8997,9 +9170,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Résistances** froid, radiant  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 25  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 19 (22000 PX) **Bonus de maîtrise** +6_
+**Puissance** 19 (22000 PX) **Bonus de maîtrise** +6
 
-_Résistance légendaire (3/jour).  
+Résistance légendaire (3/jour).  
 Attaques multiples.  
 Morsure.  
 Griffes.  
@@ -9010,18 +9183,18 @@ Foulée psychique.
 Griffes.  
 Psioniques (coûte 2 actions).  
 Frappe stellaire (coûte 3 actions).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon de cristal, dragonnet_
+Dragon de cristal, dragonnet
 ==============================
 
 _\[ Crystal Dragon Wyrmling \]_
 
 _Dragon (diamantin) de taille M, typiquement chaotique neutre_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 9 m, creusement 4,50 m, escalade 9 m, vol 18 m
 
@@ -9034,23 +9207,24 @@ _**Classe d'armure** 14 (armure naturelle)
 **Résistances** froid, radiant  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 15  
 **Langues** draconique, télépathie 36 m  
-**Puissance** 2 (450 PX) **Bonus de maîtrise** +2_
+**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 
-_Morsure.  
+Morsure.  
 Souffle scintilant (Recharge 5-6).  
 Incantation (psioniques).  
-_
+
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon de cristal, jeune_
+Dragon de cristal, jeune
 ==========================
 
 _\[ Young Crystal Dragon \]_
 
 _Dragon (diamantin) de taille G, typiquement chaotique neutre_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 95 (10d10 + 40)  
 **Vitesse** 12 m, creusement 6 m, escalade 12 m, vol 24 m
 
@@ -9063,25 +9237,25 @@ _**Classe d'armure** 15 (armure naturelle)
 **Résistances** froid, radiant  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3_
+**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3
 
-_Attaques multiples.  
+Attaques multiples.  
 Morsure.  
 Griffes.  
 Souffle scintilant (Recharge 5-6).  
 Incantation (psioniques).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon de cuivre, adulte_
+Dragon de cuivre, adulte
 ==========================
 
 _\[ Adult Copper Dragon \]_
 
 _Dragon (métallique) de taille TG, chaotique bon_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 184 (16d12 + 80)  
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
@@ -9094,9 +9268,9 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** acide  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22  
 **Langues** commun, draconique  
-**Puissance** 14 (11500 PX)_
+**Puissance** 14 (11500 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +11, 3 m, 2d10+6 perforants  
 A|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
@@ -9108,18 +9282,18 @@ A|**Souffle de ralentissement**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon de cuivre, ancien_
+Dragon de cuivre, ancien
 ==========================
 
 _\[ Ancient Copper Dragon \] \[ Dragon de cuivre, vénérable \]_
 
 _Dragon (métallique) de taille Gig, chaotique bon_
 
-_**Classe d'armure** 21 (armure naturelle)  
+**Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 350 (20d20 + 140)  
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
@@ -9132,9 +9306,9 @@ _**Classe d'armure** 21 (armure naturelle)
 **Immunités** acide  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27  
 **Langues** commun, draconique  
-**Puissance** 21 (33000 PX)_
+**Puissance** 21 (33000 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +15, 4,50 m, 2d10+8 perforants  
 A|**Griffes**. +15, 3 m, 2d6+8 tranchants  
@@ -9147,18 +9321,18 @@ A|**Changement de forme**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon de cuivre, dragonnet_
+Dragon de cuivre, dragonnet
 =============================
 
 _\[ Copper Dragon Wyrmling \]_
 
 _Dragon (métallique) de taille M, chaotique bon_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m, escalade 9 m, vol 18 m
 
@@ -9171,24 +9345,24 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** acide  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 A|**Souffle de combat (Recharge 5-6)**.  
 A|**Souffle d'acide**.  
 A|**Souffle de ralentissement**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon de cuivre, jeune_
+Dragon de cuivre, jeune
 =========================
 
 _\[ Young Copper Dragon \]_
 
 _Dragon (métallique) de taille G, chaotique bon_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 119 (14d10 + 42)  
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
@@ -9201,26 +9375,26 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** acide  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17  
 **Langues** commun, draconique  
-**Puissance** 7 (2900 PX)_
+**Puissance** 7 (2900 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Morsure**. +7, 3 m, 2d10+4 perforants  
 A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
 A|**Souffle de combat (Recharge 5-6)**.  
 A|**Souffle d'acide**.  
 A|**Souffle de ralentissement**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon de saphir, adulte_
+Dragon de saphir, adulte
 ==========================
 
 _\[ Adult Sapphire Dragon \]_
 
 _Dragon (diamantin) de taille TG, typiquement loyal neutre_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 225 (18d12 + 108)  
 **Vitesse** 12 m, creusement 9 m, escalde 12 m, vol 24 m
 
@@ -9234,9 +9408,9 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** effrayé  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 15 (13000 PX) **Bonus de maîtrise** +5_
+**Puissance** 15 (13000 PX) **Bonus de maîtrise** +5
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 **Pattes d'araignée**.  
 **Fouisseur**.  
 A|**Attaques multiples**.  
@@ -9250,18 +9424,18 @@ B|**Foulée psychique**.
 L|**Griffes**.  
 L|**Psioniques (coûte 2 actions)**.  
 L|**Lancer télékinésique (coûte 3 actions)**.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon de saphir, ancien_
+Dragon de saphir, ancien
 ==========================
 
 _\[ Ancient Sapphire Dragon \] \[ Dragon de saphir, vénérable \]_
 
 _Dragon (diamantin) de taille Gig, typiquement loyal neutre_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 370 (20d20 + 160)  
 **Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
 
@@ -9275,9 +9449,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Immunités** effrayé  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 28  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 22 (41000 PX) **Bonus de maîtrise** +7_
+**Puissance** 22 (41000 PX) **Bonus de maîtrise** +7
 
-_Résistance légendaire (3/jour).  
+Résistance légendaire (3/jour).  
 Pattes d'araignée.  
 Fouisseur.  
 Attaques multiples.  
@@ -9290,18 +9464,18 @@ Foulée psychique.
 Griffes.  
 Psioniques (coûte 2 actions).  
 Lancer télékinésique (coûte 3 actions).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon de saphir, dragonnet_
+Dragon de saphir, dragonnet
 =============================
 
 _\[ Sapphire Dragon Wyrmling \]_
 
 _Dragon (diamantin) de taille M, typiquement loyal neutre_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m, creusement 4,50 m, escalade 9 m, vol 18 m
 
@@ -9315,25 +9489,25 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** effrayé  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15  
 **Langues** draconique, télépathie 36 m  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_Pattes d'araignée.  
+Pattes d'araignée.  
 Fouisseur.  
 Morsure.  
 Souffle débilitant (Recharge 5-6).  
 Incantation (psioniques).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon de saphir, jeune_
+Dragon de saphir, jeune
 =========================
 
 _\[ Young Sapphire Dragon \]_
 
 _Dragon (diamantin) de taille G, typiquement loyal neutre_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 157 (15d10 + 75)  
 **Vitesse** 12 m, creusement 6 m, escalade 12 m, vol 24 m
 
@@ -9347,27 +9521,27 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** effrayé  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 20  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 9 (5000 PX) **Bonus de maîtrise** +4_
+**Puissance** 9 (5000 PX) **Bonus de maîtrise** +4
 
-_Pattes d'araignée.  
+Pattes d'araignée.  
 Fouisseur.  
 Attaques multiples.  
 Morsure.  
 Griffes.  
 Souffle débilitant (Recharge 5-6).  
 Incantation (psioniques).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon de topaze, adulte_
+Dragon de topaze, adulte
 ==========================
 
 _\[ Adult Topaz Dragon \]_
 
 _Dragon (diamantin) de taille TG, typiquement chaotique neutre_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 210 (20d12 + 80)  
 **Vitesse** 12 m, vol 24 m, nage 12 m
 
@@ -9380,9 +9554,9 @@ _**Classe d'armure** 18 (armure naturelle)
 **Résistances** froid, nécrotique  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 13 (10000 PX) **Bonus de maîtrise** +5_
+**Puissance** 13 (10000 PX) **Bonus de maîtrise** +5
 
-_**Amphibien**.  
+**Amphibien**.  
 **Fabrication (1/jour)**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
@@ -9396,18 +9570,18 @@ B|**Foulée psychique**.
 L|**Griffes**.  
 L|**Psioniques (coûte 2 actions)**.  
 L|**Réduction essentielle (coûte 3 actions)**.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon de topaze, ancien_
+Dragon de topaze, ancien
 ==========================
 
 _\[ Ancient Topaz Dragon \] \[ Dragon de topaze, vénérable \]_
 
 _Dragon (diamantin) de taille Gig, typiquement chaotique neutre_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 280 (17d20 + 102)  
 **Vitesse** 12 m, vol 24 m, nage 12 m
 
@@ -9420,9 +9594,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Résistances** froid, nécrotique  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 20 (25000 PX) **Bonus de maîtrise** +6_
+**Puissance** 20 (25000 PX) **Bonus de maîtrise** +6
 
-_Amphibien.  
+Amphibien.  
 Fabrication (1/jour).  
 Résistance légendaire (3/jour).  
 Attaques multiples.  
@@ -9435,9 +9609,9 @@ Foulée psychique.
 Griffes.  
 Psioniques (coûte 2 actions).  
 Réduction essentielle (coûte 3 actions).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 _Dragon de topaze, dragonnet_
 =============================
@@ -9446,7 +9620,7 @@ _\[ Topaz Dragon Wyrmling \]_
 
 _Dragon (diamantin) de taille M, typiquement chaotique neutre_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m, vol 18 m, nage 9 m
 
@@ -9459,7 +9633,7 @@ _**Classe d'armure** 16 (armure naturelle)
 **Résistances** froid, nécrotique  
 **Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 15  
 **Langues** draconique  
-**Puissance** 2 (450 PX) **Bonus de maîtrise** +2_
+**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 
 _Amphibien.  
 Morsure.  
@@ -9468,15 +9642,16 @@ Incantation (psioniques).
 _
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon de topaze, jeune_
+Dragon de topaze, jeune
 =========================
 
 _\[ Young Topaz Dragon \]_
 
 _Dragon (diamantin) de taille G, typiquement chaotique neutre_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 127 (17d10 + 34)  
 **Vitesse** 12 m, vol 24 m, nage 12 m
 
@@ -9489,26 +9664,26 @@ _**Classe d'armure** 17 (armure naturelle)
 **Résistances** froid, nécrotique  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3_
+**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3
 
-_Amphibien.  
+Amphibien.  
 Attaques multiples.  
 Morsure.  
 Griffes.  
 Souffle desséchant (Recharge 5-6).  
 Incantation (psioniques).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon des profondeurs, adulte_
+Dragon des profondeurs, adulte
 ================================
 
 _\[ Adult Deep Dragon \]_
 
 _Dragon de taille TG, typiquement neutre mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 147 (14d12 + 56)  
 **Vitesse** 12 m, creusement 9 m, vol 24 m, nage 12 m
 
@@ -9522,9 +9697,9 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision aveugle 18 m, vision dans le noir 45 m, Perception passive 17  
 **Langues** commun, draconique, commun des profondeurs  
-**Puissance** 11 (7200 PX) **Bonus de maîtrise** +4_
+**Puissance** 11 (7200 PX) **Bonus de maîtrise** +4
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +9, 3 m, 2d10+5 perforants  
 A|**Griffes**. +9, 1,50 m, 1d6+5 tranchants  
@@ -9534,18 +9709,18 @@ A|**Souffle de cauchemar (Recharge 5-6)**.
 L|**Spores commandantes**.  
 L|**Queue**.  
 L|**Salve de spores (coûte 2 actions)**.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon des profondeurs, ancien_
+Dragon des profondeurs, ancien
 ================================
 
 _\[ Ancient Deep Dragon \] \[ Dragon des profondeurs, vénérable \]_
 
 _Dragon de taille Gig, typiquement neutre mauvais_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 201 (13d20 + 65)  
 **Vitesse** 12 m, creusement 12 m, vol 24 m, nage 12 m
 
@@ -9559,9 +9734,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision aveugle 18 m, vision dans le noir 90 m, Perception passive 20  
 **Langues** commun, draconique, commun des profondeurs  
-**Puissance** 18 (20000 PX) **Bonus de maîtrise** +6_
+**Puissance** 18 (20000 PX) **Bonus de maîtrise** +6
 
-_Résistance légendaire (3/jour).  
+Résistance légendaire (3/jour).  
 Attaques multiples.  
 Morsure.  
 Griffes.  
@@ -9571,18 +9746,18 @@ Souffle de cauchemar (Recharge 5-6).
 Commande aux spores.  
 Queue.  
 Salve de spores (coûte 2 actions).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon des profondeurs, dragonnet_
+Dragon des profondeurs, dragonnet
 ===================================
 
 _\[ Deep Dragon Wyrmling \]_
 
 _Dragon de taille M, typiquement neutre mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 9 m, creusement 4,50 m, vol 18 m, nage 9 m
 
@@ -9596,22 +9771,22 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision aveugle 3 m, vision dans le noir 27 m, Perception passive 13  
 **Langues** draconique  
-**Puissance** 1 (200 PX) **Bonus de maîtrise** +2_
+**Puissance** 1 (200 PX) **Bonus de maîtrise** +2
 
-_Morsure.  
+Morsure.  
 Souffle de cauchemar (Recharge 5-6).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon des profondeurs, jeune_
+Dragon des profondeurs, jeune
 ===============================
 
 _\[ Young Deep Dragon \]_
 
 _Dragon de taille G, typiquement neutre mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 93 (11d10 + 33)  
 **Vitesse** 12 m, creusement 6 m, vol 24 m, nage 12 m
 
@@ -9625,24 +9800,24 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision aveugle 9 m, vision dans le noir 45 m, Perception passive 15  
 **Langues** commun, draconique, commun des profondeurs  
-**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3_
+**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3
 
-_Attaques multiples.  
+Attaques multiples.  
 Morsure.  
 Griffes.  
 Souffle de cauchemar (Recharge 5-6).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon fantôme_
+Dragon fantôme
 ================
 
 _\[ Ghost Dragon \]_
 
 _Mort-vivant de taille TG, tout alignement_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 324 (24d12 + 168)  
 **Vitesse** 12 m, vol 24 m (stationnaire)
 
@@ -9657,27 +9832,27 @@ _**Classe d'armure** 10
 **Immunités** charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24  
 **Langues** commun, draconique, télépathie 36 m  
-**Puissance** 17 (18000 PX) **Bonus de maîtrise** +6_
+**Puissance** 17 (18000 PX) **Bonus de maîtrise** +6
 
-_Déplacement intangible.  
+Déplacement intangible.  
 Résistance légendaire (3/jour).  
 Nature insolite.  
 Attaques multiples.  
 Morsure.  
 Griffes.  
 Souffle terrifiant (Recharge 6).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon féerique_
+Dragon féerique
 =================
 
 _\[ Faerie Dragon \]_
 
 _Dragon de taille TP, chaotique bon_
 
-_**Classe d'armure** 15  
+**Classe d'armure** 15  
 **Points de vie** 14 (4d4 + 4)  
 **Vitesse** 3 m, vol 18 m
 
@@ -9688,9 +9863,9 @@ _**Classe d'armure** 15
 **Compétences** Arcanes +4, Discrétion +7, Perception +3  
 **Sens** vision dans le noir 18 m, Perception passive 13  
 **Langues** draconique, sylvestre  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_**Invisibilité supérieure**.  
+**Invisibilité supérieure**.  
 **Télépathie limitée**.  
 **Résistance à la magie**.  
 **Incantation innée**.  
@@ -9704,19 +9879,19 @@ Violet (450 XP), 1/jour : _métamorphose_
 A|**Morsure**.  
 A|**Souffle d'euphorie (Recharge 5-6)**.  
 A|**1-4**.  
-A|**5-6**.  
-_
+A|**5-6**. 
 
 _Monster Manual_
+{: .label .label-red }
 
-_Dragon noir, adulte_
+Dragon noir, adulte
 =====================
 
 _\[ Adult Black Dragon \]_
 
 _Dragon (chromatique) de taille TG, chaotique mauvais_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 195 (17d12 + 85)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -9729,9 +9904,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** acide  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21  
 **Langues** commun, draconique  
-**Puissance** 14 (11500 PX)_
+**Puissance** 14 (11500 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
@@ -9742,18 +9917,19 @@ A|**Souffle d'acide (Recharge 5-6)**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
+
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon noir, ancien_
+Dragon noir, ancien
 =====================
 
 _\[ Ancient Black Dragon \] \[ Dragon noir, vénérable \]_
 
 _Dragon (chromatique) de taille Gig, chaotique mauvais_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 367 (21d20 + 147)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -9766,9 +9942,9 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** acide  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26  
 **Langues** commun, draconique  
-**Puissance** 21 (33000 PX)_
+**Puissance** 21 (33000 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +15, 4,50 m, 2d10+8 perforants  
@@ -9779,18 +9955,18 @@ A|**Souffle d'acide (Recharge 5-6)**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon noir, dragonnet_
+Dragon noir, dragonnet
 ========================
 
 _\[ Black Dragon Wyrmling \]_
 
 _Dragon (chromatique) de taille M, chaotique mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m, nage 9 m, vol 18 m
 
@@ -9803,23 +9979,23 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** acide  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 A|**Souffle d'acide (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon noir, jeune_
+Dragon noir, jeune
 ====================
 
 _\[ Young Black Dragon \]_
 
 _Dragon (chromatique) de taille G, chaotique mauvais_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 127 (15d10 + 45)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -9832,25 +10008,25 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** acide  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 **Langues** commun, draconique  
-**Puissance** 7 (2900 PX)_
+**Puissance** 7 (2900 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +7, 3 m, 2d10+4 perforants  
 A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
 A|**Souffle d'acide (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon pierre-de-lune, adulte_
+Dragon pierre-de-lune, adulte
 ===============================
 
 _\[ Adult Moonstone Dragon \]_
 
 _Dragon de taille TG, typiquement neutre_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 195 (17d12 + 85)  
 **Vitesse** 12 m, vol 24 m
 
@@ -9863,9 +10039,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** charmé  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 20  
 **Langues** commun, draconique, elfique, gnome, sylvestre  
-**Puissance** 15 (13000 PX) **Bonus de maîtrise** +5_
+**Puissance** 15 (13000 PX) **Bonus de maîtrise** +5
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +10, 3 m, 2d10+5 perforants  
 A|**Griffes**. +10, 1,50 m, 2d6+5 tranchants  
@@ -9875,21 +10051,21 @@ A|**Souffle de rêve**.
 A|**Souffle de lune**.  
 A|**Incantation**.  
 À volonté : _lueurs féeriques_  
-1/jour chacun : _apaisement des émotions, invisibilité, retour à la vie_  
+1/jour chacun : _apaisement des émotions, invisibilité, retour à la vie  
 L|**Queue**.  
 L|**Sort (coûte 2 actions)**.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon pierre-de-lune, ancien_
+Dragon pierre-de-lune, ancien
 ===============================
 
 _\[ Ancient Moonstone Dragon \] \[ Dragon pierre-de-lune, vénérable \]_
 
 _Dragon de taille Gig, typiquement neutre_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 330 (20d20 + 120)  
 **Vitesse** 12 m, vol 24 m
 
@@ -9902,9 +10078,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Immunités** charmé  
 **Sens** vision véritable 36 m, Perception passive 23  
 **Langues** toutes, télépathie 36 m  
-**Puissance** 21 (33000 PX) **Bonus de maîtrise** +7_
+**Puissance** 21 (33000 PX) **Bonus de maîtrise** +7
 
-_Résistance légendaire (3/jour).  
+Résistance légendaire (3/jour).  
 Attaques multiples.  
 Morsure.  
 Griffes.  
@@ -9913,18 +10089,18 @@ Souffle (Recharge 5-6).
 Incantation.  
 Queue.  
 Sort (coûte 2 actions).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon pierre-de-lune, dragonnet_
+Dragon pierre-de-lune, dragonnet
 ==================================
 
 _\[ Moonstone Dragon Wyrmling \]_
 
 _Dragon de taille M, typiquement neutre_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 9 m, vol 18 m
 
@@ -9937,22 +10113,22 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** charmé  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 2 (450 PX) **Bonus de maîtrise** +2_
+**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 
-_Morsure.  
+Morsure.  
 Souffle (Recharge 5–6).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon pierre-de-lune, jeune_
+Dragon pierre-de-lune, jeune
 ==============================
 
 _\[ Young Moonstone Dragon \]_
 
 _Dragon de taille G, typiquement neutre_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 144 (17d10 + 51)  
 **Vitesse** 12 m, vol 24 m
 
@@ -9965,25 +10141,25 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** charmé  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 **Langues** commun, draconique, sylvestre  
-**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3_
+**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3
 
-_Attaques multiples.  
+Attaques multiples.  
 Morsure.  
 Griffes.  
 Souffle (Recharge 5-6).  
 Incantation.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon rouge, adulte_
+Dragon rouge, adulte
 ======================
 
 _\[ Adult Red Dragon \]_
 
 _Dragon (chromatique) de taille TG, chaotique mauvais_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 256 (19d12 + 133)  
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
@@ -9996,9 +10172,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 **Langues** commun, draconique  
-**Puissance** 17 (18000 PX)_
+**Puissance** 17 (18000 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +14, 1,50 m, 2d6+8 tranchants  
 A|**Morsure**. +14, 3 m, 2d10+8 perforants  
@@ -10008,18 +10184,18 @@ A|**Souffle de feu (Recharge 5-6)**.
 L|**Attaque avec la queue**.  
 L|**Détection**.  
 L|**Attaque Ailée (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon rouge, ancien_
+Dragon rouge, ancien
 ======================
 
 _\[ Ancient Red Dragon \] \[ Dragon rouge, vénérable \]_
 
 _Dragon (chromatique) de taille Gig, chaotique mauvais_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 546 (28d20 + 252)  
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
@@ -10032,9 +10208,9 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26  
 **Langues** commun, draconique  
-**Puissance** 24 (62000 PX)_
+**Puissance** 24 (62000 PX)
 
-_**Résistance légendaire (3/jour)**.  
+**Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +17, 3 m, 2d6+10 tranchants  
 A|**Morsure**. +17, 4,50 m, 2d10+10 perforants  
@@ -10044,18 +10220,18 @@ A|**Souffle de feu (Recharge 5-6)**.
 L|**Attaque avec la queue**.  
 L|**Détection**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon rouge, dragonnet_
+Dragon rouge, dragonnet
 =========================
 
 _\[ Red Dragon Wyrmling \]_
 
 _Dragon (chromatique) de taille M, chaotique mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m, escalade 9 m, vol 18 m
 
@@ -10068,22 +10244,22 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 4 (1100 PX)_
+**Puissance** 4 (1100 PX)
 
-_A|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
+A|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
 A|**Souffle de feu (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon rouge, jeune_
+Dragon rouge, jeune
 =====================
 
 _\[ Young Red Dragon \]_
 
 _Dragon (chromatique) de taille G, chaotique mauvais_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 178 (17d10 + 85)  
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
@@ -10096,24 +10272,24 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** feu  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 **Langues** commun, draconique  
-**Puissance** 10 (5900 PX)_
+**Puissance** 10 (5900 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
 A|**Morsure**. +10, 3 m, 2d10+6 perforants  
 A|**Souffle de feu (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon-tortue_
+Dragon-tortue
 ===============
 
 _\[ Dragon Turtle \]_
 
 _Dragon de taille Gig, neutre_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 341 (22d20 + 110)  
 **Vitesse** 6 m, nage 12 m
 
@@ -10127,24 +10303,24 @@ _**Classe d'armure** 20 (armure naturelle)
 **Langues** aquatique, draconique  
 **Puissance** 17 (18000 PX)_
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +13, 3 m, 2d8+7 tranchants  
 A|**Morsure**. +13, 4,50 m, 3d12+7 perforants  
 A|**Queue**. +13, 4,50 m, 3d12+7 contondants  
 A|**Souffle de vapeur (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon-tortue, ancien_
+Dragon-tortue, ancien
 =======================
 
 _\[ Ancient Dragon Turtle \] \[ Dragon-tortue, vénérable \]_
 
 _Dragon de taille Gig, typiquement neutre_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 409 (21d20 + 189)  
 **Vitesse** 9 m, nage 18 m
 
@@ -10158,18 +10334,19 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision véritable 36 m, Perception passive 21  
 **Langues** aquatique, draconique  
-**Puissance** 24 (62000 PX) **Bonus de maîtrise** +7_
+**Puissance** 24 (62000 PX) **Bonus de maîtrise** +7
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon-tortue, dragonnet_
+Dragon-tortue, dragonnet
 ==========================
 
 _\[ Dragon Turtle Wyrmling \] \[ Dragonnet-tortue \]_
 
 _Dragon de taille G, typiquement neutre_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 90 (12d10 + 24)  
 **Vitesse** 6 m, nage 9 m
 
@@ -10181,18 +10358,19 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** feu  
 **Sens** vision dans le noir 36 m, Perception passive 10  
 **Langues** draconique  
-**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2_
+**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon-tortue, jeune_
+Dragon-tortue, jeune
 ======================
 
 _\[ Young Dragon Turtle \]_
 
 _Dragon de taille TG, typiquement neutre_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 178 (17d12 + 68)  
 **Vitesse** 6 m, nage 12 m
 
@@ -10205,18 +10383,19 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** feu  
 **Sens** vision dans le noir 36 m, Perception passive 11  
 **Langues** aquatique, draconique  
-**Puissance** 10 (5900 PX) **Bonus de maîtrise** +4_
+**Puissance** 10 (5900 PX) **Bonus de maîtrise** +4
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dragon vert, adulte_
+Dragon vert, adulte
 =====================
 
 _\[ Adult Green Dragon \]_
 
 _Dragon (chromatique) de taille TG, loyal mauvais_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 207 (18d12 + 90)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -10230,9 +10409,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22  
 **Langues** commun, draconique  
-**Puissance** 15 (13000 PX)_
+**Puissance** 15 (13000 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +11, 3 m, 2d10+6 perforants  
@@ -10243,18 +10422,18 @@ A|**Souffle empoisonné (Recharge 5-6)**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon vert, ancien_
+Dragon vert, ancien
 =====================
 
 _\[ Ancient Green Dragon \] \[ Dragon vert, vénérable \]_
 
 _Dragon (chromatique) de taille Gig, loyal mauvais_
 
-_**Classe d'armure** 21 (armure naturelle)  
+**Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 385 (22d20 + 154)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -10268,9 +10447,9 @@ _**Classe d'armure** 21 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27  
 **Langues** commun, draconique  
-**Puissance** 22 (41000 PX)_
+**Puissance** 22 (41000 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Résistance légendaire (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +15, 4,50 m, 2d10+8 perforants  
@@ -10281,18 +10460,18 @@ A|**Souffle empoisonné (Recharge 5-6)**.
 L|**Détection**.  
 L|**Attaque avec la queue**.  
 L|**Attaque avec les ailes (coûte 2 actions)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon vert, dragonnet_
+Dragon vert, dragonnet
 ========================
 
 _\[ Green Dragon Wyrmling \]_
 
 _Dragon (chromatique) de taille M, loyal mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 38 (7d8 + 7)  
 **Vitesse** 9 m, nage 9 m, vol 18 m
 
@@ -10306,23 +10485,23 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 **Langues** draconique  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 A|**Souffle empoisonné (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragon vert, jeune_
+Dragon vert, jeune
 ====================
 
 _\[ Young Green Dragon \]_
 
 _Dragon (chromatique) de taille G, loyal mauvais_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 136 (16d10 + 48)  
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
@@ -10336,25 +10515,25 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17  
 **Langues** commun, draconique  
-**Puissance** 8 (3900 PX)_
+**Puissance** 8 (3900 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
 A|**Morsure**. +7, 3 m, 2d10+4 perforants  
 A|**Souffle empoisonné (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Dragonnel_
+Dragonnel
 ===========
 
 _\[ Dragonnel \]_
 
 _Dragon de taille G, typiquement neutre_
 
-_**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 58 (9d10 + 9)  
 **Vitesse** 9 m, vol 18 m
 
@@ -10365,23 +10544,23 @@ _**Classe d'armure** 13 (armure naturelle)
 **Compétences** Perception +3  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 13  
 **Langues** comprend le draconique et le commun mais ne peut pas parler  
-**Puissance** 2 (450 PX) **Bonus de maîtrise** +2_
+**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 
-_Repli aérien.  
+Repli aérien.  
 Attaques multiples.  
 Déchirement.  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Drake gardien_
+Drake gardien
 ===============
 
 _\[ Guard Drake \] \[ Guivre gardienne \]_
 
 _Dragon de taille M, sans alignement_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 52 (7d8 + 21)  
 **Vitesse** 9 m
 
@@ -10392,23 +10571,23 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Perception +2  
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** comprend le draconique mais ne peut pas parler  
-**Puissance** 2 (450 PX) **Bonus de maîtrise** +2_
+**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 
-_Attaques multiples.  
+Attaques multiples.  
 Morsure.  
 Queue.  
-_
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
-_Drake gardien legacy_
+Drake gardien legacy
 ======================
 
 _\[ Guard Drake \]_
 
 _Dragon de taille M, sans alignement_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 52 (7d8 + 21)  
 **Vitesse** 9 m
 
@@ -10419,23 +10598,23 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Perception +2  
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** comprend le draconique mais ne peut pas parler  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 A|**Queue**. +5, 1,50 m, 1d6+3 contondants  
-_
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
-_Drakéide de Bahamut_
+Drakéide de Bahamut
 =====================
 
 _\[ Dragonborn of Bahamut \]_
 
 _Humanoïde de taille G, typiquement loyal bon_
 
-_**Classe d'armure** 18 (demi-plate, bouclier)  
+**Classe d'armure** 18 (demi-plate, bouclier)  
 **Points de vie** 93 (11d8 + 44)  
 **Vitesse** 9 m, vol 9 m
 
@@ -10448,18 +10627,18 @@ _**Classe d'armure** 18 (demi-plate, bouclier)
 **Immunités** effrayé  
 **Sens** Perception passive 15  
 **Langues** commun, draconique  
-**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3_
+**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3
 
-_Résistance légendaire (1/jour).  
+Résistance légendaire (1/jour).  
 Attaques multiples.  
 Épée longue.  
 Contact guérisseur (1/jour).  
 Souffle radiant (Recharge 6).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Drakéide de Sardior_
+Drakéide de Sardior
 =====================
 
 _\[ Dragonborn of Sardior \]_
@@ -10480,19 +10659,20 @@ _**Classe d'armure** 20 (défense mentale)
 **Immunités** effrayé  
 **Sens** Perception passive 15  
 **Langues** commun, draconique  
-**Puissance** 6 (2300 PX) **Bonus de maîtrise** +3_
+**Puissance** 6 (2300 PX) **Bonus de maîtrise** +3
 
-_Résistance légendaire (1/jour).  
+Résistance légendaire (1/jour).  
 Défense mentale.  
 Attaques multiples.  
 Lame mentale.  
 Souffle de chaleur (Recharge 6).  
 Incantation (psioniques).  
-_
+
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Drakéide de Tiamat_
+Drakéide de Tiamat
 ====================
 
 _\[ Dragonborn of Tiamat \]_
@@ -10514,22 +10694,22 @@ _**Classe d'armure** 18 (harnois)
 **Langues** commun, draconique  
 **Puissance** 7 (2900 PX) **Bonus de maîtrise** +3_
 
-_Résistance légendaire (1/jour).  
+Résistance légendaire (1/jour).  
 Attaques multiples.  
 Hache à deux mains.  
 Souffle nécrotique (Recharge 6).  
-_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Draquelion_
+Draquelion
 ============
 
 _\[ Liondrake \]_
 
 _Monstruosité de taille G, typiquement neutre_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 119 (14d10 + 42)  
 **Vitesse** 12 m, vol 18 m
 
@@ -10540,18 +10720,19 @@ _**Classe d'armure** 16 (armure naturelle)
 **Compétences** Perception +7  
 **Sens** vision dans le noir 18 m, Perception passive 17  
 **Langues** draconique  
-**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3_
+**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
-_Dretch_
+Dretch
 ========
 
 _\[ Dretch \]_
 
 _Fiélon (démon) de taille P, chaotique mauvais_
 
-_**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 18 (4d6 + 4)  
 **Vitesse** 6 m
 
@@ -10570,18 +10751,18 @@ _A|**Attaques multiples**.
 A|**Griffes**. +2, 1,50 m, 2d4 tranchants  
 A|**Morsure**. +2, 1,50 m, 1d6 perforants  
 A|**Nuage fétide (1/jour)**.  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Drider_
+Drider
 ========
 
 _\[ Drider \]_
 
 _Monstruosité de taille G, chaotique mauvais_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 123 (13d10 + 52)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -10605,18 +10786,18 @@ A|**Attaques multiples**.
 A|**Morsure**. +6, 1,50 m, 1d4 perforants  
 A|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
 A|**Arc long**. +6, 45/180 m, 1d8+3 perforants  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
-_Drow_
+Drow
 ======
 
 _\[ Drow \]_
 
 _Humanoïde (elfe) de taille M, neutre mauvais_
 
-_**Classe d'armure** 15 (chemise de mailles)  
+**Classe d'armure** 15 (chemise de mailles)  
 **Points de vie** 13 (3d8)  
 **Vitesse** 9 m
 
@@ -10636,9 +10817,9 @@ _**Ascendance féerique**.
 **Sensibilité au soleil**.  
 A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
 A|**Arbalète de poing**. +4, 9/36 m, 1d6+2 perforants  
-_
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Drow, arachnomancien_
 ======================
@@ -10675,6 +10856,7 @@ Métamorphe (Recharge après un repos court ou long).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Drow, arachnomancien legacy_
 =============================
@@ -10712,6 +10894,7 @@ Toile d'araignée (forme d'araignée uniquement ; Recharge 5–6).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Drow, capitaine de maison_
 ===========================
@@ -10747,6 +10930,7 @@ Parade.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Drow, capitaine de maison legacy_
 ==================================
@@ -10783,6 +10967,7 @@ R|**Parade**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Drow, consort favori_
 ======================
@@ -10815,6 +11000,7 @@ Bouclier de protection (3/jour).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Drow, consort favori legacy_
 =============================
@@ -10848,6 +11034,7 @@ Arbalète de poing.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Drow, guerrier d'élite_
 ========================
@@ -10882,6 +11069,7 @@ R|**Parade**.
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Drow, inquisitrice_
 ====================
@@ -10915,6 +11103,7 @@ Dague spectrale (Recharge après un repos court ou long).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Drow, inquisitrice legacy_
 ===========================
@@ -10958,6 +11147,7 @@ A|**Lance d'arçon mortelle**. +10, 1,50 m, 1d6+5 perforants
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Drow, mage_
 ============
@@ -11035,6 +11225,7 @@ Sort (coûte 2 actions).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Drow, Mère matrone legacy_
 ===========================
@@ -11074,6 +11265,7 @@ Sort (coûte 1-3 actions).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Drow, ombrelame_
 =================
@@ -11107,6 +11299,7 @@ Foulée d'ombre.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Drow, ombrelame legacy_
 ========================
@@ -11139,6 +11332,7 @@ Arbalète de poing.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Drow, prêtresse de Lolth_
 ==========================
@@ -11179,6 +11373,7 @@ A|**Invocation de démon (1/jour)**.
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Druide_
 ========
@@ -11208,6 +11403,7 @@ A|**Bâton**. +2, , 1d6 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Druide du givre_
 =================
@@ -11278,6 +11474,7 @@ A|**Charme des fées**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Duergar_
 =========
@@ -11308,6 +11505,7 @@ A|**Invisibilité (Recharge après un repos court ou long)**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Duergar, âmelame_
 ==================
@@ -11337,6 +11535,7 @@ Agrandissement (Recharge après un repos court ou long).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Duergar, âmelame legacy_
 =========================
@@ -11368,6 +11567,7 @@ Invisibilité (Recharge après un repos court ou long).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Duergar, despote_
 ==================
@@ -11402,6 +11602,7 @@ Incantation (psionniques).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Duergar, despote legacy_
 =========================
@@ -11438,6 +11639,7 @@ A|**Jet de flammes**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Duergar, gardepierre_
 ======================
@@ -11470,6 +11672,7 @@ Agrandissement (Recharge après un repos court ou long).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Duergar, gardepierre legacy_
 =============================
@@ -11501,6 +11704,7 @@ A|**Invisibilité (Recharge 4-6)**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Duergar, kavalrachni_
 ======================
@@ -11532,6 +11736,7 @@ Invisibilité partagée (Recharge après un repos court ou long).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Duergar, kavalrachni legacy_
 =============================
@@ -11563,6 +11768,7 @@ A|**Invisibilité partagée (Recharge après un repos court ou long)**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Duergar, mentaliste_
 =====================
@@ -11596,6 +11802,7 @@ Réduction (Recharge après un repos court ou long).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Duergar, mentaliste legacy_
 ============================
@@ -11629,6 +11836,7 @@ A|**Réduction (Recharge après un repos court ou long)**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Duergar, seigneur de guerre_
 =============================
@@ -11661,6 +11869,7 @@ Agrandissement (Recharge après un repos court ou long).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Duergar, seigneur de guerre legacy_
 ====================================
@@ -11693,6 +11902,7 @@ A|**Invisibilité (Recharge 4-6)**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Duergar, xarrorn_
 ==================
@@ -11723,6 +11933,7 @@ Agrandissement (Recharge après un repos court ou long).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Duergar, xarrorn legacy_
 =========================
@@ -11753,6 +11964,7 @@ Invisibilité (Recharge après un repos court ou long).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Duodrone_
 ==========
@@ -11781,6 +11993,7 @@ A|**Javeline**. +3, 1,50 m ou 9/36 m, 1d6+1 perforants
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Dybbuk_
 ========
@@ -11814,6 +12027,7 @@ Contrôle de cadavre.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Dybbuk legacy_
 ===============
@@ -11846,6 +12060,7 @@ Posséssion de cadavre (Recharge 6).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Éclaireur_
 ===========
@@ -11874,6 +12089,7 @@ A|**Arc long**. +4, 45/180 m, 1d8+2 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Éclat draconique_
 ==================
@@ -11931,6 +12147,7 @@ A|**Jet de flammes**. +7, 36 m, 5d6 feu
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Eidolon_
 =========
@@ -11964,6 +12181,7 @@ Divine épouvante.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Eidolon legacy_
 ================
@@ -11996,6 +12214,7 @@ A|**Divine épouvante**.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Éladrin de l'automne_
 ======================
@@ -12029,6 +12248,7 @@ Favoriser la paix.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Éladrin de l'automne legacy_
 =============================
@@ -12061,6 +12281,7 @@ Favoriser la paix.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Éladrin de l'été_
 ==================
@@ -12093,6 +12314,7 @@ Parade.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Éladrin de l'été legacy_
 =========================
@@ -12125,6 +12347,7 @@ Parade.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Éladrin de l'hiver_
 ====================
@@ -12157,6 +12380,7 @@ Représailles froides.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Éladrin de l'hiver legacy_
 ===========================
@@ -12188,6 +12412,7 @@ Représailles froides.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Éladrin du printemps_
 ======================
@@ -12220,6 +12445,7 @@ Foulée féerique (Recharge 4–6).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Éladrin du printemps legacy_
 =============================
@@ -12252,6 +12478,7 @@ Arc long.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Élan_
 ======
@@ -12278,6 +12505,7 @@ A|**Sabots**. +5, 1,50 m, 2d4+3 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Élan géant_
 ============
@@ -12305,6 +12533,7 @@ A|**Sabots**. +6, 1,50 m, 4d8+4 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Élémentaire de l'air_
 ======================
@@ -12335,6 +12564,7 @@ A|**Cyclone (Recharge 4-6)**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Élémentaire de l'air mineur_
 =============================
@@ -12392,6 +12622,7 @@ Frappe foudroyante (Recharge 6).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Élémentaire de l'air, myrmidon legacy_
 =======================================
@@ -12422,6 +12653,7 @@ Frappe foudroyante (Recharge 6).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Élémentaire de l'eau_
 ======================
@@ -12453,6 +12685,7 @@ A|**Submersion (Recharge 4-6)**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Élémentaire de l'eau mineur_
 =============================
@@ -12511,6 +12744,7 @@ Frappes glaciales (Recharge 6).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Élémentaire de l'eau, myrmidon legacy_
 =======================================
@@ -12541,6 +12775,7 @@ Frappes glaciales (Recharge 6).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Élémentaire de la terre_
 =========================
@@ -12572,6 +12807,7 @@ A|**Coup**. +8, 3 m, 2d8+5 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Élémentaire de la terre mineur_
 ================================
@@ -12632,6 +12868,7 @@ Frappe tonitruante (Recharge 6).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Élémentaire de la terre, myrmidon legacy_
 ==========================================
@@ -12662,6 +12899,7 @@ Frappe tonitruante (Recharge 6).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Élémentaire du feu_
 ====================
@@ -12693,6 +12931,7 @@ A|**Contact**. +6, 1,50 m, 2d6+3 feu
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Élémentaire du feu mineur_
 ===========================
@@ -12755,6 +12994,7 @@ Frappes fougueuses (Recharge 6).
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Élémentaire du feu, myrmidon legacy_
 =====================================
@@ -12787,6 +13027,7 @@ Frappes fougueuses (Recharge 6).
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Éléphant_
 ==========
@@ -12813,6 +13054,7 @@ A|**Piétinement**. +8, 1,50 m, 3d10+6 contondants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Elric_
 =======
@@ -12865,6 +13107,7 @@ _**Classe d'armure** 17 (armure naturelle)
 **Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 _Empyréen_
 ==========
@@ -12902,6 +13145,7 @@ L|**Secousse (coûte 2 actions)**.
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Enchanteur legacy_
 ===================
@@ -12937,6 +13181,7 @@ R|**Charme instinctif (Recharge après que l'enchanteur ait lancé un sort d'enc
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Enlaceur_
 ==========
@@ -12968,6 +13213,7 @@ A|**Embobiner**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Épaulard_
 ==========
@@ -12996,6 +13242,7 @@ A|**Morsure**. +6, 1,50 m, 5d6+4 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Épée volante_
 ==============
@@ -13025,6 +13272,7 @@ A|**Épée longue**. +3, 1,50 m, 1d8+1 tranchants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Épineux legacy_
 ================
@@ -13054,6 +13302,7 @@ A|**Morsure**. +3, 1,50 m, 2d6+1 perforants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Épouvantail_
 =============
@@ -13085,6 +13334,7 @@ A|**Regard terrifiant**.
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Érinye_
 ========
@@ -13118,6 +13368,7 @@ R|**Parade**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Espion_
 ========
@@ -13147,6 +13398,7 @@ A|**Arbalète de poing**. +4, 9/36 m, 1d6+2 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Esprit d'aberration_
 =====================
@@ -13473,6 +13725,7 @@ A|**Souffle**.
 _
 
 _Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 _Esprit follet_
 ===============
@@ -13501,6 +13754,7 @@ A|**Invisibilité**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Étrangleur_
 ============
@@ -13530,6 +13784,7 @@ Tentacule.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Étrangleur legacy_
 ===================
@@ -13559,6 +13814,7 @@ Tentacule.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Étrilleur de crâne de Myrkul_
 ==============================
@@ -13622,6 +13878,7 @@ A|**Toile d'araignée (Recharge 5-6)**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Ettin_
 =======
@@ -13651,6 +13908,7 @@ A|**Morgenstern**. +7, 1,50 m, 2d8+5 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Évanescent_
 ============
@@ -13680,6 +13938,7 @@ Griffes.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Évanescent legacy_
 ===================
@@ -13710,6 +13969,7 @@ Griffes.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Évocateur legacy_
 ==================
@@ -13746,6 +14006,7 @@ A|**Bâton**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Expert en arts martiaux_
 =========================
@@ -13777,6 +14038,7 @@ R|**Parade de projectiles**.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Expert en arts martiaux legacy_
 ================================
@@ -13809,6 +14071,7 @@ R|**Parade de projectiles**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Expert (niv 1)_
 ================
@@ -13839,6 +14102,7 @@ A|**Arc court**. +4, 24/96 m, 1d8+2 perforants
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Expert (niv 2)_
 ================
@@ -13870,6 +14134,7 @@ A|**Arc court**. +4, 24/96 m, 1d8+2 perforants
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Expert (niv 3)_
 ================
@@ -13902,6 +14167,7 @@ A|**Arc court**. +4, 24/96 m, 1d8+2 perforants
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Expert (niv 4)_
 ================
@@ -13934,6 +14200,7 @@ A|**Arc court**. +5, 24/96 m, 1d8+3 perforants
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Expert (niv 5)_
 ================
@@ -13966,6 +14233,7 @@ A|**Arc court**. +6, 24/96 m, 1d8+3 perforants
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Expert (niv 6)_
 ================
@@ -13999,6 +14267,7 @@ A|**Arc court**. +6, 24/96 m, 1d8+3 perforants
 _
 
 _Rules (Essentials Kit)_
+{: .label .label-red }
 
 _Fanatique_
 ===========
@@ -14030,6 +14299,7 @@ A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Fantôme_
 =========
@@ -14062,6 +14332,7 @@ A|**Possession (Recharge 6)**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Farfadet_
 ==========
@@ -14091,6 +14362,7 @@ Faille dimensionnelle.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Farfadet legacy_
 =================
@@ -14121,6 +14393,7 @@ A|**Flaque d'huile**.
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Faucheur de Bhaal_
 ===================
@@ -14177,6 +14450,7 @@ A|**Serres**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Faucon de sang_
 ================
@@ -14204,6 +14478,7 @@ A|**Bec**. +4, 1,50 m, 1d4+2 perforants
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Feu follet_
 ============
@@ -14236,6 +14511,7 @@ A|**Invisibilité**.
 _
 
 _Monster Manual (SRD)_
+{: .label .label-red }
 
 _Flagelleur mental_
 ===================
@@ -14268,6 +14544,7 @@ A|**Tentacules**. +7, 1,50 m, 2d10+4 psychiques
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Fleur putride_
 ===============
@@ -14300,6 +14577,7 @@ Réanimation.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Fleur putride legacy_
 ======================
@@ -14330,6 +14608,7 @@ Moisson du mort.
 _
 
 _Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 _Flind_
 =======
@@ -14361,6 +14640,7 @@ Arc long.
 _
 
 _Monsters of the Multiverse_
+{: .label .label-red }
 
 _Flind legacy_
 ==============
@@ -14392,6 +14672,7 @@ A|**Arc long**. +4, 45/180 m, 1d8 perforants
 _
 
 _Volo´s Guide to Monsters_
+{: .label .label-red }
 
 _Flumph_
 ========
@@ -14422,6 +14703,7 @@ A|**Vaporisation nauséabonde (1/jour)**.
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Fomorien_
 ==========
@@ -14451,6 +14733,7 @@ La créature transformée peut retenter son jet de sauvegarde chaque fois qu'ell
 _
 
 _Monster Manual_
+{: .label .label-red }
 
 _Forain de Charme-Lumière_
 ==========================
@@ -14513,6 +14796,7 @@ Incantation.
 Queue.  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 __
 
@@ -25995,6 +26279,7 @@ Attaque.
 Mort rampante (coûte 2 actions).  
 
 Monsters of the Multiverse
+{: .label .label-red }
 
 ___
 
