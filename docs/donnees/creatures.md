@@ -64,7 +64,7 @@ Griffes.
 Épée longue.  
 Représailles vicieuses.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Abishaï blanc legacy
@@ -135,7 +135,7 @@ Frappe foudroyante.
 Incantation.  
 Téléportation.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Abishaï bleu legacy
@@ -204,7 +204,7 @@ Cimeterre.
 Ténèbres rampantes (Recharge 6).  
 Discrétion dans les ombres.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Abishaï noir legacy
@@ -276,7 +276,7 @@ Présence terrifiante.
 Incitation au fanatisme.  
 Pouvoir de la Reine des Dragons.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Abishaï rouge legacy
@@ -346,7 +346,7 @@ Attaques multiples.
 Griffe fiélonne.  
 Incantation.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Abishaï vert legacy
@@ -418,7 +418,7 @@ Niv 7 (1) : _téléportation_
 **Protection arcanique**.  
 A|**Bâton**.  
 
-Volo´s Guide to Monsters
+_Volo´s Guide to Monsters_
 {: .label .label-red }
 
 Aboleth
@@ -453,7 +453,9 @@ L|**Détection**.
 L|**Attaque avec la queue**.  
 L|**Absorption psychique (coûte 2 actions)**.  
 
-Monster Manual (SRD)
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 Abomination transdraconique
 ===========================
@@ -484,7 +486,8 @@ Queue.
 Crachat acide.  
 Éructation acide (Recharge 5-6).  
 
-Fizban´s Treasury of Dragons
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 Acérérak
 ========
@@ -524,7 +527,8 @@ Regard effroyable (coûte 2 actions).
 Talisman de la sphère (coûte 2 actions).  
 Trouble vitsal (coûte 3 actions).  
 
-Adventures (Tomb of Annihilation)
+_Adventures (Tomb of Annihilation)_
+{: .label .label-red }
 
 Acolyte
 =======
@@ -551,7 +555,9 @@ Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_
 Niv 1 (3) : _bénédiction, soins_  
 A|**Gourdin**. +2, 1,50 m, 1d4 contondants  
 
-Monster Manual (SRD)
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 Affligé affamé
 ==============
@@ -578,7 +584,7 @@ Attaques multiples.
 Morsure.  
 Griffes.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Affligé colérique
@@ -607,7 +613,7 @@ Deux têtes.
 Attaques multiples.  
 Crochet.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Affligé misérable
@@ -633,7 +639,7 @@ Monstruosité de taille P, typiquement neutre mauvais
 Tactique de groupe misérable.  
 Morsure.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Affligé perdu
@@ -662,7 +668,7 @@ Bras épineux.
 Étreinte (Recharge 4–6).  
 Étreinte serrée.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Affligé solitaire
@@ -691,7 +697,7 @@ Attaques multiples.
 Bras de harpon.  
 Étreinte douloureuse.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Aigle
@@ -717,7 +723,8 @@ Bête de taille P, sans alignement
 **Vue aiguisée**.  
 A|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
 
-Monster Manual (SRD)
+_Monster Manual (SRD)_
+{: .label .label-red }
 
 Aigle géant
 ===========
@@ -744,7 +751,8 @@ A|**Attaques multiples**.
 A|**Bec**. +5, 1,50 m, 1d6+3 perforants  
 A|**Serres**. +5, 1,50 m, 2d6+3 tranchants  
 
-Monster Manual (SRD)
+_Monster Manual (SRD)_
+{: .label .label-red }
 
 Alhoon
 ======
@@ -780,7 +788,7 @@ Explosion de l'esprit (Recharge 5-6).
 Incantation.  
 Annulation de sort (3/jour).  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Alhoon legacy
@@ -823,7 +831,7 @@ Niv 6 (1) : _désintégration, globe d'invulnérabilité_
 A|**Étreinte glaciale**. +8, 1,50 m, 3d6 froid  
 A|**Explosion de l'esprit (Recharge 5-6)**.  
 
-Volo´s Guide to Monsters
+_Volo´s Guide to Monsters_
 {: .label .label-red }
 
 Alkilith
@@ -860,7 +868,7 @@ Nature insolite.
 Attaques multiples.  
 Tentacle.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Alkilith legacy
@@ -927,7 +935,7 @@ Contact perturbant.
 Babil mugissant (Recharge 6).  
 Murmures de compulsion.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Allip legacy
@@ -1015,7 +1023,8 @@ Mort-vivant de taille M, neutre mauvais
 A|**Absorption de vie**. +6, 1,50 m, 4d8+3 nécrotiques  
 A|**Création de spectre**.  
 
-Monster Manual (SRD)
+_Monster Manual (SRD)_
+{: .label .label-red }
 
 Amnizu
 ======
@@ -1050,7 +1059,7 @@ Oubli (Recharge 6).
 Incantation.  
 Charme instinctif.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 Amnizu legacy
@@ -1133,7 +1142,8 @@ L|**Attaque avec les griffes**.
 L|**Téléportation (coûte 2 actions)**.  
 L|**Sort (coûte 3 actions)**.  
 
-Monster Manual (SRD)
+_Monster Manual (SRD)_
+{: .label .label-red }
 
 Ankheg
 ======
@@ -1157,7 +1167,8 @@ Monstruosité de taille G, sans alignement
 A|**Morsure**. +5, 1,50 m, 2d6+3 tranchants  
 A|**Vaporisation d'acide (Recharge 6)**.  
 
-Monster Manual (SRD)
+_Monster Manual (SRD)_
+{: .label .label-red }
 
 Ankylosaure
 ===========
@@ -1232,19 +1243,18 @@ Sorts mineurs (à volonté) : _réparation, prestidigitation_
 Niv 1 (2) : _mains brûlantes, déguisement, bouclier_  
 A|**Dague**. +2, 1,50 m ou 6/18 m, 1d4 perforants  
 
-Volo´s Guide to Monsters
+_Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_
 
-_Arach_
+Arach
 =======
 
 _\[ Arach \]_
 
 _Humanoïde (humain) de taille M, chaotique neutre_
 
-_**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 66 (12d8 + 12)  
 **Vitesse** 9 m
 
@@ -1257,9 +1267,9 @@ _**Classe d'armure** 12 (15 avec _armure de mage_)
 **Résistances** nécrotique  
 **Sens** Perception passive 11  
 **Langues** commun, elfique, orc, géant  
-**Puissance** 9 (5000 PX)_
+**Puissance** 9 (5000 PX)
 
-_**Incantation**.  
+**Incantation**.  
 Sorts mineurs (à volonté) : _lumières dansantes, message_  
 Niv 1 (4) : _sommeil_  
 Niv 2 (3) : _toile d'araignée_  
@@ -1270,18 +1280,18 @@ Niv 6 (1) : _création de mort-vivant\*_
 \* sort de nécromancie de niveau 1 ou supérieur  
 **Sinistre moisson (1/tour)**.  
 A|**Toucher flétrissant**. +7, 1,50 m, 2d4 nécrotiques  
-_
 
 _Extra (AideDD)_
+{: .label .label-red }
 
-_Araignée_
+Araignée
 ==========
 
 _\[ Spider \]_
 
 _Bête de taille TP, sans alignement_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -1292,25 +1302,24 @@ _**Classe d'armure** 12
 **Compétences** Discrétion +4  
 **Sens** vision dans le noir 9 m, Perception passive 10  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Pattes d'araignée**.  
+**Pattes d'araignée**.  
 **Sens de la toile**.  
 **Déplacement sur la toile**.  
 A|**Morsure**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Araignée de monte, femelle_
+Araignée de monte, femelle
 ============================
 
 _\[ Female Steeder \] \[ Montarachne, femelle \]_
 
 _Monstruosité de taille G, sans alignement_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 30 (4d10 + 8)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -1321,18 +1330,17 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Discrétion +7, Perception +4  
 **Sens** vision dans le noir 36 m, Perception passive 14  
 **Langues** —  
-**Puissance** 1 (200 PX) **Bonus de maîtrise** +2_
+**Puissance** 1 (200 PX) **Bonus de maîtrise** +2
 
-_Pattes d'araignée.  
+Pattes d'araignée.  
 Saut extraordinaire.  
 Morsure.  
 Patte collante.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Araignée de monte, femelle legacy_
+Araignée de monte, femelle legacy
 ===================================
 
 _\[ Female Steeder \]_
@@ -1350,25 +1358,24 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Discrétion +7, Perception +4  
 **Sens** vision dans le noir 36 m, Perception passive 14  
 **Langues** —  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_**Pattes d'araignée**.  
+**Pattes d'araignée**.  
 **Saut extraordinaire**.  
 A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 A|**Patte collante**.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Araignée de monte, mâle_
+Araignée de monte, mâle
 =========================
 
 _\[ Male Steeder \] \[ Montarachne, mâle \]_
 
 _Monstruosité de taille M, sans alignement_
 
-_**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 13 (2d8 + 4)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -1379,25 +1386,24 @@ _**Classe d'armure** 12 (armure naturelle)
 **Compétences** Discrétion +5, Perception +4  
 **Sens** vision dans le noir 36 m, Perception passive 14  
 **Langues** —  
-**Puissance** 1/4 (50 PX) **Bonus de maîtrise** +2_
+**Puissance** 1/4 (50 PX) **Bonus de maîtrise** +2
 
-_Pattes d'araignée.  
+Pattes d'araignée.  
 Saut extraordinaire.  
 Morsure.  
 Patte collante.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Araignée de monte, mâle legacy_
+Araignée de monte, mâle legacy
 ================================
 
 _\[ Male Steeder \]_
 
 _Monstruosité de taille M, sans alignement_
 
-_**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 13 (2d8 + 4)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -1408,25 +1414,24 @@ _**Classe d'armure** 12 (armure naturelle)
 **Compétences** Discrétion +5, Perception +4  
 **Sens** vision dans le noir 36 m, Perception passive 14  
 **Langues** —  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_**Pattes d'araignée**.  
+**Pattes d'araignée**.  
 **Saut extraordinaire**.  
 A|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
 A|**Patte collante**.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Araignée de phase_
+Araignée de phase
 ===================
 
 _\[ Phase Spider \]_
 
 _Monstruosité de taille G, sans alignement_
 
-_**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 32 (5d10 + 5)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -1437,25 +1442,24 @@ _**Classe d'armure** 13 (armure naturelle)
 **Compétences** Discrétion +6  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** —  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Saut éthérée**.  
+**Saut éthérée**.  
 **Pattes d'araignée**.  
 **Déplacement sur la toile**.  
 A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Araignée géante_
+Araignée géante
 =================
 
 _\[ Giant Spider \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 26 (4d10 + 4)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -1466,26 +1470,25 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Discrétion +7  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10  
 **Langues** —  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_**Déplacement sur la toile**.  
+**Déplacement sur la toile**.  
 **Pattes d'araignée**.  
 **Sens de la toile**.  
 A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 A|**Toile d'araignée (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Araignée-loup géante_
+Araignée-loup géante
 ======================
 
 _\[ Giant Wolf Spider \]_
 
 _Bête de taille M, sans alignement_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -1496,25 +1499,24 @@ _**Classe d'armure** 13
 **Compétences** Discrétion +7, Perception +3  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13  
 **Langues** —  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_**Déplacement sur la toile**.  
+**Déplacement sur la toile**.  
 **Pattes d'araignée**.  
 **Sens de la toile**.  
 A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Arbre éveillé_
+Arbre éveillé
 ===============
 
 _\[ Awakened Tree \]_
 
 _Plante de taille TG, sans alignement_
 
-_**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 59 (7d12 + 14)  
 **Vitesse** 6 m
 
@@ -1526,23 +1528,22 @@ _**Classe d'armure** 13 (armure naturelle)
 **Résistances** contondant, perforant  
 **Sens** Perception passive 10  
 **Langues** une langue connue par son créateur  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Apparence trompeuse**.  
+**Apparence trompeuse**.  
 A|**Coup**. +6, 3 m, 3d6+4 contondants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Arbuste éveillé_
+Arbuste éveillé
 =================
 
 _\[ Awakened Shrub \]_
 
 _Plante de taille P, sans alignement_
 
-_**Classe d'armure** 9  
+**Classe d'armure** 9  
 **Points de vie** 10 (3d6)  
 **Vitesse** 6 m
 
@@ -1554,23 +1555,23 @@ _**Classe d'armure** 9
 **Résistances** perforant  
 **Sens** Perception passive 10  
 **Langues** une langue connue par son créateur  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Apparence trompeuse**.  
+**Apparence trompeuse**.  
 A|**Écorchure**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Arcanaloth_
+
+Arcanaloth
 ============
 
 _\[ Arcanaloth \]_
 
 _Fiélon (yugoloth) de taille M, neutre mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 104 (16d8 + 32)  
 **Vitesse** 9 m, vol 9 m
 
@@ -1585,9 +1586,9 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** charmé, empoisonné  
 **Sens** vision véritable 36 m, Perception passive 17  
 **Langues** toutes, télépathie 36 m  
-**Puissance** 12 (8400 PX)_
+**Puissance** 12 (8400 PX)
 
-_**Incantation innée**.  
+**Incantation innée**.  
 À volonté : _ténèbres, métal brûlant, invisibilité_ (personnel uniquement), _projectile magique_  
 **Résistance à la magie**.  
 **Armes magiques**.  
@@ -1603,19 +1604,18 @@ Niv 7 (1) : _doigt de mort_
 Niv 8 (1) : _esprit impénétrable_  
 A|**Griffes**. +7, 1,50 m, 2d4+3 tranchants  
 A|**Téléportation**.  
-_
 
 _Monster Manual_
 {: .label .label-red }
 
-_Archer_
+Archer
 ========
 
 _\[ Archer \]_
 
 _Humanoïde de taille M, tout alignement_
 
-_**Classe d'armure** 16 (armure de cuir clouté)  
+**Classe d'armure** 16 (armure de cuir clouté)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m
 
@@ -1626,25 +1626,24 @@ _**Classe d'armure** 16 (armure de cuir clouté)
 **Compétences** Acrobaties +6, Perception +5  
 **Sens** Perception passive 15  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Épée courte**. +6, 1,50 m, 1d6+4 perforants  
 A|**Arc long**. +6, 45/90 m, 1d8+4 perforants  
 B|**Oeil de l'archer (3/jour)**.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Archer legacy_
+Archer legacy
 ===============
 
 _\[ Archer \]_
 
 _Humanoïde (toute race) de taille M, tout alignement_
 
-_**Classe d'armure** 16 (armure de cuir clouté)  
+**Classe d'armure** 16 (armure de cuir clouté)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m
 
@@ -1657,23 +1656,22 @@ _**Classe d'armure** 16 (armure de cuir clouté)
 **Langues** une langue au choix (généralement le commun)  
 **Puissance** 3 (700 PX)_
 
-_**Oeil de l'archer (3/jour)**.  
+**Oeil de l'archer (3/jour)**.  
 A|**Attaques multiples**.  
 A|**Épée courte**. +6, 1,50 m, 1d6+4 perforants  
 A|**Arc long**. +6, 45/90 m, 1d8+4 perforants  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Archidruide_
+Archidruide
 =============
 
 _\[ Archdruid \]_
 
 _Humanoïde (druide) de taille M, tout alignement_
 
-_**Classe d'armure** 14 (armure de peaux)  
+**Classe d'armure** 14 (armure de peaux)  
 **Points de vie** 154 (28d8 + 28)  
 **Vitesse** 9 m
 
@@ -1685,26 +1683,25 @@ _**Classe d'armure** 14 (armure de peaux)
 **Compétences** Médecine +9, Nature +5, Perception +9  
 **Sens** Perception passive 19  
 **Langues** druidique plus deux langues au choix  
-**Puissance** 12 (8400 PX) **Bonus de maîtrise** +4_
+**Puissance** 12 (8400 PX) **Bonus de maîtrise** +4
 
-_Attaques multiples.  
+Attaques multiples.  
 Bâton.  
 Feux rugissants.  
 Incantation.  
 Changement de forme (2/jour).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Archidruide legacy_
+Archidruide legacy
 ====================
 
 _\[ Archdruid \]_
 
 _Humanoïde (toute race) de taille M, tout alignement_
 
-_**Classe d'armure** 16 (armure de peaux, bouclier)  
+**Classe d'armure** 16 (armure de peaux, bouclier)  
 **Points de vie** 132 (24d8 + 24)  
 **Vitesse** 9 m
 
@@ -1716,9 +1713,9 @@ _**Classe d'armure** 16 (armure de peaux, bouclier)
 **Compétences** Médecine +9, Nature +5, Perception +9  
 **Sens** Perception passive 19  
 **Langues** druidique plus deux langues au choix  
-**Puissance** 12 (8400 PX)_
+**Puissance** 12 (8400 PX)
 
-_**Incantation**.  
+**Incantation**.  
 Sorts mineurs (à volonté) : _réparation, bouffée de poison, flammes_  
 Niv 1 (4) : _enchevêtrement, lueurs féeriques, communication avec les animaux_  
 Niv 2 (3) : _immobilisation de personne_  
@@ -1730,20 +1727,19 @@ Niv 7 (1) : _tempête de feu_
 Niv 8 (1) : _formes animales_  
 Niv 9 (1) : _prémonition_  
 A|**Cimeterre**. +6, 1,50 m, 1d6+2 tranchants  
-A|**Changement de forme (2/jour)**.  
-_
+A|**Changement de forme (2/jour)**. 
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Archimage_
+Archimage
 ===========
 
 _\[ Archmage \]_
 
 _Humanoïde (toute race) de taille M, tout alignement_
 
-_**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 99 (18d8 + 18)  
 **Vitesse** 9 m
 
@@ -1756,9 +1752,9 @@ _**Classe d'armure** 12 (15 avec _armure de mage_)
 **Résistances** dégâts des sorts ; contondant, perforant et tranchant non magiques (sort _peau de pierre_)  
 **Sens** Perception passive 12  
 **Langues** six langues au choix  
-**Puissance** 12 (8400 PX)_
+**Puissance** 12 (8400 PX)
 
-_**Incantation**.  
+**Incantation**.  
 Sorts mineurs (à volonté) : _lumière, poigne électrique_  
 Niv 1 (4) : _détection de la magie, projectile magique_  
 Niv 2 (3) : _détection des pensées, foulée brumeuse_  
@@ -1772,19 +1768,19 @@ Niv 9 (1) : _arrêt du temps_
 \* L'archimage jette ces sorts avant le combat.  
 **Résistance à la magie**.  
 A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+2 perforants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Armanite_
+
+Armanite
 ==========
 
 _\[ Armanite \]_
 
 _Fiélon (démon) de taille G, typiquement chaotique mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 94 (9d10 + 45)  
 **Vitesse** 18 m
 
@@ -1797,27 +1793,26 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 11  
 **Langues** abyssal, télépathie 36 m  
-**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3_
+**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3
 
-_Résistance à la magie.  
+Résistance à la magie.  
 Attaques multiples.  
 Griffes.  
 Sabots.  
 Queue dentelée.  
-Lance d'arçon éclair (Recharge 5–6).  
-_
+Lance d'arçon éclair (Recharge 5–6). 
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Armanite legacy_
+Armanite legacy
 =================
 
 _\[ Armanite \]_
 
 _Fiélon (démon) de taille G, chaotique mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 84 (8d10 + 40)  
 **Vitesse** 18 m
 
@@ -1830,28 +1825,27 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 11  
 **Langues** abyssal, télépathie 36 m  
-**Puissance** 7 (2900 PX)_
+**Puissance** 7 (2900 PX)
 
-_Résistance à la magie.  
+Résistance à la magie.  
 Armes magiques.  
 Attaques multiples.  
 Griffes.  
 Sabots.  
 Queue dentelée.  
-Lance d'arçon éclair (Recharge 5–6).  
-_
+Lance d'arçon éclair (Recharge 5–6). 
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Armure animée_
+Armure animée
 ===============
 
 _\[ Animated Armor \]_
 
 _Artificiel de taille M, sans alignement_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 7,50 m
 
@@ -1863,25 +1857,25 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** assourdi, aveuglé, charmé, empoisonné, épuisement, paralysé, pétrifié, effrayé  
 **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 6  
 **Langues** —  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_**Apparence trompeuse**.  
+**Apparence trompeuse**.  
 **Sensibilité à l'antimagie**.  
 A|**Attaques multiples**.  
-A|**Coup**. +4, 1,50 m, 1d6+2 contondants  
-_
+A|**Coup**. +4, 1,50 m, 1d6+2 contondants 
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Assassin_
+
+Assassin
 ==========
 
 _\[ Assassin \]_
 
 _Humanoïde (toute race) de taille M, tout alignement non bon_
 
-_**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 78 (12d8 + 24)  
 **Vitesse** 9 m
 
@@ -1894,27 +1888,27 @@ _**Classe d'armure** 15 (armure de cuir clouté)
 **Résistances** poison  
 **Sens** Perception passive 13  
 **Langues** jargon des voleurs plus deux langues au choix  
-**Puissance** 8 (3900 PX)_
+**Puissance** 8 (3900 PX)
 
-_**Assassinat**.  
+**Assassinat**.  
 **Attaque sournoise**.  
 **Esquive totale**.  
 A|**Attaques multiples**.  
 A|**Épée courte**. +6, 1,50 m, 1d6+3 perforants  
-A|**Arbalète légère**. +6, 24/96 m, 1d8+3 perforants  
-_
+A|**Arbalète légère**. +6, 24/96 m, 1d8+3 perforants 
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Auroch_
+
+Auroch
 ========
 
 _\[ Aurochs \]_
 
 _Bête (bétail) de taille G, sans alignement_
 
-_**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 38 (4d10 + 16)  
 **Vitesse** 15 m
 
@@ -1924,22 +1918,21 @@ _**Classe d'armure** 11 (armure naturelle)
 
 **Sens** Perception passive 11  
 **Langues** —  
-**Puissance** 2 (450 PX) **Bonus de maîtrise** +2_
+**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 
-_Corne.  
-_
+Corne.  
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Auroch legacy_
+Auroch legacy
 ===============
 
 _\[ Aurochs \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 38 (4d10 + 16)  
 **Vitesse** 15 m
 
@@ -1949,23 +1942,22 @@ _**Classe d'armure** 11 (armure naturelle)
 
 **Sens** Perception passive 11  
 **Langues** —  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Charge**.  
+**Charge**.  
 A|**Corne**. +7, 1,50 m, 2d8+5 perforants  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Automate, cobra de fer_
+Automate, cobra de fer
 ========================
 
 _\[ Clockwork Iron Cobra \] \[ Mécane, cobra de fer \]_
 
 _Artificiel de taille M, sans alignement_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 91 (14d8 + 28)  
 **Vitesse** 9 m
 
@@ -1978,24 +1970,23 @@ _**Classe d'armure** 13
 **Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** comprend une langue de son créateur mais ne peut pas parler  
-**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2_
+**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2
 
-_Résistance à la magie.  
+Résistance à la magie.  
 Nature insolite.  
 Morsure.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Automate, cobra de fer legacy_
+Automate, cobra de fer legacy
 ===============================
 
 _\[ Clockwork Iron Cobra \]_
 
 _Artificiel de taille M, sans alignement_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 45 (7d8 + 14)  
 **Vitesse** 9 m
 
@@ -2008,23 +1999,22 @@ _**Classe d'armure** 13
 **Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** comprend une langue de son créateur mais ne peut pas parler  
-**Puissance** 4 (1100 PX)_
+**Puissance** 4 (1100 PX)
 
-_Résistance à la magie.  
+Résistance à la magie.  
 Morsure.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Avatar de la mort_
+Avatar de la mort
 ===================
 
 _\[ Avatar of Death \]_
 
 _Mort-vivant de taille M, neutre mauvais_
 
-_**Classe d'armure** 20  
+**Classe d'armure** 20  
 **Points de vie** la moitié du maximum de points de vie de son invocateur  
 **Vitesse** 18 m, vol 18 m (stationnaire)
 
@@ -2036,23 +2026,23 @@ _**Classe d'armure** 20
 **Immunités** charmé, effrayé, paralysé, pétrifié, empoisonné, inconscient  
 **Sens** vision dans le noir 18 mètres, vision véritable 18 mètres, Perception passive 13  
 **Langues** toutes les langues connues par son invocateur  
-**Puissance** -_
+**Puissance** -
 
-_**Déplacement intangible**.  
+**Déplacement intangible**.  
 **Immunité au changement**.  
 A|**Faux moissonneuse**.  
-_
 
 _Rules (Dungeon Master´s Guide)_
+{: .label .label-red }
 
-_Azer_
+Azer
 ======
 
 _\[ Azer \]_
 
 _Élémentaire de taille M, loyal neutre_
 
-_**Classe d'armure** 17 (armure naturelle, bouclier)  
+**Classe d'armure** 17 (armure naturelle, bouclier)  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 9 m
 
@@ -2065,25 +2055,25 @@ _**Classe d'armure** 17 (armure naturelle, bouclier)
 **Immunités** empoisonné  
 **Sens** Perception passive 11  
 **Langues** igné  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Corps brûlant**.  
+**Corps brûlant**.  
 **Armes brûlantes**.  
 **Illumination**.  
 A|**Marteau de guerre**. +5, 1,50 m, 1d8+3 contondants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Babau_
+
+Babau
 =======
 
 _\[ Babau \]_
 
 _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 82 (11d8 + 33)  
 **Vitesse** 12 m
 
@@ -2097,25 +2087,24 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 15  
 **Langues** abyssal  
-**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2_
+**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2
 
-_Attaques multiples.  
+Attaques multiples.  
 Griffes.  
 Incantation.  
 Regard affaiblissant.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Babau legacy_
+Babau legacy
 ==============
 
 _\[ Babau \]_
 
 _Fiélon (démon) de taille M, chaotique mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 82 (11d8 + 33)  
 **Vitesse** 12 m
 
@@ -2129,27 +2118,26 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 15  
 **Langues** abyssal  
-**Puissance** 4 (1100 PX)_
+**Puissance** 4 (1100 PX)
 
-_**Incantation innée**.  
+**Incantation innée**.  
 À volonté : _ténèbres, métal brûlant, lévitation_  
 A|**Attaques multiples**.  
 A|**Griffes**. +6, 1,50 m, 1d8+4 tranchants  
 A|**Lance**. +6, 1,50 m ou 6/18 m, 1d6+4 perforants  
 A|**Regard affaiblissant**.  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Babélien_
+Babélien
 ==========
 
 _\[ Gibbering Mouther \]_
 
 _Aberration de taille M, neutre_
 
-_**Classe d'armure** 9  
+**Classe d'armure** 9  
 **Points de vie** 67 (9d8 + 27)  
 **Vitesse** 3 m, nage 3 m
 
@@ -2160,26 +2148,26 @@ _**Classe d'armure** 9
 **Immunités** à terre  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** —  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Sol aberrant**.  
+**Sol aberrant**.  
 **Charabia**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +2, 1,50 m, 5d6 perforants  
 A|**Salive aveuglante (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Babouin_
+
+Babouin
 =========
 
 _\[ Baboon \]_
 
 _Bête de taille P, sans alignement_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 3 (1d6)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -2189,23 +2177,23 @@ _**Classe d'armure** 12
 
 **Sens** Perception passive 11  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Tactique de groupe**.  
+**Tactique de groupe**.  
 A|**Morsure**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Badîan_
+
+Badîan
 ========
 
 _\[ Badîan \]_
 
 _Humanoïde (nain des montagnes) de taille M, loyal neutre_
 
-_**Classe d'armure** 16 (cotte de mailles)  
+**Classe d'armure** 16 (cotte de mailles)  
 **Points de vie** 58 (9d8 + 18)  
 **Vitesse** 7,50 m
 
@@ -2216,24 +2204,24 @@ _**Classe d'armure** 16 (cotte de mailles)
 **Compétences** Athlétisme +5, Perception +2  
 **Sens** vision dans le noir 18 mètres, Perception passive 12  
 **Langues** commun, nain  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Marteau de guerre**. +5, 1,50 m, 1d8+3 contondants  
 A|**Marteau léger**. +5, 1,50 m, 1d4+3 contondants  
 A|**Arbalète légère**. +3, 24/96 m, 1d8+1 perforants  
-_
 
 _Extra (AideDD)_
+{: .label .label-red }
 
-_Baël_
+Baël
 ======
 
 _\[ Bael \]_
 
 _Fiélon (diable) de taille G, loyal mauvais_
 
-_**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 189 (18d10 + 90)  
 **Vitesse** 9 m
 
@@ -2248,9 +2236,9 @@ _**Classe d'armure** 18 (harnois)
 **Immunités** charmé, épuisement, effrayé, empoisonné  
 **Sens** vision véritable 36 m, Perception passive 23  
 **Langues** toutes, télépathie 36 m  
-**Puissance** 19 (22000 PX) **Bonus de maîtrise** +6_
+**Puissance** 19 (22000 PX) **Bonus de maîtrise** +6
 
-_Épouvante.  
+Épouvante.  
 Résistance légendaire (3/jour)  
 Résistance à la magie.  
 Régénération.  
@@ -2262,19 +2250,18 @@ Téléportation.
 Magie fiélonne.  
 Commandement infernal.  
 Attaque (coûte 2 actions).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Baël legacy_
+Baël legacy
 =============
 
 _\[ Bael \]_
 
 _Fiélon (diable) de taille G, loyal mauvais_
 
-_**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 189 (18d10 + 90)  
 **Vitesse** 9 m
 
@@ -2289,9 +2276,9 @@ _**Classe d'armure** 18 (harnois)
 **Immunités** charmé, épuisement, effrayé, empoisonné  
 **Sens** vision véritable 36 m, Perception passive 23  
 **Langues** toutes, télépathie 36 m  
-**Puissance** 19 (22000 PX)_
+**Puissance** 19 (22000 PX)
 
-_Épouvante.  
+Épouvante.  
 Incantation innée.  
 Résistance légendaire (3/jour)  
 Résistance à la magie.  
@@ -2305,19 +2292,18 @@ Attaque (coûte 2 actions).
 Éveil de la cupidité.  
 Commandement infernal.  
 Téléportation.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Balhannoth_
+Balhannoth
 ============
 
 _\[ Balhannoth \]_
 
 _Aberration de taille G, typiquement chaotique mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 114 (12d10 + 48)  
 **Vitesse** 7,50 m, escalade 7,50 m
 
@@ -2330,28 +2316,27 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** aveuglé  
 **Sens** vision aveugle 150 m (aveugle au-delà de ce rayon), Perception passive 16  
 **Langues** comprend le profond, télépathie 1,5 km  
-**Puissance** 11 (7200 PX) **Bonus de maîtrise** +4_
+**Puissance** 11 (7200 PX) **Bonus de maîtrise** +4
 
-_Résistance légendaire (2/jour).  
+Résistance légendaire (2/jour).  
 Attaques multiples.  
 Morsure.  
 Tentacule.  
 Morsure.  
 Téléportation.  
 Disparition.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Balhannoth legacy_
+Balhannoth legacy
 ===================
 
 _\[ Balhannoth \]_
 
 _Aberration de taille G, chaotique mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 114 (12d10 + 48)  
 **Vitesse** 7,50 m, escalade 7,50 m
 
@@ -2364,28 +2349,27 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** aveuglé  
 **Sens** vision aveugle 150 m (aveugle au-delà de ce rayon), Perception passive 16  
 **Langues** comprend le profond, télépathie 1,5 km  
-**Puissance** 11 (7200 PX)_
+**Puissance** 11 (7200 PX)
 
-_Résistance légendaire (2/jour).  
+Résistance légendaire (2/jour).  
 Attaques multiples.  
 Morsure.  
 Tentacule.  
 Morsure.  
 Téléportation.  
-Disparition.  
-_
+Disparition. 
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Balor_
+Balor
 =======
 
 _\[ Balor \]_
 
 _Fiélon (démon) de taille TG, chaotique mauvais_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 262 (21d12 + 126)  
 **Vitesse** 12 m, vol 24 m
 
@@ -2399,9 +2383,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision véritable 36 m, Perception passive 13  
 **Langues** abyssal, télépathie 36 m  
-**Puissance** 19 (22000 PX)_
+**Puissance** 19 (22000 PX)
 
-_**Spasmes d'agonie**.  
+**Spasmes d'agonie**.  
 **Aura de feu**.  
 **Résistance à la magie**.  
 **Armes magiques**.  
@@ -2409,19 +2393,19 @@ A|**Attaques multiples**.
 A|**Épée longue**. +14, 3 m, 3d8+8 tranchants  
 A|**Fouet**. +14, 9 m, 2d6+8 tranchants  
 A|**Téléportation**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Banderhobb_
+
+Banderhobb
 ============
 
 _\[ Banderhobb \]_
 
 _Monstruosité de taille G, typiquement neutre mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 84 (8d10 + 40)  
 **Vitesse** 9 m
 
@@ -2433,28 +2417,27 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** charmé, effrayé  
 **Sens** vision dans le noir 36 m, Perception passive 12  
 **Langues** comprend le commun et les langages de son créateur mais ne peut pas parler  
-**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3_
+**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3
 
-_Connexion par vibrations.  
+Connexion par vibrations.  
 Attaques multiples.  
 Morsure.  
 Langue.  
 Foulée d'ombre.  
 Engloutissement.  
 Discrétion dans les ombres.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Banderhobb legacy_
+Banderhobb legacy
 ===================
 
 _\[ Banderhobb \]_
 
 _Monstruosité de taille G, neutre mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 84 (8d10 + 40)  
 **Vitesse** 9 m
 
@@ -2466,27 +2449,26 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** charmé, effrayé  
 **Sens** vision dans le noir 36 m, Perception passive 12  
 **Langues** comprend le commun et les langages de son créateur mais ne peut pas parler  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_**Connexion par vibrations**.  
+**Connexion par vibrations**.  
 **Discrétion dans les ombres**.  
 A|**Morsure**. +8, 1,50 m, 5d6+5 perforants  
 A|**Langue**. +8, 4,50 m, 3d6 nécrotiques  
 A|**Engloutissement**.  
-A|**Foulée d'ombre**.  
-_
+A|**Foulée d'ombre**. 
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Bandit_
+Bandit
 ========
 
 _\[ Bandit \]_
 
 _Humanoïde (toute race) de taille M, tout alignement non loyal_
 
-_**Classe d'armure** 12 (armure de cuir)  
+**Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 9 m
 
@@ -2496,23 +2478,23 @@ _**Classe d'armure** 12 (armure de cuir)
 
 **Sens** Perception passive 10  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 1/8 (25 PX)_
+**Puissance** 1/8 (25 PX)
 
-_A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
+A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
 A|**Arbalète légère**. +3, 24/96 m, 1d8+1 perforants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Bandit, capitaine_
+
+Bandit, capitaine
 ===================
 
 _\[ Bandit Captain \]_
 
 _Humanoïde (toute race) de taille M, tout alignement non loyal_
 
-_**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 65 (10d8 + 20)  
 **Vitesse** 9 m
 
@@ -2524,25 +2506,25 @@ _**Classe d'armure** 15 (armure de cuir clouté)
 **Compétences** Athlétisme +4, Tromperie +4  
 **Sens** Perception passive 10  
 **Langues** deux langues au choix  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Cimeterre**. +5, 1,50 m, 1d6+3 tranchants  
 A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
 R|**Parade**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Banshie_
+
+Banshie
 =========
 
 _\[ Banshee \]_
 
 _Mort-vivant de taille M, chaotique mauvais_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 58 (13d8)  
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
@@ -2556,25 +2538,25 @@ _**Classe d'armure** 12
 **Immunités** à terre, charmé, empoisonné, agrippé, entravé, épuisement, paralysé, pétrifié, effrayé  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** commun, elfique  
-**Puissance** 4 (1100 PX)_
+**Puissance** 4 (1100 PX)
 
-_**Détection de la vie**.  
+**Détection de la vie**.  
 **Déplacement intangible**.  
 A|**Contact corrupteur**. +4, 1,50 m, 3d6+2 nécrotiques  
 A|**Visage Effroyable**.  
-A|**Hurlement (1/jour)**.  
-_
+A|**Hurlement (1/jour)**. 
 
 _Monster Manual (BR)_
+{: .label .label-red }
 
-_Baphomet_
+Baphomet
 ==========
 
 _\[ Baphomet \]_
 
 _Fiélon (démon) de taille TG, chaotique mauvais_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 319 (22d12 + 176)  
 **Vitesse** 12 m
 
@@ -2589,9 +2571,9 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé, empoisonné  
 **Sens** vision véritable 36 m, Perception passive 24  
 **Langues** toutes, télépathie 36 m  
-**Puissance** 23 (50000 PX) **Bonus de maîtrise** +7_
+**Puissance** 23 (50000 PX) **Bonus de maîtrise** +7
 
-_Mémoire de labyrinthe.  
+Mémoire de labyrinthe.  
 Résistance légendaire (3/jour).  
 Résistance à la magie.  
 Attaques multiples.  
@@ -2602,19 +2584,18 @@ Présence terrifiante.
 Incantation.  
 Attaque de Coupe-cœur.  
 Charge (coûte 2 actions).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Baphomet legacy_
+Baphomet legacy
 =================
 
 _\[ Baphomet \]_
 
 _Fiélon (démon) de taille TG, chaotique mauvais_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 275 (19d12 + 152)  
 **Vitesse** 12 m
 
@@ -2629,9 +2610,9 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé, empoisonné  
 **Sens** vision véritable 36 m, Perception passive 24  
 **Langues** toutes, télépathie 36 m  
-**Puissance** 23 (50000 PX)_
+**Puissance** 23 (50000 PX)
 
-_Charge.  
+Charge.  
 Incantation innée.  
 Mémoire de labyrinthe.  
 Résistance légendaire (3/jour).  
@@ -2645,19 +2626,18 @@ Cornes.
 Présence terrifiante.  
 Attaque de Coupe-cœur.  
 Charge (coûte 2 actions).  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Barde_
+Barde
 =======
 
 _\[ Bard \]_
 
 _Humanoïde de taille M, tout alignement_
 
-_**Classe d'armure** 15 (chemise de mailles)  
+**Classe d'armure** 15 (chemise de mailles)  
 **Points de vie** 44 (8d8 + 8)  
 **Vitesse** 9 m
 
@@ -2669,27 +2649,26 @@ _**Classe d'armure** 15 (chemise de mailles)
 **Compétences** Acrobaties +4, Perception +5, Représentation +6  
 **Sens** Perception passive 15  
 **Langues** deux langues au choix  
-**Puissance** 2 (450 PX) **Bonus de maîtrise** +2_
+**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 
-_Attaques multiples.  
+Attaques multiples.  
 Épée courte.  
 Arc court.  
 Cacophonie (Recharge 4–6).  
 Incantation.  
-Raillerie (2/jour)  
-_
+Raillerie (2/jour) 
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Barde legacy_
+Barde legacy
 ==============
 
 _\[ Bard \]_
 
 _Humanoïde (toute race) de taille M, tout alignement_
 
-_**Classe d'armure** 15 (chemise de mailles)  
+**Classe d'armure** 15 (chemise de mailles)  
 **Points de vie** 44 (8d8 + 8)  
 **Vitesse** 9 m
 
@@ -2701,9 +2680,9 @@ _**Classe d'armure** 15 (chemise de mailles)
 **Compétences** Acrobaties +4, Perception +5, Représentation +6  
 **Sens** Perception passive 15  
 **Langues** deux langues au choix  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Incantation**.  
+**Incantation**.  
 Sorts mineurs (à volonté) : _moquerie cruelle_  
 Niv 1 (4) : _mot de guérison, héroïsme, vague tonnante_  
 Niv 2 (3) : _invisibilité, fracassement_  
@@ -2711,19 +2690,18 @@ Niv 2 (3) : _invisibilité, fracassement_
 **Provocation (2/jour)**.  
 A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
 A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Barghest_
+Barghest
 ==========
 
 _\[ Barghest \]_
 
 _Fiélon de taille G, typiquement neutre mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 60 (8d10 + 16)  
 **Vitesse** 18 m (9 m sous forme de gobelin)
 
@@ -2737,27 +2715,26 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 15  
 **Langues** abyssal, commun, gobelin, infernal, télépathie 18 m  
-**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2_
+**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2
 
-_Bannissement par le feu.  
+Bannissement par le feu.  
 Nourrir l'âme.  
 Attaques multiples.  
 Morsure.  
 Incantation.  
 Métamorphe.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Barghest legacy_
+Barghest legacy
 =================
 
 _\[ Barghest \]_
 
 _Fiélon (métamorphe) de taille G, neutre mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 90 (12d10 + 24)  
 **Vitesse** 18 m (9 m sous forme de gobelin)
 
@@ -2771,29 +2748,28 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 15  
 **Langues** abyssal, commun, gobelin, infernal, télépathie 18 m  
-**Puissance** 4 (1100 PX)_
+**Puissance** 4 (1100 PX)
 
-_**Métamorphe**.  
+**Métamorphe**.  
 **Bannissement par le feu**.  
 **Odorat aiguisé**.  
 **Incantation innée**.  
 À volonté : _lévitation, passage sans trace,_  
 1/jour chacun : _suggestion_  
 A|**Morsure (forme véritable uniquement)**. +6, 1,50 m, 2d8+4 perforants  
-A|**Griffes**. +6, 1,50 m, 1d8+4 tranchants  
-_
+A|**Griffes**. +6, 1,50 m, 1d8+4 tranchants 
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Barlgura_
+Barlgura
 ==========
 
 _\[ Barlgura \]_
 
 _Fiélon (démon) de taille G, chaotique mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 68 (8d10 + 24)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -2808,9 +2784,9 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15  
 **Langues** abyssal, télépathie 36 m  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_**Incantation innée**.  
+**Incantation innée**.  
 1/jour chacun : _enchevêtrement, force fantasmagorique_  
 2/jour chacun : _déguisement, invisibilité_ (personnel uniquement)  
 **Téméraire**.  
@@ -2818,18 +2794,18 @@ _**Incantation innée**.
 A|**Attaques multiples**.  
 A|**Morsure**. +7, 1,50 m, 2d6+4 perforants  
 A|**Poing**. +7, 1,50 m, 1d10+4 contondants  
-_
 
 _Monster Manual (BR+)_
+{: .label .label-red }
 
-_Basilic_
+Basilic
 =========
 
 _\[ Basilisk \]_
 
 _Monstruosité de taille M, sans alignement_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 52 (8d8 + 16)  
 **Vitesse** 6 m
 
@@ -2839,23 +2815,23 @@ _**Classe d'armure** 15 (armure naturelle)
 
 **Sens** vision dans le noir 18 m, Perception passive 9  
 **Langues** —  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Regard pétrifiant**.  
-A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
-_
+**Regard pétrifiant**.  
+A|**Morsure**. +5, 1,50 m, 2d6+3 perforants 
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Bec de hache_
+
+Bec de hache
 ==============
 
 _\[ Axe Beak \] \[ Autrache \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 19 (3d10 + 3)  
 **Vitesse** 15 m
 
@@ -2865,22 +2841,22 @@ _**Classe d'armure** 11
 
 **Sens** Perception passive 10  
 **Langues** —  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_A|**Bec**. +4, 1,50 m, 1d8+2 tranchants  
-_
+A|**Bec**. +4, 1,50 m, 1d8+2 tranchants  
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Béhir_
+
+Béhir
 =======
 
 _\[ Behir \]_
 
 _Monstruosité de taille TG, neutre mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 168 (16d12 + 64)  
 **Vitesse** 15 m, escalade 12 m
 
@@ -2892,26 +2868,26 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** foudre  
 **Sens** vision dans le noir 27 m, Perception passive 16  
 **Langues** draconique  
-**Puissance** 11 (7200 PX)_
+**Puissance** 11 (7200 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Morsure**. +10, 3 m, 3d10+6 perforants  
 A|**Constriction**. +10, 1,50 m, 2d10+6 contondants  
 A|**Souffle de foudre (Recharge 5-6)**.  
 A|**Engloutissement**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Belaphoss_
+
+Belaphoss
 ===========
 
 _\[ Belaphoss \]_
 
 _Fiélon (démon) de taille TG, chaotique mauvais_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 262 (21d12 + 126)  
 **Vitesse** 12 m, vol 24 m
 
@@ -2925,9 +2901,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** empoisonné, charmé, effrayé  
 **Sens** vision véritable 36 m, Perception passive 13  
 **Langues** abyssal, télépathie 36 m  
-**Puissance** 20 (25000 PX)_
+**Puissance** 20 (25000 PX)
 
-_**Spasmes d'agonie**.  
+**Spasmes d'agonie**.  
 **Aura de feu**.  
 **Résistance à la magie**.  
 **Armes magiques**.  
@@ -2937,18 +2913,18 @@ A|**Fouet**.
 A|**Tempête abyssal (Recharge 5-6)**.  
 A|**Téléportation**.  
 A|**Battement d'ailes**.  
-_
 
 _Extra (Dragon Mag)_
+{: .label .label-red }
 
-_Belette_
+Belette
 =========
 
 _\[ Weasel \]_
 
 _Bête de taille TP, sans alignement_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 9 m
 
@@ -2959,23 +2935,23 @@ _**Classe d'armure** 13
 **Compétences** Discrétion +5, Perception +3  
 **Sens** Perception passive 13  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Odorat et ouïe aiguisés**.  
+**Odorat et ouïe aiguisés**.  
 A|**Morsure**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Belette géante_
+
+Belette géante
 ================
 
 _\[ Giant Weasel \]_
 
 _Bête de taille M, sans alignement_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 9 (2d8)  
 **Vitesse** 12 m
 
@@ -2986,23 +2962,23 @@ _**Classe d'armure** 13
 **Compétences** Discrétion +5, Perception +3  
 **Sens** vision dans le noir 18 m, Perception passive 13  
 **Langues** —  
-**Puissance** 1/8 (25 PX)_
+**Puissance** 1/8 (25 PX)
 
-_**Odorat et ouïe aiguisés**.  
+**Odorat et ouïe aiguisés**.  
 A|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Berbalang_
+
+Berbalang
 ===========
 
 _\[ Berbalang \]_
 
 _Aberration de taille M, typiquement neutre mauvais_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 49 (14d8 - 14)  
 **Vitesse** 9 m, vol 12 m
 
@@ -3014,26 +2990,25 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Arcanes +5, Histoire +5, Intuition +2, Perception +2, Religion +5  
 **Sens** vision véritable 36 m, Perception passive 12  
 **Langues** toutes  
-**Puissance** 2 (450 PX) **Bonus de maîtrise** +2_
+**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 
-_Attaques multiples.  
+Attaques multiples.  
 Morsure.  
 Griffes.  
 Incantation.  
 Duplication spectrale (Recharge après un repos court ou long).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Berbalang legacy_
+Berbalang legacy
 ==================
 
 _\[ Berbalang \]_
 
 _Aberration de taille M, neutre mauvais_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 38 (11d8 - 11)  
 **Vitesse** 9 m, vol 12 m
 
@@ -3045,26 +3020,25 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Arcanes +5, Histoire +5, Intuition +2, Perception +2, Religion +5  
 **Sens** vision véritable 36 m, Perception passive 12  
 **Langues** toutes, mais parle rarement  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_Incantation innée.  
+Incantation innée.  
 Duplication spectrale (Recharge après un repos court ou long).  
 Attaques multiples.  
 Morsure.  
 Griffes.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Berserker_
+Berserker
 ===========
 
 _\[ Berserker \]_
 
 _Humanoïde (toute race) de taille M, tout alignement chaotique_
 
-_**Classe d'armure** 13 (armure de peaux)  
+**Classe d'armure** 13 (armure de peaux)  
 **Points de vie** 67 (9d8 + 27)  
 **Vitesse** 9 m
 
@@ -3074,23 +3048,23 @@ _**Classe d'armure** 13 (armure de peaux)
 
 **Sens** Perception passive 10  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Téméraire**.  
+**Téméraire**.  
 A|**Hache à deux mains**. +5, 1,50 m, 1d12+3 tranchants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Bête de la mer_
+
+Bête de la mer
 ================
 
 _\[ Beast of the Sea \]_
 
 _Bête de taille M, -_
 
-_**Classe d'armure** 13 + BM (armure naturelle)  
+**Classe d'armure** 13 + BM (armure naturelle)  
 **Points de vie** 5 + cinq fois votre niveau de rôdeur (la bête a un nombre de Dés de vie \[d8\] égal à votre niveau de rôdeur)  
 **Vitesse** 1,50 m, nage 18 m
 
@@ -3100,23 +3074,24 @@ _**Classe d'armure** 13 + BM (armure naturelle)
 
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** comprend les langues que vous parlez  
-**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+**Puissance** - **Bonus de maîtrise** égal à votre bonus
 
-_Amphibien.  
+Amphibien.  
 Lien primitif.  
 Frappe contraignante.  
-_
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
+{: .label .label-red }
 
-_Bête de la terre_
+Bête de la terre
 ==================
 
 _\[ Beast of the Land \]_
 
 _Bête de taille M, -_
 
-_**Classe d'armure** 13 + BM (armure naturelle)  
+**Classe d'armure** 13 + BM (armure naturelle)  
 **Points de vie** 5 + cinq fois votre niveau de rôdeur (la bête a un nombre de Dés de vie \[d8\] égal à votre niveau de rôdeur)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -3126,23 +3101,24 @@ _**Classe d'armure** 13 + BM (armure naturelle)
 
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** comprend les langues que vous parlez  
-**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+**Puissance** - **Bonus de maîtrise** égal à votre bonus
 
-_Charge.  
+Charge.  
 Lien primitif.  
 Maillet.  
-_
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
+{: .label .label-red }
 
-_Bête du ciel_
+Bête du ciel
 ==============
 
 _\[ Beast of the Sky \]_
 
 _Bête de taille P, -_
 
-_**Classe d'armure** 13 + BM (armure naturelle)  
+**Classe d'armure** 13 + BM (armure naturelle)  
 **Points de vie** 4 + quatre fois votre niveau de rôdeur (la bête a un nombre de Dés de vie \[d6\] égal à votre niveau de rôdeur)  
 **Vitesse** 3 m, vol 18 m
 
@@ -3152,23 +3128,24 @@ _**Classe d'armure** 13 + BM (armure naturelle)
 
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** comprend les langues que vous parlez  
-**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+**Puissance** - **Bonus de maîtrise** égal à votre bonus
 
-_Repli aérien.  
+Repli aérien.  
 Lien primitif.  
 Déchiqueté.  
-_
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
+{: .label .label-red }
 
-_Bête éclipsante_
+Bête éclipsante
 =================
 
 _\[ Displacer Beast \]_
 
 _Monstruosité de taille G, loyal mauvais_
 
-_**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 85 (10d10 + 30)  
 **Vitesse** 12 m
 
@@ -3178,25 +3155,24 @@ _**Classe d'armure** 13 (armure naturelle)
 
 **Sens** vision dans le noir 18 m, Perception passive 11  
 **Langues** —  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Esquive totale**.  
+**Esquive totale**.  
 **Déplacement**.  
 A|**Attaques multiples**.  
-A|**Tentacule**. +6, 3 m, 1d6+4 contondants  
-_
+A|**Tentacule**. +6, 3 m, 1d6+4 contondants 
 
 _Monster Manual_
 {: .label .label-red }
 
-_Bison fétide_
+Bison fétide
 ==============
 
 _\[ Stench Kow \]_
 
 _Fiélon (bétail) de taille G, sans alignement_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 15 (2d10 + 4)  
 **Vitesse** 9 m
 
@@ -3207,23 +3183,22 @@ _**Classe d'armure** 10
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Résistances** froid, feu, poison  
 **Langues** —  
-**Puissance** 1/2 (100 PX) **Bonus de maîtrise** +2_
+**Puissance** 1/2 (100 PX) **Bonus de maîtrise** +2
 
-_Puanteur.  
+Puanteur.  
 Corne.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Bison fétide legacy_
+Bison fétide legacy
 =====================
 
 _\[ Stench Kow \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 15 (2d10 + 4)  
 **Vitesse** 9 m
 
@@ -3234,24 +3209,23 @@ _**Classe d'armure** 10
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Résistances** froid, feu, poison  
 **Langues** —  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_**Charge**.  
+**Charge**.  
 **Puanteur**.  
-A|**Corne**. +6, 1,50 m, 1d6+4 perforants  
-_
+A|**Corne**. +6, 1,50 m, 1d6+4 perforants 
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Blaireau_
+Blaireau
 ==========
 
 _\[ Badger \]_
 
 _Bête de taille TP, sans alignement_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 3 (1d4 + 1)  
 **Vitesse** 6 m, creusement 1,50 m
 
@@ -3261,23 +3235,23 @@ _**Classe d'armure** 10
 
 **Sens** vision dans le noir 9 m, Perception passive 11  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Odorat aiguisé**.  
+**Odorat aiguisé**.  
 A|**Morsure**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Blaireau géant_
+
+Blaireau géant
 ================
 
 _\[ Giant Badger \]_
 
 _Bête de taille M, sans alignement_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 13 (2d8 + 4)  
 **Vitesse** 9 m, creusement 3 m
 
@@ -3287,25 +3261,25 @@ _**Classe d'armure** 10
 
 **Sens** vision dans le noir 9 m, Perception passive 11  
 **Langues** —  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_**Odorat aiguisé**.  
+**Odorat aiguisé**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
 A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Blarks_
+
+Blarks
 ========
 
 _\[ Blarks \]_
 
 _Humanoïde (humain) de taille M, chaotique neutre_
 
-_**Classe d'armure** 13 (armure de cuir clouté)  
+**Classe d'armure** 13 (armure de cuir clouté)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m
 
@@ -3317,22 +3291,22 @@ _**Classe d'armure** 13 (armure de cuir clouté)
 **Compétences** Athlétisme +4, Tromperie +4  
 **Sens** Perception passive 10  
 **Langues** commun  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_A|**Attaques multiples**.  
-A|**Hache à deux mains**. +4, 1,50 m, 1d12+3 tranchants  
-_
+A|**Attaques multiples**.  
+A|**Hache à deux mains**. +4, 1,50 m, 1d12+3 tranchants 
 
 _Extra (AideDD)_
+{: .label .label-red }
 
-_Blême_
+Blême
 =======
 
 _\[ Ghast \]_
 
 _Mort-vivant de taille M, chaotique mauvais_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 36 (8d8)  
 **Vitesse** 9 m
 
@@ -3345,25 +3319,25 @@ _**Classe d'armure** 13
 **Immunités** charmé, épuisement, empoisonné  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** commun  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Puanteur**.  
+**Puanteur**.  
 **Mépris du renvoi**.  
 A|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
-A|**Morsure**. +3, 1,50 m, 2d8+3 perforants  
-_
+A|**Morsure**. +3, 1,50 m, 2d8+3 perforants 
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Bodak_
+
+Bodak
 =======
 
 _\[ Bodak \]_
 
 _Mort-vivant de taille M, typiquement chaotique mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 58 (9d8 + 18)  
 **Vitesse** 9 m
 
@@ -3377,27 +3351,26 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 14  
 **Langues** abyssal, les langues qu'il connaissait de son vivant  
-**Puissance** 6 (2300 PX) **Bonus de maîtrise** +3_
+**Puissance** 6 (2300 PX) **Bonus de maîtrise** +3
 
-_Regard mortel.  
+Regard mortel.  
 Hypersensibilité au soleil.  
 Nature insolite.  
 Poing.  
 Regard flétrissant.  
 Aura d'annihilation.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Bodak legacy_
+Bodak legacy
 ==============
 
 _\[ Bodak \]_
 
 _Mort-vivant de taille M, chaotique mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 58 (9d8 + 18)  
 **Vitesse** 9 m
 
@@ -3411,26 +3384,25 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 14  
 **Langues** abyssal, les langues qu'il connaissait de son vivant  
-**Puissance** 6 (2300 PX)_
+**Puissance** 6 (2300 PX)
 
-_**Aura d'annihilation**.  
+**Aura d'annihilation**.  
 **Regard mortel**.  
 **Hypersensibilité au soleil**.  
 A|**Poing**. +5, 1,50 m, 1d4+2 contondants  
-A|**Regard flétrissant**.  
-_
+A|**Regard flétrissant**. 
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Boeuf_
+Boeuf
 =======
 
 _\[ Ox \]_
 
 _Bête (bétail) de taille G, sans alignement_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 15 (2d10 + 4)  
 **Vitesse** 9 m
 
@@ -3440,23 +3412,22 @@ _**Classe d'armure** 10
 
 **Sens** Perception passive 10  
 **Langues** —  
-**Puissance** 1/4 (50 PX) **Bonus de maîtrise** +2_
+**Puissance** 1/4 (50 PX) **Bonus de maîtrise** +2
 
-_Bête de somme.  
+Bête de somme.  
 Corne.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Boeuf legacy_
+Boeuf legacy
 ==============
 
 _\[ Ox \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 15 (2d10 + 4)  
 **Vitesse** 9 m
 
@@ -3466,24 +3437,23 @@ _**Classe d'armure** 10
 
 **Sens** Perception passive 10  
 **Langues** —  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_**Bête de somme**.  
+**Bête de somme**.  
 **Charge**.  
 A|**Corne**. +6, 1,50 m, 1d6+4 perforants  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Boiseux_
+Boiseux
 =========
 
 _\[ Wood Woad \]_
 
 _Plante de taille M, typiquement loyal neutre_
 
-_**Classe d'armure** 18 (armure naturelle, bouclier)  
+**Classe d'armure** 18 (armure naturelle, bouclier)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -3497,26 +3467,25 @@ _**Classe d'armure** 18 (armure naturelle, bouclier)
 **Immunités** charmé, effrayé  
 **Sens** vision dans le noir 18 m, Perception passive 14  
 **Langues** sylvestre  
-**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3_
+**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3
 
-_Camouflage dans la végétation.  
+Camouflage dans la végétation.  
 Régénération.  
 Passage par les arbres.  
 Attaques multiples.  
-Gourdin.  
-_
+Gourdin.
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Boiseux legacy_
+Boiseux legacy
 ================
 
 _\[ Wood Woad \]_
 
 _Plante de taille M, loyal neutre_
 
-_**Classe d'armure** 18 (armure naturelle, bouclier)  
+**Classe d'armure** 18 (armure naturelle, bouclier)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -3530,27 +3499,26 @@ _**Classe d'armure** 18 (armure naturelle, bouclier)
 **Immunités** charmé, effrayé  
 **Sens** vision dans le noir 18 m, Perception passive 14  
 **Langues** sylvestre  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_**Gourdin magique**.  
+**Gourdin magique**.  
 **Camouflage dans la végétation**.  
 **Régénération**.  
 **Passage par les arbres**.  
 A|**Attaques multiples**.  
-A|**Gourdin**. +7, 1,50 m, 4d4+4 contondants  
-_
+A|**Gourdin**. +7, 1,50 m, 4d4+4 contondants 
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Bonnet-rouge_
+Bonnet-rouge
 ==============
 
 _\[ Redcap \]_
 
 _Fée de taille P, typiquement chaotique mauvais_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 45 (6d6 + 24)  
 **Vitesse** 7,50 m
 
@@ -3561,26 +3529,25 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Athlétisme +6, Perception +3  
 **Sens** vision dans le noir 18 m, Perception passive 13  
 **Langues** commun, sylvestre  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_Bottes en fer.  
+Bottes en fer.  
 Force hors normes.  
 Attaques multiples.  
 Serpe mauvaise.  
 Poursuite de fer.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Bonnet-rouge legacy_
+Bonnet-rouge legacy
 =====================
 
 _\[ Redcap \]_
 
 _Fée de taille P, chaotique mauvais_
 
-_**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 45 (6d6 + 24)  
 **Vitesse** 7,50 m
 
@@ -3591,26 +3558,25 @@ _**Classe d'armure** 13 (armure naturelle)
 **Compétences** Athlétisme +6, Perception +3  
 **Sens** vision dans le noir 18 m, Perception passive 13  
 **Langues** commun, sylvestre  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Bottes en fer**.  
+**Bottes en fer**.  
 **Force hors normes**.  
 A|**Attaques multiples**.  
 A|**Serpe mauvaise**. +6, 1,50 m, 2d4+4 tranchants  
 A|**Poursuite de fer**.  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Bousniarf_
+Bousniarf
 ===========
 
 _\[ Bousniarf \]_
 
 _Humanoïde (humain) de taille M, neutre mauvais_
 
-_**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m
 
@@ -3622,24 +3588,24 @@ _**Classe d'armure** 15 (armure de cuir clouté)
 **Compétences** Persuasion +4, Tromperie +4  
 **Sens** Perception passive 10  
 **Langues** commun, commun des profondeurs  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Fouet**. +5, 3 m, 1d4+3 tranchants  
 A|**Dague +1**. +6, 1,50 m ou 6/18 m, 1d4+4 perforants  
 R|**Parade**.  
-_
 
 _Extra (AideDD)_
+{: .label .label-red }
 
-_Bretteur_
+Bretteur
 ==========
 
 _\[ Swashbuckler \]_
 
 _Humanoïde de taille M, tout alignement_
 
-_**Classe d'armure** 17 (armure de cuir, défense élégante)  
+**Classe d'armure** 17 (armure de cuir, défense élégante)  
 **Points de vie** 66 (12d8 + 12)  
 **Vitesse** 9 m
 
@@ -3650,26 +3616,25 @@ _**Classe d'armure** 17 (armure de cuir, défense élégante)
 **Compétences** Acrobaties +8, Athlétisme +5, Persuasion +6  
 **Sens** Perception passive 10  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_**Défense élégante**.  
+**Défense élégante**.  
 A|**Attaques multiples**.  
 A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+4 perforants  
 A|**Rapière**. +6, 1,50 m, 1d8+4 perforants  
-B|**Pied léger**.  
-_
+B|**Pied léger**. 
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Bretteur legacy_
+Bretteur legacy
 =================
 
 _\[ Swashbuckler \]_
 
 _Humanoïde (toute race) de taille M, tout alignement non loyal_
 
-_**Classe d'armure** 17 (armure de cuir)  
+**Classe d'armure** 17 (armure de cuir)  
 **Points de vie** 66 (12d8 + 12)  
 **Vitesse** 9 m
 
@@ -3680,26 +3645,25 @@ _**Classe d'armure** 17 (armure de cuir)
 **Compétences** Acrobaties +8, Athlétisme +5, Persuasion +6  
 **Sens** Perception passive 10  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Pied léger**.  
+**Pied léger**.  
 **Défense élégante**.  
 A|**Attaques multiples**.  
 A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+4 perforants  
 A|**Rapière**. +6, 1,50 m, 1d8+4 perforants  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Brume vampirique_
+Brume vampirique
 ==================
 
 _\[ Vampiric Mist \]_
 
 _Mort-vivant de taille M, typiquement chaotique mauvais_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 30 (4d8 + 12)  
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
@@ -3713,27 +3677,26 @@ _**Classe d'armure** 13
 **Immunités** charmé, épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé  
 **Sens** vision dans le noir 18 m, Perception passive 11  
 **Langues** —  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_Interdiction.  
+Interdiction.  
 Sens de la vie.  
 Forme brumeuse.  
 Hypersensibilité au soleil.  
 Nature insolite.  
 Absorption de vie.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Brume vampirique legacy_
+Brume vampirique legacy
 =========================
 
 _\[ Vampiric Mist \]_
 
 _Mort-vivant de taille M, chaotique mauvais_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 30 (4d8 + 12)  
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
@@ -3747,27 +3710,26 @@ _**Classe d'armure** 13
 **Immunités** charmé, épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé  
 **Sens** vision dans le noir 18 m, Perception passive 11  
 **Langues** —  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_Interdiction.  
+Interdiction.  
 Sens de la vie.  
 Forme brumeuse.  
 Hypersensibilité au soleil.  
 Nature insolite.  
 Absorption de vie.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Brutacien_
+Brutacien
 ===========
 
 _\[ Bullywug \]_
 
 _Humanoïde (brutacien) de taille M, neutre mauvais_
 
-_**Classe d'armure** 15 (armure de peaux, bouclier)  
+**Classe d'armure** 15 (armure de peaux, bouclier)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 6 m, nage 12 m
 
@@ -3778,27 +3740,26 @@ _**Classe d'armure** 15 (armure de peaux, bouclier)
 **Compétences** Discrétion +3  
 **Sens** Perception passive 10  
 **Langues** brutacien  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Communication avec les grenouilles et les crapauds**.  
 **Camouflage dans la vase**.  
 **Saut sans élan**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +3, 1,50 m, 1d4+1 contondants  
 A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
-_
 
-_Monster Manual (BR+)_
+_Monster Manual (BR+)_{: .label .label-red }
 
-_Brutacien, chevalier_
+Brutacien, chevalier
 ======================
 
 _\[ Bullywug Knight \]_
 
 _Humanoïde de taille M, typiquement loyal bon_
 
-_**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 66 (12d8 + 12)  
 **Vitesse** 9 m, nage 9 m
 
@@ -3809,26 +3770,26 @@ _**Classe d'armure** 18 (harnois)
 **Sauvegardes** Con +3, Sag +2  
 **Sens** Perception passive 10  
 **Langues** brutacien, commun  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_**Amphibien**.  
+**Amphibien**.  
 **Communication avec les grenouilles et les crapauds**.  
 **Saut sans élan**.  
 A|**Attaques multiples**.  
 A|**Coutille**. +5, 3 m, 1d10+3 tranchants  
 B|**Croassement charmeur (Recharge après un repos court ou long)**.  
-_
 
 _Adventures (The Wild Beyond the Witchlight)_
+{: .label .label-red }
 
-_Bulette_
+Bulette
 =========
 
 _\[ Bulette \]_
 
 _Monstruosité de taille G, sans alignement_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 94 (9d10 + 45)  
 **Vitesse** 12 m, creusement 12 m
 
@@ -3839,24 +3800,24 @@ _**Classe d'armure** 17 (armure naturelle)
 **Compétences** Perception +6  
 **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 16  
 **Langues** —  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_**Saut sans élan**.  
+**Saut sans élan**.  
 A|**Morsure**. +7, 1,50 m, 4d12+4 perforants  
 A|**Saut implacable**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Bulezau_
+
+Bulezau
 =========
 
 _\[ Bulezau \]_
 
 _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 52 (7d8 + 21)  
 **Vitesse** 12 m
 
@@ -3869,25 +3830,24 @@ _**Classe d'armure** 14 (armure naturelle)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 9  
 **Langues** abyssal, télépathie 18 m  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_Présence pourrissante.  
+Présence pourrissante.  
 Saut sans élan.  
 Pieds sûrs.  
 Queue barbelée.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Bulezau legacy_
+Bulezau legacy
 ================
 
 _\[ Bulezau \]_
 
 _Fiélon (démon) de taille M, chaotique mauvais_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 52 (7d8 + 21)  
 **Vitesse** 12 m
 
@@ -3900,25 +3860,24 @@ _**Classe d'armure** 14 (armure naturelle)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 9  
 **Langues** abyssal, télépathie 18 m  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_Présence pourrissante.  
+Présence pourrissante.  
 Saut sans élan.  
 Pieds sûrs.  
 Queue barbelée.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Cachalot_
+Cachalot
 ==========
 
 _\[ Sperm Whale \]_
 
 _Bête de taille Gig, sans alignement_
 
-_**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 189 (14d20 + 42)  
 **Vitesse** 0 m, nage 18 m
 
@@ -3928,26 +3887,26 @@ _**Classe d'armure** 13 (armure naturelle)
 
 **Sens** vision aveugle 36 m, Perception passive 11  
 **Langues** —  
-**Puissance** 8 (3900 PX)_
+**Puissance** 8 (3900 PX)
 
-_**Écholocalisation**.  
+**Écholocalisation**.  
 **Apnée**.  
 **Ouïe aiguisée**.  
 A|**Attaques multiples**.  
 A|**Morsures**. +11, 1,50 m, 3d8+8 perforants  
 A|**Queue**. +11, 4,50 m, 3d6+8 contondants  
-_
 
 _Adventures (Rime of the Frostmaiden)_
+{: .label .label-red }
 
-_Cambion_
+Cambion
 =========
 
 _\[ Cambion \]_
 
 _Fiélon de taille M, tout alignement mauvais_
 
-_**Classe d'armure** 19 (armure d'écailles)  
+**Classe d'armure** 19 (armure d'écailles)  
 **Points de vie** 82 (11d8 + 33)  
 **Vitesse** 9 m, vol 18 m
 
@@ -3960,29 +3919,28 @@ _**Classe d'armure** 19 (armure d'écailles)
 **Résistances** foudre, feu, froid, poison ; contondant, perforant et tranchant d'attaques non magiques  
 **Sens** vision dans le noir 18 m, Perception passive 14  
 **Langues** abyssal, commun, infernal  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_**Faveur impie**.  
+**Faveur impie**.  
 **Incantation innée**.  
 3/jour chacun : _détection de la magie, modification d'apparence_  
 1/jour : _changement de plan_ (personnel uniquement)  
 A|**Attaques multiples**.  
 A|**Lance**. +7, 1,50 m ou 6/12 m, 1d6+4 perforants  
 A|**Rayon de feu**. +7, 36 m, 3d6 feu  
-A|**Charme satanique**.  
-_
+A|**Charme satanique**. 
 
 _Monster Manual_
 {: .label .label-red }
 
-_Canoloth_
+Canoloth
 ==========
 
 _\[ Canoloth \]_
 
 _Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 120 (16d8 + 48)  
 **Vitesse** 15 m
 
@@ -3996,28 +3954,27 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 18 m, vision véritable 36 m, Perception passive 19  
 **Langues** abyssal, infernal, télépathie 18 m  
-**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3_
+**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3
 
-_Verrou dimensionnel.  
+Verrou dimensionnel.  
 Résistance à la magie.  
 Sens étranges.  
 Attaques multiples.  
 Morsure.  
 Griffes.  
 Langue.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Canoloth legacy_
+Canoloth legacy
 =================
 
 _\[ Canoloth \]_
 
 _Fiélon (yugoloth) de taille M, neutre mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 120 (16d8 + 48)  
 **Vitesse** 15 m
 
@@ -4031,9 +3988,9 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 18 m, vision véritable 36 m, Perception passive 19  
 **Langues** abyssal, infernal, télépathie 18 m  
-**Puissance** 8 (3900 PX)_
+**Puissance** 8 (3900 PX)
 
-_Verrou dimensionnel.  
+Verrou dimensionnel.  
 Résistance à la magie.  
 Armes magiques.  
 Sens étranges.  
@@ -4041,19 +3998,18 @@ Attaques multiples.
 Morsure.  
 Griffes.  
 Langue.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Catoblépas_
+Catoblépas
 ============
 
 _\[ Catoblepas \]_
 
 _Monstruosité de taille G, sans alignement_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 84 (8d10 + 40)  
 **Vitesse** 9 m
 
@@ -4064,24 +4020,23 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Perception +5  
 **Sens** vision dans le noir 18 m, Perception passive 15  
 **Langues** —  
-**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3_
+**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3
 
-_Puanteur.  
+Puanteur.  
 Queue.  
 Rayon de la mort (Recharge 5-6).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Catoblépas legacy_
+Catoblépas legacy
 ===================
 
 _\[ Catoblepas \]_
 
 _Monstruosité de taille G, sans alignement_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 84 (8d10 + 40)  
 **Vitesse** 9 m
 
@@ -4091,25 +4046,24 @@ _**Classe d'armure** 14 (armure naturelle)
 
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** —  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_**Odorat aiguisé**.  
+**Odorat aiguisé**.  
 **Puanteur**.  
 A|**Queue**. +7, 3 m, 5d6+4 contondants  
 A|**Rayon de la mort (Recharge 5-6)**.  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Centaure_
+Centaure
 ==========
 
 _\[ Centaur \]_
 
 _Monstruosité de taille G, neutre bon_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 45 (6d10 + 12)  
 **Vitesse** 15 m
 
@@ -4120,26 +4074,26 @@ _**Classe d'armure** 12
 **Compétences** Athlétisme +6, Perception +3, Survie +3  
 **Sens** Perception passive 13  
 **Langues** elfique, sylvestre  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Charge**.  
+**Charge**.  
 A|**Attaques multiples**.  
 A|**Pique**. +6, 3 m, 1d10+4 perforants  
 A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Cérébrum_
+
+Cérébrum
 ==========
 
 _\[ Brain in a Jar \]_
 
 _Mort-vivant de taille P, tout alignement_
 
-_**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 55 (10d6 + 20)  
 **Vitesse** 0 m, vol 3 m (stationnaire)
 
@@ -4152,26 +4106,25 @@ _**Classe d'armure** 11 (armure naturelle)
 **Immunités** épuisement, paralysé, empoisonné, à terre  
 **Sens** vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 10  
 **Langues** les langues qu'il connaissait de son vivant  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_Détection de la sentience.  
+Détection de la sentience.  
 Incantation innée (psioniques).  
 Résistance à la magie.  
 Nature insolite.  
 Contact glacial (Sort mineur).  
-Explosion de l'esprit (Recharge 5–6).  
-_
+Explosion de l'esprit (Recharge 5–6). 
 
 _Adventures (Rime of the Frostmaiden)_
 
-_Cerf_
+Cerf
 ======
 
 _\[ Deer \]_
 
 _Bête de taille M, sans alignement_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 4 (1d8)  
 **Vitesse** 15 m
 
@@ -4181,22 +4134,22 @@ _**Classe d'armure** 13
 
 **Sens** Perception passive 12  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_A|**Morsure**. +2, 1,50 m, 1d4 perforants  
-_
+A|**Morsure**. +2, 1,50 m, 1d4 perforants  
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Cerveau, vénérable_
+
+Cerveau, vénérable
 ====================
 
 _\[ Elder Brain \]_
 
 _Aberration (flagelleur mental) de taille G, typiquement loyal mauvais_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 210 (20d10 + 100)  
 **Vitesse** 1,50 m, nage 3 m
 
@@ -4208,9 +4161,9 @@ _**Classe d'armure** 10
 **Compétences** Arcanes +10, Intimidation +12, Intuition +14, Persuasion +12, Tromperie +12  
 **Sens** vision aveugle 36 m, Perception passive 14  
 **Langues** comprend le commun, le profond et le commun des profondeurs mais ne peut pas parler, télépathie 7,5 kilomètres  
-**Puissance** 14 (11500 PX) **Bonus de maîtrise** +5_
+**Puissance** 14 (11500 PX) **Bonus de maîtrise** +5
 
-_Perception des créatures.  
+Perception des créatures.  
 Résistance légendaire (3/jour).  
 Résistance à la magie.  
 Relai télépathique.  
@@ -4222,20 +4175,19 @@ Perception des pensées.
 Rupture de concentration.  
 Pulsation psychique.  
 Lien psychique intense.  
-Tentacule (coûte 2 actions).  
-_
+Tentacule (coûte 2 actions). 
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Cerveau vénérable draconique_
+Cerveau vénérable draconique
 ==============================
 
 _\[ Elder Brain Dragon \]_
 
 _Aberration de taille Gig, typiquement loyal mauvais_
 
-_**Classe d'armure** 17 (armure naturwlle)  
+**Classe d'armure** 17 (armure naturwlle)  
 **Points de vie** 350 (20d20 + 140)  
 **Vitesse** 12 m, vol 24 m (stationnaire)
 
@@ -4249,9 +4201,9 @@ _**Classe d'armure** 17 (armure naturwlle)
 **Immunités** charmé, effrayé  
 **Sens** vision aveugle 36 m, Perception passive 28  
 **Langues** profond, draconique, télépathie 7,5 kilomètres  
-**Puissance** 22 (41000 PX) **Bonus de maîtrise** +7_
+**Puissance** 22 (41000 PX) **Bonus de maîtrise** +7
 
-_Résistance légendaire (4/jour).  
+Résistance légendaire (4/jour).  
 Monstre de siège.  
 Nature insolite.  
 Attaques multiples.  
@@ -4260,20 +4212,19 @@ Griffes.
 Tentacule.  
 Souffle de larves (Recharge 5-6).  
 Tentacule.  
-Briseur de concentration (coûte 2 actions).  
-_
+Briseur de concentration (coûte 2 actions).
 
 _Fizban´s Treasury of Dragons_
 {: .label .label-red }
 
-_Cerveau, vénérable legacy_
+Cerveau, vénérable legacy
 ===========================
 
 _\[ Elder Brain \]_
 
 _Aberration de taille G, loyal mauvais_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 210 (20d10 + 100)  
 **Vitesse** 1,50 m, nage 3 m
 
@@ -4285,9 +4236,9 @@ _**Classe d'armure** 10
 **Compétences** Arcanes +10, Intimidation +12, Intuition +14, Persuasion +12, Tromperie +12  
 **Sens** vision aveugle 36 m, Perception passive 14  
 **Langues** comprend le commun, le profond et le commun des profondeurs mais ne peut pas parler, télépathie 7,5 kilomètres  
-**Puissance** 14 (11500 PX)_
+**Puissance** 14 (11500 PX)
 
-_**Perception des créatures**.  
+**Perception des créatures**.  
 **Incantation innée (psioniques)**.  
 À volonté : _détection des pensées, lévitation_  
 1/jour chacun : _changement de plan_ (personnel uniquement)  
@@ -4301,20 +4252,19 @@ A|**Perception des pensées**.
 L|**Tentacule**.  
 L|**Rupture de concentration**.  
 L|**Pulsation psychique**.  
-L|**Lien psychique intense**.  
-_
+L|**Lien psychique intense**.
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Chacal_
+Chacal
 ========
 
 _\[ Jackal \]_
 
 _Bête de taille P, sans alignement_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 3 (1d6)  
 **Vitesse** 12 m
 
@@ -4325,24 +4275,24 @@ _**Classe d'armure** 12
 **Compétences** Perception +3  
 **Sens** Perception passive 13  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Odorat et ouïe aiguisés**.  
+**Odorat et ouïe aiguisés**.  
 **Tactique de groupe**.  
 A|**Morsure**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chamane Uthgardt_
+
+Chamane Uthgardt
 ==================
 
 _\[ Uthgardt Shaman \]_
 
 _Humanoïde (humain) de taille M, neutre mauvais_
 
-_**Classe d'armure** 13 (armure de peaux)  
+**Classe d'armure** 13 (armure de peaux)  
 **Points de vie** 38 (7d8 + 7)  
 **Vitesse** 9 m
 
@@ -4353,25 +4303,25 @@ _**Classe d'armure** 13 (armure de peaux)
 **Compétences** Médecine +4, Nature +4, Perception +4, Survie +6  
 **Sens** Perception passive 14  
 **Langues** bothii, commun  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Incantation innée**.  
+**Incantation innée**.  
 À volonté : _lumières dansantes, thaumaturgie_  
 1/jour chacun : _malédiction, cordon de flèches, détection de la magie, maléfice, prière de guérison, communication avec les morts, esprits gardiens_  
 A|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
 A|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
-_
 
 _Adventures (Storm King's Thunder)_
+{: .label .label-red }
 
-_Chameau_
+Chameau
 =========
 
 _\[ Camel \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 9  
+**Classe d'armure** 9  
 **Points de vie** 15 (2d10 + 4)  
 **Vitesse** 15 m
 
@@ -4381,22 +4331,22 @@ _**Classe d'armure** 9
 
 **Sens** Perception passive 9  
 **Langues** —  
-**Puissance** 1/8 (25 PX)_
+**Puissance** 1/8 (25 PX)
 
-_A|**Morsure**. +5, 1,50 m, 1d4 contondants  
-_
+A|**Morsure**. +5, 1,50 m, 1d4 contondants  
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Champion_
+
+Champion
 ==========
 
 _\[ Champion \]_
 
 _Humanoïde de taille M, tout alignement_
 
-_**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 143 (22d8 + 44)  
 **Vitesse** 9 m
 
@@ -4408,26 +4358,25 @@ _**Classe d'armure** 18 (harnois)
 **Compétences** Athlétisme +9, Intimidation +5, Perception +6  
 **Sens** Perception passive 16  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 9 (5000 PX) **Bonus de maîtrise** +4_
+**Puissance** 9 (5000 PX) **Bonus de maîtrise** +4
 
-_**Inflexible (2/jour)**.  
+**Inflexible (2/jour)**.  
 A|**Attaques multiples**.  
 A|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
 A|**Arc court**. +6, 24/96 m, 1d6+2 perforants  
 B|**Second souffle (recharge après un repos court ou long)**.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Champion legacy_
+Champion legacy
 =================
 
 _\[ Champion \]_
 
 _Humanoïde (toute race) de taille M, tout alignement_
 
-_**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 143 (22d8 + 44)  
 **Vitesse** 9 m
 
@@ -4439,26 +4388,25 @@ _**Classe d'armure** 18 (harnois)
 **Compétences** Athlétisme +9, Intimidation +5, Perception +6  
 **Sens** Perception passive 16  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 9 (5000 PX)_
+**Puissance** 9 (5000 PX)
 
-_**Inflexible (2/jour)**.  
+**Inflexible (2/jour)**.  
 **Second souffle (Recharge après un repos court ou long)**.  
 A|**Attaques multiples**.  
 A|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
 A|**Arc court \[E\]**. +6, 24/96 m, 1d6+2 perforants  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Charognard rampant_
+Charognard rampant
 ====================
 
 _\[ Carrion Crawler \]_
 
 _Monstruosité de taille G, sans alignement_
 
-_**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 51 (6d10 + 18)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -4469,26 +4417,25 @@ _**Classe d'armure** 13 (armure naturelle)
 **Compétences** Perception +3  
 **Sens** vision dans le noir 18 m, Perception passive 13  
 **Langues** —  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Odorat aiguisé**.  
+**Odorat aiguisé**.  
 **Pattes d'araignée**.  
 A|**Attaques multiples**.  
 A|**Tentacules**. +8, 3 m, 1d4+2 poison  
 A|**Morsure**. +4, 1,50 m, 2d4+2 perforants  
-_
 
 _Monster Manual_
 {: .label .label-red }
 
-_Chasme_
+Chasme
 ========
 
 _\[ Chasme \]_
 
 _Fiélon (démon) de taille G, chaotique mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 84 (13d10 + 13)  
 **Vitesse** 6 m, vol 18 m
 
@@ -4503,25 +4450,24 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 15  
 **Langues** abyssal, télépathie 36 m  
-**Puissance** 6 (2300 PX)_
+**Puissance** 6 (2300 PX)
 
-_**Bourdonnement**.  
+**Bourdonnement**.  
 **Résistance à la magie**.  
 **Pattes d'araignée**.  
-A|**Rostre**. +5, 1,50 m, 4d6+2 perforants  
-_
+A|**Rostre**. +5, 1,50 m, 4d6+2 perforants 
 
 _Monster Manual_
 {: .label .label-red }
 
-_Chat_
+Chat
 ======
 
 _\[ Cat \]_
 
 _Bête de taille TP, sans alignement_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 2 (1d4)  
 **Vitesse** 12 m, escalade 9 m
 
@@ -4532,23 +4478,23 @@ _**Classe d'armure** 12
 **Compétences** Discrétion +4, Perception +3  
 **Sens** Perception passive 13  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Odorat aiguisé**.  
+**Odorat aiguisé**.  
 A|**Griffes**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chauve-souris_
+
+Chauve-souris
 ===============
 
 _\[ Bat \]_
 
 _Bête de taille TP, sans alignement_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 1,50 m, vol 9 m
 
@@ -4558,24 +4504,24 @@ _**Classe d'armure** 12
 
 **Sens** vision aveugle 18 m, Perception passive 11  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Écholocalisation**.  
+**Écholocalisation**.  
 **Ouïe aiguisée**.  
 A|**Morsure**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chauve-souris-garou_
+
+Chauve-souris-garou
 =====================
 
 _\[ Were Bat \]_
 
 _Humanoïde (gobelin, métamorphe) de taille P, neutre mauvais_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 24 (7d6)  
 **Vitesse** 9 m (escalade 9 m, vol 18 m sous forme hybride ou de chauve-souris)
 
@@ -4587,9 +4533,9 @@ _**Classe d'armure** 13
 **Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
 **Sens** vision dans le noir 18 m, Perception passive 13  
 **Langues** gobelin (ne peut pas parler sous forme de chauve-souris)  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Métamorphe**.  
+**Métamorphe**.  
 **Écholocation (forme de chauve-souris ou hybride uniquement)**.  
 **Audition affûtée**.  
 **Fuite agile (forme humanoïde uniquement)**.  
@@ -4598,18 +4544,18 @@ A|**Attaques multiples (forme humanoïde ou hybride uniquement)**.
 A|**Morsure (forme de chauve-souris ou hybride uniquement)**. +5, 1,50 m, 1d6+3 perforants  
 A|**Cimeterre (forme humanoïde ou hybride uniquement)**.  
 A|**Arc court (forme humanoïde ou hybride uniquement)**. +5, , 1d6+3 perforants  
-_
 
 _Adventures (Dungeon of the Mad Mage)_
+{: .label .label-red }
 
-_Chauve-souris géante_
+Chauve-souris géante
 ======================
 
 _\[ Giant Bat \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 22 (4d10)  
 **Vitesse** 3 m, vol 18 m
 
@@ -4619,24 +4565,24 @@ _**Classe d'armure** 13
 
 **Sens** vision aveugle 18 m, Perception passive 11  
 **Langues** —  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_**Écholocalisation**.  
+**Écholocalisation**.  
 **Ouïe aiguisée**.  
 A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Cheval de guerre_
+
+Cheval de guerre
 ==================
 
 _\[ Warhorse \] \[ Destrier \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 19 (3d10 + 3)  
 **Vitesse** 18 m
 
@@ -4646,23 +4592,23 @@ _**Classe d'armure** 11
 
 **Sens** Perception passive 11  
 **Langues** —  
-**Puissance** 1/2 (100 PX)_
+**Puissance** 1/2 (100 PX)
 
-_**Charge écrasante**.  
+**Charge écrasante**.  
 A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Cheval de selle_
+
+Cheval de selle
 =================
 
 _\[ Riding Horse \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 13 (2d10 + 2)  
 **Vitesse** 18 m
 
@@ -4672,22 +4618,22 @@ _**Classe d'armure** 10
 
 **Sens** Perception passive 10  
 **Langues** —  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_A|**Sabots**. +5, 1,50 m, 2d4+3 contondants  
-_
+A|**Sabots**. +5, 1,50 m, 2d4+3 contondants  
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Cheval de trait_
+
+Cheval de trait
 =================
 
 _\[ Draft Horse \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 19 (3d10 + 3)  
 **Vitesse** 12 m
 
@@ -4697,22 +4643,22 @@ _**Classe d'armure** 10
 
 **Sens** Perception passive 10  
 **Langues** —  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_A|**Sabots**. +6, 1,50 m, 2d4+4 contondants  
-_
+A|**Sabots**. +6, 1,50 m, 2d4+4 contondants  
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chevalier_
+
+Chevalier
 ===========
 
 _\[ Knight \]_
 
 _Humanoïde (toute race) de taille M, tout alignement_
 
-_**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 52 (8d8 + 16)  
 **Vitesse** 9 m
 
@@ -4723,27 +4669,27 @@ _**Classe d'armure** 18 (harnois)
 **Sauvegardes** Con +4, Sag +2  
 **Sens** Perception passive 10  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Brave**.  
+**Brave**.  
 A|**Attaques multiples**.  
 A|**Épée à deux mains**. +5, 1,50 m, 2d6+3 tranchants  
 A|**Arbalète lourde**. +2, 30/120 m, 1d10 perforants  
 A|**Commandement (Recharge après un repos court ou long)**.  
 R|**Parade**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chevalier de la mort_
+
+Chevalier de la mort
 ======================
 
 _\[ Death Knight \]_
 
 _Mort-vivant de taille M, chaotique mauvais_
 
-_**Classe d'armure** 20 (harnois, bouclier)  
+**Classe d'armure** 20 (harnois, bouclier)  
 **Points de vie** 180 (19d8 + 95)  
 **Vitesse** 9 m
 
@@ -4756,9 +4702,9 @@ _**Classe d'armure** 20 (harnois, bouclier)
 **Immunités** effrayé, épuisement, empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 13  
 **Langues** abyssal, commun  
-**Puissance** 17 (18000 PX)_
+**Puissance** 17 (18000 PX)
 
-_**Résistance à la magie**.  
+**Résistance à la magie**.  
 **Général des Morts**.  
 **Nature morte-vivante**.  
 **Incantation**.  
@@ -4770,20 +4716,19 @@ Niv 5 (2) : _vague destructrice_ (nécrotique)
 A|**Attaques multiples**.  
 A|**Épée longue**. +11, 1,50 m, 1d8+5 tranchants  
 A|**Flammes impies (1/jour)**.  
-R|**Parade**.  
-_
+R|**Parade**. 
 
 _Monster Manual_
 {: .label .label-red }
 
-_Chevalier noir_
+Chevalier noir
 ================
 
 _\[ Blackguard \]_
 
 _Humanoïde (paladin) de taille M, typiquement neutre mauvais_
 
-_**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 119 (14d8 + 56)  
 **Vitesse** 9 m
 
@@ -4795,9 +4740,9 @@ _**Classe d'armure** 18 (harnois)
 **Compétences** Athlétisme +7, Tromperie +5, Intimidation +5  
 **Sens** Perception passive 12  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3_
+**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Coutille**. +7, 3 m, 1d10+4 tranchants  
 A|**Arc court**. +3, 24/96 m, 1d6+2 perforants  
 A|**Aspect épouvantable (Recharge après un repos court ou long)**.  
@@ -4806,19 +4751,18 @@ A|**Incantation**.
 B|**Châtiment**.  
 B|**Aveuglé**.  
 B|**Repoussé**.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Chevalier noir legacy_
+Chevalier noir legacy
 =======================
 
 _\[ Blackguard \]_
 
 _Humanoïde (toute race) de taille M, tout alignement non bon_
 
-_**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 153 (18d8 + 72)  
 **Vitesse** 9 m
 
@@ -4830,9 +4774,9 @@ _**Classe d'armure** 18 (harnois)
 **Compétences** Athlétisme +7, Tromperie +5, Intimidation +5  
 **Sens** Perception passive 12  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 8 (3900 PX)_
+**Puissance** 8 (3900 PX)
 
-_**Incantation**.  
+**Incantation**.  
 Niv 1 (4) : _châtiment tonitruant_  
 Niv 2 (3) : _châtiment révélateur, appel de destrier_  
 Niv 3 (2) : _châtiment aveuglant, dissipation de la magie_  
@@ -4840,19 +4784,18 @@ A|**Attaques multiples**.
 A|**Coutille**. +7, 3 m, 1d10+4 tranchants  
 A|**Arc court**. +3, 24/96 m, 1d6+2 perforants  
 A|**Aspect épouvantable (Recharge après un repos court ou long)**.  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Chèvre_
+Chèvre
 ========
 
 _\[ Goat \]_
 
 _Bête de taille M, sans alignement_
 
-_**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 4 (1d8)  
 **Vitesse** 12 m
 
@@ -4862,24 +4805,24 @@ _**Classe d'armure** 10
 
 **Sens** Perception passive 10  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Charge**.  
+**Charge**.  
 **Stable**.  
 A|**Coup de tête**. +3, 1,50 m, 1d4+1 contondants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chèvre de montagne_
+
+Chèvre de montagne
 ====================
 
 _\[ Mountain Goat \]_
 
 _Bête de taille M, sans alignement_
 
-_**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 13 (2d8 + 4)  
 **Vitesse** 12 m, escalade 9 m
 
@@ -4889,23 +4832,23 @@ _**Classe d'armure** 11
 
 **Sens** Perception passive 10  
 **Langues** —  
-**Puissance** 1/8 (25 PX)_
+**Puissance** 1/8 (25 PX)
 
-_**Charge**.  
+**Charge**.  
 **Pied sûr**.  
 A|**Coup de tête**. +4, 1,50 m, 1d6+2 contondants  
-_
 
 _Adventures (Rime of the Frostmaiden)_
+{: .label .label-red }
 
-_Chèvre géante_
+Chèvre géante
 ===============
 
 _\[ Giant Goat \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 19 (3d10 + 3)  
 **Vitesse** 12 m
 
@@ -4915,24 +4858,24 @@ _**Classe d'armure** 11 (armure naturelle)
 
 **Sens** Perception passive 11  
 **Langues** —  
-**Puissance** 1/2 (100 PX)_
+**Puissance** 1/2 (100 PX)
 
-_**Charge**.  
+**Charge**.  
 **Stable**.  
 A|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chèvre géante à deux têtes_
+
+Chèvre géante à deux têtes
 ============================
 
 _\[ Giant Two-Headed Goat \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 19 (3d10 + 3)  
 **Vitesse** 12 m
 
@@ -4942,24 +4885,23 @@ _**Classe d'armure** 11 (armure naturelle)
 
 **Sens** Perception passive 11  
 **Langues** —  
-**Puissance** 1/2 (100 PX)_
+**Puissance** 1/2 (100 PX)
 
-_**Charge**.  
+**Charge**.  
 **Stable**.  
 A|**Attaques multiples**.  
 A|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
-_
 
 _Extra (Adventurers League)_
 
-_Chien de chasse infernal_
+Chien de chasse infernal
 ==========================
 
 _\[ Hell Hound \] \[ Molosse infernal \]_
 
 _Fiélon de taille M, loyal mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 45 (7d8 + 14)  
 **Vitesse** 15 m
 
@@ -4971,25 +4913,25 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** feu  
 **Sens** vision dans le noir 18 m, Perception passive 15  
 **Langues** comprend l'infernal mais ne peut pas parler  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Odorat et ouïe aiguisés**.  
+**Odorat et ouïe aiguisés**.  
 **Tactique de groupe**.  
 A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
-A|**Souffle de feu (Recharge 5-6)**.  
-_
+A|**Souffle de feu (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chien de chasse yeth_
+
+Chien de chasse yeth
 ======================
 
 _\[ Yeth Hound \] \[ Molosse de yeth \]_
 
 _Fée de taille G, typiquement neutre mauvais_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 51 (6d10 + 18)  
 **Vitesse** 12 m, vol 12 m (stationnaire)
 
@@ -5002,18 +4944,17 @@ _**Classe d'armure** 14 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé  
 **Sens** vision dans le noir 18 m, Perception passive 11  
 **Langues** comprend le commun, l'elfique et le sylvestre mais ne peut pas parler  
-**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2_
+**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2
 
-_Banni par le soleil.  
+Banni par le soleil.  
 Lien télépathique.  
 Morsure.  
 Sinistre aboiement.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Chien de chasse yeth legacy_
+Chien de chasse yeth legacy
 =============================
 
 _\[ Yeth Hound \]_
@@ -5032,26 +4973,25 @@ _**Classe d'armure** 14 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé  
 **Sens** vision dans le noir 18 m, Perception passive 11  
 **Langues** comprend le commun, l'elfique et le sylvestre mais ne peut pas parler  
-**Puissance** 4 (1100 PX)_
+**Puissance** 4 (1100 PX)
 
-_**Odorat et ouïe aiguisés**.  
+**Odorat et ouïe aiguisés**.  
 **Banni par le soleil**.  
 **Lien télépathique**.  
 A|**Morsure**. +6, 1,50 m, 2d6+4 perforants  
 A|**Sinistre aboiement**.  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Chien du trépas_
+Chien du trépas
 =================
 
 _\[ Death Dog \]_
 
 _Monstruosité de taille M, neutre mauvais_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 12 m
 
@@ -5062,24 +5002,24 @@ _**Classe d'armure** 12
 **Compétences** Discrétion +4, Perception +5  
 **Sens** vision dans le noir 36 m, Perception passive 15  
 **Langues** —  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_**Bicéphale**.  
+**Bicéphale**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chien esquiveur_
+
+Chien esquiveur
 =================
 
 _\[ Blink Dog \]_
 
 _Fée de taille M, loyal bon_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 12 m
 
@@ -5090,24 +5030,24 @@ _**Classe d'armure** 13
 **Compétences** Discrétion +5, Perception +3  
 **Sens** Perception passive 13  
 **Langues** Un chien esquiveur comprend le sylvestre mais ne peut pas le parler  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_**Odorat et ouïe aiguisés**.  
+**Odorat et ouïe aiguisés**.  
 A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 A|**Téléportation (Recharge 4-6)**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chien sauvage_
+
+Chien sauvage
 ===============
 
 _\[ Wild Dog \]_
 
 _Bête de taille M, sans alignement_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 5 (1d8 + 1)  
 **Vitesse** 12 m
 
@@ -5118,22 +5058,21 @@ _**Classe d'armure** 12
 **Compétences** Perception +3  
 **Sens** Perception passive 13  
 **Langues** —  
-**Puissance** 1/8 (25 PX)_
+**Puissance** 1/8 (25 PX)
 
-_**Odorat et ouïe aiguisés**.  
+**Odorat et ouïe aiguisés**.  
 A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
-_
 
 _Extra (Adventurers League)_
 
-_Chien sauvage dominant_
+Chien sauvage dominant
 ========================
 
 _\[ Wild Dog Alpha \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 26 (4d10 + 4)  
 **Vitesse** 15 m
 
@@ -5146,23 +5085,23 @@ _**Classe d'armure** 12
 **Langues** —  
 **Puissance** 1 (200 PX)_
 
-_**Odorat et ouïe aiguisés**.  
+**Odorat et ouïe aiguisés**.  
 **Tactique de groupe**.  
 **Bond agressif**.  
 **Saut avec élan**.  
 A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
-_
 
 _Extra (Adventurers League)_
+{: .label .label-red }
 
-_Chimère_
+Chimère
 =========
 
 _\[ Chimera \]_
 
 _Monstruosité de taille G, chaotique mauvais_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 114 (12d10 + 48)  
 **Vitesse** 9 m, vol 18 m
 
@@ -5173,26 +5112,26 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Perception +8  
 **Sens** vision dans le noir 18 m, Perception passive 18  
 **Langues** comprend le draconique mais ne peut pas parler  
-**Puissance** 6 (2300 PX)_
+**Puissance** 6 (2300 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Cornes**. +7, 1,50 m, 1d12+4 contondants  
 A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
 A|**Morsure**. +7, 1,50 m, 2d6+4 perforants  
 A|**Souffle de feu (Recharge 5-6)**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chitineux_
+
+Chitineux
 ===========
 
 _\[ Chitine \]_
 
 _Monstruosité de taille P, typiquement chaotique mauvais_
 
-_**Classe d'armure** 14 (armure de peaux)  
+**Classe d'armure** 14 (armure de peaux)  
 **Points de vie** 18 (4d6 + 4)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -5203,27 +5142,26 @@ _**Classe d'armure** 14 (armure de peaux)
 **Compétences** Athlétisme +4, Discrétion +4  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** commun des profondeurs  
-**Puissance** 1/2 (100 PX) **Bonus de maîtrise** +2_
+**Puissance** 1/2 (100 PX) **Bonus de maîtrise** +2
 
-_Ascendance féerique.  
+Ascendance féerique.  
 Sensibilité au soleil.  
 Sens de la toile.  
 Déplacement sur la toile.  
 Attaques multiples.  
 Dague.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Chitineux legacy_
+Chitineux legacy
 ==================
 
 _\[ Chitine \]_
 
 _Monstruosité de taille P, chaotique mauvais_
 
-_**Classe d'armure** 14 (armure de peaux)  
+**Classe d'armure** 14 (armure de peaux)  
 **Points de vie** 18 (4d6 + 4)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -5234,27 +5172,26 @@ _**Classe d'armure** 14 (armure de peaux)
 **Compétences** Athlétisme +4, Discrétion +4  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** commun des profondeurs  
-**Puissance** 1/2 (100 PX)_
+**Puissance** 1/2 (100 PX)
 
-_**Ascendance féerique**.  
+**Ascendance féerique**.  
 **Sensibilité au soleil**.  
 **Sens de la toile**.  
 **Déplacement sur la toile**.  
 A|**Attaques multiples**.  
 A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Choldrithe_
+Choldrithe
 ============
 
 _\[ Choldrith \]_
 
 _Monstruosité (clerc) de taille M, typiquement chaotique mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 66 (12d8 + 12)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -5265,9 +5202,9 @@ _**Classe d'armure** 15 (armure naturelle)
 **Compétences** Athlétisme +5, Religion +2, Discrétion +5  
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** commun des profondeurs  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_Ascendance féerique.  
+Ascendance féerique.  
 Pattes d'araignée.  
 Sensibilité au soleil.  
 Sens de la toile.  
@@ -5275,19 +5212,18 @@ Déplacement sur la toile.
 Dague.  
 Toile d'araignée (Recharge 5-6).  
 Incantation.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Choldrithe legacy_
+Choldrithe legacy
 ===================
 
 _\[ Choldrith \]_
 
 _Monstruosité de taille M, chaotique mauvais_
 
-_**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 66 (12d8 + 12)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -5298,9 +5234,9 @@ _**Classe d'armure** 15 (armure de cuir clouté)
 **Compétences** Athlétisme +5, Religion +2, Discrétion +5  
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** commun des profondeurs  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Ascendance féerique**.  
+**Ascendance féerique**.  
 **Incantation**.  
 Sorts mineurs (à volonté) : _réparation, résistance, thaumaturgie_  
 Niv 1 (4) : _fléau, mot de guérison, bouclier de la foi_  
@@ -5311,19 +5247,18 @@ Niv 2 (3) : _arme spirituelle_ (dague)
 **Déplacement sur la toile**.  
 A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
 A|**Toile d'araignée (Recharge 5-6)**.  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Chouette_
+Chouette
 ==========
 
 _\[ Owl \]_
 
 _Bête de taille TP, sans alignement_
 
-_**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 1,50 m, vol 18 m
 
@@ -5334,24 +5269,24 @@ _**Classe d'armure** 11
 **Compétences** Discrétion +3, Perception +3  
 **Sens** vision dans le noir 36 m, Perception passive 13  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Repli aérien**.  
+**Repli aérien**.  
 **Ouïe et vue aiguisées**.  
 A|**Serres**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chouette géante_
+
+Chouette géante
 =================
 
 _\[ Giant Owl \]_
 
 _Bête de taille G, neutre_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 19 (3d10 + 3)  
 **Vitesse** 1,50 m, vol 18 m
 
@@ -5362,24 +5297,24 @@ _**Classe d'armure** 12
 **Compétences** Discrétion +4, Perception +5  
 **Sens** vision dans le noir 36 m, Perception passive 15  
 **Langues** Une chouette géante comprend le commun, l'elfique et le sylvestre mais ne peut pas les parler  
-**Puissance** 1/4 (50 PX)_
+**Puissance** 1/4 (50 PX)
 
-_**Repli aérien**.  
+**Repli aérien**.  
 **Ouïe et vue aiguisées**.  
 A|**Serres**. +3, 1,50 m, 2d6+1 tranchants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Chuul_
+
+Chuul
 =======
 
 _\[ Chuul \]_
 
 _Aberration de taille G, chaotique mauvais_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 93 (11d10 + 33)  
 **Vitesse** 9 m, nage 9 m
 
@@ -5392,26 +5327,26 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 18 m, Perception passive 14  
 **Langues** comprend le profond mais ne peut pas parler  
-**Puissance** 4 (1100 PX)_
+**Puissance** 4 (1100 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Détection de la magie**.  
 A|**Attaques multiples**.  
 A|**Pinces**. +6, 3 m, 2d6+4 contondants  
 A|**Tentacules**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Cockatrice_
+
+Cockatrice
 ============
 
 _\[ Cockatrice \]_
 
 _Monstruosité de taille P, sans alignement_
 
-_**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 27 (6d6 + 6)  
 **Vitesse** 6 m, vol 12 m
 
@@ -5421,22 +5356,22 @@ _**Classe d'armure** 11
 
 **Sens** vision dans le noir 18 m, Perception passive 11  
 **Langues** —  
-**Puissance** 1/2 (100 PX)_
+**Puissance** 1/2 (100 PX)
 
-_A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
-_
+A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Colimassue_
+
+Colimassue
 ============
 
 _\[ Flail Snail \]_
 
 _Élémentaire de taille G, sans alignement_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 52 (5d10 + 25)  
 **Vitesse** 3 m
 
@@ -5448,26 +5383,25 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 10  
 **Langues** —  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_Coquille antimagie.  
+Coquille antimagie.  
 Attaques multiples.  
 Massue tentacule.  
 Coquille scintillante (Recharge après un repos court ou long).  
-Coquille protectrice.  
-_
+Coquille protectrice. 
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Colimassue legacy_
+Colimassue legacy
 ===================
 
 _\[ Flail Snail \]_
 
 _Élémentaire de taille G, sans alignement_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 52 (5d10 + 25)  
 **Vitesse** 3 m
 
@@ -5479,27 +5413,26 @@ _**Classe d'armure** 16 (armure naturelle)
 **Immunités** empoisonné  
 **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 10  
 **Langues** —  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_Coquille antimagie.  
+Coquille antimagie.  
 Massue tentacules.  
 Attaques multiples.  
 Massue tentacule.  
 Coquille scintillante (Recharge après un repos court ou long).  
-Coquille protectrice.  
-_
+Coquille protectrice.
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Collecteur de cadavres_
+Collecteur de cadavres
 ========================
 
 _\[ Cadaver Collector \] \[ Collecteur cadavéreux \]_
 
 _Artificiel de taille G, typiquement loyal mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 189 (18d10 + 90)  
 **Vitesse** 9 m
 
@@ -5511,27 +5444,26 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** comprend toutes les langues mais ne peut pas parler  
-**Puissance** 14 (11500 PX) **Bonus de maîtrise** +5_
+**Puissance** 14 (11500 PX) **Bonus de maîtrise** +5
 
-_Résistance à la magie.  
+Résistance à la magie.  
 Nature insolite.  
 Attaques multiples.  
 Coup.  
 Souffle paralysant (Recharge 5–6).  
 Convocation de spectres (Recharge après un repos court ou long).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Collecteur de cadavres legacy_
+Collecteur de cadavres legacy
 ===============================
 
 _\[ Cadaver Collector \]_
 
 _Artificiel de taille G, loyal mauvais_
 
-_**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 189 (18d10 + 90)  
 **Vitesse** 9 m
 
@@ -5543,26 +5475,25 @@ _**Classe d'armure** 17 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** comprend toutes les langues mais ne peut pas parler  
-**Puissance** 14 (11500 PX)_
+**Puissance** 14 (11500 PX)
 
-_Résistance à la magie.  
+Résistance à la magie.  
 Convocation de spectres (Recharge après un repos court ou long).  
 Attaques multiples.  
 Coup.  
 Souffle paralysant (Recharge 5–6).  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Compagnon d'armes (niv 1)_
+Compagnon d'armes (niv 1)
 ===========================
 
 _\[ Warrior (lvl 1) \]_
 
 _Humanoïde (toute race) de taille M, -_
 
-_**Classe d'armure** 16 (chemise de mailles, bouclier)  
+**Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 13 (2d8 + 4)  
 **Vitesse** 9 m
 
@@ -5574,25 +5505,24 @@ _**Classe d'armure** 16 (chemise de mailles, bouclier)
 **Compétences** Athlétisme +4, Perception +3, Survie +3  
 **Sens** Perception passive 13  
 **Langues** commun, plus une de votre choix  
-**Puissance** -_
+**Puissance** -
 
-_**Rôle martial**.  
+**Rôle martial**.  
 A|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
 A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
 R|**Protection (défenseur seulement)**.  
-_
 
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Compagnon d'armes (niv 2)_
+Compagnon d'armes (niv 2)
 ===========================
 
 _\[ Warrior (lvl 2) \]_
 
 _Humanoïde (toute race) de taille M, -_
 
-_**Classe d'armure** 16 (chemise de mailles, bouclier)  
+**Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 19 (3d8 + 6)  
 **Vitesse** 9 m
 
@@ -5604,26 +5534,25 @@ _**Classe d'armure** 16 (chemise de mailles, bouclier)
 **Compétences** Athlétisme +4, Perception +3, Survie +3  
 **Sens** Perception passive 13  
 **Langues** commun, plus une de votre choix  
-**Puissance** -_
+**Puissance** -
 
-_**Rôle martial**.  
+**Rôle martial**.  
 **Second souffle**.  
 A|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
 A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
 R|**Protection (défenseur seulement)**.  
-_
 
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Compagnon d'armes (niv 3)_
+Compagnon d'armes (niv 3)
 ===========================
 
 _\[ Warrior (lvl 3) \]_
 
 _Humanoïde (toute race) de taille M, -_
 
-_**Classe d'armure** 16 (chemise de mailles, bouclier)  
+**Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 26 (4d8 + 8)  
 **Vitesse** 9 m
 
@@ -5635,27 +5564,26 @@ _**Classe d'armure** 16 (chemise de mailles, bouclier)
 **Compétences** Athlétisme +4, Perception +3, Survie +3  
 **Sens** Perception passive 13  
 **Langues** commun, plus une de votre choix  
-**Puissance** -_
+**Puissance** -
 
-_**Rôle martial**.  
+**Rôle martial**.  
 **Second souffle**.  
 **Critique amélioré**.  
 A|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
 A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
 R|**Protection (défenseur seulement)**.  
-_
 
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Compagnon d'armes (niv 4)_
+Compagnon d'armes (niv 4)
 ===========================
 
 _\[ Warrior (lvl 4) \]_
 
 _Humanoïde (toute race) de taille M, -_
 
-_**Classe d'armure** 16 (chemise de mailles, bouclier)  
+**Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 9 m
 
@@ -5667,27 +5595,26 @@ _**Classe d'armure** 16 (chemise de mailles, bouclier)
 **Compétences** Athlétisme +5, Perception +3, Survie +3  
 **Sens** Perception passive 13  
 **Langues** commun, plus une de votre choix  
-**Puissance** -_
+**Puissance** -
 
-_**Rôle martial**.  
+**Rôle martial**.  
 **Second souffle**.  
 **Critique amélioré**.  
 A|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
 A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
 R|**Protection (défenseur seulement)**.  
-_
 
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Compagnon d'armes (niv 5)_
+Compagnon d'armes (niv 5)
 ===========================
 
 _\[ Warrior (lvl 5) \]_
 
 _Humanoïde (toute race) de taille M, -_
 
-_**Classe d'armure** 16 (chemise de mailles, bouclier)  
+**Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 9 m
 
@@ -5699,27 +5626,26 @@ _**Classe d'armure** 16 (chemise de mailles, bouclier)
 **Compétences** Athlétisme +6, Perception +4, Survie +4  
 **Sens** Perception passive 14  
 **Langues** commun, plus une de votre choix  
-**Puissance** -_
+**Puissance** -
 
-_**Rôle martial**.  
+**Rôle martial**.  
 **Second souffle**.  
 **Critique amélioré**.  
 A|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
 A|**Arc long**. +4, 45/180 m, 1d8+1 perforants  
 R|**Protection (défenseur seulement)**.  
-_
 
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Compagnon d'armes (niv 6)_
+Compagnon d'armes (niv 6)
 ===========================
 
 _\[ Warrior (lvl 6) \]_
 
 _Humanoïde (toute race) de taille M, -_
 
-_**Classe d'armure** 16 (chemise de mailles, bouclier)  
+**Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 45 (7d8 + 14)  
 **Vitesse** 9 m
 
@@ -5731,21 +5657,20 @@ _**Classe d'armure** 16 (chemise de mailles, bouclier)
 **Compétences** Athlétisme +6, Perception +4, Survie +4  
 **Sens** Perception passive 14  
 **Langues** commun, plus une de votre choix  
-**Puissance** -_
+**Puissance** -
 
-_**Rôle martial**.  
+**Rôle martial**.  
 **Second souffle**.  
 **Critique amélioré**.  
 **Attaque supplémentaire**.  
 A|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
 A|**Arc long**. +4, 45/180 m, 1d8+1 perforants  
-R|**Protection (défenseur seulement)**.  
-_
+R|**Protection (défenseur seulement)**. 
 
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Compagnon Drake_
+Compagnon Drake
 =================
 
 _\[ Drake Companion \]_
@@ -5764,24 +5689,23 @@ _**Classe d'armure** 14 + BM (armure naturelle)
 **Immunités** déterminés par le trait Essence draconique du drake  
 **Sens** darkvision vision dans le noir 12 m, Perception passive 12  
 **Langues** draconique  
-**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+**Puissance** - **Bonus de maîtrise** égal à votre bonus
 
-_**Essence draconique**.  
+**Essence draconique**.  
 A|**Morsure**.  
 R|**Attaques imprégnées**.  
-_
 
 _Fizban´s Treasury of Dragons_
 {: .label .label-red }
 
-_Consul de fer_
+Consul de fer
 ===============
 
 _\[ Iron Consul \]_
 
 _Humanoïde (humain) de taille M, loyal mauvais_
 
-_**Classe d'armure** 16 (cotte de mailles)  
+**Classe d'armure** 16 (cotte de mailles)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m
 
@@ -5794,24 +5718,25 @@ _**Classe d'armure** 16 (cotte de mailles)
 **Immunités** effrayé  
 **Sens** Perception passive 14  
 **Langues** commun  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Discipline tactique**.  
+**Discipline tactique**.  
 A|**Attaques multiples**.  
 A|**Lance**. +5, 1,50 m ou 6/18 m, 1d6+3 perforants  
-A|**Voix autoritaire**.  
-_
+A|**Voix autoritaire**.
 
 _Adventures (Descent into Avernus)_
+{: .label .label-red }
+{: .label .label-red }
 
-_Corbeau_
+Corbeau
 =========
 
 _\[ Raven \]_
 
 _Bête de taille TP, sans alignement_
 
-_**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 3 m, vol 15 m
 
@@ -5822,23 +5747,23 @@ _**Classe d'armure** 12
 **Compétences** Perception +3  
 **Sens** Perception passive 13  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Imitation**.  
+**Imitation**.  
 A|**Bec**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Couatl_
+
+Couatl
 ========
 
 _\[ Couatl \]_
 
 _Céleste de taille M, loyal bon_
 
-_**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 97 (13d8 + 39)  
 **Vitesse** 9 m, vol 27 m
 
@@ -5851,9 +5776,9 @@ _**Classe d'armure** 19 (armure naturelle)
 **Immunités** psychique ; contondant, perforant et tranchant d'attaques non magiques  
 **Sens** vision véritable 36 m, Perception passive 15  
 **Langues** toutes, télépathie 36 m  
-**Puissance** 4 (1100 PX)_
+**Puissance** 4 (1100 PX)
 
-_**Incantation innée**.  
+**Incantation innée**.  
 À volonté : _détection du mal et du bien, détection de la magie, détection des pensées_  
 3/jour chacun : _bénédiction, création de nourriture et d'eau, soins_  
 1/jour chacun : _restauration supérieure, songe_  
@@ -5861,20 +5786,20 @@ _**Incantation innée**.
 **Esprit fortifié**.  
 A|**Morsure**. +8, 1,50 m, 1d6+5 perforants  
 A|**Constriction**. +6, 3 m, 2d6+3 contondants  
-A|**Changement de forme**.  
-_
+A|**Changement de forme**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Coursier géant_
+
+Coursier géant
 ================
 
 _\[ Giant Strider \] \[ Coursier des brasiers \]_
 
 _Élémentaire de taille G, sans alignement_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 22 (3d10 + 6)  
 **Vitesse** 15 m
 
@@ -5885,24 +5810,23 @@ _**Classe d'armure** 14 (armure naturelle)
 **Immunités** feu  
 **Sens** Perception passive 11  
 **Langues** —  
-**Puissance** 1 (200 PX) **Bonus de maîtrise** +2_
+**Puissance** 1 (200 PX) **Bonus de maîtrise** +2
 
-_Absorption du feu.  
+Absorption du feu.  
 Morsure.  
 Explosion de feu (Recharge 5-6).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Coursier géant legacy_
+Coursier géant legacy
 =======================
 
 _\[ Giant Strider \]_
 
 _Monstruosité de taille G, neutre mauvais_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 22 (3d10 + 6)  
 **Vitesse** 15 m
 
@@ -5913,24 +5837,23 @@ _**Classe d'armure** 14 (armure naturelle)
 **Immunités** feu  
 **Sens** Perception passive 11  
 **Langues** —  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_**Absorption du feu**.  
+**Absorption du feu**.  
 A|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
 A|**Explosion de feu (Recharge 5-6)**.  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Crabe_
+Crabe
 =======
 
 _\[ Crab \]_
 
 _Bête de taille TP, sans alignement_
 
-_**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 2 (1d4)  
 **Vitesse** 6 m, nage 6 m
 
@@ -5941,23 +5864,23 @@ _**Classe d'armure** 11 (armure naturelle)
 **Compétences** Discrétion +2  
 **Sens** vision aveugle 9 m, Perception passive 9  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Pinces**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Crabe des cavernes_
+
+Crabe des cavernes
 ====================
 
 _\[ Cave Fisher \]_
 
 _Monstruosité de taille M, sans alignement_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 58 (9d8 + 18)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -5968,28 +5891,27 @@ _**Classe d'armure** 16 (armure naturelle)
 **Compétences** Perception +2, Discrétion +5  
 **Sens** vision aveugle 18 m, Perception passive 12  
 **Langues** —  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_Filament collant.  
+Filament collant.  
 Sang inflammable.  
 Pattes d'araignée.  
 Attaques multiples.  
 Griffes.  
 Filament rétractible.  
 Filament collant.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Crabe des cavernes legacy_
+Crabe des cavernes legacy
 ===========================
 
 _\[ Cave Fisher \]_
 
 _Monstruosité de taille M, sans alignement_
 
-_**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 58 (9d8 + 18)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -6000,27 +5922,26 @@ _**Classe d'armure** 16 (armure naturelle)
 **Compétences** Perception +2, Discrétion +5  
 **Sens** vision aveugle 18 m, Perception passive 12  
 **Langues** —  
-**Puissance** 3 (700 PX)_
+**Puissance** 3 (700 PX)
 
-_**Filament collant**.  
+**Filament collant**.  
 **Sang inflammable**.  
 **Pattes d'araignée**.  
 A|**Attaques multiples**.  
 A|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
 A|**Filament**.  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Crabe géant_
+Crabe géant
 =============
 
 _\[ Giant Crab \]_
 
 _Bête de taille M, sans alignement_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 13 (3d8)  
 **Vitesse** 9 m, nage 9 m
 
@@ -6031,23 +5952,23 @@ _**Classe d'armure** 15 (armure naturelle)
 **Compétences** Discrétion +4  
 **Sens** vision aveugle 9 m, Perception passive 9  
 **Langues** —  
-**Puissance** 1/8 (25 PX)_
+**Puissance** 1/8 (25 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 A|**Pinces**. +3, 1,50 m, 1d6+1 contondants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Crâne de Bhaal_
+
+Crâne de Bhaal
 ================
 
 _\[ Death's Head of Bhaal \]_
 
 _Humanoïde (humain) de taille M, chaotique mauvais_
 
-_**Classe d'armure** 15  
+**Classe d'armure** 15  
 **Points de vie** 76 (8d8 + 40)  
 **Vitesse** 15 m
 
@@ -6058,26 +5979,27 @@ _**Classe d'armure** 15
 **Compétences** Intimidation +6, Perception +4, Persuasion +6, Discrétion +11  
 **Sens** vision dans le noir 18 m, Perception passive 14  
 **Langues** commun  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_**Aura de meurtre**.  
+**Aura de meurtre**.  
 **Résistance à la magie**.  
 A|**Attaques multiples**.  
 A|**Dague**. +7, 1,50 m ou 6/18 m, 1d4+5 perforants  
 A|**Regard étourdissant**.  
 R|**Inarrêtable (3/jour)**.  
-_
 
 _Adventures (Descent into Avernus)_
+{: .label .label-red }
+{: .label .label-red }
 
-_Crânefeu_
+Crânefeu
 ==========
 
 _\[ Flameskull \]_
 
 _Mort-vivant de taille TP, neutre mauvais_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 40 (9d4 + 18)  
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
@@ -6091,9 +6013,9 @@ _**Classe d'armure** 13
 **Immunités** à terre, charmé, empoisonné, paralysé, effrayé  
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** commun  
-**Puissance** 4 (1100 PX)_
+**Puissance** 4 (1100 PX)
 
-_**Illumination**.  
+**Illumination**.  
 **Résistance à la magie**.  
 **Reconstitution**.  
 **Incantation**.  
@@ -6102,19 +6024,19 @@ Niv 1 (3 de sorts) : _projectile magique_
 Niv 2 (2 de sorts) : _sphère de feu_  
 Niv 3 (1 de sort) : _boule de feu_  
 A|**Attaques multiples**.  
-A|**Rayon de feu**. +5, 9 m, 3d6 feu  
-_
+A|**Rayon de feu**. +5, 9 m, 3d6 feu 
 
 _Monster Manual (BR)_
+{: .label .label-red }
 
-_Crapaud géant_
+Crapaud géant
 ===============
 
 _\[ Giant Toad \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 39 (6d10 + 6)  
 **Vitesse** 6 m, nage 12 m
 
@@ -6124,25 +6046,25 @@ _**Classe d'armure** 11
 
 **Sens** vision dans le noir 9 m, Perception passive 10  
 **Langues** —  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_**Amphibien**.  
+**Amphibien**.  
 **Saut sans élan**.  
 A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 A|**Engloutissement**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Criard_
+
+Criard
 ========
 
 _\[ Shrieker \]_
 
 _Plante de taille M, sans alignement_
 
-_**Classe d'armure** 5  
+**Classe d'armure** 5  
 **Points de vie** 13 (3d8)  
 **Vitesse** 0 m
 
@@ -6153,23 +6075,23 @@ _**Classe d'armure** 5
 **Immunités** aveuglé, assourdi, effrayé  
 **Sens** vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 6  
 **Langues** —  
-**Puissance** 0 (10 PX)_
+**Puissance** 0 (10 PX)
 
-_**Apparence trompeuse**.  
+**Apparence trompeuse**.  
 R|**Hurlement**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Crocodile_
+
+Crocodile
 ===========
 
 _\[ Crocodile \]_
 
 _Bête de taille G, sans alignement_
 
-_**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 19 (3d10 + 3)  
 **Vitesse** 6 m, nage 9 m
 
@@ -6180,23 +6102,23 @@ _**Classe d'armure** 12 (armure naturelle)
 **Compétences** Discrétion +2  
 **Sens** Perception passive 10  
 **Langues** —  
-**Puissance** 1/2 (100 PX)_
+**Puissance** 1/2 (100 PX)
 
-_**Apnée**.  
+**Apnée**.  
 A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Crocodile géant_
+
+Crocodile géant
 =================
 
 _\[ Giant Crocodile \]_
 
 _Bête de taille TG, sans alignement_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 85 (9d12 + 27)  
 **Vitesse** 9 m, nage 15 m
 
@@ -6207,25 +6129,25 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Discrétion +5  
 **Sens** Perception passive 10  
 **Langues** —  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_**Apnée**.  
+**Apnée**.  
 A|**Attaques multiples**.  
 A|**Morsure**. +8, 1,50 m, 3d10+5 perforants  
 A|**Queue**. +8, 3 m, 2d8+5 contondants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Crokek'toeck_
+
+Crokek'toeck
 ==============
 
 _\[ Crokek'toeck \]_
 
 _Fiélon (démon) de taille Gig, chaotique mauvais_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 297 (17d20 + 119)  
 **Vitesse** 18 m, nage 18 m
 
@@ -6239,27 +6161,27 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 10  
 **Langues** comprend l'abyssal mais ne peut pas parler  
-**Puissance** 14 (11500 PX)_
+**Puissance** 14 (11500 PX)
 
-_Amphibie.  
+Amphibie.  
 Résistance à la magie.  
 Armes magiques.  
 Préservation des souvenirs.  
 Saut sans élan.  
 Morsure.  
 Régurgitation d'alliés (Recharge 6).  
-_
 
 _Adventures (Descent into Avernus)_
+{: .label .label-red }
 
-_Cube gélatineux_
+Cube gélatineux
 =================
 
 _\[ Gelatinous Cube \]_
 
 _Vase de taille G, sans alignement_
 
-_**Classe d'armure** 6  
+**Classe d'armure** 6  
 **Points de vie** 84 (8d10 + 40)  
 **Vitesse** 4,50 m
 
@@ -6270,25 +6192,25 @@ _**Classe d'armure** 6
 **Immunités** assourdi, à terre, aveuglé, charmé, effrayé, épuisement  
 **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8  
 **Langues** —  
-**Puissance** 2 (450 PX)_
+**Puissance** 2 (450 PX)
 
-_**Vase cubique**.  
+**Vase cubique**.  
 **Transparent**.  
 A|**Pseudopode**. +4, 1,50 m, 3d6 acide  
 A|**Engloutissement**.  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Cuirassier astral_
+
+Cuirassier astral
 ===================
 
 _\[ Astral Dreadnought \]_
 
 _Monstruosité (titan) de taille Gig, sans alignement_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 297 (17d20 + 119)  
 **Vitesse** 4,50 m, vol 24 m (stationnaire)
 
@@ -6302,9 +6224,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné, à terre, étourdi  
 **Sens** vision dans le noir 36 m, Perception passive 19  
 **Langues** —  
-**Puissance** 21 (33000 PX) **Bonus de maîtrise** +7_
+**Puissance** 21 (33000 PX) **Bonus de maîtrise** +7
 
-_Cône d'antimagie.  
+Cône d'antimagie.  
 Entité astrale.  
 Donjon demi-planaire.  
 Résistance légendaire (3/jour).  
@@ -6316,19 +6238,18 @@ Griffes.
 Griffes.  
 Visite du Donjon (coûte 2 actions).  
 Projection psychique (coûte 3 actions).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Cuirassier astral legacy_
+Cuirassier astral legacy
 ==========================
 
 _\[ Astral Dreadnought \]_
 
 _Monstruosité (titan) de taille Gig, sans alignement_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 297 (17d20 + 119)  
 **Vitesse** 4,50 m, vol 24 m (stationnaire)
 
@@ -6342,9 +6263,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné, à terre, étourdi  
 **Sens** vision dans le noir 36 m, Perception passive 19  
 **Langues** —  
-**Puissance** 21 (33000 PX)_
+**Puissance** 21 (33000 PX)
 
-_**Cône d'antimagie**.  
+**Cône d'antimagie**.  
 **Entité astrale**.  
 **Donjon demi-planaire**.  
 **Résistance légendaire (3/jour)**.  
@@ -6355,20 +6276,19 @@ A|**Morsure**. +16, 3 m, 5d10+9 perforants
 A|**Griffes**. +16, 6 m, 3d6+9 tranchants  
 L|**Griffes**.  
 L|**Visite du Donjon (coûte 2 actions)**.  
-L|**Projection psychique (coûte 3 actions)**.  
-_
+L|**Projection psychique (coûte 3 actions)**.
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Cultiste_
+Cultiste
 ==========
 
 _\[ Cultist \] \[ Membre de secte \]_
 
 _Humanoïde (toute race) de taille M, tout alignement non bon_
 
-_**Classe d'armure** 12 (armure de cuir)  
+**Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 9 (2d8)  
 **Vitesse** 9 m
 
@@ -6379,23 +6299,23 @@ _**Classe d'armure** 12 (armure de cuir)
 **Compétences** Religion +2, Tromperie +2  
 **Sens** Perception passive 10  
 **Langues** une langue au choix (généralement le commun)  
-**Puissance** 1/8 (25 PX)_
+**Puissance** 1/8 (25 PX)
 
-_**Sombre dévotion**.  
+**Sombre dévotion**.  
 A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
-_
 
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Cyclope_
+
+Cyclope
 =========
 
 _\[ Cyclops \]_
 
 _Géant de taille TG, chaotique neutre_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 138 (12d12 + 60)  
 **Vitesse** 9 m
 
@@ -6405,24 +6325,24 @@ _**Classe d'armure** 14 (armure naturelle)
 
 **Sens** Perception passive 8  
 **Langues** géant  
-**Puissance** 6 (2300 PX)_
+**Puissance** 6 (2300 PX)
 
-_**Faible perception du relief**.  
+**Faible perception du relief**.  
 A|**Attaques multiples**.  
 A|**Massue**. +9, 3 m, 3d8+6 contondants  
 A|**Rocher**. +9, 9/36 m, 4d10+6 contondants  
-_
 
 _Monster Manual (BR)_
+{: .label .label-red }
 
-_Dao_
+Dao
 =====
 
 _\[ Dao \]_
 
 _Élémentaire de taille G, neutre mauvais_
 
-_**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 187 (15d10 + 105)  
 **Vitesse** 9 m, creusement 9 m, vol 9 m
 
@@ -6434,9 +6354,9 @@ _**Classe d'armure** 18 (armure naturelle)
 **Immunités** pétrifié  
 **Sens** vision dans le noir 36 m, Perception passive 11  
 **Langues** terreux  
-**Puissance** 11 (7200 PX)_
+**Puissance** 11 (7200 PX)
 
-_**Disparition élémentaire**.  
+**Disparition élémentaire**.  
 **Incantation innée**.  
 À volonté : _détection de la magie, détection du mal et du bien, façonnage de la pierre_  
 3/jour : _terraformage_  
@@ -6445,19 +6365,19 @@ _**Disparition élémentaire**.
 **Pieds sûrs**.  
 A|**Attaques multiples**.  
 A|**Poing**. +10, 1,50 m, 2d8+6 contondants  
-A|**Maillet**. +10, 1,50 m, 4d6+6 contondants  
-_
+A|**Maillet**. +10, 1,50 m, 4d6+6 contondants 
 
 _Monster Manual (BR+)_
+{: .label .label-red }
 
-_Dauphin_
+Dauphin
 =========
 
 _\[ Dolphin \]_
 
 _Bête de taille M, sans alignement_
 
-_**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 0 m, nage 18 m
 
@@ -6468,23 +6388,22 @@ _**Classe d'armure** 12 (armure naturelle)
 **Compétences** Perception +3  
 **Sens** vision aveugle 18 m, Perception passive 13  
 **Langues** —  
-**Puissance** 1/8 (25 PX) **Bonus de maîtrise** +2_
+**Puissance** 1/8 (25 PX) **Bonus de maîtrise** +2
 
-_Apnée.  
+Apnée.  
 Coup.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Dauphin enchanteur_
+_Dauphin enchanteur
 ====================
 
 _\[ Dolphin Delighter \]_
 
 _Fée de taille M, typiquement chaotique bon_
 
-_**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 0 m, nage 18 m
 
@@ -6496,26 +6415,25 @@ _**Classe d'armure** 14 (armure naturelle)
 **Compétences** Perception +3, Représentation +5  
 **Sens** vision aveugle 18 m, Perception passive 13  
 **Langues** aquatique, télépathie 36 m  
-**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
+**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 
-_Apnée.  
+Apnée.  
 Attaques multiples.  
 Coup éblouissant.  
 Lumière enchanteuse (Recharge 5–6).  
 Saut féerique.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Dauphin legacy_
+Dauphin legacy
 ================
 
 _\[ Dolphin \]_
 
 _Bête de taille M, sans alignement_
 
-_**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 0 m, nage 18 m
 
@@ -6526,24 +6444,23 @@ _**Classe d'armure** 12 (armure naturelle)
 **Compétences** Perception +3  
 **Sens** vision aveugle 18 m, Perception passive 13  
 **Langues** —  
-**Puissance** 1/8 (25 PX)_
+**Puissance** 1/8 (25 PX)
 
-_**Charge**.  
+**Charge**.  
 **Apnée**.  
 A|**Coup**. +4, 1,50 m, 1d6+2 contondants  
-_
 
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Défenseur d'acier_
+Défenseur d'acier
 ===================
 
 _\[ Steel Defender \]_
 
 _Artificiel de taille M, -_
 
-_**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 2 + votre modificateur d'Intelligence + cinq fois votre niveau d'artificier (le défenseur a un nombre de Dés de vie \[d8\] égal à votre niveau d'artificier)  
 **Vitesse** 12 m
 
@@ -6557,24 +6474,25 @@ _**Classe d'armure** 15 (armure naturelle)
 **Immunités** charmé, empoisonné, épuisement  
 **Sens** vision dans le noir 18 m, Perception passive 10 + (BM x 2)  
 **Langues** comprend les langues que vous parlez  
-**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+**Puissance** - **Bonus de maîtrise** égal à votre bonus
 
-_**Vigilant**.  
+**Vigilant**.  
 A|**Morsure de force**.  
 A|**Réparation (3/jour)**.  
 R|**Parade d'attaque**.  
-_
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
+{: .label .label-red }
 
-_Demi-dragon rouge, vétéran_
+Demi-dragon rouge, vétéran
 ============================
 
 _\[ Half-Red Dragon Veteran \]_
 
 _Humanoïde (humain) de taille M, tout alignement_
 
-_**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 65 (10d8 + 20)  
 **Vitesse** 9 m
 
@@ -6586,25 +6504,25 @@ _**Classe d'armure** 18 (harnois)
 **Résistances** feu  
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 12  
 **Langues** commun, draconique  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_A|**Attaques multiples**.  
+A|**Attaques multiples**.  
 A|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
 A|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
 A|**Arbalète lourde**. +3, 30/120 m, 1d10+1 perforants  
-A|**Souffle de feu (Recharge 5-6)**.  
-_
+A|**Souffle de feu (Recharge 5-6)**.
 
 _Monster Manual (BR+)_
+{: .label .label-red }
 
-_Demi-liche_
+Demi-liche
 ============
 
 _\[ Demilich \]_
 
 _Mort-vivant de taille TP, neutre mauvais_
 
-_**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 80 (32d4)  
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
@@ -6618,9 +6536,9 @@ _**Classe d'armure** 20 (armure naturelle)
 **Immunités** charmé, assourdi, épuisement, effrayé, paralysé, pétrifié, empoisonné, à terre, étourdi  
 **Sens** vision véritable 36 m, Perception passive 13  
 **Langues** —  
-**Puissance** 18 (20000 PX)_
+**Puissance** 18 (20000 PX)
 
-_**Esquive totale**.  
+**Esquive totale**.  
 **Résistance légendaire (3/jour)**.  
 **Immunité au renvoi**.  
 A|**Hurlement (Recharge 5-6)**.  
@@ -6628,20 +6546,19 @@ A|**Absorption de vie**.
 L|**Envolée**.  
 L|**Nuage de poussière**.  
 L|**Absorption d'énergie (coûte 2 actions)**.  
-L|**Infâme malédiction (coûte 3 actions)**.  
-_
+L|**Infâme malédiction (coûte 3 actions)**.
 
 _Monster Manual_
 {: .label .label-red }
 
-_Demi-ogre_
+Demi-ogre
 ===========
 
 _\[ Half-Ogre \]_
 
 _Géant de taille G, tout alignement chaotique_
 
-_**Classe d'armure** 12 (armure de peaux)  
+**Classe d'armure** 12 (armure de peaux)  
 **Points de vie** 30 (4d10 + 8)  
 **Vitesse** 9 m
 
@@ -6651,22 +6568,21 @@ _**Classe d'armure** 12 (armure de peaux)
 
 **Sens** vision dans le noir 18 m, Perception passive 9  
 **Langues** commun, géant  
-**Puissance** 1 (200 PX)_
+**Puissance** 1 (200 PX)
 
-_A|**Hache d'armes**. +5, 1,50 m, 2d8+3 tranchants  
+A|**Hache d'armes**. +5, 1,50 m, 2d8+3 tranchants  
 A|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants  
-_
 
 _Monster Manual (BR+)_
 
-_Démogorgon_
+Démogorgon
 ============
 
 _\[ Demogorgon \]_
 
 _Fiélon (démon) de taille TG, chaotique mauvais_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 464 (32d12 + 256)  
 **Vitesse** 15 m, nage 15 m
 
@@ -6681,9 +6597,9 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé, empoisonné  
 **Sens** vision véritable 36 m, Perception passive 29  
 **Langues** toutes, télépathie 36 m  
-**Puissance** 26 (90000 PX) **Bonus de maîtrise** +8_
+**Puissance** 26 (90000 PX) **Bonus de maîtrise** +8
 
-_Résistance légendaire (3/jour).  
+Résistance légendaire (3/jour).  
 Résistance à la magie.  
 Deux têtes.  
 Attaques multiples.  
@@ -6693,19 +6609,18 @@ Incantation.
 Queue.  
 Regard qui rend fou.  
 Sort (coûte 2 actions).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Démogorgon legacy_
+Démogorgon legacy
 ===================
 
 _\[ Demogorgon \]_
 
 _Fiélon (démon) de taille TG, chaotique mauvais_
 
-_**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 406 (28d12 + 224)  
 **Vitesse** 15 m, nage 15 m
 
@@ -6720,9 +6635,9 @@ _**Classe d'armure** 22 (armure naturelle)
 **Immunités** charmé, épuisement, effrayé, empoisonné  
 **Sens** vision véritable 36 m, Perception passive 29  
 **Langues** toutes, télépathie 36 m  
-**Puissance** 26 (90000 PX)_
+**Puissance** 26 (90000 PX)
 
-_**Incantation innée**.  
+**Incantation innée**.  
 À volonté : _détection de la magie, image majeure_  
 3/jour chacun : _télékinésie_  
 1/jour chacun : _projection d'image_  
@@ -6737,20 +6652,19 @@ A|**1- Regard séduisant**.
 A|**2- Regard hypnotique**.  
 A|**3- Regard dément**.  
 L|**Queue**. +17, 4,50 m, 2d10+9 contondants  
-L|**Regard qui rend fou**.  
-_
+L|**Regard qui rend fou**. 
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Démon des ombres_
+Démon des ombres
 ==================
 
 _\[ Shadow Demon \]_
 
 _Fiélon (démon) de taille M, chaotique mauvais_
 
-_**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 66 (12d8 + 12)  
 **Vitesse** 9 m, vol 9 m
 
@@ -6766,15 +6680,15 @@ _**Classe d'armure** 13
 **Immunités** épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé  
 **Sens** vision dans le noir 36 m, Perception passive 11  
 **Langues** abyssal, télépathie 36 m  
-**Puissance** 4 (1100 PX)_
+**Puissance** 4 (1100 PX)
 
-_**Déplacement intangible**.  
+**Déplacement intangible**.  
 **Sensibilité à la lumière**.  
 **Discrétion dans les ombres**.  
 A|**Griffes**. +5, 1,50 m, 2d6+3 psychiques  
-_
 
 _Monster Manual (BR+)_
+{: .label .label-red }
 
 Derro
 =======
@@ -6949,6 +6863,7 @@ A|**Galop éthéré**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Déva
 ======
 
@@ -6984,6 +6899,7 @@ A|**Changement de forme**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dévastateur gris
 ==================
@@ -7273,6 +7189,7 @@ R|**Masque déstabilisant**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Diable barbelé
 ================
 
@@ -7308,6 +7225,7 @@ A|**Jet de flammes**. +5, 45 m, 3d6 feu
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Diable barbu
 ==============
 
@@ -7341,6 +7259,7 @@ A|**Coutille**. +5, 3 m, 1d10+3 tranchants
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Diable cornu
 ==============
 
@@ -7373,6 +7292,7 @@ A|**Jet de flammes**. +7, 45 m, 4d6 feu
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Diable épineux
 ================
@@ -7442,6 +7362,7 @@ A|**Mur de glace (Recharge 6)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Diable osseux
 ===============
 
@@ -7475,6 +7396,7 @@ A|**Dard**. +8, 3 m, 2d8+4 perforants
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Diablotin
 ===========
 
@@ -7506,6 +7428,7 @@ A|**Invisibilité**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Diantrefosse
 ==============
@@ -7545,6 +7468,7 @@ A|**Queue**. +14, 3 m, 3d10+8 contondants
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Djinn
 =======
 
@@ -7578,6 +7502,7 @@ A|**Création de tourbillon**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Doppelganger
 ==============
 
@@ -7608,6 +7533,7 @@ A|**Lecture des pensées**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dracohydre
 ============
@@ -7961,6 +7887,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon blanc, ancien
 ======================
 
@@ -7998,6 +7925,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon blanc, dragonnet
 =========================
 
@@ -8025,6 +7953,7 @@ A|**Souffle de froid (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon blanc, jeune
 =====================
@@ -8056,6 +7985,7 @@ A|**Souffle de froid (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon bleu, adulte
 =====================
@@ -8093,6 +8023,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon bleu, ancien
 =====================
 
@@ -8129,6 +8060,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon bleu, dragonnet
 ========================
 
@@ -8156,6 +8088,7 @@ A|**Souffle de foudre (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon bleu, jeune
 ====================
@@ -8186,6 +8119,7 @@ A|**Souffle de foudre (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon-cave
 =============
@@ -8263,6 +8197,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon d'airain, ancien
 =========================
 
@@ -8302,6 +8237,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon d'airain, dragonnet
 ============================
 
@@ -8331,6 +8267,7 @@ A|**Souffle de sommeil**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon d'airain, jeune
 ========================
@@ -8363,6 +8300,7 @@ A|**Souffle de sommeil**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon d'améthyste, adulte
 ============================
@@ -8546,6 +8484,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon d'argent, ancien
 =========================
 
@@ -8585,6 +8524,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon d'argent, dragonnet
 ============================
 
@@ -8614,6 +8554,7 @@ A|**Souffle paralysant**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon d'argent, jeune
 ========================
@@ -8646,6 +8587,7 @@ A|**Souffle paralysant**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon d'émeraude, adulte
 ===========================
@@ -8863,6 +8805,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon d'or, ancien
 =====================
 
@@ -8903,6 +8846,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon d'or, dragonnet
 ========================
 
@@ -8933,6 +8877,7 @@ A|**Souffle affaiblissant**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon d'or, jeune
 ====================
@@ -8966,6 +8911,7 @@ A|**Souffle affaiblissant**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon de bronze, adulte
 ==========================
@@ -9007,6 +8953,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon de bronze, ancien
 ==========================
 
@@ -9047,6 +8994,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon de bronze, dragonnet
 =============================
 
@@ -9077,6 +9025,7 @@ A|**Souffle répulsif**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon de bronze, jeune
 =========================
@@ -9110,6 +9059,7 @@ A|**Souffle répulsif**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon de cristal, adulte
 ===========================
@@ -9286,6 +9236,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon de cuivre, ancien
 ==========================
 
@@ -9325,6 +9276,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon de cuivre, dragonnet
 =============================
 
@@ -9354,6 +9306,7 @@ A|**Souffle de ralentissement**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon de cuivre, jeune
 =========================
@@ -9386,6 +9339,7 @@ A|**Souffle de ralentissement**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon de saphir, adulte
 ==========================
@@ -9922,6 +9876,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon noir, ancien
 =====================
 
@@ -9959,6 +9914,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon noir, dragonnet
 ========================
 
@@ -9987,6 +9943,7 @@ A|**Souffle d'acide (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon noir, jeune
 ====================
@@ -10018,6 +9975,7 @@ A|**Souffle d'acide (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon pierre-de-lune, adulte
 ===============================
@@ -10188,6 +10146,7 @@ L|**Attaque Ailée (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon rouge, ancien
 ======================
 
@@ -10224,6 +10183,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon rouge, dragonnet
 =========================
 
@@ -10251,6 +10211,7 @@ A|**Souffle de feu (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon rouge, jeune
 =====================
@@ -10282,6 +10243,7 @@ A|**Souffle de feu (Recharge 5-6)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon-tortue
 ===============
 
@@ -10312,6 +10274,7 @@ A|**Souffle de vapeur (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon-tortue, ancien
 =======================
@@ -10426,6 +10389,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon vert, ancien
 =====================
 
@@ -10464,6 +10428,7 @@ L|**Attaque avec les ailes (coûte 2 actions)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Dragon vert, dragonnet
 ========================
 
@@ -10493,6 +10458,7 @@ A|**Souffle empoisonné (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragon vert, jeune
 ====================
@@ -10525,6 +10491,7 @@ A|**Souffle empoisonné (Recharge 5-6)**.
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 Dragonnel
 ===========
@@ -10755,6 +10722,7 @@ A|**Nuage fétide (1/jour)**.
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Drider
 ========
 
@@ -10790,6 +10758,7 @@ A|**Arc long**. +6, 45/180 m, 1d8+3 perforants
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 Drow
 ======
 
@@ -10821,14 +10790,15 @@ A|**Arbalète de poing**. +4, 9/36 m, 1d6+2 perforants
 _Monster Manual (SRD)_
 {: .label .label-red }
 
-_Drow, arachnomancien_
+
+Drow, arachnomancien
 ======================
 
 _\[ Drow Arachnomancer \]_
 
 _Humanoïde (elfe) de taille M, typiquement chaotique mauvais_
 
-_**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 162 (25d8 + 50)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -10841,9 +10811,9 @@ _**Classe d'armure** 15 (armure de cuir clouté)
 **Résistances** poison  
 **Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 17  
 **Langues** elfique, commun des profondeurs, peut parler avec les araignées  
-**Puissance** 13 (10000 PX) **Bonus de maîtrise** +5_
+**Puissance** 13 (10000 PX) **Bonus de maîtrise** +5
 
-_Ascendance féerique.  
+Ascendance féerique.  
 Pattes d'araignée.  
 Sensibilité au soleil.  
 Déplacement sur la toile.  
@@ -10853,19 +10823,19 @@ Contact empoisonné (forme humanoïde uniquement).
 Toile d'araignée (forme d'araignée uniquement ; Recharge 5–6).  
 Incantation.  
 Métamorphe (Recharge après un repos court ou long).  
-_
+
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Drow, arachnomancien legacy_
+Drow, arachnomancien legacy
 =============================
 
 _\[ Drow Arachnomancer \]_
 
 _Humanoïde (elfe) de taille M, neutre mauvais_
 
-_**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 162 (25d8 + 50)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -10878,9 +10848,9 @@ _**Classe d'armure** 15 (armure de cuir clouté)
 **Résistances** poison  
 **Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 17  
 **Langues** elfique, commun des profondeurs, peut parler avec les araignées  
-**Puissance** 13 (10000 PX)_
+**Puissance** 13 (10000 PX)
 
-_Métamorphe (Recharge après un repos court ou long).  
+Métamorphe (Recharge après un repos court ou long).  
 Ascendance féerique.  
 Incantation innée.  
 Incantation.  
@@ -10891,19 +10861,19 @@ Attaques multiples.
 Contact empoisonné (forme humanoïde uniquement).  
 Morsure (forme d'araignée uniquement).  
 Toile d'araignée (forme d'araignée uniquement ; Recharge 5–6).  
-_
+
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Drow, capitaine de maison_
+Drow, capitaine de maison
 ===========================
 
 _\[ Drow House Captain \]_
 
 _Humanoïde (elfe) de taille M, tout alignement_
 
-_**Classe d'armure** 16 (cotte de mailles)  
+**Classe d'armure** 16 (cotte de mailles)  
 **Points de vie** 162 (25d8 + 50)  
 **Vitesse** 9 m
 
@@ -10915,9 +10885,9 @@ _**Classe d'armure** 16 (cotte de mailles)
 **Compétences** Perception +6, Discrétion +8  
 **Sens** vision dans le noir 36 m, Perception passive 16  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 9 (5000 PX) **Bonus de maîtrise** +4_
+**Puissance** 9 (5000 PX) **Bonus de maîtrise** +4
 
-_Ordre pendant la bataille.  
+Ordre pendant la bataille.  
 Ascendance féerique.  
 Sensibilité au soleil.  
 Attaques multiples.  
@@ -10927,19 +10897,18 @@ Arbalète de poing.
 Incantation.  
 Ordre de bataille.  
 Parade.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Drow, capitaine de maison legacy_
+Drow, capitaine de maison legacy
 ==================================
 
 _\[ Drow House Captain \]_
 
 _Humanoïde (elfe) de taille M, neutre mauvais_
 
-_**Classe d'armure** 16 (cotte de mailles)  
+**Classe d'armure** 16 (cotte de mailles)  
 **Points de vie** 162 (25d8 + 50)  
 **Vitesse** 9 m
 
@@ -10951,9 +10920,9 @@ _**Classe d'armure** 16 (cotte de mailles)
 **Compétences** Perception +6, Discrétion +8  
 **Sens** vision dans le noir 36 m, Perception passive 16  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 9 (5000 PX)_
+**Puissance** 9 (5000 PX)
 
-_**Ordre de bataille**.  
+**Ordre de bataille**.  
 **Ascendance féerique**.  
 **Incantation innée**.  
 À volonté : _lumières dansantes_  
@@ -10964,19 +10933,18 @@ A|**Cimeterre**. +8, 1,50 m, 1d6+4 tranchants
 A|**Fouet**. +8, 3 m, 1d4+4 tranchants  
 A|**Arbalète de poing**. +8, 9/36 m, 1d6+4 perforants  
 R|**Parade**.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Drow, consort favori_
+Drow, consort favori
 ======================
 
 _\[ Drow Favored Consort \]_
 
 _Humanoïde (elfe, magicien) de taille M, tout alignement_
 
-_**Classe d'armure** 15  
+**Classe d'armure** 15  
 **Points de vie** 240 (32d8 + 96)  
 **Vitesse** 9 m
 
@@ -10988,28 +10956,27 @@ _**Classe d'armure** 15
 **Compétences** Acrobaties + 11, Athlétisme +8, Perception +8, Discrétion +11  
 **Sens** vision dans le noir 36 m, Perception passive 18  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 18 (20000 PX) **Bonus de maîtrise** +6_
+**Puissance** 18 (20000 PX) **Bonus de maîtrise** +6
 
-_Ascendance féerique.  
+Ascendance féerique.  
 Sensibilité au soleil.  
 Attaques multiples.  
 Cimeterre.  
 Éruption arcanique.  
 Incantation.  
 Bouclier de protection (3/jour).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Drow, consort favori legacy_
+Drow, consort favori legacy
 =============================
 
 _\[ Drow Favored Consort \]_
 
 _Humanoïde (elfe) de taille M, neutre mauvais_
 
-_**Classe d'armure** 15 (18 avec _armure de mage_)  
+**Classe d'armure** 15 (18 avec _armure de mage_)  
 **Points de vie** 225 (30d8 + 90)  
 **Vitesse** 9 m
 
@@ -11021,9 +10988,9 @@ _**Classe d'armure** 15 (18 avec _armure de mage_)
 **Compétences** Acrobaties + 11, Athlétisme +8, Perception +8, Discrétion +11  
 **Sens** vision dans le noir 36 m, Perception passive 18  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 18 (20000 PX)_
+**Puissance** 18 (20000 PX)
 
-_Ascendance féerique.  
+Ascendance féerique.  
 Incantation innée.  
 Incantation.  
 Sensibilité au soleil.  
@@ -11031,12 +10998,11 @@ Magie de guerre
 Attaques multiples.  
 Cimeterre.  
 Arbalète de poing.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Drow, guerrier d'élite_
+Drow, guerrier d'élite
 ========================
 
 _\[ Drow Elite Warrior \]_
@@ -11055,9 +11021,9 @@ _**Classe d'armure** 18 (armure de cuir clouté, bouclier)
 **Compétences** Discrétion +10, Perception +4  
 **Sens** vision dans le noir 36 m, Perception passive 14  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 5 (1800 PX)_
+**Puissance** 5 (1800 PX)
 
-_**Ascendance féerique**.  
+**Ascendance féerique**.  
 **Incantation innée**.  
 À volonté : _lumières dansantes_  
 1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
@@ -11066,19 +11032,18 @@ A|**Attaques multiples**.
 A|**Épée courte**. +7, 1,50 m, 1d6+4 perforants  
 A|**Arbalète de poing**. +7, 9/36 m, 1d6+4 perforants  
 R|**Parade**.  
-_
 
 _Monster Manual_
 {: .label .label-red }
 
-_Drow, inquisitrice_
+Drow, inquisitrice
 ====================
 
 _\[ Drow Inquisitor \]_
 
 _Humanoïde (elfe, clerc) de taille M, typiquement neutre mauvais_
 
-_**Classe d'armure** 16 (cuirasse)  
+**Classe d'armure** 16 (cuirasse)  
 **Points de vie** 149 (23d8 + 46)  
 **Vitesse** 9 m
 
@@ -11091,28 +11056,27 @@ _**Classe d'armure** 16 (cuirasse)
 **Immunités** effrayé  
 **Sens** vision dans le noir 36 m, Perception passive 20  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 14 (11500 PX) **Bonus de maîtrise** +5_
+**Puissance** 14 (11500 PX) **Bonus de maîtrise** +5
 
-_Mensonge décelé.  
+Mensonge décelé.  
 Ascendance féerique.  
 Sensibilité au soleil.  
 Attaques multiples.  
 Lance d'arçon mortelle.  
 Incantation.  
 Dague spectrale (Recharge après un repos court ou long).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Drow, inquisitrice legacy_
+Drow, inquisitrice legacy
 ===========================
 
 _\[ Drow Inquisitor \]_
 
 _Humanoïde (elfe) de taille M, neutre mauvais_
 
-_**Classe d'armure** 16 (cuirasse)  
+**Classe d'armure** 16 (cuirasse)  
 **Points de vie** 143 (22d8 + 44)  
 **Vitesse** 9 m
 
@@ -11125,9 +11089,9 @@ _**Classe d'armure** 16 (cuirasse)
 **Immunités** effrayé  
 **Sens** vision dans le noir 36 m, Perception passive 20  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 14 (11500 PX)_
+**Puissance** 14 (11500 PX)
 
-_**Mensonge décelé**.  
+**Mensonge décelé**.  
 **Ascendance féerique**.  
 **Incantation innée**.  
 À volonté : _lumières dansantes, détection de la magie_  
@@ -11143,20 +11107,19 @@ Niv 5 (2) : _fléau d'insectes_
 Niv 6 (1) : _vision suprême, contamination_  
 **Sensibilité au soleil**.  
 A|**Attaques multiples**.  
-A|**Lance d'arçon mortelle**. +10, 1,50 m, 1d6+5 perforants  
-_
+A|**Lance d'arçon mortelle**. +10, 1,50 m, 1d6+5 perforants 
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Drow, mage_
+Drow, mage
 ============
 
 _\[ Drow Mage \]_
 
 _Humanoïde (elfe) de taille M, neutre mauvais_
 
-_**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 45 (10d8)  
 **Vitesse** 9 m
 
@@ -11167,9 +11130,9 @@ _**Classe d'armure** 12 (15 avec _armure de mage_)
 **Compétences** Arcanes +6, Discrétion +5, Perception +4, Tromperie +5  
 **Sens** vision dans le noir 36 m, Perception passive 14  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 7 (2900 PX)_
+**Puissance** 7 (2900 PX)
 
-_**Ascendance féerique**.  
+**Ascendance féerique**.  
 **Incantation innée**.  
 À volonté : _lumières dansantes_  
 1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
@@ -11183,18 +11146,17 @@ Niv 5 (2) : _brume mortelle_
 **Sensibilité au soleil**.  
 A|**Bâton**.  
 A|**Invocation de démon (1/jour)**.  
-_
 
 _Monster Manual (BR+)_
 
-_Drow, Mère matrone_
+Drow, Mère matrone
 ====================
 
 _\[ Drow Matron Mother \]_
 
 _Humanoïde (elfe, clerc) de taille M, typiquement neutre mauvais_
 
-_**Classe d'armure** 17 (demi-plate)  
+**Classe d'armure** 17 (demi-plate)  
 **Points de vie** 247 (33d8 + 99)  
 **Vitesse** 9 m
 
@@ -11207,9 +11169,9 @@ _**Classe d'armure** 17 (demi-plate)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 21  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 20 (25000 PX) **Bonus de maîtrise** +6_
+**Puissance** 20 (25000 PX) **Bonus de maîtrise** +6
 
-_Équipment spécial.  
+Équipment spécial.  
 Ascendance féerique.  
 Sensibilité au soleil.  
 Attaques multiples.  
@@ -11222,19 +11184,18 @@ Convocation de serviteur (1/jour).
 Contraintre de démon.  
 Bâton de démon.  
 Sort (coûte 2 actions).  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Drow, Mère matrone legacy_
+Drow, Mère matrone legacy
 ===========================
 
 _\[ Drow Matron Mother \]_
 
 _Humanoïde (elfe) de taille M, neutre mauvais_
 
-_**Classe d'armure** 17 (demi-plate)  
+**Classe d'armure** 17 (demi-plate)  
 **Points de vie** 262 (35d8 + 105)  
 **Vitesse** 9 m
 
@@ -11247,9 +11208,9 @@ _**Classe d'armure** 17 (demi-plate)
 **Immunités** charmé, effrayé, empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 21  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 20 (25000 PX)_
+**Puissance** 20 (25000 PX)
 
-_Ascendance féerique.  
+Ascendance féerique.  
 Incantation innée.  
 Faveur capricieuse de Lolth.  
 Résistance à la magie.  
@@ -11262,19 +11223,18 @@ Convocation de serviteur (1/jour).
 Bâton de démon.  
 Contraintre de démon (coûte 2 actions).  
 Sort (coûte 1-3 actions).  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Drow, ombrelame_
+Drow, ombrelame
 =================
 
 _\[ Drow Shadowblade \]_
 
 _Humanoïde (elfe) de taille M, tout alignement_
 
-_**Classe d'armure** 17 (armure de cuir clouté)  
+**Classe d'armure** 17 (armure de cuir clouté)  
 **Points de vie** 150 (20d8 + 60)  
 **Vitesse** 9 m
 
@@ -11286,9 +11246,9 @@ _**Classe d'armure** 17 (armure de cuir clouté)
 **Compétences** Perception +6, Discrétion +9  
 **Sens** vision dans le noir 36 m, Perception passive 16  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 11 (7200 PX) **Bonus de maîtrise** +4_
+**Puissance** 11 (7200 PX) **Bonus de maîtrise** +4
 
-_Vision de diable.  
+Vision de diable.  
 Ascendance féerique.  
 Sensibilité au soleil.  
 Attaques multiples.  
@@ -11296,19 +11256,18 @@ Attaques multiples.
 Arbalète de poing.  
 Incantation.  
 Foulée d'ombre.  
-_
 
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Drow, ombrelame legacy_
+Drow, ombrelame legacy
 ========================
 
 _\[ Drow Shadowblade \]_
 
 _Humanoïde (elfe) de taille M, neutre mauvais_
 
-_**Classe d'armure** 17 (armure de cuir clouté)  
+**Classe d'armure** 17 (armure de cuir clouté)  
 **Points de vie** 150 (20d8 + 60)  
 **Vitesse** 9 m
 
@@ -11320,28 +11279,27 @@ _**Classe d'armure** 17 (armure de cuir clouté)
 **Compétences** Perception +6, Discrétion +9  
 **Sens** vision dans le noir 36 m, Perception passive 16  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 11 (7200 PX)_
+**Puissance** 11 (7200 PX)
 
-_Ascendance féerique.  
+Ascendance féerique.  
 Incantation innée.  
 Foulée d'ombre.  
 Sensibilité au soleil.  
 Attaques multiples.  
 Épée d'ombre.  
 Arbalète de poing.  
-_
 
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Drow, prêtresse de Lolth_
+Drow, prêtresse de Lolth
 ==========================
 
 _\[ Drow Priestess of Lolth \]_
 
 _Humanoïde (elfe) de taille M, neutre mauvais_
 
-_**Classe d'armure** 16 (armure d'écailles)  
+**Classe d'armure** 16 (armure d'écailles)  
 **Points de vie** 71 (13d8 + 13)  
 **Vitesse** 9 m
 
@@ -11353,9 +11311,9 @@ _**Classe d'armure** 16 (armure d'écailles)
 **Compétences** Discrétion +5, Intuition +6, Perception +6, Religion +4  
 **Sens** vision dans le noir 36 m, Perception passive 16  
 **Langues** elfique, commun des profondeurs  
-**Puissance** 8 (3900 PX)_
+**Puissance** 8 (3900 PX)
 
-_**Ascendance féerique**.  
+**Ascendance féerique**.  
 **Incantation innée**.  
 À volonté : _lumières dansantes_  
 1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
@@ -11370,7 +11328,6 @@ Niv 5 (2) : _fléau d'insectes, soins de groupe_
 A|**Attaques multiples**.  
 A|**Fouet barbelé**. +5, 1,50 m, 1d6+2 perforants  
 A|**Invocation de démon (1/jour)**.  
-_
 
 _Monster Manual_
 {: .label .label-red }
@@ -11404,6 +11361,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Druide du givre_
 =================
@@ -11476,6 +11434,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Duergar_
 =========
 
@@ -11506,6 +11465,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Duergar, âmelame_
 ==================
@@ -12091,6 +12051,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Éclat draconique_
 ==================
 
@@ -12148,6 +12109,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Eidolon_
 =========
@@ -12507,6 +12469,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Élan géant_
 ============
 
@@ -12534,6 +12497,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Élémentaire de l'air_
 ======================
@@ -12565,6 +12529,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Élémentaire de l'air mineur_
 =============================
@@ -12687,6 +12652,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Élémentaire de l'eau mineur_
 =============================
 
@@ -12808,6 +12774,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Élémentaire de la terre mineur_
 ================================
@@ -12933,6 +12900,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Élémentaire du feu mineur_
 ===========================
 
@@ -13055,6 +13023,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Elric_
 =======
@@ -13215,6 +13184,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Épaulard_
 ==========
 
@@ -13243,6 +13213,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Épée volante_
 ==============
@@ -13273,6 +13244,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Épineux legacy_
 ================
@@ -13370,6 +13342,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Espion_
 ========
 
@@ -13400,6 +13373,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Esprit d'aberration_
 =====================
 
@@ -13429,6 +13403,7 @@ Coup psychique (rejeton stellaire uniquement).
 _
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
 
 _Esprit d'artificiel_
 =====================
@@ -13459,6 +13434,7 @@ Réprimande de fou furieux (argile uniquement).
 _
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
 
 _Esprit d'élémentaire_
 ======================
@@ -13488,6 +13464,7 @@ Coup.
 _
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
 
 _Esprit d'ombre_
 ================
@@ -13518,6 +13495,7 @@ Discrétion dans les ombres (Peur uniquement).
 _
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
 
 _Esprit de bête_
 ================
@@ -13546,6 +13524,7 @@ Maillet.
 _
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
 
 _Esprit de céleste_
 ===================
@@ -13575,6 +13554,7 @@ Contact guérisseur (1/jour).
 _
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
 
 _Esprit de fée_
 ===============
@@ -13605,6 +13585,7 @@ Rusé.
 _
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
 
 _Esprit de fiélon_
 ==================
@@ -13638,6 +13619,7 @@ Jet de flammes (diable uniquement).
 _
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
 
 _Esprit de mort-vivant_
 =======================
@@ -13669,6 +13651,7 @@ Griffe pourrissante (putréfié uniquement).
 _
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
 
 _Esprit des fournaises_
 =======================
@@ -13696,6 +13679,7 @@ A|**Téléportation ardente**.
 _
 
 _Rules (Tasha´s Cauldron of Everything)_
+{: .label .label-red }
 
 _Esprit draconique_
 ===================
@@ -13755,6 +13739,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Étrangleur_
 ============
@@ -13847,6 +13832,7 @@ A|**Rayon empoisonné (sort de niveau 1 ; requiert un de sort)**. +5, 18 m, 2d8 
 _
 
 _Adventures (Descent into Avernus)_
+{: .label .label-red }
 
 _Ettercap_
 ==========
@@ -13880,6 +13866,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Ettin_
 =======
 
@@ -13909,6 +13896,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Évanescent_
 ============
@@ -14301,6 +14289,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Fantôme_
 =========
 
@@ -14333,6 +14322,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Farfadet_
 ==========
@@ -14424,6 +14414,7 @@ A|**Linceul**.
 _
 
 _Adventures (Descent into Avernus)_
+{: .label .label-red }
 
 _Faucon_
 ========
@@ -14452,6 +14443,7 @@ _
 _Monster Manual (SRD)_
 {: .label .label-red }
 
+
 _Faucon de sang_
 ================
 
@@ -14479,6 +14471,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Feu follet_
 ============
@@ -14512,6 +14505,7 @@ _
 
 _Monster Manual (SRD)_
 {: .label .label-red }
+
 
 _Flagelleur mental_
 ===================
@@ -14795,7 +14789,7 @@ Terreur fantasmatique.
 Incantation.  
 Queue.  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 __
@@ -14807,7 +14801,7 @@ __\[ Fraz-Urb'luu \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 337 (27d10 + 189)  
 **Vitesse** 12 m, vol 12 m
 
@@ -14836,7 +14830,8 @@ Queue.
 Assassin imaginaire (coûte 2 actions).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Froghémoth__
 ==============
@@ -14845,7 +14840,7 @@ __\[ Froghemoth \] \[ Crapaudonte \]__
 
 __Monstruosité de taille TG, sans alignement__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 161 (14d12 + 70)  
 **Vitesse** 9 m, nage 9 m
 
@@ -14868,7 +14863,8 @@ Morsure.
 Langue.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Froghémoth legacy__
 =====================
@@ -14877,7 +14873,7 @@ __\[ Froghemoth \] \[ Crapaudonte \]__
 
 __Monstruosité de taille TG, sans alignement__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 184 (16d12 + 80)  
 **Vitesse** 9 m, nage 9 m
 
@@ -14900,7 +14896,8 @@ A|**Morsure**. +10, 1,50 m, 3d10+6 perforants
 A|**Langue**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Galeb duhr__
 ==============
@@ -14909,7 +14906,7 @@ __\[ Galeb Duhr \]__
 
 __Élémentaire de taille M, neutre__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 85 (9d8 + 45)  
 **Vitesse** 4,50 m (9 m lorsqu'il roule, 18 m s'il roule en descente)
 
@@ -14930,7 +14927,8 @@ A|**Coup**. +8, 1,50 m, 2d6+5 contondants
 A|**Animation de rochers (1/jour)**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Gantelet noir de Baine__
 ==========================
@@ -14939,7 +14937,7 @@ __\[ Black Gauntlet of Bane \]__
 
 __Humanoïde (humain) de taille M, loyal mauvais__
 
-__**Classe d'armure** 16 (cotte de mailles)  
+**Classe d'armure** 16 (cotte de mailles)  
 **Points de vie** 51 (6d8 + 24)  
 **Vitesse** 9 m
 
@@ -14975,7 +14973,7 @@ __\[ Guard \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 16 (chemise de mailles, bouclier)  
+**Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 9 m
 
@@ -14991,7 +14989,9 @@ __**Classe d'armure** 16 (chemise de mailles, bouclier)
 __A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Gardien animé__
 =================
@@ -15000,7 +15000,7 @@ __\[ Shield Guardian \] \[ Garde animé \]__
 
 __Artificiel de taille G, sans alignement__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 142 (15d10 + 60)  
 **Vitesse** 9 m
 
@@ -15022,7 +15022,9 @@ A|**Poing**. +7, 1,50 m, 2d6+4 contondants
 R|**Bouclier**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Gargouille__
 ==============
@@ -15031,7 +15033,7 @@ __\[ Gargoyle \]__
 
 __Élémentaire de taille M, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 52 (7d8 + 21)  
 **Vitesse** 9 m, vol 18 m
 
@@ -15052,7 +15054,9 @@ A|**Griffes**. +4, 1,50 m, 1d6+2 tranchants
 A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Garou-chacal__
 ================
@@ -15061,7 +15065,7 @@ __\[ Jackalwere \]__
 
 __Humanoïde (métamorphe) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 18 (4d8)  
 **Vitesse** 12 m
 
@@ -15083,7 +15087,8 @@ A|**Cimeterre (forme humanoïde ou hybride uniquement)**. +4, 1,50 m, 1d6+2 tran
 A|**Regard soporifique**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Gauth__
 =========
@@ -15092,7 +15097,7 @@ __\[ Gauth \]__
 
 __Aberration (tyrannoeil) de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 52 (7d8 + 21)  
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
@@ -15113,7 +15118,8 @@ Morsure.
 Rayons oculaires.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Gauth legacy__
 ================
@@ -15122,7 +15128,7 @@ __\[ Gauth \]__
 
 __Aberration de taille M, loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 67 (9d8 + 27)  
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
@@ -15149,7 +15155,8 @@ A|**5- Rayon paralysant**.
 A|**6- Rayon de sommeil**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Gazer__
 =========
@@ -15158,7 +15165,7 @@ __\[ Gazer \] \[ Lorgneur \]__
 
 __Aberration (tyrannoeil) de taille TP, typiquement neutre mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 13 (3d4 + 6)  
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
@@ -15179,7 +15186,8 @@ Rayons oculaires.
 Agressif.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Gazer legacy__
 ================
@@ -15188,7 +15196,7 @@ __\[ Gazer \]__
 
 __Aberration de taille TP, neutre mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 13 (3d4 + 6)  
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
@@ -15213,7 +15221,8 @@ A|**3- Rayon de givre**.
 A|**4- Rayon télékinétique**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Géant des collines__
 ======================
@@ -15222,7 +15231,7 @@ __\[ Hill Giant \]__
 
 __Géant de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 105 (10d12 + 40)  
 **Vitesse** 12 m
 
@@ -15240,7 +15249,9 @@ A|**Massue**. +8, 3 m, 3d8+5 contondants
 A|**Rocher**. +8, 18/72 m, 3d10+5 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Géant des collines maudit__
 =============================
@@ -15249,7 +15260,7 @@ __\[ Cursed Hill Giant \]__
 
 __Géant de taille P, loyal mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 27 (6d6 + 6)  
 **Vitesse** 6 m
 
@@ -15268,6 +15279,7 @@ A|**Rocher**. +4, 6/18 m, 1d8+2 contondants
 __
 
 __Extra (Adventurers League)__
+{: .label .label-red }
 
 __Géant des nuages__
 ====================
@@ -15276,7 +15288,7 @@ __\[ Cloud Giant \]__
 
 __Géant de taille TG, neutre bon (50 %) ou neutre mauvais (50 %)__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 200 (16d12 + 96)  
 **Vitesse** 12 m
 
@@ -15300,7 +15312,9 @@ A|**Morgenstern**. +12, 3 m, 3d8+8 perforants
 A|**Rocher**. +12, 18/72 m, 4d10+8 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Géant des nuages, souriant__
 ==============================
@@ -15309,7 +15323,7 @@ __\[ Cloud Giant Smiling One \]__
 
 __Géant de taille TG, typiquement chaotique neutre__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 250 (20d12 + 120)  
 **Vitesse** 12 m, vol 12 m (stationnaire)
 
@@ -15332,7 +15346,8 @@ Incantation.
 Foulée nuageuse (Recharge 4–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Géant des nuages, souriant legacy__
 =====================================
@@ -15341,7 +15356,7 @@ __\[ Cloud Giant Smiling One \]__
 
 __Géant (géant des nuages) de taille TG, chaotique neutre__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 262 (21d12 + 126)  
 **Vitesse** 12 m
 
@@ -15371,7 +15386,8 @@ A|**Rocher**. +12, 18/72 m, 4d10+8 contondants
 A|**Changement de forme**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Géant des pierres__
 =====================
@@ -15380,7 +15396,7 @@ __\[ Stone Giant \]__
 
 __Géant de taille TG, neutre__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 126 (11d12 + 55)  
 **Vitesse** 12 m
 
@@ -15401,7 +15417,9 @@ A|**Rocher**. +9, 18/72 m, 4d10+6 contondants
 R|**Réception de rocher**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Géant des pierres, onirien__
 ==============================
@@ -15410,7 +15428,7 @@ __\[ Stone Giant Dreamwalker \]__
 
 __Géant de taille TG, typiquement chaotique neutre__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 161 (14d12 + 70)  
 **Vitesse** 12 m
 
@@ -15432,7 +15450,8 @@ Rocher.
 Contact pétrifiant.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Géant des pierres, onirien legacy__
 =====================================
@@ -15441,7 +15460,7 @@ __\[ Stone Giant Dreamwalker \]__
 
 __Géant (géant des pierres) de taille TG, chaotique neutre__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 161 (14d12 + 70)  
 **Vitesse** 12 m
 
@@ -15463,7 +15482,8 @@ A|**Contact pétrifiant**.
 A|**Rocher**. +10, 18/72 m, 4d10+6 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Géant des tempêtes__
 ======================
@@ -15472,7 +15492,7 @@ __\[ Storm Giant \]__
 
 __Géant de taille TG, chaotique bon__
 
-__**Classe d'armure** 16 (armure d'écailles)  
+**Classe d'armure** 16 (armure d'écailles)  
 **Points de vie** 230 (20d12 + 100)  
 **Vitesse** 15 m, nage 15 m
 
@@ -15498,7 +15518,9 @@ A|**Rocher**. +14, 18/72 m, 4d12+9 contondants
 A|**Frappe foudroyante (Recharge 5-6)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Géant des tempêtes, quintessent__
 ===================================
@@ -15507,7 +15529,7 @@ __\[ Storm Giant Quintessent \]__
 
 __Géant de taille TG, typiquement chaotique bon__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 230 (20d12 + 100)  
 **Vitesse** 15 m, nage 15 m, vol 15 m (stationnaire)
 
@@ -15533,7 +15555,8 @@ Foudre (2 actions).
 Maître des tempêtes (3 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Géant des tempêtes, quintessent legacy__
 ==========================================
@@ -15542,7 +15565,7 @@ __\[ Storm Giant Quintessent \]__
 
 __Géant (géant des tempêtes) de taille TG, chaotique bon__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 230 (20d12 + 100)  
 **Vitesse** 15 m, nage 15 m, vol 15 m (stationnaire)
 
@@ -15567,7 +15590,8 @@ L|**Foudre (2 actions)**.
 L|**Maître des tempêtes (3 actions)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Géant du feu__
 ================
@@ -15576,7 +15600,7 @@ __\[ Fire Giant \]__
 
 __Géant de taille TG, loyal mauvais__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 162 (13d12 + 78)  
 **Vitesse** 9 m
 
@@ -15596,7 +15620,9 @@ A|**Épée à deux mains**. +11, 3 m, 6d6+7 tranchants
 A|**Rocher**. +11, 18/72 m, 4d10+7 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Géant du feu, cuirassé__
 ==========================
@@ -15605,7 +15631,7 @@ __\[ Fire Giant Dreadnought \]__
 
 __Géant de taille TG, typiquement loyal mauvais__
 
-__**Classe d'armure** 21 (cuirasse, boucliers)  
+**Classe d'armure** 21 (cuirasse, boucliers)  
 **Points de vie** 187 (15d12 + 90)  
 **Vitesse** 9 m
 
@@ -15627,7 +15653,8 @@ Rocher.
 Charge avec bouclier (Recharge 5–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Géant du feu, cuirassé legacy__
 =================================
@@ -15636,7 +15663,7 @@ __\[ Fire Giant Dreadnought \]__
 
 __Géant (géant du feu) de taille TG, loyal mauvais__
 
-__**Classe d'armure** 21 (cuirasse, boucliers)  
+**Classe d'armure** 21 (cuirasse, boucliers)  
 **Points de vie** 187 (15d12 + 90)  
 **Vitesse** 9 m
 
@@ -15658,7 +15685,8 @@ A|**Rocher**. +13, 18/72 m, 4d10+8 contondants
 A|**Charge avec bouclier**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Géant du givre__
 ==================
@@ -15667,7 +15695,7 @@ __\[ Frost Giant \]__
 
 __Géant de taille TG, neutre mauvais__
 
-__**Classe d'armure** 15 (armure composite)  
+**Classe d'armure** 15 (armure composite)  
 **Points de vie** 138 (12d12 + 60)  
 **Vitesse** 12 m
 
@@ -15687,7 +15715,9 @@ A|**Hache à deux mains**. +9, 3 m, 3d12+6 tranchants
 A|**Rocher**. +9, 18/72 m, 4d10+6 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Géant du givre, éternel__
 ===========================
@@ -15696,7 +15726,7 @@ __\[ Frost Giant Everlasting One \]__
 
 __Géant de taille TG, typiquement chaotique mauvais__
 
-__**Classe d'armure** 15 (armure composite)  
+**Classe d'armure** 15 (armure composite)  
 **Points de vie** 189 (14d12 + 98)  
 **Vitesse** 12 m
 
@@ -15719,7 +15749,8 @@ Rocher.
 Rage de Vaprak (Recharge après un repos court ou long).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Géant du givre, éternel legacy__
 ==================================
@@ -15728,7 +15759,7 @@ __\[ Frost Giant Everlasting One \]__
 
 __Géant (géant du givre) de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure composite)  
+**Classe d'armure** 15 (armure composite)  
 **Points de vie** 189 (14d12 + 98)  
 **Vitesse** 12 m
 
@@ -15751,7 +15782,8 @@ A|**Hache à deux mains**. +11, 3 m, 3d12+7 tranchants
 A|**Rocher**. +11, 18/72 m, 4d10+7 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Gelée ocre__
 ==============
@@ -15760,7 +15792,7 @@ __\[ Ochre Jelly \]__
 
 __Vase de taille G, sans alignement__
 
-__**Classe d'armure** 8  
+**Classe d'armure** 8  
 **Points de vie** 45 (6d10 + 12)  
 **Vitesse** 3 m, escalade 3 m
 
@@ -15781,7 +15813,9 @@ A|**Pseudopode**. +4, 1,50 m, 2d6+2 contondants
 R|**Division**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Géryon__
 ==========
@@ -15790,7 +15824,7 @@ __\[ Geryon \]__
 
 __Fiélon (diable) de taille TG, loyal mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 300 (24d12 + 144)  
 **Vitesse** 9 m, vol 15 m
 
@@ -15820,7 +15854,8 @@ Téléportation.
 Dard rapide (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Géryon legacy__
 =================
@@ -15829,7 +15864,7 @@ __\[ Geryon \]__
 
 __Fiélon (diable) de taille TG, loyal mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 300 (24d12 + 144)  
 **Vitesse** 9 m, vol 15 m
 
@@ -15860,7 +15895,8 @@ Dard rapide (coûte 2 actions).
 Téléportation.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Giff__
 ========
@@ -15869,7 +15905,7 @@ __\[ Giff \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 16 (cuirasse)  
+**Classe d'armure** 16 (cuirasse)  
 **Points de vie** 60 (8d8 + 24)  
 **Vitesse** 9 m
 
@@ -15890,7 +15926,8 @@ Pistolet.
 Grenade à fragmentation (1/jour).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Giff legacy__
 ===============
@@ -15899,7 +15936,7 @@ __\[ Giff \]__
 
 __Humanoïde de taille M, loyal neutre__
 
-__**Classe d'armure** 16 (cuirasse)  
+**Classe d'armure** 16 (cuirasse)  
 **Points de vie** 60 (8d8 + 24)  
 **Vitesse** 9 m
 
@@ -15920,7 +15957,8 @@ Pistolet.
 Grenade à fragmentation (1/jour).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Girallon__
 ============
@@ -15929,7 +15967,7 @@ __\[ Girallon \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -15948,7 +15986,8 @@ Griffes.
 Agressif.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Girallon legacy__
 ===================
@@ -15957,7 +15996,7 @@ __\[ Girallon \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -15977,7 +16016,8 @@ A|**Morsure**. +6, 1,50 m, 1d6+4 perforants
 A|**Griffes**. +6, 3 m, 1d6+4 tranchants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Githyanki, chevalier__
 ========================
@@ -15986,7 +16026,7 @@ __\[ Githyanki Knight \]__
 
 __Humanoïde (gith) de taille M, loyal mauvais__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 91 (14d8 + 28)  
 **Vitesse** 9 m
 
@@ -16008,6 +16048,7 @@ A|**Épée à deux mains en argent**. +9, 1,50 m, 2d6+6 tranchants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Githyanki, commandant suprême__
 =================================
@@ -16016,7 +16057,7 @@ __\[ Githyanki Supreme Commander \]__
 
 __Humanoïde (gith) de taille M, tout alignement__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 187 (22d8 + 88)  
 **Vitesse** 9 m
 
@@ -16040,7 +16081,8 @@ Commandement des alliés.
 Attaque (2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Githyanki, commandant suprême legacy__
 ========================================
@@ -16049,7 +16091,7 @@ __\[ Githyanki Supreme Commander \]__
 
 __Humanoïde (gith) de taille M, loyal mauvais__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 187 (22d8 + 88)  
 **Vitesse** 9 m
 
@@ -16072,7 +16114,8 @@ Commandement des alliés.
 Téléportation.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Githyanki, gish__
 ===================
@@ -16081,7 +16124,7 @@ __\[ Githyanki Gish \]__
 
 __Humanoïde (gith, magicien) de taille M, tout alignement__
 
-__**Classe d'armure** 17 (demi-plate)  
+**Classe d'armure** 17 (demi-plate)  
 **Points de vie** 130 (20d8 + 40)  
 **Vitesse** 9 m
 
@@ -16102,7 +16145,8 @@ Incantation (psioniques).
 Foulée astrale (Recharge 4–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Githyanki, gish legacy__
 ==========================
@@ -16111,7 +16155,7 @@ __\[ Githyanki Gish \]__
 
 __Humanoïde (gith) de taille M, loyal mauvais__
 
-__**Classe d'armure** 17 (demi-plate)  
+**Classe d'armure** 17 (demi-plate)  
 **Points de vie** 123 (19d8 + 38)  
 **Vitesse** 9 m
 
@@ -16132,7 +16176,8 @@ Attaques multiples.
 Épée longue.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Githyanki, guerrier__
 =======================
@@ -16141,7 +16186,7 @@ __\[ Githyanki Warrior \]__
 
 __Humanoïde (gith) de taille M, loyal mauvais__
 
-__**Classe d'armure** 17 (demi-plate)  
+**Classe d'armure** 17 (demi-plate)  
 **Points de vie** 49 (9d8 + 9)  
 **Vitesse** 9 m
 
@@ -16162,6 +16207,7 @@ A|**Épée à deux mains**. +4, 1,50 m, 2d6+2 tranchants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Githyanki, kith'rak__
 =======================
@@ -16170,7 +16216,7 @@ __\[ Githyanki Kith'rak \]__
 
 __Humanoïde (gith) de taille M, tout alignement__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 180 (24d8 + 72)  
 **Vitesse** 9 m
 
@@ -16192,7 +16238,8 @@ Ralliement des troupes.
 Parade.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Githyanki, kith'rak legacy__
 ==============================
@@ -16201,7 +16248,7 @@ __\[ Githyanki Kith'rak \]__
 
 __Humanoïde (gith) de taille M, loyal mauvais__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 180 (24d8 + 72)  
 **Vitesse** 9 m
 
@@ -16222,7 +16269,8 @@ Attaques multiples.
 Parade.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Githzerai, anarque__
 ======================
@@ -16231,7 +16279,7 @@ __\[ Githzerai Anarch \]__
 
 __Humanoïde (gith) de taille M, tout alignement__
 
-__**Classe d'armure** 20 (défense psychique)  
+**Classe d'armure** 20 (défense psychique)  
 **Points de vie** 144 (17d8 + 68)  
 **Vitesse** 9 m, vol 12 m (stationnaire)
 
@@ -16255,7 +16303,8 @@ Téléportation.
 Changement de gravité (coûte 3 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Githzerai, anarque legacy__
 =============================
@@ -16264,7 +16313,7 @@ __\[ Githzerai Anarch \]__
 
 __Humanoïde (gith) de taille M, loyal neutre__
 
-__**Classe d'armure** 20  
+**Classe d'armure** 20  
 **Points de vie** 144 (17d8 + 68)  
 **Vitesse** 9 m, vol 12 m (stationnaire)
 
@@ -16287,7 +16336,8 @@ Téléportation.
 Changement de gravité (coûte 3 actions).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Githzerai, illuminé__
 =======================
@@ -16296,7 +16346,7 @@ __\[ Githzerai Enlightened \]__
 
 __Humanoïde (gith) de taille M, tout alignement__
 
-__**Classe d'armure** 18 (défense psychique)  
+**Classe d'armure** 18 (défense psychique)  
 **Points de vie** 112 (15d8 + 45)  
 **Vitesse** 9 m
 
@@ -16318,7 +16368,8 @@ Incantation (psioniques).
 Chute ralentie.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Githzerai, illuminé legacy__
 ==============================
@@ -16327,7 +16378,7 @@ __\[ Githzerai Enlightened \]__
 
 __Humanoïde (gith) de taille M, loyal neutre__
 
-__**Classe d'armure** 18  
+**Classe d'armure** 18  
 **Points de vie** 112 (15d8 + 45)  
 **Vitesse** 9 m
 
@@ -16348,7 +16399,8 @@ Attaque à mains nues.
 Frappe temporelle (Recharge 6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Githzerai, moine__
 ====================
@@ -16357,7 +16409,7 @@ __\[ Githzerai Monk \]__
 
 __Humanoïde (gith) de taille M, loyal neutre__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 38 (7d8 + 7)  
 **Vitesse** 9 m
 
@@ -16380,6 +16432,7 @@ A|**Attaque à mains nues**. +4, 1,50 m, 1d8+2 contondants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Githzerai, zerth__
 ====================
@@ -16388,7 +16441,7 @@ __\[ Githzerai Zerth \]__
 
 __Humanoïde (gith) de taille M, loyal neutre__
 
-__**Classe d'armure** 17  
+**Classe d'armure** 17  
 **Points de vie** 84 (13d8 + 26)  
 **Vitesse** 9 m
 
@@ -16412,6 +16465,7 @@ A|**Attaque à mains nues**. +7, 1,50 m, 2d6+4 contondants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Glabrezu__
 ============
@@ -16420,7 +16474,7 @@ __\[ Glabrezu \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 157 (15d10 + 75)  
 **Vitesse** 12 m
 
@@ -16445,7 +16499,9 @@ A|**Pinces**. +9, 3 m, 2d10+5 contondants
 A|**Poing**. +9, 1,50 m, 2d4+2 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Gladiateur__
 ==============
@@ -16454,7 +16510,7 @@ __\[ Gladiator \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 16 (armure de cuir clouté, bouclier)  
+**Classe d'armure** 16 (armure de cuir clouté, bouclier)  
 **Points de vie** 112 (15d8 + 45)  
 **Vitesse** 9 m
 
@@ -16476,7 +16532,9 @@ A|**Coup de bouclier**. +7, 1,50 m, 2d4+4 contondants
 R|**Parade**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Gnoll__
 =========
@@ -16485,7 +16543,7 @@ __\[ Gnoll \]__
 
 __Humanoïde (gnoll) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure de peaux, bouclier)  
+**Classe d'armure** 15 (armure de peaux, bouclier)  
 **Points de vie** 22 (5d8)  
 **Vitesse** 9 m
 
@@ -16503,7 +16561,9 @@ A|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants
 A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Gnoll, carnasseur__
 =====================
@@ -16512,7 +16572,7 @@ __\[ Gnoll Flesh Gnawer \]__
 
 __Monstruosité de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 14 (armure de cuir clouté)  
+**Classe d'armure** 14 (armure de cuir clouté)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m
 
@@ -16532,7 +16592,8 @@ Rush soudain.
 Déchaîné.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Gnoll, carnasseur legacy__
 ============================
@@ -16541,7 +16602,7 @@ __\[ Gnoll Flesh Gnawer \]__
 
 __Humanoïde (gnoll) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 14 (armure de cuir clouté)  
+**Classe d'armure** 14 (armure de cuir clouté)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m
 
@@ -16561,7 +16622,8 @@ A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants
 A|**Rush soudain**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Gnoll, chasseur__
 ===================
@@ -16570,7 +16632,7 @@ __\[ Gnoll Hunter \]__
 
 __Monstruosité de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m
 
@@ -16590,7 +16652,8 @@ Arc long.
 Déchaîné.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Gnoll, chasseur legacy__
 ==========================
@@ -16599,7 +16662,7 @@ __\[ Gnoll Hunter \]__
 
 __Humanoïde (gnoll) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m
 
@@ -16619,7 +16682,8 @@ A|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants
 A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Gnoll, croc de Yeenoghu__
 ===========================
@@ -16628,7 +16692,7 @@ __\[ Gnoll Fang of Yeenoghu \]__
 
 __Fiélon (gnoll) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 14 (armure de peaux)  
+**Classe d'armure** 14 (armure de peaux)  
 **Points de vie** 65 (10d8 + 20)  
 **Vitesse** 9 m
 
@@ -16648,6 +16712,7 @@ A|**Morsure**. +5, 1,50 m, 1d6+3 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Gnoll, désséché__
 ===================
@@ -16656,7 +16721,7 @@ __\[ Gnoll Witherling \]__
 
 __Mort-vivant de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 9 m
 
@@ -16678,7 +16743,8 @@ Déchaîné.
 Frappe vengeresse.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Gnoll, désséché legacy__
 ==========================
@@ -16687,7 +16753,7 @@ __\[ Gnoll Witherling \]__
 
 __Mort-vivant de taille M, chaotique mauvais__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 9 m
 
@@ -16708,7 +16774,8 @@ A|**Gourdin**. +4, 1,50 m, 1d4+2 contondants
 R|**Frappe vengeresse**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Gnoll, seigneur de meute__
 ============================
@@ -16717,7 +16784,7 @@ __\[ Gnoll Pack Lord \] \[ Gnoll, chef de meute \]__
 
 __Humanoïde (gnoll) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 15 (chemise de mailles)  
+**Classe d'armure** 15 (chemise de mailles)  
 **Points de vie** 49 (9d8 + 9)  
 **Vitesse** 9 m
 
@@ -16737,7 +16804,8 @@ A|**Arc long**. +4, 45/180 m, 1d8+2 perforants
 A|**Incitation au déchaînement (Recharge 5-6)**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Gnome des profondeurs (svirfnebelin)__
 ========================================
@@ -16746,7 +16814,7 @@ __\[ Deep Gnome (Svirfneblin) \]__
 
 __Humanoïde (gnome) de taille P, neutre bon__
 
-__**Classe d'armure** 15 (chemise de mailles)  
+**Classe d'armure** 15 (chemise de mailles)  
 **Points de vie** 16 (3d6 + 6)  
 **Vitesse** 6 m
 
@@ -16768,7 +16836,9 @@ A|**Pic de guerre**. +4, 1,50 m, 1d8+2 perforants
 A|**Dard empoisonné**. +4, 9/36 m, 1d4+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Gobelin__
 ===========
@@ -16777,7 +16847,7 @@ __\[ Goblin \]__
 
 __Humanoïde (gobelinoïde) de taille P, neutre mauvais__
 
-__**Classe d'armure** 15 (armure de cuir, bouclier)  
+**Classe d'armure** 15 (armure de cuir, bouclier)  
 **Points de vie** 7 (2d6)  
 **Vitesse** 9 m
 
@@ -16795,7 +16865,9 @@ A|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants
 A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Gobelin, chef__
 =================
@@ -16804,7 +16876,7 @@ __\[ Goblin Boss \]__
 
 __Humanoïde (gobelinoïde) de taille P, neutre mauvais__
 
-__**Classe d'armure** 17 (chemise de mailles, bouclier)  
+**Classe d'armure** 17 (chemise de mailles, bouclier)  
 **Points de vie** 21 (6d6)  
 **Vitesse** 9 m
 
@@ -16825,6 +16897,7 @@ R|**Attaque redirigée**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Gobelours__
 =============
@@ -16833,7 +16906,7 @@ __\[ Bugbear \]__
 
 __Humanoïde (gobelinoïde) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 16 (armure de peaux, bouclier)  
+**Classe d'armure** 16 (armure de peaux, bouclier)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 9 m
 
@@ -16852,7 +16925,9 @@ A|**Morgenstern**. +4, 1,50 m, 2d8+2 perforants
 A|**Javeline**. +4, 1,50 m ou 9/36 m, 2d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Gobelours, chef__
 ===================
@@ -16861,7 +16936,7 @@ __\[ Bugbear Chief \]__
 
 __Humanoïde (gobelinoïde) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 17 (chemise de mailles, bouclier)  
+**Classe d'armure** 17 (chemise de mailles, bouclier)  
 **Points de vie** 65 (10d8 + 20)  
 **Vitesse** 9 m
 
@@ -16883,6 +16958,7 @@ A|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Golem d'argile__
 ==================
@@ -16891,7 +16967,7 @@ __\[ Clay Golem \]__
 
 __Artificiel de taille G, sans alignement__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 133 (14d10 + 56)  
 **Vitesse** 6 m
 
@@ -16915,7 +16991,9 @@ A|**Coup**. +8, 1,50 m, 2d10+5 contondants
 A|**Hâte (Recharge 5-6)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Golem de bois__
 =================
@@ -16924,7 +17002,7 @@ __\[ Wood Golem \]__
 
 __Artificiel de taille M, sans alignement__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 61 (10d8 + 16)  
 **Vitesse** 9 m
 
@@ -16949,6 +17027,7 @@ A|**Coup**. +3, 1,50 m, 2d6+1 contondants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Golem de bronze__
 ===================
@@ -16957,7 +17036,7 @@ __\[ Bronze Golem \]__
 
 __Artificiel de taille G, sans alignement__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 147 (18d10 + 100)  
 **Vitesse** 9 m
 
@@ -16982,6 +17061,7 @@ A|**Lance**. +10, 3 m, 3d10+5 perforants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Golem de chair__
 ==================
@@ -16990,7 +17070,7 @@ __\[ Flesh Golem \]__
 
 __Artificiel de taille M, neutre__
 
-__**Classe d'armure** 9  
+**Classe d'armure** 9  
 **Points de vie** 93 (11d8 + 44)  
 **Vitesse** 9 m
 
@@ -17014,7 +17094,9 @@ A|**Attaques multiples**.
 A|**Coup**. +7, 1,50 m, 2d8+4 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Golem de fer__
 ================
@@ -17023,7 +17105,7 @@ __\[ Iron Golem \]__
 
 __Artificiel de taille G, sans alignement__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 210 (20d10 + 100)  
 **Vitesse** 9 m
 
@@ -17047,7 +17129,9 @@ A|**Épée**. +13, 3 m, 3d10+7 tranchants
 A|**Souffle empoisonné (Recharge 6)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Golem de glace__
 ==================
@@ -17056,7 +17140,7 @@ __\[ Ice Golem \]__
 
 __Artificiel de taille G, sans alignement__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 126 (12d10 +60)  
 **Vitesse** 9 m
 
@@ -17081,6 +17165,7 @@ A|**Vent glacial (Recharge 5-6)**.
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Golem de pierre__
 ===================
@@ -17089,7 +17174,7 @@ __\[ Stone Golem \]__
 
 __Artificiel de taille G, sans alignement__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 178 (17d10 + 85)  
 **Vitesse** 9 m
 
@@ -17111,7 +17196,9 @@ A|**Coup**. +10, 1,50 m, 3d8+6 contondants
 A|**Lenteur (Recharge 5-6)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Golem dracosseux__
 ====================
@@ -17120,7 +17207,7 @@ __\[ Dragonbone Golem \]__
 
 __Artificiel de taille G, sans alignement__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 161 (19d10 + 57)  
 **Vitesse** 12 m
 
@@ -17143,7 +17230,8 @@ Déchirement.
 Souffle pétrifiant (Recharge 5-6).  
 __
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Gorgone__
 ===========
@@ -17152,7 +17240,7 @@ __\[ Gorgon \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 114 (12d10 + 48)  
 **Vitesse** 12 m
 
@@ -17172,7 +17260,9 @@ A|**Sabots**. +8, 1,50 m, 2d10+5 contondants
 A|**Souffle pétrifiant (Recharge 5-6)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Goristro__
 ============
@@ -17181,7 +17271,7 @@ __\[ Goristro \]__
 
 __Fiélon (démon) de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 310 (23d12 + 161)  
 **Vitesse** 12 m
 
@@ -17209,6 +17299,7 @@ A|**Cornes**. +13, 3 m, 7d10+7 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Goule__
 =========
@@ -17217,7 +17308,7 @@ __\[ Ghoul \]__
 
 __Mort-vivant de taille M, chaotique mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
 **Vitesse** 9 m
 
@@ -17235,7 +17326,9 @@ __A|**Griffes**. +4, 1,50 m, 2d4+2 tranchants
 A|**Morsure**. +2, 1,50 m, 2d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Grand dracosire chromatique__
 ===============================
@@ -17244,7 +17337,7 @@ __\[ Chromatic Greatwyrm \]__
 
 __Dragon (chromatique) de taille Gig, typiquement chaotique mauvais__
 
-__**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 533 (26d20 + 260)  
 **Vitesse** 18 m, creusement 18 m, vol 36 m, nage 18 m
 
@@ -17275,7 +17368,8 @@ Morsure.
 Éclat chromatique (coûte 2 actions).  
 __
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Grand dracosire diamantin__
 =============================
@@ -17284,7 +17378,7 @@ __\[ Gem Greatwyrm \]__
 
 __Dragon (diamantin) de taille Gig, typiquement neutre__
 
-__**Classe d'armure** 21 (armure naturelle)  
+**Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 507 (26d20 + 234)  
 **Vitesse** 18 m, creusement 18 m, vol 36 m (stationnaire), nage 18 m
 
@@ -17316,7 +17410,8 @@ Psioniques (coûte 2 actions).
 Rayon psychique (coûte 3 actions).  
 __
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Grand dracosire métallique__
 ==============================
@@ -17325,7 +17420,7 @@ __\[ Metallic Greatwyrm \]__
 
 __Dragon (métallique) de taille Gig, typiquement loyal bon__
 
-__**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 565 (29d20 + 261)  
 **Vitesse** 18 m, creusement 18 m, vol 36 m, nage 18 m
 
@@ -17358,7 +17453,8 @@ Morsure.
 Rugissement fracassant (coûte 2 actions).  
 __
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Grand singe__
 ===============
@@ -17367,7 +17463,7 @@ __\[ Ape \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 19 (3d8 + 6)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -17385,7 +17481,9 @@ A|**Poing**. +5, 1,50 m, 1d6+3 contondants
 A|**Rocher**. +5, 7,50/15 m, 1d6+3 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Graz'zt__
 ===========
@@ -17394,7 +17492,7 @@ __\[ Graz'zt \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 346 (33d10 + 165)  
 **Vitesse** 12 m
 
@@ -17424,7 +17522,8 @@ Attaque.
 Danse, ma marionnette.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Graz'zt legacy__
 ==================
@@ -17433,7 +17532,7 @@ __\[ Graz'zt \]__
 
 __Fiélon (démon, métamorphe) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 346 (33d10 + 165)  
 **Vitesse** 12 m
 
@@ -17467,7 +17566,8 @@ L|**Graine de la discorde**.
 L|**Téléportation**.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Greffeur transdraconique__
 ============================
@@ -17476,7 +17576,7 @@ __\[ Dragonflesh Grafter \]__
 
 __Monstruosité de taille G, typiquement neutre mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 52 (7d10 + 14)  
 **Vitesse** 9 m
 
@@ -17489,7 +17589,8 @@ __**Classe d'armure** 14 (armure naturelle)
 **Langues** commun, draconique  
 **Puissance** 3 (700 PX) **Bonus de maîtrise** +2__
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Grell__
 =========
@@ -17498,7 +17599,7 @@ __\[ Grell \]__
 
 __Aberration de taille M, neutre mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 55 (10d8 + 10)  
 **Vitesse** 3 m, vol 9 m (stationnaire)
 
@@ -17518,7 +17619,8 @@ A|**Tentacules**. +4, 3 m, 1d10+2 perforants
 A|**Bec**. +4, 1,50 m, 2d4+2 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Grenouille__
 ==============
@@ -17527,7 +17629,7 @@ __\[ Frog \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 6 m, nage 6 m
 
@@ -17544,7 +17646,9 @@ __**Amphibien**.
 **Saut sans élan**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Grenouille géante__
 =====================
@@ -17553,7 +17657,7 @@ __\[ Giant Frog \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 18 (4d8)  
 **Vitesse** 9 m, nage 9 m
 
@@ -17572,7 +17676,9 @@ A|**Morsure**. +3, 1,50 m, 1d6+1 perforants
 A|**Engloutissement**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Grick__
 =========
@@ -17581,7 +17687,7 @@ __\[ Grick \]__
 
 __Monstruosité de taille M, neutre__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 27 (6d8)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -17600,7 +17706,9 @@ A|**Tentacules**. +4, 1,50 m, 2d6+2 tranchants
 A|**Bec**. +4, 1,50 m, 1d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Grick dominant__
 ==================
@@ -17609,7 +17717,7 @@ __\[ Grick alpha \]__
 
 __Monstruosité de taille G, neutre__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 75 (10d10 + 20)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -17630,6 +17738,7 @@ A|**Bec**. +7, 3 m, 2d8+4 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Griffe rampante__
 ===================
@@ -17638,7 +17747,7 @@ __\[ Crawling Claw \] \[ Main rampante \]__
 
 __Mort-vivant de taille TP, neutre mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 2 (1d4)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -17656,7 +17765,8 @@ __**Immunité au renvoi**.
 A|**Griffes**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Griffecendre__
 ================
@@ -17665,7 +17775,7 @@ __\[ Boneclaw \] \[ Esquilleux \]__
 
 __Mort-vivant de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 150 (20d10 + 40)  
 **Vitesse** 12 m
 
@@ -17690,7 +17800,8 @@ Discrétion dans les ombres.
 Portée mortelle.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Griffecendre legacy__
 =======================
@@ -17699,7 +17810,7 @@ __\[ Boneclaw \]__
 
 __Mort-vivant de taille G, chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 127 (17d10 + 34)  
 **Vitesse** 12 m
 
@@ -17723,7 +17834,8 @@ Saut des ombres.
 Portée mortelle.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Griffon__
 ===========
@@ -17732,7 +17844,7 @@ __\[ Griffon \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 9 m, vol 24 m
 
@@ -17751,7 +17863,9 @@ A|**Bec**. +6, 1,50 m, 1d8+4 perforants
 A|**Griffes**. +6, 1,50 m, 2d6+4 tranchants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Grung__
 =========
@@ -17760,7 +17874,7 @@ __\[ Grung \]__
 
 __Humanoide de taille P, tout alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 11 (2d6 + 4)  
 **Vitesse** 7,50 m, escalade 7,50 m
 
@@ -17783,7 +17897,8 @@ Dépendance à l'eau.
 Dague.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Grung, guerrier d'élite__
 ===========================
@@ -17792,7 +17907,7 @@ __\[ Grung Elite Warrior \]__
 
 __Humanoïde de taille P, tout alignement__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 49 (9d6 + 18)  
 **Vitesse** 7,50 m, escalade 7,50 m
 
@@ -17817,7 +17932,8 @@ Arc court.
 Gazouilli envoûtant (Recharge 6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Grung, guerrier d'élite legacy__
 ==================================
@@ -17826,7 +17942,7 @@ __\[ Grung Elite Warrior \]__
 
 __Humanoïde (grung) de taille P, loyal mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 49 (9d6 + 18)  
 **Vitesse** 7,50 m, escalade 7,50 m
 
@@ -17850,7 +17966,8 @@ A|**Arc court**. +5, 24/96 m, 1d6+3 perforants
 A|**Gazouilli envoûtant (Recharge 6)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Grung legacy__
 ================
@@ -17859,7 +17976,7 @@ __\[ Grung \]__
 
 __Humanoide (grung) de taille P, loyal mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 11 (2d6 + 4)  
 **Vitesse** 7,50 m, escalade 7,50 m
 
@@ -17881,7 +17998,8 @@ __**Amphibien**.
 A|**Dague**. +4, 1,50 m, 1d4+2 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Grung, sauvageon__
 ====================
@@ -17890,7 +18008,7 @@ __\[ Grung Wildling \]__
 
 __Humanoïde de taille P, tout alignement__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 27 (5d6 + 10)  
 **Vitesse** 7,50 m, escalade 7,50 m
 
@@ -17915,7 +18033,8 @@ Arc court.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Grung, sauvageon legacy__
 ===========================
@@ -17924,7 +18043,7 @@ __\[ Grung Wildling \]__
 
 __Humanoïde (grung) de taille P, loyal mauvais__
 
-__**Classe d'armure** 13 (16 avec _peau d'écorce_)  
+**Classe d'armure** 13 (16 avec _peau d'écorce_)  
 **Points de vie** 27 (5d6 + 10)  
 **Vitesse** 7,50 m, escalade 7,50 m
 
@@ -17951,7 +18070,8 @@ A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants
 A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Guenaude annis__
 ==================
@@ -17960,7 +18080,7 @@ __\[ Annis Hag \]__
 
 __Fée de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 90 (12d10 + 24)  
 **Vitesse** 12 m
 
@@ -17982,7 +18102,8 @@ Griffes.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Guenaude annis legacy__
 =========================
@@ -17991,7 +18112,7 @@ __\[ Annis Hag \]__
 
 __Fée de taille G, chaotique mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 75 (10d10 + 20)  
 **Vitesse** 12 m
 
@@ -18014,7 +18135,8 @@ A|**Griffes**. +8, 1,50 m, 3d6+5 tranchants
 A|**Étreinte excessive**. +8, 1,50 m, 9d6+5 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Guenaude frige__
 ==================
@@ -18023,7 +18145,7 @@ __\[ Bheur Hag \]__
 
 __Fée de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 91 (14d8 + 28)  
 **Vitesse** 9 m
 
@@ -18048,7 +18170,8 @@ Festin oppressant.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Guenaude frige legacy__
 =========================
@@ -18057,7 +18180,7 @@ __\[ Bheur Hag \]__
 
 __Fée de taille M, chaotique mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 91 (14d8 + 28)  
 **Vitesse** 9 m
 
@@ -18082,7 +18205,8 @@ A|**Coup**. +4, 1,50 m, 2d8+1 contondants
 A|**Festin oppressant**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Guenaude marine__
 ===================
@@ -18091,7 +18215,7 @@ __\[ Sea Hag \]__
 
 __Fée de taille M, chaotique mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 52 (7d8 + 21)  
 **Vitesse** 9 m, nage 12 m
 
@@ -18110,7 +18234,9 @@ A|**Éblouissement mortel**.
 A|**Apparence illusoire**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Guenaude nocturne__
 =====================
@@ -18119,7 +18245,7 @@ __\[ Night Hag \]__
 
 __Fiélon de taille M, neutre mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 112 (15d8 + 45)  
 **Vitesse** 9 m
 
@@ -18144,7 +18270,9 @@ A|**Passage dans l'éther**.
 A|**Invasion cauchemardesque (1/jour)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Guenaude verte__
 ==================
@@ -18153,7 +18281,7 @@ __\[ Green Hag \]__
 
 __Fée de taille M, neutre mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 82 (11d8 + 33)  
 **Vitesse** 9 m
 
@@ -18175,7 +18303,9 @@ A|**Apparence illusoire**.
 A|**Passage invisible**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Guêpe des enfers__
 ====================
@@ -18184,7 +18314,7 @@ __\[ Hellwasp \]__
 
 __Fiélon de taille G, loyal mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 52 (8d10 + 8)  
 **Vitesse** 3 m, vol 18 m (stationnaire)
 
@@ -18214,7 +18344,7 @@ __\[ Giant Wasp \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 13 (3d8)  
 **Vitesse** 3 m, vol 15 m
 
@@ -18229,7 +18359,9 @@ __**Classe d'armure** 12
 __A|**Dard**. +4, 1,50 m, 1d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Guerrier momifié__
 ====================
@@ -18238,7 +18370,7 @@ __\[ Mummified Warrior \]__
 
 __Mort-vivant de taille M, neutre__
 
-__**Classe d'armure** 8  
+**Classe d'armure** 8  
 **Points de vie** 19 (3d8 + 6)  
 **Vitesse** 6 m
 
@@ -18258,6 +18390,7 @@ A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Guerrier tribal__
 ===================
@@ -18266,7 +18399,7 @@ __\[ Tribal Warrior \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 12 (armure de peaux)  
+**Classe d'armure** 12 (armure de peaux)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 9 m
 
@@ -18282,7 +18415,9 @@ __**Tactique de groupe**.
 A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Gueule abyssale__
 ===================
@@ -18291,7 +18426,7 @@ __\[ Maw Demon \]__
 
 __Fiélon (démon) de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m
 
@@ -18310,7 +18445,8 @@ __Morsure.
 Dégorgement (Recharge 6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Gueule abyssale legacy__
 ==========================
@@ -18319,7 +18455,7 @@ __\[ Maw Demon \]__
 
 __Fiélon (démon) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m
 
@@ -18338,7 +18474,8 @@ __**Déchaîné**.
 A|**Morsure**. +4, 1,50 m, 2d8+2 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Gueule de Grolantor__
 =======================
@@ -18347,7 +18484,7 @@ __\[ Mouth of Grolantor \]__
 
 __Géant de taille TG, typiquement chaotique mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 105 (10d12 + 40)  
 **Vitesse** 15 m
 
@@ -18366,7 +18503,8 @@ Morsure.
 Poing.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Gueule de Grolantor legacy__
 ==============================
@@ -18375,7 +18513,7 @@ __\[ Mouth of Grolantor \]__
 
 __Géant (géant des collines) de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 105 (10d12 + 40)  
 **Vitesse** 15 m
 
@@ -18398,7 +18536,8 @@ A|**Morsure**. +8, 1,50 m, 3d6+5 perforants
 A|**Poing**. +8, 3 m, 3d8+5 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Gynosphinx__
 ==============
@@ -18407,7 +18546,7 @@ __\[ Gynosphinx \]__
 
 __Monstruosité de taille G, loyal neutre__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 136 (16d10 + 48)  
 **Vitesse** 12 m, vol 18 m
 
@@ -18439,7 +18578,9 @@ L|**Téléportation (coûte 2 actions)**.
 L|**Sort (coûte 3 actions)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Halaster Blackcloak__
 =======================
@@ -18448,7 +18589,7 @@ __\[ Halaster Blackcloak \]__
 
 __Humanoïde (humain) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 14 (17 avec _armure de mage_)  
+**Classe d'armure** 14 (17 avec _armure de mage_)  
 **Points de vie** 246 (29d8 + 116)  
 **Vitesse** 9 m
 
@@ -18482,7 +18623,7 @@ __\[ Harpy \]__
 
 __Monstruosité de taille M, chaotique mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 38 (7d8 + 7)  
 **Vitesse** 6 m, vol 12 m
 
@@ -18500,7 +18641,9 @@ A|**Gourdin**. +3, 1,50 m, 1d4+1 contondants
 A|**Chant captivant**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Héritier des profondeurs__
 ============================
@@ -18509,7 +18652,7 @@ __\[ Deep Scion \]__
 
 __Monstruosité de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 67 (9d8 + 27)  
 **Vitesse** 9 m (6 m et nage 12 m sous forme hybride)
 
@@ -18532,7 +18675,8 @@ Hurlement psychique (forme hybride uniquement ; Recharge après un repos court o
 Métamorphe.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Héritier des profondeurs legacy__
 ===================================
@@ -18541,7 +18685,7 @@ __\[ Deep Scion \]__
 
 __Humanoïde (métamorphe) de taille M, neutre mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 67 (9d8 + 27)  
 **Vitesse** 9 m (6 m et nage 12 m sous forme hybride)
 
@@ -18564,7 +18708,8 @@ A|**Griffes (forme hybride uniquement)**. +6, 1,50 m, 1d6+4 tranchants
 A|**Hurlement psychique (forme hybride uniquement ; Recharge après un repos court ou long)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Hezrou__
 ==========
@@ -18573,7 +18718,7 @@ __\[ Hezrou \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 136 (13d10 + 65)  
 **Vitesse** 9 m
 
@@ -18596,7 +18741,9 @@ A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants
 A|**Morsure**. +7, 1,50 m, 2d10+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Hippocampe__
 ==============
@@ -18605,7 +18752,7 @@ __\[ Sea Horse \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 0 m, nage 6 m
 
@@ -18620,7 +18767,9 @@ __**Classe d'armure** 11
 __**Respiration aquatique**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Hippocampe géant__
 ====================
@@ -18629,7 +18778,7 @@ __\[ Giant Sea Horse \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 16 (3d10)  
 **Vitesse** 0 m, nage 12 m
 
@@ -18646,7 +18795,9 @@ __**Charge**.
 A|**Coup de tête**. +3, 1,50 m, 1d6+1 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Hippogriffe__
 ===============
@@ -18655,7 +18806,7 @@ __\[ Hippogriff \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 19 (3d10 + 3)  
 **Vitesse** 12 m, vol 18 m
 
@@ -18674,7 +18825,9 @@ A|**Bec**. +5, 1,50 m, 1d10+3 perforants
 A|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Hobgobelin__
 ==============
@@ -18683,7 +18836,7 @@ __\[ Hobgoblin \]__
 
 __Humanoïde (gobelinoïde) de taille M, loyal mauvais__
 
-__**Classe d'armure** 18 (cotte de mailles, bouclier)  
+**Classe d'armure** 18 (cotte de mailles, bouclier)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 9 m
 
@@ -18700,7 +18853,9 @@ A|**Épée longue**. +3, 1,50 m, 1d8+1 tranchants
 A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Hobgobelin, capitaine__
 =========================
@@ -18709,7 +18864,7 @@ __\[ Hobgoblin Captain \]__
 
 __Humanoïde (gobelinoïde) de taille M, loyal mauvais__
 
-__**Classe d'armure** 17 (demi-plate)  
+**Classe d'armure** 17 (demi-plate)  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 9 m
 
@@ -18728,7 +18883,8 @@ A|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants
 A|**Commandement (Recharge après un repos court ou long)**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Hobgobelin, dévastateur__
 ===========================
@@ -18737,7 +18893,7 @@ __\[ Hobgoblin Devastator \]__
 
 __Fée (gobelinoïde) de taille M, typiquement loyal neutre__
 
-__**Classe d'armure** 13 (armure de cuir clouté)  
+**Classe d'armure** 13 (armure de cuir clouté)  
 **Points de vie** 45 (7d8 + 14)  
 **Vitesse** 9 m
 
@@ -18757,7 +18913,8 @@ Bâton.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Hobgobelin, dévastateur legacy__
 ==================================
@@ -18766,7 +18923,7 @@ __\[ Hobgoblin Devastator \]__
 
 __Humanoïde (gobelinoïde) de taille M, loyal mauvais__
 
-__**Classe d'armure** 13 (armure de cuir clouté)  
+**Classe d'armure** 13 (armure de cuir clouté)  
 **Points de vie** 45 (7d8 + 14)  
 **Vitesse** 9 m
 
@@ -18790,7 +18947,8 @@ Niv 4 (1) : _tempête de grêle_
 A|**Bâton**. +3, 1,50 m, 1d6+1 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Hobgobelin, ombre de fer__
 ============================
@@ -18799,7 +18957,7 @@ __\[ Hobgoblin Iron Shadow \]__
 
 __Fée (gobelinoïde) de taille M, typiquement loyal neutre__
 
-__**Classe d'armure** 15  
+**Classe d'armure** 15  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 12 m
 
@@ -18820,7 +18978,8 @@ Détour par les ombres.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Hobgobelin, ombre de fer legacy__
 ===================================
@@ -18829,7 +18988,7 @@ __\[ Hobgoblin Iron Shadow \]__
 
 __Humanoïde (gobelinoïde) de taille M, loyal mauvais__
 
-__**Classe d'armure** 15  
+**Classe d'armure** 15  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 12 m
 
@@ -18852,7 +19011,8 @@ A|**Fléchette**. +5, 6/18 m, 1d4+3 perforants
 A|**Détour par les ombres**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Hobgobelin, seigneur de guerre__
 ==================================
@@ -18861,7 +19021,7 @@ __\[ Hobgoblin Warlord \]__
 
 __Humanoïde (gobelinoïde) de taille M, loyal mauvais__
 
-__**Classe d'armure** 20 (harnois, bouclier)  
+**Classe d'armure** 20 (harnois, bouclier)  
 **Points de vie** 97 (13d8 + 39)  
 **Vitesse** 9 m
 
@@ -18884,6 +19044,7 @@ R|**Parade**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Homme-lézard__
 ================
@@ -18892,7 +19053,7 @@ __\[ Lizardfolk \] \[ Saurial \]__
 
 __Humanoïde (homme-lézard) de taille M, neutre__
 
-__**Classe d'armure** 15 (armure naturelle, bouclier)  
+**Classe d'armure** 15 (armure naturelle, bouclier)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m, nage 9 m
 
@@ -18913,7 +19074,9 @@ A|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants
 A|**Bouclier à pointe**. +4, 1,50 m, 1d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Homme-lézard, chaman__
 ========================
@@ -18922,7 +19085,7 @@ __\[ Lizardfolk Shaman \]__
 
 __Humanoïde (homme-lézard) de taille M, neutre__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 9 m, nage 9 m
 
@@ -18947,7 +19110,8 @@ A|**Griffes (forme d'homme-lézard uniquement)**. +4, 1,50 m, 1d4+2 tranchants
 A|**Changement de forme (Recharge après un repos court ou long)**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Homme-poisson__
 =================
@@ -18956,7 +19120,7 @@ __\[ Merfolk \] \[ Thalasséen \]__
 
 __Humanoïde (homme-poisson) de taille M, neutre__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 3 m, nage 12 m
 
@@ -18973,7 +19137,9 @@ __**Amphibien**.
 A|**Lance**. +2, 1,50 m ou 6/18 m, 1d6 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Homoncule__
 =============
@@ -18982,7 +19148,7 @@ __\[ Homunculus \]__
 
 __Artificiel de taille TP, neutre__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 5 (2d4)  
 **Vitesse** 6 m, vol 12 m
 
@@ -19000,7 +19166,9 @@ __**Lien télépathique**.
 A|**Morsure**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Horreur casquée__
 ===================
@@ -19009,7 +19177,7 @@ __\[ Helmed Horror \]__
 
 __Artificiel de taille M, neutre__
 
-__**Classe d'armure** 20 (harnois, bouclier)  
+**Classe d'armure** 20 (harnois, bouclier)  
 **Points de vie** 60 (8d8 + 24)  
 **Vitesse** 9 m, vol 9 m
 
@@ -19031,7 +19199,8 @@ A|**Attaques multiples**.
 A|**Épée longue**. +6, 1,50 m, 1d8+4 tranchants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Horreur chasseresse__
 =======================
@@ -19040,7 +19209,7 @@ __\[ Retriever \]__
 
 __Artificiel de taille G, typiquement loyal mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 210 (20d10 + 100)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -19064,7 +19233,8 @@ Rayon paralysant (Recharge 5–6).
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Horreur chasseresse legacy__
 ==============================
@@ -19073,7 +19243,7 @@ __\[ Retriever \]__
 
 __Artificiel de taille G, loyal mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 210 (20d10 + 100)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -19097,7 +19267,8 @@ Rayon de Force.
 Rayon paralysant (Recharge 5–6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Horreur crochue__
 ===================
@@ -19106,7 +19277,7 @@ __\[ Hook Horror \]__
 
 __Monstruosité de taille G, neutre__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 75 (10d10 + 20)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -19125,7 +19296,8 @@ A|**Attaques multiples**.
 A|**Crochet**. +6, 3 m, 2d6+4 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Huldin__
 ==========
@@ -19134,7 +19306,7 @@ __\[ Huldin \]__
 
 __Humanoïde (humain) de taille M, loyal mauvais__
 
-__**Classe d'armure** 18 (cotte de mailles, bouclier)  
+**Classe d'armure** 18 (cotte de mailles, bouclier)  
 **Points de vie** 112 (15d8 + 45)  
 **Vitesse** 9 m
 
@@ -19156,6 +19328,7 @@ A|**Coup de bouclier**. +7, 1,50 m, 2d4+4 contondants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Hurleur__
 ===========
@@ -19164,7 +19337,7 @@ __\[ Howler \]__
 
 __Fiélon de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 90 (12d10 + 24)  
 **Vitesse** 12 m
 
@@ -19185,7 +19358,8 @@ Morsure déchirante.
 Hurlement briseur d'esprit (Recharge 4–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Hurleur legacy__
 ==================
@@ -19194,7 +19368,7 @@ __\[ Howler \]__
 
 __Fiélon de taille G, chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 90 (12d10 + 24)  
 **Vitesse** 12 m
 
@@ -19215,7 +19389,8 @@ Morsure déchirante.
 Hurlement briseur d'esprit (Recharge 6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Hutijin__
 ===========
@@ -19224,7 +19399,7 @@ __\[ Hutijin \]__
 
 __Fiélon (diable) de taille G, loyal mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 200 (16d10 + 112)  
 **Vitesse** 9 m, vol 18 m
 
@@ -19258,7 +19433,8 @@ Téléportation.
 Tempête d'éclairs (Costs 2 Actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Hutijin legacy__
 ==================
@@ -19267,7 +19443,7 @@ __\[ Hutijin \]__
 
 __Fiélon (diable) de taille G, loyal mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 200 (16d10 + 112)  
 **Vitesse** 9 m, vol 18 m
 
@@ -19302,7 +19478,8 @@ Tempête d'éclairs (Costs 2 Actions).
 Téléportation.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Hydre__
 =========
@@ -19311,7 +19488,7 @@ __\[ Hydra \]__
 
 __Monstruosité de taille TG, sans alignement__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 172 (15d12 + 75)  
 **Vitesse** 9 m, nage 9 m
 
@@ -19332,7 +19509,9 @@ A|**Attaques multiples**.
 A|**Morsure**. +8, 3 m, 1d10+5 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Hydroloth__
 =============
@@ -19341,7 +19520,7 @@ __\[ Hydroloth \]__
 
 __Fiélon (yugoloth) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 15  
+**Classe d'armure** 15  
 **Points de vie** 135 (18d8 + 54)  
 **Vitesse** 6 m, nage 12 m
 
@@ -19370,7 +19549,8 @@ Vol de mémoire (1/jour).
 Téléportation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Hydroloth legacy__
 ====================
@@ -19379,7 +19559,7 @@ __\[ Hydroloth \]__
 
 __Fiélon (yugoloth) de taille M, neutre mauvais__
 
-__**Classe d'armure** 15  
+**Classe d'armure** 15  
 **Points de vie** 135 (18d8 + 54)  
 **Vitesse** 6 m, nage 12 m
 
@@ -19408,7 +19588,8 @@ Vol de mémoire (1/jour).
 Téléportation.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Hyène__
 =========
@@ -19417,7 +19598,7 @@ __\[ Hyena \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 5 (1d8 + 1)  
 **Vitesse** 15 m
 
@@ -19434,7 +19615,9 @@ __**Tactique de groupe**.
 A|**Morsure**. +2, 1,50 m, 1d6 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Hyène géante__
 ================
@@ -19443,7 +19626,7 @@ __\[ Giant Hyena \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 45 (6d10 + 12)  
 **Vitesse** 15 m
 
@@ -19460,7 +19643,9 @@ __**Déchaîné**.
 A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Iggwilv, la Reine-Sorcière__
 ==============================
@@ -19469,7 +19654,7 @@ __\[ Iggwilv the Witch Queen \]__
 
 __Fée de taille M (magicien), chaotique neutre__
 
-__**Classe d'armure** 19 (_robe of the archmagi_)  
+**Classe d'armure** 19 (_robe of the archmagi_)  
 **Points de vie** 255 (30d8 + 120)  
 **Vitesse** 9 m
 
@@ -19493,7 +19678,7 @@ __\[ Illusionist \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 38 (7d8 + 7)  
 **Vitesse** 9 m
 
@@ -19518,7 +19703,8 @@ Niv 4 (1) : _assassin imaginaire\*_
 A|**Bâton**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Imix__
 ========
@@ -19527,7 +19713,7 @@ __\[ Imix \]__
 
 __Élémentaire de taille TG, neutre mauvais__
 
-__**Classe d'armure** 17  
+**Classe d'armure** 17  
 **Points de vie** 325 (26d12 + 156)  
 **Vitesse** 15 m, vol 15 m
 
@@ -19552,7 +19738,7 @@ __\[ Spellcaster (lvl 1) \]__
 
 __Humanoïde (toute race) de taille M, -__
 
-__**Classe d'armure** 12 (armure de cuir)  
+**Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 9 (2d8)  
 **Vitesse** 9 m
 
@@ -19576,7 +19762,8 @@ Niv 1 (2) : _sommeil_
 A|**Bâton**. +2, 1,50 m, 1d6 contondants  
 __
 
-__Rules (Essentials Kit)__
+_Rules (Essentials Kit)_
+{: .label .label-red }
 
 __Incantateur (niv 2)__
 =======================
@@ -19585,7 +19772,7 @@ __\[ Spellcaster (lvl 2) \]__
 
 __Humanoïde (toute race) de taille M, -__
 
-__**Classe d'armure** 12 (armure de cuir)  
+**Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 13 (3d8)  
 **Vitesse** 9 m
 
@@ -19609,7 +19796,8 @@ Niv 1 (2) : _mains brûlantes, sommeil_
 A|**Bâton**. +2, 1,50 m, 1d6 contondants  
 __
 
-__Rules (Essentials Kit)__
+_Rules (Essentials Kit)_
+{: .label .label-red }
 
 __Incantateur (niv 3)__
 =======================
@@ -19618,7 +19806,7 @@ __\[ Spellcaster (lvl 3) \]__
 
 __Humanoïde (toute race) de taille M, -__
 
-__**Classe d'armure** 12 (armure de cuir)  
+**Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 18 (4d8)  
 **Vitesse** 9 m
 
@@ -19642,7 +19830,8 @@ Niv 1 (3) : _mains brûlantes, sommeil_
 A|**Bâton**. +2, 1,50 m, 1d6 contondants  
 __
 
-__Rules (Essentials Kit)__
+_Rules (Essentials Kit)_
+{: .label .label-red }
 
 __Incantateur (niv 4)__
 =======================
@@ -19651,7 +19840,7 @@ __\[ Spellcaster (lvl 4) \]__
 
 __Humanoïde (toute race) de taille M, -__
 
-__**Classe d'armure** 12 (armure de cuir)  
+**Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 22 (5d8)  
 **Vitesse** 9 m
 
@@ -19675,7 +19864,8 @@ Niv 1 (3) : _mains brûlantes, sommeil_
 A|**Bâton**. +2, 1,50 m, 1d6 contondants  
 __
 
-__Rules (Essentials Kit)__
+_Rules (Essentials Kit)_
+{: .label .label-red }
 
 __Incantateur (niv 5)__
 =======================
@@ -19684,7 +19874,7 @@ __\[ Spellcaster (lvl 5) \]__
 
 __Humanoïde (toute race) de taille M, -__
 
-__**Classe d'armure** 12 (armure de cuir)  
+**Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 27 (6d8)  
 **Vitesse** 9 m
 
@@ -19710,7 +19900,8 @@ Niv 2 (2) : _invisibilité_
 A|**Bâton**. +3, 1,50 m, 1d6 contondants  
 __
 
-__Rules (Essentials Kit)__
+_Rules (Essentials Kit)_
+{: .label .label-red }
 
 __Incantateur (niv 6)__
 =======================
@@ -19719,7 +19910,7 @@ __\[ Spellcaster (lvl 6) \]__
 
 __Humanoïde (toute race) de taille M, -__
 
-__**Classe d'armure** 12 (armure de cuir)  
+**Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 31 (7d8)  
 **Vitesse** 9 m
 
@@ -19746,7 +19937,8 @@ Niv 2 (2) : _invisibilité_
 A|**Bâton**. +3, 1,50 m, 1d6 contondants  
 __
 
-__Rules (Essentials Kit)__
+_Rules (Essentials Kit)_
+{: .label .label-red }
 
 __Invocateur legacy__
 =====================
@@ -19755,7 +19947,7 @@ __\[ Conjurer \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 40 (9d8)  
 **Vitesse** 9 m
 
@@ -19781,7 +19973,8 @@ Niv 5 (2) : _invocation d'élémentaire\*_
 A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Irisia__
 ==========
@@ -19790,7 +19983,7 @@ __\[ Irisia \]__
 
 __Humanoïde (humain) de taille M, chaotique bon__
 
-__**Classe d'armure** 13 (chemise de mailles)  
+**Classe d'armure** 13 (chemise de mailles)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m
 
@@ -19814,6 +20007,7 @@ A|**Renvoi des morts-vivants (Recharge après un repos court ou long)**.
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Jarlaxle Baenre__
 ===================
@@ -19822,7 +20016,7 @@ __\[ Jarlaxle Baenre \]__
 
 __Humanoïde (elfe) de taille M, chaotique neutre__
 
-__**Classe d'armure** 24 (_armur de cuir +3_, Défense élégante)  
+**Classe d'armure** 24 (_armur de cuir +3_, Défense élégante)  
 **Points de vie** 123 (19d8 + 38)  
 **Vitesse** 9 m
 
@@ -19861,7 +20055,7 @@ __\[ Juiblex \]__
 
 __Fiélon (démon) de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 350 (28d12 + 168)  
 **Vitesse** 9 m
 
@@ -19891,7 +20085,8 @@ Attaque.
 Contact corrupteur (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Juiblex legacy__
 ==================
@@ -19900,7 +20095,7 @@ __\[ Juiblex \]__
 
 __Fiélon (démon) de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 350 (28d12 + 168)  
 **Vitesse** 9 m
 
@@ -19932,7 +20127,8 @@ Attaque.
 Contact corrupteur (coûte 2 actions).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Kenku__
 =========
@@ -19941,7 +20137,7 @@ __\[ Kenku \]__
 
 __Humanoïde (kenku) de taille M, chaotique neutre__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 13 (3d8)  
 **Vitesse** 9 m
 
@@ -19960,7 +20156,8 @@ A|**Épée courte**. +5, 1,50 m, 1d6+3 perforants
 A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Ki-rin__
 ==========
@@ -19969,7 +20166,7 @@ __\[ Ki-rin \]__
 
 __Céleste de taille TG, typiquement loyal bon__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 153 (18d10 + 54)  
 **Vitesse** 18 m, vol 36 m (stationnaire)
 
@@ -19995,7 +20192,8 @@ Déplacement.
 Châtiment.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Ki-rin legacy__
 =================
@@ -20004,7 +20202,7 @@ __\[ Ki-rin \]__
 
 __Céleste de taille TG, loyal bon__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 152 (16d12 + 48)  
 **Vitesse** 18 m, vol 36 m (stationnaire)
 
@@ -20044,7 +20242,8 @@ L|**Châtiment**.
 L|**Déplacement**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Kobold__
 ==========
@@ -20053,7 +20252,7 @@ __\[ Kobold \]__
 
 __Humanoïde (kobold) de taille P, loyal mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 5 (2d6 - 2)  
 **Vitesse** 9 m
 
@@ -20071,7 +20270,9 @@ A|**Dague**. +4, 1,50 m, 1d4+2 perforants
 A|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Kobold ailé__
 ===============
@@ -20080,7 +20281,7 @@ __\[ Winged Kobold \]__
 
 __Humanoïde (kobold) de taille P, loyal mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 7 (3d6 - 3)  
 **Vitesse** 9 m, vol 9 m
 
@@ -20098,7 +20299,8 @@ A|**Dague**. +5, 1,50 m, 1d4+3 perforants
 A|**Chute de pierre**. +5, , 1d6+3 contondants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Kobold, écu-dragon__
 ======================
@@ -20107,7 +20309,7 @@ __\[ Kobold Dragonshield \]__
 
 __Dragon de taille P, tout alignement__
 
-__**Classe d'armure** 15 (armure de cuir, bouclier)  
+**Classe d'armure** 15 (armure de cuir, bouclier)  
 **Points de vie** 44 (8d6 + 16)  
 **Vitesse** 6 m
 
@@ -20129,7 +20331,8 @@ Attaques multiples.
 Lance.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Kobold, écu-dragon legacy__
 =============================
@@ -20138,7 +20341,7 @@ __\[ Kobold Dragonshield \]__
 
 __Humanoïde (kobold) de taille P, loyal mauvais__
 
-__**Classe d'armure** 15 (armure de cuir, bouclier)  
+**Classe d'armure** 15 (armure de cuir, bouclier)  
 **Points de vie** 44 (8d6 + 16)  
 **Vitesse** 6 m
 
@@ -20160,7 +20363,8 @@ A|**Attaques multiples**.
 A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Kobold, ensorceleur des écailles__
 ====================================
@@ -20169,7 +20373,7 @@ __\[ Kobold Scale Sorcerer \]__
 
 __Humanoïde de taille P, tout alignement__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 27 (5d6 + 10)  
 **Vitesse** 9 m
 
@@ -20190,7 +20394,8 @@ Dague.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Kobold, ensorceleur des écailles legacy__
 ===========================================
@@ -20199,7 +20404,7 @@ __\[ Kobold Scale Sorcerer \]__
 
 __Humanoïde (kobold) de taille P, loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 27 (5d6 + 10)  
 **Vitesse** 9 m
 
@@ -20222,7 +20427,8 @@ Niv 2 (2) : _rayon ardent_
 A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Kobold, inventeur__
 =====================
@@ -20231,7 +20437,7 @@ __\[ Kobold Inventor \]__
 
 __Humanoïde de taille P, tout alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 13 (3d6 + 3)  
 **Vitesse** 9 m
 
@@ -20250,7 +20456,8 @@ Fronde.
 Invention militaire.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Kobold, inventeur legacy__
 ============================
@@ -20259,7 +20466,7 @@ __\[ Kobold Inventor \]__
 
 __Humanoïde (kobold) de taille P, loyal mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 13 (3d6 + 3)  
 **Vitesse** 9 m
 
@@ -20287,7 +20494,8 @@ A|**7- Putois en cage**.
 A|**8- Nid de guêpes dans un sac**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Korred__
 ==========
@@ -20296,7 +20504,7 @@ __\[ Korred \]__
 
 __Fée de taille P, typiquement chaotique neutre__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 93 (11d6 + 55)  
 **Vitesse** 9 m, creusement 9 m
 
@@ -20318,7 +20526,8 @@ Incantation.
 Corde de cheveux.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Korred legacy__
 =================
@@ -20327,7 +20536,7 @@ __\[ Korred \]__
 
 __Fée de taille P, chaotique neutre__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 102 (12d6 + 60)  
 **Vitesse** 9 m, creusement 9 m
 
@@ -20352,7 +20561,8 @@ A|**Massue**. +9, 1,50 m, 1d8+6 contondants
 A|**Rocher**. +9, , 2d8+6 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Kraken__
 ==========
@@ -20361,7 +20571,7 @@ __\[ Kraken \]__
 
 __Monstruosité (titan) de taille Gig, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 472 (27d20 + 189)  
 **Vitesse** 6 m, nage 18 m
 
@@ -20389,7 +20599,9 @@ L|**Tempête d'éclairs (coûte 2 actions)**.
 L|**Nuage d'encre (coûte 3 actions)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Kruthik, adulte__
 ===================
@@ -20398,7 +20610,7 @@ __\[ Adult Kruthik \]__
 
 __Monstruosité de taille M, sans alignement__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 12 m, creusement 6 m, escalade 12 m
 
@@ -20418,7 +20630,8 @@ Frappe.
 Épines.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Kruthik, adulte legacy__
 ==========================
@@ -20427,7 +20640,7 @@ __\[ Adult Kruthik \]__
 
 __Monstruosité de taille M, sans alignement__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 12 m, creusement 6 m, escalade 12 m
 
@@ -20447,7 +20660,8 @@ Frappe.
 Épines.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Kruthik, jeune__
 ==================
@@ -20456,7 +20670,7 @@ __\[ Young Kruthik \] \[ Kruthik, immature \]__
 
 __Monstruosité de taille P, sans alignement__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 9 (2d6 + 2)  
 **Vitesse** 9 m, creusement 3 m, escalade 9 m
 
@@ -20473,7 +20687,8 @@ Fouisseur.
 Frappe.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Kruthik, jeune legacy__
 =========================
@@ -20482,7 +20697,7 @@ __\[ Young Kruthik \]__
 
 __Monstruosité de taille P, sans alignement__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 9 (2d6 + 2)  
 **Vitesse** 9 m, creusement 3 m, escalade 9 m
 
@@ -20500,7 +20715,8 @@ Fouisseur.
 Frappe.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Kruthik, seigneur de la ruche__
 =================================
@@ -20509,7 +20725,7 @@ __\[ Kruthik Hive Lord \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 102 (12d10 + 36)  
 **Vitesse** 12 m, creusement 6 m, escalade 12 m
 
@@ -20529,7 +20745,8 @@ Frappe.
 Vaporisation d'acide (Recharge 5–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Kruthik, seigneur de la ruche legacy__
 ========================================
@@ -20538,7 +20755,7 @@ __\[ Kruthik Hive Lord \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 102 (12d10 + 36)  
 **Vitesse** 12 m, creusement 6 m, escalade 12 m
 
@@ -20559,7 +20776,8 @@ Frappe.
 Vaporisation d'acide (Recharge 5–6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Kuo-toa__
 ===========
@@ -20568,7 +20786,7 @@ __\[ Kuo-toa \]__
 
 __Humanoïde (kuo-toa) de taille M, neutre mauvais__
 
-__**Classe d'armure** 13 (armure naturelle, bouclier)  
+**Classe d'armure** 13 (armure naturelle, bouclier)  
 **Points de vie** 18 (4d8)  
 **Vitesse** 9 m, nage 9 m
 
@@ -20591,7 +20809,8 @@ A|**Filet**.
 R|**Bouclier collant**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Kuo-toa, archiprêtre__
 ========================
@@ -20600,7 +20819,7 @@ __\[ Kuo-toa Archpriest \]__
 
 __Humanoïde (kuo-toa) de taille M, neutre mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 97 (13d8 + 39)  
 **Vitesse** 9 m, nage 9 m
 
@@ -20629,7 +20848,8 @@ A|**Sceptre**. +6, 1,50 m, 1d6+3 contondants
 A|**Attaque à mains nues**. +6, 1,50 m, 1d4+3 contondants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Kuo-toa, fouet__
 ==================
@@ -20638,7 +20858,7 @@ __\[ Kuo-toa Whip \]__
 
 __Humanoïde (kuo-toa) de taille M, neutre mauvais__
 
-__**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 65 (10d8 + 20)  
 **Vitesse** 9 m, nage 9 m
 
@@ -20663,7 +20883,8 @@ A|**Morsure**. +4, 1,50 m, 1d4+2 perforants
 A|**Bâton à pinces**. +4, 3 m, 1d6+2 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __L'abandon legacy__
 ====================
@@ -20672,7 +20893,7 @@ __\[ The Lost \]__
 
 __Monstruosité de taille M, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 78 (12d8 + 24)  
 **Vitesse** 9 m
 
@@ -20692,7 +20913,8 @@ Bras épineux.
 Étreinte serrée.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __La colère legacy__
 ====================
@@ -20701,7 +20923,7 @@ __\[ The Angry \]__
 
 __Monstruosité de taille M, neutre mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 255 (30d8 + 120)  
 **Vitesse** 9 m
 
@@ -20721,7 +20943,8 @@ Attaques multiples.
 Crochet.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __La faim legacy__
 ==================
@@ -20730,7 +20953,7 @@ __\[ The Hungry \]__
 
 __Monstruosité de taille M, neutre mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 225 (30d8 + 90)  
 **Vitesse** 9 m
 
@@ -20749,7 +20972,8 @@ Morsure.
 Griffes.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __La misère legacy__
 ====================
@@ -20758,7 +20982,7 @@ __\[ The Wretched \]__
 
 __Monstruosité de taille P, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 10 (4d6 - 4)  
 **Vitesse** 12 m
 
@@ -20775,7 +20999,8 @@ __Tactique de groupe misérable.
 Morsure.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __La solitude legacy__
 ======================
@@ -20784,7 +21009,7 @@ __\[ The Lonely \]__
 
 __Monstruosité de taille M, neutre mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 112 (15d8 + 45)  
 **Vitesse** 9 m
 
@@ -20804,7 +21029,8 @@ Bras de harpon.
 Étreinte douloureuse.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Laeral Silverhand__
 =====================
@@ -20813,7 +21039,7 @@ __\[ Laeral Silverhand \]__
 
 __Humanoïde (humain) de taille M, chaotique bon__
 
-__**Classe d'armure** 18 (_robe de l'archimage_)  
+**Classe d'armure** 18 (_robe de l'archimage_)  
 **Points de vie** 228 (24d8 + 120)  
 **Vitesse** 9 m
 
@@ -20859,7 +21085,7 @@ __\[ Sword Wraith Commander \]__
 
 __Mort-vivant de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 18 (cuirasse, bouclier)  
+**Classe d'armure** 18 (cuirasse, bouclier)  
 **Points de vie** 127 (15d8 + 60)  
 **Vitesse** 9 m
 
@@ -20884,7 +21110,8 @@ Appel à l'honneur (1/jour).
 Fureur martiale.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Lame-en-peine, commandant legacy__
 ====================================
@@ -20893,7 +21120,7 @@ __\[ Sword Wraith Commander \]__
 
 __Mort-vivant de taille M, loyal mauvais__
 
-__**Classe d'armure** 18 (cuirasse, bouclier)  
+**Classe d'armure** 18 (cuirasse, bouclier)  
 **Points de vie** 127 (15d8 + 60)  
 **Vitesse** 9 m
 
@@ -20917,7 +21144,8 @@ Arc long.
 Appel à l'honneur (1/jour).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Lame-en-peine, guerrier__
 ===========================
@@ -20926,7 +21154,7 @@ __\[ Sword Wraith Warrior \] \[ Lame-en-peine, soldat \]__
 
 __Mort-vivant de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 16 (chemise de mailles, bouclier)  
+**Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m
 
@@ -20947,7 +21175,8 @@ Arc long.
 Fureur martiale.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Lame-en-peine, guerrier legacy__
 ==================================
@@ -20956,7 +21185,7 @@ __\[ Sword Wraith Warrior \]__
 
 __Mort-vivant de taille M, loyal mauvais__
 
-__**Classe d'armure** 16 (chemise de mailles, bouclier)  
+**Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m
 
@@ -20976,7 +21205,8 @@ __Fureur martiale.
 Arc long.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Lame nocturne__
 =================
@@ -20985,7 +21215,7 @@ __\[ Night Blade \]__
 
 __Humanoïde (humain) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 12 m
 
@@ -21011,7 +21241,7 @@ __\[ Lamia \]__
 
 __Monstruosité de taille G, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 97 (13d10 + 26)  
 **Vitesse** 9 m
 
@@ -21034,7 +21264,9 @@ A|**Dague**. +5, 1,50 m, 1d4+3 perforants
 A|**Contact enivrant**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Lekhet__
 ==========
@@ -21043,7 +21275,7 @@ __\[ Lekhet \]__
 
 __Humanoïde (yuan-ti) de taille M, loyal neutre__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 40 (9d8)  
 **Vitesse** 30 ft.
 
@@ -21070,6 +21302,7 @@ A|**Arc court**. +3, 24/96 m, 1d6+1 perforants
 __
 
 __Extra (Adventurers League)__
+{: .label .label-red }
 
 __Lémure__
 ==========
@@ -21078,7 +21311,7 @@ __\[ Lemure \]__
 
 __Fiélon (diable) de taille M, loyal mauvais__
 
-__**Classe d'armure** 7  
+**Classe d'armure** 7  
 **Points de vie** 13 (3d8)  
 **Vitesse** 4,50 m
 
@@ -21098,7 +21331,9 @@ __**Vision de diable**.
 A|**Poing**. +3, 1,50 m, 1d4 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Leucrotta__
 =============
@@ -21107,7 +21342,7 @@ __\[ Leucrotta \]__
 
 __Monstruosité de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 67 (9d10 + 18)  
 **Vitesse** 15 m
 
@@ -21128,7 +21363,8 @@ Sabots.
 Retraite percutante.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Leucrotta legacy__
 ====================
@@ -21137,7 +21373,7 @@ __\[ Leucrotta \]__
 
 __Monstruosité de taille G, chaotique mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 67 (9d10 + 18)  
 **Vitesse** 15 m
 
@@ -21159,7 +21395,8 @@ A|**Morsure**. +6, 1,50 m, 1d8+4 perforants
 A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Léviathan__
 =============
@@ -21168,7 +21405,7 @@ __\[ Leviathan \]__
 
 __Élémentaire de taille Gig, typiquement neutre__
 
-__**Classe d'armure** 17  
+**Classe d'armure** 17  
 **Points de vie** 328 (16d20 + 160)  
 **Vitesse** 12 m, nage 36 m
 
@@ -21196,7 +21433,8 @@ Déplacement.
 Coup (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Léviathan legacy__
 ====================
@@ -21205,7 +21443,7 @@ __\[ Leviathan \]__
 
 __Élémentaire de taille Gig, neutre__
 
-__**Classe d'armure** 17  
+**Classe d'armure** 17  
 **Points de vie** 328 (16d20 + 160)  
 **Vitesse** 12 m, nage 36 m
 
@@ -21233,7 +21471,8 @@ Coup (coûte 2 actions).
 Déplacement.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Lézard__
 ==========
@@ -21242,7 +21481,7 @@ __\[ Lizard \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 2 (1d4)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -21257,7 +21496,9 @@ __**Classe d'armure** 10
 __A|**Morsure**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Lézard géant__
 ================
@@ -21266,7 +21507,7 @@ __\[ Giant Lizard \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 19 (3d10 + 3)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -21281,7 +21522,9 @@ __**Classe d'armure** 12 (armure naturelle)
 __A|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Liane meurtrière__
 ====================
@@ -21290,7 +21533,7 @@ __\[ Assassin Vine \]__
 
 __Plante de taille G, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 85 (10d10 + 30)  
 **Vitesse** 1,50 m, escalade 1,50 m
 
@@ -21318,7 +21561,7 @@ __\[ Lich \]__
 
 __Mort-vivant de taille M, tout alignement mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 135 (18d8 + 54)  
 **Vitesse** 9 m
 
@@ -21356,7 +21599,9 @@ L|**Regard effrayant (coûte 2 actions)**.
 L|**Perturbation de la vie (coûte 3 actions)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Licorne__
 ===========
@@ -21365,7 +21610,7 @@ __\[ Unicorn \]__
 
 __Céleste de taille G, loyal bon__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 67 (9d10 + 18)  
 **Vitesse** 15 m
 
@@ -21395,7 +21640,9 @@ L|**Boucliers scintillant (coûte 2 actions)**.
 L|**Soin personnel (coûte 3 actions)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Lierre musqué jaune__
 =======================
@@ -21404,7 +21651,7 @@ __\[ Yellow Musk Creeper \]__
 
 __Plante de taille M, sans alignement__
 
-__**Classe d'armure** 6  
+**Classe d'armure** 6  
 **Points de vie** 60 (11d8 + 11)  
 **Vitesse** 1,50 m, escalade 1,50 m
 
@@ -21432,7 +21679,7 @@ __\[ Vine Blight \]__
 
 __Plante de taille M, neutre mauvais__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 26 (4d8 + 8)  
 **Vitesse** 3 m
 
@@ -21452,6 +21699,7 @@ A|**Enchevêtrement des plantes (Recharge 5-6)**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Lièvre__
 ==========
@@ -21460,7 +21708,7 @@ __\[ Hare \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 6 m, creusement 1,50 m
 
@@ -21485,7 +21733,7 @@ __\[ Lion \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 26 (4d10 + 4)  
 **Vitesse** 15 m
 
@@ -21506,7 +21754,9 @@ A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants
 A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Loup__
 ========
@@ -21515,7 +21765,7 @@ __\[ Wolf \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 12 m
 
@@ -21533,7 +21783,9 @@ __**Odorat et ouïe aiguisés**.
 A|**Morsure**. +4, 1,50 m, 2d4+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Loup arctique__
 =================
@@ -21542,7 +21794,7 @@ __\[ Winter Wolf \]__
 
 __Monstruosité de taille G, neutre mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 75 (10d10 + 20)  
 **Vitesse** 15 m
 
@@ -21563,7 +21815,9 @@ A|**Morsure**. +6, 1,50 m, 2d6+4 perforants
 A|**Souffle glacé (Recharge 5-6)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Loup-garou__
 ==============
@@ -21572,7 +21826,7 @@ __\[ Werewolf \]__
 
 __Humanoïde (humain, métamorphe) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme de loup ou sous forme hybride  
+**Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme de loup ou sous forme hybride  
 **Points de vie** 58 (9d8 + 18)  
 **Vitesse** 9 m (12 m sous forme de loup)
 
@@ -21594,7 +21848,9 @@ A|**Griffes (forme hybride uniquement)**. +4, 1,50 m, 2d4+2 tranchants
 A|**Lance (forme humanoïde uniquement)**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Loup sanguinaire__
 ====================
@@ -21603,7 +21859,7 @@ __\[ Dire Wolf \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 37 (5d10 + 10)  
 **Vitesse** 15 m
 
@@ -21621,7 +21877,9 @@ __**Odorat et ouïe aiguisés**.
 A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Machine de guerre infernale__
 ===============================
@@ -21630,7 +21888,7 @@ __\[ Hellfire Engine \]__
 
 __Artificiel de taille TG, typiquement loyal mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 216 (16d12 + 112)  
 **Vitesse** 12 m
 
@@ -21653,7 +21911,8 @@ Foulée fracassante.
 Armes infernales.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Machine de guerre infernale legacy__
 ======================================
@@ -21662,7 +21921,7 @@ __\[ Hellfire Engine \]__
 
 __Artificiel de taille TG, loyal mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 216 (16d12 + 112)  
 **Vitesse** 12 m
 
@@ -21684,7 +21943,8 @@ Foulée fracassante.
 Armes infernales.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Mage__
 ========
@@ -21693,7 +21953,7 @@ __\[ Mage \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 40 (9d8)  
 **Vitesse** 9 m
 
@@ -21717,7 +21977,9 @@ Niv 5 (1) : _cône de froid_
 A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Magicien abjurateur__
 =======================
@@ -21726,7 +21988,7 @@ __\[ Abjurer Wizard \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 104 (16d8 32)  
 **Vitesse** 9 m
 
@@ -21747,7 +22009,8 @@ Incantation.
 Protection arcanique (Recharge 4–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Magicien devin__
 ==================
@@ -21756,7 +22019,7 @@ __\[ Diviner Wizard \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 90 (20d8)  
 **Vitesse** 9 m
 
@@ -21777,7 +22040,8 @@ Incantation.
 Présage (3/jour).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Magicien enchanteur__
 =======================
@@ -21786,7 +22050,7 @@ __\[ Enchanter Wizard \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 49 (11d8)  
 **Vitesse** 9 m
 
@@ -21806,7 +22070,8 @@ Incantation.
 Charme instinctif (Recharge 4–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Magicien évocateur__
 ======================
@@ -21815,7 +22080,7 @@ __\[ Evoker Wizard \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 121 (22d8 + 22)  
 **Vitesse** 9 m
 
@@ -21835,7 +22100,8 @@ Explosion délimitée (Recharge 4–6).
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Magicien illusionniste__
 ==========================
@@ -21844,7 +22110,7 @@ __\[ Illusionist Wizard \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 44 (8d8 + 8)  
 **Vitesse** 9 m
 
@@ -21864,7 +22130,8 @@ Incantation.
 Déplacement (Recharge 5–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Magicien invocateur__
 =======================
@@ -21873,7 +22140,7 @@ __\[ Conjurer Wizard \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 58 (13d8)  
 **Vitesse** 9 m
 
@@ -21894,7 +22161,8 @@ Permutation (Recharge 4–6).
 Convocation d'élémentaire (1/jour).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Magicien nécromant__
 ======================
@@ -21903,7 +22171,7 @@ __\[ Necromancer Wizard \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 110 (20d8 + 20)  
 **Vitesse** 9 m
 
@@ -21925,7 +22193,8 @@ Convocation de mort-vivant (1/jour).
 Sinistre moisson (1/tour).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Magicien transmutateur__
 ==========================
@@ -21934,7 +22203,7 @@ __\[ Transmuter Wizard \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 49 (11d8)  
 **Vitesse** 9 m
 
@@ -21954,7 +22223,8 @@ Incantation.
 Transmutation (Recharge 4–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Magmatique__
 ==============
@@ -21963,7 +22233,7 @@ __\[ Magmin \]__
 
 __Élémentaire de taille P, chaotique neutre__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 9 (2d6 + 2)  
 **Vitesse** 9 m
 
@@ -21982,7 +22252,9 @@ __**Mort explosive**.
 A|**Contact**. +4, 1,50 m, 2d6 feu  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Maître des âmes__
 ===================
@@ -21991,7 +22263,7 @@ __\[ Master of Souls \]__
 
 __Humanoïde (humain) de taille M, neutre mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m
 
@@ -22027,7 +22299,7 @@ __\[ Master Thief \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 16 (armure de cuir clouté)  
+**Classe d'armure** 16 (armure de cuir clouté)  
 **Points de vie** 84 (13d8 + 26)  
 **Vitesse** 9 m
 
@@ -22049,7 +22321,8 @@ B|**Action fourbe**.
 R|**Esquive**.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Maître voleur legacy__
 ========================
@@ -22058,7 +22331,7 @@ __\[ Master Thief \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 16 (armure de cuir clouté)  
+**Classe d'armure** 16 (armure de cuir clouté)  
 **Points de vie** 84 (13d8 + 26)  
 **Vitesse** 9 m
 
@@ -22081,7 +22354,8 @@ A|**Arbalète légère**. +7, 24/96 m, 1d8+4 perforants
 R|**Esquive**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Maldryn__
 ===========
@@ -22090,7 +22364,7 @@ __\[ Maldryn \]__
 
 __Humanoïde (demi-elfe) de taille M, neutre mauvais__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 31 (7d8)  
 **Vitesse** 9 m
 
@@ -22117,6 +22391,7 @@ A|**Bâton**. +2, 1,50 m, 1d6 contondants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Malfrat__
 ===========
@@ -22125,7 +22400,7 @@ __\[ Thug \]__
 
 __Humanoïde (toute race) de taille M, tout alignement non bon__
 
-__**Classe d'armure** 11 (armure de cuir)  
+**Classe d'armure** 11 (armure de cuir)  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 9 m
 
@@ -22144,7 +22419,9 @@ A|**Masse d'armes**. +4, 1,50 m, 1d6+2 contondants
 A|**Arbalète lourde**. +2, 30/120 m, 1d10 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Mammouth__
 ============
@@ -22153,7 +22430,7 @@ __\[ Mammoth \]__
 
 __Bête de taille TG, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 126 (11d12 + 55)  
 **Vitesse** 12 m
 
@@ -22170,7 +22447,9 @@ A|**Défenses**. +10, 3 m, 4d8+7 perforants
 A|**Piétinement**. +10, 1,50 m, 4d10+7 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Mâne__
 ========
@@ -22179,7 +22458,7 @@ __\[ Manes \]__
 
 __Fiélon (démon) de taille P, chaotique mauvais__
 
-__**Classe d'armure** 9  
+**Classe d'armure** 9  
 **Points de vie** 9 (2d6 + 2)  
 **Vitesse** 6 m
 
@@ -22198,6 +22477,7 @@ __A|**Griffes**. +2, 1,50 m, 2d4 tranchants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Manshoon__
 ============
@@ -22206,7 +22486,7 @@ __\[ Manshoon \]__
 
 __Humanoïde (humain) de taille M, loyal mauvais__
 
-__**Classe d'armure** 19 (_robe de l'archimage, bâton de puissance_)  
+**Classe d'armure** 19 (_robe de l'archimage, bâton de puissance_)  
 **Points de vie** 126 (23d8 + 23)  
 **Vitesse** 9 m
 
@@ -22236,7 +22516,7 @@ __\[ Darkmantle \]__
 
 __Monstruosité de taille P, sans alignement__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 22 (5d6 + 5)  
 **Vitesse** 3 m, vol 9 m
 
@@ -22255,7 +22535,9 @@ A|**Écrasement**. +5, 1,50 m, 1d6+3 contondants
 A|**Aura ténébreuse (1/jour)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Manteleur__
 =============
@@ -22264,7 +22546,7 @@ __\[ Cloaker \]__
 
 __Aberration de taille G, chaotique neutre__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 78 (12d10 + 12)  
 **Vitesse** 3 m, vol 12 m
 
@@ -22287,7 +22569,9 @@ A|**Gémissement**.
 A|**Fantasmes (Recharge après un repos court ou long)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Manticore__
 =============
@@ -22296,7 +22580,7 @@ __\[ Manticore \]__
 
 __Monstruosité de taille G, loyal mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 68 (8d10 + 24)  
 **Vitesse** 9 m, vol 15 m
 
@@ -22315,7 +22599,9 @@ A|**Morsure**. +5, 1,50 m, 1d8+3 perforants
 A|**Piquant**. +5, 30/60 m, 1d8+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Maride__
 ==========
@@ -22324,7 +22610,7 @@ __\[ Marid \]__
 
 __Élémentaire de taille G, chaotique neutre__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 229 (17d10 + 136)  
 **Vitesse** 9 m, nage 27 m, vol 18 m
 
@@ -22350,6 +22636,7 @@ A|**Jet d'eau**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Marilith__
 ============
@@ -22358,7 +22645,7 @@ __\[ Marilith \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 189 (18d10 + 90)  
 **Vitesse** 12 m
 
@@ -22384,7 +22671,9 @@ A|**Téléportation**.
 R|**Parade**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Maruth__
 ==========
@@ -22393,7 +22682,7 @@ __\[ Marut \]__
 
 __Artificiel (inévitable) de taille G, typiquement loyal neutre__
 
-__**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 432 (32d10 + 256)  
 **Vitesse** 12 m, vol 9 m (stationnaire)
 
@@ -22420,7 +22709,8 @@ Coup infaillible.
 Changement de plan (3/jour).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Maruth legacy__
 =================
@@ -22429,7 +22719,7 @@ __\[ Marut \]__
 
 __Artificiel (inévitable) de taille G, loyal neutre__
 
-__**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 432 (32d10 + 256)  
 **Vitesse** 12 m, vol 9 m (stationnaire)
 
@@ -22456,7 +22746,8 @@ Coup infaillible.
 Renvoi.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Mastodonte des ombres__
 =========================
@@ -22465,7 +22756,7 @@ __\[ Umber Hulk \]__
 
 __Monstruosité de taille G, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 93 (11d10 + 33)  
 **Vitesse** 9 m, creusement 6 m
 
@@ -22484,7 +22775,8 @@ A|**Griffes**. +8, 1,50 m, 1d8+5 tranchants
 A|**Mandibules**. +8, 1,50 m, 2d8+5 tranchants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Maurezhi__
 ============
@@ -22493,7 +22785,7 @@ __\[ Maurezhi \]__
 
 __Fiélon (démon) de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 88 (16d8 + 16)  
 **Vitesse** 9 m
 
@@ -22517,7 +22809,8 @@ Griffes
 Relever les goules (Recharge 5–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Maurezhi legacy__
 ===================
@@ -22526,7 +22819,7 @@ __\[ Maurezhi \]__
 
 __Fiélon (démon) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 88 (16d8 + 16)  
 **Vitesse** 9 m
 
@@ -22550,7 +22843,8 @@ Griffes
 Relever les goules (Recharge 5–6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Méduse__
 ==========
@@ -22559,7 +22853,7 @@ __\[ Medusa \]__
 
 __Monstruosité de taille M, loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 127 (17d8 + 51)  
 **Vitesse** 9 m
 
@@ -22579,7 +22873,9 @@ A|**Épée courte**. +5, 1,50 m, 1d6+2 perforants
 A|**Arc Long**. +5, 45/180 m, 1d8+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Méphite boueux__
 ==================
@@ -22588,7 +22884,7 @@ __\[ Mud Mephit \]__
 
 __Élémentaire de taille P, neutre mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 27 (6d6 + 6)  
 **Vitesse** 6 m, nage 6 m, vol 6 m
 
@@ -22609,7 +22905,8 @@ A|**Poing**. +3, 1,50 m, 1d6+1 contondants
 A|**Souffle boueux (Recharge 6)**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Méphite fumant__
 ==================
@@ -22618,7 +22915,7 @@ __\[ Smoke Mephit \]__
 
 __Élémentaire de taille P, neutre mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 22 (5d6 + 5)  
 **Vitesse** 9 m, vol 9 m
 
@@ -22639,7 +22936,8 @@ A|**Griffes**. +4, 1,50 m, 1d4+2 tranchants
 A|**Souffle de cendre (Recharge 6)**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Méphite gelé__
 ================
@@ -22648,7 +22946,7 @@ __\[ Ice Mephit \]__
 
 __Élémentaire de taille P, neutre mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 21 (6d6)  
 **Vitesse** 9 m, vol 9 m
 
@@ -22671,7 +22969,9 @@ A|**Griffes**. +3, 1,50 m, 1d4+1 tranchants
 A|**Souffle de givre (Recharge 6)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Méphite magmatique__
 ======================
@@ -22680,7 +22980,7 @@ __\[ Magma Mephit \]__
 
 __Élémentaire de taille P, neutre mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 22 (5d6 + 5)  
 **Vitesse** 9 m, vol 9 m
 
@@ -22703,7 +23003,9 @@ A|**Griffes**. +3, 1,50 m, 1d4+1 tranchants
 A|**Souffle de feu (Recharge 6)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Méphite poussiéreux__
 =======================
@@ -22712,7 +23014,7 @@ __\[ Dust Mephit \]__
 
 __Élémentaire de taille P, neutre mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 17 (5d6)  
 **Vitesse** 9 m, vol 9 m
 
@@ -22734,7 +23036,9 @@ A|**Griffes**. +4, 1,50 m, 1d4+2 tranchants
 A|**Souffle aveuglant (Recharge 6)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Méphite vaporeux__
 ====================
@@ -22743,7 +23047,7 @@ __\[ Steam Mephit \]__
 
 __Élémentaire de taille P, neutre mauvais__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 21 (6d6)  
 **Vitesse** 9 m, vol 9 m
 
@@ -22763,7 +23067,9 @@ A|**Griffes**. +2, 1,50 m, 1d4 tranchants
 A|**Souffle vaporeux (Recharge 6)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Mercenaire de Bois noir__
 ===========================
@@ -22772,7 +23078,7 @@ __\[ Black Wood Mercenary \]__
 
 __Humanoïde (humain) de taille M, neutre__
 
-__**Classe d'armure** 13 (chemise de mailles)  
+**Classe d'armure** 13 (chemise de mailles)  
 **Points de vie** 38 (7d8 + 7)  
 **Vitesse** 9 m
 
@@ -22790,6 +23096,7 @@ A|**Arbalète légère**. +2, 24/96 m, 1d8 perforants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Merregon__
 ============
@@ -22798,7 +23105,7 @@ __\[ Merregon \]__
 
 __Fiélon (diable) de taille M, loyal mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m
 
@@ -22821,7 +23128,8 @@ Arbalète lourde.
 Garde du corps fidèle.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Merregon legacy__
 ===================
@@ -22830,7 +23138,7 @@ __\[ Merregon \]__
 
 __Fiélon (diable) de taille M, loyal mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m
 
@@ -22853,7 +23161,8 @@ Arbalète lourde.
 Garde du corps fidèle.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Merrenoloth__
 ===============
@@ -22862,7 +23171,7 @@ __\[ Merrenoloth \]__
 
 __Fiélon (yugoloth) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 40 (9d8)  
 **Vitesse** 9 m, nage 12 m
 
@@ -22887,7 +23196,8 @@ Incantation.
 Téléportation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Merrenoloth legacy__
 ======================
@@ -22896,7 +23206,7 @@ __\[ Merrenoloth \]__
 
 __Fiélon (yugoloth) de taille M, neutre mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 40 (9d8)  
 **Vitesse** 9 m, nage 12 m
 
@@ -22922,7 +23232,8 @@ Rame.
 Regard de peur.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Merrow__
 ==========
@@ -22931,7 +23242,7 @@ __\[ Merrow \]__
 
 __Monstruosité de taille G, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 45 (6d10 + 12)  
 **Vitesse** 3 m, nage 12 m
 
@@ -22950,7 +23261,9 @@ A|**Morsure**. +6, 1,50 m, 1d8+4 perforants
 A|**Harpon**. +6, 1,50 m ou 6/18 m, 2d6+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Mez'Arate__
 =============
@@ -22959,7 +23272,7 @@ __\[ Mez'Arate \]__
 
 __Humanoïde (humain) de taille M, loyal mauvais__
 
-__**Classe d'armure** 14 (avec _armure de mage_)  
+**Classe d'armure** 14 (avec _armure de mage_)  
 **Points de vie** 28 (6d8)  
 **Vitesse** 9 m
 
@@ -22982,6 +23295,7 @@ A|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+1 perforants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Mezzoloth__
 =============
@@ -22990,7 +23304,7 @@ __\[ Mezzoloth \]__
 
 __Fiélon (yugoloth) de taille M, neutre mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 12 m
 
@@ -23017,7 +23331,8 @@ A|**Trident**. +7, 1,50 m ou 6/18 m, 1d6+4 perforants
 A|**Téléportation**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Miirym__
 ==========
@@ -23026,7 +23341,7 @@ __\[ Miirym \]__
 
 __Mort-vivant de taille G, -__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 262 (25d10 + 125)  
 **Vitesse** 0 m, vol 18 m (stationnaire)
 
@@ -23052,7 +23367,7 @@ __\[ Giant Centipede \]__
 
 __Bête de taille P, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 4 (1d6 + 1)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -23067,7 +23382,9 @@ __**Classe d'armure** 13 (armure naturelle)
 __A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Mimique__
 ===========
@@ -23076,7 +23393,7 @@ __\[ Mimic \]__
 
 __Monstruosité (métamorphe) de taille M, neutre__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 58 (9d8 + 18)  
 **Vitesse** 4,50 m
 
@@ -23099,7 +23416,9 @@ A|**Pseudopode**. +5, 1,50 m, 1d8+3 contondants
 A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Mimique de magot__
 ====================
@@ -23108,7 +23427,7 @@ __\[ Hoard Mimic \]__
 
 __Monstruosité de taille TG, typiquement neutre__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 123 (13d12 + 39)  
 **Vitesse** 9 m
 
@@ -23123,7 +23442,8 @@ __**Classe d'armure** 14 (armure naturelle)
 **Langues** commun, draconique, télépathie 36 m  
 **Puissance** 8 (3900 PX) **Bonus de maîtrise** +3__
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Minotaure__
 =============
@@ -23132,7 +23452,7 @@ __\[ Minotaur \]__
 
 __Monstruosité de taille G, chaotique mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 76 (9d10 + 27)  
 **Vitesse** 12 m
 
@@ -23152,7 +23472,9 @@ A|**Hache à deux mains**. +6, 1,50 m, 2d12+4 tranchants
 A|**Corne**. +6, 1,50 m, 2d8+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Moisissure violette__
 =======================
@@ -23161,7 +23483,7 @@ __\[ Violet Fungus \]__
 
 __Plante de taille M, sans alignement__
 
-__**Classe d'armure** 5  
+**Classe d'armure** 5  
 **Points de vie** 18 (4d8)  
 **Vitesse** 1,50 m
 
@@ -23179,7 +23501,9 @@ A|**Attaques multiples**.
 A|**Contact pourrissant**. +2, 3 m, 1d8 nécrotiques  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Moloch__
 ==========
@@ -23188,7 +23512,7 @@ __\[ Moloch \]__
 
 __Fiélon (diable) de taille G, loyal mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 253 (22d10 + 132)  
 **Vitesse** 9 m
 
@@ -23220,7 +23544,8 @@ Téléportation.
 Sort (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Moloch legacy__
 =================
@@ -23229,7 +23554,7 @@ __\[ Moloch \]__
 
 __Fiélon (diable) de taille G, loyal mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 253 (22d10 + 132)  
 **Vitesse** 9 m
 
@@ -23264,7 +23589,8 @@ L|**Téléportation**.
 L|**Fouet**.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Molosse__
 ===========
@@ -23273,7 +23599,7 @@ __\[ Mastiff \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 5 (1d8 + 1)  
 **Vitesse** 12 m
 
@@ -23290,7 +23616,9 @@ __**Odorat et ouïe aiguisés**.
 A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Molosse des ombres__
 ======================
@@ -23299,7 +23627,7 @@ __\[ Shadow Mastiff \]__
 
 __Monstruosité de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 44 (8d8 + 8)  
 **Vitesse** 12 m
 
@@ -23319,7 +23647,8 @@ Morsure.
 Mélange d'ombre.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Molosse des ombres dominant__
 ===============================
@@ -23328,7 +23657,7 @@ __\[ Shadow Mastiff Alpha \] \[ Molosse des ombres alpha \]__
 
 __Monstruosité de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 12 m
 
@@ -23349,7 +23678,8 @@ Hurlement terrifiant (Recharge 6).
 Mélange d'ombre.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Molosse des ombres legacy__
 =============================
@@ -23358,7 +23688,7 @@ __\[ Shadow Mastiff \]__
 
 __Monstruosité de taille M, neutre mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 12 m
 
@@ -23379,7 +23709,8 @@ __**Conscience éthérée**.
 A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Molydée__
 ===========
@@ -23388,7 +23719,7 @@ __\[ Molydeus \]__
 
 __Fiélon (démon) de taille TG, typiquement chaotique mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 216 (16d12 + 112)  
 **Vitesse** 12 m
 
@@ -23417,7 +23748,8 @@ Déplacement.
 Sort (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Molydée legacy__
 ==================
@@ -23426,7 +23758,7 @@ __\[ Molydeus \]__
 
 __Fiélon (démon) de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 216 (16d12 + 112)  
 **Vitesse** 12 m
 
@@ -23456,7 +23788,8 @@ Déplacement.
 Sort.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Momie__
 =========
@@ -23465,7 +23798,7 @@ __\[ Mummy \]__
 
 __Mort-vivant de taille M, loyal mauvais__
 
-__**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 58 (9d8 + 18)  
 **Vitesse** 6 m
 
@@ -23487,7 +23820,9 @@ A|**Poings putréfiants**. +5, 1,50 m, 2d6+3 contondants
 A|**Regard d'épouvante**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Monodrone__
 =============
@@ -23496,7 +23831,7 @@ __\[ Monodrone \]__
 
 __Artificiel de taille M, loyal neutre__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 5 (1d8 + 1)  
 **Vitesse** 9 m, vol 9 m
 
@@ -23515,6 +23850,7 @@ A|**Javeline**. +2, 1,50 m ou 9/36 m, 1d6 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Morbilleux__
 ==============
@@ -23523,7 +23859,7 @@ __\[ Meazel \]__
 
 __Monstruosité de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 35 (10d8 - 10)  
 **Vitesse** 9 m
 
@@ -23542,7 +23878,8 @@ Téléportation par les ombres (Recharge 5–6).
 Discrétion dans les ombres.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Morbilleux legacy__
 =====================
@@ -23551,7 +23888,7 @@ __\[ Meazel \]__
 
 __Humanoïde (morbilleux) de taille M, neutre mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 35 (10d8 - 10)  
 **Vitesse** 9 m
 
@@ -23570,7 +23907,8 @@ Garrot.
 Téléportation par les ombres (Recharge 5–6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Morkoth__
 ===========
@@ -23579,7 +23917,7 @@ __\[ Morkoth \]__
 
 __Aberration de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 165 (22d10 + 44)  
 **Vitesse** 7,50 m, nage 15 m
 
@@ -23602,7 +23940,8 @@ Incantation.
 Renvoi de sort.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Morkoth legacy__
 ==================
@@ -23611,7 +23950,7 @@ __\[ Morkoth \]__
 
 __Aberration de taille M, chaotique mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 130 (20d8 + 40)  
 **Vitesse** 7,50 m, nage 15 m
 
@@ -23642,7 +23981,8 @@ A|**Hypnose**.
 R|**Renvoi de sort**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Morse__
 =========
@@ -23651,7 +23991,7 @@ __\[ Walrus \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 9  
+**Classe d'armure** 9  
 **Points de vie** 22 (3d10 + 6)  
 **Vitesse** 6 m, nage 12 m
 
@@ -23676,7 +24016,7 @@ __\[ Giant Walrus \]__
 
 __Bête de taille TG, sans alignement__
 
-__**Classe d'armure** 9  
+**Classe d'armure** 9  
 **Points de vie** 55 (9d12 + 27)  
 **Vitesse** 6 m, nage 12 m
 
@@ -23703,7 +24043,7 @@ __\[ Muiral \]__
 
 __Monstruosité de taille G, chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 195 (23d10 + 69)  
 **Vitesse** 15 m
 
@@ -23736,7 +24076,7 @@ __\[ Mule \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 12 m
 
@@ -23753,7 +24093,9 @@ __**Bête de somme**.
 A|**Sabots**. +2, 1,50 m, 1d4+2 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Myconide, adulte__
 ====================
@@ -23762,7 +24104,7 @@ __\[ Myconid adult \]__
 
 __Plante de taille M, loyal neutre__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 6 m
 
@@ -23782,6 +24124,7 @@ A|**Spores de communication (3/jour)**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Myconide, pousse__
 ====================
@@ -23790,7 +24133,7 @@ __\[ Myconid sprout \] \[ Pousse de myconide \]__
 
 __Plante de taille P, loyal neutre__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 7 (2d6)  
 **Vitesse** 3 m
 
@@ -23809,6 +24152,7 @@ A|**Spores de communication (3/jour)**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Myconide, souverain__
 =======================
@@ -23817,7 +24161,7 @@ __\[ Myconid Sovereign \]__
 
 __Plante de taille G, loyal neutre__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 60 (8d10 + 16)  
 **Vitesse** 9 m
 
@@ -23840,6 +24184,7 @@ A|**Spores de communication**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Nabassu__
 ===========
@@ -23848,7 +24193,7 @@ __\[ Nabassu \]__
 
 __Fiélon (démon) de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 190 (20d8 + 100)  
 **Vitesse** 12 m, vol 18 m
 
@@ -23874,7 +24219,8 @@ Griffes.
 Regard voleur d'âme.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Nabassu legacy__
 ==================
@@ -23883,7 +24229,7 @@ __\[ Nabassu \]__
 
 __Fiélon (démon) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 190 (20d8 + 100)  
 **Vitesse** 12 m, vol 18 m
 
@@ -23910,7 +24256,8 @@ Griffes.
 Regard voleur d'âme.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Naga corrupteur__
 ===================
@@ -23919,7 +24266,7 @@ __\[ Spirit Naga \]__
 
 __Monstruosité de taille G, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 75 (10d10 + 20)  
 **Vitesse** 12 m
 
@@ -23945,7 +24292,9 @@ Niv 5 (2) : _domination de personne_
 A|**Morsure**. +7, 3 m, 1d6+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Naga gardien__
 ================
@@ -23954,7 +24303,7 @@ __\[ Guardian Naga \]__
 
 __Monstruosité de taille G, loyal bon__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 127 (15d10 + 45)  
 **Vitesse** 12 m
 
@@ -23982,7 +24331,9 @@ A|**Morsure**. +8, 3 m, 1d8+4 perforants
 A|**Crachat empoisonné**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Naga osseux__
 ===============
@@ -23991,7 +24342,7 @@ __\[ Bone Naga \]__
 
 __Mort-vivant de taille G, loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 58 (9d10 + 9)  
 **Vitesse** 9 m
 
@@ -24020,6 +24371,7 @@ A|**Morsure**. +5, 3 m, 2d6+3 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Nagpa__
 =========
@@ -24028,7 +24380,7 @@ __\[ Nagpa \]__
 
 __Monstruosité (magicien) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 203 (37d8 + 37)  
 **Vitesse** 9 m
 
@@ -24050,7 +24402,8 @@ Corruption.
 Paralysie (Recharge 6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Nagpa legacy__
 ================
@@ -24059,7 +24412,7 @@ __\[ Nagpa \]__
 
 __Humanoïde (nagpa) de taille M, neutre mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 187 (34d8 + 34)  
 **Vitesse** 9 m
 
@@ -24079,7 +24432,8 @@ Incantation.
 Batôn.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Nalfeshnie__
 ==============
@@ -24088,7 +24442,7 @@ __\[ Nalfeshnee \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 184 (16d10 + 96)  
 **Vitesse** 6 m, vol 9 m
 
@@ -24112,7 +24466,9 @@ A|**Nimbe d'horreur (Recharge 5-6)**.
 A|**Téléportation**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Narzugon__
 ============
@@ -24121,7 +24477,7 @@ __\[ Narzugon \]__
 
 __Fiélon (diable) de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 20 (harnois, bouclier)  
+**Classe d'armure** 20 (harnois, bouclier)  
 **Points de vie** 112 (15d8 + 45)  
 **Vitesse** 9 m
 
@@ -24147,7 +24503,8 @@ Commandement terrifiant.
 Guérison (1/jour).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Narzugon legacy__
 ===================
@@ -24156,7 +24513,7 @@ __\[ Narzugon \]__
 
 __Fiélon (diable) de taille M, loyal mauvais__
 
-__**Classe d'armure** 20 (harnois, bouclier)  
+**Classe d'armure** 20 (harnois, bouclier)  
 **Points de vie** 112 (15d8 + 45)  
 **Vitesse** 9 m
 
@@ -24183,7 +24540,8 @@ A|**Commandement terrifiant**.
 A|**Guérison (1/jour)**.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Nécromant legacy__
 ====================
@@ -24192,7 +24550,7 @@ __\[ Necromancer \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 66 (12d8 + 12)  
 **Vitesse** 9 m
 
@@ -24220,7 +24578,8 @@ Niv 6 (1) : _cercle de mort\*_
 A|**Toucher flétrissant**. +7, 1,50 m, 2d4 nécrotiques  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Nécromite de Myrkul__
 =======================
@@ -24229,7 +24588,7 @@ __\[ Necromite of Myrkul \]__
 
 __Humanoïde (humain) de taille M, neutre mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 13 (2d8 + 4)  
 **Vitesse** 9 m
 
@@ -24255,7 +24614,7 @@ __\[ Wight \]__
 
 __Mort-vivant de taille M, neutre mauvais__
 
-__**Classe d'armure** 14 (armure de cuir clouté)  
+**Classe d'armure** 14 (armure de cuir clouté)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m
 
@@ -24278,7 +24637,9 @@ A|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants
 A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Néogi__
 =========
@@ -24287,7 +24648,7 @@ __\[ Neogi \]__
 
 __Aberration de taille P, typiquement loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 33 (6d6 + 12)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -24308,7 +24669,8 @@ Griffes.
 Asservissement (Recharge après un repos court ou long).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Néogi, larve__
 ================
@@ -24317,7 +24679,7 @@ __\[ Neogi Hatchling \]__
 
 __Aberration de taille TP, typiquement loyal mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 7 (3d4)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -24334,7 +24696,8 @@ Pattes d'araignée.
 Morsure.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Néogi, larve legacy__
 =======================
@@ -24343,7 +24706,7 @@ __\[ Neogi Hatchling \]__
 
 __Aberration de taille TP, loyal mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 7 (3d4)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -24360,7 +24723,8 @@ __**Résistance mentale**.
 A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Néogi legacy__
 ================
@@ -24369,7 +24733,7 @@ __\[ Neogi \]__
 
 __Aberration de taille P, loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 33 (6d6 + 12)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -24390,7 +24754,8 @@ A|**Griffes**. +5, 1,50 m, 2d4+3 tranchants
 A|**Asservissement (Recharge après un repos court ou long)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Néogi, maître__
 =================
@@ -24399,7 +24764,7 @@ __\[ Neogi Master \]__
 
 __Aberration (occultiste) de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 71 (11d8 + 22)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -24424,7 +24789,8 @@ Incantation.
 Asservissement (Recharge après un repos court ou long).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Néogi, maître legacy__
 ========================
@@ -24433,7 +24799,7 @@ __\[ Neogi Master \]__
 
 __Aberration de taille M, loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 71 (11d8 + 22)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -24458,7 +24824,8 @@ A|**Griffes**. +5, 1,50 m, 2d4+3 tranchants
 A|**Asservissement (Recharge après un repos court ou long)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Néothélide__
 ==============
@@ -24467,7 +24834,7 @@ __\[ Neothelid \]__
 
 __Aberration de taille Gig, typiquement chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 232 (15d20 + 75)  
 **Vitesse** 9 m
 
@@ -24487,7 +24854,8 @@ Souffle d'acide (Recharge 5-6).
 Incantation (psioniques).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Néothélide legacy__
 =====================
@@ -24496,7 +24864,7 @@ __\[ Neothelid \]__
 
 __Aberration de taille Gig, chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 325 (21d20 + 105)  
 **Vitesse** 9 m
 
@@ -24518,7 +24886,8 @@ A|**Tentacules**. +13, 4,50 m, 3d8+8 contondants
 A|**Souffle d'acide (Recharge 5-6)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Nerissa__
 ===========
@@ -24527,7 +24896,7 @@ __\[ Nerissa \]__
 
 __Humanoïde (humain) de taille M, loyal bon__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 12 m
 
@@ -24548,6 +24917,7 @@ R|**Parade**.
 __
 
 __Extra (Adventurers League)__
+{: .label .label-red }
 
 __Nielleux__
 ============
@@ -24556,7 +24926,7 @@ __\[ Twig Blight \]__
 
 __Plante de taille P, neutre mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 4 (1d6 + 1)  
 **Vitesse** 6 m
 
@@ -24575,7 +24945,9 @@ __**Apparence trompeuse**.
 A|**Griffes**. +3, 1,50 m, 1d4+1 perforants  
 __
 
-__Monster Manual (BR)__
+_Monster Manual (BR+)_
+{: .label .label-red }
+{: .label .label-red }
 
 __Nilebog__
 ===========
@@ -24584,7 +24956,7 @@ __\[ Nilbog \]__
 
 __Fée (gobelinoïde) de taille P, typiquement chaotique neutre__
 
-__**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 7 (2d6)  
 **Vitesse** 9 m
 
@@ -24605,7 +24977,8 @@ Fuite agile.
 Revers de fortune.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Nilebog legacy__
 ==================
@@ -24614,7 +24987,7 @@ __\[ Nilbog \]__
 
 __Humanoïde (gobelinoïde) de taille P, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 7 (2d6)  
 **Vitesse** 9 m
 
@@ -24637,7 +25010,8 @@ A|**Arc court**. +4, 24/96 m, 1d6+2 perforants
 R|**Revers de fortune**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Noble__
 =========
@@ -24646,7 +25020,7 @@ __\[ Noble \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 15 (cuirasse)  
+**Classe d'armure** 15 (cuirasse)  
 **Points de vie** 9 (2d8)  
 **Vitesse** 9 m
 
@@ -24663,7 +25037,9 @@ __A|**Rapière**. +3, 1,50 m, 1d8+1 perforants
 R|**Parade**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Nothic__
 ==========
@@ -24672,7 +25048,7 @@ __\[ Nothic \]__
 
 __Aberration de taille M, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m
 
@@ -24693,6 +25069,7 @@ A|**Intuition mystérieuse**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Nuée d'insectes__
 ===================
@@ -24701,7 +25078,7 @@ __\[ Swarm of Insects \]__
 
 __Nuée de bêtes TP de taille M, sans alignement__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 22 (5d8)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -24719,7 +25096,9 @@ __**Nuée**.
 A|**Morsures**. +3, 0 m, 4d4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Nuée de chauves-souris__
 ==========================
@@ -24728,7 +25107,7 @@ __\[ Swarm of Bats \]__
 
 __Nuée de bêtes TP de taille M, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
 **Vitesse** 0 m, vol 9 m
 
@@ -24748,7 +25127,9 @@ __**Écholocalisation**.
 A|**Morsures**. +4, 0 m, 2d4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Nuée de corbeaux__
 ====================
@@ -24757,7 +25138,7 @@ __\[ Swarm of Ravens \]__
 
 __Nuée de bêtes TP de taille M, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 24 (7d8 - 7)  
 **Vitesse** 3 m, vol 15 m
 
@@ -24776,7 +25157,9 @@ __**Nuée**.
 A|**Becs**. +4, 1,50 m, 2d6 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Nuée de gobelins maudits__
 ============================
@@ -24785,7 +25168,7 @@ __\[ Swarms of Cursed Goblins \]__
 
 __Nuée d'humanoïdes (gobelinoïde) TP de taille M, loyal mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
 **Vitesse** 6 m
 
@@ -24804,6 +25187,7 @@ A|**Cimeterre minuscule**. +3, 0 m, 4d4 tranchants
 __
 
 __Extra (Adventurers League)__
+{: .label .label-red }
 
 __Nuée de piranhas__
 ====================
@@ -24812,7 +25196,7 @@ __\[ Swarm of Quippers \]__
 
 __Nuée de bêtes TP de taille M, sans alignement__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 28 (8d8 - 8)  
 **Vitesse** 0 m, nage 12 m
 
@@ -24832,7 +25216,9 @@ __**Frénésie sanguinaire**.
 A|**Morsures**. +5, 0 m, 4d6 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Nuée de rats__
 ================
@@ -24841,7 +25227,7 @@ __\[ Swarm of Rats \]__
 
 __Nuée de bêtes TP de taille M, sans alignement__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 24 (7d8 - 7)  
 **Vitesse** 9 m
 
@@ -24860,7 +25246,9 @@ __**Odorat aiguisé**.
 A|**Morsures**. +2, 0 m, 2d6 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Nuée de rats-crânes__
 =======================
@@ -24869,7 +25257,7 @@ __\[ Swarm of Cranium Rats \]__
 
 __Nuée de bêtes TP de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 76 (17d8)  
 **Vitesse** 9 m
 
@@ -24890,7 +25278,8 @@ Incantation (psioniques).
 Éclairage.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Nuée de rats-crânes legacy__
 ==============================
@@ -24899,7 +25288,7 @@ __\[ Swarm of Cranium Rats \]__
 
 __Nuée de bêtes TP de taille M, loyal mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 36 (8d8)  
 **Vitesse** 9 m
 
@@ -24922,7 +25311,8 @@ __**Éclairage**.
 A|**Morsure**. +5, , 4d6 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Nuée de serpents venimeux__
 =============================
@@ -24931,7 +25321,7 @@ __\[ Swarm of Poisonous Snakes \]__
 
 __Nuée de bêtes TP de taille M, sans alignement__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 36 (8d8)  
 **Vitesse** 9 m, nage 9 m
 
@@ -24949,7 +25339,9 @@ __**Nuée**.
 A|**Morsures**. +6, 0 m, 2d6 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Nuée de vers putrides__
 =========================
@@ -24958,7 +25350,7 @@ __\[ Swarm of Rot Grubs \]__
 
 __Nuée de bêtes TP de taille M, sans alignement__
 
-__**Classe d'armure** 8  
+**Classe d'armure** 8  
 **Points de vie** 22 (5d8)  
 **Vitesse** 5 ft., climb 5 ft.
 
@@ -24976,7 +25368,8 @@ __Nuée.
 Morsures.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Nuée de vers putrides legacy__
 ================================
@@ -24985,7 +25378,7 @@ __\[ Swarm of Rot Grubs \]__
 
 __Nuée de bêtes TP de taille M, sans alignement__
 
-__**Classe d'armure** 8  
+**Classe d'armure** 8  
 **Points de vie** 22 (5d8)  
 **Vitesse** 5 ft., climb 5 ft.
 
@@ -25003,7 +25396,8 @@ __**Nuée**.
 A|**Morsures**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Nupperibo__
 =============
@@ -25012,7 +25406,7 @@ __\[ Nupperibo \]__
 
 __Fiélon (diable) de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 6 m
 
@@ -25033,7 +25427,8 @@ __**Nuage de vermines**.
 A|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Nupperibo legacy__
 ====================
@@ -25042,7 +25437,7 @@ __\[ Nupperibo \]__
 
 __Fiélon (diable) de taille M, loyal mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 6 m
 
@@ -25063,7 +25458,8 @@ Guidé par la faim.
 Morsure.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Nycaloth__
 ============
@@ -25072,7 +25468,7 @@ __\[ Nycaloth \]__
 
 __Fiélon (yugoloth) de taille G, neutre mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 123 (13d10 + 52)  
 **Vitesse** 12 m, vol 18 m
 
@@ -25098,7 +25494,8 @@ A|**Hache à deux mains**. +9, 1,50 m, 2d12+5 tranchants
 A|**Téléportation**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Objet dansant__
 =================
@@ -25107,7 +25504,7 @@ __\[ Dancing Item \]__
 
 __Artificiel de taille G ou plus petite, -__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 10 + cinq fois votre niveau de barde  
 **Vitesse** 9 m, vol 9 m (stationnaire)
 
@@ -25135,7 +25532,7 @@ __\[ Adult Oblex \]__
 
 __Vase de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 6 m
 
@@ -25160,7 +25557,8 @@ Incantation (psioniques).
 Imitation sulfureuse.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Oblex, adulte legacy__
 ========================
@@ -25169,7 +25567,7 @@ __\[ Adult Oblex \]__
 
 __Vase de taille M, loyal mauvais__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 6 m
 
@@ -25193,7 +25591,8 @@ Pseudopode.
 Mangeur de souvenirs.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Oblex, rejeton__
 ==================
@@ -25202,7 +25601,7 @@ __\[ Oblex Spawn \]__
 
 __Vase de taille TP, typiquement loyal mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 18 (4d4 + 8)  
 **Vitesse** 6 m
 
@@ -25222,7 +25621,8 @@ Nature insolite.
 Pseudopode.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Oblex, rejeton legacy__
 =========================
@@ -25231,7 +25631,7 @@ __\[ Oblex Spawn \]__
 
 __Vase de taille TP, loyal mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 18 (4d4 + 8)  
 **Vitesse** 6 m
 
@@ -25251,7 +25651,8 @@ Nature insolite.
 Pseudopode.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Oblex, vénérable__
 ====================
@@ -25260,7 +25661,7 @@ __\[ Elder Oblex \] \[ Oblex, ancien \]__
 
 __Vase de taille TG, typiquement loyal mauvais__
 
-__**Classe d'armure** 16  
+**Classe d'armure** 16  
 **Points de vie** 115 (10d12 + 50)  
 **Vitesse** 6 m
 
@@ -25285,7 +25686,8 @@ Incantation (psioniques).
 Imitation sulfureuse.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Oblex, vénérable legacy__
 ===========================
@@ -25294,7 +25696,7 @@ __\[ Elder Oblex \]__
 
 __Vase de taille TG, loyal mauvais__
 
-__**Classe d'armure** 16  
+**Classe d'armure** 16  
 **Points de vie** 115 (10d12 + 50)  
 **Vitesse** 6 m
 
@@ -25319,7 +25721,8 @@ Pseudopode.
 Mangeur de souvenirs.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Occultiste de l'Archifée__
 ============================
@@ -25328,7 +25731,7 @@ __\[ Warlock of the Archfey \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 13 (16 avec _armure de mage_)  
+**Classe d'armure** 13 (16 avec _armure de mage_)  
 **Points de vie** 67 (15d8)  
 **Vitesse** 9 m
 
@@ -25352,7 +25755,8 @@ A|**Incantation**.
 R|**Échappatoire brumeuse (Recharge après un repos court ou long)**.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Occultiste de l'Archifée legacy__
 ===================================
@@ -25361,7 +25765,7 @@ __\[ Warlock of the Archfey \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 11 (14 avec _armure de mage_)  
+**Classe d'armure** 11 (14 avec _armure de mage_)  
 **Points de vie** 49 (11d8)  
 **Vitesse** 9 m
 
@@ -25386,7 +25790,8 @@ A|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+2 perforants
 R|**Échappatoire brumeuse (Recharge après un repos court ou long)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Occultiste du Fiélon__
 ========================
@@ -25395,7 +25800,7 @@ __\[ Warlock of the Fiend \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 13 (16 avec _armure de mage_)  
+**Classe d'armure** 13 (16 avec _armure de mage_)  
 **Points de vie** 78 (12d8 + 24)  
 **Vitesse** 9 m
 
@@ -25420,7 +25825,8 @@ A|**Incantation**.
 R|**Représailles fiélonnes (3/jour)**.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Occultiste du Fiélon legacy__
 ===============================
@@ -25429,7 +25835,7 @@ __\[ Warlock of the Fiend \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 78 (12d8 + 24)  
 **Vitesse** 9 m
 
@@ -25454,7 +25860,8 @@ Nivx 1 à 5 (4 de niveau 5) : _mains brûlantes, représailles infernales, nuage
 A|**Masse d'armes**. +3, 1,50 m, 1d6 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Occultiste du Grand Ancien__
 ==============================
@@ -25463,7 +25870,7 @@ __\[ Warlock of the Great Old One \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 13 (16 avec _armure de mage_)  
+**Classe d'armure** 13 (16 avec _armure de mage_)  
 **Points de vie** 91 (14d8 + 28)  
 **Vitesse** 9 m
 
@@ -25487,7 +25894,8 @@ A|**Incantation**.
 1/jour chacun : _détection des pensées, vision suprême_  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Occultiste du Grand Ancien legacy__
 =====================================
@@ -25496,7 +25904,7 @@ __\[ Warlock of the Great Old One \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 91 (14d8 + 28)  
 **Vitesse** 9 m
 
@@ -25521,7 +25929,8 @@ Niv 1-5 (3 de niveau 5) : _couronne du dément, détection des pensées, dominat
 A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Ogre__
 ========
@@ -25530,7 +25939,7 @@ __\[ Ogre \]__
 
 __Géant de taille G, chaotique mauvais__
 
-__**Classe d'armure** 11 (armure de peaux)  
+**Classe d'armure** 11 (armure de peaux)  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m
 
@@ -25546,7 +25955,9 @@ __A|**Massue**. +6, 1,50 m, 2d8+4 contondants
 A|**Javeline**. +6, 1,50 m ou 9/36 m, 2d6+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Ogre, balistard__
 ===================
@@ -25555,7 +25966,7 @@ __\[ Ogre Bolt Launcher \]__
 
 __Géant de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 13 (armure de peaux)  
+**Classe d'armure** 13 (armure de peaux)  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m
 
@@ -25571,7 +25982,8 @@ __Poing.
 Balistard.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Ogre, balistard legacy__
 ==========================
@@ -25580,7 +25992,7 @@ __\[ Ogre Bolt Launcher \]__
 
 __Géant de taille G, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure de peaux)  
+**Classe d'armure** 13 (armure de peaux)  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m
 
@@ -25596,7 +26008,8 @@ __Poing.
 Balistard.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Ogre, brise-portail__
 =======================
@@ -25605,7 +26018,7 @@ __\[ Ogre Battering Ram \]__
 
 __Géant de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 11 (armure de peaux)  
+**Classe d'armure** 11 (armure de peaux)  
 **Points de vie** 76 (9d10 + 27)  
 **Vitesse** 12 m
 
@@ -25623,7 +26036,8 @@ Coup.
 Barrage.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Ogre, brise-portail legacy__
 ==============================
@@ -25632,7 +26046,7 @@ __\[ Ogre Battering Ram \]__
 
 __Géant de taille G, chaotique mauvais__
 
-__**Classe d'armure** 14 (broigne)  
+**Classe d'armure** 14 (broigne)  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m
 
@@ -25649,7 +26063,8 @@ Coup.
 Barrage.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Ogre, brute-à-chaînes__
 =========================
@@ -25658,7 +26073,7 @@ __\[ Ogre Chain Brute \]__
 
 __Géant de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 11 (armure de peaux)  
+**Classe d'armure** 11 (armure de peaux)  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m
 
@@ -25675,7 +26090,8 @@ Casse-chaîne (Recharge 6).
 Balayage.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Ogre, brute-à-chaînes legacy__
 ================================
@@ -25684,7 +26100,7 @@ __\[ Ogre Chain Brute \]__
 
 __Géant de taille G, chaotique mauvais__
 
-__**Classe d'armure** 11 (armure de peaux)  
+**Classe d'armure** 11 (armure de peaux)  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m
 
@@ -25701,7 +26117,8 @@ Balayage.
 Casse-chaîne (Recharge 6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Ogre, howdah__
 ================
@@ -25710,7 +26127,7 @@ __\[ Ogre Howdah \]__
 
 __Géant de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 15 (cuirasse, bouclier)  
+**Classe d'armure** 15 (cuirasse, bouclier)  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m
 
@@ -25726,7 +26143,8 @@ __Howdah.
 Masse d'armes.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Ogre, howdah legacy__
 =======================
@@ -25735,7 +26153,7 @@ __\[ Ogre Howdah \]__
 
 __Géant de taille G, chaotique mauvais__
 
-__**Classe d'armure** 13 (cuirasse)  
+**Classe d'armure** 13 (cuirasse)  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m
 
@@ -25751,7 +26169,8 @@ __Howdah.
 Masse d'armes.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Ogrémoch__
 ============
@@ -25760,7 +26179,7 @@ __\[ Ogrémoch \]__
 
 __Élémentaire de taille Gig, neutre mauvais__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 526 (27d20 + 243)  
 **Vitesse** 15 m, creusement 15 m
 
@@ -25785,7 +26204,7 @@ __\[ Oinoloth \]__
 
 __Fiélon (yugoloth) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 119 (14d8 + 56)  
 **Vitesse** 12 m
 
@@ -25811,7 +26230,8 @@ Téléportation.
 Porteur de pestes (Recharge 5–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Oinoloth legacy__
 ===================
@@ -25820,7 +26240,7 @@ __\[ Oinoloth \]__
 
 __Fiélon (yugoloth) de taille M, neutre mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 126 (12d10 + 60)  
 **Vitesse** 12 m
 
@@ -25848,7 +26268,8 @@ Téléportation.
 Regard transperçant.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Olhydra__
 ===========
@@ -25857,7 +26278,7 @@ __\[ Olhydra \]__
 
 __Élémentaire de taille TG, neutre mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 324 (24d12 + 168)  
 **Vitesse** 15 m, nage 30 ft.
 
@@ -25882,7 +26303,7 @@ __\[ Shadow \]__
 
 __Mort-vivant de taille M, chaotique mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 16 (3d8 + 3)  
 **Vitesse** 12 m
 
@@ -25905,7 +26326,9 @@ __**Informe**.
 A|**Absorption de Force**. +4, 1,50 m, 2d6+2 nécrotiques  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Ombre, ancienne__
 ===================
@@ -25914,7 +26337,7 @@ __\[ Ancient Shadow \]__
 
 __Mort-vivant de taille M, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 12 m
 
@@ -25938,6 +26361,7 @@ A|**Absorption de Force**. +5, 1,50 m, 2d6+3 nécrotiques
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Ombre, vénérable__
 ====================
@@ -25946,7 +26370,7 @@ __\[ Venerable Shadow \]__
 
 __Mort-vivant de taille M, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 12 m
 
@@ -25972,6 +26396,7 @@ A|**Absorption de Force**. +5, 1,50 m, 2d8+3 nécrotiques
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Oni__
 =======
@@ -25980,7 +26405,7 @@ __\[ Oni \]__
 
 __Géant de taille G, loyal mauvais__
 
-__**Classe d'armure** 16 (cotte de mailles)  
+**Classe d'armure** 16 (cotte de mailles)  
 **Points de vie** 110 (13d10 + 39)  
 **Vitesse** 9 m, vol 9 m
 
@@ -26005,7 +26430,9 @@ A|**Coutille**. +7, 3 m, 2d10+4 tranchants
 A|**Changement de forme**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Orateur du dragon__
 =====================
@@ -26014,7 +26441,7 @@ __\[ Dragon Speaker \]__
 
 __Humanoïde de taille P, tout alignement__
 
-__**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 36 (8d6 + 8)  
 **Vitesse** 9 m
 
@@ -26029,7 +26456,8 @@ __**Classe d'armure** 13 (armure de cuir)
 **Langues** commun, draconique et deux langues au choix  
 **Puissance** 2 (450 PX) **Bonus de maîtrise** +2__
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Orc__
 =======
@@ -26038,7 +26466,7 @@ __\[ Orc \]__
 
 __Humanoïde (orc) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure de peaux)  
+**Classe d'armure** 13 (armure de peaux)  
 **Points de vie** 15 (2d8 + 6)  
 **Vitesse** 9 m
 
@@ -26056,7 +26484,9 @@ A|**Hache à deux mains**. +5, 1,50 m, 1d12+3 tranchants
 A|**Javeline**. +5, 1,50 m ou 9/36 m, 1d6+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Orc, chef de guerre__
 =======================
@@ -26065,7 +26495,7 @@ __\[ Orc War Chief \]__
 
 __Humanoïde (orc) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 16 (cotte de mailles)  
+**Classe d'armure** 16 (cotte de mailles)  
 **Points de vie** 93 (11d8 + 44)  
 **Vitesse** 9 m
 
@@ -26088,6 +26518,7 @@ A|**Cri de guerre (1/jour)**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Orc, croc rouge de Shargaas__
 ===============================
@@ -26096,7 +26527,7 @@ __\[ Orc Red Fang of Shargaas \]__
 
 __Humanoïde (orc) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 52 (8d8 + 16)  
 **Vitesse** 9 m
 
@@ -26118,7 +26549,8 @@ A|**Fléchette**. +5, 6/18 m, 3d4+3 perforants
 A|**Voile de Shargaas (Recharge après un repos court ou long)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Orc, griffe de Luthic__
 =========================
@@ -26127,7 +26559,7 @@ __\[ Orc Claw of Luthic \]__
 
 __Humanoïde (orc) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 14 (armure de peaux)  
+**Classe d'armure** 14 (armure de peaux)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m
 
@@ -26150,7 +26582,8 @@ A|**Attaques multiples**.
 A|**Griffes**. +4, 1,50 m, 1d8+2 tranchants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Orc, lame d'Ilneval__
 =======================
@@ -26159,7 +26592,7 @@ __\[ Orc Blade of Ilneval \]__
 
 __Humanoïde (orc) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 18 (cotte de mailles, bouclier)  
+**Classe d'armure** 18 (cotte de mailles, bouclier)  
 **Points de vie** 60 (8d8 + 24)  
 **Vitesse** 9 m
 
@@ -26181,7 +26614,8 @@ A|**Javeline**. +5, 1,50 m ou 9/36 m, 1d6+3 perforants
 A|**Injonction d'Ilneval (Recharge 4-6)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Orc, main de Yurtrus__
 ========================
@@ -26190,7 +26624,7 @@ __\[ Orc Hand of Yurtrus \]__
 
 __Humanoïde (orc) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 12 (armure de peaux)  
+**Classe d'armure** 12 (armure de peaux)  
 **Points de vie** 30 (4d8 + 12)  
 **Vitesse** 9 m
 
@@ -26211,7 +26645,8 @@ Niv 2 (3) : _cécité/surdité, silence_
 A|**Toucher de la Main blanche**. +3, 1,50 m, 2d8 nécrotiques  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Orc, Oeil de Gruumsh__
 ========================
@@ -26220,7 +26655,7 @@ __\[ Orc Eye of Gruumsh \]__
 
 __Humanoïde (orc) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 16 (broigne, bouclier)  
+**Classe d'armure** 16 (broigne, bouclier)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m
 
@@ -26278,7 +26713,7 @@ Incantation via la baguette.
 Attaque.  
 Mort rampante (coûte 2 actions).  
 
-Monsters of the Multiverse
+_Monsters of the Multiverse_
 {: .label .label-red }
 
 ___
@@ -26290,7 +26725,7 @@ __\[ Orcus \]__
 
 __Fiélon (démon) de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 17 (armure naturelle), 20 avec la _baguette d'Orcus_  
+**Classe d'armure** 17 (armure naturelle), 20 avec la _baguette d'Orcus_  
 **Points de vie** 405 (30d12 + 210)  
 **Vitesse** 12 m, vol 12 m
 
@@ -26324,7 +26759,8 @@ L|**Un avant-goût de la non-mort**.
 L|**Mort rampante (coûte 2 actions)**.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Orog__
 ========
@@ -26333,7 +26769,7 @@ __\[ Orog \]__
 
 __Humanoïde (orc) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 42 (5d8 + 20)  
 **Vitesse** 9 m
 
@@ -26352,7 +26788,8 @@ A|**Hache à deux mains**. +6, 1,50 m, 1d12+4 tranchants
 A|**Javeline**. +6, 1,50 m ou 9/36 m, 1d6+4 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Orthon__
 ==========
@@ -26361,7 +26798,7 @@ __\[ Orthon \]__
 
 __Fiélon (diable) de taille G, typiquement loyal mauvais__
 
-__**Classe d'armure** 17 (demi-plate)  
+**Classe d'armure** 17 (demi-plate)  
 **Points de vie** 105 (10d10 + 50)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -26385,7 +26822,8 @@ Champ d'invisibilité (Recharge 4–6).
 Punition explosive.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Orthon legacy__
 =================
@@ -26394,7 +26832,7 @@ __\[ Orthon \]__
 
 __Fiélon (diable) de taille G, loyal mauvais__
 
-__**Classe d'armure** 17 (demi-plate)  
+**Classe d'armure** 17 (demi-plate)  
 **Points de vie** 105 (10d10 + 50)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -26418,7 +26856,8 @@ Arbalète d'airain.
 Punition explosive.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Otyugh__
 ==========
@@ -26427,7 +26866,7 @@ __\[ Otyugh \]__
 
 __Aberration de taille G, neutre__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 114 (12d10 + 48)  
 **Vitesse** 9 m
 
@@ -26447,7 +26886,9 @@ A|**Tentacule**. +6, 3 m, 1d8+3 contondants
 A|**Frappe tentaculaire**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Ours brun__
 =============
@@ -26456,7 +26897,7 @@ __\[ Brown Bear \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 34 (4d10 + 12)  
 **Vitesse** 12 m, escalade 9 m
 
@@ -26475,7 +26916,9 @@ A|**Griffes**. +6, 1,50 m, 2d6+4 tranchants
 A|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Ours-garou__
 ==============
@@ -26484,7 +26927,7 @@ __\[ Werebear \]__
 
 __Humanoïde (humain, métamorphe) de taille M, neutre bon__
 
-__**Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme d'ours et sous forme hybride.  
+**Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme d'ours et sous forme hybride.  
 **Points de vie** 135 (18d8 + 54)  
 **Vitesse** 9 m (12 m, escalade 9 m sous forme hybride et sous forme d'ours)
 
@@ -26506,7 +26949,9 @@ A|**Griffes (forme d'ours ou hybride uniquement)**. +7, 1,50 m, 2d8+4 tranchants
 A|**Hache à deux mains (forme humanoïde ou hybride uniquement)**. +7, 1,50 m, 1d12+4 tranchants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Ours-hibou__
 ==============
@@ -26515,7 +26960,7 @@ __\[ Owlbear \] \[ Hibours \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 12 m
 
@@ -26534,7 +26979,9 @@ A|**Bec**. +7, 1,50 m, 1d10+5 perforants
 A|**Griffes**. +7, 1,50 m, 2d8+5 tranchants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Ours noir__
 =============
@@ -26543,7 +26990,7 @@ __\[ Black Bear \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 19 (3d8 + 6)  
 **Vitesse** 12 m, escalade 9 m
 
@@ -26562,7 +27009,9 @@ A|**Griffes**. +4, 1,50 m, 2d4+2 tranchants
 A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Ours polaire__
 ================
@@ -26571,7 +27020,7 @@ __\[ Polar Bear \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 42 (5d10 + 15)  
 **Vitesse** 12 m, nage 9 m
 
@@ -26590,7 +27039,9 @@ A|**Griffes**. +7, 1,50 m, 2d6+5 tranchants
 A|**Morsure**. +7, 1,50 m, 1d8+5 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Oxydeur__
 ===========
@@ -26599,7 +27050,7 @@ __\[ Rust Monster \]__
 
 __Monstruosité de taille M, sans alignement__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 12 m
 
@@ -26617,7 +27068,9 @@ A|**Morsure**. +3, 1,50 m, 1d8+1 perforants
 A|**Antennes**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Panthère__
 ============
@@ -26626,7 +27079,7 @@ __\[ Panther \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 13 (3d8)  
 **Vitesse** 15 m, escalade 12 m
 
@@ -26645,7 +27098,9 @@ A|**Griffes**. +4, 1,50 m, 1d4+2 tranchants
 A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Particules d'avarice__
 ========================
@@ -26654,7 +27109,7 @@ __\[ Greed Mote \]__
 
 __Monstruosité de taille M, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 13 (3d8)  
 **Vitesse** 3 m, vol 9 m
 
@@ -26670,6 +27125,7 @@ __A|**Dard**. +4, 1,50 m, 1d6+2 perforants
 __
 
 __Extra (Adventurers League)__
+{: .label .label-red }
 
 __Pégase__
 ==========
@@ -26678,7 +27134,7 @@ __\[ Pegasus \]__
 
 __Céleste de taille G, chaotique bon__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 59 (7d10 + 21)  
 **Vitesse** 18 m, vol 27 m
 
@@ -26695,7 +27151,9 @@ __**Classe d'armure** 12
 __A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Pentadrone__
 ==============
@@ -26704,7 +27162,7 @@ __\[ Pentadrone \]__
 
 __Artificiel de taille G, loyal neutre__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 32 (5d10 + 5)  
 **Vitesse** 12 m
 
@@ -26725,6 +27183,7 @@ A|**Gaz paralysant (Recharge 5-6)**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Perceur__
 ===========
@@ -26733,7 +27192,7 @@ __\[ Piercer \] \[ Perforateur \]__
 
 __Monstruosité de taille M, sans alignement__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 22 (3d8 + 9)  
 **Vitesse** 1,50 m, escalade 1,50 m
 
@@ -26751,7 +27210,8 @@ __**Apparence trompeuse**.
 A|**Plongeon**. +3, , 1d6 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Péryton__
 ===========
@@ -26760,7 +27220,7 @@ __\[ Peryton \]__
 
 __Monstruosité de taille M, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 6 m, vol 18 m
 
@@ -26782,7 +27242,8 @@ A|**Corne**.
 A|**Serres**. +5, 1,50 m, 2d4+3 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Pétrifié maudit__
 ===================
@@ -26791,7 +27252,7 @@ __\[ Stone Cursed \]__
 
 __Artificiel de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 19 (3d8 + 4)  
 **Vitesse** 3 m
 
@@ -26812,7 +27273,8 @@ Nature insolite.
 Griffes pétrifiantes.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Pétrifié maudit legacy__
 ==========================
@@ -26821,7 +27283,7 @@ __\[ Stone Cursed \]__
 
 __Artificiel de taille M, loyal mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 19 (3d8 + 4)  
 **Vitesse** 3 m
 
@@ -26841,7 +27303,8 @@ Apparence trompeuse.
 Griffes pétrifiantes.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Phénix__
 ==========
@@ -26850,7 +27313,7 @@ __\[ Phoenix \]__
 
 __Élémentaire de taille Gig, typiquement neutre__
 
-__**Classe d'armure** 18  
+**Classe d'armure** 18  
 **Points de vie** 175 (10d20 + 70)  
 **Vitesse** 6 m, vol 36 m
 
@@ -26880,7 +27343,8 @@ Becquetage.
 Plongée (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Phénix legacy__
 =================
@@ -26889,7 +27353,7 @@ __\[ Phoenix \]__
 
 __Élémentaire de taille Gig, neutre__
 
-__**Classe d'armure** 18  
+**Classe d'armure** 18  
 **Points de vie** 175 (10d20 + 70)  
 **Vitesse** 6 m, vol 36 m
 
@@ -26919,7 +27383,8 @@ Déplacement.
 Plongée (coûte 2 actions).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Phoque__
 ==========
@@ -26928,7 +27393,7 @@ __\[ Seal \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 9 (2d8)  
 **Vitesse** 6 m, nage 12 m
 
@@ -26954,7 +27419,7 @@ __\[ Trapper \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 68 (8d10 + 24)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -26972,7 +27437,8 @@ Pattes d'araignée.
 Étouffement.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Piégeur legacy__
 ==================
@@ -26981,7 +27447,7 @@ __\[ Trapper \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 85 (10d10 + 30)  
 **Vitesse** 3 m, escalade 3 m
 
@@ -26999,7 +27465,8 @@ __**Apparence trompeuse**.
 A|**Étouffement**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Pieuvre__
 ===========
@@ -27008,7 +27475,7 @@ __\[ Octopus \]__
 
 __Bête de taille P, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 3 (1d6)  
 **Vitesse** 1,50 m, nage 9 m
 
@@ -27028,7 +27495,9 @@ A|**Tentacules**.
 A|**Nuage d'encre (Recharges après un repos court ou long)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Pieuvre géante__
 ==================
@@ -27037,7 +27506,7 @@ __\[ Giant Octopus \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 52 (8d10 + 8)  
 **Vitesse** 3 m, nage 18 m
 
@@ -27057,7 +27526,9 @@ A|**Tentacules**. +5, 4,50 m, 2d6+3 contondants
 A|**Nuage d'encre (Recharge après un repos court ou long)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Piranha__
 ===========
@@ -27066,7 +27537,7 @@ __\[ Quipper \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 0 m, nage 12 m
 
@@ -27083,7 +27554,9 @@ __**Frénésie sanguinaire**.
 A|**Morsure**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Pixie__
 =========
@@ -27092,7 +27565,7 @@ __\[ Pixie \]__
 
 __Fée de taille TP, neutre bon__
 
-__**Classe d'armure** 15  
+**Classe d'armure** 15  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 3 m, vol 9 m
 
@@ -27113,6 +27586,7 @@ A|**Invisibilité supérieure**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Planétar__
 ============
@@ -27121,7 +27595,7 @@ __\[ Planetar \]__
 
 __Céleste de taille G, loyal bon__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 200 (16d10 + 112)  
 **Vitesse** 12 m, vol 36 m
 
@@ -27149,7 +27623,9 @@ A|**Épée à deux mains**. +12, 1,50 m, 4d6+7 tranchants
 A|**Contact guérisseur (4/jour)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Plésiosaure__
 ===============
@@ -27158,7 +27634,7 @@ __\[ Plesiosaurus \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 68 (8d10 + 24)  
 **Vitesse** 6 m, nage 12 m
 
@@ -27175,7 +27651,9 @@ __**Apnée**.
 A|**Morsure**. +6, 3 m, 3d6+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Poing de Baine__
 ==================
@@ -27184,7 +27662,7 @@ __\[ Fist of Bane \]__
 
 __Humanoïde (humain) de taille M, loyal mauvais__
 
-__**Classe d'armure** 18 (cotte de mailles, bouclier)  
+**Classe d'armure** 18 (cotte de mailles, bouclier)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m
 
@@ -27211,7 +27689,7 @@ __\[ Pony \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 12 m
 
@@ -27226,7 +27704,9 @@ __**Classe d'armure** 10
 __A|**Sabots**. +4, 1,50 m, 2d4+2 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Pouding noir__
 ================
@@ -27235,7 +27715,7 @@ __\[ Black Pudding \]__
 
 __Vase de taille G, sans alignement__
 
-__**Classe d'armure** 7  
+**Classe d'armure** 7  
 **Points de vie** 85 (10d10 + 30)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -27256,7 +27736,9 @@ A|**Pseudopode**. +5, 1,50 m, 1d6+3 contondants
 R|**Division**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Prédateur d'acier__
 =====================
@@ -27265,7 +27747,7 @@ __\[ Steel Predator \]__
 
 __Artificiel de taille G, typiquement loyal neutre__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 207 (18d10 + 108)  
 **Vitesse** 12 m
 
@@ -27290,7 +27772,8 @@ Incantation.
 Rugissement étourdissant (Recharge 5–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Prédateur d'acier legacy__
 ============================
@@ -27299,7 +27782,7 @@ __\[ Steel Predator \]__
 
 __Artificiel de taille G, loyal mauvais__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 207 (18d10 + 108)  
 **Vitesse** 12 m
 
@@ -27324,7 +27807,8 @@ Griffes.
 Rugissement étourdissant (Recharge 5–6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Prestelin__
 =============
@@ -27333,7 +27817,7 @@ __\[ Quickling \]__
 
 __Fée de taille TP, typiquement chaotique mauvais__
 
-__**Classe d'armure** 16  
+**Classe d'armure** 16  
 **Points de vie** 10 (3d4 + 3)  
 **Vitesse** 36 m
 
@@ -27352,7 +27836,8 @@ Attaques multiples.
 Dague.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Prestelin legacy__
 ====================
@@ -27361,7 +27846,7 @@ __\[ Quickling \]__
 
 __Fée de taille TP, chaotique mauvais__
 
-__**Classe d'armure** 16  
+**Classe d'armure** 16  
 **Points de vie** 10 (3d4 + 3)  
 **Vitesse** 36 m
 
@@ -27380,7 +27865,8 @@ A|**Attaques multiples**.
 A|**Dague**. +8, 1,50 m ou 6/18 m, 1d4+6 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Prêtre__
 ==========
@@ -27389,7 +27875,7 @@ __\[ Priest \] \[ Ecclésiastique \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 13 (chemise de mailles)  
+**Classe d'armure** 13 (chemise de mailles)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 9 m
 
@@ -27411,7 +27897,9 @@ Niv 3 (2) : _esprits gardiens_
 A|**Masse d'armes**. +2, 1,50 m, 1d6 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Prêtre de guerre__
 ====================
@@ -27420,7 +27908,7 @@ __\[ War priest \]__
 
 __Humanoïde (clerc) de taille M, tout alignement__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 117 (18d8 + 36)  
 **Vitesse** 9 m
 
@@ -27443,7 +27931,8 @@ A|**Incantation**.
 B|**Lumière de guérison (Recharge 4-6)**.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Prêtre de guerre legacy__
 ===========================
@@ -27452,7 +27941,7 @@ __\[ War priest \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 117 (18d8 + 36)  
 **Vitesse** 9 m
 
@@ -27478,7 +27967,8 @@ A|**Maillet**.
 R|**Frappe guidée (Recharge après un repos court ou long)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Prêtre du kraken__
 ====================
@@ -27487,7 +27977,7 @@ __\[ Kraken Priest \]__
 
 __Monstruosité de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m, nage 9 m
 
@@ -27511,7 +28001,8 @@ A|**Incantation innée**.
 A|**Voix du kraken (Recharge après un repos court ou long)**.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Prêtre du kraken legacy__
 ===========================
@@ -27520,7 +28011,7 @@ __\[ Kraken Priest \]__
 
 __Humanoïde (toute race) de taille M, tout alignement mauvais__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m, nage 9 m
 
@@ -27543,7 +28034,8 @@ A|**Contact tonitruant**. +5, 1,50 m, 5d10 tonnerre
 A|**Voix du kraken (Recharge après un repos court ou long)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Protégé du dragon__
 =====================
@@ -27552,7 +28044,7 @@ __\[ Dragon Blessed \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 14 (armure d'écailles)  
+**Classe d'armure** 14 (armure d'écailles)  
 **Points de vie** 75 (10d8 + 30)  
 **Vitesse** 9 m
 
@@ -27567,7 +28059,8 @@ __**Classe d'armure** 14 (armure d'écailles)
 **Langues** commun, draconique et deux langues au choix  
 **Puissance** 5 (1800 PX) **Bonus de maîtrise** +3__
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Pseudodragon__
 ================
@@ -27576,7 +28069,7 @@ __\[ Pseudodragon \]__
 
 __Dragon de taille TP, neutre bon__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 7 (2d4 + 2)  
 **Vitesse** 4,50 m, vol 18 m
 
@@ -27596,7 +28089,9 @@ A|**Morsure**. +4, 1,50 m, 1d4+2 tranchants
 A|**Dard**. +4, 1,50 m, 1d4+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Ptéranodon__
 ==============
@@ -27605,7 +28100,7 @@ __\[ Pteranodon \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 13 (3d8)  
 **Vitesse** 3 m, vol 18 m
 
@@ -27622,7 +28117,9 @@ __**Repli aérien**.
 A|**Morsure**.  
 __
 
-__Monster Manual (BR)__
+_Monster Manual (BR+)_
+{: .label .label-red }
+{: .label .label-red }
 
 __Quadrone__
 ============
@@ -27631,7 +28128,7 @@ __\[ Quadrone \]__
 
 __Artificiel de taille M, loyal neutre__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m, vol 9 m
 
@@ -27652,6 +28149,7 @@ A|**Arc court**. +4, 24/96 m, 1d6+2 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Quaggoth__
 ============
@@ -27660,7 +28158,7 @@ __\[ Quaggoth \]__
 
 __Humanoïde (quaggoth) de taille M, chaotique neutre__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -27681,6 +28179,7 @@ A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Quaggoth, serviteur des spores__
 ==================================
@@ -27689,7 +28188,7 @@ __\[ Quaggoth spore servant \]__
 
 __Plante de taille M, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 45 (6d8 + 18)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -27708,6 +28207,7 @@ A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Quasit__
 ==========
@@ -27716,7 +28216,7 @@ __\[ Quasit \]__
 
 __Fiélon (démon, métamorphe) de taille TP, chaotique mauvais__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 7 (3d4)  
 **Vitesse** 12 m
 
@@ -27739,7 +28239,9 @@ A|**Frayeur (1/jour)**.
 A|**Invisibilité**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Quetzalcoatlus__
 ==================
@@ -27748,7 +28250,7 @@ __\[ Quetzalcoatlus \]__
 
 __Bête (dinosaure) de taille TG, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 30 (4d12 + 4)  
 **Vitesse** 3 m, vol 24 m
 
@@ -27765,7 +28267,8 @@ __Repli aérien.
 Morsure.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Quetzalcoatlus legacy__
 =========================
@@ -27774,7 +28277,7 @@ __\[ Quetzalcoatlus \]__
 
 __Bête de taille TG, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 30 (4d12 + 4)  
 **Vitesse** 3 m, vol 24 m
 
@@ -27792,7 +28295,8 @@ __**Attaque en piqué**.
 A|**Morsure**. +4, 3 m, 3d6+2 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Racine diabolique__
 =====================
@@ -27801,7 +28305,7 @@ __\[ Devilroot \]__
 
 __Plante de taille M, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 105 (14d8 + 42)  
 **Vitesse** 9 m
 
@@ -27825,6 +28329,7 @@ A|**Pollen diabolique (Recharge 5-6)**.
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Raie manta de récif__
 =======================
@@ -27833,7 +28338,7 @@ __\[ Reef Manta Ray \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 16 (3d8 + 3)  
 **Vitesse** 0 m, nage 12 m
 
@@ -27851,6 +28356,7 @@ A|**Coup de tête**. +3, 1,50 m, 1d6+1 contondants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Rakshasa__
 ============
@@ -27859,7 +28365,7 @@ __\[ Rakshasa \]__
 
 __Fiélon de taille M, loyal mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 110 (13d8 + 52)  
 **Vitesse** 12 m
 
@@ -27883,7 +28389,9 @@ A|**Attaques multiples**.
 A|**Griffes**. +7, 1,50 m, 2d6+2 tranchants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Rat__
 =======
@@ -27892,7 +28400,7 @@ __\[ Rat \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 6 m
 
@@ -27908,7 +28416,9 @@ __**Odorat aiguisé**.
 A|**Morsure**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Rat-crâne__
 =============
@@ -27917,7 +28427,7 @@ __\[ Cranium Rat \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 2 (1d4)  
 **Vitesse** 9 m
 
@@ -27934,7 +28444,8 @@ Morsure.
 Éclairage.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Rat-crâne legacy__
 ====================
@@ -27943,7 +28454,7 @@ __\[ Cranium Rat \]__
 
 __Bête de taille TP, loyal mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 2 (1d4)  
 **Vitesse** 9 m
 
@@ -27960,7 +28471,8 @@ __**Éclairage**.
 A|**Morsure**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Rat-garou__
 =============
@@ -27969,7 +28481,7 @@ __\[ Wererat \]__
 
 __Humanoïde (humain, métamorphe) de taille M, loyal mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m
 
@@ -27991,7 +28503,9 @@ A|**Épée courte (forme humanoïde ou hybride uniquement)**. +4, 1,50 m, 1d6+2 
 A|**Arbalète de poing (forme humanoïde ou hybride uniquement)**. +4, 9/36 m, 1d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Rat géant__
 =============
@@ -28000,7 +28514,7 @@ __\[ Giant Rat \]__
 
 __Bête de taille P, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 7 (2d6)  
 **Vitesse** 9 m
 
@@ -28017,7 +28531,9 @@ __**Odorat aiguisé**.
 A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Rejeton de Kyuss__
 ====================
@@ -28026,7 +28542,7 @@ __\[ Spawn of Kyuss \]__
 
 __Mort-vivant de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 76 (9d8 + 36)  
 **Vitesse** 9 m
 
@@ -28049,7 +28565,8 @@ Griffes.
 Ver fouisseur.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Rejeton de Kyuss legacy__
 ===========================
@@ -28058,7 +28575,7 @@ __\[ Spawn of Kyuss \]__
 
 __Mort-vivant de taille M, chaotique mauvais__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 76 (9d8 + 36)  
 **Vitesse** 9 m
 
@@ -28080,7 +28597,8 @@ A|**Ver fouisseur**.
 A|**Griffes**. +6, 1,50 m, 1d6+3 tranchants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Rejeton des mers__
 ====================
@@ -28089,7 +28607,7 @@ __\[ Sea Spawn \]__
 
 __Monstruosité de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 6 m, nage 9 m
 
@@ -28107,7 +28625,8 @@ Attaque à mains nues.
 Anatomie de poisson.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Rejeton des mers legacy__
 ===========================
@@ -28116,7 +28635,7 @@ __\[ Sea Spawn \]__
 
 __Humanoïde de taille M, neutre mauvais__
 
-__**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 6 m, nage 9 m
 
@@ -28137,7 +28656,8 @@ A|**Épines empoisonnées**. +5, 1,50 m, 1d6 poison
 A|**Tentacule**. +5, 3 m, 1d6+2 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Rejeton stellaire, colosse__
 ==============================
@@ -28146,7 +28666,7 @@ __\[ Star Spawn Hulk \] \[ Fléau stellaire, colosse \]__
 
 __Aberration de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 136 (13d10 + 65)  
 **Vitesse** 9 m
 
@@ -28168,7 +28688,8 @@ Coup.
 Bras moissonneurs (Recharge 5–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Rejeton stellaire, colosse legacy__
 =====================================
@@ -28177,7 +28698,7 @@ __\[ Star Spawn Hulk \]__
 
 __Aberration de taille G, chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 136 (13d10 + 65)  
 **Vitesse** 9 m
 
@@ -28199,7 +28720,8 @@ Coup.
 Bras moissonneurs (Recharge 5–6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Rejeton stellaire, frémisseur__
 =================================
@@ -28208,7 +28730,7 @@ __\[ Star Spawn Grue \] \[ Fléau stellaire, frémisseur \]__
 
 __Aberration de taille P, typiquement neutre mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 17 (5d6)  
 **Vitesse** 9 m
 
@@ -28225,7 +28747,8 @@ __Aura de cris.
 Morsure confondante.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Rejeton stellaire, frémisseur legacy__
 ========================================
@@ -28234,7 +28757,7 @@ __\[ Star Spawn Grue \]__
 
 __Aberration de taille P, neutre mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 17 (5d6)  
 **Vitesse** 9 m
 
@@ -28251,7 +28774,8 @@ __Aura de folie.
 Morsure confondante.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Rejeton stellaire, magever__
 ==============================
@@ -28260,7 +28784,7 @@ __\[ Star Spawn Larva Mage \] \[ Fléau stellaire, magever \]__
 
 __Aberration de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 168 (16d8 + 96)  
 **Vitesse** 9 m
 
@@ -28289,7 +28813,8 @@ Coup.
 Faim (coûte 3 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Rejeton stellaire, magever legacy__
 =====================================
@@ -28298,7 +28823,7 @@ __\[ Star Spawn Larva Mage \]__
 
 __Aberration de taille M, chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 168 (16d8 + 96)  
 **Vitesse** 9 m
 
@@ -28325,7 +28850,8 @@ Coup (coûte 2 actions).
 Faim (coûte 3 actions).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Rejeton stellaire, massacreur__
 =================================
@@ -28334,7 +28860,7 @@ __\[ Star Spawn Mangler \] \[ Fléau stellaire, massacreur \]__
 
 __Aberration de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 71 (13d8 + 13)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -28358,7 +28884,8 @@ Tourbillon de griffes (Recharge 5–6).
 Discrétion dans les ombres.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Rejeton stellaire, massacreur legacy__
 ========================================
@@ -28367,7 +28894,7 @@ __\[ Star Spawn Mangler \]__
 
 __Aberration de taille M, chaotique mauvais__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 71 (13d8 + 13)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -28391,7 +28918,8 @@ Griffes.
 Tourbillon de griffes (Recharge 4–6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Rejeton stellaire, voyant__
 =============================
@@ -28400,7 +28928,7 @@ __\[ Star Spawn Seer \] \[ Fléau stellaire, voyant \]__
 
 __Aberration de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 153 (18d8 + 72)  
 **Vitesse** 9 m
 
@@ -28425,7 +28953,8 @@ Effondrement de distance (Recharge 6).
 Distance forcée.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Rejeton stellaire, voyant legacy__
 ====================================
@@ -28434,7 +28963,7 @@ __\[ Star Spawn Seer \]__
 
 __Aberration de taille M, neutre mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 153 (18d8 + 72)  
 **Vitesse** 9 m
 
@@ -28459,7 +28988,8 @@ Effondrement de distance (Recharge 6).
 Distance forcée.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Remorhaz__
 ============
@@ -28468,7 +28998,7 @@ __\[ Remorhaz \]__
 
 __Monstruosité de taille TG, sans alignement__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 195 (17d12 + 85)  
 **Vitesse** 9 m, creusement 6 m
 
@@ -28486,7 +29016,9 @@ A|**Morsure**. +11, 3 m, 6d10+7 perforants
 A|**Engloutissement**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Remorhaz, jeune__
 ===================
@@ -28495,7 +29027,7 @@ __\[ Young Remorhaz \]__
 
 __Monstruosité de taille G, sans alignement__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 93 (11d10 + 33)  
 **Vitesse** 9 m, creusement 6 m
 
@@ -28513,6 +29045,7 @@ A|**Morsure**. +6, 1,50 m, 3d10+4 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Renard__
 ==========
@@ -28521,7 +29054,7 @@ __\[ Fox \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 2 (1d4)  
 **Vitesse** 9 m, creusement 1,50 m
 
@@ -28547,7 +29080,7 @@ __\[ Hunter Shark \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 45 (6d10 + 12)  
 **Vitesse** 0 m, nage 12 m
 
@@ -28565,7 +29098,9 @@ __**Frénésie sanguinaire**.
 A|**Morsure**. +6, 1,50 m, 2d8+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Requin de récif__
 ===================
@@ -28574,7 +29109,7 @@ __\[ Reef Shark \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 0 m, nage 12 m
 
@@ -28592,7 +29127,9 @@ __**Tactique de groupe**.
 A|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Requin géant__
 ================
@@ -28601,7 +29138,7 @@ __\[ Giant Shark \]__
 
 __Bête de taille TG, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 126 (11d12 + 55)  
 **Vitesse** 0 m, nage 15 m
 
@@ -28619,7 +29156,9 @@ __**Frénésie sanguinaire**.
 A|**Morsure**. +9, 1,50 m, 3d10+6 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Résinieux__
 =============
@@ -28628,7 +29167,7 @@ __\[ Needle Blight \]__
 
 __Plante de taille M, neutre mauvais__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 9 m
 
@@ -28646,6 +29185,7 @@ A|**Épines**. +3, 9/18 m, 2d6+1 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Revenant__
 ============
@@ -28654,7 +29194,7 @@ __\[ Revenant \]__
 
 __Mort-vivant de taille M, neutre__
 
-__**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 136 (16d8 + 64)  
 **Vitesse** 9 m
 
@@ -28679,7 +29219,8 @@ A|**Poing**. +7, 1,50 m, 2d6+4 contondants
 A|**Éblouissement vengeur**.  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Rhinocéros__
 ==============
@@ -28688,7 +29229,7 @@ __\[ Rhinoceros \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 45 (6d10 + 12)  
 **Vitesse** 12 m
 
@@ -28704,7 +29245,9 @@ __**Charge**.
 A|**Corne**. +7, 1,50 m, 2d8+5 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Roc__
 =======
@@ -28713,7 +29256,7 @@ __\[ Roc \] \[ Ruhk \]__
 
 __Monstruosité de taille Gig, sans alignement__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 248 (16d20 + 80)  
 **Vitesse** 6 m, vol 36 m
 
@@ -28733,7 +29276,9 @@ A|**Bec**. +13, 3 m, 4d8+9 perforants
 A|**Serres**. +13, 1,50 m, 4d6+9 tranchants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Roi/reine lézard__
 ====================
@@ -28742,7 +29287,7 @@ __\[ Lizard King/Queen \]__
 
 __Humanoïde (homme-lézard) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 78 (12d8 + 24)  
 **Vitesse** 9 m, nage 9 m
 
@@ -28765,7 +29310,8 @@ A|**Griffes**. +5, 1,50 m, 1d4+3 tranchants
 A|**Trident**. +5, 1,50 m ou 6/18 m, 1d6+3 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Rothé__
 =========
@@ -28774,7 +29320,7 @@ __\[ Rothé \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 15 (2d10 + 4)  
 **Vitesse** 9 m
 
@@ -28790,7 +29336,8 @@ __**Charge**.
 A|**Corne**. +6, 1,50 m, 1d6+4 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Rothé des profondeurs__
 =========================
@@ -28799,7 +29346,7 @@ __\[ Deep Rothé \]__
 
 __Bête (bétail) de taille M, sans alignement__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 13 (2d8 + 4)  
 **Vitesse** 9 m
 
@@ -28816,7 +29363,8 @@ Corne.
 Lumières dansantes.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Rothé des profondeurs legacy__
 ================================
@@ -28825,7 +29373,7 @@ __\[ Deep Rothé \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 13 (2d8 + 4)  
 **Vitesse** 9 m
 
@@ -28842,7 +29390,8 @@ __**Charge**.
 A|**Corne**. +6, 1,50 m, 1d6+4 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Roturier__
 ============
@@ -28851,7 +29400,7 @@ __\[ Commoner \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 4 (1d8)  
 **Vitesse** 9 m
 
@@ -28866,7 +29415,9 @@ __**Classe d'armure** 10
 __A|**Gourdin**. +2, 1,50 m, 1d4 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Rotz__
 ========
@@ -28875,7 +29426,7 @@ __\[ Rotz \]__
 
 __Humanoïde (humain) de taille M, neutre mauvais__
 
-__**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m
 
@@ -28898,6 +29449,7 @@ A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Rutterkin__
 =============
@@ -28906,7 +29458,7 @@ __\[ Rutterkin \]__
 
 __Fiélon (démon) de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 37 (5d8 + 15)  
 **Vitesse** 6 m
 
@@ -28925,7 +29477,8 @@ __Peur immobilisante.
 Morsure.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Rutterkin legacy__
 ====================
@@ -28934,7 +29487,7 @@ __\[ Rutterkin \]__
 
 __Fiélon (démon) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 37 (5d8 + 15)  
 **Vitesse** 6 m
 
@@ -28953,7 +29506,8 @@ __Peur immobilisante.
 Morsure.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Sage__
 ========
@@ -28962,7 +29516,7 @@ __\[ Sage \]__
 
 __Humanoïde (toute race) de taille M, -__
 
-__**Classe d'armure** 10 (13 avec _armure de mage_)  
+**Classe d'armure** 10 (13 avec _armure de mage_)  
 **Points de vie** 22 (5d8)  
 **Vitesse** 9 m
 
@@ -28992,7 +29546,7 @@ __\[ Master Sage \]__
 
 __Humanoïde (toute race) de taille M, -__
 
-__**Classe d'armure** 10 (13 avec _armure de mage_)  
+**Classe d'armure** 10 (13 avec _armure de mage_)  
 **Points de vie** 54 (12d8)  
 **Vitesse** 9 m
 
@@ -29023,7 +29577,7 @@ __\[ Sahuagin \]__
 
 __Humanoïde (sahuagin) de taille M, loyal mauvais__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m, nage 12 m
 
@@ -29045,7 +29599,9 @@ A|**Griffes**. +3, 1,50 m, 1d4+1 tranchants
 A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Sahuagin, baron__
 ===================
@@ -29054,7 +29610,7 @@ __\[ Sahuagin Baron \]__
 
 __Humanoïde (sahuagin) de taille G, loyal mauvais__
 
-__**Classe d'armure** 16 (cuirasse)  
+**Classe d'armure** 16 (cuirasse)  
 **Points de vie** 76 (9d10 + 27)  
 **Vitesse** 9 m, nage 15 m
 
@@ -29078,6 +29634,7 @@ A|**Trident**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Sahuagin, prêtresse__
 =======================
@@ -29086,7 +29643,7 @@ __\[ Sahuagin Priestess \]__
 
 __Humanoïde (sahuagin) de taille M, loyal mauvais__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m, nage 12 m
 
@@ -29113,6 +29670,7 @@ A|**Morsure**. +3, 1,50 m, 1d4+1 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Salamandre__
 ==============
@@ -29121,7 +29679,7 @@ __\[ Salamander \]__
 
 __Élémentaire de taille G, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 90 (12d10 + 24)  
 **Vitesse** 9 m
 
@@ -29143,7 +29701,9 @@ A|**Lance**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants
 A|**Queue**. +7, 3 m, 2d6+4 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Salamandre du givre__
 =======================
@@ -29152,7 +29712,7 @@ __\[ Frost Salamander \]__
 
 __Élémentaire de taille TG, sans alignement__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 168 (16d12 + 64)  
 **Vitesse** 18 m, creusement 12 m, escalade 12 m
 
@@ -29175,7 +29735,8 @@ Griffes.
 Souffle glacial (Recharge 6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Salamandre du givre legacy__
 ==============================
@@ -29184,7 +29745,7 @@ __\[ Frost Salamander \]__
 
 __Élémentaire de taille TG, sans alignement__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 168 (16d12 + 64)  
 **Vitesse** 18 m, creusement 12 m, escalade 12 m
 
@@ -29207,7 +29768,8 @@ Griffes.
 Souffle glacial (Recharge 6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Sanglier__
 ============
@@ -29216,7 +29778,7 @@ __\[ Boar \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 12 m
 
@@ -29233,7 +29795,9 @@ __**Charge**.
 A|**Défenses**. +3, 1,50 m, 1d6+1 tranchants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Sanglier-garou__
 ==================
@@ -29242,7 +29806,7 @@ __\[ Wereboar \]__
 
 __Humanoïde (humain, métamorphe) de taille M, neutre mauvais__
 
-__**Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme de sanglier ou sous forme hybride  
+**Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme de sanglier ou sous forme hybride  
 **Points de vie** 78 (12d8 + 24)  
 **Vitesse** 9 m (12 m sous forme de sanglier)
 
@@ -29264,7 +29828,9 @@ A|**Maillet (forme humanoïde ou hybride uniquement)**. +5, 1,50 m, 2d6+3 conton
 A|**Défenses (forme de sanglier ou hybride uniquement)**. +5, 1,50 m, 2d6+3 tranchants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Sanglier géant__
 ==================
@@ -29273,7 +29839,7 @@ __\[ Giant Boar \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 42 (5d10 + 15)  
 **Vitesse** 12 m
 
@@ -29290,7 +29856,9 @@ __**Charge**.
 A|**Défenses**. +5, 1,50 m, 2d6+3 tranchants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Sanuya__
 ==========
@@ -29299,7 +29867,7 @@ __\[ Sanuya \]__
 
 __Humanoïde (humain) de taille M, loyal mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
 **Vitesse** 9 m
 
@@ -29321,6 +29889,7 @@ A|**Bâton**.
 __
 
 __Extra (Adventurers League)__
+{: .label .label-red }
 
 __Satyre__
 ==========
@@ -29329,7 +29898,7 @@ __\[ Satyr \]__
 
 __Fée de taille M, chaotique neutre__
 
-__**Classe d'armure** 14 (armure de cuir)  
+**Classe d'armure** 14 (armure de cuir)  
 **Points de vie** 31 (7d8)  
 **Vitesse** 12 m
 
@@ -29348,7 +29917,9 @@ A|**Épée courte**.
 A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Scarabée de feu géant__
 =========================
@@ -29357,7 +29928,7 @@ __\[ Giant Fire Beetle \]__
 
 __Bête de taille P, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 4 (1d6 + 1)  
 **Vitesse** 9 m
 
@@ -29373,7 +29944,9 @@ __**Illumination**.
 A|**Morsure**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Scarabée de magot__
 =====================
@@ -29382,7 +29955,7 @@ __\[ Hoard Scarab \] \[ Scarabée de butin \]__
 
 __Monstruosité de taille TP, sans alignement__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 7 (3d4)  
 **Vitesse** 6 m, creusement 6 m, vol 6 m
 
@@ -29394,7 +29967,8 @@ __**Classe d'armure** 14 (armure naturelle)
 **Langues** -  
 **Puissance** 1/8 (25 PX) **Bonus de maîtrise** +2__
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Scorpion__
 ============
@@ -29403,7 +29977,7 @@ __\[ Scorpion \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 1 (1d4 - 1)  
 **Vitesse** 3 m
 
@@ -29418,7 +29992,9 @@ __**Classe d'armure** 11 (armure naturelle)
 __A|**Dard**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Scorpion géant__
 ==================
@@ -29427,7 +30003,7 @@ __\[ Giant Scorpion \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 52 (7d10 + 14)  
 **Vitesse** 12 m
 
@@ -29444,7 +30020,9 @@ A|**Pinces**. +4, 1,50 m, 1d8+2 contondants
 A|**Dard**. +4, 1,50 m, 1d10+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Seigneur de guerre__
 ======================
@@ -29453,7 +30031,7 @@ __\[ Warlord \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 229 (27d8 + 108)  
 **Vitesse** 9 m
 
@@ -29477,7 +30055,8 @@ L|**Attaque avec une arme**.
 L|**Ennemi apeuré (coûte 2 actions)**.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Seigneur de guerre legacy__
 =============================
@@ -29486,7 +30065,7 @@ __\[ Warlord \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 229 (27d8 + 108)  
 **Vitesse** 9 m
 
@@ -29510,7 +30089,8 @@ L|**Commandement des alliés**.
 L|**Ennemi apeuré (coûte 2 actions)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Seigneur des crânes__
 =======================
@@ -29519,7 +30099,7 @@ __\[ Skull Lord \]__
 
 __Mort-vivant (ensorceleur) de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 112 (15d8 + 45)  
 **Vitesse** 9 m
 
@@ -29548,7 +30128,8 @@ Déplacement.
 Convocation de mort-vivant (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Seigneur des crânes legacy__
 ==============================
@@ -29557,7 +30138,7 @@ __\[ Skull Lord \]__
 
 __Mort-vivant de taille M, loyal mauvais__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 105 (14d8 + 42)  
 **Vitesse** 9 m
 
@@ -29585,7 +30166,8 @@ Déplacement.
 Convocation de mort-vivant (coûte 3 actions).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Seigneur momie__
 ==================
@@ -29594,7 +30176,7 @@ __\[ Mummy Lord \] \[ Momie auguste \]__
 
 __Mort-vivant de taille M, loyal mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 97 (13d8 + 39)  
 **Vitesse** 6 m
 
@@ -29631,7 +30213,9 @@ L|**Canalisation d'énergie négative (coûte 2 actions)**.
 L|**Tourbillon de sable (coûte 2 actions)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Seigneur Soth__
 =================
@@ -29640,7 +30224,7 @@ __\[ Lord Soth \]__
 
 __Mort-vivant de taille M (paladin), loyal mauvais__
 
-__**Classe d'armure** 18 (harnois)  
+**Classe d'armure** 18 (harnois)  
 **Points de vie** 228 (24d8 + 120)  
 **Vitesse** 9 m
 
@@ -29678,7 +30262,7 @@ __\[ Selkie \]__
 
 __Humanoïde (humain, métamorphe) de taille M, chaotique neutre__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m (3 m, nage 9 m sous forme hybride ; 3 m, nage 12 m sous forme de phoque)
 
@@ -29701,6 +30285,7 @@ A|**Arbalète de poing (forme humanoïde ou hybride uniquement)**. +4, 9/36 m, 1
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Sentinelle d'eau__
 ====================
@@ -29709,7 +30294,7 @@ __\[ Water Weird \] \[ Sibylle de l'eau \]__
 
 __Élémentaire de taille G, neutre__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 58 (9d10 + 9)  
 **Vitesse** 0 m, nage 18 m
 
@@ -29729,7 +30314,8 @@ __**Invisible dans l'eau**.
 A|**Constriction**. +5, 3 m, 3d6+3 contondants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Serpent constricteur__
 ========================
@@ -29738,7 +30324,7 @@ __\[ Constrictor Snake \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 13 (2d10 + 2)  
 **Vitesse** 9 m, nage 9 m
 
@@ -29754,7 +30340,9 @@ __A|**Morsure**. +4, 1,50 m, 1d6+2 perforants
 A|**Constriction**. +4, 1,50 m, 1d8+2 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Serpent constricteur géant__
 ==============================
@@ -29763,7 +30351,7 @@ __\[ Giant Constrictor Snake \]__
 
 __Bête de taille TG, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 60 (8d12 + 8)  
 **Vitesse** 9 m, nage 9 m
 
@@ -29780,7 +30368,9 @@ __A|**Morsure**. +6, 3 m, 2d6+4 perforants
 A|**Constriction**. +6, 1,50 m, 2d8+4 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Serpent de feu__
 ==================
@@ -29789,7 +30379,7 @@ __\[ Fire Snake \]__
 
 __Élémentaire de taille M, neutre mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 22 (5d8)  
 **Vitesse** 9 m
 
@@ -29810,7 +30400,8 @@ A|**Morsure**. +3, 1,50 m, 1d4+1 perforants
 A|**Queue**. +3, 1,50 m, 1d4+1 contondants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Serpent de mer, ancien__
 ==========================
@@ -29819,7 +30410,7 @@ __\[ Ancient Sea Serpent \] \[ Serpent de mer, vénérable \]__
 
 __Dragon de taille Gig, typiquement neutre__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 170 (11d20 + 55)  
 **Vitesse** 6 m, nage 18 m
 
@@ -29834,7 +30425,8 @@ __**Classe d'armure** 17 (armure naturelle)
 **Langues** commun, draconique  
 **Puissance** 14 (11500 PX) **Bonus de maîtrise** +5__
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Serpent de mer, jeune__
 =========================
@@ -29843,7 +30435,7 @@ __\[ Young Sea Serpent \]__
 
 __Dragon de taille TG, typiquement neutre__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 123 (13d12 + 39)  
 **Vitesse** 3 m, nage 12 m
 
@@ -29858,7 +30450,8 @@ __**Classe d'armure** 16 (armure naturelle)
 **Langues** commun, draconique  
 **Puissance** 8 (3900 PX) **Bonus de maîtrise** +3__
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Serpent venimeux__
 ====================
@@ -29867,7 +30460,7 @@ __\[ Poisonous Snake \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 13  
+**Classe d'armure** 13  
 **Points de vie** 2 (1d4)  
 **Vitesse** 9 m, nage 9 m
 
@@ -29882,7 +30475,9 @@ __**Classe d'armure** 13
 __A|**Morsure**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Serpent venimeux géant__
 ==========================
@@ -29891,7 +30486,7 @@ __\[ Giant Poisonous Snake \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 9 m, nage 9 m
 
@@ -29907,7 +30502,9 @@ __**Classe d'armure** 14
 __A|**Morsure**. +6, 3 m, 1d4+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Serpent volant__
 ==================
@@ -29916,7 +30513,7 @@ __\[ Flying Snake \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 5 (2d4)  
 **Vitesse** 9 m, nage 9 m, vol 18 m
 
@@ -29932,7 +30529,9 @@ __**Repli aérien**.
 A|**Morsure**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Servant imposant de Leuk-O__
 ==============================
@@ -29941,7 +30540,7 @@ __\[ Mighty Servant of Leuk-O \]__
 
 __Artificiel de taille TG, -__
 
-__**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 310 (27d12 + 135)  
 **Vitesse** 18 m
 
@@ -29976,7 +30575,7 @@ __\[ Homunculus Servant \]__
 
 __Artificiel de taille TP, -__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 1 + votre modificateur d'Intelligence + votre niveau d'artificier (l'homoncule a un nombre de Dés de vie \[d4\] égal à votre niveau d'artificier)  
 **Vitesse** 6 m, vol 9 m
 
@@ -30006,7 +30605,7 @@ __\[ Tiny Servant \]__
 
 __Artificiel de taille TP, sans alignement__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 10 (4d4)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -30032,7 +30631,7 @@ __\[ Shadar-kai Soul Monger \]__
 
 __Humanoïde (elfe) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 136 (21d8 + 42)  
 **Vitesse** 9 m
 
@@ -30058,7 +30657,8 @@ Incantation.
 Vague de lassitude (Recharge 4–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Shadar-kai, colporte-âmes legacy__
 ====================================
@@ -30067,7 +30667,7 @@ __\[ Soul Monger \]__
 
 __Humanoïde (elfe) de taille M, neutre__
 
-__**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 123 (19d8 + 38)  
 **Vitesse** 9 m
 
@@ -30093,7 +30693,8 @@ Dague de l'ombre.
 Vague de lassitude (Recharge 4–6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Shadar-kai, danseur des ombres__
 ==================================
@@ -30102,7 +30703,7 @@ __\[ Shadar-kai Shadow Dancer \]__
 
 __Humanoïde (elfe) de taille M, tout alignement__
 
-__**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 71 (13d8 + 13)  
 **Vitesse** 9 m
 
@@ -30124,7 +30725,8 @@ Chaîne barbelée.
 Saut des ombres.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Shadar-kai, danseur des ombres legacy__
 =========================================
@@ -30133,7 +30735,7 @@ __\[ Shadow Dancer \]__
 
 __Humanoïde (elfe) de taille M, neutre__
 
-__**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 71 (13d8 + 13)  
 **Vitesse** 9 m
 
@@ -30155,7 +30757,8 @@ Attaques multiples.
 Chaîne barbelée.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Shadar-kai, ténébriste__
 ==========================
@@ -30164,7 +30767,7 @@ __\[ Shadar-kai Gloom Weaver \]__
 
 __Humanoïde (elfe) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 104 (16d8 + 32)  
 **Vitesse** 9 m
 
@@ -30187,7 +30790,8 @@ Incantation.
 Échappatoire brumeuse (Recharge 6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Shadar-kai, ténébriste legacy__
 =================================
@@ -30196,7 +30800,7 @@ __\[ Gloom Weaver \]__
 
 __Humanoïde (elfe) de taille M, neutre__
 
-__**Classe d'armure** 14 (17 avec _armure de mage_)  
+**Classe d'armure** 14 (17 avec _armure de mage_)  
 **Points de vie** 104 (16d8 + 32)  
 **Vitesse** 9 m
 
@@ -30220,7 +30824,8 @@ Lance de l'ombre.
 Échappatoire brumeuse (Recharge après un repos court ou long).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Shoosuva__
 ============
@@ -30229,7 +30834,7 @@ __\[ Shoosuva \]__
 
 __Fiélon (démon) de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 136 (16d10 + 48)  
 **Vitesse** 12 m
 
@@ -30251,7 +30856,8 @@ Dard caudal.
 Déchaîné.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Shoosuva legacy__
 ===================
@@ -30260,7 +30866,7 @@ __\[ Shoosuva \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 110 (13d10 + 39)  
 **Vitesse** 12 m
 
@@ -30282,7 +30888,8 @@ A|**Morsure**. +7, 1,50 m, 4d10+4 perforants
 A|**Dard caudal**. +7, 4,50 m, 2d8+4 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Sibriex__
 ===========
@@ -30291,7 +30898,7 @@ __\[ Sibriex \]__
 
 __Fiélon (démon) de taille TG, typiquement chaotique mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 150 (12d12 + 72)  
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
@@ -30321,7 +30928,8 @@ Vaporisation de bile.
 Corruption (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Sibriex legacy__
 ==================
@@ -30330,7 +30938,7 @@ __\[ Sibriex \]__
 
 __Fiélon (démon) de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 150 (12d12 + 72)  
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
@@ -30363,7 +30971,8 @@ L|**Vaporisation de bile**.
 L|**Corruption (coûte 2 actions)**.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Singe géant__
 ===============
@@ -30372,7 +30981,7 @@ __\[ Giant Ape \]__
 
 __Bête de taille TG, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 157 (15d12 + 60)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -30390,7 +30999,9 @@ A|**Poing**. +9, 3 m, 3d10+6 contondants
 A|**Rocher**. +9, 15/30 m, 7d6+6 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Slaad bleu__
 ==============
@@ -30399,7 +31010,7 @@ __\[ Blue Slaad \]__
 
 __Aberration de taille G, chaotique neutre__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 123 (13d10 + 52)  
 **Vitesse** 9 m
 
@@ -30421,6 +31032,7 @@ A|**Morsure**. +8, 1,50 m, 2d6+5 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Slaad funeste__
 =================
@@ -30429,7 +31041,7 @@ __\[ Death Slaad \]__
 
 __Aberration (métamorphe) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 170 (20d8 + 80)  
 **Vitesse** 9 m
 
@@ -30458,6 +31070,7 @@ A|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Slaad gris__
 ==============
@@ -30466,7 +31079,7 @@ __\[ Gray Slaad \]__
 
 __Aberration (métamorphe) de taille M, chaotique neutre__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 127 (17d8 + 51)  
 **Vitesse** 9 m
 
@@ -30495,6 +31108,7 @@ A|**Épée à deux mains**. +7, 1,50 m, 2d6+3 tranchants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Slaad rouge__
 ===============
@@ -30503,7 +31117,7 @@ __\[ Red Slaad \]__
 
 __Aberration de taille G, chaotique neutre__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 93 (11d10 + 33)  
 **Vitesse** 9 m
 
@@ -30525,6 +31139,7 @@ A|**Morsure**. +6, 1,50 m, 2d4+3 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Slaad, têtard__
 =================
@@ -30533,7 +31148,7 @@ __\[ Slaad Tadpole \]__
 
 __Aberration de taille TP, chaotique neutre__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 10 (4d4)  
 **Vitesse** 9 m
 
@@ -30552,6 +31167,7 @@ A|**Morsure**. +4, 1,50 m, 1d4+2 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Slaad vert__
 ==============
@@ -30560,7 +31176,7 @@ __\[ Green Slaad \]__
 
 __Aberration (métamorphe) de taille G, chaotique neutre__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 127 (15d10 + 45)  
 **Vitesse** 9 m
 
@@ -30589,6 +31205,7 @@ A|**Jet de flammes**. +4, 18 m, 3d6 feu
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Solar__
 =========
@@ -30597,7 +31214,7 @@ __\[ Solar \]__
 
 __Céleste de taille G, loyal bon__
 
-__**Classe d'armure** 21 (armure naturelle)  
+**Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 243 (18d10 + 144)  
 **Vitesse** 15 m, vol 45 m
 
@@ -30631,7 +31248,9 @@ L|**Explosion brûlante (coûte 2 actions)**.
 L|**Regard aveuglant (coûte 3 actions)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Sombrelin__
 =============
@@ -30640,7 +31259,7 @@ __\[ Darkling \] \[ Obscur \]__
 
 __Fée de taille P, chaotique neutre__
 
-__**Classe d'armure** 14 (armure de cuir)  
+**Classe d'armure** 14 (armure de cuir)  
 **Points de vie** 13 (3d6 + 3)  
 **Vitesse** 9 m
 
@@ -30658,7 +31277,8 @@ Sensibilité à la lumière.
 Dague.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Sombrelin, aîné__
 ===================
@@ -30667,7 +31287,7 @@ __\[ Darkling Elder \] \[ Obscur, aîné \]__
 
 __Fée de taille M, typiquement chaotique neutre__
 
-__**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 9 m
 
@@ -30686,7 +31306,8 @@ Cimeterre
 Ténèbres (Recharge après un repos court ou long).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Sombrelin, aîné legacy__
 ==========================
@@ -30695,7 +31316,7 @@ __\[ Darkling Elder \]__
 
 __Fée de taille M, chaotique neutre__
 
-__**Classe d'armure** 15 (armure de cuir clouté)  
+**Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 9 m
 
@@ -30714,7 +31335,8 @@ A|**Épée courte**. +5, 1,50 m, 1d6+3 perforants
 A|**Ténèbres (Recharge après un repos court ou long)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Sombrelin legacy__
 ====================
@@ -30723,7 +31345,7 @@ __\[ Darkling \]__
 
 __Fée de taille P, chaotique neutre__
 
-__**Classe d'armure** 14 (armure de cuir)  
+**Classe d'armure** 14 (armure de cuir)  
 **Points de vie** 13 (3d6 + 3)  
 **Vitesse** 9 m
 
@@ -30741,7 +31363,8 @@ __**Mort éblouissante**.
 A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Sorcemort__
 =============
@@ -30750,7 +31373,7 @@ __\[ Deathlock \]__
 
 __Mort-vivant (occultiste) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 36 (8d8)  
 **Vitesse** 9 m
 
@@ -30775,7 +31398,8 @@ Carreau de la tombe.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Sorcemort, conspirateur__
 ===========================
@@ -30784,7 +31408,7 @@ __\[ Deathlock Mastermind \] \[ Sorcemort, cerveau \]__
 
 __Mort-vivant (occultiste) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 13 (16 avec _armure de mage_)  
+**Classe d'armure** 13 (16 avec _armure de mage_)  
 **Points de vie** 110 (20d8 + 20)  
 **Vitesse** 9 m
 
@@ -30810,7 +31434,8 @@ Carreau de la tombe.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Sorcemort, conspirateur legacy__
 ==================================
@@ -30819,7 +31444,7 @@ __\[ Deathlock Mastermind \]__
 
 __Mort-vivant de taille M, neutre mauvais__
 
-__**Classe d'armure** 13 (16 avec _armure de mage_)  
+**Classe d'armure** 13 (16 avec _armure de mage_)  
 **Points de vie** 110 (20d8 + 20)  
 **Vitesse** 9 m
 
@@ -30843,7 +31468,8 @@ Griffes mortelles.
 Carreau de la tombe.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Sorcemort legacy__
 ====================
@@ -30852,7 +31478,7 @@ __\[ Deathlock \]__
 
 __Mort-vivant de taille M, neutre mauvais__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 36 (8d8)  
 **Vitesse** 9 m
 
@@ -30875,7 +31501,8 @@ Résistance au renvoi.
 Griffes mortelles.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Sorcemort, nécrophage__
 =========================
@@ -30884,7 +31511,7 @@ __\[ Deathlock Wight \]__
 
 __Mort-vivant (occultiste) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 37 (5d8 + 15)  
 **Vitesse** 9 m
 
@@ -30909,7 +31536,8 @@ Carreau de la tombe.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Sorcemort, nécrophage legacy__
 ================================
@@ -30918,7 +31546,7 @@ __\[ Deathlock Wight \]__
 
 __Mort-vivant de taille M, neutre mauvais__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 37 (5d8 + 15)  
 **Vitesse** 9 m
 
@@ -30942,7 +31570,8 @@ Carreau de la tombe.
 Absorption de vie.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Souffle animé__
 =================
@@ -30951,7 +31580,7 @@ __\[ Animated Breath \]__
 
 __Élementaire de taille G, typiquement neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle) ou 17 (forme de froid uniquement)  
+**Classe d'armure** 15 (armure naturelle) ou 17 (forme de froid uniquement)  
 **Points de vie** 95 (10d10 + 40)  
 **Vitesse** 9 m, vol 9 m (stationnaire)
 
@@ -30965,7 +31594,8 @@ __**Classe d'armure** 15 (armure naturelle) ou 17 (forme de froid uniquement)
 **Langues** comprend le draconique mais ne peut pas parler  
 **Puissance** 6 (2300 PX) **Bonus de maîtrise** +3__
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Spectateur__
 ==============
@@ -30974,7 +31604,7 @@ __\[ Spectator \]__
 
 __Aberration de taille M, loyal neutre__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
@@ -30999,6 +31629,7 @@ R|**Renvoi de sort**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Spectre__
 ===========
@@ -31007,7 +31638,7 @@ __\[ Specter \]__
 
 __Mort-vivant de taille M, chaotique mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
 **Vitesse** 0 m, vol 15 m (stationnaire)
 
@@ -31027,7 +31658,9 @@ __**Déplacement intangible**.
 A|**Absorption de vie**. +4, 1,50 m, 3d6 nécrotiques  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Spore gazeuse__
 =================
@@ -31036,7 +31669,7 @@ __\[ Gas Spore \]__
 
 __Plante de taille G, sans alignement__
 
-__**Classe d'armure** 5  
+**Classe d'armure** 5  
 **Points de vie** 1 (1d10 - 4)  
 **Vitesse** 0 m, vol 3 m (stationnaire)
 
@@ -31056,6 +31689,7 @@ A|**Contact**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Squelette__
 =============
@@ -31064,7 +31698,7 @@ __\[ Skeleton \]__
 
 __Mort-vivant de taille M, loyal mauvais__
 
-__**Classe d'armure** 13 (restes d'armure)  
+**Classe d'armure** 13 (restes d'armure)  
 **Points de vie** 13 (2d8 + 4)  
 **Vitesse** 9 m
 
@@ -31083,7 +31717,9 @@ __A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants
 A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Squelette de cheval de guerre__
 =================================
@@ -31092,7 +31728,7 @@ __\[ Warhorse Skeleton \] \[ Squelette de destrier \]__
 
 __Mort-vivant de taille G, loyal mauvais__
 
-__**Classe d'armure** 13 (restes de caparaçonnage)  
+**Classe d'armure** 13 (restes de caparaçonnage)  
 **Points de vie** 22 (3d10 + 6)  
 **Vitesse** 18 m
 
@@ -31110,7 +31746,9 @@ __**Classe d'armure** 13 (restes de caparaçonnage)
 __A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Squelette de minotaure__
 ==========================
@@ -31119,7 +31757,7 @@ __\[ Minotaur Skeleton \]__
 
 __Mort-vivant de taille G, loyal mauvais__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 67 (9d10 + 18)  
 **Vitesse** 12 m
 
@@ -31139,7 +31777,9 @@ A|**Hache à deux mains**. +6, 1,50 m, 2d12+4 tranchants
 A|**Corne**. +6, 1,50 m, 2d8+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Strahd von Zarovich__
 =======================
@@ -31148,7 +31788,7 @@ __\[ Strahd von Zarovich \]__
 
 __Mort-vivant (métamorphe) de taille M, loyal mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 144 (17d8 + 68)  
 **Vitesse** 9 m
 
@@ -31189,7 +31829,7 @@ __\[ Stirge \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 2 (1d4)  
 **Vitesse** 3 m, vol 12 m
 
@@ -31204,7 +31844,9 @@ __**Classe d'armure** 14 (armure naturelle)
 __A|**Absorption de sang**. +5, 1,50 m, 1d4+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Succube__
 ===========
@@ -31213,7 +31855,7 @@ __\[ Succubus \]__
 
 __Fiélon (métamorphe) de taille M, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 66 (12d8 + 12)  
 **Vitesse** 9 m, vol 18 m
 
@@ -31235,7 +31877,9 @@ A|**Baiser corrupteur**.
 A|**Forme éthérée**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Sylvanien__
 =============
@@ -31244,7 +31888,7 @@ __\[ Treant \]__
 
 __Plante de taille TG, chaotique bon__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 138 (12d12 + 60)  
 **Vitesse** 9 m
 
@@ -31266,7 +31910,9 @@ A|**Rocher**. +10, 18/54 m, 4d10+6 contondants
 A|**Animation des arbres (1/jour)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Tabaxi, chasseur__
 ====================
@@ -31275,7 +31921,7 @@ __\[ Tabaxi Hunter \]__
 
 __Humanoïde (tabaxi) de taille M, chaotique bon__
 
-__**Classe d'armure** 14 (armure de cuir)  
+**Classe d'armure** 14 (armure de cuir)  
 **Points de vie** 40 (9d8)  
 **Vitesse** 9 m, escalade 6 m
 
@@ -31304,7 +31950,7 @@ __\[ Tabaxi Minstrel \]__
 
 __Humanoïde (tabaxi) de taille M, chaotique bon__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
 **Vitesse** 9 m, escalade 6 m
 
@@ -31333,7 +31979,7 @@ __\[ Tanarukk \]__
 
 __Fiélon (démon) de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 95 (10d8 + 50)  
 **Vitesse** 9 m
 
@@ -31355,7 +32001,8 @@ Agressif.
 Unbridled Fury.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Tanarukk legacy__
 ===================
@@ -31364,7 +32011,7 @@ __\[ Tanarukk \]__
 
 __Fiélon (démon, orc) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 95 (10d8 + 50)  
 **Vitesse** 9 m
 
@@ -31386,7 +32033,8 @@ A|**Épée à deux mains**. +7, 1,50 m, 2d6+4 tranchants
 R|**Furie effrénée**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Tapis étouffant__
 ===================
@@ -31395,7 +32043,7 @@ __\[ Rug of Smothering \] \[ Tapis étrangleur \]__
 
 __Artificiel de taille G, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 33 (6d10)  
 **Vitesse** 3 m
 
@@ -31415,7 +32063,9 @@ __**Sensibilité à l'antimagie**.
 A|**Étouffement**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Tarasque__
 ============
@@ -31424,7 +32074,7 @@ __\[ Tarrasque \]__
 
 __Monstruosité (titan) de taille Gig, sans alignement__
 
-__**Classe d'armure** 25 (armure naturelle)  
+**Classe d'armure** 25 (armure naturelle)  
 **Points de vie** 676 (33d20 + 330)  
 **Vitesse** 12 m
 
@@ -31455,7 +32105,9 @@ L|**Déplacement**.
 L|**Mastication (coûte 2 actions)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Témoin psychique__
 ====================
@@ -31464,7 +32116,7 @@ __\[ Mindwitness \]__
 
 __Aberration de taille G, typiquement loyal neutre__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 75 (10d10 + 20)  
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
@@ -31486,7 +32138,8 @@ Tentacules.
 Rayons oculaires.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Témoin psychique legacy__
 ===========================
@@ -31495,7 +32148,7 @@ __\[ Mindwitness \]__
 
 __Aberration de taille G, loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 75 (10d10 + 20)  
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
@@ -31523,7 +32176,8 @@ A|**5- Rayon étourdissant**.
 A|**6- Rayon télékinétique**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Tendriculaire__
 =================
@@ -31532,7 +32186,7 @@ __\[ Tendriculos \]__
 
 __Plante de taille TG, sans alignement__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 189 (18d10 + 90)  
 **Vitesse** 6 m
 
@@ -31554,6 +32208,7 @@ A|**Engloutissement**.
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Ténébreux__
 =============
@@ -31562,7 +32217,7 @@ __\[ Nightwalker \]__
 
 __Mort-vivant de taille TG, typiquement chaotique mauvais__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 337 (25d12 + 175)  
 **Vitesse** 12 m, vol 12 m
 
@@ -31586,7 +32241,8 @@ Focaliseur énervant.
 Doigt de la mort (Recharge 6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Ténébreux legacy__
 ====================
@@ -31595,7 +32251,7 @@ __\[ Nightwalker \]__
 
 __Mort-vivant de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 297 (22d12 + 154)  
 **Vitesse** 12 m, vol 12 m
 
@@ -31618,7 +32274,8 @@ Focaliseur énervant.
 Doigt de la mort (Recharge 6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Teril__
 =========
@@ -31627,7 +32284,7 @@ __\[ Teril \]__
 
 __Humanoïde (demi-elfe) de taille M, neutre bon__
 
-__**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 13 (3d8)  
 **Vitesse** 9 m
 
@@ -31647,6 +32304,7 @@ A|**Arc court**. +4, 24/96 m, 1d6+2 perforants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Tertre errant__
 =================
@@ -31655,7 +32313,7 @@ __\[ Shambling Mound \]__
 
 __Plante de taille G, sans alignement__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 136 (16d10 + 48)  
 **Vitesse** 6 m, nage 6 m
 
@@ -31677,7 +32335,9 @@ A|**Coup**. +7, 1,50 m, 2d8+4 contondants
 A|**Engloutissement**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Thri-kreen__
 ==============
@@ -31686,7 +32346,7 @@ __\[ Thri-kreen \]__
 
 __Humanoïde (thri-kreen) de taille M, chaotique neutre__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 12 m
 
@@ -31707,6 +32367,7 @@ A|**Morsure**. +3, 1,50 m, 1d6+1 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Tiamat__
 ==========
@@ -31715,7 +32376,7 @@ __\[ Tiamat \]__
 
 __Fiélon de taille Gig, chaotique mauvais__
 
-__**Classe d'armure** 25 (armure naturelle)  
+**Classe d'armure** 25 (armure naturelle)  
 **Points de vie** 615 (30d20 + 300)  
 **Vitesse** 18 m, vol 36 m
 
@@ -31740,7 +32401,7 @@ __\[ Tiger \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 37 (5d10 + 10)  
 **Vitesse** 12 m
 
@@ -31759,7 +32420,9 @@ A|**Griffes**. +5, 1,50 m, 1d8+3 tranchants
 A|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Tigre à dents de sabre__
 ==========================
@@ -31768,7 +32431,7 @@ __\[ Saber-Toothed Tiger \]__
 
 __Bête de taille G, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 52 (7d10 + 14)  
 **Vitesse** 12 m
 
@@ -31787,7 +32450,9 @@ A|**Griffes**. +6, 1,50 m, 2d6+5 tranchants
 A|**Morsure**. +6, 1,50 m, 1d10+5 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Tigre-garou__
 ===============
@@ -31796,7 +32461,7 @@ __\[ Weretiger \]__
 
 __Humanoïde (humain, métamorphe) de taille M, neutre__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 120 (16d8 + 48)  
 **Vitesse** 9 m (12 m sous forme de tigre)
 
@@ -31820,7 +32485,9 @@ A|**Cimeterre (forme humanoïde ou hybride uniquement)**. +5, 1,50 m, 1d6+3 tran
 A|**Arc long (forme humanoïde ou hybride uniquement)**. +4, 45/180 m, 1d8+2 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Titivilus__
 =============
@@ -31829,7 +32496,7 @@ __\[ Titivilus \]__
 
 __Fiélon (diable) de taille M, loyal mauvais__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 150 (20d8 + 60)  
 **Vitesse** 12 m, vol 18 m
 
@@ -31861,7 +32528,8 @@ Téléportation.
 Assaut (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Titivilus legacy__
 ====================
@@ -31870,7 +32538,7 @@ __\[ Titivilus \]__
 
 __Fiélon (diable) de taille M, loyal mauvais__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 127 (17d8 + 51)  
 **Vitesse** 12 m, vol 18 m
 
@@ -31903,7 +32571,8 @@ Assistance corrompue.
 Téléportation.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Tlincalli__
 =============
@@ -31912,7 +32581,7 @@ __\[ Tlincalli \]__
 
 __Monstruosité de taille G, typiquement neutre__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 85 (10d10 + 30)  
 **Vitesse** 12 m
 
@@ -31931,7 +32600,8 @@ Chaîne barbelée.
 Dard.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Tlincalli legacy__
 ====================
@@ -31940,7 +32610,7 @@ __\[ Tlincalli \]__
 
 __Monstruosité de taille G, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 85 (10d10 + 30)  
 **Vitesse** 12 m
 
@@ -31959,7 +32629,8 @@ A|**Chaîne barbelée**. +6, 3 m, 1d6+3 perforants
 A|**Dard**. +6, 1,50 m, 1d6+3 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Torte__
 =========
@@ -31968,7 +32639,7 @@ __\[ Tortle \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m
 
@@ -31988,7 +32659,8 @@ Arbalète légère.
 Carapace protectrice.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Torte, druide__
 =================
@@ -31997,7 +32669,7 @@ __\[ Tortle Druid \]__
 
 __Humanoïde de taille M, tout alignement__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m
 
@@ -32018,7 +32690,8 @@ Carapace protectrice.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Torte, druide legacy__
 ========================
@@ -32027,7 +32700,7 @@ __\[ Tortle Druid \]__
 
 __Humanoïde (torte) de taille M, loyal neutre__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m
 
@@ -32047,7 +32720,8 @@ Batôn.
 Carapace protectrice.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Torte legacy__
 ================
@@ -32056,7 +32730,7 @@ __\[ Tortle \]__
 
 __Humanoïde (torte) de taille M, loyal bon__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m
 
@@ -32076,7 +32750,8 @@ Arbalète légère.
 Carapace protectrice.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Torve__
 =========
@@ -32085,7 +32760,7 @@ __\[ Grimlock \]__
 
 __Humanoïde (torve) de taille M, neutre mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 11 (2d8 + 2)  
 **Vitesse** 9 m
 
@@ -32105,7 +32780,9 @@ __**Sens aveugles**.
 A|**Gourdin d'os hérissé de pointes**. +5, 1,50 m, 1d4+3 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Tourmente, vénérable__
 ========================
@@ -32114,7 +32791,7 @@ __\[ Elder Tempest \]__
 
 __Élémentaire de taille Gig, typiquement neutre__
 
-__**Classe d'armure** 19  
+**Classe d'armure** 19  
 **Points de vie** 264 (16d20 + 96)  
 **Vitesse** 0 m, vol 36 m (stationnaire)
 
@@ -32143,7 +32820,8 @@ Frappe foudroyante (coûte 2 actions).
 Coup de vent hurlant (coûte 3 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Tourmente, vénérable legacy__
 ===============================
@@ -32152,7 +32830,7 @@ __\[ Elder Tempest \]__
 
 __Élémentaire de taille Gig, neutre__
 
-__**Classe d'armure** 19  
+**Classe d'armure** 19  
 **Points de vie** 264 (16d20 + 96)  
 **Vitesse** 0 m, vol 36 m (stationnaire)
 
@@ -32181,7 +32859,8 @@ Frappe foudroyante (coûte 2 actions).
 Coup de vent hurlant (coûte 3 actions).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Transmutateur legacy__
 ========================
@@ -32190,7 +32869,7 @@ __\[ Transmuter \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 40 (9d8)  
 **Vitesse** 9 m
 
@@ -32221,7 +32900,8 @@ Si le transmutateur a la pierre et lance un sort de transmutation de niveau 1 ou
 A|**Bâton**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Traqueur diamantin__
 ======================
@@ -32230,7 +32910,7 @@ __\[ Gem Stalker \]__
 
 __Monstruosité de taille G, typiquement neutre__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 67 (9d10 + 18)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -32245,7 +32925,8 @@ __**Classe d'armure** 17 (armure naturelle)
 **Langues** comprend le draconique mais ne peut pas parler, télépathie 18 m  
 **Puissance** 5 (1800 PX) **Bonus de maîtrise** +3__
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Traqueur gluant__
 ===================
@@ -32254,7 +32935,7 @@ __\[ Slithering Tracker \] \[ Traquatique \]__
 
 __Vase de taille M, typiquement chaotique mauvais__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 39 (6d8 + 12)  
 **Vitesse** 9 m, escalade 9 m, nage 9 m
 
@@ -32278,7 +32959,8 @@ Suceur de vie.
 Discrétion aqueuse.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Traqueur gluant legacy__
 ==========================
@@ -32287,7 +32969,7 @@ __\[ Slithering Tracker \]__
 
 __Vase de taille M, chaotique mauvais__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 32 (5d8 + 10)  
 **Vitesse** 9 m, escalade 9 m, nage 9 m
 
@@ -32314,7 +32996,8 @@ A|**Coup**. +5, 1,50 m, 1d10+3 contondants
 A|**Suceur de vie**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Traqueur invisible__
 ======================
@@ -32323,7 +33006,7 @@ __\[ Invisible Stalker \]__
 
 __Élémentaire de taille M, neutre__
 
-__**Classe d'armure** 14  
+**Classe d'armure** 14  
 **Points de vie** 104 (16d8 + 32)  
 **Vitesse** 15 m, vol 15 m (stationnaire)
 
@@ -32345,7 +33028,9 @@ A|**Attaques multiples**.
 A|**Coup**. +6, 1,50 m, 2d6+3 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Tricératops__
 ===============
@@ -32354,7 +33039,7 @@ __\[ Triceratops \]__
 
 __Bête de taille TG, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 95 (10d12 + 30)  
 **Vitesse** 15 m
 
@@ -32371,7 +33056,9 @@ A|**Corne**. +9, 1,50 m, 4d8+6 perforants
 A|**Piétinement**. +9, 1,50 m, 3d10+6 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Tridrone__
 ============
@@ -32380,7 +33067,7 @@ __\[ Tridrone \]__
 
 __Artificiel de taille M, loyal neutre__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 16 (3d8 + 3)  
 **Vitesse** 9 m
 
@@ -32400,6 +33087,7 @@ A|**Javeline**. +3, 1,50 m ou 9/36 m, 1d6+1 perforants
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Triton du feu, guerrier__
 ===========================
@@ -32408,7 +33096,7 @@ __\[ Firenewt Warrior \] \[ Triton du feu, combattant \]__
 
 __Élementaire de taille M, typiquement neutre__
 
-__**Classe d'armure** 13 (bouclier)  
+**Classe d'armure** 13 (bouclier)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 9 m
 
@@ -32427,7 +33115,8 @@ Cimeterre.
 Cracheur de feu (Recharge après un repos court ou long).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Triton du feu, guerrier legacy__
 ==================================
@@ -32436,7 +33125,7 @@ __\[ Firenewt Warrior \]__
 
 __Humanoïde (triton du feu) de taille M, neutre mauvais__
 
-__**Classe d'armure** 16 (chemise de mailles, bouclier)  
+**Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 22 (4d8 + 4)  
 **Vitesse** 9 m
 
@@ -32455,7 +33144,8 @@ A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants
 A|**Cracheur de feu (Recharge après un repos court ou long)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Triton du feu, occultiste d'Imix__
 ====================================
@@ -32464,7 +33154,7 @@ __\[ Firenewt Warlock of Imix \]__
 
 __Élémentaire de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m
 
@@ -32486,7 +33176,8 @@ Rayon de feu.
 Incantation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Triton du feu, occultiste d'Imix legacy__
 ===========================================
@@ -32495,7 +33186,7 @@ __\[ Firenewt Warlock of Imix \]__
 
 __Humanoïde (triton du feu) de taille M, neutre mauvais__
 
-__**Classe d'armure** 10 (13 avec _armure de mage_)  
+**Classe d'armure** 10 (13 avec _armure de mage_)  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 9 m
 
@@ -32517,7 +33208,8 @@ Nivx 1-2 (2 de niveau 2) : _mains brûlantes, sphère de feu, représailles infe
 A|**Morgenstern**. +3, 1,50 m, 1d8+1 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Tritsir__
 ===========
@@ -32526,7 +33218,7 @@ __\[ Tritsir \]__
 
 __Humanoïde (humain) de taille M, loyal mauvais__
 
-__**Classe d'armure** 10 (13 avec _armure de mage_)  
+**Classe d'armure** 10 (13 avec _armure de mage_)  
 **Points de vie** 90 (12d8 + 36)  
 **Vitesse** 9 m
 
@@ -32552,6 +33244,7 @@ A|**Masse d'armes**. +3, 1,50 m, 1d6 contondants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Troglodyte__
 ==============
@@ -32560,7 +33253,7 @@ __\[ Troglodyte \]__
 
 __Humanoïde (troglodyte) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 11 (armure naturelle)  
+**Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 13 (2d8 + 4)  
 **Vitesse** 9 m
 
@@ -32581,7 +33274,8 @@ A|**Morsure**. +4, 1,50 m, 1d4+2 perforants
 A|**Griffes**. +4, 1,50 m, 1d4+2 tranchants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Troll__
 =========
@@ -32590,7 +33284,7 @@ __\[ Troll \]__
 
 __Géant de taille G, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 84 (8d10 + 40)  
 **Vitesse** 9 m
 
@@ -32610,7 +33304,9 @@ A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants
 A|**Morsure**. +7, 1,50 m, 1d6+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Troll putride__
 =================
@@ -32619,7 +33315,7 @@ __\[ Rot Troll \]__
 
 __Géant de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 138 (12d10 + 72)  
 **Vitesse** 9 m
 
@@ -32639,7 +33335,8 @@ Morsure.
 Griffes.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Troll putride legacy__
 ========================
@@ -32648,7 +33345,7 @@ __\[ Rot Troll \]__
 
 __Géant de taille G, chaotique mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 138 (12d10 + 72)  
 **Vitesse** 9 m
 
@@ -32668,7 +33365,8 @@ Morsure.
 Griffes.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Troll sanguinaire__
 =====================
@@ -32677,7 +33375,7 @@ __\[ Dire Troll \]__
 
 __Géant de taille TG, typiquement chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 172 (15d12 + 75)  
 **Vitesse** 12 m
 
@@ -32700,7 +33398,8 @@ Griffes.
 Tourbillon de griffes (Recharge 5–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Troll sanguinaire legacy__
 ============================
@@ -32709,7 +33408,7 @@ __\[ Dire Troll \]__
 
 __Géant de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 172 (15d12 + 75)  
 **Vitesse** 12 m
 
@@ -32733,7 +33432,8 @@ Griffes.
 Tourbillon de griffes (Recharge 5–6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Troll spectral__
 ==================
@@ -32742,7 +33442,7 @@ __\[ Spirit Troll \]__
 
 __Géant de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 130 (20d10 + 20)  
 **Vitesse** 9 m
 
@@ -32765,7 +33465,8 @@ Morsure.
 Griffes.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Troll spectral legacy__
 =========================
@@ -32774,7 +33475,7 @@ __\[ Spirit Troll \]__
 
 __Géant de taille G, chaotique mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 97 (15d10 + 15)  
 **Vitesse** 9 m
 
@@ -32797,7 +33498,8 @@ Morsure.
 Griffes.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Troll venimeux__
 ==================
@@ -32806,7 +33508,7 @@ __\[ Venom Troll \]__
 
 __Géant de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 94 (9d10 + 45)  
 **Vitesse** 9 m
 
@@ -32829,7 +33531,8 @@ Griffes.
 Bouffée de venin (Recharge 6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Troll venimeux legacy__
 =========================
@@ -32838,7 +33541,7 @@ __\[ Venom Troll \]__
 
 __Géant de taille G, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 94 (9d10 + 45)  
 **Vitesse** 9 m
 
@@ -32862,7 +33565,8 @@ Griffes.
 Bouffée de venin (Recharge 6).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Truite têtevide__
 ===================
@@ -32871,7 +33575,7 @@ __\[ Knucklehead Trout \]__
 
 __Bête de taille P, sans alignement__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 7 (2d6)  
 **Vitesse** 0 m, nage 9 m
 
@@ -32897,7 +33601,7 @@ __\[ Death Tyrant \]__
 
 __Mort-vivant de taille G, loyal mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 187 (25d10 + 50)  
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
@@ -32930,6 +33634,7 @@ L|**Rayon oculaire**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Tyrannoeil__
 ==============
@@ -32938,7 +33643,7 @@ __\[ Beholder \]__
 
 __Aberration de taille G, loyal mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 180 (19d10 + 76)  
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
@@ -32970,6 +33675,7 @@ L|**Rayon oculaire**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Tyrannosaure__
 ================
@@ -32978,7 +33684,7 @@ __\[ Tyrannosaurus Rex \]__
 
 __Bête de taille TG, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 136 (13d12 + 52)  
 **Vitesse** 15 m
 
@@ -32996,7 +33702,9 @@ A|**Morsure**. +10, 3 m, 4d12+7 perforants
 A|**Queue**. +10, 3 m, 3d8+7 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Ulitharid__
 =============
@@ -33005,7 +33713,7 @@ __\[ Ulitharid \]__
 
 __Aberration (flagelleur mental) de taille G, typiquement loyal mauvais__
 
-__**Classe d'armure** 15 (cuirasse)  
+**Classe d'armure** 15 (cuirasse)  
 **Points de vie** 127 (17d10 + 34)  
 **Vitesse** 9 m
 
@@ -33028,7 +33736,8 @@ Explosion de l'esprit (Recharge 5-6).
 Incantation (psioniques).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Ulitharid legacy__
 ====================
@@ -33037,7 +33746,7 @@ __\[ Ulitharid \]__
 
 __Aberration de taille G, loyal mauvais__
 
-__**Classe d'armure** 15 (cuirasse)  
+**Classe d'armure** 15 (cuirasse)  
 **Points de vie** 127 (17d10 + 34)  
 **Vitesse** 9 m
 
@@ -33062,7 +33771,8 @@ A|**Extraction de cerveau**. +9, 1,50 m, 10d10 perforants
 A|**Explosion de l'esprit (Recharge 5-6)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Ultroloth__
 =============
@@ -33071,7 +33781,7 @@ __\[ Ultroloth \]__
 
 __Fiélon (yugoloth) de taille M, neutre mauvais__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 153 (18d8 + 72)  
 **Vitesse** 9 m, vol 18 m
 
@@ -33100,6 +33810,7 @@ A|**Téléportation**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Vajra Safahr__
 ================
@@ -33108,7 +33819,7 @@ __\[ Vajra Safahr \]__
 
 __Humanoïde (humain) de taille M, loyal neutre__
 
-__**Classe d'armure** 14 (_Bâton noir_ ; 17 avec _armure de mage_)  
+**Classe d'armure** 14 (_Bâton noir_ ; 17 avec _armure de mage_)  
 **Points de vie** 126 (23d8 + 23)  
 **Vitesse** 9 m
 
@@ -33137,7 +33848,7 @@ __\[ Vampire \]__
 
 __Mort-vivant (métamorphe) de taille M, loyal mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 144 (17d8 + 68)  
 **Vitesse** 9 m
 
@@ -33172,7 +33883,9 @@ L|**Attaque à mains nues**.
 L|**Morsure (coûte 2 actions)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Vampirien__
 =============
@@ -33181,7 +33894,7 @@ __\[ Vampire Spawn \]__
 
 __Mort-vivant de taille M, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 82 (11d8 + 33)  
 **Vitesse** 9 m
 
@@ -33208,7 +33921,9 @@ A|**Griffes**. +6, 1,50 m, 2d4+3 tranchants
 A|**Morsure**. +6, 1,50 m, 1d6+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Vampyrannoeil__
 =================
@@ -33217,7 +33932,7 @@ __\[ Death Kiss \]__
 
 __Aberration (tyrannoeil) de taille G, typiquement neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 142 (15d10 + 60)  
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
@@ -33239,7 +33954,8 @@ Tentacule.
 Absorption de sang.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Vampyrannoeil legacy__
 ========================
@@ -33248,7 +33964,7 @@ __\[ Death Kiss \]__
 
 __Aberration de taille G, neutre mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 161 (17d10 + 68)  
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
@@ -33270,7 +33986,8 @@ A|**Tentacule**. +8, 6 m, 3d6+4 perforants
 A|**Absorption de sang**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Vargouille__
 ==============
@@ -33279,7 +33996,7 @@ __\[ Vargouille \]__
 
 __Fiélon de taille TP, typiquement chaotique mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 18 (4d4 + 8)  
 **Vitesse** 1,50 m, vol 12 m
 
@@ -33299,7 +34016,8 @@ Malédiction des Abysses.
 Cri étourdissant (Recharge 5–6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Vargouille legacy__
 =====================
@@ -33308,7 +34026,7 @@ __\[ Vargouille \]__
 
 __Fiélon de taille TP, chaotique mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 13 (3d4 + 6)  
 **Vitesse** 1,50 m, vol 12 m
 
@@ -33328,7 +34046,8 @@ A|**Baiser**.
 A|**Cri étourdissant**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Vase de Sangdragon__
 ======================
@@ -33337,7 +34056,7 @@ __\[ Dragonblood Ooze \] \[ Dracoglobine \]__
 
 __Vase de taille G, sans alignement__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 68 (8d10 + 24)  
 **Vitesse** 6 m, escalade 6 m
 
@@ -33359,7 +34078,8 @@ Pseudopode.
 Souffle de vase (Recharge 6).  
 __
 
-__Fizban´s Treasury of Dragons__
+_Fizban´s Treasury of Dragons_
+{: .label .label-red }
 
 __Vase grise__
 ==============
@@ -33368,7 +34088,7 @@ __\[ Gray Ooze \]__
 
 __Vase de taille M, sans alignement__
 
-__**Classe d'armure** 8  
+**Classe d'armure** 8  
 **Points de vie** 22 (3d8 + 9)  
 **Vitesse** 3 m, escalade 3 m
 
@@ -33389,7 +34109,9 @@ __**Informe**.
 A|**Pseudopode**. +3, 1,50 m, 1d6+1 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Vautour__
 ===========
@@ -33398,7 +34120,7 @@ __\[ Vulture \]__
 
 __Bête de taille M, sans alignement__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 5 (1d8 + 1)  
 **Vitesse** 3 m, vol 15 m
 
@@ -33416,7 +34138,9 @@ __**Odorat et vue aiguisés**.
 A|**Bec**. +2, 1,50 m, 1d4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Vautour géant__
 =================
@@ -33425,7 +34149,7 @@ __\[ Giant Vulture \]__
 
 __Bête de taille G, neutre mauvais__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 22 (3d10 + 6)  
 **Vitesse** 3 m, vol 18 m
 
@@ -33445,7 +34169,9 @@ A|**Bec**. +4, 1,50 m, 2d4+2 perforants
 A|**Serres**. +5, 1,50 m, 2d6+2 tranchants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Vecna l'archiliche__
 ======================
@@ -33454,7 +34180,7 @@ __\[ Vecna the Archlich \]__
 
 __Mort-vivant (magicien) de taille M, loyal mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 272 (32d8 + 128)  
 **Vitesse** 9 m
 
@@ -33498,7 +34224,7 @@ __\[ Vegepygmy \]__
 
 __Plante de taille P, typiquement neutre__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 13 (3d6 + 3)  
 **Vitesse** 9 m
 
@@ -33518,7 +34244,8 @@ Griffes.
 Fronde.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Végépygmée, chef__
 ====================
@@ -33527,7 +34254,7 @@ __\[ Vegepygmy Chief \]__
 
 __Plante de taille P, typiquement neutre__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 33 (6d6 + 12)  
 **Vitesse** 9 m
 
@@ -33549,7 +34276,8 @@ Lance.
 Spores (1/jour).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Végépygmée, chef legacy__
 ===========================
@@ -33558,7 +34286,7 @@ __\[ Vegepygmy Chief \]__
 
 __Plante de taille P, neutre__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 33 (6d6 + 12)  
 **Vitesse** 9 m
 
@@ -33580,7 +34308,8 @@ A|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants
 A|**Spores (1/jour)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Végépygmée épineux__
 ======================
@@ -33589,7 +34318,7 @@ __\[ Thorny Vegepygmy \]__
 
 __Plante de taille M, typiquement neutre__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 27 (5d8 + 5)  
 **Vitesse** 9 m
 
@@ -33609,7 +34338,8 @@ Corps épineux.
 Morsure.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Végépygmée legacy__
 =====================
@@ -33618,7 +34348,7 @@ __\[ Vegepygmy \]__
 
 __Plante de taille P, neutre__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 9 (2d6 + 2)  
 **Vitesse** 9 m
 
@@ -33638,7 +34368,8 @@ A|**Griffes**. +4, 1,50 m, 1d6+2 tranchants
 A|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Vellynne Harpell__
 ====================
@@ -33647,7 +34378,7 @@ __\[ Vellynne Harpell \]__
 
 __Humanoïde (humain) de taille M, neutre__
 
-__**Classe d'armure** 13 (_bracelets de défense_)  
+**Classe d'armure** 13 (_bracelets de défense_)  
 **Points de vie** 67 (9d8 + 27)  
 **Vitesse** 6 m
 
@@ -33670,7 +34401,7 @@ __\[ Velociraptor \]__
 
 __Bête (dinosaure) de taille TP, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 10 (3d4 + 3)  
 **Vitesse** 9 m
 
@@ -33689,7 +34420,8 @@ Morsure.
 Griffes.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Vélociraptor legacy__
 =======================
@@ -33698,7 +34430,7 @@ __\[ Velociraptor \]__
 
 __Bête de taille TP, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 10 (3d4 + 3)  
 **Vitesse** 9 m
 
@@ -33717,7 +34449,8 @@ A|**Morsure**.
 A|**Griffes**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Ver pourpre__
 ===============
@@ -33726,7 +34459,7 @@ __\[ Purple Worm \]__
 
 __Monstruosité de taille Gig, sans alignement__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 247 (15d20 + 90)  
 **Vitesse** 15 m, creusement 9 m
 
@@ -33745,7 +34478,9 @@ A|**Morsure**. +14, 3 m, 3d8+9 perforants
 A|**Dard**. +14, 3 m, 3d6+9 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Vétéran__
 ===========
@@ -33754,7 +34489,7 @@ __\[ Veteran \]__
 
 __Humanoïde (toute race) de taille M, tout alignement__
 
-__**Classe d'armure** 17 (clibanion)  
+**Classe d'armure** 17 (clibanion)  
 **Points de vie** 58 (9d8 + 18)  
 **Vitesse** 9 m
 
@@ -33773,7 +34508,9 @@ A|**Épée courte**. +5, 1,50 m, 1d6+3 perforants
 A|**Arbalète lourde**. +3, 30/120 m, 1d10+1 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Viplo__
 =========
@@ -33782,7 +34519,7 @@ __\[ Viplo \]__
 
 __Humanoïde (halfelin) de taille P, loyal neutre__
 
-__**Classe d'armure** 10  
+**Classe d'armure** 10  
 **Points de vie** 9 (2d6 + 2)  
 **Vitesse** 7,50 m
 
@@ -33802,6 +34539,7 @@ A|**Bâton**.
 __
 
 __Extra (Adventurers League)__
+{: .label .label-red }
 
 __Vissepince__
 ==============
@@ -33810,7 +34548,7 @@ __\[ Meenlock \]__
 
 __Fée de taille P, typiquement neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 31 (7d6 + 7)  
 **Vitesse** 9 m
 
@@ -33830,7 +34568,8 @@ Griffes.
 Téléportation par les ombres (Recharge 5-6).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Vissepince legacy__
 =====================
@@ -33839,7 +34578,7 @@ __\[ Meenlock \]__
 
 __Fée de taille P, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 31 (7d6 + 7)  
 **Vitesse** 9 m
 
@@ -33859,7 +34598,8 @@ __**Aura de peur**.
 A|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Vrock__
 =========
@@ -33868,7 +34608,7 @@ __\[ Vrock \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 104 (11d10 + 44)  
 **Vitesse** 12 m, vol 18 m
 
@@ -33892,7 +34632,9 @@ A|**Spores (Recharge 6)**.
 A|**Cri étourdissant (1/jour)**.  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Wastrilith__
 ==============
@@ -33901,7 +34643,7 @@ __\[ Wastrilith \]__
 
 __Fiélon (démon) de taille G, typiquement chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 157 (15d10 + 75)  
 **Vitesse** 9 m, nage 24 m
 
@@ -33927,7 +34669,8 @@ Bec agrippant.
 Reflux.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Wastrilith legacy__
 =====================
@@ -33936,7 +34679,7 @@ __\[ Wastrilith \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 157 (15d10 + 75)  
 **Vitesse** 9 m, nage 24 m
 
@@ -33962,7 +34705,8 @@ Griffes.
 Bec agrippant.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Wiverne__
 ===========
@@ -33971,7 +34715,7 @@ __\[ Wyvern \] \[ Vouivre \]__
 
 __Dragon de taille G, sans alignement__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 110 (13d10 + 39)  
 **Vitesse** 6 m, vol 24 m
 
@@ -33990,7 +34734,9 @@ A|**Griffes**. +7, 1,50 m, 2d8+4 tranchants
 A|**Morsure**. +7, 3 m, 2d6+4 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Worg__
 ========
@@ -33999,7 +34745,7 @@ __\[ Worg \]__
 
 __Monstruosité de taille G, neutre mauvais__
 
-__**Classe d'armure** 13 (armure naturelle)  
+**Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 26 (4d10 + 4)  
 **Vitesse** 15 m
 
@@ -34016,7 +34762,9 @@ __**Odorat et ouïe aiguisés**.
 A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Xiximantre__
 ==============
@@ -34025,7 +34773,7 @@ __\[ Xiximantre \]__
 
 __Humanoïde (homme serpent) de taille M, neutre__
 
-__**Classe d'armure** 11 (14 avec _armure de mage_)  
+**Classe d'armure** 11 (14 avec _armure de mage_)  
 **Points de vie** 38 (11d8-11)  
 **Vitesse** 9 m
 
@@ -34051,6 +34799,7 @@ A|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+2 perforants
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Xorn__
 ========
@@ -34059,7 +34808,7 @@ __\[ Xorn \]__
 
 __Élémentaire de taille M, neutre__
 
-__**Classe d'armure** 19 (armure naturelle)  
+**Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 73 (7d8 + 42)  
 **Vitesse** 6 m, creusement 6 m
 
@@ -34081,7 +34830,9 @@ A|**Griffes**. +6, 1,50 m, 1d6+3 tranchants
 A|**Morsure**. +6, 1,50 m, 3d6+3 perforants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Xvart__
 =========
@@ -34090,7 +34841,7 @@ __\[ Xvart \]__
 
 __Monstruosité de taille P, typiquement chaotique mauvais__
 
-__**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 7 (2d6)  
 **Vitesse** 9 m
 
@@ -34109,7 +34860,8 @@ Fronde.
 Action fourbe mineure.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Xvart legacy__
 ================
@@ -34118,7 +34870,7 @@ __\[ Xvart \]__
 
 __Humanoïde (xvart) de taille P, chaotique mauvais__
 
-__**Classe d'armure** 13 (armure de cuir)  
+**Classe d'armure** 13 (armure de cuir)  
 **Points de vie** 7 (2d6)  
 **Vitesse** 9 m
 
@@ -34138,7 +34890,8 @@ A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants
 A|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Xvart, occultiste de Raxivort__
 =================================
@@ -34147,7 +34900,7 @@ __\[ Xvart Warlock of Raxivort \]__
 
 __Monstruosité de taille P, typiquement chaotique mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 22 (5d6 + 5)  
 **Vitesse** 9 m
 
@@ -34169,7 +34922,8 @@ Incantation.
 Action fourbe mineure.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Xvart, occultiste de Raxivort legacy__
 ========================================
@@ -34178,7 +34932,7 @@ __\[ Xvart Warlock of Raxivort \]__
 
 __Humanoïde (xvart) de taille P, chaotique mauvais__
 
-__**Classe d'armure** 12 (15 avec _armure de mage_)  
+**Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 22 (5d6 + 5)  
 **Vitesse** 9 m
 
@@ -34202,7 +34956,8 @@ Nivx 1-2 (2 de niveau 2) : _mains brûlantes, repli expéditif, invisibilité, r
 A|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Yagnoloth__
 =============
@@ -34211,7 +34966,7 @@ __\[ Yagnoloth \]__
 
 __Fiélon (yugoloth) de taille G, typiquement neutre mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 147 (14d10 + 70)  
 **Vitesse** 12 m
 
@@ -34238,7 +34993,8 @@ Incantation.
 Téléportation.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Yagnoloth legacy__
 ====================
@@ -34247,7 +35003,7 @@ __\[ Yagnoloth \]__
 
 __Fiélon (yugoloth) de taille G, neutre mauvais__
 
-__**Classe d'armure** 17 (armure naturelle)  
+**Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 147 (14d10 + 70)  
 **Vitesse** 12 m
 
@@ -34275,7 +35031,8 @@ Ruse du champ de bataille (Recharge 4–6).
 Téléportation.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Yan-C-Bin__
 =============
@@ -34284,7 +35041,7 @@ __\[ Yan-C-Bin \]__
 
 __Élémentaire de taille TG, neutre mauvais__
 
-__**Classe d'armure** 22 (armure naturelle)  
+**Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 283 (21d12 + 147)  
 **Vitesse** 15 m, vol 45 m
 
@@ -34309,7 +35066,7 @@ __\[ Yeenoghu \]__
 
 __Fiélon (démon) de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 333 (23d12 + 184)  
 **Vitesse** 15 m
 
@@ -34338,7 +35095,8 @@ Coup repoussant.
 Sauvage (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Yeenoghu legacy__
 ===================
@@ -34347,7 +35105,7 @@ __\[ Yeenoghu \]__
 
 __Fiélon (démon) de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 20 (armure naturelle)  
+**Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 333 (23d12 + 184)  
 **Vitesse** 15 m
 
@@ -34377,7 +35135,8 @@ Coup repoussant.
 Sauvage (coûte 2 actions).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Yéti__
 ========
@@ -34386,7 +35145,7 @@ __\[ Yeti \]__
 
 __Monstruosité de taille G, chaotique mauvais__
 
-__**Classe d'armure** 12 (armure naturelle)  
+**Classe d'armure** 12 (armure naturelle)  
 **Points de vie** 51 (6d10 + 18)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -34408,7 +35167,9 @@ A|**Griffes**. +6, 1,50 m, 1d6+4 tranchants
 A|**Regard givrant**.  
 __
 
-__Monster Manual (BR)__
+_Monster Manual (BR+)_
+{: .label .label-red }
+{: .label .label-red }
 
 __Yéti abominable__
 ===================
@@ -34417,7 +35178,7 @@ __\[ Abominable Yeti \]__
 
 __Monstruosité de taille TG, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 137 (11d12 + 66)  
 **Vitesse** 12 m, escalade 12 m
 
@@ -34441,6 +35202,7 @@ A|**Souffle de froid (Recharge 6)**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Yochlol__
 ===========
@@ -34449,7 +35211,7 @@ __\[ Yochlol \]__
 
 __Fiélon (démon, métamorphe) de taille M, chaotique mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 136 (16d8 + 64)  
 **Vitesse** 9 m, escalade 9 m
 
@@ -34479,6 +35241,7 @@ A|**Forme brumeuse**.
 __
 
 __Monster Manual__
+{: .label .label-red }
 
 __Yuan-ti, abomination__
 ========================
@@ -34487,7 +35250,7 @@ __\[ Yuan-ti Abomination \] \[ Abomination yuan-tie \]__
 
 __Monstruosité (métamorphe, yuan-ti) de taille G, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 127 (15d10 + 45)  
 **Vitesse** 12 m
 
@@ -34515,7 +35278,8 @@ A|**Cimeterre (forme d'abomination uniquement)**. +7, 1,50 m, 2d6+4 tranchants
 A|**Arc long (forme d'abomination uniquement)**. +6, 45/180 m, 2d8+3 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
 
 __Yuan-ti, anathème__
 =====================
@@ -34524,7 +35288,7 @@ __\[ Yuan-ti Anathema \]__
 
 __Monstruosité de taille TG, typiquement neutre mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 189 (18d12 + 72)  
 **Vitesse** 12 m, escalade 9 m, nage 9 m
 
@@ -34551,7 +35315,8 @@ Incantation (forme d'anathème uniquement).
 Métamorphe.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Yuan-ti, anathème legacy__
 ============================
@@ -34560,7 +35325,7 @@ __\[ Yuan-ti Anathema \]__
 
 __Monstruosité (métamorphe, yuan-ti) de taille TG, neutre mauvais__
 
-__**Classe d'armure** 16 (armure naturelle)  
+**Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 189 (18d12 + 72)  
 **Vitesse** 12 m, escalade 9 m, nage 9 m
 
@@ -34590,7 +35355,8 @@ A|**Constriction**.
 A|**Déluge de morsures**. +10, 3 m, 6d6+6 perforants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Yuan-ti, annonciateur de cauchemars__
 =======================================
@@ -34599,7 +35365,7 @@ __\[ Yuan-ti Nightmare Speaker \] \[ Yuan-ti, orateur des cauchemars \]__
 
 __Monstruosité (occultiste) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 71 (13d8 + 13)  
 **Vitesse** 9 m
 
@@ -34626,7 +35392,8 @@ Incantation (forme de yuan-ti uniquement).
 Métamorphe.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Yuan-ti, annonciateur de cauchemars legacy__
 ==============================================
@@ -34635,7 +35402,7 @@ __\[ Yuan-ti Nightmare Speaker \]__
 
 __Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 71 (13d8 + 13)  
 **Vitesse** 9 m
 
@@ -34666,7 +35433,8 @@ A|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants
 A|**Invocation de cauchemar (Recharge après un repos court ou long)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Yuan-ti, chuchoteur des consciences__
 =======================================
@@ -34675,7 +35443,7 @@ __\[ Yuan-ti Mind Whisperer \]__
 
 __Monstruosité (occultiste) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 71 (13d8 + 13)  
 **Vitesse** 9 m
 
@@ -34702,7 +35470,8 @@ Incantation (forme de yuan-ti uniquement).
 Métamorphe.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Yuan-ti, chuchoteur des consciences legacy__
 ==============================================
@@ -34711,7 +35480,7 @@ __\[ Yuan-ti Mind Whisperer \]__
 
 __Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 71 (13d8 + 13)  
 **Vitesse** 9 m
 
@@ -34742,7 +35511,8 @@ A|**Morsure**. +5, 1,50 m, 1d4+3 perforants
 A|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Yuan-ti, garde des couvées__
 ==============================
@@ -34751,7 +35521,7 @@ __\[ Yuan-ti Broodguard \]__
 
 __Monstruosité de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 45 (7d8 + 14)  
 **Vitesse** 9 m
 
@@ -34773,7 +35543,8 @@ Morsure.
 Griffes.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Yuan-ti, garde des couvées legacy__
 =====================================
@@ -34782,7 +35553,7 @@ __\[ Yuan-ti Broodguard \]__
 
 __Humanoïde (yuan-ti) de taille M, neutre mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 45 (7d8 + 14)  
 **Vitesse** 9 m
 
@@ -34805,7 +35576,8 @@ A|**Morsure**. +4, 1,50 m, 1d8+2 perforants
 A|**Griffes**. +4, 1,50 m, 1d6+2 tranchants  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Yuan-ti, maître de la fosse__
 ===============================
@@ -34814,7 +35586,7 @@ __\[ Yuan-ti Pit Master \]__
 
 __Monstruosité (occultiste) de taille M, typiquement neutre mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 88 (16d8 + 16)  
 **Vitesse** 9 m
 
@@ -34840,7 +35612,8 @@ Incantation (forme de yuan-ti uniquement).
 Métamorphe.  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Yuan-ti, maître de la fosse legacy__
 ======================================
@@ -34849,7 +35622,7 @@ __\[ Yuan-ti Pit Master \]__
 
 __Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
 
-__**Classe d'armure** 14 (armure naturelle)  
+**Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 88 (16d8 + 16)  
 **Vitesse** 9 m
 
@@ -34879,7 +35652,8 @@ A|**Morsure**. +5, 1,50 m, 1d4+3 perforants
 A|**Sommeil de Merrshaulk (1/jour)**.  
 __
 
-__Volo´s Guide to Monsters__
+_Volo´s Guide to Monsters_
+{: .label .label-red }
 
 __Yuan-ti, malison__
 ====================
@@ -34888,7 +35662,7 @@ __\[ Yuan-ti Malison \]__
 
 __Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
 
-__**Classe d'armure** 12  
+**Classe d'armure** 12  
 **Points de vie** 66 (12d8 + 12)  
 **Vitesse** 9 m
 
@@ -34928,7 +35702,9 @@ A|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants
 A|**Arc long (forme de yuan-ti uniquement)**. +4, 45/180 m, 1d8+2 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
+{: .label .label-red }
 
 __Yuan-ti, sang-pur__
 =====================
@@ -34937,7 +35713,7 @@ __\[ Yuan-ti Pureblood \]__
 
 __Humanoïde (yuan-ti) de taille M, neutre mauvais__
 
-__**Classe d'armure** 11  
+**Classe d'armure** 11  
 **Points de vie** 40 (9d8)  
 **Vitesse** 9 m
 
@@ -34961,7 +35737,9 @@ A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants
 A|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
 __
 
-__Monster Manual (BR+)__
+_Monster Manual (BR+)_
+{: .label .label-red }
+{: .label .label-red }
 
 __Zaratan__
 ===========
@@ -34970,7 +35748,7 @@ __\[ Zaratan \]__
 
 __Élémentaire de taille Gig, typiquement neutre__
 
-__**Classe d'armure** 21 (armure naturelle)  
+**Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 307 (15d20 + 150)  
 **Vitesse** 12 m, nage 12 m
 
@@ -35003,7 +35781,9 @@ Revitalisé (coûte 2 actions).
 Émergence (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
+
 
 __Zaratan legacy__
 ==================
@@ -35012,7 +35792,7 @@ __\[ Zaratan \]__
 
 __Élémentaire de taille Gig, neutre__
 
-__**Classe d'armure** 21 (armure naturelle)  
+**Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 307 (15d20 + 150)  
 **Vitesse** 12 m, nage 12 m
 
@@ -35046,7 +35826,8 @@ Revitalisé (coûte 2 actions).
 Émergence (coûte 2 actions).  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Zariel__
 ==========
@@ -35055,7 +35836,7 @@ __\[ Zariel \]__
 
 __Fiélon (diable) de taille G, loyal mauvais__
 
-__**Classe d'armure** 21 (armure naturelle)  
+**Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 420 (29d10 + 261)  
 **Vitesse** 15 m, vol 45 m
 
@@ -35086,7 +35867,8 @@ Téléportation.
 Regard immolant (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Zariel legacy__
 =================
@@ -35095,7 +35877,7 @@ __\[ Zariel \]__
 
 __Fiélon (diable) de taille G, loyal mauvais__
 
-__**Classe d'armure** 21 (armure naturelle)  
+**Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 580 (40d10 + 360)  
 **Vitesse** 15 m, vol 45 m
 
@@ -35129,7 +35911,8 @@ L|**Regard immolant (coûte 2 actions)**.
 L|**Téléportation**.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
 
 __Zocalo__
 ==========
@@ -35138,7 +35921,7 @@ __\[ Zocalo \]__
 
 __Fiélon (diable) de taille M, typiquement loyal mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 58 (9d8 + 18)  
 **Vitesse** 9 m, vol 12 m
 
@@ -35166,6 +35949,7 @@ B|**Discrétion dans les ombres**.
 __
 
 __Extra (AideDD)__
+{: .label .label-red }
 
 __Zombi__
 =========
@@ -35174,7 +35958,7 @@ __\[ Zombie \]__
 
 __Mort-vivant de taille M, neutre mauvais__
 
-__**Classe d'armure** 8  
+**Classe d'armure** 8  
 **Points de vie** 22 (3d8 + 9)  
 **Vitesse** 6 m
 
@@ -35193,7 +35977,9 @@ __**Tenacité de mort-vivant**.
 A|**Coup**. +3, 1,50 m, 1d6+1 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Zombi musqué jaune__
 ======================
@@ -35202,7 +35988,7 @@ __\[ Yellow Musk Zombie \]__
 
 __Mort-vivant de taille M, sans alignement__
 
-__**Classe d'armure** 9  
+**Classe d'armure** 9  
 **Points de vie** 33 (6d8 + 6)  
 **Vitesse** 6 m
 
@@ -35220,6 +36006,7 @@ A|**Coup**. +3, 1,50 m, 1d8+1 contondants
 __
 
 __Adventures (Tomb of Annihilation)__
+{: .label .label-red }
 
 __Zombi ogre__
 ==============
@@ -35228,7 +36015,7 @@ __\[ Ogre Zombie \]__
 
 __Mort-vivant de taille G, neutre mauvais__
 
-__**Classe d'armure** 8  
+**Classe d'armure** 8  
 **Points de vie** 85 (9d10 + 36)  
 **Vitesse** 9 m
 
@@ -35247,7 +36034,9 @@ __**Tenacité de mort-vivant**.
 A|**Morgenstern**. +6, 1,50 m, 2d8+4 contondants  
 __
 
-__Monster Manual (SRD)__
+_Monster Manual (SRD)_
+{: .label .label-red }
+
 
 __Zombi rothé__
 ===============
@@ -35256,7 +36045,7 @@ __\[ Rothé Zombie \]__
 
 __Mort-vivant de taille G, neutre mauvais__
 
-__**Classe d'armure** 8  
+**Classe d'armure** 8  
 **Points de vie** 22 (3d8 + 9)  
 **Vitesse** 9 m
 
@@ -35277,6 +36066,8 @@ A|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants
 __
 
 __Extra (Adventurers League)__
+{: .label .label-red }
+
 
 __Zombi tyrannoeil__
 ====================
@@ -35285,7 +36076,7 @@ __\[ Beholder Zombie \]__
 
 __Mort-vivant de taille G, neutre mauvais__
 
-__**Classe d'armure** 15 (armure naturelle)  
+**Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 93 (11d10 + 33)  
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
@@ -35310,6 +36101,8 @@ A|**4- Rayon de désintégration**.
 __
 
 __Monster Manual__
+{: .label .label-red }
+
 
 __Zuggtmoy__
 ============
@@ -35318,7 +36111,7 @@ __\[ Zuggtmoy \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 304 (32d10 + 128)  
 **Vitesse** 9 m
 
@@ -35349,7 +36142,8 @@ Téléportation.
 Regard immolant (coûte 2 actions).  
 __
 
-__Monsters of the Multiverse__
+_Monsters of the Multiverse_
+{: .label .label-red }
 
 __Zuggtmoy legacy__
 ===================
@@ -35358,7 +36152,7 @@ __\[ Zuggtmoy \]__
 
 __Fiélon (démon) de taille G, chaotique mauvais__
 
-__**Classe d'armure** 18 (armure naturelle)  
+**Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 304 (32d10 + 128)  
 **Vitesse** 9 m
 
@@ -35388,4 +36182,5 @@ Attaque.
 Preuve de volonté.  
 __
 
-__Mordenkainen´s Tome of Foes__
+_Mordenkainen´s Tome of Foes_
+{: .label .label-red }
