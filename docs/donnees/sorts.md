@@ -2786,26 +2786,12 @@ niveau 4 - enchantement
 Ce sort assaille et tord les esprits des créatures, générant des illusions et provoquant des actions incontrôlées. Chaque créature dans une sphère de 3 mètres de rayon centrée sur un point choisi dans la portée du sort doit réussir un jet de sauvegarde de Sagesse, sans quoi elle sera affectée par le sort.  
 Une cible affectée ne peut réagir et elle doit lancer 1d10 au début de chacun de ses tours pour déterminer son comportement pour ce tour.  
 
-d10
-
-Comportement
-
-1
-
-La créature emploie tout son mouvement pour se déplacer de façon aléatoire. Pour déterminer la direction, lancez 1d8 et assignez une direction à chaque face. La créature ne prend pas d'action pour ce tour.
-
-2-6
-
-La créature ne se déplace pas et elle ne prend pas d'action pour ce tour.
-
-7-8
-
-La créature prend son action pour faire une attaque au corps à corps contre une créature à sa portée, déterminée de façon aléatoire. Si aucune créature n'est à sa portée, la créature ne fait rien pour ce tour.
-
-9-10
-
-La créature peut agir et se déplacer normalement.
-
+| d10 | Comportement |
+| --- | --- |
+| 1 | La créature emploie tout son mouvement pour se déplacer de façon aléatoire. Pour déterminer la direction, lancez 1d8 et assignez une direction à chaque face. La créature ne prend pas d'action pour ce tour. |
+| 2-6 | La créature ne se déplace pas et elle ne prend pas d'action pour ce tour. |
+| 7-8 | La créature prend son action pour faire une attaque au corps à corps contre une créature à sa portée, déterminée de façon aléatoire. Si aucune créature n'est à sa portée, la créature ne fait rien pour ce tour. |
+| 9-10 | La créature peut agir et se déplacer normalement. |
   
 À la fin de chacun de ses tours, une créature affectée peut faire un jet de sauvegarde de Sagesse. En cas de réussite, l'effet du sort prend fin pour cette cible.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le rayon de la sphère augmente de 1,50 mètre pour chaque niveau d'emplacement au-delà du niveau 4.  
@@ -3127,89 +3113,37 @@ Lorsque vous lancez ce sort, vous modifiez les conditions climatiques actuelles,
   
 **Précipitation**  
 
-État
-
-Condition
-
-1
-
-Dégagé
-
-2
-
-Nuages légers
-
-3
-
-Ciel couvert ou brouillard
-
-4
-
-Pluie, neige ou grêle
-
-5
-
-Pluie torrentielle, tempête de grêle ou blizzard
+| État | Condition |
+| --- | --- |
+| 1 | Dégagé |
+| 2 | Nuages légers |
+| 3 | Ciel couvert ou brouillard |
+| 4 | Pluie, neige ou grêle |
+| 5 | Pluie torrentielle, tempête de grêle ou blizzard |
 
   
 **Température**  
 
-État
-
-Condition
-
-1
-
-Fournaise insoutenable
-
-2
-
-Chaud
-
-3
-
-Doux
-
-4
-
-Frais
-
-5
-
-Froid
-
-6
-
-Froid arctique
+| État | Condition |
+| --- | --- |
+| 1 | Fournaise insoutenable |
+| 2 | Chaud |
+| 3 | Doux |
+| 4 | Frais |
+| 5 | Froid |
+| 6 | Froid arctique |
 
   
 **Vent**  
 
-État
+| État | Condition |
+| --- | --- |
+| 1 | Calme |
+| 2 | Vent modéré |
+| 3 | Vent fort |
+| 4 | Vent violent |
+| 5 | Ouragan |
 
-Condition
-
-1
-
-Calme
-
-2
-
-Vent modéré
-
-3
-
-Vent fort
-
-4
-
-Vent violent
-
-5
-
-Ouragan
-
-  
 
 Clerc
 {: .label .label-green }
@@ -3434,21 +3368,11 @@ niveau 3 - invocation
 
 Vous prononcez des mots vulgaires, invoquant des démons du chaos des Abysses. Jetez un dé sur la table suivante pour déterminer ce qui apparaît.  
 
-d6
-
-Démons invoqués
-
-1-2
-
-Deux démons de FP 1 ou moins
-
-3-4
-
-Quatre démons de FP 1/2 ou moins
-
-5-6
-
-Huit démons de FP 1/4 ou moins
+| d6 | Démons invoqués |
+| --- | --- |
+| 1-2 | Deux démons de FP 1 ou moins |
+| 3-4 | Quatre démons de FP 1/2 ou moins |
+| 5-6 | Huit démons de FP 1/4 ou moins |
 
   
 Le MD choisit les démons, comme les mânes ou les dretchs, et vous choisissez les espaces inoccupés que vous pouvez voir à portée où ils apparaissent. Un démon invoqué disparaît lorsqu'il tombe à 0 point de vie ou lorsque le sort se termine.  
@@ -3923,29 +3847,13 @@ niveau 5 - illusion
 Vous extirpez de la Gisombre des brumes ténébreuses qui vous serviront de matériau pour créer, à portée, un objet non vivant en matière végétale : du tissu, de la corde, du bois, ou quelque chose de similaire. Vous pouvez également utiliser ce sort pour créer un objet minéral comme de la pierre, du cristal ou du métal. L'objet créé ne doit pas dépasser un cube de 1,50 mètre d'arête, et vous devez déjà avoir vu la forme et les matériaux que vous souhaitez donner à l'objet.  
 La durée d'effet du sort dépend du matériau de l'objet. Si l'objet comporte plusieurs matériaux, utilisez la durée la plus courte.  
 
-Matériau
-
-Durée
-
-Matière végétale
-
-1 jour
-
-Pierre ou cristal
-
-12 heures
-
-Métaux précieux
-
-1 heure
-
-Gemmes
-
-10 minutes
-
-Adamantium ou mithral
-
-1 minute
+| Matériau | Durée |
+| --- | --- | 
+| Matière végétale | 1 jour |
+| Pierre ou cristal | 12 heures |
+| Métaux précieux | 1 heure |
+| Gemmes | 10 minutes |
+| Adamantium ou mithral | 1 minute |
 
   
 Utiliser un matériau créé à l'aide du sort _création_ en tant que composante matérielle d'un autre sort fait automatiquement échouer cet autre sort.  
@@ -5076,42 +4984,16 @@ niveau 1 - évocation
 
 Vous projetez une masse d'énergie chaotique sifflante et ondulante vers une créature à portée. Effectuez un jet d'attaque à distance avec un sort contre la cible. En cas de réussite, la cible prend 2d8 + 1d6 points de dégâts. Choisissez l'un des d8. Le nombre tiré sur ce dé détermine le type de dégâts de l'attaque, comme indiqué ci-dessous.  
   
-
-d8
-
-Type de dégâts
-
-1
-
-Acide
-
-2
-
-Froid
-
-3
-
-Feu
-
-4
-
-Force
-
-5
-
-Foudre
-
-6
-
-Poison
-
-7
-
-Psychique
-
-8
-
-Tonnerre
+| d8 | Type de dégâts |
+| --- | --- |
+| 1 | Acide |
+| 2 | Froid |
+| 3 | Feu |
+| 4 | Force |
+| 5 | Foudre |
+| 6 | Poison |
+| 7 | Psychique |
+| 8 | Tonnerre |
 
   
 Si vous avez fait un double avec les d8, l'énergie chaotique rebondit depuis la cible vers une autre créature de votre choix dans un rayon de 9 mètres autour de la première. Effectuez un nouveau jet d'attaque contre cette nouvelle créature et effectuez un jet de dégâts le cas échéant. L'énergie chaotique peut continuer de rebondir, bien qu'une créature ne puisse être affectée qu'une seule fois par chaque sort lancé.  
@@ -13433,87 +13315,16 @@ niveau 7 - invocation
 Ce sort vous transporte instantanément vous et jusqu'à huit créatures consentantes de votre choix, ou un seul objet, à condition dans les deux cas que vous puissiez les voir dans la limite de la portée du sort, vers une destination que vous déterminez. Si vous ciblez un objet, il doit être possible de l'insérer entièrement à l'intérieur d'un cube de 3 mètres d'arête et il ne peut être tenu ou porté par une créature non consentante.  
 La destination que vous choisissez doit vous être connue et doit être sur le même plan d'existence que vous. Votre connaissance de la destination détermine si vous y arrivez avec succès. Le MD lance un d100 et consulte la table.  
 
-Familiarité
+| Familiarité | Incident | Zone similaire | Hors cible | Sur la cible |
+| --- | --- | --- | --- | --- |
+| Cercle permanent | — | — | — | 01-100 |
+| Objet associé | — | — | — | 01-100 |
+| Très familier | 01-05 | 06-13 | 14-24 | 25-100 |
+| Vu par hasard | 01-33 | 34-43 | 44-53 | 54-100 |
+| Vu une seule fois | 01-43 | 44-53 | 54-73 | 74-100 |
+| Description | 01-43 | 44-53 | 54-73 | 74-100 |
+| Fausse destination | 01-50 | 51-100 | — | — |
 
-Incident
-
-Zone similaire
-
-Hors cible
-
-Sur la cible
-
-Cercle permanent
-
-—
-
-—
-
-—
-
-01-100
-
-Objet associé
-
-—
-
-—
-
-—
-
-01-100
-
-Très familier
-
-01-05
-
-06-13
-
-14-24
-
-25-100
-
-Vu par hasard
-
-01-33
-
-34-43
-
-44-53
-
-54-100
-
-Vu une seule fois
-
-01-43
-
-44-53
-
-54-73
-
-74-100
-
-Description
-
-01-43
-
-44-53
-
-54-73
-
-74-100
-
-Fausse destination
-
-01-50
-
-51-100
-
-—
-
-—
-
-  
 **_Familiarité_**. « Cercle permanent » désigne un cercle permanent de téléportation dont vous connaissez la séquence des symboles.  
 « Objet associé » signifie que vous possédez un objet pris de la destination souhaitée et cela à l'intérieur d'une période correspondant aux six derniers mois, comme un livre de la bibliothèque d'un magicien, le drap d'un lit d'une suite royale ou un morceau de marbre du tombeau secret d'une liche.  
 « Très familier » est un endroit où vous avez été très souvent, que vous avez déjà soigneusement étudié ou un endroit que vous pouvez voir lorsque vous lancez le sort.  
