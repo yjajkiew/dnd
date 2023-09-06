@@ -12544,7 +12544,7 @@ _Élémentaire de taille M, typiquement neutre_
 **Langues** aérien, une langue au choix de son créateur  
 **Puissance** 7 (2900 PX) **Bonus de maîtrise** +3_
 
-_Attaques multiples.  
+Attaques multiples.  
 Fléau d'armes.  
 Frappe foudroyante (Recharge 6).  
 
@@ -12663,7 +12663,7 @@ _Élémentaire de taille M, typiquement neutre_
 **Langues** aquatique, une langue au choix de son créateur  
 **Puissance** 7 (2900 PX) **Bonus de maîtrise** +3_
 
-_Attaques multiples.  
+Attaques multiples.  
 Trident.  
 Frappes glaciales (Recharge 6).  
 
@@ -12784,7 +12784,7 @@ _Élémentaire de taille M, typiquement neutre_
 **Langues** terreux, une langue au choix de son créateur  
 **Puissance** 7 (2900 PX) **Bonus de maîtrise** +3_
 
-_Attaques multiples.  
+Attaques multiples.  
 Maillet.  
 Frappe tonitruante (Recharge 6).  
 
@@ -13363,7 +13363,7 @@ _Artificiel de taille M, -_
 **Langues** comprend les langues que vous parlez  
 **Puissance** - **Bonus de maîtrise** égal à votre bonus_
 
-_Corps brûlant (métal uniquement).  
+Corps brûlant (métal uniquement).  
 Léthargie de pierre (pierre uniquement).  
 Attaques multiples.  
 Coup.  
@@ -13394,7 +13394,7 @@ _Élémentaire de taille M, -_
 **Langues** primordial, comprend les langues que vous parlez  
 **Puissance** - **Bonus de maîtrise** égal à votre bonus_
 
-_Aspect informe (Air, Feu et Eau uniquement).  
+Aspect informe (Air, Feu et Eau uniquement).  
 Attaques multiples.  
 Coup.  
 
@@ -13422,7 +13422,7 @@ _Monstruosité de taille M, -_
 **Langues** comprend les langues que vous parlez  
 **Puissance** - **Bonus de maîtrise** égal à votre bonus_
 
-_Frénésie de la terreur (Fureur uniquement).  
+Frénésie de la terreur (Fureur uniquement).  
 Poids du chagrin (Désespoir uniquement).  
 Attaques multiples.  
 Cri épouvantable (1/jour).  
@@ -13448,9 +13448,9 @@ _Bête de taille P, -_
 
 **Sens** vision dans le noir 18 m, Perception passive 12  
 **Langues** comprend les langues que vous parlez  
-**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+**Puissance** - **Bonus de maîtrise** égal à votre bonus
 
-_Repli aérien (Air uniquement).  
+Repli aérien (Air uniquement).  
 Tactique de groupe (Terre et Eau uniquement).  
 Respiration aquatique (Eau uniquement).  
 Attaques multiples.  
@@ -13480,7 +13480,7 @@ _Céleste de taille G, -_
 **Langues** céleste, comprend les langues que vous parlez  
 **Puissance** - **Bonus de maîtrise** égal à votre bonus_
 
-_Attaques multiples.  
+Attaques multiples.  
 Arc radiant (Vengeur uniquement).  
 Masse radiante (Protecteur uniquement).  
 Contact guérisseur (1/jour).  
@@ -13508,7 +13508,7 @@ _Fée de taille P, -_
 **Langues** sylvestre, comprend les langues que vous parlez  
 **Puissance** - **Bonus de maîtrise** égal à votre bonus_
 
-_Attaques multiples.  
+Attaques multiples.  
 Épée courte.  
 Foulée féerique.  
 Fumeux.  
