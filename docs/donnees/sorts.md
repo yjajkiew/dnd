@@ -658,7 +658,7 @@ Rôdeur \[TCoE\]
 {: .label .label-purple }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Arme magique
 ============
@@ -1050,7 +1050,7 @@ Clerc \[TCoE\]
 {: .label .label-purple }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Aura de vie
 ===========
@@ -1076,7 +1076,7 @@ Clerc \[TCoE\]
 {: .label .label-purple }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Aura de vitalité
 ================
@@ -1105,7 +1105,7 @@ Druide \[TCoE\]
 {: .label .label-purple }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Aura du croisé
 ==============
@@ -1128,7 +1128,7 @@ Paladin
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Aura magique de Nystul
 ======================
@@ -1785,7 +1785,7 @@ Rôdeur
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Catapulte
 =========
@@ -1898,7 +1898,7 @@ Paladin
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Cercle de téléportation
 =======================
@@ -2229,7 +2229,7 @@ Paladin
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Châtiment calcinant
 ===================
@@ -2256,7 +2256,7 @@ Rôdeur \[TCoE\]
 {: .label .label-purple }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Châtiment courroucé
 ===================
@@ -2279,7 +2279,7 @@ Paladin
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Châtiment débilitant
 ====================
@@ -2302,7 +2302,7 @@ Paladin
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Châtiment du ban
 ================
@@ -2325,7 +2325,7 @@ Paladin
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Châtiment révélateur
 ====================
@@ -2372,7 +2372,7 @@ Paladin
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Chien de garde de Mordenkainen
 ==============================
@@ -3743,7 +3743,7 @@ Rôdeur
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Costume d'Outremonde de Tasha
 =============================
@@ -3938,7 +3938,7 @@ Occultiste
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Couteau de glace
 ================
@@ -5094,7 +5094,7 @@ Paladin
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Éclair
 ======
@@ -6228,7 +6228,7 @@ Rôdeur
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Flèches enflammées
 ==================
@@ -6842,7 +6842,7 @@ Rôdeur
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Frayeur
 =======
@@ -7222,7 +7222,7 @@ Rôdeur
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Guérison
 ========
@@ -8069,7 +8069,7 @@ Rôdeur
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Invocation de volée
 ===================
@@ -8092,7 +8092,7 @@ Rôdeur
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Invulnérabilité
 ===============
@@ -8384,7 +8384,7 @@ Rôdeur
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Libellé aérien
 ==============
@@ -9524,7 +9524,7 @@ Magicien
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Mot de guérison
 ===============
@@ -9671,7 +9671,7 @@ Clerc \[TCoE\]
 {: .label .label-purple }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Mot de pouvoir mortel
 =====================
@@ -10908,7 +10908,7 @@ Occultiste
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Porte dimensionnelle
 ====================
@@ -11743,7 +11743,7 @@ Magicien
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Rayonnement écoeurant
 =====================
@@ -13536,7 +13536,7 @@ Magicien
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Téléportation
 =============
@@ -13888,7 +13888,7 @@ Occultiste
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Tentacules noirs d'Evard
 ========================
@@ -14395,7 +14395,7 @@ Druide
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Urne magique
 ============
@@ -14447,7 +14447,7 @@ Paladin
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Vague tonnante
 ==============
@@ -14749,7 +14749,7 @@ Occultiste
 {: .label .label-green }
 
 Player´s Handbook
-{: .label .label-purple }
+{: .label .label-red }
 
 Zone de vérité
 ==============
@@ -14779,4 +14779,4 @@ Paladin
 {: .label .label-green }
 
 Player´s Handbook (SRD)
-{: .label .label-purple }
+{: .label .label-red }
