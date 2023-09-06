@@ -14692,9 +14692,9 @@ _Monsters of the Multiverse_
 Fraz-Urb'luu legacy
 =======================
 
-__\[ Fraz-Urb'luu \]
+_\[ Fraz-Urb'luu \]_
 
-Fiélon (démon) de taille G, chaotique mauvais__
+_Fiélon (démon) de taille G, chaotique mauvais_
 
 **Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 337 (27d10 + 189)  
@@ -14730,9 +14730,9 @@ _Mordenkainen´s Tome of Foes_
 Froghémoth
 ==============
 
-__\[ Froghemoth \] \[ Crapaudonte \]
+_\[ Froghemoth \] \[ Crapaudonte \]_
 
-Monstruosité de taille TG, sans alignement__
+_Monstruosité de taille TG, sans alignement_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 161 (14d12 + 70)  
@@ -14762,9 +14762,9 @@ _Monsters of the Multiverse_
 Froghémoth legacy
 =====================
 
-__\[ Froghemoth \] \[ Crapaudonte \]
+_\[ Froghemoth \] \[ Crapaudonte \]_
 
-Monstruosité de taille TG, sans alignement__
+_Monstruosité de taille TG, sans alignement_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 184 (16d12 + 80)  
@@ -14887,9 +14887,9 @@ _Monster Manual (SRD)_
 Gardien animé
 =================
 
-__\[ Shield Guardian \] \[ Garde animé \]
+_\[ Shield Guardian \] \[ Garde animé \]_
 
-Artificiel de taille G, sans alignement__
+_Artificiel de taille G, sans alignement_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 142 (15d10 + 60)  
@@ -14947,7 +14947,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Garou-chacal
+Garou-chacal
 ================
 
 _\[ Jackalwere \]_
@@ -15168,7 +15168,7 @@ Géant des nuages
 
 _\[ Cloud Giant \]_
 
-__Géant de taille TG, neutre bon (50 %) ou neutre mauvais (50 %)__
+_Géant de taille TG, neutre bon (50 %) ou neutre mauvais (50 %)_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 200 (16d12 + 96)  
@@ -15361,7 +15361,7 @@ A|**Rocher**. +10, 18/72 m, 4d10+6 contondants
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Géant des tempêtes
+Géant des tempêtes
 ======================
 
 _\[ Storm Giant \]_
@@ -15397,7 +15397,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Géant des tempêtes, quintessent
+Géant des tempêtes, quintessent
 ===================================
 
 _\[ Storm Giant Quintessent \]_
@@ -15432,7 +15432,7 @@ Maître des tempêtes (3 actions).
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Géant des tempêtes, quintessent legacy
+Géant des tempêtes, quintessent legacy
 ==========================================
 
 _\[ Storm Giant Quintessent \]_
@@ -15909,7 +15909,7 @@ A|**Épée à deux mains en argent**. +9, 1,50 m, 2d6+6 tranchants
 _Monster Manual_
 {: .label .label-red }
 
-__Githyanki, commandant suprême
+Githyanki, commandant suprême
 =================================
 
 _\[ Githyanki Supreme Commander \]_
@@ -15942,7 +15942,7 @@ Attaque (2 actions).
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Githyanki, commandant suprême legacy
+Githyanki, commandant suprême legacy
 ========================================
 
 _\[ Githyanki Supreme Commander \]_
@@ -16063,12 +16063,12 @@ A|**Épée à deux mains**. +4, 1,50 m, 2d6+2 tranchants
 _Monster Manual_
 {: .label .label-red }
 
-__Githyanki, kith'rak
+Githyanki, kith'rak
 =======================
 
-__\[ Githyanki Kith'rak \]
+_\[ Githyanki Kith'rak \]_
 
-Humanoïde (gith) de taille M, tout alignement__
+_Humanoïde (gith) de taille M, tout alignement_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 180 (24d8 + 72)  
@@ -16094,12 +16094,12 @@ Parade.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Githyanki, kith'rak legacy
+Githyanki, kith'rak legacy
 ==============================
 
-__\[ Githyanki Kith'rak \]
+_\[ Githyanki Kith'rak \]_
 
-Humanoïde (gith) de taille M, loyal mauvais__
+_Humanoïde (gith) de taille M, loyal mauvais_
 
 **Classe d'armure** 18 (harnois)  
 **Points de vie** 180 (24d8 + 72)  
@@ -16616,9 +16616,9 @@ _Volo´s Guide to Monsters_
 Gnoll, seigneur de meute
 ============================
 
-__\[ Gnoll Pack Lord \] \[ Gnoll, chef de meute \]
+_\[ Gnoll Pack Lord \] \[ Gnoll, chef de meute \]_
 
-Humanoïde (gnoll) de taille M, chaotique mauvais__
+_Humanoïde (gnoll) de taille M, chaotique mauvais_
 
 **Classe d'armure** 15 (chemise de mailles)  
 **Points de vie** 49 (9d8 + 9)  
@@ -16645,9 +16645,9 @@ _Monster Manual (BR+)_
 Gnome des profondeurs (svirfnebelin)
 ========================================
 
-__\[ Deep Gnome (Svirfneblin) \]
+_\[ Deep Gnome (Svirfneblin) \]_
 
-Humanoïde (gnome) de taille P, neutre bon__
+_Humanoïde (gnome) de taille P, neutre bon_
 
 **Classe d'armure** 15 (chemise de mailles)  
 **Points de vie** 16 (3d6 + 6)  
@@ -16790,7 +16790,7 @@ A|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants
 _Monster Manual_
 {: .label .label-red }
 
-__Golem d'argile
+Golem d'argile
 ==================
 
 _\[ Clay Golem \]_
@@ -17303,12 +17303,12 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Graz'zt
+Graz'zt
 ===========
 
-__\[ Graz'zt \]
+_\[ Graz'zt \]_
 
-Fiélon (démon) de taille G, chaotique mauvais__
+_Fiélon (démon) de taille G, chaotique mauvais_
 
 **Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 346 (33d10 + 165)  
@@ -17342,12 +17342,12 @@ Danse, ma marionnette.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Graz'zt legacy
+Graz'zt legacy
 ==================
 
-__\[ Graz'zt \]
+_\[ Graz'zt \]_
 
-Fiélon (démon, métamorphe) de taille G, chaotique mauvais__
+_Fiélon (démon, métamorphe) de taille G, chaotique mauvais_
 
 **Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 346 (33d10 + 165)  
@@ -17553,9 +17553,9 @@ _Monster Manual_
 Griffe rampante
 ===================
 
-__\[ Crawling Claw \] \[ Main rampante \]
+_\[ Crawling Claw \] \[ Main rampante \]_
 
-Mort-vivant de taille TP, neutre mauvais__
+_Mort-vivant de taille TP, neutre mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 2 (1d4)  
@@ -17580,9 +17580,9 @@ _Monster Manual (BR+)_
 Griffecendre
 ================
 
-__\[ Boneclaw \] \[ Esquilleux \]
+_\[ Boneclaw \] \[ Esquilleux \]_
 
-Mort-vivant de taille G, typiquement chaotique mauvais__
+_Mort-vivant de taille G, typiquement chaotique mauvais_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 150 (20d10 + 40)  
@@ -17705,7 +17705,7 @@ Dague.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Grung, guerrier d'élite
+Grung, guerrier d'élite
 ===========================
 
 _\[ Grung Elite Warrior \]_
@@ -17739,7 +17739,7 @@ Gazouilli envoûtant (Recharge 6).
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Grung, guerrier d'élite legacy
+Grung, guerrier d'élite legacy
 ==================================
 
 _\[ Grung Elite Warrior \]_
@@ -18100,7 +18100,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Guêpe des enfers
+Guêpe des enfers
 ====================
 
 _\[ Hellwasp \]_
@@ -18819,12 +18819,12 @@ R|**Parade**.
 _Monster Manual_
 {: .label .label-red }
 
-__Homme-lézard
+Homme-lézard
 ================
 
-__\[ Lizardfolk \] \[ Saurial \]
+_\[ Lizardfolk \] \[ Saurial \]_
 
-Humanoïde (homme-lézard) de taille M, neutre__
+_Humanoïde (homme-lézard) de taille M, neutre_
 
 **Classe d'armure** 15 (armure naturelle, bouclier)  
 **Points de vie** 22 (4d8 + 4)  
@@ -18850,7 +18850,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Homme-lézard, chaman
+Homme-lézard, chaman
 ========================
 
 _\[ Lizardfolk Shaman \]_
@@ -18884,12 +18884,12 @@ A|**Changement de forme (Recharge après un repos court ou long)**.
 _Monster Manual (BR+)_
 {: .label .label-red }
 
-__Homme-poisson
+Homme-poisson
 =================
 
-__\[ Merfolk \] \[ Thalasséen \]
+_\[ Merfolk \] \[ Thalasséen \]_
 
-Humanoïde (homme-poisson) de taille M, neutre__
+_Humanoïde (homme-poisson) de taille M, neutre_
 
 **Classe d'armure** 11  
 **Points de vie** 11 (2d8 + 2)  
@@ -19403,7 +19403,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Iggwilv, la Reine-Sorcière
+Iggwilv, la Reine-Sorcière
 ==============================
 
 _\[ Iggwilv the Witch Queen \]_
@@ -19490,9 +19490,9 @@ _Adventures (Princes of the Apocalypse)_
 Incantateur (niv 1)
 =======================
 
-__\[ Spellcaster (lvl 1) \]
+_\[ Spellcaster (lvl 1) \]_
 
-Humanoïde (toute race) de taille M, -__
+_Humanoïde (toute race) de taille M, -_
 
 **Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 9 (2d8)  
@@ -19506,7 +19506,7 @@ Humanoïde (toute race) de taille M, -__
 **Compétences** Arcanes +4, Investigation +4, Religion +4  
 **Sens** Perception passive 12  
 **Langues** commun, plus une de votre choix  
-**Puissance** -__
+**Puissance** -
 
 **Rôle magique**.  
 **Incantation (guérisseur)**.  
@@ -19520,12 +19520,12 @@ A|**Bâton**. +2, 1,50 m, 1d6 contondants
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-__Incantateur (niv 2)
+Incantateur (niv 2)
 =======================
 
-__\[ Spellcaster (lvl 2) \]
+_\[ Spellcaster (lvl 2) \]_
 
-Humanoïde (toute race) de taille M, -__
+_Humanoïde (toute race) de taille M, -_
 
 **Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 13 (3d8)  
@@ -19539,7 +19539,7 @@ Humanoïde (toute race) de taille M, -__
 **Compétences** Arcanes +4, Investigation +4, Religion +4  
 **Sens** Perception passive 12  
 **Langues** commun, plus une de votre choix  
-**Puissance** -__
+**Puissance** -
 
 **Rôle magique**.  
 **Incantation (guérisseur)**.  
@@ -19553,12 +19553,12 @@ A|**Bâton**. +2, 1,50 m, 1d6 contondants
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-__Incantateur (niv 3)
+Incantateur (niv 3)
 =======================
 
-__\[ Spellcaster (lvl 3) \]
+_\[ Spellcaster (lvl 3) \]_
 
-Humanoïde (toute race) de taille M, -__
+_Humanoïde (toute race) de taille M, -_
 
 **Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 18 (4d8)  
@@ -19572,7 +19572,7 @@ Humanoïde (toute race) de taille M, -__
 **Compétences** Arcanes +4, Investigation +4, Religion +4  
 **Sens** Perception passive 12  
 **Langues** commun, plus une de votre choix  
-**Puissance** -__
+**Puissance** -
 
 **Rôle magique**.  
 **Incantation (guérisseur)**.  
@@ -19586,12 +19586,12 @@ A|**Bâton**. +2, 1,50 m, 1d6 contondants
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-__Incantateur (niv 4)
+Incantateur (niv 4)
 =======================
 
-__\[ Spellcaster (lvl 4) \]
+_\[ Spellcaster (lvl 4) \]_
 
-Humanoïde (toute race) de taille M, -__
+_Humanoïde (toute race) de taille M, -_
 
 **Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 22 (5d8)  
@@ -19605,7 +19605,7 @@ Humanoïde (toute race) de taille M, -__
 **Compétences** Arcanes +4, Investigation +4, Religion +4  
 **Sens** Perception passive 13  
 **Langues** commun, plus une de votre choix  
-**Puissance** -__
+**Puissance** -
 
 **Rôle magique**.  
 **Incantation (guérisseur)**.  
@@ -19619,12 +19619,12 @@ A|**Bâton**. +2, 1,50 m, 1d6 contondants
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-__Incantateur (niv 5)
+Incantateur (niv 5)
 =======================
 
-__\[ Spellcaster (lvl 5) \]
+_\[ Spellcaster (lvl 5) \]_
 
-Humanoïde (toute race) de taille M, -__
+_Humanoïde (toute race) de taille M, -_
 
 **Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 27 (6d8)  
@@ -19638,7 +19638,7 @@ Humanoïde (toute race) de taille M, -__
 **Compétences** Arcanes +5, Investigation +5, Religion +5  
 **Sens** Perception passive 13  
 **Langues** commun, plus une de votre choix  
-**Puissance** -__
+**Puissance** -
 
 **Rôle magique**.  
 **Incantation (guérisseur)**.  
@@ -19654,12 +19654,12 @@ A|**Bâton**. +3, 1,50 m, 1d6 contondants
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-__Incantateur (niv 6)
+Incantateur (niv 6)
 =======================
 
-__\[ Spellcaster (lvl 6) \]
+_\[ Spellcaster (lvl 6) \]_
 
-Humanoïde (toute race) de taille M, -__
+_Humanoïde (toute race) de taille M, -_
 
 **Classe d'armure** 12 (armure de cuir)  
 **Points de vie** 31 (7d8)  
@@ -19673,7 +19673,7 @@ Humanoïde (toute race) de taille M, -__
 **Compétences** Arcanes +5, Investigation +5, Religion +5  
 **Sens** Perception passive 13  
 **Langues** commun, plus une de votre choix  
-**Puissance** -__
+**Puissance** -
 
 **Rôle magique**.  
 **Incantation (guérisseur)**.  
@@ -19905,12 +19905,12 @@ A|**Arc court**. +5, 24/96 m, 1d6+3 perforants
 _Monster Manual (BR+)_
 {: .label .label-red }
 
-__Ki-rin
+Ki-rin
 ==========
 
-__\[ Ki-rin \]
+_\[ Ki-rin \]_
 
-Céleste de taille TG, typiquement loyal bon__
+_Céleste de taille TG, typiquement loyal bon_
 
 **Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 153 (18d10 + 54)  
@@ -19940,12 +19940,12 @@ Châtiment.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Ki-rin legacy
+Ki-rin legacy
 =================
 
-__\[ Ki-rin \]
+_\[ Ki-rin \]_
 
-Céleste de taille TG, loyal bon__
+_Céleste de taille TG, loyal bon_
 
 **Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 152 (16d12 + 48)  
@@ -20044,7 +20044,7 @@ A|**Chute de pierre**. +5, , 1d6+3 contondants
 _Monster Manual (BR+)_
 {: .label .label-red }
 
-__Kobold, écu-dragon
+Kobold, écu-dragon
 ======================
 
 _\[ Kobold Dragonshield \]_
@@ -20075,7 +20075,7 @@ Lance.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Kobold, écu-dragon legacy
+Kobold, écu-dragon legacy
 =============================
 
 _\[ Kobold Dragonshield \]_
@@ -20397,9 +20397,9 @@ _Mordenkainen´s Tome of Foes_
 Kruthik, jeune
 ==================
 
-__\[ Young Kruthik \] \[ Kruthik, immature \]
+_\[ Young Kruthik \] \[ Kruthik, immature \]_
 
-Monstruosité de taille P, sans alignement__
+_Monstruosité de taille P, sans alignement_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 9 (2d6 + 2)  
@@ -20506,12 +20506,12 @@ Vaporisation d'acide (Recharge 5–6).
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-__Kuo-toa
+Kuo-toa
 ===========
 
-__\[ Kuo-toa \]
+_\[ Kuo-toa \]_
 
-Humanoïde (kuo-toa) de taille M, neutre mauvais__
+_Humanoïde (kuo-toa) de taille M, neutre mauvais_
 
 **Classe d'armure** 13 (armure naturelle, bouclier)  
 **Points de vie** 18 (4d8)  
@@ -20538,12 +20538,12 @@ R|**Bouclier collant**.
 _Monster Manual (BR+)_
 {: .label .label-red }
 
-__Kuo-toa, archiprêtre
+Kuo-toa, archiprêtre
 ========================
 
-__\[ Kuo-toa Archpriest \]
+_\[ Kuo-toa Archpriest \]_
 
-Humanoïde (kuo-toa) de taille M, neutre mauvais__
+_Humanoïde (kuo-toa) de taille M, neutre mauvais_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 97 (13d8 + 39)  
@@ -20576,12 +20576,12 @@ A|**Attaque à mains nues**. +6, 1,50 m, 1d4+3 contondants
 _Monster Manual (BR+)_
 {: .label .label-red }
 
-__Kuo-toa, fouet
+Kuo-toa, fouet
 ==================
 
-__\[ Kuo-toa Whip \]
+_\[ Kuo-toa Whip \]_
 
-Humanoïde (kuo-toa) de taille M, neutre mauvais__
+_Humanoïde (kuo-toa) de taille M, neutre mauvais_
 
 **Classe d'armure** 11 (armure naturelle)  
 **Points de vie** 65 (10d8 + 20)  
@@ -20610,7 +20610,7 @@ A|**Bâton à pinces**. +4, 3 m, 1d6+2 perforants
 _Monster Manual (BR+)_
 {: .label .label-red }
 
-__L'abandon legacy
+L'abandon legacy
 ====================
 
 _\[ The Lost \]_
@@ -20831,7 +20831,7 @@ Fureur martiale.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Lame-en-peine, commandant legacy
+Lame-en-peine, commandant legacy
 ====================================
 
 _\[ Sword Wraith Commander \]_
@@ -20864,12 +20864,12 @@ Appel à l'honneur (1/jour).
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-__Lame-en-peine, guerrier
+Lame-en-peine, guerrier
 ===========================
 
-__\[ Sword Wraith Warrior \] \[ Lame-en-peine, soldat \]
+_\[ Sword Wraith Warrior \] \[ Lame-en-peine, soldat \]_
 
-Mort-vivant de taille M, typiquement loyal mauvais__
+_Mort-vivant de taille M, typiquement loyal mauvais_
 
 **Classe d'armure** 16 (chemise de mailles, bouclier)  
 **Points de vie** 45 (6d8 + 18)  
@@ -20894,7 +20894,7 @@ Fureur martiale.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Lame-en-peine, guerrier legacy
+Lame-en-peine, guerrier legacy
 ==================================
 
 _\[ Sword Wraith Warrior \]_
@@ -21519,7 +21519,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Loup-garou
+Loup-garou
 ==============
 
 _\[ Werewolf \]_
@@ -21942,7 +21942,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Maître des âmes
+Maître des âmes
 ===================
 
 _\[ Master of Souls \]_
@@ -21998,7 +21998,7 @@ _Humanoïde de taille M, tout alignement_
 **Compétences** Acrobaties +7, Athlétisme +3, Perception +3, Escamotage +7, Discrétion +7  
 **Sens** Perception passive 13  
 **Langues** une langue au choix (généralement le commun) et le jargon des voleurs  
-**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3__
+**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3
 
 **Évasion**.  
 A|**Attaques multiples**.  
@@ -22010,7 +22010,7 @@ R|**Esquive**.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Maître voleur legacy
+Maître voleur legacy
 ========================
 
 _\[ Master Thief \]_
@@ -22134,7 +22134,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Mâne
+Mâne
 ========
 
 _\[ Manes \]_
@@ -22925,12 +22925,12 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Mez'Arate
+Mez'Arate
 =============
 
-__\[ Mez'Arate \]
+_\[ Mez'Arate \]_
 
-Humanoïde (humain) de taille M, loyal mauvais__
+_Humanoïde (humain) de taille M, loyal mauvais_
 
 **Classe d'armure** 14 (avec _armure de mage_)  
 **Points de vie** 28 (6d8)  
@@ -23303,9 +23303,9 @@ _Monsters of the Multiverse_
 Molosse des ombres dominant
 ===============================
 
-__\[ Shadow Mastiff Alpha \] \[ Molosse des ombres alpha \]
+_\[ Shadow Mastiff Alpha \] \[ Molosse des ombres alpha \]_
 
-Monstruosité de taille M, typiquement neutre mauvais__
+_Monstruosité de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 33 (6d8 + 6)  
@@ -23767,9 +23767,9 @@ _Monster Manual_
 Myconide, pousse
 ====================
 
-__\[ Myconid sprout \] \[ Pousse de myconide \]
+_\[ Myconid sprout \] \[ Pousse de myconide \]_
 
-Plante de taille P, loyal neutre__
+_Plante de taille P, loyal neutre_
 
 **Classe d'armure** 10  
 **Points de vie** 7 (2d6)  
@@ -24377,7 +24377,7 @@ A|**Asservissement (Recharge après un repos court ou long)**.
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Néogi, maître
+Néogi, maître
 =================
 
 _\[ Neogi Master \]_
@@ -24411,7 +24411,7 @@ Asservissement (Recharge après un repos court ou long).
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Néogi, maître legacy
+Néogi, maître legacy
 ========================
 
 _\[ Neogi Master \]_
@@ -24681,7 +24681,7 @@ A|**Intuition mystérieuse**.
 _Monster Manual_
 {: .label .label-red }
 
-__Nuée d'insectes
+Nuée d'insectes
 ===================
 
 _\[ Swarm of Insects \]_
@@ -24709,7 +24709,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Nuée de chauves-souris
+Nuée de chauves-souris
 ==========================
 
 _\[ Swarm of Bats \]_
@@ -24773,7 +24773,7 @@ Nuée de gobelins maudits
 
 _\[ Swarms of Cursed Goblins \]_
 
-__Nuée d'humanoïdes (gobelinoïde) TP de taille M, loyal mauvais__
+_Nuée d'humanoïdes (gobelinoïde) TP de taille M, loyal mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 22 (5d8)  
@@ -24854,7 +24854,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Nuée de rats-crânes
+Nuée de rats-crânes
 =======================
 
 _\[ Swarm of Cranium Rats \]_
@@ -24884,7 +24884,7 @@ Incantation (psioniques).
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Nuée de rats-crânes legacy
+Nuée de rats-crânes legacy
 ==============================
 
 _\[ Swarm of Cranium Rats \]_
@@ -25019,7 +25019,7 @@ _Fiélon (diable) de taille M, typiquement loyal mauvais_
 **Immunités** aveuglé, charmé, effrayé, empoisonné  
 **Sens** vision aveugle 3 m (aveugle au-delà de ce rayon), Perception passive 11  
 **Langues** comprend l'infernal mais ne peut pas parler  
-**Puissance** 1/2 (100 PX) **Bonus de maîtrise** +2__
+**Puissance** 1/2 (100 PX) **Bonus de maîtrise** +2
 
 **Nuage de vermines**.  
 **Traqueur guidé**.  
@@ -25112,7 +25112,7 @@ _Artificiel de taille G ou plus petite, -_
 **Immunités** charmé, épuisement, empoisonné, effrayé  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** comprend les langues que vous parlez  
-**Puissance** - **Bonus de maîtrise** égal à votre bonus__
+**Puissance** - **Bonus de maîtrise** égal à votre bonus
 
 **Forme immuable**.  
 **Danse irrépressible**.  
@@ -25249,9 +25249,9 @@ _Mordenkainen´s Tome of Foes_
 Oblex, vénérable
 ====================
 
-__\[ Elder Oblex \] \[ Oblex, ancien \]
+_\[ Elder Oblex \] \[ Oblex, ancien \]_
 
-Vase de taille TG, typiquement loyal mauvais__
+_Vase de taille TG, typiquement loyal mauvais_
 
 **Classe d'armure** 16  
 **Points de vie** 115 (10d12 + 50)  
@@ -25314,7 +25314,7 @@ Mangeur de souvenirs.
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-__Occultiste de l'Archifée
+Occultiste de l'Archifée
 ============================
 
 _\[ Warlock of the Archfey \]_
@@ -25347,7 +25347,7 @@ R|**Échappatoire brumeuse (Recharge après un repos court ou long)**.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Occultiste de l'Archifée legacy
+Occultiste de l'Archifée legacy
 ===================================
 
 _\[ Warlock of the Archfey \]_
@@ -25401,7 +25401,7 @@ _Humanoïde de taille M, tout alignement_
 **Résistances** feu  
 **Sens** vision dans le noir 18 m, Perception passive 11  
 **Langues** deux langues au choix (généralement abyssal ou infernal)  
-**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3__
+**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3
 
 **Chance du ténébreux (Recharge après un repos court ou long)**.  
 A|**Attaques multiples**.  
@@ -25469,7 +25469,7 @@ _Humanoïde de taille M, tout alignement_
 **Résistances** psychique  
 **Sens** vision dans le noir 18 m, Perception passive 11  
 **Langues** deux langues au choix, télépathie 9 m  
-**Puissance** 6 (2300 PX) **Bonus de maîtrise** +3__
+**Puissance** 6 (2300 PX) **Bonus de maîtrise** +3
 
 **Aura chuchotante**.  
 A|**Attaques multiples**.  
@@ -25592,7 +25592,7 @@ Balistard.
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-__Ogre, brise-portail
+Ogre, brise-portail
 =======================
 
 _\[ Ogre Battering Ram \]_
@@ -25619,7 +25619,7 @@ Barrage.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Ogre, brise-portail legacy
+Ogre, brise-portail legacy
 ==============================
 
 _\[ Ogre Battering Ram \]_
@@ -25645,7 +25645,7 @@ Barrage.
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-__Ogre, brute-à-chaînes
+Ogre, brute-à-chaînes
 =========================
 
 _\[ Ogre Chain Brute \]_
@@ -25671,7 +25671,7 @@ Balayage.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Ogre, brute-à-chaînes legacy
+Ogre, brute-à-chaînes legacy
 ================================
 
 _\[ Ogre Chain Brute \]_
@@ -25750,9 +25750,9 @@ _Mordenkainen´s Tome of Foes_
 Ogrémoch
 ============
 
-__\[ Ogrémoch \]
+_\[ Ogrémoch \]_
 
-Élémentaire de taille Gig, neutre mauvais__
+_Élémentaire de taille Gig, neutre mauvais_
 
 **Classe d'armure** 20 (armure naturelle)  
 **Points de vie** 526 (27d20 + 243)  
@@ -26153,7 +26153,7 @@ A|**Griffes**. +4, 1,50 m, 1d8+2 tranchants
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Orc, lame d'Ilneval
+Orc, lame d'Ilneval
 =======================
 
 _\[ Orc Blade of Ilneval \]_
@@ -26479,7 +26479,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Ours-garou
+Ours-garou
 ==============
 
 _\[ Werebear \]_
@@ -26511,12 +26511,12 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Ours-hibou
+Ours-hibou
 ==============
 
-__\[ Owlbear \] \[ Hibours \]
+_\[ Owlbear \] \[ Hibours \]_
 
-Monstruosité de taille G, sans alignement__
+_Monstruosité de taille G, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 59 (7d10 + 21)  
@@ -26655,7 +26655,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Particules d'avarice
+Particules d'avarice
 ========================
 
 _\[ Greed Mote \]_
@@ -26738,9 +26738,9 @@ _Monster Manual_
 Perceur
 ===========
 
-__\[ Piercer \] \[ Perforateur \]
+_\[ Piercer \] \[ Perforateur \]_
 
-Monstruosité de taille M, sans alignement__
+_Monstruosité de taille M, sans alignement_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 22 (3d8 + 9)  
@@ -27275,7 +27275,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Prédateur d'acier
+Prédateur d'acier
 =====================
 
 _\[ Steel Predator \]_
@@ -27309,7 +27309,7 @@ Rugissement étourdissant (Recharge 5–6).
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Prédateur d'acier legacy
+Prédateur d'acier legacy
 ============================
 
 _\[ Steel Predator \]_
@@ -27399,12 +27399,12 @@ A|**Dague**. +8, 1,50 m ou 6/18 m, 1d4+6 perforants
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Prêtre
+Prêtre
 ==========
 
-__\[ Priest \] \[ Ecclésiastique \]
+_\[ Priest \] \[ Ecclésiastique \]_
 
-Humanoïde (toute race) de taille M, tout alignement__
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 13 (chemise de mailles)  
 **Points de vie** 27 (5d8 + 5)  
@@ -27431,7 +27431,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Prêtre de guerre
+Prêtre de guerre
 ====================
 
 _\[ War priest \]_
@@ -27463,7 +27463,7 @@ B|**Lumière de guérison (Recharge 4-6)**.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Prêtre de guerre legacy
+Prêtre de guerre legacy
 ===========================
 
 _\[ War priest \]_
@@ -27498,7 +27498,7 @@ R|**Frappe guidée (Recharge après un repos court ou long)**.
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Prêtre du kraken
+Prêtre du kraken
 ====================
 
 _\[ Kraken Priest \]_
@@ -27516,7 +27516,7 @@ _Monstruosité de taille M, typiquement chaotique mauvais_
 **Compétences** Perception +5  
 **Sens** Perception passive 15  
 **Langues** deux langues au choix  
-**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3__
+**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3
 
 **Amphibien**.  
 A|**Attaques multiples**.  
@@ -27531,7 +27531,7 @@ A|**Voix du kraken (Recharge après un repos court ou long)**.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Prêtre du kraken legacy
+Prêtre du kraken legacy
 ===========================
 
 _\[ Kraken Priest \]_
@@ -27935,7 +27935,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Rat-crâne
+Rat-crâne
 =============
 
 _\[ Cranium Rat \]_
@@ -27961,7 +27961,7 @@ Morsure.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Rat-crâne legacy
+Rat-crâne legacy
 ====================
 
 _\[ Cranium Rat \]_
@@ -27987,7 +27987,7 @@ A|**Morsure**.
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Rat-garou
+Rat-garou
 =============
 
 _\[ Wererat \]_
@@ -28169,9 +28169,9 @@ _Volo´s Guide to Monsters_
 Rejeton stellaire, colosse
 ==============================
 
-__\[ Star Spawn Hulk \] \[ Fléau stellaire, colosse \]
+_\[ Star Spawn Hulk \] \[ Fléau stellaire, colosse \]_
 
-Aberration de taille G, typiquement chaotique mauvais__
+_Aberration de taille G, typiquement chaotique mauvais_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 136 (13d10 + 65)  
@@ -28231,9 +28231,9 @@ _Mordenkainen´s Tome of Foes_
 Rejeton stellaire, frémisseur
 =================================
 
-__\[ Star Spawn Grue \] \[ Fléau stellaire, frémisseur \]
+_\[ Star Spawn Grue \] \[ Fléau stellaire, frémisseur \]_
 
-Aberration de taille P, typiquement neutre mauvais__
+_Aberration de taille P, typiquement neutre mauvais_
 
 **Classe d'armure** 11  
 **Points de vie** 17 (5d6)  
@@ -28283,9 +28283,9 @@ _Mordenkainen´s Tome of Foes_
 Rejeton stellaire, magever
 ==============================
 
-__\[ Star Spawn Larva Mage \] \[ Fléau stellaire, magever \]
+_\[ Star Spawn Larva Mage \] \[ Fléau stellaire, magever \]_
 
-Aberration de taille M, typiquement chaotique mauvais__
+_Aberration de taille M, typiquement chaotique mauvais_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 168 (16d8 + 96)  
@@ -28357,9 +28357,9 @@ _Mordenkainen´s Tome of Foes_
 Rejeton stellaire, massacreur
 =================================
 
-__\[ Star Spawn Mangler \] \[ Fléau stellaire, massacreur \]
+_\[ Star Spawn Mangler \] \[ Fléau stellaire, massacreur \]_
 
-Aberration de taille M, typiquement chaotique mauvais__
+_Aberration de taille M, typiquement chaotique mauvais_
 
 **Classe d'armure** 14  
 **Points de vie** 71 (13d8 + 13)  
@@ -28423,9 +28423,9 @@ _Mordenkainen´s Tome of Foes_
 Rejeton stellaire, voyant
 =============================
 
-__\[ Star Spawn Seer \] \[ Fléau stellaire, voyant \]
+_\[ Star Spawn Seer \] \[ Fléau stellaire, voyant \]_
 
-Aberration de taille M, typiquement neutre mauvais__
+_Aberration de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 153 (18d8 + 72)  
@@ -28741,9 +28741,9 @@ _Monster Manual (SRD)_
 _Roc_
 =======
 
-__\[ Roc \] \[ Ruhk \]
+_\[ Roc \] \[ Ruhk \]_
 
-Monstruosité de taille Gig, sans alignement__
+_Monstruosité de taille Gig, sans alignement_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 248 (16d20 + 80)  
@@ -28768,12 +28768,12 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Roi/reine lézard
+Roi/reine lézard
 ====================
 
-__\[ Lizard King/Queen \]
+_\[ Lizard King/Queen \]_
 
-Humanoïde (homme-lézard) de taille M, chaotique mauvais__
+_Humanoïde (homme-lézard) de taille M, chaotique mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 78 (12d8 + 24)  
@@ -28803,9 +28803,9 @@ _Monster Manual (BR+)_
 Rothé
 =========
 
-__\[ Rothé \]
+_\[ Rothé \]_
 
-Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 15 (2d10 + 4)  
@@ -28828,9 +28828,9 @@ _Volo´s Guide to Monsters_
 Rothé des profondeurs
 =========================
 
-__\[ Deep Rothé \]
+_\[ Deep Rothé \]_
 
-Bête (bétail) de taille M, sans alignement__
+_Bête (bétail) de taille M, sans alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 13 (2d8 + 4)  
@@ -28854,9 +28854,9 @@ _Monsters of the Multiverse_
 Rothé des profondeurs legacy
 ================================
 
-__\[ Deep Rothé \]
+_\[ Deep Rothé \]_
 
-Bête de taille M, sans alignement__
+_Bête de taille M, sans alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 13 (2d8 + 4)  
@@ -29115,7 +29115,7 @@ A|**Trident**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants
 _Monster Manual_
 {: .label .label-red }
 
-__Sahuagin, prêtresse
+Sahuagin, prêtresse
 =======================
 
 _\[ Sahuagin Priestess \]_
@@ -29273,7 +29273,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Sanglier-garou
+Sanglier-garou
 ==================
 
 _\[ Wereboar \]_
@@ -29420,9 +29420,9 @@ _Monster Manual (SRD)_
 Scarabée de magot
 =====================
 
-__\[ Hoard Scarab \] \[ Scarabée de butin \]
+_\[ Hoard Scarab \] \[ Scarabée de butin \]_
 
-Monstruosité de taille TP, sans alignement__
+_Monstruosité de taille TP, sans alignement_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 7 (3d4)  
@@ -29509,7 +29509,7 @@ _Humanoïde de taille M, tout alignement_
 **Compétences** Athlétisme +9, Intimidation +8, Perception +5, Persuasion +8  
 **Sens** Perception passive 15  
 **Langues** deux langues au choix  
-**Puissance** 12 (8400 PX) **Bonus de maîtrise** +4__
+**Puissance** 12 (8400 PX) **Bonus de maîtrise** +4
 
 **Inflexible (3/jour)**.  
 **Survivant**.  
@@ -29556,7 +29556,7 @@ L|**Ennemi apeuré (coûte 2 actions)**.
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Seigneur des crânes
+Seigneur des crânes
 =======================
 
 _\[ Skull Lord \]_
@@ -29594,7 +29594,7 @@ Convocation de mort-vivant (coûte 2 actions).
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Seigneur des crânes legacy
+Seigneur des crânes legacy
 ==============================
 
 _\[ Skull Lord \]_
@@ -29634,9 +29634,9 @@ _Mordenkainen´s Tome of Foes_
 Seigneur momie
 ==================
 
-__\[ Mummy Lord \] \[ Momie auguste \]
+_\[ Mummy Lord \] \[ Momie auguste \]_
 
-Mort-vivant de taille M, loyal mauvais__
+_Mort-vivant de taille M, loyal mauvais_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 97 (13d8 + 39)  
@@ -29748,12 +29748,12 @@ A|**Arbalète de poing (forme humanoïde ou hybride uniquement)**. +4, 9/36 m, 1
 _Extra (AideDD)_
 {: .label .label-red }
 
-__Sentinelle d'eau
+Sentinelle d'eau
 ====================
 
-__\[ Water Weird \] \[ Sibylle de l'eau \]
+_\[ Water Weird \] \[ Sibylle de l'eau \]_
 
-Élémentaire de taille G, neutre__
+_Élémentaire de taille G, neutre_
 
 **Classe d'armure** 13  
 **Points de vie** 58 (9d10 + 9)  
@@ -29863,9 +29863,9 @@ _Monster Manual (BR+)_
 Serpent de mer, ancien
 ==========================
 
-__\[ Ancient Sea Serpent \] \[ Serpent de mer, vénérable \]
+_\[ Ancient Sea Serpent \] \[ Serpent de mer, vénérable \]_
 
-Dragon de taille Gig, typiquement neutre__
+_Dragon de taille Gig, typiquement neutre_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 170 (11d20 + 55)  
@@ -29985,12 +29985,12 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Servant imposant de Leuk-O
+Servant imposant de Leuk-O
 ==============================
 
-__\[ Mighty Servant of Leuk-O \]
+_\[ Mighty Servant of Leuk-O \]_
 
-Artificiel de taille TG, -__
+_Artificiel de taille TG, -_
 
 **Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 310 (27d12 + 135)  
@@ -30041,7 +30041,7 @@ _Artificiel de taille TP, -_
 **Immunités** empoisonné, épuisement  
 **Sens** vision dans le noir 18 m, Perception passive 10 + (BM x 2)  
 **Langues** comprend les langues que vous parlez  
-**Puissance** - **Bonus de maîtrise** égal à votre bonus__
+**Puissance** - **Bonus de maîtrise** égal à votre bonus
 
 **Évasion**.  
 A|**Frappe de force**.  
@@ -30079,9 +30079,9 @@ Rules (Xanathar´s Guide to Everything)
 Shadar-kai, colporte-âmes
 =============================
 
-__\[ Shadar-kai Soul Monger \]
+_\[ Shadar-kai Soul Monger \]_
 
-Humanoïde (elfe) de taille M, typiquement neutre mauvais__
+_Humanoïde (elfe) de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 136 (21d8 + 42)  
@@ -30151,7 +30151,7 @@ _Shadar-kai, danseur des ombres
 
 _\[ Shadar-kai Shadow Dancer \]_
 
-Humanoïde (elfe) de taille M, tout alignement__
+_Humanoïde (elfe) de taille M, tout alignement_
 
 **Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 71 (13d8 + 13)  
@@ -30578,7 +30578,7 @@ A|**Morsure**. +6, 1,50 m, 2d4+3 perforants
 _Monster Manual_
 {: .label .label-red }
 
-__Slaad, têtard
+Slaad, têtard
 =================
 
 _\[ Slaad Tadpole \]_
@@ -30689,9 +30689,9 @@ _Monster Manual (SRD)_
 Sombrelin
 =============
 
-__\[ Darkling \] \[ Obscur \]
+_\[ Darkling \] \[ Obscur \]_
 
-Fée de taille P, chaotique neutre__
+_Fée de taille P, chaotique neutre_
 
 **Classe d'armure** 14 (armure de cuir)  
 **Points de vie** 13 (3d6 + 3)  
@@ -30713,12 +30713,12 @@ Dague.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Sombrelin, aîné
+Sombrelin, aîné
 ===================
 
-__\[ Darkling Elder \] \[ Obscur, aîné \]
+_\[ Darkling Elder \] \[ Obscur, aîné \]_
 
-Fée de taille M, typiquement chaotique neutre__
+_Fée de taille M, typiquement chaotique neutre_
 
 **Classe d'armure** 15 (armure de cuir clouté)  
 **Points de vie** 27 (5d8 + 5)  
@@ -30741,7 +30741,7 @@ Ténèbres (Recharge après un repos court ou long).
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Sombrelin, aîné legacy
+Sombrelin, aîné legacy
 ==========================
 
 _\[ Darkling Elder \]_
@@ -30833,9 +30833,9 @@ _Monsters of the Multiverse_
 Sorcemort, conspirateur
 ===========================
 
-__\[ Deathlock Mastermind \] \[ Sorcemort, cerveau \]
+_\[ Deathlock Mastermind \] \[ Sorcemort, cerveau \]_
 
-Mort-vivant (occultiste) de taille M, typiquement neutre mauvais__
+_Mort-vivant (occultiste) de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 13 (16 avec _armure de mage_)  
 **Points de vie** 110 (20d8 + 20)  
@@ -31143,9 +31143,9 @@ _Monster Manual (SRD)_
 Squelette de cheval de guerre
 =================================
 
-__\[ Warhorse Skeleton \] \[ Squelette de destrier \]
+_\[ Warhorse Skeleton \] \[ Squelette de destrier \]_
 
-Mort-vivant de taille G, loyal mauvais__
+_Mort-vivant de taille G, loyal mauvais_
 
 **Classe d'armure** 13 (restes de caparaçonnage)  
 **Points de vie** 22 (3d10 + 6)  
@@ -31451,9 +31451,9 @@ _Volo´s Guide to Monsters_
 Tapis étouffant
 ===================
 
-__\[ Rug of Smothering \] \[ Tapis étrangleur \]
+_\[ Rug of Smothering \] \[ Tapis étrangleur \]_
 
-Artificiel de taille G, sans alignement__
+_Artificiel de taille G, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 33 (6d10)  
@@ -31744,12 +31744,12 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Thri-kreen
+Thri-kreen
 ==============
 
-__\[ Thri-kreen \]
+_\[ Thri-kreen \]_
 
-Humanoïde (thri-kreen) de taille M, chaotique neutre__
+_Humanoïde (thri-kreen) de taille M, chaotique neutre_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 33 (6d8 + 6)  
@@ -31830,9 +31830,9 @@ _Monster Manual (SRD)_
 Tigre à dents de sabre
 ==========================
 
-__\[ Saber-Toothed Tiger \]
+_\[ Saber-Toothed Tiger \]_
 
-Bête de taille G, sans alignement__
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 52 (7d10 + 14)  
@@ -31856,7 +31856,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-__Tigre-garou
+Tigre-garou
 ===============
 
 _\[ Weretiger \]_
@@ -32320,9 +32320,9 @@ _Fizban´s Treasury of Dragons_
 Traqueur gluant
 ===================
 
-__\[ Slithering Tracker \] \[ Traquatique \]
+_\[ Slithering Tracker \] \[ Traquatique \]_
 
-Vase de taille M, typiquement chaotique mauvais__
+_Vase de taille M, typiquement chaotique mauvais_
 
 **Classe d'armure** 14  
 **Points de vie** 39 (6d8 + 12)  
@@ -32476,9 +32476,9 @@ _Monster Manual_
 Triton du feu, guerrier
 ===========================
 
-__\[ Firenewt Warrior \] \[ Triton du feu, combattant \]
+_\[ Firenewt Warrior \] \[ Triton du feu, combattant \]_
 
-Élementaire de taille M, typiquement neutre__
+_Élementaire de taille M, typiquement neutre_
 
 **Classe d'armure** 13 (bouclier)  
 **Points de vie** 27 (5d8 + 5)  
@@ -32529,7 +32529,7 @@ A|**Cracheur de feu (Recharge après un repos court ou long)**.
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-__Triton du feu, occultiste d'Imix
+Triton du feu, occultiste d'Imix
 ====================================
 
 _\[ Firenewt Warlock of Imix \]_
@@ -32560,7 +32560,7 @@ Incantation.
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-__Triton du feu, occultiste d'Imix legacy
+Triton du feu, occultiste d'Imix legacy
 ===========================================
 
 _\[ Firenewt Warlock of Imix \]_
@@ -32938,7 +32938,7 @@ Bouffée de venin (Recharge 6).
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-__Truite têtevide
+Truite têtevide
 ===================
 
 _\[ Knucklehead Trout \]_
@@ -33410,9 +33410,9 @@ _Volo´s Guide to Monsters_
 Vase de Sangdragon
 ======================
 
-__\[ Dragonblood Ooze \] \[ Dracoglobine \]
+_\[ Dragonblood Ooze \] \[ Dracoglobine \]_
 
-Vase de taille G, sans alignement__
+_Vase de taille G, sans alignement_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 68 (8d10 + 24)  
@@ -33549,7 +33549,7 @@ _Mort-vivant (magicien) de taille M, loyal mauvais_
 **Immunités** charmé, effrayé, empoisonné, épuisement, paralysé  
 **Sens** vision véritable 36 m, Perception passive 25  
 **Langues** commun, draconique, elfique, infernal  
-**Puissance** 26 (90000 PX) **Bonus de maîtrise** +8__
+**Puissance** 26 (90000 PX) **Bonus de maîtrise** +8
 
 **Résistance légendaire (5/jour)**.  
 **Équipement spécial**.  
@@ -34050,9 +34050,9 @@ _Mordenkainen´s Tome of Foes_
 Wiverne
 ===========
 
-__\[ Wyvern \] \[ Vouivre \]
+_\[ Wyvern \] \[ Vouivre \]_
 
-Dragon de taille G, sans alignement__
+_Dragon de taille G, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 110 (13d10 + 39)  
@@ -34364,12 +34364,12 @@ Téléportation.
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-__Yan-C-Bin
+Yan-C-Bin
 =============
 
-__\[ Yan-C-Bin \]
+_\[ Yan-C-Bin \]_
 
-Élémentaire de taille TG, neutre mauvais__
+_Élémentaire de taille TG, neutre mauvais_
 
 **Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 283 (21d12 + 147)  
@@ -34574,7 +34574,7 @@ Yuan-ti, abomination
 
 _\[ Yuan-ti Abomination \] \[ Abomination yuan-tie \]_
 
-Monstruosité (métamorphe, yuan-ti) de taille G, neutre mauvais__
+_Monstruosité (métamorphe, yuan-ti) de taille G, neutre mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 127 (15d10 + 45)  
@@ -34611,7 +34611,7 @@ Yuan-ti, anathème
 
 _\[ Yuan-ti Anathema \]_
 
-Monstruosité de taille TG, typiquement neutre mauvais__
+_Monstruosité de taille TG, typiquement neutre mauvais_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 189 (18d12 + 72)  
@@ -34647,7 +34647,7 @@ Yuan-ti, anathème legacy
 
 _\[ Yuan-ti Anathema \]_
 
-Monstruosité (métamorphe, yuan-ti) de taille TG, neutre mauvais__
+_Monstruosité (métamorphe, yuan-ti) de taille TG, neutre mauvais_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 189 (18d12 + 72)  
@@ -34686,7 +34686,7 @@ Yuan-ti, annonciateur de cauchemars
 
 _\[ Yuan-ti Nightmare Speaker \] \[ Yuan-ti, orateur des cauchemars \]_
 
-Monstruosité (occultiste) de taille M, typiquement neutre mauvais__
+_Monstruosité (occultiste) de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 71 (13d8 + 13)  
@@ -34722,7 +34722,7 @@ Yuan-ti, annonciateur de cauchemars legacy
 
 _\[ Yuan-ti Nightmare Speaker \]_
 
-Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
+_Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 71 (13d8 + 13)  
@@ -34762,7 +34762,7 @@ Yuan-ti, chuchoteur des consciences
 
 _\[ Yuan-ti Mind Whisperer \]_
 
-Monstruosité (occultiste) de taille M, typiquement neutre mauvais__
+_Monstruosité (occultiste) de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 71 (13d8 + 13)  
@@ -34798,7 +34798,7 @@ Yuan-ti, chuchoteur des consciences legacy
 
 _\[ Yuan-ti Mind Whisperer \]_
 
-Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
+_Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 71 (13d8 + 13)  
@@ -34838,7 +34838,7 @@ Yuan-ti, garde des couvées
 
 _\[ Yuan-ti Broodguard \]_
 
-Monstruosité de taille M, typiquement neutre mauvais__
+_Monstruosité de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 45 (7d8 + 14)  
@@ -34869,7 +34869,7 @@ Yuan-ti, garde des couvées legacy
 
 _\[ Yuan-ti Broodguard \]_
 
-Humanoïde (yuan-ti) de taille M, neutre mauvais__
+_Humanoïde (yuan-ti) de taille M, neutre mauvais_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 45 (7d8 + 14)  
@@ -34901,7 +34901,7 @@ Yuan-ti, maître de la fosse
 
 _\[ Yuan-ti Pit Master \]_
 
-Monstruosité (occultiste) de taille M, typiquement neutre mauvais__
+_Monstruosité (occultiste) de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 88 (16d8 + 16)  
@@ -34936,7 +34936,7 @@ Yuan-ti, maître de la fosse legacy
 
 _\[ Yuan-ti Pit Master \]_
 
-Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
+_Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
 
 **Classe d'armure** 14 (armure naturelle)  
 **Points de vie** 88 (16d8 + 16)  
@@ -34975,7 +34975,7 @@ Yuan-ti, malison
 
 _\[ Yuan-ti Malison \]_
 
-Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais__
+_Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
 
 **Classe d'armure** 12  
 **Points de vie** 66 (12d8 + 12)  
@@ -35025,7 +35025,7 @@ Yuan-ti, sang-pur
 
 _\[ Yuan-ti Pureblood \]_
 
-Humanoïde (yuan-ti) de taille M, neutre mauvais__
+_Humanoïde (yuan-ti) de taille M, neutre mauvais_
 
 **Classe d'armure** 11  
 **Points de vie** 40 (9d8)  
@@ -35245,7 +35245,7 @@ _Fiélon (diable) de taille M, typiquement loyal mauvais_
 **Immunités** empoisonné  
 **Sens** vision dans le noir 36 m, Perception passive 16  
 **Langues** draconique, infernal, télépathie 36 m  
-**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3__
+**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3
 
 **Vision de diable**.  
 **Résistance à la magie**.  
@@ -35313,7 +35313,7 @@ _Mort-vivant de taille M, sans alignement_
 A|**Coup**. +3, 1,50 m, 1d8+1 contondants  
 
 
-Adventures (Tomb of Annihilation)__
+_Adventures (Tomb of Annihilation)_
 {: .label .label-red }
 
 Zombi ogre
@@ -35348,9 +35348,9 @@ _Monster Manual (SRD)_
 Zombi rothé
 ===============
 
-__\[ Rothé Zombie \]
+_\[ Rothé Zombie \]_
 
-Mort-vivant de taille G, neutre mauvais__
+_Mort-vivant de taille G, neutre mauvais_
 
 **Classe d'armure** 8  
 **Points de vie** 22 (3d8 + 9)  
