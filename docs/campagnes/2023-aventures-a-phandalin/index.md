@@ -45,57 +45,52 @@ Mines oubliées de Phandelver + Le Dragon de la Flèche de Givre
 
 ___
 > ## Osril
-_Demi-elf (Male), Druide / Herboriste_
+_Demi-Elf (Male), Druide / Herboriste_
 > 
 > ___
-> - **Age** 238 (*Level:* 10)
-> - **Classe d'armure** 10
-> - **Points de vie** 73 (53 + 20)
-> - **Vitesse** - 9 m
+> - **Age** 80 (*Level:* 1)
+> - **Classe d'armure** 13
+> - **Points de vie** 10
+> - **Vitesse** 9 m
+> - **Initiative** +2
+> - **Bonus de maîtrise** +2
 > 
 >___
 > 
->|STR|DEX|CON|INT|WIS|CHA|
+>|FOR|DEX|CON|INT|SAG|CHA|
 >|---|---|---|---|---|---|
->|15 (+2)|14 (+2)|14 (+2)|10 (+0)|13 (+1)|8 (-1)|
+>|12 (+1)|14 (+2)|14 (+2)|10 (+0)|16 (+3)|10 (+0)|
 > 
 >___
 > ### Description/Background
 > {: .no_toc }
-> ***Apparence*** : Average lean build, with hazel eyes and strange hairstyle red hair. Their face has small scar and their speech is low-pitched
+> ***Apparence*** : On distingue malgré sa grande cape verte olive un corps assez grand, sec et musclé. Sa capuche laisse apparaître de long cheveux ainsi qu'une barbe blanches. Ses yeux verts émeraude rappellent son attachement et appartenance à la forêt.
 >
-> ***Caractéristiques*** :  Leers
+> ***Trait*** : Réservé, discret.
 >
-> ***Personnalité*** :  Reckless
+> ***Background*** : Hanté. _Ceux qui vous regardent dans les yeux peuvent voir que vous avez fait face à une horreur inimaginable et que vous n’êtes pas étranger aux ténèbres. Même s’ils peuvent vous craindre, les gens du commun vous feront preuve de toute la courtoisie et feront tout leur possible pour vous aider. À moins que vous ne vous soyez montré un danger pour eux, ils prendront même les armes pour combattre à vos côtés si vous vous retrouvez seul face à un ennemi._
 >
-> ***Trait*** : I&#39;m always polite and respectful.
->
-> ***Idéal*** : Beauty. When I perform, I make the world better than it was. (Good)
+> ***Histoire*** : Rarement accepté par aucun des deux peuples auquel il est lié, Osril a toujours vécu dans la forêt lorsqu'il était jeune. Sa passion pour la forêt l'a mené à maîtriser les pouvoirs druidiques. Plus tard il rencontrera Gundren Cherchepierre, un nain explorateur, qui lui confiera de temps à autres quelques missions en échange de livres venus de loin. C'est à travers Gundren et ses missions que Osril rejoindra alors l'Enclave d'Émeraude.
 >
 >___
-> - **Perception passive** 15
-> - **Lucky** When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
-> - **Brave** You have advantage on saving throws against being frightened.
-> - **Halfling Nimbleness** You can move through the space of any creature that is of a size larger than yours.
-> - **Langues** You can speak, read, and write Common and Halfling. The Halfling language isn&#39;t secret, but halflings are loath to share it with others. They write very little, so they don&#39;t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
-> - **Naturally Stealthy** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+> - **Perception passive** 13
+> - **Avantage** Contre les _charmes_
+> - **Résistance** La magie ne peut pas l'endormir
+> - **Outils** Kit d'herboriste
+> - **Langues** Celestial, Commun, Druidique, Nain, Elfique, Orc
+> - **Don** Peut voir dans le noir jusqu'à 18 mètres
 >
 > ### Équipement de départ
 > {: .no_toc }
-> Use 1d8 for pick pockets 
-> 0. Polished Slate Stone   
-> 1. 3x Bronze marbles 
-> 2. 1x Silver Die   
-> 3. 4x Quartz Die   
-> 4. 4x Bone Die   
-> 5. Flint and steel 
-> 6. Candle shaped in the form of a Hawk   
-> 7. Broken Hammer
+> 0. 1 armure de cuir   
+> 1. 1 dague
+> 2. 1 arc court
+> 3. 1 bâton (focaliseur druidique) 
 > 
 >___
 > ### Citation
 >{: .no_toc }
-> > The local church is trying to buy him out, organized by a monk taking their neighbor.
+> > TBD
 >{: .gossip }
 {: .statblock5e }
 
