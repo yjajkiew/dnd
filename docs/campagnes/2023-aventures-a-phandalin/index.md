@@ -19,7 +19,7 @@ has_children: true
 </details>
 
 
-{: .important-title }
+{: .highlight-title }
 > Attention
 >
 > Si vous souhaitez lire les compte-rendu de session de cette campagne sans vous faire spoiler : ne lisez pas la page "Pour DM/GM" qui contient tout le storytelling, rebondissements, ennemis et rencontres envisagées !"
