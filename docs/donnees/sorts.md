@@ -5,6 +5,20 @@ parent: Bases de données
 nav_order: 2
 ---
 
+# Sorts
+{: .no_toc }
+
+
+<details open markdown="block">
+  <summary>
+    Liste des sorts
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+
 Absorption des éléments
 =======================
 
