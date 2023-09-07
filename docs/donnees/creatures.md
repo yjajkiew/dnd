@@ -8,9 +8,9 @@ nav_order: 1
 Aarakocra
 =========
 
-\[ Aarakocra \] \[ Aarakocre \]
+_\[ Aarakocra \] \[ Aarakocre \]_
 
-Humanoïde (aarakocra) de taille M, neutre bon
+_Humanoïde (aarakocra) de taille M, neutre bon_
 
 **Classe d'armure** 12  
 **Points de vie** 13 (3d8)  
@@ -35,9 +35,9 @@ Monster Manual (BR+)
 Abishaï blanc
 =============
 
-\[ White Abishai \]
+_\[ White Abishai \]_
 
-Fiélon (diable) de taille M, typiquement loyal mauvais
+_Fiélon (diable) de taille M, typiquement loyal mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 68 (8d8 + 32)  
@@ -70,9 +70,9 @@ _Monsters of the Multiverse_
 Abishaï blanc legacy
 ====================
 
-\[ White Abishai \]
+_\[ White Abishai \]_
 
-Fiélon (diable) de taille M, loyal mauvais
+_Fiélon (diable) de taille M, loyal mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 68 (8d8 + 32)  
@@ -106,9 +106,9 @@ Mordenkainen´s Tome of Foes
 Abishaï bleu
 ============
 
-\[ Blue Abishai \]
+_\[ Blue Abishai \]_
 
-Fiélon (diable, magicien) de taille M, typiquement loyal mauvais
+_Fiélon (diable, magicien) de taille M, typiquement loyal mauvais_
 
 **Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 202 (27d8 + 81)  
@@ -141,9 +141,9 @@ _Monsters of the Multiverse_
 Abishaï bleu legacy
 ===================
 
-\[ Blue Abishai \]
+_\[ Blue Abishai \]_
 
-Fiélon (diable) de taille M, loyal mauvais
+_Fiélon (diable) de taille M, loyal mauvais_
 
 **Classe d'armure** 19 (armure naturelle)  
 **Points de vie** 195 (26d8 + 78)  
@@ -176,9 +176,9 @@ Mordenkainen´s Tome of Foes
 Abishaï noir
 ============
 
-\[ Black Abishai \]
+_\[ Black Abishai \]_
 
-Fiélon (diable) de taille M, typiquement loyal mauvais
+_Fiélon (diable) de taille M, typiquement loyal mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 58 (9d8 + 18)  
@@ -210,9 +210,9 @@ _Monsters of the Multiverse_
 Abishaï noir legacy
 ===================
 
-\[ Black Abishai \]
+_\[ Black Abishai \]_
 
-Fiélon (diable) de taille M, loyal mauvais
+_Fiélon (diable) de taille M, loyal mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 58 (9d8 + 18)  
@@ -246,9 +246,9 @@ Mordenkainen´s Tome of Foes
 Abishaï rouge
 =============
 
-\[ Red Abishai \]
+_\[ Red Abishai \]_
 
-Fiélon (diable) de taille M, typiquement loyal mauvais
+_Fiélon (diable) de taille M, typiquement loyal mauvais_
 
 **Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 289 (34d8 + 136)  
@@ -282,9 +282,9 @@ _Monsters of the Multiverse_
 Abishaï rouge legacy
 ====================
 
-\[ Red Abishai \]
+_\[ Red Abishai \]_
 
-Fiélon (diable) de taille M, loyal mauvais
+_Fiélon (diable) de taille M, loyal mauvais_
 
 **Classe d'armure** 22 (armure naturelle)  
 **Points de vie** 255 (30d8 + 120)  
@@ -319,9 +319,9 @@ Mordenkainen´s Tome of Foes
 Abishaï vert
 ============
 
-\[ Green Abishai \]
+_\[ Green Abishai \]_
 
-Fiélon (diable) de taille M, typiquement loyal mauvais
+_Fiélon (diable) de taille M, typiquement loyal mauvais_
 
 **Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 195 (26d8 + 78)  
@@ -352,9 +352,9 @@ _Monsters of the Multiverse_
 Abishaï vert legacy
 ===================
 
-\[ Green Abishai \]
+_\[ Green Abishai \]_
 
-Fiélon (diable) de taille M, loyal mauvais
+_Fiélon (diable) de taille M, loyal mauvais_
 
 **Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 187 (25d8 + 75)  
@@ -387,9 +387,9 @@ Mordenkainen´s Tome of Foes
 Abjurateur legacy
 =================
 
-\[ Abjurer \]
+_\[ Abjurer \]_
 
-Humanoïde (toute race) de taille M, tout alignement
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 12 (15 avec _armure de mage_)  
 **Points de vie** 84 (13d8 + 26)  
@@ -424,9 +424,9 @@ _Volo´s Guide to Monsters_
 Aboleth
 =======
 
-\[ Aboleth \]
+_\[ Aboleth \]_
 
-Aberration de taille G, loyal mauvais
+_Aberration de taille G, loyal mauvais_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 135 (18d10 + 36)  
@@ -460,9 +460,9 @@ _Monster Manual (SRD)_
 Abomination transdraconique
 ===========================
 
-\[ Dragonflesh Abomination \]
+_\[ Dragonflesh Abomination \]_
 
-Monstruosité de taille TG, typiquement neutre mauvais
+_Monstruosité de taille TG, typiquement neutre mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 66 (7d12 + 21)  
@@ -492,9 +492,9 @@ _Fizban´s Treasury of Dragons_
 Acérérak
 ========
 
-\[ Acererak \]
+_\[ Acererak \]_
 
-Mort-vivant de taille M, neutre mauvais
+_Mort-vivant de taille M, neutre mauvais_
 
 **Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 285 (30d8+150)  
@@ -533,9 +533,9 @@ _Adventures (Tomb of Annihilation)_
 Acolyte
 =======
 
-\[ Acolyte \]
+_\[ Acolyte \]_
 
-Humanoïde (toute race) de taille M, tout alignement
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 9 (2d8)  
@@ -562,9 +562,9 @@ _Monster Manual (SRD)_
 Affligé affamé
 ==============
 
-\[ Hungry Sorrowsworn \]
+_\[ Hungry Sorrowsworn \]_
 
-Monstruosité de taille M, typiquement neutre mauvais
+_Monstruosité de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 225 (30d8 + 90)  
@@ -590,9 +590,9 @@ _Monsters of the Multiverse_
 Affligé colérique
 =================
 
-\[ Angry Sorrowsworn \]
+_\[ Angry Sorrowsworn \]_
 
-Monstruosité de taille M, typiquement neutre mauvais
+_Monstruosité de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 18 (armure naturelle)  
 **Points de vie** 255 (30d8 + 120)  
@@ -619,9 +619,9 @@ _Monsters of the Multiverse_
 Affligé misérable
 =================
 
-\[ Wretched Sorrowsworn \]
+_\[ Wretched Sorrowsworn \]_
 
-Monstruosité de taille P, typiquement neutre mauvais
+_Monstruosité de taille P, typiquement neutre mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 10 (4d6 - 4)  
@@ -645,9 +645,9 @@ _Monsters of the Multiverse_
 Affligé perdu
 =============
 
-\[ Lost Sorrowsworn \]
+_\[ Lost Sorrowsworn \]_
 
-Monstruosité de taille M, typiquement neutre mauvais
+_Monstruosité de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 78 (12d8 + 24)  
@@ -674,9 +674,9 @@ _Monsters of the Multiverse_
 Affligé solitaire
 =================
 
-\[ Lonely Sorrowsworn \]
+_\[ Lonely Sorrowsworn \]_
 
-Monstruosité de taille M, typiquement neutre mauvais
+_Monstruosité de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 16 (armure naturelle)  
 **Points de vie** 112 (15d8 + 45)  
@@ -703,9 +703,9 @@ _Monsters of the Multiverse_
 Aigle
 =====
 
-\[ Eagle \]
+_\[ Eagle \]_
 
-Bête de taille P, sans alignement
+_Bête de taille P, sans alignement_
 
 **Classe d'armure** 12  
 **Points de vie** 3 (1d6)  
@@ -729,9 +729,9 @@ _Monster Manual (SRD)_
 Aigle géant
 ===========
 
-\[ Giant Eagle \]
+_\[ Giant Eagle \]_
 
-Bête de taille G, neutre bon
+_Bête de taille G, neutre bon_
 
 **Classe d'armure** 13  
 **Points de vie** 26 (4d10 + 4)  
@@ -757,9 +757,9 @@ _Monster Manual (SRD)_
 Alhoon
 ======
 
-\[ Alhoon \]
+_\[ Alhoon \]_
 
-Mort-vivant (flagelleur mental, magicien) de taille M, typiquement neutre mauvais
+_Mort-vivant (flagelleur mental, magicien) de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 150 (20d8 + 60)  
@@ -794,9 +794,9 @@ _Monsters of the Multiverse_
 Alhoon legacy
 =============
 
-\[ Alhoon \]
+_\[ Alhoon \]_
 
-Mort-vivant de taille M, tout alignement mauvais
+_Mort-vivant de taille M, tout alignement mauvais_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 120 (16d8 + 48)  
@@ -837,9 +837,9 @@ _Volo´s Guide to Monsters_
 Alkilith
 ========
 
-\[ Alkilith \]
+_\[ Alkilith \]_
 
-Fiélon (démon) de taille M, typiquement chaotique mauvais
+_Fiélon (démon) de taille M, typiquement chaotique mauvais_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 168 (16d8 + 96)  
@@ -874,9 +874,9 @@ _Monsters of the Multiverse_
 Alkilith legacy
 ===============
 
-\[ Alkilith \]
+_\[ Alkilith \]_
 
-Fiélon (démon) de taille M, chaotique mauvais
+_Fiélon (démon) de taille M, chaotique mauvais_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 157 (15d8 + 90)  
@@ -908,9 +908,9 @@ Mordenkainen´s Tome of Foes
 Allip
 =====
 
-\[ Allip \]
+_\[ Allip \]_
 
-Mort-vivant de taille M, typiquement neutre mauvais
+_Mort-vivant de taille M, typiquement neutre mauvais_
 
 **Classe d'armure** 13  
 **Points de vie** 40 (9d18)  
@@ -941,9 +941,9 @@ _Monsters of the Multiverse_
 Allip legacy
 ============
 
-\[ Allip \]
+_\[ Allip \]_
 
-Mort-vivant de taille M, neutre mauvais
+_Mort-vivant de taille M, neutre mauvais_
 
 **Classe d'armure** 13  
 **Points de vie** 40 (9d18)  
@@ -973,9 +973,9 @@ Mordenkainen´s Tome of Foes
 Allosaure
 =========
 
-\[ Allosaurus \]
+_\[ Allosaurus \]_
 
-Bête de taille G, sans alignement
+_Bête de taille G, sans alignement_
 
 **Classe d'armure** 13 (armure naturelle)  
 **Points de vie** 51 (6d10 + 18)  
@@ -999,9 +999,9 @@ Monster Manual (BR)
 Âme en peine
 ============
 
-\[ Wraith \]
+_\[ Wraith \]_
 
-Mort-vivant de taille M, neutre mauvais
+_Mort-vivant de taille M, neutre mauvais_
 
 **Classe d'armure** 13  
 **Points de vie** 67 (9d8 + 27)  
@@ -1029,9 +1029,9 @@ _Monster Manual (SRD)_
 Amnizu
 ======
 
-\[ Amnizu \]
+_\[ Amnizu \]_
 
-Fiélon (diable) de taille M, typiquement loyal mauvais
+_Fiélon (diable) de taille M, typiquement loyal mauvais_
 
 **Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 202 (27d8 + 81)  
@@ -1065,9 +1065,9 @@ _Monsters of the Multiverse_
 Amnizu legacy
 =============
 
-\[ Amnizu \]
+_\[ Amnizu \]_
 
-Fiélon (diable) de taille M, loyal mauvais
+_Fiélon (diable) de taille M, loyal mauvais_
 
 **Classe d'armure** 21 (armure naturelle)  
 **Points de vie** 202 (27d8 + 81)  
@@ -1102,9 +1102,9 @@ Mordenkainen´s Tome of Foes
 Androsphinx
 ===========
 
-\[ Androsphinx \]
+_\[ Androsphinx \]_
 
-Monstruosité de taille G, loyal neutre
+_Monstruosité de taille G, loyal neutre_
 
 **Classe d'armure** 17 (armure naturelle)  
 **Points de vie** 199 (19d10 + 95)  
@@ -1148,9 +1148,9 @@ _Monster Manual (SRD)_
 Ankheg
 ======
 
-\[ Ankheg \]
+_\[ Ankheg \]_
 
-Monstruosité de taille G, sans alignement
+_Monstruosité de taille G, sans alignement_
 
 **Classe d'armure** 14 (armure naturelle), 11 lorsqu'il est à terre  
 **Points de vie** 39 (6d10 + 6)  
@@ -1173,9 +1173,9 @@ _Monster Manual (SRD)_
 Ankylosaure
 ===========
 
-\[ Ankylosaurus \]
+_\[ Ankylosaurus \]_
 
-Bête de taille TG, sans alignement
+_Bête de taille TG, sans alignement_
 
 **Classe d'armure** 15 (armure naturelle)  
 **Points de vie** 68 (8d12 + 16)  
@@ -1191,14 +1191,15 @@ Bête de taille TG, sans alignement
 
 A|**Queue**. +7, 3 m, 4d6+4 contondants  
 
-Monster Manual (BR)
+_Monster Manual (BR)_
+{: .label .label-red }
 
 Apprenti magicien
 =================
 
-\[ Apprentice Wizard \]
+_\[ Apprentice Wizard \]_
 
-Humanoïde de taille M, tout alignement
+_Humanoïde de taille M, tout alignement_
 
 **Classe d'armure** 10 (13 avec _armure de mage_)  
 **Points de vie** 13 (3d8)  
@@ -1221,9 +1222,9 @@ A|**Incantation**.
 Apprenti magicien legacy
 ========================
 
-\[ Apprentice Wizard \]
+_\[ Apprentice Wizard \]_
 
-Humanoïde (toute race) de taille M, tout alignement
+_Humanoïde (toute race) de taille M, tout alignement_
 
 **Classe d'armure** 10  
 **Points de vie** 9 (2d8)  
@@ -6574,6 +6575,7 @@ A|**Hache d'armes**. +5, 1,50 m, 2d8+3 tranchants
 A|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants  
 
 _Monster Manual (BR+)_
+{: .label .label-red }
 
 Démogorgon
 ============
