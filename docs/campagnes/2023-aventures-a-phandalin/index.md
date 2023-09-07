@@ -119,7 +119,8 @@ ___
 > 4. 4x Bone Die   
 > 5. Flint and steel 
 > 6. Candle shaped in the form of a Hawk   
-> 7. Broken Hammer 
+> 7. Broken Hammer
+> 
 >___
 > ### Gossip
 > > The local church is trying to buy him out, organized by a monk taking their neighbor. 
