@@ -119,5 +119,5 @@ ___
 >___
 > ### Gossip
 > > The local church is trying to buy him out, organized by a monk taking their neighbor. 
-
+{: .statblock5e }
 
