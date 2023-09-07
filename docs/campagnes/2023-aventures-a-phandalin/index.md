@@ -85,12 +85,11 @@ ___
 > - **Movement** - **Walk** 30 ft, **Fly** 0 ft, **Swim** 0 ft
 > 
 >___
-> 
 >|STR|DEX|CON|INT|WIS|CHA|
 >|---|---|---|---|---|---|
 >|15 (+2)|14 (+2)|14 (+2)|10 (+0)|13 (+1)|8 (-1)|
-> 
 >___
+> 
 > ### Description/Background
 > ***Appearance*** : Average lean build, with hazel eyes and strange hairstyle red hair. Their face has small scar and their speech is low-pitched
 >
