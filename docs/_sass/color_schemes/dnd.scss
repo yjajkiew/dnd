@@ -80,7 +80,6 @@ blockquote.statblock5e {
 }
 .statblock5e > hr + ul  {
    letter-spacing: -0.02em;
-    text-indent: -2.6em;
     list-style-type: none;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -97,6 +96,12 @@ blockquote.statblock5e {
    box-shadow: 1px 4px 14px #888;
    border-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAA8CAMAAADG+c2+AAAACVBMVEX///8AAADmmihtJc8lAAAAAXRSTlMAQObYZgAAACxJREFUeAHt2EEBACAAwkCwf2hL8NK7AAuwdCw9U5Og4FgeAAAAAK7IBxPjAl3qBs+hfAnLAAAAAElFTkSuQmCC) 10;
 
+}
+.statblock5e .table-wrapper {
+  box-shadow: none !important;
+}
+.statblock5e table th {
+  background-color: transparent !important;
 }
 .statblock5e > hr + table {
    margin-top: 0em;
