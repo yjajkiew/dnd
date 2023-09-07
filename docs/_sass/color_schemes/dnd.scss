@@ -52,6 +52,9 @@ blockquote.statblock5e {
    color: var(--statblock5e-primary-color);
    min-width: 430px;
 }
+.statblock5e ul > li::before {
+  content: '';
+}
 .statblock5e p, .statblock5e li {
   color: black;
 }
