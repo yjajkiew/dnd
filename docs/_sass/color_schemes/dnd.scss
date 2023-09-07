@@ -110,7 +110,7 @@ blockquote.statblock5e {
    width: 100%;
 }
 .statblock5e > hr + table  th   {
-   background-color: transparent;
+   background-color: transparent !important;
    border-bottom: none;
    border-right: none;
    border-left: none;
@@ -122,7 +122,7 @@ blockquote.statblock5e {
 }
 .statblock5e > hr + table  th:not(:last-of-type),
 .statblock5e > hr + table  th:last-of-type   {
-   background-color: transparent;
+   background-color: transparent !important;
    border-bottom: none;
    border-right: none;
    border-left: none;
