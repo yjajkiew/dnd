@@ -53,7 +53,8 @@ Rôdeur
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Agrandissement/Rapetissement
+Agrandissement/Rapetissement (niveau 2)
+
 ============================
 
 _\[ Enlarge/Reduce \]_
@@ -88,7 +89,8 @@ Druide _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Aide
+Aide (niveau 2)
+
 ====
 
 _\[ Aid \]_
@@ -121,7 +123,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Alarme
+Alarme (niveau 1)
+
 ======
 
 _\[ Alarm \]_
@@ -148,7 +151,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Allié planaire
+Allié planaire (niveau 6)
+
 ==============
 
 _\[ Planar Ally \]_
@@ -176,7 +180,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Amélioration de caractéristique
+Amélioration de caractéristique (niveau 2)
+
 ===============================
 
 _\[ Enhance Ability \]_
@@ -221,7 +226,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Amélioration de compétences
+Amélioration de compétences (niveau 5)
+
 ===========================
 
 _\[ Skill Empowerment \]_
@@ -252,7 +258,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Amis
+Amis (niveau 0)
+
 ====
 
 _\[ Friends \]_ _\[ Faux amis \]_
@@ -313,7 +320,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Animation d'objets
+Animation d'objets (niveau 5)
+
 ==================
 
 _\[ Animate Objects \]_ _\[ Animation des objets \]_
@@ -355,7 +363,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Animation des morts
+Animation des morts (niveau 3)
+
 ===================
 
 _\[ Animate Dead \]_
@@ -384,7 +393,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Antidétection
+Antidétection (niveau 3)
+
 =============
 
 _\[ Nondetection \]_
@@ -413,7 +423,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Apaisement des émotions
+Apaisement des émotions (niveau 2)
+
 =======================
 
 _\[ Calm Emotions \]_
@@ -441,7 +452,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Apparence trompeuse
+Apparence trompeuse (niveau 5)
+
 ===================
 
 _\[ Seeming \]_
@@ -473,7 +485,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Appel de destrier
+Appel de destrier (niveau 2)
+
 =================
 
 _\[ Find Steed \]_
@@ -500,7 +513,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Appel de destrier supérieur
+Appel de destrier supérieur (niveau 4)
+
 ===========================
 
 _\[ Find Greater Steed \]_
@@ -525,7 +539,8 @@ Paladin
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Appel de familier
+Appel de familier (niveau 1)
+
 =================
 
 _\[ Find Familiar \]_
@@ -553,7 +568,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Appel de la foudre
+Appel de la foudre (niveau 3)
+
 ==================
 
 _\[ Call Lightning \]_
@@ -579,7 +595,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Arme élémentaire
+Arme élémentaire (niveau 3)
+
 ================
 
 _\[ Elemental Weapon \]_
@@ -609,7 +626,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook
 {: .label .label-red }
 
-Arme magique
+Arme magique (niveau 2)
+
 ============
 
 _\[ Magic Weapon \]_
@@ -642,7 +660,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Arme sacrée
+Arme sacrée (niveau 5)
+
 ===========
 
 _\[ Holy Weapon \]_
@@ -670,7 +689,8 @@ Paladin
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Arme spirituelle
+Arme spirituelle (niveau 2)
+
 ================
 
 _\[ Spiritual Weapon \]_
@@ -696,7 +716,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Armure d'Agathys
+Armure d'Agathys (niveau 1)
+
 ================
 
 _\[ Armor of Agathys \]_
@@ -745,7 +766,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Arrêt du temps
+Arrêt du temps (niveau 9)
+
 ==============
 
 _\[ Time Stop \]_
@@ -772,7 +794,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Aspersion d'acide
+Aspersion d'acide (niveau 0)
+
 =================
 
 _\[ Acid Splash \]_ _\[ Aspersion acide \]_
@@ -799,7 +822,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Assassin imaginaire
+Assassin imaginaire (niveau 4)
+
 ===================
 
 _\[ Phantasmal Killer \]_
@@ -826,7 +850,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Assignation infernale
+Assignation infernale (niveau 5)
+
 =====================
 
 _\[ Infernal Calling \]_
@@ -854,7 +879,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Assistance
+Assistance (niveau 0)
+
 ==========
 
 _\[ Guidance \]_
@@ -880,7 +906,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Attraction terrestre
+Attraction terrestre (niveau 2)
+
 ====================
 
 _\[ Earthbind \]_
@@ -912,7 +939,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Aube
+Aube (niveau 5)
+
 ====
 
 _\[ Dawn \]_
@@ -940,7 +968,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Augure
+Augure (niveau 2)
+
 ======
 
 _\[ Augury \]_
@@ -975,7 +1004,8 @@ Magicien _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Aura de pureté
+Aura de pureté (niveau 4)
+
 ==============
 
 _\[ Aura of Purity \]_
@@ -1001,7 +1031,8 @@ Clerc _\[TCoE\]_
 Player´s Handbook
 {: .label .label-red }
 
-Aura de vie
+Aura de vie (niveau 4)
+
 ===========
 
 _\[ Aura of Life \]_
@@ -1027,7 +1058,8 @@ Clerc _\[TCoE\]_
 Player´s Handbook
 {: .label .label-red }
 
-Aura de vitalité
+Aura de vitalité (niveau 3)
+
 ================
 
 _\[ Aura of Vitality \]_
@@ -1056,7 +1088,8 @@ Druide _\[TCoE\]_
 Player´s Handbook
 {: .label .label-red }
 
-Aura du croisé
+Aura du croisé (niveau 3)
+
 ==============
 
 \[ Crusader's Mantle \]
@@ -1079,7 +1112,8 @@ Paladin
 Player´s Handbook
 {: .label .label-red }
 
-Aura magique de Nystul
+Aura magique de Nystul (niveau 2)
+
 ======================
 
 \[ Nystul's Magic Aura \]
@@ -1105,7 +1139,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Aura sacrée
+Aura sacrée (niveau 8)
+
 ===========
 
 _\[ Holy Aura \]_
@@ -1128,7 +1163,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Aversion/Attirance
+Aversion/Attirance (niveau 8)
+
 ==================
 
 _\[ Antipathy/Sympathy \]_
@@ -1163,7 +1199,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Bagou
+Bagou (niveau 8)
+
 =====
 
 _\[ Glibness \]_
@@ -1189,7 +1226,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Baies nourricières
+Baies nourricières (niveau 1)
+
 ==================
 
 _\[ Goodberry \]_
@@ -1216,7 +1254,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Bannissement
+Bannissement (niveau 4)
+
 ============
 
 _\[ Banishment \]_
@@ -1255,7 +1294,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Barrière de lames
+Barrière de lames (niveau 6)
+
 =================
 
 _\[ Blade Barrier \]_
@@ -1279,7 +1319,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Bénédiction
+Bénédiction (niveau 1)
+
 ===========
 
 _\[ Bless \]_
@@ -1306,7 +1347,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Blessure
+Blessure (niveau 1)
+
 ========
 
 _\[ Inflict Wounds \]_
@@ -1330,7 +1372,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Bosquet des druides
+Bosquet des druides (niveau 6)
+
 ===================
 
 _\[ Druid Grove \]_
@@ -1355,7 +1398,8 @@ Druide
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Bouche magique
+Bouche magique (niveau 2)
+
 ==============
 
 _\[ Magic Mouth \]_
@@ -1384,7 +1428,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Bouclier
+Bouclier (niveau 1)
+
 ========
 
 _\[ Shield \]_
@@ -1410,7 +1455,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Bouclier de feu
+Bouclier de feu (niveau 4)
+
 ===============
 
 _\[ Fire Shield \]_
@@ -1441,7 +1487,8 @@ Ensorceleur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Bouclier de la foi
+Bouclier de la foi (niveau 1)
+
 ==================
 
 _\[ Shield of Faith \]_
@@ -1467,7 +1514,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Bouclier de platine de Fizban
+Bouclier de platine de Fizban (niveau 6)
+
 =============================
 
 \[ Fizban's Platinum Shield \]
@@ -1495,7 +1543,8 @@ Magicien
 Fizban´s Treasury of Dragons
 {: .label .label-red }
 
-Bouffée de poison
+Bouffée de poison (niveau 0)
+
 =================
 
 _\[ Poison Spray \]_
@@ -1528,7 +1577,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Boule de feu
+Boule de feu (niveau 3)
+
 ============
 
 _\[ Fireball \]_
@@ -1556,7 +1606,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Boule de feu à retardement
+Boule de feu à retardement (niveau 7)
+
 ==========================
 
 _\[ Delayed Blast Fireball \]_
@@ -1586,7 +1637,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Bourrasque
+Bourrasque (niveau 2)
+
 ==========
 
 _\[ Gust of Wind \]_
@@ -1621,7 +1673,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Brume mortelle
+Brume mortelle (niveau 5)
+
 ==============
 
 _\[ Cloudkill \]_
@@ -1650,7 +1703,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Cage de force
+Cage de force (niveau 7)
+
 =============
 
 _\[ Forcecage \]_
@@ -1684,7 +1738,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Cage des âmes
+Cage des âmes (niveau 6)
+
 =============
 
 _\[ Soul Cage \]_
@@ -1712,7 +1767,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Carquois magique
+Carquois magique (niveau 5)
+
 ================
 
 _\[ Swift Quiver \]_ _\[ Vif carquois \]_
@@ -1736,7 +1792,8 @@ Rôdeur
 Player´s Handbook
 {: .label .label-red }
 
-Catapulte
+Catapulte (niveau 1)
+
 =========
 
 _\[ Catapult \]_
@@ -1763,7 +1820,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Cécité/Surdité
+Cécité/Surdité (niveau 2)
+
 ==============
 
 _\[ Blindness/Deafness \]_
@@ -1796,7 +1854,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Cercle de mort
+Cercle de mort (niveau 6)
+
 ==============
 
 _\[ Circle of Death \]_
@@ -1826,7 +1885,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Cercle de pouvoir
+Cercle de pouvoir (niveau 5)
+
 =================
 
 _\[ Circle of Power \]_
@@ -1849,7 +1909,8 @@ Paladin
 Player´s Handbook
 {: .label .label-red }
 
-Cercle de téléportation
+Cercle de téléportation (niveau 5)
+
 =======================
 
 _\[ Teleportation Circle \]_
@@ -1883,7 +1944,8 @@ Occultiste _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Cercle magique
+Cercle magique (niveau 3)
+
 ==============
 
 _\[ Magic Circle \]_
@@ -1921,7 +1983,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Cérémonie
+Cérémonie (niveau 1)
+
 =========
 
 _\[ Ceremony \]_
@@ -1953,7 +2016,8 @@ Paladin
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Chaîne d'éclairs
+Chaîne d'éclairs (niveau 6)
+
 ================
 
 _\[ Chain Lightning \]_
@@ -1981,7 +2045,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Champ antimagie
+Champ antimagie (niveau 8)
+
 ===============
 
 _\[ Antimagic Field \]_
@@ -2016,7 +2081,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Changement de forme
+Changement de forme (niveau 9)
+
 ===================
 
 _\[ Shapechange \]_
@@ -2047,7 +2113,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Changement de plan
+Changement de plan (niveau 7)
+
 ==================
 
 _\[ Plane Shift \]_
@@ -2084,7 +2151,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Charme-monstre
+Charme-monstre (niveau 4)
+
 ==============
 
 _\[ Charm Monster \]_
@@ -2120,7 +2188,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Charme-personne
+Charme-personne (niveau 1)
+
 ===============
 
 _\[ Charm Person \]_
@@ -2156,7 +2225,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Châtiment aveuglant
+Châtiment aveuglant (niveau 3)
+
 ===================
 
 _\[ Blinding Smite \]_
@@ -2180,7 +2250,8 @@ Paladin
 Player´s Handbook
 {: .label .label-red }
 
-Châtiment calcinant
+Châtiment calcinant (niveau 1)
+
 ===================
 
 _\[ Searing Smite \]_
@@ -2207,7 +2278,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook
 {: .label .label-red }
 
-Châtiment courroucé
+Châtiment courroucé (niveau 1)
+
 ===================
 
 _\[ Wrathful Smite \]_
@@ -2230,7 +2302,8 @@ Paladin
 Player´s Handbook
 {: .label .label-red }
 
-Châtiment débilitant
+Châtiment débilitant (niveau 4)
+
 ====================
 
 _\[ Staggering Smite \]_
@@ -2253,7 +2326,8 @@ Paladin
 Player´s Handbook
 {: .label .label-red }
 
-Châtiment du ban
+Châtiment du ban (niveau 5)
+
 ================
 
 _\[ Banishing Smite \]_
@@ -2276,7 +2350,8 @@ Paladin
 Player´s Handbook
 {: .label .label-red }
 
-Châtiment révélateur
+Châtiment révélateur (niveau 2)
+
 ====================
 
 _\[ Branding Smite \]_
@@ -2300,7 +2375,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Châtiment tonitruant
+Châtiment tonitruant (niveau 1)
+
 ====================
 
 _\[ Thunderous Smite \]_
@@ -2323,7 +2399,8 @@ Paladin
 Player´s Handbook
 {: .label .label-red }
 
-Chien de garde de Mordenkainen
+Chien de garde de Mordenkainen (niveau 4)
+
 ==============================
 
 \[ Mordenkainen's Faithful Hound \]
@@ -2348,7 +2425,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Clairvoyance
+Clairvoyance (niveau 3)
+
 ============
 
 _\[ Clairvoyance \]_
@@ -2382,7 +2460,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Clignotement
+Clignotement (niveau 3)
+
 ============
 
 _\[ Blink \]_
@@ -2409,7 +2488,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Clone
+Clone (niveau 8)
+
 =====
 
 _\[ Clone \]_
@@ -2433,7 +2513,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Coffre secret de Léomund
+Coffre secret de Léomund (niveau 4)
+
 ========================
 
 \[ Leomund's Secret Chest \]
@@ -2458,7 +2539,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Collet
+Collet (niveau 1)
+
 ======
 
 _\[ Snare \]_
@@ -2491,7 +2573,8 @@ Rôdeur
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Colonne de flamme
+Colonne de flamme (niveau 5)
+
 =================
 
 _\[ Flame Strike \]_
@@ -2515,7 +2598,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Communication à distance
+Communication à distance (niveau 3)
+
 ========================
 
 _\[ Sending \]_
@@ -2545,7 +2629,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Communication avec les animaux
+Communication avec les animaux (niveau 1)
+
 ==============================
 
 _\[ Speak with Animals \]_
@@ -2574,7 +2659,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Communication avec les morts
+Communication avec les morts (niveau 3)
+
 ============================
 
 _\[ Speak with Dead \]_
@@ -2604,7 +2690,8 @@ Magicien _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Communication avec les plantes
+Communication avec les plantes (niveau 3)
+
 ==============================
 
 _\[ Speak with Plants \]_
@@ -2637,7 +2724,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Communion
+Communion (niveau 5)
+
 =========
 
 _\[ Commune \]_
@@ -2662,7 +2750,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Communion avec la nature
+Communion avec la nature (niveau 5)
+
 ========================
 
 _\[ Commune with Nature \]_
@@ -2695,7 +2784,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Compréhension des langues
+Compréhension des langues (niveau 1)
+
 =========================
 
 _\[ Comprehend Languages \]_
@@ -2728,7 +2818,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Compulsion
+Compulsion (niveau 4)
+
 ==========
 
 _\[ Compulsion \]_
@@ -2752,7 +2843,8 @@ Barde
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Cône de froid
+Cône de froid (niveau 5)
+
 =============
 
 _\[ Cone of Cold \]_
@@ -2782,7 +2874,8 @@ Druide _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Confusion
+Confusion (niveau 4)
+
 =========
 
 _\[ Confusion \]_
@@ -2825,7 +2918,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Contact avec un autre plan
+Contact avec un autre plan (niveau 5)
+
 ==========================
 
 _\[ Contact Other Plane \]_ _\[ Contact avec les plans \]_
@@ -2852,7 +2946,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Contact glacial
+Contact glacial (niveau 0)
+
 ===============
 
 _\[ Chill Touch \]_
@@ -2882,7 +2977,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Contagion
+Contagion (niveau 5)
+
 =========
 
 _\[ Contagion \]_
@@ -2916,7 +3012,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Contamination
+Contamination (niveau 6)
+
 =============
 
 _\[ Harm \]_
@@ -2939,7 +3036,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Contrat
+Contrat (niveau 5)
+
 =======
 
 _\[ Planar Binding \]_ _\[ Entrave planaire \]_
@@ -2976,7 +3074,8 @@ Occultiste _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Contresort
+Contresort (niveau 3)
+
 ==========
 
 _\[ Counterspell \]_
@@ -3006,7 +3105,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Contrôle de l'eau
+Contrôle de l'eau (niveau 4)
+
 =================
 
 _\[ Control Water \]_
@@ -3041,7 +3141,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Contrôle des flammes
+Contrôle des flammes (niveau 0)
+
 ====================
 
 _\[ Control Flames \]_
@@ -3075,7 +3176,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Contrôle des vents
+Contrôle des vents (niveau 5)
+
 ==================
 
 _\[ Control Winds \]_
@@ -3107,7 +3209,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Contrôle du climat
+Contrôle du climat (niveau 8)
+
 ==================
 
 _\[ Control Weather \]_
@@ -3171,7 +3274,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Convocation d'aberration
+Convocation d'aberration (niveau 4)
+
 ========================
 
 _\[ Summon Aberration \]_
@@ -3199,7 +3303,8 @@ Occultiste
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Convocation d'artificiel
+Convocation d'artificiel (niveau 4)
+
 ========================
 
 _\[ Summon Construct \]_
@@ -3224,7 +3329,8 @@ Magicien
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Convocation d'élémentaire
+Convocation d'élémentaire (niveau 4)
+
 =========================
 
 _\[ Summon Elemental \]_
@@ -3255,7 +3361,8 @@ Rôdeur
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Convocation d'esprit draconique
+Convocation d'esprit draconique (niveau 5)
+
 ===============================
 
 _\[ Summon Draconic Spirit \]_
@@ -3286,7 +3393,8 @@ Magicien
 Fizban´s Treasury of Dragons
 {: .label .label-red }
 
-Convocation de bête
+Convocation de bête (niveau 2)
+
 ===================
 
 _\[ Summon Beast \]_
@@ -3314,7 +3422,8 @@ Rôdeur
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Convocation de céleste
+Convocation de céleste (niveau 5)
+
 ======================
 
 _\[ Summon Celestial \]_
@@ -3342,7 +3451,8 @@ Paladin
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Convocation de démon majeur
+Convocation de démon majeur (niveau 4)
+
 ===========================
 
 _\[ Summon Greater Demon \]_
@@ -3370,7 +3480,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Convocation de démons mineurs
+Convocation de démons mineurs (niveau 3)
+
 =============================
 
 _\[ Summon Lesser Demons \]_
@@ -3407,7 +3518,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Convocation de fée
+Convocation de fée (niveau 3)
+
 ==================
 
 _\[ Summon Fey \]_
@@ -3442,7 +3554,8 @@ Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
 
-Convocation de fiélon
+Convocation de fiélon (niveau 6)
+
 =====================
 
 _\[ Summon Fiend \]_
@@ -3471,7 +3584,8 @@ Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
 
-Convocation de mort-vivant
+Convocation de mort-vivant (niveau 3)
+
 ==========================
 
 _\[ Summon Undead \]_
@@ -3500,7 +3614,8 @@ Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
 
-Convocation de rejeton d'ombre
+Convocation de rejeton d'ombre (niveau 3)
+
 ==============================
 
 _\[ Summon Shadowspawn \]_ \[ Convocation d'ombreux \]
@@ -3529,7 +3644,8 @@ Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
 
-Convocations instantanées de Drawmij
+Convocations instantanées de Drawmij (niveau 6)
+
 ====================================
 
 \[ Drawmij's Instant Summons \]
@@ -3555,7 +3671,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Coquille antivie
+Coquille antivie (niveau 5)
+
 ================
 
 _\[ Antilife Shell \]_
@@ -3580,7 +3697,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Corde enchantée
+Corde enchantée (niveau 2)
+
 ===============
 
 _\[ Rope Trick \]_
@@ -3606,7 +3724,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Cordon de flèches
+Cordon de flèches (niveau 2)
+
 =================
 
 _\[ Cordon of Arrows \]_
@@ -3631,7 +3750,8 @@ Rôdeur
 Player´s Handbook
 {: .label .label-red }
 
-Costume d'Outremonde de Tasha
+Costume d'Outremonde de Tasha (niveau 6)
+
 =============================
 
 \[ Tasha's Otherworldly Guise \]
@@ -3663,7 +3783,8 @@ Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
 
-Couleurs dansantes
+Couleurs dansantes (niveau 1)
+
 ==================
 
 _\[ Color Spray \]_
@@ -3694,7 +3815,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Coup au but
+Coup au but (niveau 0)
+
 ===========
 
 _\[ True Strike \]_
@@ -3726,7 +3848,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Coup de tonnerre
+Coup de tonnerre (niveau 0)
+
 ================
 
 _\[ Thunderclap \]_
@@ -3762,7 +3885,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Couronne d'étoiles
+Couronne d'étoiles (niveau 7)
+
 ==================
 
 _\[ Crown of Stars \]_
@@ -3793,7 +3917,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Couronne du dément
+Couronne du dément (niveau 2)
+
 ==================
 
 _\[ Crown of Madness \]_
@@ -3828,7 +3953,8 @@ Occultiste
 Player´s Handbook
 {: .label .label-red }
 
-Couteau de glace
+Couteau de glace (niveau 1)
+
 ================
 
 _\[ Ice Knife \]_
@@ -3858,7 +3984,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Création
+Création (niveau 5)
+
 ========
 
 _\[ Creation \]_
@@ -3897,7 +4024,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Création d'homoncule
+Création d'homoncule (niveau 6)
+
 ====================
 
 _\[ Create Homunculus \]_
@@ -3922,7 +4050,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Création de mort-vivant
+Création de mort-vivant (niveau 6)
+
 =======================
 
 _\[ Create Undead \]_
@@ -3954,7 +4083,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Création de nourriture et d'eau
+Création de nourriture et d'eau (niveau 3)
+
 ===============================
 
 _\[ Create Food and Water \]_
@@ -3980,7 +4110,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Création ou destruction d'eau
+Création ou destruction d'eau (niveau 1)
+
 =============================
 
 _\[ Create or Destroy Water \]_
@@ -4009,7 +4140,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Croissance d'épines
+Croissance d'épines (niveau 2)
+
 ===================
 
 _\[ Spike Growth \]_
@@ -4036,7 +4168,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Croissance végétale
+Croissance végétale (niveau 3)
+
 ===================
 
 _\[ Plant Growth \]_
@@ -4068,7 +4201,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Danse irrésistible d'Otto
+Danse irrésistible d'Otto (niveau 6)
+
 =========================
 
 \[ Otto's Irresistible Dance \]
@@ -4095,7 +4229,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Danse macabre
+Danse macabre (niveau 5)
+
 =============
 
 _\[ Danse Macabre \]_
@@ -4123,7 +4258,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Déblocage
+Déblocage (niveau 2)
+
 =========
 
 _\[ Knock \]_
@@ -4154,7 +4290,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Décharge occulte
+Décharge occulte (niveau 0)
+
 ================
 
 _\[ Eldritch Blast \]_
@@ -4178,7 +4315,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Dédale
+Dédale (niveau 8)
+
 ======
 
 _\[ Maze \]_
@@ -4203,7 +4341,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Déguisement
+Déguisement (niveau 1)
+
 ===========
 
 _\[ Disguise Self \]_
@@ -4234,7 +4373,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Délivrance des malédictions
+Délivrance des malédictions (niveau 3)
+
 ===========================
 
 _\[ Remove Curse \]_
@@ -4266,7 +4406,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Déluge d'énergie négative
+Déluge d'énergie négative (niveau 5)
+
 =========================
 
 _\[ Negative Energy Flood \]_
@@ -4294,7 +4435,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Demi-plan
+Demi-plan (niveau 8)
+
 =========
 
 _\[ Demiplane \]_
@@ -4321,7 +4463,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Désintégration
+Désintégration (niveau 6)
+
 ==============
 
 _\[ Disintegrate \]_
@@ -4351,7 +4494,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Détection de la magie
+Détection de la magie (niveau 1)
+
 =====================
 
 _\[ Detect Magic \]_
@@ -4393,7 +4537,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Détection des pensées
+Détection des pensées (niveau 2)
+
 =====================
 
 _\[ Detect Thoughts \]_
@@ -4426,7 +4571,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Détection du mal et du bien
+Détection du mal et du bien (niveau 1)
+
 ===========================
 
 _\[ Detect Evil and Good \]_
@@ -4453,7 +4599,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Détection du poison et des maladies
+Détection du poison et des maladies (niveau 1)
+
 ===================================
 
 _\[ Detect Poison and Disease \]_
@@ -4486,7 +4633,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Discours captivant
+Discours captivant (niveau 2)
+
 ==================
 
 _\[ Enthrall \]_
@@ -4512,7 +4660,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Dispersion
+Dispersion (niveau 6)
+
 ==========
 
 _\[ Scatter \]_
@@ -4543,7 +4692,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Disque flottant de Tenser
+Disque flottant de Tenser (niveau 1)
+
 =========================
 
 \[ Tenser's Floating Disk \]
@@ -4568,7 +4718,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Dissimulation
+Dissimulation (niveau 7)
+
 =============
 
 _\[ Sequester \] \[ Dissimulation suprême \]_
@@ -4593,7 +4744,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Dissipation de la magie
+Dissipation de la magie (niveau 3)
+
 =======================
 
 _\[ Dispel Magic \]_
@@ -4635,7 +4787,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Dissipation du mal et du bien
+Dissipation du mal et du bien (niveau 5)
+
 =============================
 
 _\[ Dispel Evil and Good \]_
@@ -4664,7 +4817,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Divination
+Divination (niveau 4)
+
 ==========
 
 _\[ Divination \]_
@@ -4695,7 +4849,8 @@ Magicien _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Doigt de mort
+Doigt de mort (niveau 7)
+
 =============
 
 _\[ Finger of Death \]_
@@ -4725,7 +4880,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Domination de bête
+Domination de bête (niveau 4)
+
 ==================
 
 _\[ Dominate Beast \]_ \[ Domination d'animal \]
@@ -4757,7 +4913,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Domination de monstre
+Domination de monstre (niveau 8)
+
 =====================
 
 _\[ Dominate Monster \]_
@@ -4793,7 +4950,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Domination de personne
+Domination de personne (niveau 5)
+
 ======================
 
 _\[ Dominate Person \]_
@@ -4826,7 +4984,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Don des langues
+Don des langues (niveau 3)
+
 ===============
 
 _\[ Tongues \]_
@@ -4861,7 +5020,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Double illusoire
+Double illusoire (niveau 5)
+
 ================
 
 _\[ Mislead \]_
@@ -4892,7 +5052,8 @@ Occultiste _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Dragon illusoire
+Dragon illusoire (niveau 8)
+
 ================
 
 _\[ Illusory Dragon \]_
@@ -4917,7 +5078,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Druidisme
+Druidisme (niveau 0)
+
 =========
 
 _\[ Druidcraft \]_
@@ -4944,7 +5106,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Duel forcé
+Duel forcé (niveau 1)
+
 ==========
 
 _\[ Compelled Duel \]_
@@ -4968,7 +5131,8 @@ Paladin
 Player´s Handbook
 {: .label .label-red }
 
-Éclair
+Éclair (niveau 3)
+
 ======
 
 _\[ Lightning Bolt \]_
@@ -4996,7 +5160,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Éclair de chaos
+Éclair de chaos (niveau 1)
+
 ===============
 
 _\[ Chaos Bolt \]_
@@ -5034,7 +5199,8 @@ Ensorceleur
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Éclair traçant
+Éclair traçant (niveau 1)
+
 ==============
 
 _\[ Guiding Bolt \]_ \[ Rayon traçant \]
@@ -5058,7 +5224,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Éclat du soleil
+Éclat du soleil (niveau 8)
+
 ===============
 
 _\[ Sunburst \]_
@@ -5092,7 +5259,8 @@ Clerc _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Embrasement
+Embrasement (niveau 0)
+
 ===========
 
 _\[ Create Bonfire \]_
@@ -5126,7 +5294,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Emprisonnement
+Emprisonnement (niveau 9)
+
 ==============
 
 _\[ Imprisonment \]_
@@ -5165,7 +5334,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Enchevêtrement
+Enchevêtrement (niveau 1)
+
 ==============
 
 _\[ Entangle \]_
@@ -5193,7 +5363,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Énervation
+Énervation (niveau 5)
+
 ==========
 
 _\[ Enervation \]_
@@ -5224,7 +5395,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Ennemi subconscient
+Ennemi subconscient (niveau 9)
+
 ===================
 
 _\[ Weird \]_
@@ -5250,7 +5422,8 @@ Occultiste _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Ennemis à foison
+Ennemis à foison (niveau 3)
+
 ================
 
 _\[ Enemies Abound \]_
@@ -5283,7 +5456,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Entraves de givre
+Entraves de givre (niveau 2)
+
 =================
 
 \[ Rime's Binding Ice \]
@@ -5311,7 +5485,8 @@ Magicien
 Fizban´s Treasury of Dragons
 {: .label .label-red }
 
-Épée de Mordenkainen
+Épée de Mordenkainen (niveau 7)
+
 ====================
 
 \[ Mordenkainen's Sword \]
@@ -5338,7 +5513,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Épine mentale
+Épine mentale (niveau 2)
+
 =============
 
 _\[ Mind Spike \]_
@@ -5368,7 +5544,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Éruption de lames
+Éruption de lames (niveau 0)
+
 =================
 
 _\[ Sword Burst \]_
@@ -5399,7 +5576,8 @@ Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
 
-Éruption de terre
+Éruption de terre (niveau 3)
+
 =================
 
 _\[ Erupting Earth \]_
@@ -5429,7 +5607,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Espièglerie de Nathair
+Espièglerie de Nathair (niveau 2)
+
 ======================
 
 \[ Nathair's Mischief \]
@@ -5460,7 +5639,8 @@ Magicien
 Fizban´s Treasury of Dragons
 {: .label .label-red }
 
-Esprit faible
+Esprit faible (niveau 8)
+
 =============
 
 _\[ Feeblemind \]_
@@ -5495,7 +5675,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Esprit guérisseur
+Esprit guérisseur (niveau 2)
+
 =================
 
 _\[ Healing Spirit \]_
@@ -5524,7 +5705,8 @@ Rôdeur
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Esprit impénétrable
+Esprit impénétrable (niveau 8)
+
 ===================
 
 _\[ Mind Blank \]_
@@ -5550,7 +5732,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Esprits gardiens
+Esprits gardiens (niveau 3)
+
 ================
 
 _\[ Spirit Guardians \]_
@@ -5575,7 +5758,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Éveil
+Éveil (niveau 5)
+
 =====
 
 _\[ Awaken \]_
@@ -5603,7 +5787,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Fabrication
+Fabrication (niveau 4)
+
 ===========
 
 _\[ Fabricate \]_
@@ -5628,7 +5813,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Façonnage de l'eau
+Façonnage de l'eau (niveau 0)
+
 ==================
 
 _\[ Shape Water \]_
@@ -5662,7 +5848,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Façonnage de la pierre
+Façonnage de la pierre (niveau 4)
+
 ======================
 
 _\[ Stone Shape \]_
@@ -5691,7 +5878,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Façonnage de la terre
+Façonnage de la terre (niveau 0)
+
 =====================
 
 _\[ Mold Earth \]_
@@ -5724,7 +5912,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Faveur divine
+Faveur divine (niveau 1)
+
 =============
 
 _\[ Divine Favor \]_
@@ -5747,7 +5936,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Ferrage foudroyant
+Ferrage foudroyant (niveau 0)
+
 ==================
 
 _\[ Lightning Lure \]_ _\[ Ferrage fulgurant \]_
@@ -5777,7 +5967,8 @@ Occultiste
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Festin des héros
+Festin des héros (niveau 6)
+
 ================
 
 \[ Heroes' Feast \]
@@ -5807,7 +5998,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Feuille morte
+Feuille morte (niveau 1)
+
 =============
 
 _\[ Feather Fall \]_
@@ -5836,7 +6028,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Flambée d'Aganazzar
+Flambée d'Aganazzar (niveau 2)
+
 ===================
 
 \[ Aganazzar's Scorcher \]
@@ -5863,7 +6056,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Flamme éternelle
+Flamme éternelle (niveau 2)
+
 ================
 
 _\[ Continual Flame \]_
@@ -5892,7 +6086,8 @@ Druide _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Flamme sacrée
+Flamme sacrée (niveau 0)
+
 =============
 
 _\[ Sacred Flame \]_
@@ -5916,7 +6111,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Flammes
+Flammes (niveau 0)
+
 =======
 
 _\[ Produce Flame \]_
@@ -5941,7 +6137,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Fléau
+Fléau (niveau 1)
+
 =====
 
 _\[ Bane \] \[ Imprécation \]_
@@ -5968,7 +6165,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Fléau d'insectes
+Fléau d'insectes (niveau 5)
+
 ================
 
 _\[ Insect Plague \]_
@@ -5999,7 +6197,8 @@ Ensorceleur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Fléau élémentaire
+Fléau élémentaire (niveau 4)
+
 =================
 
 _\[ Elemental Bane \]_
@@ -6029,7 +6228,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Flèche acide de Melf
+Flèche acide de Melf (niveau 2)
+
 ====================
 
 \[ Melf's Acid Arrow \]
@@ -6053,7 +6253,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Flèche de foudre
+Flèche de foudre (niveau 3)
+
 ================
 
 _\[ Lightning Arrow \]_
@@ -6079,7 +6280,8 @@ Rôdeur
 Player´s Handbook
 {: .label .label-red }
 
-Flèches enflammées
+Flèches enflammées (niveau 3)
+
 ==================
 
 _\[ Flame Arrows \]_
@@ -6112,7 +6314,8 @@ Rôdeur
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Flétrissement
+Flétrissement (niveau 4)
+
 =============
 
 _\[ Blight \]_
@@ -6146,7 +6349,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Flétrissure épouvantable d'Abi-Dalzim
+Flétrissure épouvantable d'Abi-Dalzim (niveau 8)
+
 =====================================
 
 \[ Abi-Dalzim's Horrid Wilting \]
@@ -6173,7 +6377,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Flou
+Flou (niveau 2)
+
 ====
 
 _\[ Blur \]_
@@ -6199,7 +6404,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Force fantasmagorique
+Force fantasmagorique (niveau 2)
+
 =====================
 
 _\[ Phantasmal Force \]_
@@ -6233,7 +6439,8 @@ Player´s Handbook (BR+)
 {: .label .label-red }
 
 
-Forme éthérée
+Forme éthérée (niveau 7)
+
 =============
 
 _\[ Etherealness \]_
@@ -6273,7 +6480,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Forme gazeuse
+Forme gazeuse (niveau 3)
+
 =============
 
 _\[ Gaseous Form \]_
@@ -6304,7 +6512,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Formes animales
+Formes animales (niveau 8)
+
 ===============
 
 _\[ Animal Shapes \] \[ Métamorphose animale \]_
@@ -6330,7 +6539,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Forteresse d'intellect
+Forteresse d'intellect (niveau 3)
+
 ======================
 
 _\[ Intellect Fortress \]_ _\[ Forteresse mentale \]_
@@ -6363,7 +6573,8 @@ Occultiste
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Forteresse majestueuse
+Forteresse majestueuse (niveau 8)
+
 ======================
 
 _\[ Mighty Fortress \]_
@@ -6388,7 +6599,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Fou rire de Tasha
+Fou rire de Tasha (niveau 1)
+
 =================
 
 \[ Tasha's Hideous Laughter \]
@@ -6415,7 +6627,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Fouet épineux
+Fouet épineux (niveau 0)
+
 =============
 
 _\[ Thorn Whip \]_
@@ -6466,7 +6679,8 @@ Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
 
-Foulée brumeuse
+Foulée brumeuse (niveau 2)
+
 ===============
 
 _\[ Misty Step \]_
@@ -6495,7 +6709,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Foulée d'Ashardalon
+Foulée d'Ashardalon (niveau 3)
+
 ===================
 
 \[ Ashardalon's Stride \]
@@ -6526,7 +6741,8 @@ Rôdeur
 Fizban´s Treasury of Dragons
 {: .label .label-red }
 
-Foulée dimensionnelle
+Foulée dimensionnelle (niveau 5)
+
 =====================
 
 _\[ Far Step \]_
@@ -6557,7 +6773,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Foulée tonitruante
+Foulée tonitruante (niveau 3)
+
 ==================
 
 _\[ Thunder Step \]_
@@ -6587,7 +6804,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Fracassement
+Fracassement (niveau 2)
+
 ============
 
 _\[ Shatter \]_
@@ -6621,7 +6839,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Frappe du vent d'acier
+Frappe du vent d'acier (niveau 5)
+
 ======================
 
 _\[ Steel Wind Strike \]_
@@ -6649,7 +6868,8 @@ Rôdeur
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Frappe du zéphyr
+Frappe du zéphyr (niveau 1)
+
 ================
 
 _\[ Zephyr Strike \]_
@@ -6673,7 +6893,8 @@ Rôdeur
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Frappe piégeuse
+Frappe piégeuse (niveau 1)
+
 ===============
 
 _\[ Ensnaring Strike \]_
@@ -6698,7 +6919,8 @@ Rôdeur
 Player´s Handbook
 {: .label .label-red }
 
-Frayeur
+Frayeur (niveau 1)
+
 =======
 
 _\[ Cause Fear \]_
@@ -6725,7 +6947,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Fureur de la nature
+Fureur de la nature (niveau 5)
+
 ===================
 
 _\[ Wrath of Nature \]_
@@ -6753,7 +6976,8 @@ Rôdeur
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Fusion dans la pierre
+Fusion dans la pierre (niveau 3)
+
 =====================
 
 _\[ Meld into Stone \]_
@@ -6784,7 +7008,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Gardien de la foi
+Gardien de la foi (niveau 4)
+
 =================
 
 _\[ Guardian of Faith \]_
@@ -6808,7 +7033,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Gardien de la nature
+Gardien de la nature (niveau 4)
+
 ====================
 
 _\[ Guardian of Nature \]_
@@ -6844,7 +7070,8 @@ Rôdeur
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Gelure
+Gelure (niveau 0)
+
 ======
 
 _\[ Frostbite \]_
@@ -6877,7 +7104,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Glas
+Glas (niveau 0)
+
 ====
 
 _\[ Toll the Dead \]_
@@ -6907,7 +7135,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Globe d'invulnérabilité
+Globe d'invulnérabilité (niveau 6)
+
 =======================
 
 _\[ Globe of Invulnerability \]_
@@ -6935,7 +7164,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Glyphe de protection
+Glyphe de protection (niveau 3)
+
 ====================
 
 _\[ Glyph of Warding \]_ _\[ Glyphe de garde \]_
@@ -6971,7 +7201,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Gourdin magique
+Gourdin magique (niveau 0)
+
 ===============
 
 _\[ Shillelagh \]_ _\[ Crosse des druides \]_
@@ -6994,7 +7225,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Graisse
+Graisse (niveau 1)
+
 =======
 
 _\[ Grease \]_
@@ -7021,7 +7253,8 @@ Ensorceleur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Grande foulée
+Grande foulée (niveau 1)
+
 =============
 
 _\[ Longstrider \]_
@@ -7054,7 +7287,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Grêle d'épines
+Grêle d'épines (niveau 1)
+
 ==============
 
 _\[ Hail of Thorns \]_
@@ -7078,7 +7312,8 @@ Rôdeur
 Player´s Handbook
 {: .label .label-red }
 
-Guérison
+Guérison (niveau 6)
+
 ========
 
 _\[ Heal \]_
@@ -7105,7 +7340,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Guérison de groupe
+Guérison de groupe (niveau 9)
+
 ==================
 
 _\[ Mass Heal \]_
@@ -7128,7 +7364,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Hâte
+Hâte (niveau 3)
+
 ====
 
 _\[ Haste \]_
@@ -7155,7 +7392,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Héroïsme
+Héroïsme (niveau 1)
+
 ========
 
 _\[ Heroism \]_
@@ -7182,7 +7420,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Hurlement psychique
+Hurlement psychique (niveau 9)
+
 ===================
 
 _\[ Psychic Scream \]_
@@ -7216,7 +7455,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Identification
+Identification (niveau 1)
+
 ==============
 
 _\[ Identify \]_
@@ -7243,7 +7483,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Illusion mineure
+Illusion mineure (niveau 0)
+
 ================
 
 _\[ Minor Illusion \]_
@@ -7278,7 +7519,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Illusion programmée
+Illusion programmée (niveau 6)
+
 ===================
 
 _\[ Programmed Illusion \]_
@@ -7307,7 +7549,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Image majeure
+Image majeure (niveau 3)
+
 =============
 
 _\[ Major Image \]_
@@ -7342,7 +7585,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Image miroir
+Image miroir (niveau 2)
+
 ============
 
 _\[ Mirror Image \]_
@@ -7378,7 +7622,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Image silencieuse
+Image silencieuse (niveau 1)
+
 =================
 
 _\[ Silent Image \]_
@@ -7409,7 +7654,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Immobilisation de monstre
+Immobilisation de monstre (niveau 5)
+
 =========================
 
 _\[ Hold Monster \]_
@@ -7442,7 +7688,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Immobilisation de personne
+Immobilisation de personne (niveau 2)
+
 ==========================
 
 _\[ Hold Person \]_
@@ -7481,7 +7728,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Immolation
+Immolation (niveau 5)
+
 ==========
 
 _\[ Immolation \]_ _\[ Immolation ardente \]_
@@ -7508,7 +7756,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Infestation
+Infestation (niveau 0)
+
 ===========
 
 _\[ Infestation \]_
@@ -7541,7 +7790,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Injonction
+Injonction (niveau 1)
+
 ==========
 
 _\[ Command \]_
@@ -7577,7 +7827,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Insecte géant
+Insecte géant (niveau 4)
+
 =============
 
 _\[ Giant Insect \]_
@@ -7603,7 +7854,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Interdiction
+Interdiction (niveau 6)
+
 ============
 
 _\[ Forbiddance \]_
@@ -7629,7 +7881,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Inversion de la gravité
+Inversion de la gravité (niveau 7)
+
 =======================
 
 _\[ Reverse Gravity \]_
@@ -7660,7 +7913,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Invisibilité
+Invisibilité (niveau 2)
+
 ============
 
 _\[ Invisibility \]_
@@ -7693,7 +7947,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Invisibilité supérieure
+Invisibilité supérieure (niveau 4)
+
 =======================
 
 _\[ Greater Invisibility \] \[ Invisibilité suprême \]_
@@ -7722,7 +7977,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Invocation d'animaux
+Invocation d'animaux (niveau 3)
+
 ====================
 
 _\[ Conjure Animals \]_
@@ -7754,7 +8010,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Invocation d'élémentaire
+Invocation d'élémentaire (niveau 5)
+
 ========================
 
 _\[ Conjure Elemental \]_
@@ -7782,7 +8039,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Invocation d'élémentaires mineurs
+Invocation d'élémentaires mineurs (niveau 4)
+
 =================================
 
 _\[ Conjure Minor Elementals \]_
@@ -7815,7 +8073,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Invocation d'êtres sylvestres
+Invocation d'êtres sylvestres (niveau 4)
+
 =============================
 
 _\[ Conjure Woodland Beings \]_
@@ -7848,7 +8107,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Invocation de céleste
+Invocation de céleste (niveau 7)
+
 =====================
 
 _\[ Conjure Celestial \]_
@@ -7873,7 +8133,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Invocation de fée
+Invocation de fée (niveau 6)
+
 =================
 
 _\[ Conjure Fey \]_
@@ -7902,7 +8163,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Invocation de projectiles
+Invocation de projectiles (niveau 3)
+
 =========================
 
 _\[ Conjure Barrage \] \[ Hérissement de projectiles \]_
@@ -7925,7 +8187,8 @@ Rôdeur
 Player´s Handbook
 {: .label .label-red }
 
-Invocation de volée
+Invocation de volée (niveau 5)
+
 ===================
 
 _\[ Conjure Volley \]_
@@ -7948,7 +8211,8 @@ Rôdeur
 Player´s Handbook
 {: .label .label-red }
 
-Invulnérabilité
+Invulnérabilité (niveau 9)
+
 ===============
 
 _\[ Invulnerability \]_
@@ -7973,7 +8237,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Lame aux flammes vertes
+Lame aux flammes vertes (niveau 0)
+
 =======================
 
 \[ Green-Flame Blade \] _\[ Lame des flammes vertes \]_
@@ -8003,7 +8268,8 @@ Occultiste
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Lame d'ombres
+Lame d'ombres (niveau 2)
+
 =============
 
 _\[ Shadow Blade \]_
@@ -8033,7 +8299,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Lame de feu
+Lame de feu (niveau 2)
+
 ===========
 
 _\[ Flame Blade \]_
@@ -8062,7 +8329,8 @@ Ensorceleur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Lame du désastre
+Lame du désastre (niveau 9)
+
 ================
 
 _\[ Blade of Disaster \]_
@@ -8093,7 +8361,8 @@ Occultiste
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Lame retentissante
+Lame retentissante (niveau 0)
+
 ==================
 
 _\[ Booming Blade \]_
@@ -8123,7 +8392,8 @@ Occultiste
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Lance d'arçon psychique de Raulothim
+Lance d'arçon psychique de Raulothim (niveau 4)
+
 ====================================
 
 \[ Raulothim's Psychic Lance \] _\[ Lance psychique de Raulothim \]_
@@ -8157,7 +8427,8 @@ Occultiste
 Fizban´s Treasury of Dragons
 {: .label .label-red }
 
-Lenteur
+Lenteur (niveau 3)
+
 =======
 
 _\[ Slow \]_
@@ -8189,7 +8460,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Lévitation
+Lévitation (niveau 2)
+
 ==========
 
 _\[ Levitate \]_
@@ -8216,7 +8488,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Liane avide
+Liane avide (niveau 4)
+
 ===========
 
 _\[ Grasping Vine \]_
@@ -8243,7 +8516,8 @@ Rôdeur
 Player´s Handbook
 {: .label .label-red }
 
-Libellé aérien
+Libellé aérien (niveau 2)
+
 ==============
 
 _\[ Skywrite \]_
@@ -8272,7 +8546,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Liberté de mouvement
+Liberté de mouvement (niveau 4)
+
 ====================
 
 _\[ Freedom of Movement \]_
@@ -8305,7 +8580,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Lien avec une bête
+Lien avec une bête (niveau 1)
+
 ==================
 
 _\[ Beast Bond \]_
@@ -8331,7 +8607,8 @@ Rôdeur
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Lien de protection
+Lien de protection (niveau 2)
+
 ==================
 
 _\[ Warding Bond \]_
@@ -8358,7 +8635,8 @@ Paladin _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Lien télépathique de Rary
+Lien télépathique de Rary (niveau 5)
+
 =========================
 
 \[ Rary's Telepathic Bond \]
@@ -8385,7 +8663,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Localisation d'animaux ou de plantes
+Localisation d'animaux ou de plantes (niveau 2)
+
 ====================================
 
 _\[ Locate Animals or Plants \]_
@@ -8414,7 +8693,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Localisation d'objet
+Localisation d'objet (niveau 2)
+
 ====================
 
 _\[ Locate Object \]_
@@ -8454,7 +8734,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Localisation de créature
+Localisation de créature (niveau 4)
+
 ========================
 
 _\[ Locate Creature \]_
@@ -8494,7 +8775,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Lueur d'espoir
+Lueur d'espoir (niveau 3)
+
 ==============
 
 _\[ Beacon of Hope \]_
@@ -8517,7 +8799,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Lueurs féeriques
+Lueurs féeriques (niveau 1)
+
 ================
 
 _\[ Faerie Fire \]_
@@ -8544,7 +8827,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Lumière
+Lumière (niveau 0)
+
 =======
 
 _\[ Light \]_
@@ -8577,7 +8861,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Lumière du jour
+Lumière du jour (niveau 3)
+
 ===============
 
 _\[ Daylight \]_
@@ -8614,7 +8899,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Lumières dansantes
+Lumières dansantes (niveau 0)
+
 ==================
 
 _\[ Dancing Lights \]_
@@ -8644,7 +8930,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Maelström
+Maelström (niveau 5)
+
 =========
 
 _\[ Maelstrom \]_
@@ -8667,7 +8954,8 @@ Druide
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Main de Bigby
+Main de Bigby (niveau 5)
+
 =============
 
 \[ Bigby's Hand \]
@@ -8700,7 +8988,8 @@ Ensorceleur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Main de mage
+Main de mage (niveau 0)
+
 ============
 
 _\[ Mage Hand \]_ _\[ Main du mage \]_
@@ -8734,7 +9023,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mains brûlantes
+Mains brûlantes (niveau 1)
+
 ===============
 
 _\[ Burning Hands \]_
@@ -8761,7 +9051,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Malédiction
+Malédiction (niveau 3)
+
 ===========
 
 _\[ Bestow Curse \]_
@@ -8796,7 +9087,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Maléfice
+Maléfice (niveau 1)
+
 ========
 
 _\[ Hex \]_
@@ -8849,7 +9141,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Marche sur l'eau
+Marche sur l'eau (niveau 3)
+
 ================
 
 _\[ Water Walk \]_ \[ Marche sur l'onde \]
@@ -8882,7 +9175,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Marche sur le vent
+Marche sur le vent (niveau 6)
+
 ==================
 
 _\[ Wind Walk \]_ _\[ Vent divin \]_
@@ -8906,7 +9200,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Marque du chasseur
+Marque du chasseur (niveau 1)
+
 ==================
 
 \[ Hunter's Mark \]
@@ -8930,7 +9225,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mauvais oeil
+Mauvais oeil (niveau 6)
+
 ============
 
 _\[ Eyebite \]_
@@ -8965,7 +9261,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Message
+Message (niveau 0)
+
 =======
 
 _\[ Message \]_
@@ -8994,7 +9291,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Messager animal
+Messager animal (niveau 2)
+
 ===============
 
 _\[ Animal Messenger \]_
@@ -9025,7 +9323,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Métal brûlant
+Métal brûlant (niveau 2)
+
 =============
 
 _\[ Heat Metal \]_
@@ -9053,7 +9352,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Métamorphose
+Métamorphose (niveau 4)
+
 ============
 
 _\[ Polymorph \]_
@@ -9089,7 +9389,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Métamorphose de groupe
+Métamorphose de groupe (niveau 9)
+
 ======================
 
 _\[ Mass Polymorph \]_
@@ -9120,7 +9421,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Métamorphose suprême
+Métamorphose suprême (niveau 9)
+
 ====================
 
 _\[ True Polymorph \]_
@@ -9156,7 +9458,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Minuscules météores de Melf
+Minuscules météores de Melf (niveau 3)
+
 ===========================
 
 \[ Melf's Minute Meteors \]
@@ -9183,7 +9486,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Mirage
+Mirage (niveau 7)
+
 ======
 
 _\[ Mirage Arcane \]_
@@ -9215,7 +9519,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mixture caustique de Tasha
+Mixture caustique de Tasha (niveau 1)
+
 ==========================
 
 \[ Tasha's Caustic Brew \]
@@ -9244,7 +9549,8 @@ Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
 
-Modification d'apparence
+Modification d'apparence (niveau 2)
+
 ========================
 
 _\[ Alter Self \]_
@@ -9273,7 +9579,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Modification de mémoire
+Modification de mémoire (niveau 5)
+
 =======================
 
 _\[ Modify Memory \]_
@@ -9304,7 +9611,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Monture fantôme
+Monture fantôme (niveau 3)
+
 ===============
 
 _\[ Phantom Steed \]_
@@ -9328,7 +9636,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Moquerie cruelle
+Moquerie cruelle (niveau 0)
+
 ================
 
 _\[ Vicious Mockery \]_
@@ -9352,7 +9661,8 @@ Barde
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mort simulée
+Mort simulée (niveau 3)
+
 ============
 
 _\[ Feign Death \] \[ État cadavérique \]_
@@ -9385,7 +9695,8 @@ Magicien
 Player´s Handbook
 {: .label .label-red }
 
-Mot de guérison
+Mot de guérison (niveau 1)
+
 ===============
 
 _\[ Healing Word \]_
@@ -9415,7 +9726,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mot de guérison de groupe
+Mot de guérison de groupe (niveau 3)
+
 =========================
 
 _\[ Mass Healing Word \]_
@@ -9442,7 +9754,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mot de pouvoir douloureux
+Mot de pouvoir douloureux (niveau 7)
+
 =========================
 
 _\[ Power Word Pain \]_
@@ -9473,7 +9786,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Mot de pouvoir étourdissant
+Mot de pouvoir étourdissant (niveau 8)
+
 ===========================
 
 _\[ Power Word Stun \]_
@@ -9506,7 +9820,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mot de pouvoir guérisseur
+Mot de pouvoir guérisseur (niveau 9)
+
 =========================
 
 _\[ Power Word Heal \]_
@@ -9532,7 +9847,8 @@ Clerc _\[TCoE\]_
 Player´s Handbook
 {: .label .label-red }
 
-Mot de pouvoir mortel
+Mot de pouvoir mortel (niveau 9)
+
 =====================
 
 _\[ Power Word Kill \]_
@@ -9564,7 +9880,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mot de radiance
+Mot de radiance (niveau 0)
+
 ===============
 
 _\[ Word of Radiance \]_
@@ -9588,7 +9905,8 @@ Clerc
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Mot de retour
+Mot de retour (niveau 6)
+
 =============
 
 _\[ Word of Recall \]_
@@ -9612,7 +9930,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Motif hypnotique
+Motif hypnotique (niveau 3)
+
 ================
 
 _\[ Hypnotic Pattern \]_
@@ -9644,7 +9963,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mur d'eau
+Mur d'eau (niveau 3)
+
 =========
 
 _\[ Wall of Water \]_
@@ -9674,7 +9994,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Mur d'épines
+Mur d'épines (niveau 6)
+
 ============
 
 _\[ Wall of Thorns \]_
@@ -9700,7 +10021,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mur de feu
+Mur de feu (niveau 4)
+
 ==========
 
 _\[ Wall of Fire \]_
@@ -9733,7 +10055,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mur de force
+Mur de force (niveau 5)
+
 ============
 
 _\[ Wall of Force \]_
@@ -9757,7 +10080,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mur de glace
+Mur de glace (niveau 6)
+
 ============
 
 _\[ Wall of Ice \]_
@@ -9783,7 +10107,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mur de lumière
+Mur de lumière (niveau 5)
+
 ==============
 
 _\[ Wall of Light \]_
@@ -9814,7 +10139,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Mur de pierre
+Mur de pierre (niveau 5)
+
 =============
 
 _\[ Wall of Stone \]_
@@ -9848,7 +10174,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mur de sable
+Mur de sable (niveau 3)
+
 ============
 
 _\[ Wall of Sand \]_
@@ -9871,7 +10198,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Mur de vent
+Mur de vent (niveau 3)
+
 ===========
 
 _\[ Wind Wall \]_
@@ -9899,7 +10227,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Mur prismatique
+Mur prismatique (niveau 9)
+
 ===============
 
 _\[ Prismatic Wall \]_
@@ -9936,7 +10265,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Murmures dissonants
+Murmures dissonants (niveau 1)
+
 ===================
 
 _\[ Dissonant Whispers \]_
@@ -9961,7 +10291,8 @@ Player´s Handbook (BR+)
 {: .label .label-red }
 
 
-Mythes et légendes
+Mythes et légendes (niveau 5)
+
 ==================
 
 _\[ Legend Lore \]_
@@ -9991,7 +10322,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Nappe de brouillard
+Nappe de brouillard (niveau 1)
+
 ===================
 
 _\[ Fog Cloud \]_
@@ -10024,7 +10356,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Nuage incendiaire
+Nuage incendiaire (niveau 8)
+
 =================
 
 _\[ Incendiary Cloud \]_
@@ -10055,7 +10388,8 @@ Druide _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Nuage nauséabond
+Nuage nauséabond (niveau 3)
+
 ================
 
 _\[ Stinking Cloud \]_
@@ -10086,7 +10420,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Nuée de boules de neige de Snilloc
+Nuée de boules de neige de Snilloc (niveau 2)
+
 ==================================
 
 \[ Snilloc's Snowball Swarm \]
@@ -10113,7 +10448,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Nuée de dagues
+Nuée de dagues (niveau 2)
+
 ==============
 
 _\[ Cloud of Daggers \]_
@@ -10147,7 +10483,8 @@ Player´s Handbook (BR+)
 {: .label .label-red }
 
 
-Nuée de météores
+Nuée de météores (niveau 9)
+
 ================
 
 _\[ Meteor Swarm \]_
@@ -10174,7 +10511,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Oeil magique
+Oeil magique (niveau 4)
+
 ============
 
 _\[ Arcane Eye \]_ _\[ Oeil du mage \]_
@@ -10199,7 +10537,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Ombre d'égarement
+Ombre d'égarement (niveau 4)
+
 =================
 
 _\[ Shadow of Moil \]_
@@ -10222,7 +10561,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Orbe chromatique
+Orbe chromatique (niveau 1)
+
 ================
 
 _\[ Chromatic Orb \]_
@@ -10250,7 +10590,8 @@ Player´s Handbook (BR+)
 {: .label .label-red }
 
 
-Ossements de la Terre
+Ossements de la Terre (niveau 6)
+
 =====================
 
 _\[ Bones of the Earth \]_
@@ -10276,7 +10617,8 @@ Druide
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Parole divine
+Parole divine (niveau 7)
+
 =============
 
 _\[ Divine Word \]_
@@ -10304,7 +10646,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Passage par les arbres
+Passage par les arbres (niveau 5)
+
 ======================
 
 _\[ Tree Stride \]_
@@ -10331,7 +10674,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Passage sans trace
+Passage sans trace (niveau 2)
+
 ==================
 
 _\[ Pass without Trace \]_
@@ -10357,7 +10701,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Passe-muraille
+Passe-muraille (niveau 5)
+
 ==============
 
 _\[ Passwall \]_
@@ -10381,7 +10726,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Pattes d'araignée
+Pattes d'araignée (niveau 2)
+
 =================
 
 _\[ Spider Climb \]_
@@ -10410,7 +10756,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Peau d'écorce
+Peau d'écorce (niveau 2)
+
 =============
 
 _\[ Barkskin \]_
@@ -10436,7 +10783,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Peau de pierre
+Peau de pierre (niveau 4)
+
 ==============
 
 _\[ Stoneskin \]_
@@ -10468,7 +10816,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Perturbations synaptiques
+Perturbations synaptiques (niveau 5)
+
 =========================
 
 _\[ Synaptic Static \]_
@@ -10502,7 +10851,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Petite hutte de Léomund
+Petite hutte de Léomund (niveau 3)
+
 =======================
 
 \[ Leomund's Tiny Hut \]
@@ -10530,7 +10880,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Pétrification
+Pétrification (niveau 6)
+
 =============
 
 _\[ Flesh to Stone \]_
@@ -10565,7 +10916,8 @@ Ensorceleur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Peur
+Peur (niveau 3)
+
 ====
 
 _\[ Fear \]_ _\[ Terreur \]_
@@ -10597,7 +10949,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Pierre magique
+Pierre magique (niveau 0)
+
 ==============
 
 _\[ Magic Stone \]_
@@ -10624,7 +10977,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Piqûre mentale
+Piqûre mentale (niveau 0)
+
 ==============
 
 _\[ Mind Sliver \]_
@@ -10654,7 +11008,8 @@ Occultiste
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Poigne électrique
+Poigne électrique (niveau 0)
+
 =================
 
 _\[ Shocking Grasp \]_
@@ -10681,7 +11036,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Poigne terreuse de Maximilien
+Poigne terreuse de Maximilien (niveau 2)
+
 =============================
 
 \[ Maximilian's Earthen Grasp \]
@@ -10710,7 +11066,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Portail
+Portail (niveau 9)
+
 =======
 
 _\[ Gate \]_
@@ -10745,7 +11102,8 @@ Occultiste _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Portail magique
+Portail magique (niveau 6)
+
 ===============
 
 _\[ Arcane Gate \]_ _\[ Portail arcanique \]_
@@ -10776,7 +11134,8 @@ Occultiste
 Player´s Handbook
 {: .label .label-red }
 
-Porte dimensionnelle
+Porte dimensionnelle (niveau 4)
+
 ====================
 
 _\[ Dimension Door \]_
@@ -10810,7 +11169,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Prémonition
+Prémonition (niveau 9)
+
 ===========
 
 _\[ Foresight \]_
@@ -10843,7 +11203,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Préservation des morts
+Préservation des morts (niveau 2)
+
 ======================
 
 _\[ Gentle Repose \]_ _\[ Doux repos \]_
@@ -10873,7 +11234,8 @@ Paladin _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Prestidigitation
+Prestidigitation (niveau 0)
+
 ================
 
 _\[ Prestidigitation \]_
@@ -10912,7 +11274,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Prévoyance
+Prévoyance (niveau 6)
+
 ==========
 
 _\[ Contingency \]_ _\[ Anticipation \]_
@@ -10937,7 +11300,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Prière de guérison
+Prière de guérison (niveau 2)
+
 ==================
 
 _\[ Prayer of Healing \]_
@@ -10964,7 +11328,8 @@ Paladin _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Prison mentale
+Prison mentale (niveau 6)
+
 ==============
 
 _\[ Mental Prison \]_
@@ -10995,7 +11360,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Projectile magique
+Projectile magique (niveau 1)
+
 ==================
 
 _\[ Magic Missile \]_
@@ -11022,7 +11388,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Projection astrale
+Projection astrale (niveau 9)
+
 ==================
 
 _\[ Astral Projection \]_
@@ -11056,7 +11423,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Projection d'image
+Projection d'image (niveau 7)
+
 ==================
 
 _\[ Project Image \] \[ Image projetée \]_
@@ -11085,7 +11453,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Protection contre la mort
+Protection contre la mort (niveau 4)
+
 =========================
 
 _\[ Death Ward \]_
@@ -11113,7 +11482,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Protection contre le mal et le bien
+Protection contre le mal et le bien (niveau 1)
+
 ===================================
 
 _\[ Protection from Evil and Good \]_
@@ -11149,7 +11519,8 @@ Druide _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Protection contre le poison
+Protection contre le poison (niveau 2)
+
 ===========================
 
 _\[ Protection from Poison \]_
@@ -11182,7 +11553,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Protection contre les armes
+Protection contre les armes (niveau 0)
+
 ===========================
 
 _\[ Blade Ward \]_
@@ -11215,7 +11587,8 @@ Player´s Handbook (BR+)
 {: .label .label-red }
 
 
-Protection contre une énergie
+Protection contre une énergie (niveau 3)
+
 =============================
 
 _\[ Protection from Energy \]_ \[ Protection contre l'énergie \]
@@ -11250,7 +11623,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Protection primordiale
+Protection primordiale (niveau 6)
+
 ======================
 
 _\[ Primordial Ward \]_
@@ -11274,7 +11648,8 @@ Druide
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Protections et sceaux
+Protections et sceaux (niveau 6)
+
 =====================
 
 _\[ Guards and Wards \]_
@@ -11313,7 +11688,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Purification de nourriture et d'eau
+Purification de nourriture et d'eau (niveau 1)
+
 ===================================
 
 _\[ Purify Food and Drink \]_ \[ Purification de la nourriture et de l'eau \]
@@ -11342,7 +11718,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Pyrotechnie
+Pyrotechnie (niveau 2)
+
 ===========
 
 _\[ Pyrotechnics \]_
@@ -11373,7 +11750,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Quête
+Quête (niveau 5)
+
 =====
 
 _\[ Geas \]_
@@ -11411,7 +11789,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Rappel à la vie
+Rappel à la vie (niveau 5)
+
 ===============
 
 _\[ Raise Dead \]_
@@ -11443,7 +11822,8 @@ Paladin
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Rayon affaiblissant
+Rayon affaiblissant (niveau 2)
+
 ===================
 
 _\[ Ray of Enfeeblement \]_
@@ -11470,7 +11850,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Rayon ardent
+Rayon ardent (niveau 2)
+
 ============
 
 _\[ Scorching Ray \]_
@@ -11498,7 +11879,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Rayon de givre
+Rayon de givre (niveau 0)
+
 ==============
 
 _\[ Ray of Frost \]_
@@ -11525,7 +11907,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Rayon de lune
+Rayon de lune (niveau 2)
+
 =============
 
 _\[ Moonbeam \]_
@@ -11552,7 +11935,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Rayon de soleil
+Rayon de soleil (niveau 6)
+
 ===============
 
 _\[ Sunbeam \]_
@@ -11586,7 +11970,8 @@ Clerc _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Rayon empoisonné
+Rayon empoisonné (niveau 1)
+
 ================
 
 _\[ Ray of Sickness \]_
@@ -11613,7 +11998,8 @@ Magicien
 Player´s Handbook
 {: .label .label-red }
 
-Rayonnement écoeurant
+Rayonnement écoeurant (niveau 4)
+
 =====================
 
 _\[ Sickening Radiance \]_
@@ -11642,7 +12028,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Rayons prismatiques
+Rayons prismatiques (niveau 7)
+
 ===================
 
 _\[ Prismatic Spray \]_ _\[ Embruns prismatiques \]_
@@ -11679,7 +12066,8 @@ Barde _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Raz-de-marée
+Raz-de-marée (niveau 3)
+
 ============
 
 _\[ Tidal Wave \]_
@@ -11708,7 +12096,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Régénération
+Régénération (niveau 7)
+
 ============
 
 _\[ Regenerate \]_
@@ -11738,7 +12127,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Réincarnation
+Réincarnation (niveau 5)
+
 =============
 
 _\[ Reincarnate \]_
@@ -11782,7 +12172,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Réparation
+Réparation (niveau 0)
+
 ==========
 
 _\[ Mending \]_
@@ -11817,7 +12208,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Repli expéditif
+Repli expéditif (niveau 1)
+
 ===============
 
 _\[ Expeditious Retreat \]_
@@ -11846,7 +12238,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Représailles infernales
+Représailles infernales (niveau 1)
+
 =======================
 
 _\[ Hellish Rebuke \]_
@@ -11870,7 +12263,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Résistance
+Résistance (niveau 0)
+
 ==========
 
 _\[ Resistance \]_
@@ -11896,7 +12290,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Respiration aquatique
+Respiration aquatique (niveau 3)
+
 =====================
 
 _\[ Water Breathing \]_
@@ -11928,7 +12323,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Restauration partielle
+Restauration partielle (niveau 2)
+
 ======================
 
 _\[ Lesser Restoration \]_
@@ -11963,7 +12359,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Restauration supérieure
+Restauration supérieure (niveau 5)
+
 =======================
 
 _\[ Greater Restoration \] \[ Restauration suprême \]_
@@ -11999,7 +12396,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Résurrection
+Résurrection (niveau 7)
+
 ============
 
 _\[ Resurrection \]_
@@ -12029,7 +12427,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Résurrection suprême
+Résurrection suprême (niveau 9)
+
 ====================
 
 _\[ True Resurrection \]_
@@ -12057,7 +12456,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Retour à la vie
+Retour à la vie (niveau 3)
+
 ===============
 
 _\[ Revivify \]_
@@ -12089,7 +12489,8 @@ Rôdeur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Sacre de la glace
+Sacre de la glace (niveau 6)
+
 =================
 
 _\[ Investiture of Ice \]_
@@ -12125,7 +12526,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Sacre de la pierre
+Sacre de la pierre (niveau 6)
+
 ==================
 
 _\[ Investiture of Stone \]_
@@ -12160,7 +12562,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Sacre des flammes
+Sacre des flammes (niveau 6)
+
 =================
 
 _\[ Investiture of Flame \]_
@@ -12195,7 +12598,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Sacre du vent
+Sacre du vent (niveau 6)
+
 =============
 
 _\[ Investiture of Wind \]_
@@ -12230,7 +12634,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Sanctification
+Sanctification (niveau 5)
+
 ==============
 
 _\[ Hallow \]_
@@ -12265,7 +12670,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Sanctuaire
+Sanctuaire (niveau 1)
+
 ==========
 
 _\[ Sanctuary \]_
@@ -12289,7 +12695,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Sanctuaire privé de Mordenkainen
+Sanctuaire privé de Mordenkainen (niveau 4)
+
 ================================
 
 \[ Mordenkainen's Private Sanctum \]
@@ -12321,7 +12728,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Saut
+Saut (niveau 1)
+
 ====
 
 _\[ Jump \]_
@@ -12353,7 +12761,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Saute de vent
+Saute de vent (niveau 0)
+
 =============
 
 _\[ Gust \]_
@@ -12385,7 +12794,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Sauvagerie primitive
+Sauvagerie primitive (niveau 0)
+
 ====================
 
 _\[ Primal Savagery \]_
@@ -12409,7 +12819,8 @@ Druide
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Scrutation
+Scrutation (niveau 5)
+
 ==========
 
 _\[ Scrying \]_
@@ -12460,7 +12871,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Secousse sismique
+Secousse sismique (niveau 1)
+
 =================
 
 _\[ Earth Tremor \]_
@@ -12493,7 +12905,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Sens animal
+Sens animal (niveau 2)
+
 ===========
 
 _\[ Beast Sense \]_
@@ -12548,7 +12961,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Sens des pièges
+Sens des pièges (niveau 2)
+
 ===============
 
 _\[ Find Traps \] \[ Détection des pièges \]_
@@ -12578,7 +12992,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Serviteur invisible
+Serviteur invisible (niveau 1)
+
 ===================
 
 _\[ Unseen Servant \]_
@@ -12609,7 +13024,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Serviteur miniature
+Serviteur miniature (niveau 3)
+
 ===================
 
 _\[ Tiny Servant \]_
@@ -12634,7 +13050,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Sieste
+Sieste (niveau 3)
+
 ======
 
 _\[ Catnap \]_
@@ -12664,7 +13081,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Silence
+Silence (niveau 2)
+
 =======
 
 _\[ Silence \]_
@@ -12694,7 +13112,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Simulacre
+Simulacre (niveau 7)
+
 =========
 
 _\[ Simulacrum \]_
@@ -12720,7 +13139,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Simulacre de vie
+Simulacre de vie (niveau 1)
+
 ================
 
 _\[ False Life \]_
@@ -12747,7 +13167,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Soins
+Soins (niveau 1)
+
 =====
 
 _\[ Cure Wounds \]_
@@ -12783,7 +13204,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Soins de groupe
+Soins de groupe (niveau 5)
+
 ===============
 
 _\[ Mass Cure Wounds \]_
@@ -12813,7 +13235,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Sommeil
+Sommeil (niveau 1)
+
 =======
 
 _\[ Sleep \]_
@@ -12845,7 +13268,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Songe
+Songe (niveau 5)
+
 =====
 
 _\[ Dream \]_
@@ -12877,7 +13301,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Songe du voile bleu
+Songe du voile bleu (niveau 7)
+
 ===================
 
 _\[ Dream of the Blue Veil \]_
@@ -12911,7 +13336,8 @@ Occultiste
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Souffle du dragon
+Souffle du dragon (niveau 2)
+
 =================
 
 \[ Dragon's Breath \]
@@ -12938,7 +13364,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Souhait
+Souhait (niveau 9)
+
 =======
 
 _\[ Wish \]_
@@ -12972,7 +13399,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Sphère aqueuse
+Sphère aqueuse (niveau 4)
+
 ==============
 
 _\[ Watery Sphere \]_
@@ -13005,7 +13433,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Sphère de feu
+Sphère de feu (niveau 2)
+
 =============
 
 _\[ Flaming Sphere \]_
@@ -13037,7 +13466,8 @@ Ensorceleur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Sphère de tempête
+Sphère de tempête (niveau 4)
+
 =================
 
 _\[ Storm Sphere \]_
@@ -13066,7 +13496,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Sphère de vitriol
+Sphère de vitriol (niveau 4)
+
 =================
 
 _\[ Vitriolic Sphere \]_
@@ -13093,7 +13524,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Sphère glaciale d'Otiluke
+Sphère glaciale d'Otiluke (niveau 6)
+
 =========================
 
 \[ Otiluke's Freezing Sphere \] \[ Sphère glacée d'Otiluke \]
@@ -13122,7 +13554,8 @@ Ensorceleur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Sphère résiliente d'Otiluke
+Sphère résiliente d'Otiluke (niveau 4)
+
 ===========================
 
 \[ Otiluke's Resilient Sphere \]
@@ -13148,7 +13581,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Stabilisation
+Stabilisation (niveau 0)
+
 =============
 
 _\[ Spare the Dying \]_
@@ -13171,7 +13605,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Suggestion
+Suggestion (niveau 2)
+
 ==========
 
 _\[ Suggestion \]_
@@ -13206,7 +13641,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Suggestion de groupe
+Suggestion de groupe (niveau 6)
+
 ====================
 
 _\[ Mass Suggestion \]_
@@ -13242,7 +13678,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Symbole
+Symbole (niveau 7)
+
 =======
 
 _\[ Symbol \]_
@@ -13286,7 +13723,8 @@ Druide _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Télékinésie
+Télékinésie (niveau 5)
+
 ===========
 
 _\[ Telekinesis \]_
@@ -13315,7 +13753,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Télépathie
+Télépathie (niveau 8)
+
 ==========
 
 _\[ Telepathy \]_
@@ -13339,7 +13778,8 @@ Magicien
 Player´s Handbook
 {: .label .label-red }
 
-Téléportation
+Téléportation (niveau 7)
+
 =============
 
 _\[ Teleport \]_
@@ -13391,7 +13831,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Tempête de feu
+Tempête de feu (niveau 7)
+
 ==============
 
 _\[ Fire Storm \]_
@@ -13421,7 +13862,8 @@ Ensorceleur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Tempête de grêle
+Tempête de grêle (niveau 4)
+
 ================
 
 _\[ Ice Storm \]_
@@ -13452,7 +13894,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Tempête de neige
+Tempête de neige (niveau 3)
+
 ================
 
 _\[ Sleet Storm \]_
@@ -13483,7 +13926,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Tempête vengeresse
+Tempête vengeresse (niveau 9)
+
 ==================
 
 _\[ Storm of Vengeance \]_
@@ -13511,7 +13955,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Temple des dieux
+Temple des dieux (niveau 7)
+
 ================
 
 _\[ Temple of the Gods \]_
@@ -13536,7 +13981,8 @@ Clerc
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Ténèbres
+Ténèbres (niveau 2)
+
 ========
 
 _\[ Darkness \]_
@@ -13567,7 +14013,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Ténèbres oppressantes
+Ténèbres oppressantes (niveau 8)
+
 =====================
 
 _\[ Maddening Darkness \]_
@@ -13595,7 +14042,8 @@ Occultiste
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Tentacules de Hadar
+Tentacules de Hadar (niveau 1)
+
 ===================
 
 _\[ Arms of Hadar \]_
@@ -13620,7 +14068,8 @@ Occultiste
 Player´s Handbook
 {: .label .label-red }
 
-Tentacules noirs d'Evard
+Tentacules noirs d'Evard (niveau 4)
+
 ========================
 
 \[ Evard's Black Tentacles \]
@@ -13645,7 +14094,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Terraformage
+Terraformage (niveau 6)
+
 ============
 
 _\[ Move Earth \]_ _\[ Glissement de terrain \]_
@@ -13678,7 +14128,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Terrain hallucinatoire
+Terrain hallucinatoire (niveau 4)
+
 ======================
 
 _\[ Hallucinatory Terrain \]_
@@ -13711,7 +14162,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Texte illusoire
+Texte illusoire (niveau 1)
+
 ===============
 
 _\[ Illusory Script \]_
@@ -13743,7 +14195,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Thaumaturgie
+Thaumaturgie (niveau 0)
+
 ============
 
 _\[ Thaumaturgy \]_
@@ -13773,7 +14226,8 @@ Clerc
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Toile d'araignée
+Toile d'araignée (niveau 2)
+
 ================
 
 _\[ Web \]_
@@ -13803,7 +14257,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Toucher du vampire
+Toucher du vampire (niveau 3)
+
 ==================
 
 _\[ Vampiric Touch \]_ _\[ Caresse du vampire \]_
@@ -13833,7 +14288,8 @@ Ensorceleur _\[TCoE\]_
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Tourbillon
+Tourbillon (niveau 7)
+
 ==========
 
 _\[ Whirlwind \]_
@@ -13864,7 +14320,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Tourbillon de poussière
+Tourbillon de poussière (niveau 2)
+
 =======================
 
 _\[ Dust Devil \]_
@@ -13896,7 +14353,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Trait de feu
+Trait de feu (niveau 0)
+
 ============
 
 _\[ Fire Bolt \]_
@@ -13923,7 +14381,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Trait ensorcelé
+Trait ensorcelé (niveau 1)
+
 ===============
 
 _\[ Witch Bolt \]_
@@ -13979,7 +14438,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Transformation de Tenser
+Transformation de Tenser (niveau 6)
+
 ========================
 
 \[ Tenser's Transformation \]
@@ -14004,7 +14464,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Transformation draconique
+Transformation draconique (niveau 7)
+
 =========================
 
 _\[ Draconic Transformation \]_
@@ -14035,7 +14496,8 @@ Magicien
 Fizban´s Treasury of Dragons
 {: .label .label-red }
 
-Transmutation de la pierre
+Transmutation de la pierre (niveau 5)
+
 ==========================
 
 _\[ Transmute Rock \]_
@@ -14065,7 +14527,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Tremblement de terre
+Tremblement de terre (niveau 8)
+
 ====================
 
 _\[ Earthquake \]_
@@ -14100,7 +14563,8 @@ Ensorceleur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Tsunami
+Tsunami (niveau 8)
+
 =======
 
 _\[ Tsunami \]_
@@ -14127,7 +14591,8 @@ Druide
 Player´s Handbook
 {: .label .label-red }
 
-Urne magique
+Urne magique (niveau 6)
+
 ============
 
 _\[ Magic Jar \]_ _\[ Possession \]_
@@ -14156,7 +14621,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Vague destructrice
+Vague destructrice (niveau 5)
+
 ==================
 
 _\[ Destructive Wave \]_
@@ -14179,7 +14645,8 @@ Paladin
 Player´s Handbook
 {: .label .label-red }
 
-Vague tonnante
+Vague tonnante (niveau 1)
+
 ==============
 
 _\[ Thunderwave \]_
@@ -14213,7 +14680,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Vent protecteur
+Vent protecteur (niveau 2)
+
 ===============
 
 _\[ Warding Wind \]_
@@ -14251,7 +14719,8 @@ Magicien
 Xanathar´s Guide to Everything
 {: .label .label-red }
 
-Verrou magique
+Verrou magique (niveau 2)
+
 ==============
 
 _\[ Arcane Lock \]_
@@ -14275,7 +14744,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Vision dans le noir
+Vision dans le noir (niveau 2)
+
 ===================
 
 _\[ Darkvision \]_
@@ -14307,7 +14777,8 @@ Rôdeur
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Vision suprême
+Vision suprême (niveau 6)
+
 ==============
 
 _\[ True Seeing \]_
@@ -14342,7 +14813,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Voie végétale
+Voie végétale (niveau 6)
+
 =============
 
 _\[ Transport via Plants \]_
@@ -14365,7 +14837,8 @@ Druide
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Voile spirituel
+Voile spirituel (niveau 3)
+
 ===============
 
 _\[ Spirit Shroud \]_ _\[ Linceul spirituel \]_
@@ -14399,7 +14872,8 @@ Paladin
 Tasha´s Tasha´s Cauldron of Everything
 {: .label .label-red }
 
-Voir l'invisible
+Voir l'invisible (niveau 2)
+
 ================
 
 _\[ See Invisibility \]_ \[ Détection de l'invisibilité \]
@@ -14428,7 +14902,8 @@ Magicien
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Vol
+Vol (niveau 3)
+
 ===
 
 _\[ Fly \]_
@@ -14458,7 +14933,8 @@ Occultiste
 Player´s Handbook (SRD)
 {: .label .label-red }
 
-Voracité de Hadar
+Voracité de Hadar (niveau 3)
+
 =================
 
 _\[ Hunger of Hadar \]_
@@ -14482,7 +14958,8 @@ Occultiste
 Player´s Handbook
 {: .label .label-red }
 
-Zone de vérité
+Zone de vérité (niveau 2)
+
 ==============
 
 _\[ Zone of Truth \]_
