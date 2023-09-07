@@ -64,6 +64,7 @@ blockquote.statblock5e {
 .statblock5e > h2 {
    font-family: "Libre Baskerville", "Lora", "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
    color: #58180D;
+   margin-top: initial !important;
 }
 .statblock5e > h2 + p {
    margin-block-start: -1.3em;
