@@ -75,8 +75,8 @@ blockquote.statblock5e {
    padding-bottom: 0px;
    line-height: 1.1em;
 }
-.statblock5e > hr + h3 {
-   margin-top: .05em;
+.statblock5e > hr + h3, .statblock5e h3 {
+   margin-top: 1em;
    margin-bottom: 0px;
    color: #58180D;
    font-family: ScalySans;
