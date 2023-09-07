@@ -103,7 +103,7 @@ blockquote.statblock5e {
 .statblock5e .table-wrapper {
   box-shadow: none !important;
 }
-.statblock5e table th {
+.statblock5e table th, .statblock5e table td {
   background-color: transparent !important;
 }
 .statblock5e > hr + table {
