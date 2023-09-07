@@ -44,6 +44,58 @@ Mines oubliées de Phandelver + Le Dragon de la Flèche de Givre
 # Personnages / Héros
 
 ___
+> ## Relvyre
+_Demi-Elfe (Femelle), Barbare / Herboriste_
+> 
+> ___
+> - **Age** 50 (*Level:* 1)
+> - **Classe d'armure** 14
+> - **Points de vie** 14
+> - **Vitesse** 9 m
+> - **Initiative** +2
+> - **Bonus de maîtrise** +1
+> 
+>___
+> 
+>|FOR|DEX|CON|INT|SAG|CHA|
+>|---|---|---|---|---|---|
+>|15 (+2)|13 (+1)|16 (+3)|8 (-1)|10 (+0)|14 (+2)|
+> 
+>___
+> ### Description/Background
+> {: .no_toc }
+> ***Apparence*** : Son armure de cuir laisse entrevoir une femme grande et très musclée. Ses cheveux sont long, épais et noir mais affichent des reflets verts. Ses yeux sont comme l'opale et leur couleur changent en fonction de son humeur.
+>
+> ***Trait*** : Bourrue.
+>
+> ***Histoire*** : C'est au sein d'une tribu barbare que Relvyre trouva sa place en tant que Demi-Elfe. À travers ses voyages elle a beaucoup appris sur le terrain que ce soit au sujet des gens du commun, de la nature ou du monde environnant. Lorsqu'elle était jeune, Gundren Cherchepierre, un nain explorateur, se rendait souvent à sa tribu pour demander des indications ou faire du troc. C'est à travers ce personnage à la figure paternelle pour Relvyre qu'elle a rencontré l'Enclave d'Émeraude et l'a rejoint pour empêcher la civilisation et les étendues sauvages de se détruire mutuellement comme elle l'a si souvent vu entre ses deux peuples d'origine.
+>
+> ***Background*** : Héro du peuple. _Originaire d'un milieu social humble mais est destiné à beaucoup plus. Les gens de son village natal la considèrent comme leur champion, et son destin l'appelle à se dresser face aux tyrans et aux monstres qui menacent les gens du commun un peu partout._
+>
+>___
+> - **Perception passive** 10
+> - **Avantage** contre les _charmes_
+> - **Résistance** la magie ne peut pas l'endormir
+> - **Outils** Outils de menuisier
+> - **Langues** Commun, Elfique, Gobelin
+> - **Don** Peut voir dans le noir jusqu'à 18 mètres
+>
+> ### Équipement de départ
+> {: .no_toc }
+> 0. 1 armure de cuir   
+> 1. 1 dague
+> 2. 1 grande hâche à deux mains
+> 3. 4 javelines
+> 
+>___
+> ### Citation
+>{: .no_toc }
+> > TBD
+>{: .gossip }
+{: .statblock5e }
+
+
+___
 > ## Osril
 _Demi-Elf (Male), Druide / Herboriste_
 > 
@@ -68,16 +120,16 @@ _Demi-Elf (Male), Druide / Herboriste_
 >
 > ***Trait*** : Réservé, discret.
 >
-> ***Background*** : Hanté. _Ceux qui vous regardent dans les yeux peuvent voir que vous avez fait face à une horreur inimaginable et que vous n’êtes pas étranger aux ténèbres. Même s’ils peuvent vous craindre, les gens du commun vous feront preuve de toute la courtoisie et feront tout leur possible pour vous aider. À moins que vous ne vous soyez montré un danger pour eux, ils prendront même les armes pour combattre à vos côtés si vous vous retrouvez seul face à un ennemi._
->
 > ***Histoire*** : Rarement accepté par aucun des deux peuples auquel il est lié, Osril a toujours vécu dans la forêt lorsqu'il était jeune. Sa passion pour la forêt l'a mené à maîtriser les pouvoirs druidiques. Plus tard il rencontrera Gundren Cherchepierre, un nain explorateur, qui lui confiera de temps à autres quelques missions en échange de livres venus de loin. C'est à travers Gundren et ses missions que Osril rejoindra alors l'Enclave d'Émeraude.
+>
+> ***Background*** : Hanté. _Ceux qui le regardent dans les yeux peuvent comprendre qu'il a fait face à une horreur inimaginable et qu'il n'est pas étranger aux ténèbres. Malgré la crainte les gens du commun feront preuve de toute la courtoisie et ne dédaignent pas à lui venir en aide._
 >
 >___
 > - **Perception passive** 13
-> - **Avantage** Contre les _charmes_
-> - **Résistance** La magie ne peut pas l'endormir
+> - **Avantage** contre les _charmes_
+> - **Résistance** la magie ne peut pas l'endormir
 > - **Outils** Kit d'herboriste
-> - **Langues** Celestial, Commun, Druidique, Nain, Elfique, Orc
+> - **Langues** Céleste, Commun, Druide, Nain, Elfique, Orc
 > - **Don** Peut voir dans le noir jusqu'à 18 mètres
 >
 > ### Équipement de départ
