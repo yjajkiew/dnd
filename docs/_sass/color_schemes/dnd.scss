@@ -6,3 +6,7 @@ body {
 .side-bar, .main-header, .search-input {
   background-color: transparent !important;
 }
+
+a, .nav-list .nav-list-item .nav-list-expander {
+  color: tomato;
+}
