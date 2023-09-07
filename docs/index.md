@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Donjons & Dragons
-menu: Accueil
+title: Accueil
 nav_order: 0
 comments: true
 ---
