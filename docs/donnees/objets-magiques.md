@@ -5,13 +5,13 @@ parent: Bases de données
 nav_order: 3
 ---
 
-# Objets magique
+# Objets magiques
 {: .no_toc }
 
 
 <details open markdown="block">
   <summary>
-    Liste des sorts
+    Liste des objets magiques
   </summary>
   {: .text-delta }
 - TOC
@@ -269,25 +269,12 @@ L'anneau a 6 charges pour les propriétés suivantes. L'anneau récupère 1d6 ch
 Chaque sphère apparaît dans un espace inoccupé que vous pouvez voir dans un rayon de 36 mètres autour de vous. Les sphères persistent aussi longtemps que vous vous concentrez (comme pour se concentrer sur un sort), jusqu'à 1 minute. Chaque sphère émet en lumière faible dans un rayon de 9 mètres.  
 Par une action bonus, vous pouvez déplacer chaque sphère de 9 mètres, mais pas à plus de 36 mètres de vous. Quand une créature autre que vous est à 1,50 m ou moins d'une sphère, la sphère décharge de la foudre sur cette créature et disparaît. Cette créature doit alors faire un jet de sauvegarde de Dextérité DD 15. En cas d'échec, la créature subit des dégâts de foudre dont le montant dépend du nombre de sphères que vous avez créés.  
 
-Sphères
-
-Dégâts de foudre
-
-4
-
-2d4
-
-3
-
-2d6
-
-2
-
-5d4
-
-1
-
-4d12
+| Sphères | Dégâts de foudre |
+| --- | --- |
+| 4 | 2d4 |
+| 3 | 2d6 |
+| 2 | 5d4 |
+| 1 | 4d12 |
 
   
 **Feu d'étoiles**. Vous pouvez dépenser de 1 à 3 charges par une action. Pour chaque charge dépensée, vous lancez un trait brillant de lumière depuis l'anneau vers un point que vous pouvez voir dans un rayon de 18 mètres autour de vous. Chaque créature dans un cube de 4,50 mètres de côté depuis ce point est constellé d'étincelles et doit faire un jet de sauvegarde de Dextérité DD 15, subissant 5d4 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
@@ -397,73 +384,18 @@ Anneau, rare (nécessite un lien)
 
 Vous obtenez la résistance à un type de dégâts tant que vous portez cet anneau. La gemme sur l'anneau indique le type, lequel est choisi par le MD ou déterminé au hasard.  
 
-d10
-
-Type de dégâts
-
-Gemme
-
-1
-
-Acide
-
-Perle
-
-2
-
-Froid
-
-Tourmaline
-
-3
-
-Feu
-
-Grenat
-
-4
-
-Force
-
-Saphir
-
-5
-
-Foudre
-
-Citrine
-
-6
-
-Nécrotique
-
-Jais
-
-7
-
-Poison
-
-Améthyste
-
-8
-
-Psychique
-
-Jade
-
-9
-
-Radiant
-
-Topaze
-
-10
-
-Tonnerre
-
-Spinelle
-
-  
+| d10 | Type de dégâts | Gemme |
+| --- | --- | --- |
+| 1 | Acide | Perle |
+| 2 | Froid | Tourmaline |
+| 3 | Feu | Grenat |
+| 4 | Force | Saphir |
+| 5 | Foudre | Citrine |
+| 6 | Nécrotique | Jais |
+| 7 | Poison | Améthyste |
+| 8 | Psychique | Jade |
+| 9 | Radiant | Topaze |
+| 10 | Tonnerre | Spinelle |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -479,6 +411,7 @@ Anneau, rare (nécessite un lien)
 Vous possédez la résistance aux dégâts de poison tant que vous portez cet anneau, lequel possède une améthyste sertie.  
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Anneau de saut
 ==============
@@ -599,6 +532,8 @@ Arme (toutes), peu commun (nécessite un lien)
 Cette arme magique vous prévient du danger. Tant que cette arme se trouve sur vous, vous avez un avantage aux jets d'initiative. De plus, vous et tous vos compagnons dans un rayon de 9 mètres autour de vous ne pouvez pas être surpris, sauf lorsque vous êtes rendu incapable d'agir pour une autre raison qu'un sommeil non magique. L'arme vous réveille vous et vos compagnons se trouvant à portée si l'un de vous est en train de dormir d'un sommeil naturel lorsqu'un combat débute.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
+
 
 Armure +1, +2 ou +3
 ===================
@@ -637,51 +572,18 @@ Une armure d'écailles de dragon est fabriquée à partir des écailles d'une so
 Tant que vous portez cette armure, vous obtenez un bonus de +1 à la CA, vous avez un avantage à vos jets de sauvegarde contre la Présence terrifiante et les souffles des dragons, et vous avez la résistance à un type de dégâts déterminé par le type de dragon dont proviennent les écailles (voir la table ci-dessous).  
 De plus, vous pouvez concentrer vos sens, en utilisant une action, pour déterminer magiquement la distance et la direction du dragon (de même type que votre armure) le plus proche de vous et situé à 45 kilomètres maximum. Cette action spéciale ne peut pas être réutilisée avant le prochain lever de soleil.  
 
-Dragon
-
-Résistance
-
-Blanc
-
-Froid
-
-Bleu
-
-Foudre
-
-Noir
-
-Acide
-
-Rouge
-
-Feu
-
-Vert
-
-Poison
-
-Airain
-
-Feu
-
-Argent
-
-Froid
-
-Bronze
-
-Foudre
-
-Cuivre
-
-Acide
-
-Or
-
-Feu
-
-  
+| Dragon | Résistance |
+| --- | --- |
+| Blanc | Froid |
+| Bleu | Foudre |
+| Noir | Acide |
+| Rouge | Feu |
+| Vert | Poison |
+| Airain | Feu |
+| Argent | Froid |
+| Bronze | Foudre |
+| Cuivre | Acide |
+| Or | Feu |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -723,6 +625,7 @@ Armure (légère intermédiaire ou lourde), peu commun
 Lorsque vous portez cette armure, vous obtenez une vitesse de nage égale à votre vitesse de marche. De plus, chaque fois que vous commencez votre tour sous l'eau avec 0 point de vie, l'armure vous fait remonter vers la surface de 18 mètres. L'armure est ornée de motifs de poissons et de coquillages.  
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Armure de mithral
 =================
@@ -746,51 +649,18 @@ Armure (légère intermédiaire ou lourde), rare (nécessite un lien)
 
 Vous avez la résistance à un type de dégâts tant que vous êtes équipé de cette armure. Le MD choisit le type de dégâts ou le détermine aléatoirement grâce à la table ci-dessous.  
 
-d10
-
-Type de dégâts
-
-1
-
-Acide
-
-2
-
-Froid
-
-3
-
-Feu
-
-4
-
-Force
-
-5
-
-Foudre
-
-6
-
-Nécrotique
-
-7
-
-Poison
-
-8
-
-Psychique
-
-9
-
-Radiant
-
-10
-
-Tonnerre
-
-  
+| d10 | Type de dégâts |
+| --- | --- |
+| 1 | Acide |
+| 2 | Froid |
+| 3 | Feu |
+| 4 | Force |
+| 5 | Foudre |
+| 6 | Nécrotique |
+| 7 | Poison |
+| 8 | Psychique |
+| 9 | Radiant |
+| 10 | Tonnerre |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -922,6 +792,7 @@ Pour atteindre plus facilement les objectifs de son maître, la baguette feint u
 Plonger la baguette dans l'énergie positive la fait craquer puis exploser, mais, à moins que toutes les conditions ne soient remplies, la baguette se reforme instantanément dans la strate des Abysses que contrôle Orcus.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Baguette de boules de feu
 =========================
@@ -1074,99 +945,30 @@ Si l'effet produit vous fait lancer un sort depuis la baguette, le DD du jet de 
 Si un effet couvre une zone, vous devez centrer le sort sur la cible et l'inclure dans la zone d'effet. Si un effet est à cibles multiples, le MD détermine aléatoirement quelles sont celles qui sont affectées.  
 La baguette récupère 1d6 + 1 charges dépensées chaque jour à l'aube. Si vous dépensez la dernière charge de la baguette, lancez 1d20. Sur un résultat de 1, la baguette tombe en poussière et est détruite.  
 
-d100
-
-Effet
-
-01-05
-
-Vous lancez le sort _lenteur_.
-
-06-10
-
-Vous lancez le sort _lueurs féeriques_.
-
-11-15
-
-Vous êtes étourdi jusqu'au début de votre prochain tour, persuadé que quelque chose d'incroyable vient tout juste de se produire.
-
-16-20
-
-Vous lancez le sort _bourrasque_.
-
-21-25
-
-Vous lancez le sort _détection des pensées_ sur la cible que vous avez choisie. Si vous n'avez pas ciblé de créature, vous subissez à la place 1d6 dégâts psychiques.
-
-26-30
-
-Vous lancez le sort _nuage nauséabond_.
-
-31-33
-
-Une pluie battante tombe dans un rayon de 18 mètres centré sur la cible. La zone devient légèrement obscurcie. La pluie tombe jusqu'au début de votre prochain tour.
-
-34-36
-
-Un animal apparaît dans l'espace inoccupé le plus proche de la cible. L'animal n'est pas sous votre contrôle et agit comme il devrait le faire normalement. Lancez 1d100 pour déterminer quel animal apparaît. Sur un résultat de 01-25, un rhinocéros apparaît ; sur un résultat de 26-50, un éléphant apparaît ; sur un résultat de 51-100, un rat apparaît.
-
-37-46
-
-Vous lancez le sort _éclair_.
-
-47-49
-
-Un nuage de 600 énormes papillons remplit une zone de 9 mètres de rayon centré sur la cible. La zone devient fortement obscurcie. Les papillons restent en place pendant 10 minutes.  
-
-50-53
-
-Vous augmentez la taille de la cible de la même manière que si vous aviez lancé le sort _agrandissement/rapetissement_. Si la cible ne peut pas être affectée par ce sort, ou si vous n'avez pas ciblé de créature, vous devenez la cible de ce sort.
-
-54-58
-
-Vous lancez le sort _ténèbres_.
-
-59-62
-
-De l'herbe pousse sur le sol dans un rayon de 18 mètres centré sur la cible. Si de l'herbe se trouve déjà dans la zone, elle pousse jusqu'à atteindre 10 fois sa taille normale et reste ainsi surdéveloppée pendant 1 minute.
-
-63-65
-
-Un objet du choix du MD disparaît dans le plan éthéré. L'objet ne doit ni être porté ni être transporté, se trouver dans un rayon de 36 mètres autour de la cible, et ne pas être plus large qu'un cube de 3 mètres d'arête.
-
-66-69
-
-Vous êtes rétréci comme si vous aviez lancé sur vous le sort _agrandissement/rapetissement_.
-
-70-79
-
-Vous lancez le sort _boule de feu_.
-
-80-84
-
-Vous lancez le sort _invisibilité_ sur vous-même.
-
-85-87
-
-Des feuilles se mettent à pousser sur la cible. Si vous avez choisi un point de l'espace comme cible, les feuilles apparaissent sur la créature la plus proche de ce point. À moins qu'elles ne soient enlevées, les feuilles brunissent et tombent d'elles-mêmes au bout de 24 heures.
-
-88-90
-
-Un chapelet de 1d4 x 10 gemmes, chacune valant 1 po, jaillit de l'extrémité de la baguette en une ligne de 9 mètres de long et de 1,50 mètre de large. Chaque gemme infligeant 1 dégât contondant, et le total des dégâts infligés par les gemmes est divisé équitablement entre toutes les créatures présentes sur la ligne.
-
-91-95
-
-Une explosion de chatoyantes lumières colorées émane de vous sur un rayon de 9 mètres. Vous, et chacune des créatures présentent dans la zone et capables de voir, devez réussir un jet de sauvegarde de Constitution DD 15 sous peine d'être aveuglé pendant 1 minute. Une créature peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant un terme à l'effet qui l'affecte en cas de réussite.
-
-96-97
-
-La teinte de la cible vire au bleu brillant pendant 1d10 jours. Si vous choisissez un point de l'espace, la créature la plus proche de ce point est affectée.
-
-98-00
-
-Si vous avez ciblé une créature, elle doit effectuer un jet de sauvegarde de Constitution DD 15. Si vous n'avez pas ciblé une créature, vous devenez la cible et devez effectuer le jet de sauvegarde. Si le jet de sauvegarde échoue de 5 ou plus, la cible est instantanément pétrifiée. Sur tout autre échec au jet de sauvegarde, la cible est entravée et commence à se changer en pierre. Tant qu'elle est entravée de la sorte, la cible doit répéter le jet de sauvegarde à la fin de son prochain tour, devenant pétrifiée en cas d'échec ou mettant un terme à l'effet en cas de réussite. La pétrification perdure jusqu'à ce que la cible soit libérée par un sort de _restauration supérieure_ ou une magie similaire.
-
-  
+| d100 | Effet |
+| --- | --- |
+| 01-05 | Vous lancez le sort _lenteur_. |
+| 06-10 | Vous lancez le sort _lueurs féeriques_. |
+| 11-15 | Vous êtes étourdi jusqu'au début de votre prochain tour, persuadé que quelque chose d'incroyable vient tout juste de se produire. |
+| 16-20 | Vous lancez le sort _bourrasque_. |
+| 21-25 | Vous lancez le sort _détection des pensées_ sur la cible que vous avez choisie. Si vous n'avez pas ciblé de créature, vous subissez à la place 1d6 dégâts psychiques. |
+| 26-30 | Vous lancez le sort _nuage nauséabond_. |
+| 31-33 | Une pluie battante tombe dans un rayon de 18 mètres centré sur la cible. La zone devient légèrement obscurcie. La pluie tombe jusqu'au début de votre prochain tour. |
+| 34-36 | Un animal apparaît dans l'espace inoccupé le plus proche de la cible. L'animal n'est pas sous votre contrôle et agit comme il devrait le faire normalement. Lancez 1d100 pour déterminer quel animal apparaît. Sur un résultat de 01-25, un rhinocéros apparaît ; sur un résultat de 26-50, un éléphant apparaît ; sur un résultat de 51-100, un rat apparaît. |
+| 37-46 | Vous lancez le sort _éclair_. |
+| 47-49 | Un nuage de 600 énormes papillons remplit une zone de 9 mètres de rayon centré sur la cible. La zone devient fortement obscurcie. Les papillons restent en place pendant 10 minutes. |
+| 50-53 | Vous augmentez la taille de la cible de la même manière que si vous aviez lancé le sort _agrandissement/rapetissement_. Si la cible ne peut pas être affectée par ce sort, ou si vous n'avez pas ciblé de créature, vous devenez la cible de ce sort. |
+| 54-58 | Vous lancez le sort _ténèbres_. |
+| 59-62 | De l'herbe pousse sur le sol dans un rayon de 18 mètres centré sur la cible. Si de l'herbe se trouve déjà dans la zone, elle pousse jusqu'à atteindre 10 fois sa taille normale et reste ainsi surdéveloppée pendant 1 minute. |
+| 63-65 | Un objet du choix du MD disparaît dans le plan éthéré. L'objet ne doit ni être porté ni être transporté, se trouver dans un rayon de 36 mètres autour de la cible, et ne pas être plus large qu'un cube de 3 mètres d'arête. |
+| 66-69 | Vous êtes rétréci comme si vous aviez lancé sur vous le sort _agrandissement/rapetissement_. |
+| 70-79 | Vous lancez le sort _boule de feu_. |
+| 80-84 | Vous lancez le sort _invisibilité_ sur vous-même. |
+| 85-87 | Des feuilles se mettent à pousser sur la cible. Si vous avez choisi un point de l'espace comme cible, les feuilles apparaissent sur la créature la plus proche de ce point. À moins qu'elles ne soient enlevées, les feuilles brunissent et tombent d'elles-mêmes au bout de 24 heures. |
+| 88-90 | Un chapelet de 1d4 x 10 gemmes, chacune valant 1 po, jaillit de l'extrémité de la baguette en une ligne de 9 mètres de long et de 1,50 mètre de large. Chaque gemme infligeant 1 dégât contondant, et le total des dégâts infligés par les gemmes est divisé équitablement entre toutes les créatures présentes sur la ligne. |
+| 91-95 | Une explosion de chatoyantes lumières colorées émane de vous sur un rayon de 9 mètres. Vous, et chacune des créatures présentent dans la zone et capables de voir, devez réussir un jet de sauvegarde de Constitution DD 15 sous peine d'être aveuglé pendant 1 minute. Une créature peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant un terme à l'effet qui l'affecte en cas de réussite. |
+| 96-97 | La teinte de la cible vire au bleu brillant pendant 1d10 jours. Si vous choisissez un point de l'espace, la créature la plus proche de ce point est affectée. |
+| 98-00 | Si vous avez ciblé une créature, elle doit effectuer un jet de sauvegarde de Constitution DD 15. Si vous n'avez pas ciblé une créature, vous devenez la cible et devez effectuer le jet de sauvegarde. Si le jet de sauvegarde échoue de 5 ou plus, la cible est instantanément pétrifiée. Sur tout autre échec au jet de sauvegarde, la cible est entravée et commence à se changer en pierre. Tant qu'elle est entravée de la sorte, la cible doit répéter le jet de sauvegarde à la fin de son prochain tour, devenant pétrifiée en cas d'échec ou mettant un terme à l'effet en cas de réussite. La pétrification perdure jusqu'à ce que la cible soit libérée par un sort de _restauration supérieure_ ou une magie similaire. |  
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -1370,6 +1172,7 @@ Vous pouvez effectuer une attaque au corps à corps en utilisant la tête de ser
 La tête de serpent peut être attaquée tant qu'elle est animée. Elle possède une Classe d'Armure de 15 et 20 points de vie. Si la tête tombe à 0 point de vie, le bâton est détruit. Tant que le bâton n'est pas détruit, il récupère tous les points de vie qu'il a pu perdre lorsqu'il retrouve sa forme inanimée.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Bâton de surpuissance
 =====================
@@ -1385,23 +1188,11 @@ Le bâton possède 20 charges pour les propriétés suivantes. Le bâton récup�
 **Frappe vengeresse**. Vous pouvez utiliser une action pour briser le bâton contre votre genou ou contre une surface solide, déclenchant alors la frappe vengeresse. Le bâton est détruit et libère la magie qui lui reste en une formidable explosion qui recouvre une zone sphérique de 9 mètres de rayons centrée sur lui.  
 Vous avez 50 % de chance de voyager instantanément vers un plan d'existence aléatoire, échappant alors à l'explosion. Si vous ne parvenez pas à éviter l'effet, vous subissez un montant de dégâts de force égal à 16 x le nombre de charges dans le bâton. Toutes les autres créatures dans la zone doivent effectuer un jet de sauvegarde de Dextérité DD 17. En cas d'échec au jet de sauvegarde, une créature subit un montant de dégâts basé sur la distance entre elle et l'épicentre de l'explosion, comme indiqué sur la table ci-dessous. En cas de jet de sauvegarde réussi, une créature ne subit que la moitié des dégâts prévus.  
 
-Distance par rapport à l'origine
-
-Dégâts
-
-3 m ou moins
-
-8 x le nombre de charges dans le bâton
-
-Plus de 3 m, jusqu'à 6 m
-
-6 x le nombre de charges dans le bâton
-
-Plus de 6 m, jusqu'à 9 m
-
-4 x le nombre de charges dans le bâton
-
-  
+| Distance par rapport à l'origine | Dégâts |
+| --- | --- |
+| 3 m ou moins | 8 x le nombre de charges dans le bâton |
+| Plus de 3 m, jusqu'à 6 m | 6 x le nombre de charges dans le bâton |
+| Plus de 6 m, jusqu'à 9 m | 4 x le nombre de charges dans le bâton |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -1485,23 +1276,11 @@ Vous pouvez également utiliser une action pour lancer l'un des sorts suivants g
 **Frappe vengeresse**. Vous pouvez utiliser une action pour briser le bâton contre votre genou ou contre une surface solide, déclenchant alors la frappe vengeresse. Le bâton est détruit et libère la magie qui lui reste en une formidable explosion qui recouvre une zone sphérique de 9 mètres de rayons centrée sur lui.  
 Vous avez 50 % de chance de voyager instantanément vers un plan d'existence aléatoire, échappant alors à l'explosion. Si vous ne parvenez pas à éviter l'effet, vous subissez un montant de dégâts de force égal à 16 x le nombre de charges dans le bâton. Toutes les autres créatures dans la zone doivent effectuer un jet de sauvegarde de Dextérité DD 17. En cas d'échec au jet de sauvegarde, une créature subit un montant de dégâts basé sur la distance entre elle et l'épicentre de l'explosion, comme indiqué sur la table ci-dessous. En cas de jet de sauvegarde réussi, une créature ne subit que la moitié des dégâts prévus.  
 
-Distance par rapport à l'origine
-
-Dégâts
-
-3 m ou moins
-
-8 x le nombre de charges dans le bâton
-
-Plus de 3 m, jusqu'à 6 m
-
-6 x le nombre de charges dans le bâton
-
-Plus de 6 m, jusqu'à 9 m
-
-4 x le nombre de charges dans le bâton
-
-  
+| Distance par rapport à l'origine | Dégâts |
+| --- | --- |
+| 3 m ou moins | 8 x le nombre de charges dans le bâton |
+| Plus de 3 m, jusqu'à 6 m | 6 x le nombre de charges dans le bâton |
+| Plus de 6 m, jusqu'à 9 m | 4 x le nombre de charges dans le bâton |  
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -1745,6 +1524,7 @@ Armure (bouclier), peu commun
 Tant que vous êtes équipé de ce bouclier, vous avez un avantage à vos jets d'initiative et à vos jets de Sagesse (Perception). Le bouclier est décoré d'un symbole représentant un œil.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Boule de cristal
 ================
@@ -1786,23 +1566,10 @@ Objet merveilleux, très rare
 Cette bouteille en laiton peinte pèse 500 grammes. Lorsque vous utilisez une action pour en retirer le bouchon, un épais nuage de fumée se déverse de la bouteille. À la fin de votre tour, la fumée disparaît en une myriade de flammèches inoffensives, et un éfrit apparaît dans un espace inoccupé dans un rayon de 9 mètres autour de vous.  
 La première fois que la bouteille est ouverte, la MD lance 1d100 pour déterminer ce qui se produit.  
 
-d100
-
-Effet
-
-01-10
-
-L'éfrit vous attaque. Après avoir combattu pendant 5 tours, l'éfrit disparaît, et la bouteille perd sa magie.
-
-11-90
-
-L'éfrit vous sert pendant 1 heure, faisant ce que vous lui ordonnez de faire. Puis l'éfrit retourne dans la bouteille, et un nouveau bouchon l'y enferme. Le bouchon ne peut plus être retiré au cours des 24 heures qui suivent. Les deux fois suivantes que la bouteille est ouverte, il se produit la même chose. Si la bouteille est ouverte une quatrième fois, l'éfrit s'échappe et disparaît, puis la bouteille perd sa magie.
-
-91-00
-
-L'éfrit peut lancer le sort _souhait_ trois fois pour vous. Il disparaît lorsqu'il a accordé le troisième souhait ou au bout d'une heure, puis la bouteille perd sa magie.
-
-  
+| d100 | Effet |
+| 01-10 | L'éfrit vous attaque. Après avoir combattu pendant 5 tours, l'éfrit disparaît, et la bouteille perd sa magie. |
+| 11-90 | L'éfrit vous sert pendant 1 heure, faisant ce que vous lui ordonnez de faire. Puis l'éfrit retourne dans la bouteille, et un nouveau bouchon l'y enferme. Le bouchon ne peut plus être retiré au cours des 24 heures qui suivent. Les deux fois suivantes que la bouteille est ouverte, il se produit la même chose. Si la bouteille est ouverte une quatrième fois, l'éfrit s'échappe et disparaît, puis la bouteille perd sa magie. |
+| 91-00 | L'éfrit peut lancer le sort _souhait_ trois fois pour vous. Il disparaît lorsqu'il a accordé le troisième souhait ou au bout d'une heure, puis la bouteille perd sa magie. |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -1924,6 +1691,7 @@ Tant que vous êtes équipé de cette cape, vous pouvez rabattre sa capuche sur 
 Déduisez le temps que vous passez invisible, par incréments de 1 minute, à la durée maximale d'invisibilité de la cape, c'est-à-dire 2 heures. Au bout de 2 heures d'utilisation, la cape cesse de fonctionner. Pour chaque période de 12 heures continues sans utilisation de la cape, elle récupère 1 heure de durée d'utilisation.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Cape de déplacement
 ===================
@@ -2058,6 +1826,7 @@ Objet merveilleux, peu commun
 Si vous rabattez sur votre tête ce capuchon et que vous êtes sous l'eau, vous pouvez, en utilisant une action, prononcer son mot de commande et ainsi créer une boule d'air autour de votre tête. Celle-ci vous permet de respirer normalement sous l'eau. Cette bulle reste en place jusqu'à ce que vous prononciez de nouveau le mot de commande, que vous quittiez le capuchon, ou que vous ne soyez plus immergé.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Carafe intarissable
 ===================
@@ -2115,159 +1884,45 @@ La magie de ce paquet de cartes ne fonctionne que si les cartes sont tirées de 
 Une illusion d'une ou de plusieurs créatures se forme au-dessus de la carte jetée et reste en place jusqu'à ce qu'elle soit dissipée. Une créature illusoire semble réelle, de la bonne taille, et se comporte de la même manière qu'une créature réelle, elle ne peut cependant pas faire de mal. Tant que vous vous trouvez dans un rayon de 36 mètres de la créature illusoire et que vous pouvez la voir, vous pouvez utiliser une action pour la déplacer n'importe où dans un rayon de 9 mètres autour de sa carte. Toute interaction physique avec la créature illusoire révèle qu'il s'agit d'une illusion, car les objets passent au travers. Quelqu'un qui utilise son action pour inspecter visuellement la créature identifie qu'il s'agit d'une illusion en réussissant un jet d'Intelligence (Investigation) DD 15. La créature semble alors translucide.  
 L'illusion reste en place jusqu'à ce que la carte soit déplacée ou que l'illusion soit dissipée. Lorsque l'illusion prend fin, l'image sur la carte disparait, et cette carte ne peut plus être réutilisée.  
 
-Carte à jouer
-
-Illusion
-
-As de cœur
-
-Un dragon rouge
-
-Roi de cœur
-
-Un chevalier et quatre gardes
-
-Dame de cœur
-
-Une succube ou un incube
-
-Valet de cœur
-
-Un druide
-
-10 de cœur
-
-Un géant des nuages
-
-9 de cœur
-
-Un ettin
-
-8 de cœur
-
-Un gobelours
-
-7 de cœur
-
-Un gobelin
-
- 
-
- 
-
-As de carreau
-
-Un tyrannoeil
-
-Roi de carreau
-
-Un archimage et son apprenti
-
-Dame de carreau
-
-Une tormante
-
-Valet de carreau
-
-Un assassin
-
-10 de carreau
-
-Un géant du feu
-
-9 de carreau
-
-Un ogre mage
-
-8 de carreau
-
-Un gnoll
-
-7 de carreau
-
-Un kobold
-
- 
-
- 
-
-As de pique
-
-Une liche
-
-Roi de pique
-
-Un prêtre et deux acolytes
-
-Dame de pique
-
-Une méduse
-
-Valet de pique
-
-Un vétéran de guerre
-
-10 de pique
-
-Un géant du givre
-
-9 de pique
-
-Un troll
-
-8 de pique
-
-Un hobgobelin
-
-7 de pique
-
-Un gobelin
-
- 
-
- 
-
-As de trèfle
-
-Un golem de fer
-
-Roi de trèfle
-
-Trois brigands et leur capitaine
-
-Dame de trèfle
-
-Une érinye
-
-Valet de trèfle
-
-Un berserker
-
-10 de trèfle
-
-Un géant des collines
-
-9 de trèfle
-
-Un ogre
-
-8 de trèfle
-
-Un orc
-
-7 de trèfle
-
-Un kobold
-
- 
-
- 
-
-Jokers (2)
-
-Vous (le propriétaire des cartes)
-
-  
+| Carte à jouer | Illusion |
+| --- | --- |
+| As de cœur | Un dragon rouge |
+| Roi de cœur | Un chevalier et quatre gardes |
+| Dame de cœur | Une succube ou un incube |
+| Valet de cœur | Un druide |
+| 10 de cœur | Un géant des nuages |
+| 9 de cœur | Un ettin |
+| 8 de cœur | Un gobelours |
+| 7 de cœur | Un gobelin |
+| | |
+| As de carreau | Un tyrannoeil |
+| Roi de carreau | Un archimage et son apprenti |
+| Dame de carreau | Une tormante |
+| Valet de carreau | Un assassin |
+| 10 de carreau | Un géant du feu |
+| 9 de carreau | Un ogre mage |
+| 8 de carreau | Un gnoll |
+| 7 de carreau | Un kobold |
+| | |
+| As de pique | Une liche |
+| Roi de pique | Un prêtre et deux acolytes |
+| Dame de pique | Une méduse |
+| Valet de pique | Un vétéran de guerre |
+| 10 de pique | Un géant du givre |
+| 9 de pique | Un troll |
+| 8 de pique | Un hobgobelin |
+| 7 de pique | Un gobelin |
+| | |
+| As de trèfle | Un golem de fer |
+| Roi de trèfle | Trois brigands et leur capitaine |
+| Dame de trèfle | Une érinye |
+| Valet de trèfle | Un berserker |
+| 10 de trèfle | Un géant des collines |
+| 9 de trèfle | Un ogre |
+| 8 de trèfle | Un orc |
+| 7 de trèfle | Un kobold |
+| | |
+| Jokers (2) | Vous (le propriétaire des cartes) |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -2284,100 +1939,32 @@ Généralement découvert dans un boitier ou une pochette, ce jeu de carte conti
 Avant de tirer une carte, vous devez annoncer combien de cartes vous comptez tirer puis vous devez les tirer aléatoirement (vous pouvez utiliser un jeu de cartes à jouer modifié pour simuler ce paquet de cartes magiques). Toute carte tirée en plus du nombre annoncé n'a aucun effet. Pour les autres, dès que vous tirez une carte du paquet, sa magie prend effet. Après que vous ayez tiré une carte, vous avez une heure pour tirer la suivante. Si vous échouez à tirer le nombre annoncé de cartes, le nombre de cartes restantes s'envole du paquet d'elles-mêmes et prennent effet toutes en même temps.  
 Une fois qu'une carte est tirée, elle disparaît. Et, à moins que la carte ne soit le Fou ou le Bouffon, elle réapparaît dans le paquet, ce qui permet de piocher deux fois la même carte.  
 
-Carte à jouer
-
-Carte
-
-As de carreau
-
-Le Vizir\*
-
-Roi de carreau
-
-Le Soleil
-
-Dame de carreau
-
-La Lune
-
-Valet de carreau
-
-L'Étoile
-
-2 de carreau
-
-La Comète\*
-
-As de cœur
-
-Les Parques\*
-
-Roi de cœur
-
-Le Trône
-
-Dame de cœur
-
-La Clé
-
-Valet de cœur
-
-Le Chevalier
-
-2 de cœur
-
-Le Joyau\*
-
-As de trèfle
-
-Les Griffes\*
-
-Roi de trèfle
-
-Le Néant
-
-Dame de trèfle
-
-Les Flammes
-
-Valet de trèfle
-
-Le Crâne
-
-2 de trèfle
-
-L'Idiot\*
-
-As de pique
-
-Le Donjon\*
-
-Roi de pique
-
-La Ruine
-
-Dame de pique
-
-Euryale
-
-Valet de pique
-
-Le Traître
-
-2 de pique
-
-La Balance\*
-
-Joker noir
-
-Le Fou\*
-
-Joker rouge
-
-Le Bouffon
-
+| Carte à jouer | Carte |
+| --- | --- |
+| As de carreau | Le Vizir\* |
+| Roi de carreau | Le Soleil |
+| Dame de carreau | La Lune |
+| Valet de carreau | L'Étoile |
+| 2 de carreau | La Comète\* |
+| As de cœur | Les Parques\* |
+| Roi de cœur | Le Trône |
+| Dame de cœur | La Clé |
+| Valet de cœur | Le Chevalier |
+| 2 de cœur | Le Joyau\* |
+| As de trèfle | Les Griffes\* |
+| Roi de trèfle | Le Néant |
+| Dame de trèfle | Les Flammes |
+| Valet de trèfle | Le Crâne |
+| 2 de trèfle | L'Idiot\* |
+| As de pique | Le Donjon\* |
+| Roi de pique | La Ruine |
+| Dame de pique | Euryale |
+| Valet de pique | Le Traître |
+| 2 de pique | La Balance\* |
+| Joker noir | Le Fou\* |
+| Joker rouge | Le Bouffon |
   
-\* ne peuvent être trouvées que dans un jeu de 22 cartes.  
+_\* ne peuvent être trouvées que dans un jeu de 22 cartes._
   
 **La Balance**. Votre esprit est complètement altéré, ce qui modifie votre alignement de manière radicale. Les loyaux deviennent chaotiques, les bons deviennent mauvais, et vice versa. Si vous êtes neutre ou non-aligné, cette carte n'a aucun effet sur vous.  
 **Le Bouffon**. Vous gagnez 10 000 XP, ou vous pouvez tirer deux cartes supplémentaires par rapport au nombre de cartes annoncé.  
@@ -2416,43 +2003,13 @@ Objet merveilleux, variable (nécessite un lien)
 Tant que vous portez ce ceinturon, votre valeur de Force change pour celle conférée par le ceinturon. L'objet n'a aucun effet sur vous si votre Force sans la ceinture est égale ou supérieure à celle du ceinturon.  
 Six variétés de ceinturon existent, chacune ayant sa propre rareté et correspondant à un des six types de géant véritable. Le _ceinturon de force du géant des pierres_ et le _ceinturon de force du géant du givre_ semblent différents, mais ils ont les mêmes effets.  
 
-Type
-
-Force
-
-Rareté
-
-Géant des collines
-
-21
-
-Rare
-
-Géant des pierre/du givre
-
-23
-
-Très rare
-
-Géant du feu
-
-25
-
-Très rare
-
-Géant des nuages
-
-27
-
-Légendaire
-
-Géant des tempêtes
-
-29
-
-Légendaire
-
-  
+| Type | Force | Rareté |
+| --- | --- | --- |
+| Géant des collines | 21 | Rare |
+| Géant des pierre/du givre | 23 | Très rare |
+| Géant du feu | 25 | Très rare |
+| Géant des nuages | 27 | Légendaire |
+| Géant des tempêtes | 29 | Légendaire |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -2565,47 +2122,18 @@ Objet merveilleux, très rare (nécessite un lien)
 
 Cette mince chandelle est dédiée à une divinité et partage l'alignement de cette divinité. L'alignement du cierge peut être détecté avec un sort de _détection du mal et du bien_. Le MD choisit le dieu et l'alignement qui lui est associé ou détermine l'alignement du cierge de manière aléatoire.  
 
-d20
+| d20 | Alignement |
+| --- | --- |
+| 1-2 | Chaotique mauvais |
+| 3-4 | Chaotique neutre |
+| 5-7 | Chaotique bon |
+| 8-9 | Neutre mauvais |
+| 10-11 | Neutre |
+| 12-13 | Neutre bon |
+| 14-15 | Loyal mauvais |
+| 16-17 | Loyal neutre |
+| 18-20 | Loyal bon |
 
-Alignement
-
-1-2
-
-Chaotique mauvais
-
-3-4
-
-Chaotique neutre
-
-5-7
-
-Chaotique bon
-
-8-9
-
-Neutre mauvais
-
-10-11
-
-Neutre
-
-12-13
-
-Neutre bon
-
-14-15
-
-Loyal mauvais
-
-16-17
-
-Loyal neutre
-
-18-20
-
-Loyal bon
-
-  
 La magie du cierge est activée lorsque le cierge est allumé, ce qui nécessite une action. Après avoir brûlé pendant 4 heures, le cierge est détruit. Vous pouvez souffler sa flamme avant pour pouvoir l'utiliser plus tard. Déduisez la durée de combustion déjà écoulée (arrondie à la minute supérieure) de la durée totale maximale.  
 Tant qu'il est allumé le cierge émet une lumière faible dans un rayon de 9 mètres. Toute créature se trouvant dans cette lumière et partageant le même alignement que le cierge effectue ses jets d'attaque, de sauvegarde, et de caractéristique avec un avantage. De plus, un clerc ou un druide se trouvant dans cette lumière et partageant l'alignement du cierge peut lancer un sort de niveau 1 qu'il a préparé sans dépenser l'emplacement de sort associé, à condition que ce sort de niveau 1 soit lancé en utilisant un emplacement de niveau 1.  
 Sinon, lorsque vous allumez le cierge pour la première fois, vous pouvez lancer le sort _portail_ grâce à lui. Le cierge est cependant détruit lorsqu'il est utilisé de la sorte.  
@@ -2691,49 +2219,14 @@ Objet merveilleux, rare (nécessite un lien par un clerc, druide ou paladin)
 Ce collier possède 1d4 + 2 perles magiques fabriquées à partir d'aigue-marine, de perle noire ou de topaze. Il comporte également de nombreuses perles non magiques fabriquées à partir de pierres telles que l'ambre, l'héliotrope, la citrine, le corail, le jade, la perle ou le quartz. Si une perle magique est retirée du collier, celle-ci perd sa magie.  
 Six types de perles magiques existent. Le MD décide le type de chaque perle du collier ou le détermine de façon aléatoire. Un collier peut avoir plus d'une perle de même type. Pour en utiliser une, vous devez porter le collier. Chaque perle contient un sort que vous pouvez lancer à partir d'elle par une action bonus (en utilisant le DD de sauvegarde de vos sorts si une sauvegarde est nécessaire). Une fois que le sort d'une perle magique est lancé, cette perle ne peut plus être utilisée de nouveau avant la prochaine aube.  
 
-d20
-
-Perle de ...
-
-Sort
-
-1–6
-
-Bénédiction
-
-_bénédiction_
-
-7–12
-
-Soins
-
-_soins_ (niveau 2) ou _restauration partielle_
-
-13-16
-
-Faveur
-
-_restauration supérieure_
-
-17-18
-
-Châtiment
-
-_châtiment révélateur_
-
-19
-
-Invocation
-
-_allié planaire_
-
-20
-
-Vent
-
-_marche sur le vent_
-
-  
+| d20 | Perle de ... | Sort |
+| --- | --- | --- |
+| 1–6 | Bénédiction | _bénédiction_ |
+| 7–12 | Soins | _soins_ (niveau 2) ou _restauration partielle_ |
+| 13-16 | Faveur | _restauration supérieure_ |
+| 17-18 | Châtiment | _châtiment révélateur_ |
+| 19 | Invocation | _allié planaire_ |
+| 20 | Vent | _marche sur le vent_ |  
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -2763,48 +2256,13 @@ Objet merveilleux, rare (argent ou airain) très rare (bronze) ou légendaire (f
 Vous pouvez utiliser une action pour souffler dans ce cor. En réponse, des esprits guerriers venant du Valhalla apparaissent dans un rayon de 18 mètres autour de vous. Ils utilisent les statistiques du berserker. Ils retournent au Valhalla au bout d'une heure ou lorsqu'ils tombent à 0 point de vie. Une fois que vous avez utilisé le cor, il ne peut pas être réutilisé avant que 7 jours ne se soient écoulés.  
 On connait à ce jour l'existence de quatre types de cor du Valhalla, chacun fin d'un métal différent. Le type du cor détermine combien de berserkers répondent à sa convocation, de même que les conditions nécessaires à son utilisation. Le MD choisit le type du cor ou le détermine aléatoirement.  
 
-d100
+| d100 | Type du cor | Berserkers invoqués | Condition |
+| --- | --- | --- | --- |
+| 01-40 | Argent | 2d4 + 2 | Aucune |
+| 41-75 | Airain | 3d4 + 3 | Maîtrise de toutes les armes courantes |
+| 76-90 | Bronze | 4d4 + 4 | Maîtrise de toutes les armures intermédiaires |
+| 91-00 | Fer | 5d4 + 5 | Maîtrise de toutes les armes de guerre |
 
-Type du cor
-
-Berserkers  
-invoqués
-
-Condition
-
-01-40
-
-Argent
-
-2d4 + 2
-
-Aucune
-
-41-75
-
-Airain
-
-3d4 + 3
-
-Maîtrise de toutes les armes courantes
-
-76-90
-
-Bronze
-
-4d4 + 4
-
-Maîtrise de toutes les armures intermédiaires
-
-91-00
-
-Fer
-
-5d4 + 5
-
-Maîtrise de toutes les armes de guerre
-
-  
 Si vous soufflez dans le cor sans remplir ses conditions d'utilisation, les berserkers invoqués vous attaquent. Si vous remplissez les conditions, ils sont amicaux envers vous et vos compagnons et suivent vos ordres.  
 
 _Dungeon Master´s Guide (SRD)_
@@ -2891,53 +2349,21 @@ Cette cruche en céramique semble être en mesure de contenir 4 litres de liquid
 Vous pouvez utiliser une action et nommer un liquide de la table ci-dessous, et la cruche se remplit du liquide choisi. Ensuite, vous pouvez déboucher la jarre au prix d'une action et déverser ce liquide, jusqu'à 8 litres par minute. La quantité de liquide que la jarre peut produire dépend du liquide nommé.  
 Une fois que la jarre a commencé à produire un liquide, elle ne peut pas en produire un autre, ni plus que son maximum, jusqu'à l'aube suivante.  
 
-Liquide
-
-Quantité max
-
-Acide
-
-25 cl
-
-Bière
-
-16 l
-
-Eau douce
-
-32 l
-
-Eau salée
-
-48 l
-
-Huile
-
-1 l
-
-Miel
-
-4 l
-
-Mayonnaise
-
-8 l
-
-Poison simple
-
-15 ml
-
-Vin
-
-4 l
-
-Vinaigre
-
-8 l
-
-  
+| Liquide | Quantité max |
+| --- | --- |
+| Acide | 25 cl |
+| Bière | 16 l |
+| Eau douce | 32 l |
+| Eau salée | 48 l |
+| Huile | 1 l |
+| Miel | 4 l |
+| Mayonnaise | 8 l |
+| Poison simple | 15 ml |
+| Vin | 4 l |
+|  Vinaigre | 8 l |
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Cube de force
 =============
@@ -2950,76 +2376,24 @@ Ce cube fait environ 2,50 cm d'arête. Chaque face possède une marque distincte
 Vous pouvez utiliser une action pour appuyer sur l'une des faces du cube, tout en dépensant le nombre de charges associé à la face en question comme indiqué sur la table Faces du Cube de Force. Chaque face à son propre effet. Si le cube ne possède plus suffisamment de charges, rien ne se produit. Sinon, une barrière de force invisible apparaît, formant un cube de 4,50 mètres d'arête. La barrière est centrée sur vous, se déplace avec vous, et reste en place pendant 1 minute, jusqu'à ce que vous utilisiez une action pour appuyer sur la sixième face du cube, ou jusqu'à ce que le cube épuise toutes ses charges. Vous pouvez changer l'effet de la barrière en appuyant sur une face différente du cube et en dépensant les charges nécessaires, la durée d'apparition de la barrière est alors réinitialisée.  
 Si votre mouvement implique que la barrière entre en contact avec un objet solide qui ne peut pas passer au travers du cube, vous ne pouvez pas vous approcher plus de cet objet aussi longtemps que la barrière est activée.  
 
-Face
-
-Charges
-
-Effet
-
-1
-
-1
-
-Les gaz, vents, et brumes ne peuvent traverser la barrière.
-
-2
-
-2
-
-Les matières non vivantes ne peuvent pas passer au travers de la barrière. Les murs, sols, et plafonds peuvent passer au travers à la discrétion du MD.
-
-3
-
-3
-
-Les matières vivantes ne peuvent pas passer au travers de la barrière.
-
-4
-
-4
-
-Les effets des sorts ne peuvent pas passer au travers de la barrière.
-
-5
-
-5
-
-Rien ne peut passer au travers de la barrière. Les murs, sols, et plafonds peuvent passer au travers à la discrétion du MD.
-
-6
-
-0
-
-La barrière est désactivée.
-
+| Face | Charges | Effet |
+| --- | --- | --- |
+| 1 | 1 | Les gaz, vents, et brumes ne peuvent traverser la barrière. |
+| 2 | 2 | Les matières non vivantes ne peuvent pas passer au travers de la barrière. Les murs, sols, et plafonds peuvent passer au travers à la discrétion du MD. |
+| 3 | 3 | Les matières vivantes ne peuvent pas passer au travers de la barrière. |
+| 4 | 4 | Les effets des sorts ne peuvent pas passer au travers de la barrière. |
+| 5 | 5 | Rien ne peut passer au travers de la barrière. Les murs, sols, et plafonds peuvent passer au travers à la discrétion du MD. |
+| 6 | 0 | La barrière est désactivée. |
   
 Le cube perd des charges lorsque la barrière est ciblée par certains sorts ou entre en contact avec certains effets de sorts ou d'objets magiques, comme indiqué dans la table ci-dessous.  
 
-Sorts ou Objets
-
-Charges perdues
-
-_Désintégration_
-
-1d12
-
-_Cor de dévastation_
-
-1d10
-
-_Passe-muraille_
-
-1d6
-
-_Rayons prismatiques_
-
-1d20
-
-_Mur de feu_
-
-1d4
-
-  
+| Sorts ou Objets | Charges perdues |
+| --- | --- |
+| _Désintégration_ | 1d12 |
+| _Cor de dévastation_ | 1d10 |
+| _Passe-muraille_ | 1d6 |
+| _Rayons prismatiques_ | 1d20 |
+| _Mur de feu_ | 1d4 |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -3086,6 +2460,7 @@ _Déluge_ est liée au clan nain qui l'a fabriquée, parfois appelé le clan Dan
 Le marteau porte également en lui un honteux secret. Il y a des siècles de cela, un nain du nom de Ctenmiir porta _Déluge_ vaillamment. Mais Ctenmiir fut un jour transformé en vampire. Sa volonté était suffisamment forte pour plier _Déluge_ à ses vils desseins, et même tuer des membres de son propre clan.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Diadème de destruction
 ======================
@@ -3110,6 +2485,7 @@ Potion, rare
 Lorsque vous buvez cette potion, elle guérit de toute maladie qui vous afflige, et supprime les états aveuglé, assourdi, paralysé et empoisonné. Le liquide rouge clair possède de minuscules bulles de lumière.  
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Élixir du jouvence
 ==================
@@ -3121,6 +2497,7 @@ Potion, très rare
 Lorsque vous buvez cette potion, votre âge physique est réduit de 1d6 + 6 ans, jusqu'à un minimum de 13 ans. Par la suite, chaque fois que vous buvez de nouveau une _potion de longévité_, il y a une probabilité cumulative de 10 % que la potion vous fasse vieillir de 1d6 + 6 ans au lieu de rajeunir. Une queue de scorpion, un croc de vipère, une araignée morte et un tout petit cœur qui, contre toute attente, bat encore, sont en suspension dans ce liquide ambre. Les ingrédients disparaissent lorsque la potion est ouverte.  
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Encensoir de contrôle des élémentaires de l'air
 ===============================================
@@ -3203,6 +2580,7 @@ L'_Épée de Kas_ cherche également à détruire quiconque a été corrompu par
 **Détruire l'épée**. Une créature liée à la fois à l'_Œil de Vecna_ et à la _Main de Vecna_ peut utiliser la propriété Souhait de ces artéfacts combinés pour déconstruire l'_Épée de Kas_. La créature doit lancer le sort _souhait_ et effectuer un jet de Charisme contre un jet de Charisme de l'épée. L'épée doit se trouver dans un rayon de 9 mètres de la créature, sans quoi le sort échoue. Si l'épée remporte l'opposition, rien ne se passe, et le sort _souhait_ est dépensé pour rien. Si l'épée perd l'opposition, elle est détruite.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Épée de lumière lunaire
 =======================
@@ -3226,70 +2604,22 @@ Arme (épée longue), légendaire (nécessite un lien avec une créature posséd
 
 Dans le monde de Greyhawk, seules neuf de ces épées existent. Chacune a été créée sur le modèle de l'épée Fragarach, qui peut être traduit pas « le Dernier Mot ». Chacune de ces neuf épées a son propre nom et son propre alignement, et chacune porte une gemme différente incrustée dans son pommeau.  
 
-Nom
-
-Alignement
-
-Gemme
-
-Réponse
-
-Chaotique bon
-
-Émeraude
-
-Persiflage
-
-Chaotique mauvais
-
-Jais
-
-Conclusion
-
-Loyal neutre
-
-Améthyste
-
-Dernière boutade
-
-Chaotique neutre
-
-Tourmaline
-
-Contradiction
-
-Neutre bon
-
-Topaze
-
-Réplique
-
-Neutre
-
-Péridot
-
-Répartie
-
-Loyal bon
-
-Aigue-marine
-
-Critique cinglante
-
-Loyal mauvais
-
-Grenat
-
-Réprimande
-
-Neutre mauvais
-
-Spinelle
-
+| Nom | Alignement | Gemme |
+| --- | --- | --- |
+| Réponse | Chaotique bon | Émeraude |
+| Persiflage | Chaotique mauvais | Jais |
+| Conclusion | Loyal neutre | Améthyste |
+| Dernière boutade | Chaotique neutre | Tourmaline |
+| Contradiction | Neutre bon | Topaze |
+| Réplique | Neutre | Péridot |
+| Répartie | Loyal bon | Aigue-marine |
+| Critique cinglante | Loyal mauvais | Grenat |
+| Réprimande | Neutre mauvais | Spinelle |
   
 Vous gagnez un bonus de +3 à l'attaque et aux jets de dégâts effectués avec cette épée. De plus, tant que vous tenez cette épée, vous pouvez utiliser votre réaction pour effectuer une attaque au corps à corps avec elle contre n'importe quelle créature à votre portée qui vous inflige des dégâts. Vous avez un avantage aux jets d'attaque, et tout jet de dégâts infligé via cette attaque spéciale ignore l'immunité ou la résistance aux dégâts que la cible pourrait avoir.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Épée incisive
 =============
@@ -3333,6 +2663,7 @@ De plus, tant que cette épée se trouve sur vous, vous devez réussir un jet de
 Vous pouvez briser la malédiction par les moyens traditionnels. Vous pouvez sinon lancer le sort _bannissement_ sur l'épée pour forcer l'esprit vengeur à la quitter. L'épée devient alors une épée +1 sans aucune autre propriété.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Épée voleuse de vie
 ===================
@@ -3438,37 +2769,21 @@ La créature existe pour une durée spécifique à chaque statuette. À la fin d
 **Corbeau d'argent (Peu commun)**. Cette statuette de corbeau en argent peut devenir un corbeau pour une durée maximale de 12 heures. Une fois utilisée, elle ne peut plus l'être avant 2 jours. Dans sa forme animale, la statuette vous permet de lancer sur elle le sort _messager animal_ à volonté.  
   
 
-Mouche géante
-=============
-
-_Bête de taille G, sans alignement_
-
-**Classe d'Armure** 11  
-**Points de vie** 19 (3d10 + 3)  
-**Vitesse** 9 m, vol 18 m
-
-**FOR**  
-14 (+2)
-
-**DEX**  
-13 (+1)
-
-**CON**  
-13 (+1)
-
-**INT**  
-2 (-4)
-
-**SAG**  
-10 (+0)
-
-**CHA**  
-3 (-4)
-
-**Sens** vision dans le noir à 18 m, Perception passive 10  
-**Langues** -
-
-  
+>Mouche géante
+>=============
+>
+>_Bête de taille G, sans alignement_
+>
+>**Classe d'Armure** 11  
+>**Points de vie** 19 (3d10 + 3)  
+>**Vitesse** 9 m, vol 18 m
+>
+>| FOR | DEX | CON | INT | SAG | CHA |
+>| --- | --- | --- | --- | --- | --- |
+>| 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
+>
+>**Sens** vision dans le noir à 18 m, Perception passive 10  
+>**Langues** -
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -3485,131 +2800,38 @@ Cette urne en fer possède un bouchon en laiton. Vous pouvez utiliser une action
 Vous pouvez utiliser une action pour enlever le bouchon de la flasque et libérer la créature qu'elle contient. La créature est amicale envers vous et vos compagnons pendant 1 heure et obéit à vos ordres pendant toute cette durée. Si vous ne lui donnez aucun ordre ou si vous lui donnez un ordre qui la mènera vers une mort certaine, la créature se défend elle-même mais n'entreprend aucune autre action. À la fin de cette durée, la créature agit conformément à ses dispositions naturelles et à son alignement.  
 Un sort d'_identification_ révèle si une créature se trouve dans la flasque, mais le seul moyen de déterminer le type de la créature est d'ouvrir la flasque. Une urne nouvellement découverte pourrait déjà contenir une créature choisie par le MD ou déterminée aléatoirement.  
 
-d100
-
-Contenu
-
-1-50
-
-Vide
-
-51
-
-Arcanaloth
-
-52
-
-Cambion
-
-53-54
-
-Dao
-
-55-57
-
-Démon (type 1)
-
-58-60
-
-Démon (type 2)
-
-61-62
-
-Démon (type 3)
-
-63-64
-
-Démon (type 4)
-
-65
-
-Démon (type 5)
-
-66
-
-Démon (type 6)
-
-67
-
-Déva
-
-68-69
-
-Diable (supérieur)
-
-70-72
-
-Diable (inférieur)
-
-73-74
-
-Djinn
-
-75-76
-
-Éfrit
-
-77-78
-
-Élémentaire (tous types)
-
-79
-
-Githyanki, chevalier
-
-80
-
-Githzerai, zerth
-
-81-82
-
-Traqueur invisible
-
-83-84
-
-Maride
-
-85-86
-
-Mezzoloth
-
-87-88
-
-Guenaude nocturne
-
-89-90
-
-Nycaloth
-
-91
-
-Planétar
-
-92-93
-
-Salamandre
-
-94-95
-
-Slaad (tous types)
-
-96
-
-Solar
-
-97-98
-
-Succube/incube
-
-99
-
-Ultroloth
-
-100
-
-Xorn
-
-  
+| d100 | Contenu |
+| --- | --- |
+| 1-50 | Vide |
+| 51 | Arcanaloth |
+| 52 | Cambion |
+| 53-54 | Dao |
+| 55-57 | Démon (type 1) 
+| 58-60 |Démon (type 2) |
+| 61-62 | Démon (type 3) |
+| 63-64 | Démon (type 4) |
+| 65 | Démon (type 5) |
+| 66 | Démon (type 6) |
+| 67 | Déva 
+| 68-69 | Diable (supérieur) |
+| 70-72 | Diable (inférieur) |
+| 73-74 | Djinn |
+| 75-76 | Éfrit |
+| 77-78 | Élémentaire (tous types) |
+| 79 | Githyanki, chevalier |
+| 80 | Githzerai, zerth |
+| 81-82 | Traqueur invisible |
+| 83-84 | Maride |
+| 85-86 | Mezzoloth |
+| 87-88 | Guenaude nocturne |
+| 89-90 | Nycaloth |
+| 91 | Planétar |
+| 92-93 | Salamandre |
+| 94-95 | Slaad (tous types) |
+| 96 | Solar |
+| 97-98 | Succube/incube |
+| 99 | Ultroloth |
+| 100 | Xorn |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -3711,6 +2933,7 @@ Objet merveilleux, peu commun
 Ces gants sont invisibles tant qu'ils sont portés. Tant que vous en êtes équipé, vous gagnez un bonus de +5 aux jets de Dextérité (Escamotage) et aux jets de Dextérité effectués pour crocheter des serrures.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Gants de nage et d'escalade
 ===========================
@@ -3791,27 +3014,12 @@ Objet merveilleux, peu commun
 
 Cette gemme contient un brin d'énergie élémentaire. Lorsque vous utilisez une action pour briser la gemme, un élémentaire est invoqué comme si vous aviez jeté le sort _invocation d'élémentaire_, et la magie de la gemme est perdue. Le type de gemme détermine l'élémentaire invoqué par le sort.  
 
-Gemme
-
-Élémentaire invoqué
-
-Saphir bleu
-
-Élémentaire de l'air
-
-Diamant jaune
-
-Élémentaire de la terre
-
-Corindon rouge
-
-Élémentaire du feu
-
-Émeraude
-
-Élémentaire de l'eau
-
-  
+| Gemme | Élémentaire invoqué |
+| --- | --- |
+| Saphir bleu | Élémentaire de l'air |
+| Diamant jaune | Élémentaire de la terre |
+| Corindon rouge | Élémentaire du feu |
+| Émeraude | Élémentaire de l'eau |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -3828,6 +3036,7 @@ Cette petite sphère de verre épais pèse 500 g. Si vous êtes dans un rayon de
 Vous pouvez prononcer un autre mot de commande au prix d'une action pour faire monter en l'air le globe lumineux et le faire flotter à un maximum de 1,50 mètre du sol. Le globe flotte en l'air de cette façon jusqu'à ce que vous ou une autre créature le saisissiez. Si vous vous déplacez plus de 18 m du globe alors qu'il est en l'air, celui-ci vous suit afin de ne pas être à plus de 18 mètres de vous, prenant le chemin le plus court pour ce faire. S'il ne peut pas se déplacer, le globe descend doucement vers le sol et devient inactif, et sa lumière clignote.  
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Grimoire résistant
 ==================
@@ -3868,6 +3077,7 @@ Bien plus tard, pendant une période marquée par les trahisons et la vilénie, 
 **Détruire la hache**. Le seul moyen de détruire la hache est de la plonger dans la _Forge Cœur-de-Montagne_, où elle a été créée. Elle doit rester dans la forge incandescente pendant cinquante années avant de succomber aux flammes et de se liquéfier.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Hache du berserker
 ==================
@@ -4073,63 +3283,19 @@ Un _instrument de barde_ est un magnifique exemplaire dans sa catégorie, supér
 Vous pouvez utiliser une action pour jouer de l'instrument et lancer l'un de ses sorts. Une fois que l'instrument a été utilisé pour lancer un sort, il ne peut plus être réutilisé pour lancer ce sort avant la prochaine aube. Les sorts utilisent votre caractéristique d'incantation ainsi que votre DD au jet de sauvegarde des sorts.  
 Si vous jouez de l'instrument tout en lançant un sort qui charme sa ou ses cibles en cas d'échec au jet de sauvegarde, la cible a dans ce cas un désavantage à son jet de sauvegarde. Cet effet ne s'applique que si vous lancez un sort qui possède une composante somatique ou matérielle.  
 
-Instrument
-
-Rareté
-
-Sorts
-
-Tous
-
-\-
-
-_Vol, invisibilité, lévitation, protection contre le mal et le bien_, plus les sorts listés ci-dessous en fonction de l'instrument
-
-Bandore de Fochluchan
-
-Peu commun
-
-_Enchevêtrement, lueurs féeriques, gourdin magique, communication avec les animaux_
-
-Cistre de Mac-Fuirmidh
-
-Peu commun
-
-_Peau d'écorce, soins, nappe de brouillard_
-
-Harpe d'Anstruth
-
-Très rare
-
-_Contrôle du climat, soins_ (emplacement niveau 5), _mur d'épines_
-
-Harpe d'Ollamh
-
-Légendaire
-
-_Confusion, contrôle du climat, tempête de feu_
-
-Luth de Doss
-
-Peu commun
-
-_Amitié avec les animaux, protection contre une énergie_ (feu uniquement), _protection contre le poison_
-
-Lyre de Cli
-
-Rare
-
-_Façonnage de la pierre, mur de feu, mur de vent_
-
-Mandoline de Canaith
-
-Rare
-
-_soins_ (emplacement niveau 3), _dissipation de la magie, protection contre une énergie_ (foudre uniquement)
-
-  
+| Instrument | Rareté | Sorts |
+| --- | --- | --- |
+| Tous | \- | _Vol, invisibilité, lévitation, protection contre le mal et le bien_, plus les sorts listés ci-dessous en fonction de l'instrument |
+| Bandore de Fochluchan | Peu commun | _Enchevêtrement, lueurs féeriques, gourdin magique, communication avec les animaux_ |
+| Cistre de Mac-Fuirmidh | Peu commun | _Peau d'écorce, soins, nappe de brouillard_ |
+| Harpe d'Anstruth | Très rare | _Contrôle du climat, soins_ (emplacement niveau 5), _mur d'épines_ |
+| Harpe d'Ollamh | Légendaire | _Confusion, contrôle du climat, tempête de feu_ |
+| Luth de Doss | Peu commun | _Amitié avec les animaux, protection contre une énergie_ (feu uniquement), _protection contre le poison_ |
+| Lyre de Cli | Rare | _Façonnage de la pierre, mur de feu, mur de vent_ |
+| Mandoline de Canaith | Rare | _soins_ (emplacement niveau 3), _dissipation de la magie, protection contre une énergie_ (foudre uniquement) |
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Jatte de contrôle des élémentaires de l'eau
 ===========================================
@@ -4186,58 +3352,19 @@ Une _Lamelune_ ne sert qu'un seul maître à la fois. Le processus de lien néce
 Une _Lamelune_ ne servira personne pouvant être considéré comme lâche, capricieux, corrompu, ou dont les actions vont à l'encontre de la préservation et la protection des royaumes elfiques. Si la lame vous rejette, vous effectuez vos jets d'attaque, de caractéristiques et de sauvegarde avec un désavantage pendant 24 heures. Si l'arme vous accepte, vous êtes lié à elle et une nouvelle rune apparaît sur la lame. Vous restez lié à la lame jusqu'à ce que vous décédiez ou que l'arme soit détruite.  
 Une _Lamelune_ possède une rune sur sa lame pour chaque maître qu'elle a servi (généralement 1d6 + 1). La première rune confère toujours un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique. Chaque rune au-delà de la première confère une propriété supplémentaire. Le MD choisit chaque propriété ou les détermine aléatoirement sur la table ci-dessous.  
 
-d100
-
-Propriété
-
-01-40
-
-Augmente le bonus aux jets d'attaque et de dégâts de 1, avec un maximum de +3. Relancez si la _Lamelune_ possède déjà un bonus de +3.
-
-41-80
-
-La _Lamelune_ gagne une propriété mineure déterminée aléatoirement.
-
-81-82
-
-La _Lamelune_ gagne la propriété finesse.
-
-83-84
-
-La _Lamelune_ gagne la propriété lancer (portée 6/18 mètres).
-
-85-86
-
-La _Lamelune_ fonctionne comme une _épée gardienne_.
-
-87-90
-
-La plage de coup critique de la _Lamelune_ s'étend à 19 ou 20.
-
-91-92
-
-Lorsque vous touchez lors d'une attaque en utilisant la _Lamelune_, l'attaque inflige 1d6 dégâts tranchants supplémentaires.
-
-93-94
-
-Lorsque vous touchez une créature d'un type spécifique (comme par exemple un dragon, un fiélon ou un mort-vivant) lors d'une attaque en utilisant la _Lamelune_, la cible subit 1d6 dégâts supplémentaires de l'un de ces types : acide, froid, feu, foudre ou tonnerre.
-
-95-96
-
-Vous pouvez utiliser une action bonus pour que la _Lamelune_ se mette à briller fortement. Chaque créature qui peut vous voir et qui se trouve dans un rayon de 9 mètres autour de vous doit réussir un jet de sauvegarde de Constitution DD 15 sous peine d'être aveuglée pendant 1 minute. Une créature peut retenter ce jet de sauvegarde à la fin de chacun de ses tours, mettant un terme à l'effet qui l'affecte en cas de réussite. Cette propriété ne peut pas être réutilisée avant que vous n'ayez terminé un repos court tout en étant lié à cette arme.
-
-97-98
-
-La _Lamelune_ fonctionne comme un _anneau de stockage de sort_.
-
-99
-
-Vous pouvez utiliser une action pour appeler une ombre elfique, à condition que vous n'en ayez pas déjà une à votre service. L'ombre elfique apparaît dans un espace inoccupé situé à 36 mètres de vous maximum. Elle utilise les mêmes statistiques qu'une **ombre** à quelques différences près : son alignement est neutre, elle est immunisée aux effets de renvoi des morts-vivants, et ne peut pas créer d'autres ombres. Vous contrôlez cette créature, décidez de comment elle se déplace et agit. Elle reste présente jusqu'à ce que ses points de vie tombent à 0 ou que vous la renvoyiez en utilisant une action.
-
-00
-
-La _Lamelune_ fonctionne comme une _épée vorpale_.
-
+| d100 | Propriété |
+| 01-40 | Augmente le bonus aux jets d'attaque et de dégâts de 1, avec un maximum de +3. Relancez si la _Lamelune_ possède déjà un bonus de +3. |
+| 41-80 | La _Lamelune_ gagne une propriété mineure déterminée aléatoirement. |
+| 81-82 | La _Lamelune_ gagne la propriété finesse. |
+| 83-84 | La _Lamelune_ gagne la propriété lancer (portée 6/18 mètres). |
+| 85-86 | La _Lamelune_ fonctionne comme une _épée gardienne_. |
+| 87-90 | La plage de coup critique de la _Lamelune_ s'étend à 19 ou 20. |
+| 91-92 | Lorsque vous touchez lors d'une attaque en utilisant la _Lamelune_, l'attaque inflige 1d6 dégâts tranchants supplémentaires. |
+| 93-94 | Lorsque vous touchez une créature d'un type spécifique (comme par exemple un dragon, un fiélon ou un mort-vivant) lors d'une attaque en utilisant la _Lamelune_, la cible subit 1d6 dégâts supplémentaires de l'un de ces types : acide, froid, feu, foudre ou tonnerre. |
+| 95-96 | Vous pouvez utiliser une action bonus pour que la _Lamelune_ se mette à briller fortement. Chaque créature qui peut vous voir et qui se trouve dans un rayon de 9 mètres autour de vous doit réussir un jet de sauvegarde de Constitution DD 15 sous peine d'être aveuglée pendant 1 minute. Une créature peut retenter ce jet de sauvegarde à la fin de chacun de ses tours, mettant un terme à l'effet qui l'affecte en cas de réussite. Cette propriété ne peut pas être réutilisée avant que vous n'ayez terminé un repos court tout en étant lié à cette arme. |
+| 97-98 | La _Lamelune_ fonctionne comme un _anneau de stockage de sort_. |
+| 99 | Vous pouvez utiliser une action pour appeler une ombre elfique, à condition que vous n'en ayez pas déjà une à votre service. L'ombre elfique apparaît dans un espace inoccupé situé à 36 mètres de vous maximum. Elle utilise les mêmes statistiques qu'une **ombre** à quelques différences près : son alignement est neutre, elle est immunisée aux effets de renvoi des morts-vivants, et ne peut pas créer d'autres ombres. Vous contrôlez cette créature, décidez de comment elle se déplace et agit. Elle reste présente jusqu'à ce que ses points de vie tombent à 0 ou que vous la renvoyiez en utilisant une action. |
+| 00 | La _Lamelune_ fonctionne comme une _épée vorpale_. |
   
 **Conscience**. Une _Lamelune_ est une arme intelligente neutre bonne qui possède une Intelligence de 12, une Sagesse de 10 et un Charisme de 12. Elle est capable d'entendre, et possède la vision dans le noir à 36 mètres.  
 L'arme communique en transmettant ses émotions et en envoyant de petits picotements dans la main de son porteur lorsqu'elle veut lui communiquer qu'elle a ressenti quelque chose. Elle peut communiquer plus explicitement, au travers de visions ou de rêves, lorsque le porteur est en transe ou en train de dormir.  
@@ -4245,6 +3372,7 @@ L'arme communique en transmettant ses émotions et en envoyant de petits picotem
 Si une _Lamelune_ possède un défaut, c'est d'être présomptueuse. Une fois qu'elle a décidé de se lier à un porteur, elle est persuadée que seule cette personne mérite de la détenir, même si son porteur s'éloigne des idéaux elfiques.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Lanterne de révélation
 ======================
@@ -4295,9 +3423,9 @@ Les _Chapitres interdits_ traitent de tout ce qui est maléfique dans le cosmos.
 • **Noms véritables**. Les noms véritables d'un certain nombre de fiélons pourraient se trouver dans le livre.  
 • **Magie noire**. Plusieurs sorts maléfiques créés par le MD pourraient se trouver dans le livre. Ces sorts pourraient soumettre un être à une monstrueuse malédiction, en défigurer d'autres, nécessite un sacrifice humain, affliger les créatures d'handicaps importants, répandre de terribles épidémies, etc.  
 
-  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Les Chapitres sacrés
 ====================
@@ -4319,6 +3447,7 @@ Les bénéfices conférés par les _Chapitres sacrés_ perdurent aussi longtemps
 **Détruire le livre**. La légende veut que les _Chapitres sacrés_ ne puissent pas être détruit tant qu'il existera une créature d'alignement bon dans le multivers. Cependant, plonger le livre dans la rivière Styx fait disparaître les textes et illustrations de ses pages et fait perdre au livre son pouvoir pendant 1d100 années.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Liens de fer de Bilarro
 =======================
@@ -4358,6 +3487,7 @@ Armure (cotte de mailles), légendaire (nécessite un lien)
 Tant que vous portez cette armure, vous gagnez un bonus de +3 à la CA, vous êtes immunisé aux dégâts de feu, et vous pouvez comprendre et parler le primordial. De plus, vous pouvez rester sur de la roche en fusion et même marcher dessus, comme s'il s'agissait de terre solide.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Mailles elfiques
 ================
@@ -4434,46 +3564,12 @@ Objet merveilleux, très rare
 
 Ce livre contient les informations et incantations nécessaires pour créer un golem d'un type particulier. Le MD choisit le type ou le détermine aléatoirement. Pour déchiffrer le manuel et l'utiliser, vous devez être un lanceur de sorts possédant au moins deux emplacements de sorts de niveau 5. Une créature qui ne peut pas utiliser le _manuel des golems_ et qui tente de le lire subit 6d6 dégâts psychiques.  
 
-d20
-
-Golem
-
-Temps
-
-Coût
-
-1-5
-
-Argile
-
-30 jours
-
-65 000 po
-
-6-17
-
-Chair
-
-60 jours
-
-50 000 po
-
-18
-
-Fer
-
-120 jours
-
-100 000 po
-
-19-20
-
-Pierre
-
-90 jours
-
-80 000 po
-
+| d20 | Golem | Temps | Coût |
+| --- | --- | --- | --- |
+| 1-5 | Argile | 30 jours | 65 000 po |
+| 6-17 | Chair | 60 jours | 50 000 po |
+| 18 | Fer | 120 jours | 100 000 po |
+| 19-20 | Pierre | 90 jours | 80 000 po |
   
 Pour créer un golem, vous devez y passer le temps indiqué sur la table ci-dessus, travaillant sans interruption avec le manuel en main et en ne vous reposant pas plus de 8 heures par jour. Vous devez également dépenser le montant indiqué en achat de fournitures et autres matériels nécessaires. Une fois que vous avez terminé de créer le golem, le livre est consumé par des flammes occultes. Le golem s'anime lorsque les cendres du manuel sont répandues au-dessus de lui. Le golem est sous votre contrôle, et il comprend et obéit aux ordres oraux que vous lui donnez.  
 
@@ -4646,6 +3742,7 @@ En dépit de son nihilisme, _Noir rasoir_ ressent un étrange lien de parenté a
 La faim insatiable de _Noir rasoir_ pour de nouvelles âmes doit être régulièrement satisfaite. Si l'épée passe trois jours ou plus sans consommer d'âme, un conflit survient entre elle et son porteur au coucher de soleil qui suit.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Oeil artificiel
 ===============
@@ -4695,6 +3792,7 @@ Pour vous lier à la main, vous devez vous trancher votre propre main gauche au 
 **Détruire l'Œil et la Main**. Si l'_Œil de Vecna_ ou la _Main de Vecna_ sont tous les deux attachés sur la même créature, et que la créature est frappée par l'_Épée de Kas_, l'œil et la main prennent feu tous les deux, sont réduits en cendre et détruits pour toujours. Toute autre tentative pour détruire l'œil ou la main semble initialement fonctionner, mais l'artéfact en question réapparaît toujours dans l'un des nombreux caveaux cachés de Vecna, et attend d'être de nouveau découvert.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Orbe boussole
 =============
@@ -4761,6 +3859,7 @@ Le cylindre se déplace avec vous et reste centré sur vous. Cependant, si vous 
 Une créature peut tenter de surmonter la barrière en utilisant une action pour faire un jet de Charisme DD 15. En cas de réussite, la créature cesse d'être affectée par la barrière.  
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Parchemin de sort
 =================
@@ -4773,97 +3872,18 @@ Un _parchemin de sort_ contient les mots d'un seul sort, écrit dans un langage 
 Si le sort est sur la liste des sorts de votre classe mais d'un niveau supérieur à celui que vous pouvez normalement lancer, vous devez effectuer un jet de caractéristique en utilisant votre caractéristique d'incantation pour déterminer si vous le lancez avec succès. Le DD est égal à 10 + le niveau du sort. Si le jet échoue, le sort disparaît du parchemin, sans autre effet.  
 Le niveau du sort du parchemin détermine le DD du jet de sauvegarde et le bonus d'attaque, ainsi que sa rareté, comme indiqué dans le tableau suivant :  
 
-Niveau  
-du sort
-
-Rareté
-
-DD de  
-sauvegarde
-
-Bonus  
-d'attaque
-
-Sort mineur
-
-Commun
-
-13
-
-+5
-
-1
-
-Commun
-
-13
-
-+5
-
-2
-
-Peu commun
-
-13
-
-+5
-
-3
-
-Peu commun
-
-15
-
-+7
-
-4
-
-Rare
-
-15
-
-+7
-
-5
-
-Rare
-
-17
-
-+9
-
-6
-
-Très rare
-
-17
-
-+9
-
-7
-
-Très rare
-
-18
-
-+10
-
-8
-
-Très rare
-
-18
-
-+10
-
-9
-
-Légendaire
-
-19
-
-+11
-
+| Niveau du sort | Rareté | DD de sauvegarde | Bonus d'attaque |
+| --- | --- | --- | --- |
+| Sort mineur | Commun | 13 | +5 |
+| 1 | Commun | 13 | +5 |
+| 2 | Peu commun | 13 | +5 |
+| 3 | Peu commun | 15 | +7 |
+| 4 | Rare | 15 | +7 |
+| 5 | Rare | 17 | +9 |
+| 6 | Très rare | 17 | +9 |
+| 7 | Très rare | 18 | +10 |
+| 8 | Très rare | 18 | +10 |
+| 9 | Légendaire | 19 | +11 |
   
 Un sort de magicien sur un _parchemin de sort_ peut être recopié de la même manière que les sorts d'un grimoire. Quand un sort est copié à partir d'un _parchemin de sort_, le copieur doit réussir un jet d'Intelligence (Arcanes) d'un DD égal à 10 + le niveau du sort. Si le jet est réussi, le sort est copié avec succès. Dans tous les cas, le _parchemin de sort_ est détruit.  
 
@@ -5046,6 +4066,7 @@ Tant que vous touchez une pierre, vous pouvez utiliser une action pour lancer le
 Une fois que le sort _communication à distance_ est lancé via les pierres, elles ne peuvent être réutilisées avant le prochain levé de soleil. Si l'une des pierres de la paire est détruite, l'autre pierre devient non magique.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Pigments merveilleux de Nolzur
 ==============================
@@ -5086,35 +4107,15 @@ Objet merveilleux, rare
 
 Ce tout petit objet ressemble à une plume. Différents types de plume magique existent, chacune étant d'usage unique et possédant son propre effet. Le MD choisit le type de la plume ou le détermine aléatoirement.  
 
-d100
+| d100 | Plume magique |
+| --- | --- |
+| 01-20 | Ancre |
+| 21-35 | Oiseau |
+| 36-50 | Éventail |
+| 51-65 | Bateau cygne |
+| 66-90 | Arbre |
+| 91-00 | Fouet |
 
-Plume magique
-
-01-20
-
-Ancre
-
-21-35
-
-Oiseau
-
-36-50
-
-Éventail
-
-51-65
-
-Bateau cygne
-
-66-90
-
-Arbre
-
-91-00
-
-Fouet
-
-  
 **Ancre**. Vous pouvez utiliser une action pour toucher un navire ou un bateau avec la plume. Pour les 24 prochaines heures, le vaisseau ne peut pas être déplacé par quelque moyen que ce soit. Toucher une seconde fois le vaisseau avec la plume met un terme à l'effet. Lorsque l'effet prend fin, la plume disparaît.  
 **Oiseau**. Vous pouvez utiliser une action pour lancer la plume à 1,50 mètre dans les airs. La plume disparaît et un énorme oiseau multicolore prend sa place. L'oiseau possède les statistiques d'un roc, mais il obéit à vos ordres simples et ne peut pas attaquer. Il peut transporter jusqu'à 250 kg tout en volant à sa vitesse de vol maximale (24 km/heure pour un maximum de 216 km/jour, avec une heure de repos toutes les 3 heures de vol), ou 500 kg en volant à la moitié de sa vitesse de vol. L'oiseau disparaît après avoir parcouru autant que sa distance maximale de vol dans une journée, ou s'il tombe à 0 point de vie. Vous pouvez renvoyer l'oiseau en utilisant une action.  
 **Éventail**. Si vous êtes sur un navire ou un bateau, vous pouvez utiliser une action pour lancer la plume de Quaal à 3 mètres en l'air. La plume disparaît, et un éventail géant en train de battre apparaît à sa place. L'éventail volette et crée un vent suffisamment puissant pour gonfler les voiles d'un navire, augmentant sa vitesse de 7,5 km/heure pendant 8 heures. Vous pouvez renvoyer l'éventail en utilisant une action.  
@@ -5215,6 +4216,7 @@ Potion, rare
 Après avoir bu cette potion, vous avez une résistance à tous les dégâts durant 1 minute. Le liquide sirupeux de cette potion ressemble à du fer liquéfié.  
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Potion de clairvoyance
 ======================
@@ -5252,43 +4254,13 @@ Potion, variable
 Lorsque vous buvez cette potion, votre valeur de Force change pour 1 heure. Le type du géant détermine la valeur (voir le tableau ci-dessous). La potion n'a aucun effet sur vous si votre Force est égale ou supérieure à celle indiquée.  
 Dans le liquide transparent de cette potion flotte un morceau d'ongle d'un géant du type approprié. Une _potion de force de géant du givre_ et une _potion de géant des pierres_ ont le même effet.  
 
-Type de géant
-
-Force
-
-Rareté
-
-Géant des collines
-
-21
-
-Peu commun
-
-Géant des pierres/du givre
-
-23
-
-Rare
-
-Géant du feu
-
-25
-
-Rare
-
-Géant des nuages
-
-27
-
-Très rare
-
-Géant des tempêtes
-
-29
-
-Légendaire
-
-  
+| Type de géant | Force | Rareté |
+| --- | --- | --- |
+| Géant des collines | 21 | Peu commun |
+| Géant des pierres/du givre | 23 | Rare |
+| Géant du feu | 25 | Rare |
+| Géant des nuages | 27 | Très rare |
+| Géant des tempêtes | 29 | Légendaire |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -5316,37 +4288,12 @@ Potion, variable
 
 Lorsque vous buvez cette potion, vous regagnez des points de vie. Le nombre de points de vie dépend de la rareté de la potion, comme indiqué dans la table ci-dessous. Quelle que soit sa puissance, le liquide rouge de la potion se met à luire lorsqu'il est agité.  
 
-Potion de ...
-
-Rareté
-
-pv regagnés
-
-Guérison
-
-Commun
-
-2d4 + 2
-
-Guérison majeure
-
-Peu commun
-
-4d4 + 4
-
-Guérison supérieure
-
-Rare
-
-8d4 + 8
-
-Guérison suprême
-
-Très rare
-
-10d4 + 20
-
-  
+| Potion de ... | Rareté | pv regagnés |
+| --- | --- | --- |
+| Guérison | Commun | 2d4 + 2 |
+| Guérison majeure | Peu commun | 4d4 + 4 |
+| Guérison supérieure | Rare | 8d4 + 8 |
+| Guérison suprême | Très rare | 10d4 + 20 |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -5388,51 +4335,18 @@ Potion, peu commun
 
 Lorsque vous buvez cette potion, vous gagnez une résistance à un type de dégâts pendant 1 heure. Le MD choisit le type ou le détermine au hasard parmi les options ci-dessous.  
 
-d10
-
-Type de dégâts
-
-1
-
-Acide
-
-2
-
-Froid
-
-3
-
-Feu
-
-4
-
-Force
-
-5
-
-Foudre
-
-6
-
-Nécrotique
-
-7
-
-Poison
-
-8
-
-Psychique
-
-9
-
-Radiant
-
-10
-
-Tonnerre
-
-  
+| d10 | Type de dégâts |
+| --- | --- |
+| 1 | Acide |
+| 2 | Froid |
+| 3 | Feu |
+| 4 | Force |
+| 5 | Foudre |
+| 6 | Nécrotique |
+| 7 | Poison |
+| 8 | Psychique |
+| 9 | Radiant |
+| 10 | Tonnerre |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -5462,6 +4376,7 @@ Après avoir bu cette potion, vous pouvez utiliser une action bonus pour expirer
 Le liquide orange de cette potion scintille et de la fumée remplit la partie supérieure du contenant, laquelle sort de la fiole lorsque la potion est ouverte.  
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Potion de vitalité
 ==================
@@ -5473,6 +4388,7 @@ Potion, très rare
 Lorsque vous buvez cette potion, cela supprime toute fatigue dont vous souffrez, et guérit toute maladie ou un poison qui vous affecte. Pour les prochaines 24 heures, vous regagnez le maximum de points de vie pour tout DV que vous dépensez. Ce liquide pourpre émet régulièrement une lumière terne, rappelant le battement d'un coeur.  
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Potion de vitesse
 =================
@@ -5631,63 +4547,21 @@ La robe possède deux de chacun des morceaux de tissu présentés ci-dessous :
 • Sac  
 De plus, la robe possède 4d4 autres pièces de tissu. Le MD choisit les pièces ou les détermine de manière aléatoire.  
 
-d100
-
-Pièce de tissu
-
-01-08
-
-Un sac contenant 100 po
-
-09-15
-
-Un coffret en argent (30 cm de longueur, 15 cm de largeur et de hauteur) d'une valeur de 500 po
-
-16-22
-
-Une porte en fer (jusqu'à 3 m de largeur et 3 m de hauteur, barrée du côté du votre choix), que vous pouvez placer dans une ouverture à portée ; elle s'adapte à l'ouverture, se fixant et s'alignant elle-même aux parois
-
-23-30
-
-10 pierres précieuses d'une valeur de 100 po chacune
-
-31-44
-
-Une échelle en bois (7,2 m)
-
-45-51
-
-Un cheval de selle avec des fontes
-
-52-59
-
-Une fosse (un cube de 3 mètres de côté), que vous pouvez placer sur le sol dans un rayon de 3 mètres autour de vous
-
-60-68
-
-4 potions de guérison
-
-69-75
-
-Une barque (3,6 m de long)
-
-76-83
-
-Un rouleau de parchemin contenant un sort de niveau 1 à 3
-
-84-90
-
-2 molosses
-
-91-96
-
-Une fenêtre (60 cm x 1,2 m, jusqu'à 60 cm de profondeur), que vous pouvez placer sur une surface verticale que vous pouvez atteindre
-
-97-00
-
-Un bélier portable
-
-  
+| d100 | Pièce de tissu |
+| --- | --- |
+| 01-08 | Un sac contenant 100 po |
+| 09-15 | Un coffret en argent (30 cm de longueur, 15 cm de largeur et de hauteur) d'une valeur de 500 po |
+| 16-22 | Une porte en fer (jusqu'à 3 m de largeur et 3 m de hauteur, barrée du côté du votre choix), que vous pouvez placer dans une ouverture à portée ; elle s'adapte à l'ouverture, se fixant et s'alignant elle-même aux parois |
+| 23-30 | 10 pierres précieuses d'une valeur de 100 po chacune |
+| 31-44 | Une échelle en bois (7,2 m) |
+| 45-51 | Un cheval de selle avec des fontes |
+| 52-59 | Une fosse (un cube de 3 mètres de côté), que vous pouvez placer sur le sol dans un rayon de 3 mètres autour de vous |
+| 60-68 | 4 potions de guérison |
+| 69-75 | Une barque (3,6 m de long) |
+| 76-83 | Un rouleau de parchemin contenant un sort de niveau 1 à 3 |
+| 84-90 | 2 molosses |
+| 91-96 | Une fenêtre (60 cm x 1,2 m, jusqu'à 60 cm de profondeur), que vous pouvez placer sur une surface verticale que vous pouvez atteindre |
+| 97-00 | Un bélier portable |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -5767,121 +4641,43 @@ Une fois que trois objets poilus ont été pris dans le sac, le sac ne peut plus
   
 **Sac à malices (gris)**  
 
-d8
-
-Créature
-
-1
-
-Belette
-
-2
-
-Rat géant
-
-3
-
-Blaireau
-
-4
-
-Sanglier
-
-5
-
-Panthère
-
-6
-
-Blaireau géant
-
-7
-
-Loup sanguinaire
-
-8
-
-Élan géant
-
+| d8 | Créature |
+| --- | --- |
+| 1 | Belette |
+| 2 | Rat géant |
+| 3 | Blaireau |
+| 4 | Sanglier |
+| 5 | Panthère |
+| 6 | Blaireau géant |
+| 7 | Loup sanguinaire |
+| 8 | Élan géant |
   
 **Sac à malices (rouille)**  
 
-d8
-
-Créature
-
-1
-
-Rat
-
-2
-
-Hibou
-
-3
-
-Molosse
-
-4
-
-Chèvre
-
-5
-
-Chèvre géante
-
-6
-
-Sanglier géant
-
-7
-
-Lion
-
-8
-
-Ours brun
+| d8 | Créature |
+| --- | --- |
+| 1 | Rat |
+| 2 | Hibou |
+| 3 | Molosse |
+| 4 | Chèvre |
+| 5 | Chèvre géante |
+| 6 | Sanglier géant |
+| 7 | Lion |
+| 8 | Ours brun |
 
   
 **Sac à malices (ocre)**  
 
-d8
-
-Créature
-
-1
-
-Chacal
-
-2
-
-Singe
-
-3
-
-Babouin
-
-4
-
-Bec de hache
-
-5
-
-Ours noir
-
-6
-
-Belette géante
-
-7
-
-Hyène géante
-
-8
-
-Tigre
-
-  
+| d8 | Créature |
+| --- | --- |
+| 1 | Chacal |
+| 2 | Singe |
+| 3 | Babouin |
+| 4 | Bec de hache |
+| 5 | Ours noir |
+| 6 | Belette géante |
+| 7 | Hyène géante |
+| 8 | Tigre |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -5898,59 +4694,20 @@ Objet merveilleux, rare
 Si vous videz le contenu du sac sur le sol, les haricots explosent. Chaque créature présente dans un rayon de 3 mètres autour du point d'impact entre les haricots et le sol doit effectuer un jet de sauvegarde de Dextérité DD 15, subissant 5d4 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le feu enflamme les objets inflammables qui se trouvent dans la zone et qui ne sont ni portés ni transportés.  
 Si vous prélevez un haricot du sac, et le plantez dans la terre ou le sable, puis l'arrosez, le haricot produit un effet une minute plus tard, à l'endroit où vous l'avez planté. Le MD peut choisir l'effet en consultant la table qui suit, le déterminer aléatoirement, ou créer un nouvel effet.  
 
-d100
-
-Effet
-
-01
-
-5d4 champignons vénéneux poussent. Si une créature mange un champignon vénéneux, lancer n'importe quel dé. Sur un résultat impair, la créature doit réussir un jet de sauvegarde de Constitution DD 15 sous peine de subir 5d6 dégâts de poison et être empoisonnée pendant 1 heure. Sur un résultat pair, la créature gagne 5d6 points de vie temporaires pendant 1 heure.
-
-02-10
-
-Un geyser apparaît et fait jaillir de l'eau, de la bière, du jus de baies, du thé, du vinaigre, du vin, ou de l'huile (au choix du MD) jusqu'à 9 mètres dans les airs, pendant 1d12 tours.
-
-11-20
-
-Un sylvanien pousse. Il y a 50 % de risque que le sylvanien soit chaotique mauvais et vous attaque.
-
-21-30
-
-Une statue de pierre, immobile mais animée, vous ressemblant émerge du sol. Elle vous menace verbalement. Si vous la quittez et que d'autres créatures viennent près d'elle, elle vous décrit comme le plus malfaisant des criminels et envoie les nouveaux arrivants vous trouver et vous attaquer. Si vous vous trouvez sur le même plan d'existence que la statue, elle sait où vous êtes. La statue devient inanimée au bout de 24 heures.
-
-31-40
-
-Un feu de camp produisant des flammes bleues jaillit et brûle pendant 24 heures (ou jusqu'à ce qu'il soit éteint).
-
-41-50
-
-1d6 + 6 criards poussent.
-
-51-60
-
-1d4 + 8 crapauds rose brillant sortent de terre en rampant. Lorsqu'un crapaud est touché, il se transforme en un monstre de taille G ou P que le MD choisit. La monstre reste pendant 1 minute, puis disparaît dans un nuage de fumée rose brillant.
-
-61-70
-
-Une bulette affamée creuse jusqu'à la surface et vous attaque.
-
-71-80
-
-Un arbre fruitier pousse. Il possède 1d10 + 20 fruits, 1d8 d'entre eux fonctionnent comme des potions magiques déterminées aléatoirement, tandis qu'un autre fonctionne comme un poison à ingestion du choix du MD. L'arbre s'évapore au bout d'une heure. Les fruits cueillis restent, conservant leur magie pendant 30 jours.
-
-81-90
-
-Un nid contenant 1d4 + 3 œufs surgit du sol. Toute créature qui mange un œuf doit effectuer un jet de sauvegarde de Constitution DD 20. En cas de jet de sauvegarde réussi, une créature augmente de manière permanente sa valeur de caractéristique la plus faible de 1, choisie de manière aléatoire dans le cas ou plusieurs valeurs seraient égales. En cas d'échec au jet, la créature subit 10d6 dégâts de force à cause d'une explosion magique interne.
-
-91-99
-
-Une pyramide à base carré de 18 mètres de côté jaillit du sol. À l'intérieur se trouve un sarcophage abritant un seigneur momie. La pyramide est traitée comme le repaire du seigneur momie, et son sarcophage contient un trésor du choix du MD.
-
-00
-
-Une tige de haricot géant pousse jusqu'à atteindre une hauteur déterminée par le MD. Le sommet atteint ce que le MD choisit, comme un simple mais beau panorama, la forteresse d'un géant des nuages, ou un autre plan d'existence.
-
-  
+| d100 | Effet |
+| --- | --- |
+| 01 | 5d4 champignons vénéneux poussent. Si une créature mange un champignon vénéneux, lancer n'importe quel dé. Sur un résultat impair, la créature doit réussir un jet de sauvegarde de Constitution DD 15 sous peine de subir 5d6 dégâts de poison et être empoisonnée pendant 1 heure. Sur un résultat pair, la créature gagne 5d6 points de vie temporaires pendant 1 heure. |
+| 02-10 | Un geyser apparaît et fait jaillir de l'eau, de la bière, du jus de baies, du thé, du vinaigre, du vin, ou de l'huile (au choix du MD) jusqu'à 9 mètres dans les airs, pendant 1d12 tours. |
+| 11-20 | Un sylvanien pousse. Il y a 50 % de risque que le sylvanien soit chaotique mauvais et vous attaque. |
+| 21-30 | Une statue de pierre, immobile mais animée, vous ressemblant émerge du sol. Elle vous menace verbalement. Si vous la quittez et que d'autres créatures viennent près d'elle, elle vous décrit comme le plus malfaisant des criminels et envoie les nouveaux arrivants vous trouver et vous attaquer. Si vous vous trouvez sur le même plan d'existence que la statue, elle sait où vous êtes. La statue devient inanimée au bout de 24 heures. |
+| 31-40 | Un feu de camp produisant des flammes bleues jaillit et brûle pendant 24 heures (ou jusqu'à ce qu'il soit éteint). |
+| 41-50 | 1d6 + 6 criards poussent. |
+| 51-60 | 1d4 + 8 crapauds rose brillant sortent de terre en rampant. Lorsqu'un crapaud est touché, il se transforme en un monstre de taille G ou P que le MD choisit. La monstre reste pendant 1 minute, puis disparaît dans un nuage de fumée rose brillant. |
+| 61-70 | Une bulette affamée creuse jusqu'à la surface et vous attaque. |
+| 71-80 | Un arbre fruitier pousse. Il possède 1d10 + 20 fruits, 1d8 d'entre eux fonctionnent comme des potions magiques déterminées aléatoirement, tandis qu'un autre fonctionne comme un poison à ingestion du choix du MD. L'arbre s'évapore au bout d'une heure. Les fruits cueillis restent, conservant leur magie pendant 30 jours. |
+| 81-90 | Un nid contenant 1d4 + 3 œufs surgit du sol. Toute créature qui mange un œuf doit effectuer un jet de sauvegarde de Constitution DD 20. En cas de jet de sauvegarde réussi, une créature augmente de manière permanente sa valeur de caractéristique la plus faible de 1, choisie de manière aléatoire dans le cas ou plusieurs valeurs seraient égales. En cas d'échec au jet, la créature subit 10d6 dégâts de force à cause d'une explosion magique interne. |
+| 91-99 | Une pyramide à base carré de 18 mètres de côté jaillit du sol. À l'intérieur se trouve un sarcophage abritant un seigneur momie. La pyramide est traitée comme le repaire du seigneur momie, et son sarcophage contient un trésor du choix du MD. |
+| 00 | Une tige de haricot géant pousse jusqu'à atteindre une hauteur déterminée par le MD. Le sommet atteint ce que le MD choisit, comme un simple mais beau panorama, la forteresse d'un géant des nuages, ou un autre plan d'existence. |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -6051,6 +4808,7 @@ Sceptre, légendaire (nécessite un lien avec un clerc, un druide ou un paladin)
 Le sceptre possède 5 charges. Tant que vous le tenez, vous pouvez utiliser une action pour lancer depuis le sceptre l'un des sorts suivants : _guérison_ (dépense 1 charge) ou _résurrection_ (dépense 5 charges). Le sceptre récupère 1 charge dépensée chaque jour à l'aube. Si le sceptre tombe à 0 charge, lancez un d20. Sur un résultat de 1, le sceptre disparaît dans une explosion de lumière.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Sceptre de sécurité
 ===================
@@ -6109,6 +4867,7 @@ Tant que vous tenez ce sceptre, vous gagnez un bonus aux jets d'attaque avec un 
 De plus, vous pouvez récupérer un emplacement de sort d'occultiste en utilisant une action, tant que vous tenez le sceptre. Vous ne pouvez pas réutiliser cette propriété du sceptre avant d'avoir terminé un repos long.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Sceptre inamovible
 ==================
@@ -6134,6 +4893,7 @@ Fabriqué par le drow, ce sceptre est une arme magique qui se termine par trois 
 En outre, à chacun de ses tours, elle peut prendre une action ou une action bonus, mais pas les deux. À la fin de chacun de ses tours, on peut répéter le jet de sauvegarde, mettant fin à l'effet sur soi-même en cas de réussite.  
 
 Dungeon Master´s Guide (BR)
+{: .label .label-red }
 
 Selle du cavalier
 =================
@@ -6145,6 +4905,7 @@ Objet merveilleux, peu commun
 Tant que cette selle est installée sur une monture, vous ne pouvez pas être démonté contre votre volonté si vous êtes conscient, de plus les jets d'attaque effectués contre la monture ont un désavantage.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Solvant universel
 =================
@@ -6171,23 +4932,11 @@ La sphère reste stationnaire jusqu'à ce que quelqu'un en prenne le contrôle. 
 Si vous tentez de contrôler une sphère qui se trouve sous le contrôle d'une autre créature, vous devez effectuer un jet d'Intelligence (Arcanes) contre un jet d'Intelligence (Arcanes) de l'autre créature. Le vainqueur de cette opposition prend le contrôle de la sphère et peut la faire léviter normalement.  
 Si la sphère entre en contact avec un portail planaire, comme celui créé par le sort _portail_, ou un espace extradimensionnel, comme celui d'un _puits portatif_, le MD détermine de manière aléatoire ce qui se produit, en utilisant la table suivante.  
 
-d100
-
-Résultat
-
-01-50
-
-La sphère est détruite.
-
-51-85
-
-La sphère passe au travers du portail ou arrive dans l'espace extradimensionnel.
-
-86-00
-
-Une fissure spatiale envoie chaque créature et chaque objet se trouvant dans un rayon de 54 mètres autour de la sphère, y compris la sphère, dans un plan d'existence aléatoire.
-
-  
+| d100 | Résultat |
+| --- | --- |
+| 01-50 | La sphère est détruite. |
+| 51-85 | La sphère passe au travers du portail ou arrive dans l'espace extradimensionnel. |
+| 86-00 | Une fissure spatiale envoie chaque créature et chaque objet se trouvant dans un rayon de 54 mètres autour de la sphère, y compris la sphère, dans un plan d'existence aléatoire. |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -6210,73 +4959,18 @@ Pour être utilisé comme un véhicule, l'appareil nécessite un pilote. Lorsque
 L'appareil flotte sur l'eau, peut plonger jusqu'à une profondeur de 270 mètres. En dessous de cette profondeur, le véhicule subit 2d6 dégâts contondants par minute en raison de la pression.  
 Une créature dans le compartiment peut utiliser une action pour actionner un maximum de 2 leviers de l'appareil, vers le haut ou vers le bas. Après chaque utilisation, les leviers reviennent en position neutre. Chaque levier, de gauche à droite, fonctionne comme indiqué dans la table ci-dessous.  
 
-Levier
-
-Haut
-
-Bas
-
-1
-
-Les jambes et la queue se déploient, permettant de marcher et de nager.
-
-Les jambes et la queue se rétractent, réduisant la vitesse à 0 et rendant inefficace les bonus de vitesse.
-
-2
-
-Le volet des fenêtres avant s'ouvre.
-
-Le volet des fenêtres avant se ferme.
-
-3
-
-Les volets des fenêtres latérales s'ouvrent (2 par côté).
-
-Les volets des fenêtres latérales se ferment (2 par côté).
-
-4
-
-Deux pinces se déploient de chaque côté de la face de l'appareil.
-
-Les pinces se rétractent.
-
-5
-
-Chaque pince déployée effectue l'attaque au corps à corps suivante : +8 à l'attaque, allonge 1,50 m, une cible. Dégâts : 7 (2d6) contondant.
-
-Chaque pince déployée effectue l'attaque au corps à corps suivante : +8 à l'attaque, allonge 1,50 m, une cible. La cible est agrippée (DD 15 pour s'échapper).
-
-6
-
-L'appareil marche ou nage vers l'avant.
-
-L'appareil marche ou nage vers l'arrière.
-
-7
-
-L'appareil tourne à gauche de 90 degrés.
-
-L'appareil tourne à droite de 90 degrés.
-
-8
-
-Des luminaires en forme d'yeux émettent une lumière vive dans un rayon de 9 mètres et une lumière faible sur 9 mètres supplémentaires.
-
-La lumière s'éteint.
-
-9
-
-L'appareil plonge jusqu'à 6 mètres dans un liquide.
-
-L'appareil remonte jusqu'à 6 mètres dans un liquide.
-
-10
-
-La trappe arrière se descelle et s'ouvre.
-
-La trappe arrière se ferme et se scelle.
-
-  
+| Levier | Haut | Bas |
+| --- | --- | --- |
+| 1 | Les jambes et la queue se déploient, permettant de marcher et de nager. | Les jambes et la queue se rétractent, réduisant la vitesse à 0 et rendant inefficace les bonus de vitesse. |
+| 2 | Le volet des fenêtres avant s'ouvre. | Le volet des fenêtres avant se ferme. |
+| 3 | Les volets des fenêtres latérales s'ouvrent (2 par côté). | Les volets des fenêtres latérales se ferment (2 par côté). |
+| 4 | Deux pinces se déploient de chaque côté de la face de l'appareil. | Les pinces se rétractent. |
+| 5 | Chaque pince déployée effectue l'attaque au corps à corps suivante : +8 à l'attaque, allonge 1,50 m, une cible. Dégâts : 7 (2d6) contondant. | Chaque pince déployée effectue l'attaque au corps à corps suivante : +8 à l'attaque, allonge 1,50 m, une cible. La cible est agrippée (DD 15 pour s'échapper). |
+| 6 | L'appareil marche ou nage vers l'avant. | L'appareil marche ou nage vers l'arrière. |
+| 7 | L'appareil tourne à gauche de 90 degrés. | L'appareil tourne à droite de 90 degrés. |
+| 8 | Des luminaires en forme d'yeux émettent une lumière vive dans un rayon de 9 mètres et une lumière faible sur 9 mètres supplémentaires. | La lumière s'éteint. |
+| 9 | L'appareil plonge jusqu'à 6 mètres dans un liquide. | L'appareil remonte jusqu'à 6 mètres dans un liquide. |
+| 10 | La trappe arrière se descelle et s'ouvre. | La trappe arrière se ferme et se scelle. |
 
 _Dungeon Master´s Guide (SRD)_
 {: .label .label-red }
@@ -6335,47 +5029,12 @@ Objet merveilleux, très rare
 Vous pouvez prononcer le mot de commande du tapis en utilisant votre action pour qu'il se mette à léviter et voler. Il se déplace dans la direction que vous lui annoncez, à condition que vous vous trouviez à 9 mètres ou moins de lui.  
 Quatre dimensions de tapis volant existent. Le MD choisit la taille du tapis concerné ou la détermine aléatoirement.  
 
-d100
-
-Dimension
-
-Capacité
-
-Vitesse  
-de vol
-
-01-20
-
-0,90 m x 1,50 m
-
-100 kg
-
-24 mètres
-
-21-55
-
-1,20 m x 1,80 m
-
-200 kg
-
-18 mètres
-
-56-80
-
-1,50 m x 2,10 m
-
-300 kg
-
-12 mètres
-
-81-100
-
-1,80 m x 2,70 m
-
-400 kg
-
-9 mètres
-
+| d100 | Dimension | Capacité | Vitesse de vol |
+| --- | --- | --- | --- |
+| 01-20 | 0,90 m x 1,50 m | 100 kg | 24 mètres |
+| 21-55 | 1,20 m x 1,80 m | 200 kg | 18 mètres |
+| 56-80 | 1,50 m x 2,10 m | 300 kg | 12 mètres |
+| 81-100 | 1,80 m x 2,70 m | 400 kg | 9 mètres |
   
 Un tapis peut porter jusqu'à deux fois le poids indiqué sur la table ci-dessus, cependant sa vitesse de vol est divisée par deux si sa charge dépasse sa capacité normale.  
 
@@ -6396,6 +5055,7 @@ Tant que vous êtes lié au livre, vous pouvez retirer la langue qui est fixée 
 Vecna garde un œil sur quiconque utilise ce tome. Il peut également écrire des messages cryptés dans le livre. Ces messages apparaissent à minuit et disparaissent dès qu'ils ont été lu.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Traité d'autorité et d'influence
 ================================
@@ -6495,6 +5155,7 @@ Le trident ressent un attachement nostalgique pour le lieu où il a été forgé
 Vague a encore un certain doute sur sa propre nature et sur sa raison d'être. Malgré toute sa dévotion envers les dieux de l'océan, Vague a peur qu'elle soit destinée à provoquer la chute de l'un d'entre eux. Ce destin est quelque chose que Vague pourrait ne pas être capable d'éviter.  
 
 Dungeon Master´s Guide
+{: .label .label-red }
 
 Vengeresse sacrée
 =================
