@@ -22,7 +22,7 @@ has_children: true
 {: .highlight-title }
 > Attention
 >
-> Si vous souhaitez lire les compte-rendu de session de cette campagne sans vous faire spoiler : ne lisez pas la page "Pour DM/GM" qui contient tout le storytelling, rebondissements, ennemis et rencontres envisagées !"
+> Si vous souhaitez lire les comptes rendus des sessions de cette campagne _(en mode histoire)_ sans vous faire spoiler : ne lisez pas la page "Maître du Donjon (MD)" qui contient tout le storytelling, tous les rebondissements, ennemis, rencontres envisagées, etc."
 
 
 # Contexte
