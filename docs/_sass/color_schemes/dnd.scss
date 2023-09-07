@@ -9,7 +9,10 @@ body {
 }
 
 /* links color */
-a, .nav-list .nav-list-item .nav-list-expander, .main-content .anchor-heading svg {
+a, 
+.nav-list .nav-list-item .nav-list-expander, 
+.main-content .anchor-heading svg, 
+.search-input:focus + .search-label .search-icon {
   color: tomato !important;
 }
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
