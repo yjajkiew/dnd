@@ -5,21 +5,6 @@ parent: Bases de données
 nav_order: 1
 ---
 
-
-# Créatures
-{: .no_toc }
-
-
-<details open markdown="block">
-  <summary>
-    Liste des créatures
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
-
 Aarakocra
 =========
 
@@ -11480,7 +11465,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-_Duergar, âmelame_
+Duergar, âmelame
 ==================
 
 _\[ Duergar Soulblade \]_
@@ -11509,7 +11494,7 @@ Agrandissement (Recharge après un repos court ou long).
 _Monsters of the Multiverse_
 {: .label .label-red }
 
-_Duergar, âmelame legacy_
+Duergar, âmelame legacy
 =========================
 
 _\[ Duergar Soulblade \]_
@@ -13994,7 +13979,7 @@ R|**Parade de projectiles**.
 _Volo´s Guide to Monsters_
 {: .label .label-red }
 
-_Expert (niv 1)_
+Expert (niv 1)
 ================
 
 _\[ Expert (lvl 1) \]_
@@ -14024,7 +14009,7 @@ A|**Arc court**. +4, 24/96 m, 1d8+2 perforants
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Expert (niv 2)_
+Expert (niv 2)
 ================
 
 _\[ Expert (lvl 2) \]_
@@ -14055,7 +14040,7 @@ A|**Arc court**. +4, 24/96 m, 1d8+2 perforants
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Expert (niv 3)_
+Expert (niv 3)
 ================
 
 _\[ Expert (lvl 3) \]_
@@ -14087,7 +14072,7 @@ A|**Arc court**. +4, 24/96 m, 1d8+2 perforants
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Expert (niv 4)_
+Expert (niv 4)
 ================
 
 _\[ Expert (lvl 4) \]_
@@ -14119,7 +14104,7 @@ A|**Arc court**. +5, 24/96 m, 1d8+3 perforants
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Expert (niv 5)_
+Expert (niv 5)
 ================
 
 _\[ Expert (lvl 5) \]_
@@ -14151,7 +14136,7 @@ A|**Arc court**. +6, 24/96 m, 1d8+3 perforants
 _Rules (Essentials Kit)_
 {: .label .label-red }
 
-_Expert (niv 6)_
+Expert (niv 6)
 ================
 
 _\[ Expert (lvl 6) \]_
@@ -14520,7 +14505,7 @@ Moisson du mort.
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Flind_
+Flind
 =======
 
 _\[ Flind \]_
@@ -14641,7 +14626,7 @@ La créature transformée peut retenter son jet de sauvegarde chaque fois qu'ell
 _Monster Manual_
 {: .label .label-red }
 
-_Forain de Charme-Lumière_
+Forain de Charme-Lumière
 ==========================
 
 _\[ Witchlight Hand \]_
@@ -25989,7 +25974,7 @@ A|**Absorption de Force**. +5, 1,50 m, 2d8+3 nécrotiques
 _Extra (AideDD)_
 {: .label .label-red }
 
-_Oni_
+Oni
 =======
 
 _\[ Oni \]_
@@ -26048,7 +26033,7 @@ _Humanoïde de taille P, tout alignement_
 _Fizban´s Treasury of Dragons_
 {: .label .label-red }
 
-_Orc_
+Orc
 =======
 
 _\[ Orc \]_
@@ -27926,7 +27911,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-_Rat_
+Rat
 =======
 
 _\[ Rat \]_
@@ -28755,7 +28740,7 @@ _Monster Manual (SRD)_
 {: .label .label-red }
 
 
-_Roc_
+Roc
 =======
 
 _\[ Roc \] \[ Ruhk \]_
@@ -30163,7 +30148,7 @@ Vague de lassitude (Recharge 4–6).
 _Mordenkainen´s Tome of Foes_
 {: .label .label-red }
 
-_Shadar-kai, danseur des ombres
+Shadar-kai, danseur des ombres
 ==================================
 
 _\[ Shadar-kai Shadow Dancer \]_
