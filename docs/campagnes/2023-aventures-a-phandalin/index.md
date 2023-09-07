@@ -45,7 +45,7 @@ Mines oubliées de Phandelver + Le Dragon de la Flèche de Givre
 
 ___
 > ## Relvyre
-_Demi-Elfe (Femelle), Barbare / Herboriste_
+_Demi-Elfe (Femelle), Barbare_
 > 
 > ___
 > - **Age** 50 (*Level:* 1)
@@ -97,7 +97,7 @@ _Demi-Elfe (Femelle), Barbare / Herboriste_
 
 ___
 > ## Osril
-_Demi-Elf (Male), Druide / Herboriste_
+_Demi-Elf (Male), Druide_
 > 
 > ___
 > - **Age** 80 (*Level:* 1)
