@@ -59,7 +59,7 @@ blockquote.statblock5e {
    width: auto;
    margin: 4px 0px;
     height: 5px;
-    background: -webkit-linear-gradient(0deg, var(--statblock-rule-color) 0%, var(--statblock-rule-color) 50%, var(--statblock-background-color) 95%, var(--statblock-background-color) 100% );
+    background: -webkit-linear-gradient(0deg, var(--statblock5e-rule-color) 0%, var(--statblock5e-rule-color) 50%, var(--statblock5e-background-color) 95%, var(--statblock5e-background-color) 100% );
     clip-path: polygon(0 0, 0 100%, 95% 50%);
     -webkit-clip-path: polygon(0 0, 0 100%, 95% 50%);
 }
@@ -80,6 +80,7 @@ blockquote.statblock5e {
    font-family: ScalySans;
    font-weight: bold;
    font-size: 1.3em;
+   border-bottom: 1px solid var(--statblock5e-primary-color);
 }
 .statblock5e > hr + ul  {
    letter-spacing: -0.02em;
@@ -105,6 +106,7 @@ blockquote.statblock5e {
 }
 .statblock5e table th, .statblock5e table td {
   background-color: transparent !important;
+  text-align: center;
 }
 .statblock5e > hr + table {
    margin-top: 0em;
