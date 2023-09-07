@@ -1,5 +1,6 @@
 @import "./color_schemes/dark";
 
+/* background */
 body {
   background-image: url('/assets/background.jpg');
 }
@@ -7,6 +8,10 @@ body {
   background-color: transparent !important;
 }
 
+/* links color */
 a, .nav-list .nav-list-item .nav-list-expander {
   color: tomato !important;
+}
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
+  color: #959396 !important;
 }
