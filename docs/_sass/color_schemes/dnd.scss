@@ -29,3 +29,181 @@ a,
 .label.label-purple {
   background-color: rebeccapurple;
 }
+/* Character sheet */
+
+:root {
+    --statblock5e-primary-color: #7a200d;
+    --statblock5e-rule-color: #922610;
+    --statblock5e-bar-color: #e69a28;
+    --statblock5e-background-color: #fdf1dc;
+}
+.statblock5e {
+}
+blockquote.statblock5e {
+   font-family:  ScalySans, "Noto Sans", "Myriad Pro", Calibri, Helvetica, Arial, sans-serif;
+   border: 1px #ddd solid;
+   background-color: var(--statblock5e-background-color);
+   box-shadow: 1px 4px 14px #888;
+   padding: 0.5em;
+   gap: 1rem;
+   border-style: solid;
+   border-width: 10px;
+   border-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAA8CAMAAADG+c2+AAAACVBMVEX///8AAADmmihtJc8lAAAAAXRSTlMAQObYZgAAACxJREFUeAHt2EEBACAAwkCwf2hL8NK7AAuwdCw9U5Og4FgeAAAAAK7IBxPjAl3qBs+hfAnLAAAAAElFTkSuQmCC) 10;
+   color: var(--statblock-primary-color);
+   min-width: 430px;
+}
+.statblock5e > hr {
+   width: auto;
+   margin: 4px 0px;
+    height: 5px;
+    background: -webkit-linear-gradient(0deg, var(--statblock-rule-color) 0%, var(--statblock-rule-color) 50%, var(--statblock-background-color) 95%, var(--statblock-background-color) 100% );
+    clip-path: polygon(0 0, 0 100%, 95% 50%);
+    -webkit-clip-path: polygon(0 0, 0 100%, 95% 50%);
+}
+.statblock5e > h2 {
+   font-family: "Libre Baskerville", "Lora", "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+   color: #58180D;
+}
+.statblock5e > h2 + p {
+   margin-block-start: -1.3em;
+   padding-bottom: 0px;
+   line-height: 1.1em;
+}
+.statblock5e > hr + h3 {
+   margin-top: .05em;
+   margin-bottom: 0px;
+   color: #58180D;
+   font-family: ScalySans;
+   font-weight: bold;
+   font-size: 1.3em;
+}
+.statblock5e > hr + ul  {
+   letter-spacing: -0.02em;
+    text-indent: -2.6em;
+    list-style-type: none;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+.statblock5e > h3  + p  {
+   margin-top: 0px
+}
+.statblock5e > h3.description  + p:hover  {
+   padding: 5px;
+   background-color: rgb(247, 227, 192) ;
+   margin-top: 0px
+   border-style: solid;
+   border-width: 10px;
+   box-shadow: 1px 4px 14px #888;
+   border-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAA8CAMAAADG+c2+AAAACVBMVEX///8AAADmmihtJc8lAAAAAXRSTlMAQObYZgAAACxJREFUeAHt2EEBACAAwkCwf2hL8NK7AAuwdCw9U5Og4FgeAAAAAK7IBxPjAl3qBs+hfAnLAAAAAElFTkSuQmCC) 10;
+
+}
+.statblock5e > hr + table {
+   margin-top: 0em;
+   margin-bottom: 0em;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: transparent;
+   border-style: none;
+   border-image: none;
+   width: 100%;
+}
+.statblock5e > hr + table  th   {
+   background-color: transparent;
+   border-bottom: none;
+   border-right: none;
+   border-left: none;
+}
+.statblock5e > hr + table  th,
+.statblock5e > hr + table  td   {
+    text-align: center;
+    vertical-align: bottom;
+}
+.statblock5e > hr + table  th:not(:last-of-type),
+.statblock5e > hr + table  th:last-of-type   {
+   background-color: transparent;
+   border-bottom: none;
+   border-right: none;
+   border-left: none;
+   padding-bottom: 0;
+}
+.statblock5e > hr + table  td:not(:last-of-type),
+.statblock5e > hr + table  td:last-of-type   {
+   background-color: transparent;
+   border-bottom: none;
+   border-right: none;
+   border-left: none;
+}
+/* Trinkets carried Table in block quote */
+.statblock5e > h3.trinketsCarried {
+}
+.statblock5e > h3.trinketsCarried + p {
+   background-color: transparent;
+   margin-bottom: 0px;
+}
+.statblock5e > h3.trinketsCarried + p + table {
+   margin-top: 1em;
+   margin-bottom: 2em;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: transparent;
+   border-style: none;
+   border-image: none;
+   width: 80%;
+   box-shadow: 1px 4px 14px #888;
+}
+.statblock5e > h3.trinketsCarried + p + table  th   {
+   background-color: rgb(240,204, 142);
+   border-bottom: none;
+   border-right: none;
+   border-left: none;
+}
+.statblock5e > h3.trinketsCarried + p + table  th  {
+    text-align: center;
+    vertical-align: bottom;
+}
+.statblock5e > h3.trinketsCarried + p + table  th:not(:last-of-type),
+.statblock5e > h3.trinketsCarried + p+ table  th:last-of-type   {
+   border-bottom: none;
+   border-right: none;
+   border-left: none;
+   padding-bottom: 0;
+}
+.statblock5e > h3.trinketsCarried + p + table  td:not(:last-of-type),
+.statblock5e > h3.trinketsCarried + p + table  td:last-of-type   {
+   border-bottom: none;
+   border-right: none;
+   border-left: none;
+   background-color: transparent;
+}
+.statblock5e > h3.trinketsCarried + p+ table  tr:nth-child(even)   {
+      background-color: rgb(247, 227, 192);
+}
+.statblock5e > h3.trinketsCarried + p + table  tr:nth-child(odd)   {
+      background-color: transparent;
+}
+/* Gossip Blockquote -----------------*/
+.statblock5e > blockquote.gossip {
+   font-family: ScalySans;
+   box-sizing: border-box;
+   margin-bottom: 1em;
+   margin-top: 9px;
+   padding: 5px 10px;
+   background-color: #e0e5c1;
+   border-style: solid;
+   border-width: 11px;
+   border-image: url('https://www.gmbinder.com/assets/img/note-wrap.png') 11;
+   border-image-outset: 9px 0;
+   box-shadow: 1px 4px 14px #888;
+}
+.statblock5e > blockquote.gossipdescription {
+   display: block-inline;
+   margin-bottom: 1em;
+   background-color: #faf7ea;
+   font-family: ScalySans;
+   border-style: solid;
+   border-width: 7px;
+   border-image: url('https://www.gmbinder.com/assets/img/sidebars.png') 12 stretch;
+   border-image-repeat: stretch;
+   border-image-outset: 4px;
+   box-shadow: 0 0 6px #faf7ea;
+}
