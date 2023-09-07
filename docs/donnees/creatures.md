@@ -11,7 +11,7 @@ nav_order: 1
 
 <details open markdown="block">
   <summary>
-    Liste des sorts
+    Liste des créatures
   </summary>
   {: .text-delta }
 - TOC
