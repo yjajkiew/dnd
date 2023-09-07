@@ -47,7 +47,7 @@ ___
 > ## Relvyre
 _Demi-Elfe (Femelle), Barbare_
 >
-> ![](/assets/2023-aventures-a-phandalin/Relvyre.png)
+> ![](/assets/2023-aventures-a-phandalin/Relvyre.jpg)
 >
 > ___
 > - **Age** 50 (*Level:* 1)
@@ -100,7 +100,9 @@ _Demi-Elfe (Femelle), Barbare_
 ___
 > ## Osril
 _Demi-Elf (Male), Druide_
-> 
+>
+> ![](/assets/2023-aventures-a-phandalin/Osril.png)
+>
 > ___
 > - **Age** 80 (*Level:* 1)
 > - **Classe d'armure** 13
