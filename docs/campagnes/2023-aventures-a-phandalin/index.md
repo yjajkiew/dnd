@@ -18,6 +18,9 @@ has_children: true
 {:toc}
 </details>
 
+{: .highlight }
+Si vous souhaitez lire les compte-rendu de session de cette campagne sans vous faire spoiler : ne lisez pas la page "Pour DM/GM" qui contient tout le storytelling, rebondissements, ennemis et rencontres envisagées !"
+
 # Contexte
 
 TODO
