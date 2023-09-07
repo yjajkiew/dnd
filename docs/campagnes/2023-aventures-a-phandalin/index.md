@@ -24,13 +24,12 @@ has_children: true
 
 ## Osril
  
-*Demi-elf (Homme), Druide/Herboriste*
+_Demi-elf (Homme), Druide/Herboriste_
 
-**Age** 80 (*Level:* 1)
+**Age** 80 (Level 1)
 **Classe d'armure** 10
 **Points de vie** 73 (53 + 20)
 **Vitesse** - **Walk** 30 ft, **Fly** 0 ft, **Swim** 0 ft
-
 
 |FOR|DEX|CON|INT|SAG|CHA|
 |---|---|---|---|---|---|
@@ -40,13 +39,9 @@ has_children: true
 {: .no_toc }
 
 ***Apparence*** : Average lean build, with hazel eyes and strange hairstyle red hair. Their face has small scar and their speech is low-pitched
-
 ***Caractéristiques*** :  Leers
-
 ***Personnalité*** :  Reckless
-
 ***Trait*** : always polite and respectful.
-
 ***Idéal*** : Beauty. When I perform, I make the world better than it was. (Good)
 
  - **Perception passive** 15
