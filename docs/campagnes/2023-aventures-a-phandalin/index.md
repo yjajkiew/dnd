@@ -25,29 +25,30 @@ has_children: true
 ## Osril
  
 *Demi-elf (Homme), Druide/Herboriste*
-___
 
- - **Age** 80 (*Level:* 1)
- - **Classe d'armure** 10
- - **Points de vie** 73 (53 + 20)
- - **Vitesse** - **Walk** 30 ft, **Fly** 0 ft, **Swim** 0 ft
+**Age** 80 (*Level:* 1)
+**Classe d'armure** 10
+**Points de vie** 73 (53 + 20)
+**Vitesse** - **Walk** 30 ft, **Fly** 0 ft, **Swim** 0 ft
 
-___
 
 |FOR|DEX|CON|INT|SAG|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|---|---|---|---|---|
 |15 (+2)|14 (+2)|14 (+2)|10 (+0)|13 (+1)|8 (-1)|
-___
 
 ### Description
- 
+{: .no_toc }
+
 ***Apparence*** : Average lean build, with hazel eyes and strange hairstyle red hair. Their face has small scar and their speech is low-pitched
+
 ***Caractéristiques*** :  Leers
+
 ***Personnalité*** :  Reckless
-***Trait*** : I&#39;m always polite and respectful.
+
+***Trait*** : always polite and respectful.
+
 ***Idéal*** : Beauty. When I perform, I make the world better than it was. (Good)
 
-___
  - **Perception passive** 15
  - **Lucky** When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
  - **Brave** You have advantage on saving throws against being frightened.
