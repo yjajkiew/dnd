@@ -5,6 +5,20 @@ parent: Bases de données
 nav_order: 1
 ---
 
+
+# Créatures
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Liste des sorts
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+
 Aarakocra
 =========
 
