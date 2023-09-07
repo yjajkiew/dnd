@@ -9,9 +9,10 @@ nav_order: 1
 # Créatures
 {: .no_toc }
 
+
 <details open markdown="block">
   <summary>
-    Table of contents
+    Liste des créatures
   </summary>
   {: .text-delta }
 - TOC
@@ -19,7 +20,7 @@ nav_order: 1
 </details>
 
 
-##Aarakocra
+Aarakocra
 =========
 
 _\[ Aarakocra \] \[ Aarakocre \]_
