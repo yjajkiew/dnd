@@ -3,6 +3,6 @@
 body {
   background-image: url('/assets/background.jpg');
 }
-.side-bar {
+.side-bar, ..main-header {
   background-color: transparent;
 }
