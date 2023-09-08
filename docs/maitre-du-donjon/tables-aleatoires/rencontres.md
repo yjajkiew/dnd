@@ -20,7 +20,7 @@ nav_order: 1
 
 ## Urbain (d20)
 
-**Source :** [Lance 1d20]([https://homebrewery.naturalcrit.com/share/8C998Y8jD7ji](https://lance1d20.wordpress.com/2022/01/07/generateur-rencontres-urbaines-medieval-fantastique/)){:target="_blank"}
+**Source :** [Lance 1d20](https://lance1d20.wordpress.com/2022/01/07/generateur-rencontres-urbaines-medieval-fantastique/){:target="_blank"}
 
 | d20 | Description |
 | --- | --- |
