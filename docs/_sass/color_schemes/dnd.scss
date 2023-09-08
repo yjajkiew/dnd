@@ -15,6 +15,9 @@ a,
 .search-input:focus + .search-label .search-icon {
   color: tomato !important;
 }
+a:not([class]):hover {
+  text-decoration-color: tomato !important;
+}
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
   color: #959396 !important;
 }
