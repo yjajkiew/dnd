@@ -53,20 +53,20 @@ Dans les grandes lignes _(le détail est fourni plus bas dans la page)_ :
 
 ## Timeline
 
-- Introduction
+- **Introduction**
   - Gundren à Neverwinter/Padhiver.
   - Chemin vers Phandalin.
-- Les flèches gobelines
+- **Les flèches gobelines**
 	- Embuscade des gobelins
 	- Tanière des Cragmaw
 	- LEVEL UP 2
-- Phandalin
+- **Phandalin**
 	- Provisions de Barthem 
 	- Exploration des caves naines (DoIP)
 	- Les ruffians des Fers Rouges
 	- Le repaire des Fers rouges
 	- LEVEL UP 3
-- La toile de l'araignée
+- **La toile de l'araignée**
 	- 2 quêtes DoIP (données par le bourgmestre en échange de la carte du chateau de cragmaw ? permet de comnencer à hinter que des choses se passent en dehors de l'araignée noire)
 		- Colline des ombrages (manticore, permet de récupérer des potions)
 		- camp des bûcherons
@@ -75,15 +75,15 @@ Dans les grandes lignes _(le détail est fourni plus bas dans la page)_ :
 		- conyberry et l'antre d'agathe
 	- le Château de Cragmaw
 	- LEVEL UP 4
-- La caverne du Ressac
+- **La caverne du Ressac**
 	- LEVEL UP 5
-- Le culte des dragons
+- **Le culte des dragons**
 	- Les ruines d'arbrefoudre (LMoP)
 	- Sanctuaire de Savras (DoIP)
 	- Quête d'Axelhom (DoIP)
 	- Tumulus du dragon (DoIP)
 	- LEVEL UP 6
-- Forteresse de la flèche de givre
+- **Forteresse de la flèche de givre**
 	- LEVEL UP 7
 
 ## Détails
