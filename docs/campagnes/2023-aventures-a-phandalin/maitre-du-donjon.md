@@ -59,13 +59,13 @@ Dans les grandes lignes _(le détail est fourni plus bas dans la page)_ :
 - **Les flèches gobelines**
 	- Embuscade des gobelins
 	- Tanière des Cragmaw
-	- LEVEL UP 2
+	- _LEVEL UP 2_
 - **Phandalin**
 	- Provisions de Barthem 
 	- Exploration des caves naines (DoIP)
 	- Les ruffians des Fers Rouges
 	- Le repaire des Fers rouges
-	- LEVEL UP 3
+	- _LEVEL UP 3_
 - **La toile de l'araignée**
 	- 2 quêtes DoIP (données par le bourgmestre en échange de la carte du chateau de cragmaw ? permet de comnencer à hinter que des choses se passent en dehors de l'araignée noire)
 		- Colline des ombrages (manticore, permet de récupérer des potions)
@@ -74,17 +74,17 @@ Dans les grandes lignes _(le détail est fourni plus bas dans la page)_ :
 		- le puit du vieux hibou 
 		- conyberry et l'antre d'agathe
 	- le Château de Cragmaw
-	- LEVEL UP 4
+	- _LEVEL UP 4_
 - **La caverne du Ressac**
-	- LEVEL UP 5
+	- _LEVEL UP 5_
 - **Le culte des dragons**
 	- Les ruines d'arbrefoudre (LMoP)
 	- Sanctuaire de Savras (DoIP)
 	- Quête d'Axelhom (DoIP)
 	- Tumulus du dragon (DoIP)
-	- LEVEL UP 6
+	- _LEVEL UP 6_
 - **Forteresse de la flèche de givre**
-	- LEVEL UP 7
+	- _LEVEL UP 7_
 
 ## Détails
 
