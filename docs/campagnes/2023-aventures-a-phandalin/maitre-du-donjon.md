@@ -44,7 +44,7 @@ Dans les grandes lignes _(le détail est fourni plus bas dans la page)_ :
    - permet de créer des événements et rencontres : Nezzaria, l'araignée noire, va découvrir l'existence de cette boîte et croire qu'elle est nécessaire pour accéder à la Caverne du Ressac, ce qui va créer une rencontre entre le BigBadBoss plus tôt dans l'aventure plutôt qu'à la toute fin comme le prévoit l'aventure de base
  - **Nezzaria** : oui j'ai changé Nezznar en Nezzaria, c'est un changement assez courant de ce que j'ai trouvé sur internet et j'ai suivi la mouvance pour changer un peu des PNJ majoritairement masculins dans l'aventure
  - **Doppelganger** : j'ai souhaité le retirer, ou du moins je ne l'ai pas prévu dans l'aventure car je trouvais que ça complexifiait l'histoire inutilement _(à mon sens)_. Mais je me le suis réservé sous le coude en cas d'imprévu on ne sait jamais !
- - **Déroulé de l'histoire** : dans la [timeline](#Timeline) l'aventure se joue en 3 temps forts pour créer du rebondissement et des ennemis de plus en plus fort :
+ - **Déroulé de l'histoire** : dans la [timeline](#timeline) l'aventure se joue en 3 temps forts pour créer du rebondissement et des ennemis de plus en plus fort :
    - Secourir Gundren, empêcher Nezzaria d'accéder à la Forge des sorts dans la caverne du Ressac. Suite à l'utilisation de cette Forge, à leur sortie les joueurs sentent des tremblements de terre et entendent au loin des bruits d'aile _(dragooooon)_
    - Investigation de cette créature pour découvrir Crocvenimeux et le culte des dragons. Crocvenimeux n'est pas vraiment le BigBadBoss.
    - Enquête pour découvrir le grand dragon blanc Cryovain de la flèche de givre
