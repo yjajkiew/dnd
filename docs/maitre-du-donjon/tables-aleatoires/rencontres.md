@@ -209,7 +209,112 @@ nav_order: 1
 | 20 | Des molosses s’en prennent à l’étal d’un boucher et chapardent de la viande. Il faut les chasser mais… quelle est donc réellement cette nourriture ? Est-elle autorisée ? Y a-t-il un lien avec le cimetière saccagé la nuit dernière ?
 
 
+## Urbain (d100)
 
+**Source :** [Dungeons and Djinns](https://www.dmsguild.com/product/260300/100-NonCombat-Random-Encounters-Urban){:target="_blank"}
+
+| d100 | Description |
+| --- | --- |
+| 1 | Un enfant demande son chemin. |
+| 2 | Quelqu'un tire un chariot sur la route en criant « Cornichons à vendre ! » |
+| 3 | Un oiseau laisse un "cadeau" à un personnage, directement sur sa tête. |
+| 4 | Les personnages entendent des miaulements sous une grille d'égout. |
+| 5 | Une horloge inhabituelle sonne l'heure. |
+| 6 | Un évangéliste tente de convertir les personnages. |
+| 7 | Une balle passe en sifflant et brise une vitre. |
+| 8 | Une noble calèche déferle dans la rue, manquant de peu les personnages. |
+| 9 | Des artisans utilisent une échelle branlante pour peindre une devanture de magasin. |
+| 10 | Le son d'une musique éthérée dérive d'une ruelle voisine. |
+| 11 | De délicieuses odeurs s'échappent d'une auberge voisine. |
+| 12 | Il y a un nid-de-poule sur la route. |
+| 13 | Une tarte alléchante refroidit sur un rebord de fenêtre à proximité. |
+| 14 | Un tonneau roule dans la rue, suivi par plusieurs nains qui le poursuivent. |
+| 15 | Une femme aveugle mendie dans l'embrasure d'une porte. |
+| 16 | Des prisonniers, enchaînés les uns aux autres, réparent la route devant eux. |
+| 17 | Quelqu'un tient une pancarte « câlins gratuits ». |
+| 18 | Un vieil homme irritable chasse les joueurs de sa « pelouse ». |
+| 19 | Les personnages trouvent une chevalière à moitié enfouie dans la boue. |
+| 20 | Un jeune noble trop sûr de lui perd le contrôle de son cheval. |
+| 21 | Tout personnage maîtrisant la compétence Nature remarque une plante vénéneuse poussant dans une jardinière. |
+| 22 | Une noble dame laisse tomber son mouchoir sans le savoir. |
+| 23 | Un chien court vers les personnages. Il veut jouer. |
+| 24 | Un troupeau de poules se détache du marché. |
+| 25 | Un gnome joue de l'accordéon au coin d'une rue. |
+| 26 | Un orc portant un gilet « Sauvez les tréants » distribue des brochures au coin d'une rue. |
+| 27 | Un panneau en forme de crâne se balance lentement au gré du vent. |
+| 28 | Les personnages passent devant une vitrine pleine de miroirs. |
+| 29 | Une fontaine en forme de dragon d'argent se dresse sur une place. |
+| 30 | Un saint homme cloue sa prophétie sur la porte d'un temple. |
+| 31 | Un homme âgé souffle des ronds de fumée avec sa pipe. |
+| 32 | De la fumée s'échappe d'une cheminée devant nous et des cris peuvent être entendus à l'intérieur. |
+| 33 | Un vendeur fait la publicité de ses produits – un étal de produits exotiques. |
+| 34 | Un homme âgé est coincé sous un chariot que personne n'a encore réussi à soulever. |
+| 35 | Un artiste de rue danse, apparemment vêtu uniquement de plumes. |
+| 36 | Un arc-en-ciel apparaît dans le ciel. |
+| 37 | Il y a une flaque d'un liquide d'une couleur étrange sur le sol. |
+| 38 | Une petite fille est dévastée parce qu'elle a perdu son chariot. |
+| 39 | Une femme avec une prothèse inhabituelle passe devant nous. |
+| 40 | Un groupe de touristes bloque la route, bouche bée devant une sculpture. |
+| 41 | Un énorme rat tente de voler quelque chose à un personnage. |
+| 42 | Un chat se brouille un instant et se métamorphose en une forme humaine masquée, qui s'enfuit précipitamment dans la foule. |
+| 43 | Un personnage aperçoit son reflet dans une fenêtre. Ça fait des vagues. |
+| 44 | Quelques cavaliers à dos de griffon naviguent au-dessus de nous. |
+| 45 | Une foule en fête surgit d'une arène. D’après les cris, cela semble avoir été un match de gladiateurs à enjeux élevés. |
+| 46 | Des banderoles colorées drapent la rue. |
+| 47 | Un ivrogne tombe à la renverse dans une fontaine. |
+| 48 | Une personne séduisante donne aux personnages un coupon pour une bière gratuite s'ils viennent plus tard dans une nouvelle taverne. |
+| 49 | Un aveugle regarde droit dans les yeux les personnages. |
+| 50 | Une jeune fille pousse un chariot de fleurs dans la rue en chantant une chanson triste. |
+| 51 | Une volée d'oiseaux s'envole soudainement, surpris par quelque chose d'invisible. |
+| 52 | La forge d'un forgeron se met à cracher de la fumée violette. |
+| 53 | Un homme nu ouvre les volets et urine dans la rue. |
+| 54 | Il y a un vieil arbre mort debout dans une cour en pierre. Des rubans sont attachés à ses branches. |
+| 55 | Un groupe d'enfants passe en courant et joue avec des feux d'artifice. |
+| 56 | Une étrange création gnome se promène dans la rue. |
+| 57 | Quelqu'un dépose ses courses partout. |
+| 58 | Les personnages voient une belle fresque murale sur un mur. Cela semble représenter une prophétie. |
+| 59 | Un sorcier en robe rouge à paillettes fait des tours de magie dans un coin. Rencontres urbaines suite. |
+| 60 | Deux messieurs extravagants jettent beaucoup d'argent. |
+| 61 | Une patrouille de gardes est stationnée sur une place, complètement inconsciente du petit enfant qui vole l'un de leurs porte-monnaie. |
+| 62 | Un chariot heurte une bosse sur la route et les tapis enroulés à l'arrière vacillent dangereusement. |
+| 63 | Une étudiante passe à toute vitesse vers un bâtiment scolaire, un diablotin se cache dans son sac. |
+| 64 | Il y a quelque chose qui nage dans une fontaine. |
+| 65 | Quelqu'un tombe dans un puits. |
+| 66 | Un jeune garçon se débat en pratiquant des tours de pièces de monnaie. |
+| 67 | Deux halfelins sont assis sur un mur, fumant la pipe et chahutant les passants. |
+| 68 | Un personnage lève les yeux vers une fenêtre à temps pour voir le rideau se tirer précipitamment. |
+| 69 | Une prostituée s'éprend d'un des personnages. |
+| 70 | Une plaque sur un mur indique qu'un célèbre aventurier a vécu ici. |
+| 71 | Un commerçant est en train de peindre des marques de roussie très évidentes sur le côté de son magasin. |
+| 72 | Un balai animé passe devant une librairie. |
+| 73 | Un criminel dans les stocks se fait bombarder de légumes pourris. |
+| 74 | Un nain possédant un magasin d'armes éphémère présente son argumentaire de vente d'une voix grave et répétitive. |
+| 75 | Les personnages passent devant un cimetière de pauvres. Quelqu’un a construit un petit sanctuaire délabré contre la clôture. |
+| 76 | Un homme tient un ours dansant accroché à une chaîne, devant une foule de spectateurs ravis. |
+| 77 | Un bébé dragon rouge grimpe sur un lampadaire et crache du feu pour l'allumer. |
+| 78 | "Tonique miracle ! Guérit tout, de la goutte à la calvitie en passant par certaines... maladies privées. Seulement dix pièces d'or pour une bouteille du seul médicament dont vous aurez jamais besoin !" |
+| 79 | Une diseuse de bonne aventure propose de lire les paumes des personnages. |
+| 80 | Un drapeau flotte en berne. |
+| 81 | Dans un fracas de verre, quelqu'un est projeté physiquement par la fenêtre d'une auberge voisine. |
+| 82 | Une vieille femme prend l'un des personnages pour son enfant perdu depuis longtemps. |
+| 83 | Une voix frénétique s'élève au-dessus de la foule. "Un guérisseur ! Quelqu'un ici est-il un guérisseur ?" |
+| 84 | Une jeune femme en colère accuse un monsieur de la peloter et commence à le frapper à la tête avec son éventail. |
+| 85 | Deux personnes échangent un petit paquet dans une ruelle sombre. |
+| 86 | Quelqu'un a peint un grand X rouge sur une porte. Une petite foule se tient autour et murmure. |
+| 87 | Certains jouent aux dés sous un auvent, des chopes de bière à côté. |
+| 88 | Un jeune homme travaille furtivement sur un projet de broderie. Il semble épeler "Ariana, veux-tu m'amuser ?" |
+| 89 | Une jeune fille tire un seau d'eau d'un puits. Le seau est beaucoup trop grand pour elle et elle semble avoir du mal. |
+| 90 | Une femme court vers des inconnus, leur demandant désespérément de l'aider à retrouver son mari. |
+| 91 | Une jeune fille se faufile hors d'une librairie, le dos d'un livre volé à peine visible à l'intérieur de sa cape. |
+| 92 | Un écureuil se met à suivre les personnages, avide de nourriture. |
+| 93 | Une statue d'aventurier se dresse dans une cour. En raison de l'usure des éléments, les taches d'eau donnent désormais l'impression qu'il pleure. |
+| 94 | Quelqu'un coupe sournoisement des fleurs de roses sur un rosier magnifiquement entretenu. |
+| 95 | Une rafale de vent continue d'emporter les vêtements des gens et de faire tomber les chapeaux, mais elle semble se limiter à un seul coin de la place. |
+| 96 | Un groupe d'ouvriers émerge d'un égout, traînant derrière eux le cadavre d'une créature massive. |
+| 97 | Un fauconnier lève son bras et un oiseau de métal s'envole et se pose sur son gant. |
+| 98 | Un personnage a un trou dans sa chaussure. |
+| 99 | Une jeune femme distribue avec sérieux des tracts annonçant sa candidature à la mairie. |
+| 100 | Un homme portant une longue écharpe à rayures multiples apparaît devant les personnages, les regarde de haut en bas, crie « Mauvaise réalité ! et disparaît à nouveau. |
 
 
 ## Forêt (d100)
