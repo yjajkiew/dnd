@@ -92,7 +92,7 @@ _Demi-Elfe (Femelle), Barbare_
 >___
 > ### Citation
 >{: .no_toc }
-> > TBD
+> > Ma hâche ? C'est pour couper l'ennemi en deux !
 >{: .gossip }
 {: .statblock5e }
 
@@ -146,7 +146,7 @@ _Demi-Elf (Male), Druide_
 >___
 > ### Citation
 >{: .no_toc }
-> > TBD
+> > Les autres aventuriers ont des épées magiques. Moi, j'ai un bâton magique. Plus pratique pour les marches dans la forêt.
 >{: .gossip }
 {: .statblock5e }
 
