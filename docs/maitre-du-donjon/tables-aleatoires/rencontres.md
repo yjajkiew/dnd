@@ -213,7 +213,7 @@ nav_order: 1
 | 100 | Un putois se balade à travers le campement du groupe. |
 
 
-## Jungle
+## Jungle (d100)
 
 **Source :** [Dungeons and Djinns](https://homebrewery.naturalcrit.com/share/8C998Y8jD7ji){:target="_blank"}
 
