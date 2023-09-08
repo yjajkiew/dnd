@@ -18,6 +18,43 @@ nav_order: 1
 {:toc}
 </details>
 
+## Créature (d20)
+
+**Source :** [Lance 1d20](https://lance1d20.wordpress.com/2022/01/07/generateur-rencontres-urbaines-medieval-fantastique/){:target="_blank"}
+
+| d20 | Créature |
+| --- | --- |
+| 1-5 | Rats, oiseaux, serpents, chauve-souris
+| 6-8 | Essaim de mouches, guêpes
+| 9-11 | Bétail (troupeau) : boeufs, vaches, chèvres, cochons
+| 12-14 | Cheval fou
+| 15-16 | Chiens errants
+| 17 | Chat méfiant
+| 18 | Animal exotique : panthère, éléphant, singe
+| 19 | Humanoïde : gobelin, kobold, ogre
+| 20 | Monstre : mort vivant, fantôme, démon
+
+## Événement (d20)
+
+**Source :** [Lance 1d20](https://lance1d20.wordpress.com/2022/01/07/generateur-rencontres-urbaines-medieval-fantastique/){:target="_blank"}
+
+| d20 | Événement |
+| --- | --- |
+| 1-5 | Accident de circulation, chariot abimé, barrage de milice
+| 6-7 | Bagarre de rue ou duel
+| 8-9 | Météo : averse soudaine, vent fort, inondation, égoût refoulant
+| 10 | Kidnapping ou meurtre
+| 11-12 | Fête ou festival, cérémonie
+| 13 | Incendie
+| 14 | Cambriolage ou attaque à main armée
+| 15 | Effondrement de maison, rue, pont
+| 16 | Brouillard ou fumée soudain et étrange
+| 17 | Epidémie (maison ou quartier en quarantaine)
+| 18 | Explosion
+| 19 | Révolte ou manifestation ou exécution publique
+| 20 | Zone de magie folle
+
+
 ## Urbain (d20)
 
 **Source :** [Lance 1d20](https://lance1d20.wordpress.com/2022/01/07/generateur-rencontres-urbaines-medieval-fantastique/){:target="_blank"}
