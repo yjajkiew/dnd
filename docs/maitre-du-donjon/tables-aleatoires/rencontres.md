@@ -18,7 +18,38 @@ nav_order: 1
 {:toc}
 </details>
 
-## Forêt
+## Urbain (d20)
+
+**Source :** [Lance 1d20]([https://homebrewery.naturalcrit.com/share/8C998Y8jD7ji](https://lance1d20.wordpress.com/2022/01/07/generateur-rencontres-urbaines-medieval-fantastique/)){:target="_blank"}
+
+| d20 | Description |
+| --- | --- |
+| 1 | Un groupe de musiciens entoure les personnages et leur reproche de ne pas apprécier leur oeuvre, pourtant exceptionnelle ! Peut-être qu’une obole offerte “spontanément” serait de mise !
+| 2 | Un serviteur pressé se dirige vers les personnages. Laissez-le passer, il se hâte car il a une livraison à faire. A moins qu’il ne fuit quelque chose ou quelqu’un ?
+| 3 | Un groupe de badauds discute et bloque le passage, gênant les personnages sans comprendre qu’ils doivent faire place.
+| 4 | Un peu plus loin dans la rue, des serpents sortent d’une cave, semant la panique parmi les habitants et les animaux. Il faut les éliminer, et comprendre d’où ils viennent. Y en a-t-il d’autres ?
+| 5 | La circulation se ralentit dans la rue, tandis qu’une musique s’élève à l’angle d’une maison voisine. Est-ce une procession funèbre ou… un mariage ?
+| 6 | Un commerçant mécontent s’approche des personnages : les prend-il pour des voleurs, lui doivent-ils de l’argent ou les confond-il avec quelqu’un d’autre ?
+| 7 | Le groupe trouve un baril de nourriture ou de boisson abandonné près d’une maison. Est-il tombé d’un chariot ? Son propriétaire est-il dans les parages ? Que contient-il de bon ?
+| 8 | Un brouillard épais se lève soudainement dans le quartier, les habitants sont inquiets et l’on n’y voit plus grand chose. Est-ce l’oeuvre de la magie ? Quels sont ces cris qui retentissent dans les ruelles ?
+| 9 | Alors que les personnages passent devant une boutique, celle-ci prend subitement feu. L’alarme se déclenche en ville mais des cris s’échappent de la maison. Il faut intervenir ! Et vite ! Mais quels dangers y résident ? Et qu’est-ce qui a déclenché le feu ?
+| 10 | Un marchand a répandu sa cargaison de légumes dans la rue, bloquant la circulation. Tandis que les citadins s’énervent, des pickpockets en proﬁtent pour les délester de leur bourse. Et si cet accident servait à masquer autre chose, comme par exemple une embuscade ?
+| 11 | Dans une ruelle étroite, les personnages voient les serviteurs d’un noble local s’avancer vers eux. Ils ont l’air agressifs, et sont armés de gourdins. Que se passe-t-il ? Méprise ou manipulation ? Il ne fallait peut-être pas courtiser la ﬁlle de cet aristocrate !
+| 12 | Sur une petite place discrète, deux individus préparent leur épées car ils sont sur le point de se battre en duel. Le groupe va-t-il les séparer, les raisonner ou… assister au spectacle ?
+| 13 | Une nuée d’oiseaux s’abat sur une boulangerie voisine, dévastant tout sur son passage. Qu’ont donc ses animaux ? Le boulanger est-il en cause ? Ou son nouvel apprenti, aussi discret que timide ?
+| 14 | Sous les pas du groupe, un égout se met à déborder, répandant son contenu nauséabond dans la rue. On dirait bien qu’un ou plusieurs corps sont la cause du colmatage de la conduite, et des fragments organiques sont trouvables en grande quantité… Il va falloir descendre explorer le cloaque !
+| 15 | Un grondement retentit dans l’avenue qu’empruntent les personnages, et un nuage de poussière se soulève. Une portion de l’avenue s’est effondrée sous le poids de chariots de marchandises. Il y a des disparus, qui ira les chercher dans les décombres ? Et que sont ces vestiges de constructions que l’on aperçoit dans le goure ainsi créé ?
+| 16 | Un mage se promène en ville et croise les aventuriers. Il les regarde étrangement… A-t-il une mission pour eux ou vient-il de leur lancer un sortilège ?
+| 17 | Tandis que le groupe erre en ville, un éclat brillant attire le regard. Dans la boue qui recouvre le milieu de l’allée, une boucle d’oreille en diamant étincelle. Qui l’a perdue ? Une belle noble, un amoureux transi ou un voleur maladroit ? Et qui paiera une récompense ?
+| 18 | Les apprentis héros ont une mission à accomplir dans un quartier qui est isolé par la garde : une épidémie s’est déclarée ! Est-ce vrai ou une manipulation pour les empêcher d’accomplir leur quête ? Comment le savoir et faut-il prendre le risque de se glisser dans les lieux ?
+| 19 | Un ogre est en liberté dans les rues ! Tandis qu’il est pris en chasse par la milice, la question se pose de savoir d’où il vient ! Était-il prisonnier ou est-ce l’avant-garde d’une invasion de monstres ?
+| 20 | Des molosses s’en prennent à l’étal d’un boucher et chapardent de la viande. Il faut les chasser mais… quelle est donc réellement cette nourriture ? Est-elle autorisée ? Y a-t-il un lien avec le cimetière saccagé la nuit dernière ?
+
+
+
+
+
+## Forêt (d100)
 
 **Source :** [Dungeons and Djinns](https://homebrewery.naturalcrit.com/share/8C998Y8jD7ji){:target="_blank"}
 
