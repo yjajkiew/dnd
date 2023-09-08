@@ -20,7 +20,7 @@ nav_order: 1
 
 ## Forêt
 
-**Source : ** https://homebrewery.naturalcrit.com/share/8C998Y8jD7ji 
+**Source : ** [Dungeons and Djinns](https://homebrewery.naturalcrit.com/share/8C998Y8jD7ji){:target="_blank"}
 
 | d100 | Description |
 | --- | --- |
