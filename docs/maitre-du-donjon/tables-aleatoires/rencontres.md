@@ -213,6 +213,113 @@ nav_order: 1
 | 100 | Un putois se balade à travers le campement du groupe. |
 
 
+## Côte (d100)
+
+**Source :** [Dungeons and Djinns](https://www.dmsguild.com/product/273688/100-NonCombat-Random-Encounters-Coastal){:target="_blank"}
+
+| d100 | Description |
+| --- | --- |
+| 1 | Une collection d'étoiles de mer colorées reposent dans un bassin de marée. |
+| 2 | Une odeur nauséabonde emplit l’air d’une baleine morte qui s’est échouée. |
+| 3 | Un drapeau pirate a été érigé à côté d'une barque renversée. |
+| 4 | Une rivière d'eau douce coule et se mêle à la mer. |
+| 5 | Une ancienne jetée en pierre s'étend dans l'eau. |
+| 6 | De l'autre côté des vagues, le groupe entend au loin un chant de marin, ceinturé par un équipage de marins sur un navire à peine visible. |
+| 7 | La lumière du soleil tache les vagues, leur donnant l’impression d’être faites d’or liquide. |
+| 8 | Une vieille femme assise sur un rocher tisse un filet. |
+| 9 | Un château de sable à moitié démoli est abandonné sur la plage. |
+| 10 | Les mouettes s'intéressent à la fête, surtout celles qui portent des objets brillants sur elles. |
+| 11 | Une elfe en soie en lambeaux s'est échouée sur la plage – est-elle toujours en vie ? |
+| 12 | Un groupe de gnomes vérifie les casiers à homards. |
+| 13 | Une belle coquille est encore occupée par un crustacé venimeux. |
+| 14 | Des cordes d'algues longues et filandreuses encombrent la plage. |
+| 15 | Quelqu'un a gravé deux noms de gobelins dans un cœur brut dans une falaise de craie. |
+| 16 | Le chemin serpente jusqu'à une falaise. En contrebas, le groupe peut voir des dauphins nager. |
+| 17 | Le coucher de soleil ce jour-là est d'une étrange couleur verdâtre. |
+| 18 | La mer sent inexplicablement le vin, jusqu'à ce que quelqu'un aperçoive un tonneau cassé. |
+| 19 | L'eau devient inhabituellement claire et on peut voir de minuscules poissons flotter sous sa surface. |
+| 20 | Un poisson volant saute au-dessus des vagues. |
+| 21 | Un halfelin muni d'une canne à pêche tourne le dos à la mer, son bobber posé sur le sable. |
+| 22 | Un groupe d'aventuriers très ivres a allumé un feu de joie. |
+| 23 | Une femme en guêtres lutte contre quelque chose dans les bas-fonds. |
+| 24 | Un ouragan se prépare. |
+| 25 | D'étranges échos proviennent d'une grotte située dans une falaise en bord de mer. |
+| 26 | La plage devant nous est recouverte de morceaux de verre de plage scintillants. |
+| 27 | Un groupe de jeunes femmes dansent autour d'un feu ouvert. |
+| 28 | Dans un marais isolé se dresse une maison sur pilotis. |
+| 29 | Deux jeunes à cheval s'affrontent sur le sable. |
+| 30 | La plage est jonchée d'épaves d'un navire chaviré. |
+| 31 | Un groupe d'hommes costauds creusent un trou dans le sable. |
+| 32 | Un homme et son fils marchent le long de la plage à marée basse, rejetant les poissons échoués. |
+| 33 | Une femme aux grands yeux sombres est assise sur un rocher. Elle jette un coup d'œil sur le groupe, puis plonge directement dans la mer. |
+| 34 | Le cri d'un albatros perce l'air calme. |
+| 35 | Un chevalier en grande plaque recouverte d'une tunique bleue se tient face à la mer, désarmé et immobile. |
+| 36 | Un demi-orque joue avec nostalgie d'un luth, regardant la mer. |
+| 37 | Une femme ramasse des algues dans un panier tressé. |
+| 38 | Les rochers sont couverts de balanes comestibles. |
+| 39 | Le sable ici démange étrangement : il est grossier, il est irritant et il s'infiltre partout. |
+| 40 | Des sirènes curieuses nagent un moment aux côtés de la fête. |
+| 41 | À travers une eau peu profonde et baignée de soleil, le sourire d'un squelette à moitié enterré est visible. |
+| 42 | Un château en ruine veille sur une baie tranquille. |
+| 43 | Les nuages sont bas à l'horizon - ou est-ce une île ? |
+| 44 | Une cascade se déverse d'une falaise dans la mer. |
+| 45 | Un personnage trébuche sur un morceau de verre noir, reste d'un coup de foudre. |
+| 46 | Une horde de petites tortues se dirigent vers l'eau. |
+| 47 | Un homme et sa fille se tiennent debout devant une marmite posée dans le sable et font bouillir de l'eau salée pour en faire du sel. |
+| 48 | L'un des personnages trouve une huître contenant une perle. |
+| 49 | Le bateau d'un pêcheur ramène ses prises. |
+| 50 | Les embruns provoquent la formation de petits arcs-en-ciel dans la lumière. |
+| 51 | Un groupe de chasseurs écorche un morse. |
+| 52 | Alors que le groupe marche sur la plage, ils voient un bûcher funéraire dressé vers la mer. |
+| 53 | Quelqu'un a construit un cairn au bord de l'eau, et un voile déchiré et taché flotte à son extrémité. |
+| 54 | Les vagues ont emporté une vieille botte. |
+| 55 | Un perroquet se pose sur l'épaule d'un personnage en jurant outrageusement. |
+| 56 | Une tour sur un affleurement émet régulièrement une lumière magique, avertissant les navires de s'éloigner des rochers en contrebas. |
+| 57 | Le soleil s'assombrit - une éclipse a commencé. |
+| 58 | Une baie immobile devant nous est remplie d'algues. |
+| 59 | Les personnages enjambent une mouette morte, puis une autre, puis une autre. |
+| 60 | Des poissons aux couleurs vives voltigent autour des rochers d'une baie claire et calme. |
+| 61 | Le son d'un chant séduisant vient de quelques rochers, au loin au large. |
+| 62 | Quelqu'un a disposé des coquillages sur la plage pour épeler « H-E-L-P ». |
+| 63 | La marée descend rapidement - plus rapidement qu'une marée basse normale. |
+| 64 | Un homme mince au chapeau scandaleux est assis sur un rocher surplombant les vagues, composant verbalement une poésie horrible. |
+| 65 | Une femme fait des longueurs dans l’eau. |
+| 66 | Un sympathique élémentaire d’eau décide de jouer à chat avec les chevilles des personnages. |
+| 67 | La pluie tombe, solidifie les personnages et transforme la mer en un bourbier gris et bouillonnant. |
+| 68 | Les personnages entendent un léger miaulement provenant d'un filet échoué et sale - un chaton emmêlé dans ses brins. |
+| 69 | Une grappe de gros œufs est visible, leurs sommets dépassant du sable. |
+| 70 | Deux jeunes filles jouent sur la plage, mais elles ne semblent faire aucun bruit. |
+| 71 | Une bouteille flotte dans l'eau, transportant à l'intérieur un morceau de parchemin enroulé. |
+| 72 | Un vieux bateau a été remonté à terre et une enquête plus approfondie révèle un ancien squelette posé sur son pont. |
+| 73 | Une vague de crabes commence à dévaler la plage – fuyant quelque chose ? |
+| 74 | Une petite grotte sur une falaise en bord de mer est remplie de minuscules chauves-souris endormies. |
+| 75 | Un petit tourbillon tourne à une centaine de mètres au large. |
+| 76 | Un tentacule massif et putride s'est échoué sur la plage. |
+| 77 | Sur une baie immobile, une barque tourne lentement en rond – des bruits de disputes dérivent sur les vagues. |
+| 78 | palmiers parsèment la plage, leurs noix de coco menaçant de frapper un personnage à la tête. |
+| 79 | Au crépuscule, un navire fantomatique est aperçu flottant sur les vagues, ses mâts éclairés par un feu surnaturel. |
+| 80 | Lorsque les personnages se réveillent d'un long repos, ils voient une île qui n'était pas là hier. |
+| 81 | Un homme vêtu d'un manteau gris marine prêche à un culte d'adeptes passionnés sur un promontoire rocheux. |
+| 82 | Un camp noble a été installé sur le sable, et plusieurs dames bien habillées s'allongent sous des parasols tout en regardant les messieurs s'entraîner avec des épées en bois. |
+| 83 | Des poissons volants voltigent à la surface de l'eau, parfois attrapés par des oiseaux affamés. |
+| 84 | Un personnage remarque un grand dendroctone des sables aux couleurs inhabituelles. |
+| 85 | Aucun ruisseau ne se jette dans la mer pendant plusieurs jours de voyage, et il ne pleut pas. |
+| 86 | Amermaid est assise sur un rocher, tressant des os dans ses cheveux. |
+| 87 | Au milieu de vagues déchaînées et déchaînées, une partie de la mer est presque parfaitement calme. |
+| 88 | Ce qui semble être les restes d'un ancien pont elfique s'étend dans l'eau, avant de se terminer par un tas de décombres déchiquetés. |
+| 89 | Au large, une baleine se brise dans un jet de gouttelettes. |
+| 90 | Une mouette fouille dans le bois flotté avec plus d'intention que ce qui est normal pour un oiseau. |
+| 91 | Adog joue avec délice dans les vagues, mais son propriétaire est introuvable. |
+| 92 | Un groupe de gnomes mijotent des écrevisses sur la plage. |
+| 93 | À l'aube, la fête est réveillée par des cris de joie : les étudiants d'une école de sorciers voisine plongent, nus, dans l'océan froid. |
+| 94 | Lorsque le groupe lève les yeux vers le ciel nocturne, les constellations apparaissent légèrement différentes. |
+| 95 | La plage est parsemée de verre marin. |
+| 96 | Un personnage trouve un dollar des sables immaculé échoué sur le sable humide. |
+| 97 | Le sable d'une certaine partie de la plage continue d'être soulevé dans un petit tourbillon. |
+| 98 | quelque chose brille dans les bas-fonds – une pièce d'or, à moitié enfouie dans le sable. |
+| 99 | Chaque fois que les personnages regardent derrière eux dans le sable, une paire d'empreintes de pas supplémentaire les suit. |
+| 100 | Dans les vagues, une création gnome métallique fait une brèche pendant une seconde avant de replonger.
+
 ## Jungle (d100)
 
 **Source :** [Dungeons and Djinns](https://homebrewery.naturalcrit.com/share/8C998Y8jD7ji){:target="_blank"}
