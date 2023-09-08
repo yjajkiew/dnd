@@ -55,6 +55,25 @@ nav_order: 1
 | 20 | Zone de magie folle
 
 
+## Individu (d20)
+
+**Source :** [Lance 1d20](https://lance1d20.wordpress.com/2022/01/07/generateur-rencontres-urbaines-medieval-fantastique/){:target="_blank"}
+
+| d20 | Individu |
+| --- | --- |
+| 1-5 | Habitant ou serviteur
+| 6-8 | Commerçant ou enfant
+| 9-10 | Marchand ambulant, ivrogne
+| 11-14 | Mendiant, bohémienne, voyante
+| 15 | Voleur ou pickpocket, bandits
+| 16 | Garde ou crieur de rue
+| 17 | Noble ou étudiant ou sage
+| 18 | Prêtre ou musicien
+| 19 | Aventurier
+| 20 | Magicien
+
+
+
 ## Urbain (d20)
 
 **Source :** [Lance 1d20](https://lance1d20.wordpress.com/2022/01/07/generateur-rencontres-urbaines-medieval-fantastique/){:target="_blank"}
