@@ -73,6 +73,113 @@ nav_order: 1
 | 20 | Magicien
 
 
+## Sur la route (d100)
+
+**Source :** [Dungeons and Djinns](https://www.dmsguild.com/product/264922/100-NonCombat-Random-Encounters-On-the-Road){:target="_blank"}
+
+| d100 | Description |
+| --- | --- |
+| 1 | Le groupe passe devant un puits à un carrefour. Des bruits d’éclaboussures peuvent être entendus à l’intérieur. |
+| 2 | Un elfe passe, tirant une charrette remplie de couronnes de fleurs. |
+| 3 | Un cadavre rétréci pend à une branche d’arbre, suspendu par un nœud coulant. |
+| 4 | Un char à bœufs a cassé un essieu devant lui. |
+| 5 | Une lueur aveuglante de couleurs annonce la fin d’un arc-en-ciel. |
+| 6 | Un chaman aveugle mendie à côté d’une borne routière. |
+| 7 | De la fumée s'élève au loin : une ferme est en feu ! |
+| 8 | La route a été emportée par une récente inondation (ou avalanche). |
+| 9 | Une belle calèche dévale la route, manquant de peu un personnage. |
+| 10 | Devant, un chevalier en armure noire garde un pont. |
+| 11 | Un arbre massif est tombé pour bloquer la route. |
+| 12 | L’odeur de la mouffette flotte devant nous. |
+| 13 | Une comète brille au-dessus de nous, visible même de jour. |
+| 14 | Un oiseau se soulage sur un personnage. |
+| 15 | Un chien errant commence à suivre la fête à la recherche de restes. |
+| 16 | Un personnage aperçoit une alliance à moitié enfouie dans la boue. |
+| 17 | Une borne kilométrique a été peinte avec un crâne rouge. |
+| 18 | Un lutin décide de tourmenter la fête. |
+| 19 | Alors que le groupe passe devant une rivière, ils entendent le bruit d'un bébé qui pleure dans les roseaux. |
+| 20 | Les mouches bourdonnent autour de quelque chose – une main coupée. |
+| 21 | Un petit paquet de tissus a été laissé sur un poteau de clôture. |
+| 22 | Une vigne couverte de fleurs odorantes grimpe par-dessus une clôture en ruine. |
+| 23 | L'un des personnages marche sur un rocher pointu. |
+| 24 | Un enfant avec une épée en bois erre sur la route et la balance sur des ennemis imaginaires. |
+| 25 | Un gang de chaînes travaille à réparer un pont. |
+| 26 | Un poteau indicateur a été brisé par une force massive. |
+| 27 | Un chariot avec une banderole « Just Married » est garé au bord de la route. |
+| 28 | Les personnages passent devant un champ où les récoltes meurent, couvertes de bave verte. |
+| 29 | Un vieil arbre avec des noueux ressemblant étrangement à un visage semble observer les personnages. |
+| 30 | Une brume violette s’étend sur la route. |
+| 31 | L'odeur du pain frais vient d'un chalet voisin. |
+| 32 | Un moulin à vent abandonné grince de façon menaçante sous le vent. |
+| 33 | Une statue recouverte de vignes se dresse au bord de la route. |
+| 34 | Une cascade scintille dans la lumière. |
+| 35 | Un robinet brut a exploité une source souterraine à un carrefour. |
+| 36 | Un troupeau de chevaux sauvages trotte au loin. |
+| 37 | Un auvent a été installé dans un champ et des sons de chants rauques en sortent. |
+| 38 | La route serpente pendant un moment le long d’un profond ravin. |
+| 39 | Les bruits d’une hache fendant du bois proviennent des profondeurs d’une forêt. |
+| 40 | Un étang sur la gauche reflète le ciel nocturne, quelle que soit l'heure de la journée. |
+| 41 | Une falaise au loin porte encore les traces d'une ancienne fresque murale peinte dessus. |
+| 42 | Des brins de mousse blanche et fantomatique pendent d’un arbre voisin. |
+| 43 | Les éclairs crépitent dans le ciel, qui s'assombrit avec l'arrivée d'un orage. |
+| 44 | Un fort ronflement provient d'un champ voisin. |
+| 45 | Un serpent se faufile dans l'herbe. |
+| 46 | Un chat se prélasse au milieu de la route, refusant de bouger. |
+| 47 | Un parterre de fleurs sauvages attire un essaim d’abeilles excitées. |
+| 48 | Des éclats de verre jonchent la route et des traces indiquent que quelque chose a été emporté. |
+| 49 | Une pie commence à harceler le personnage le plus brillant. |
+| 50 | Une petite tour sur une colline lointaine crache un nuage de fumée bleue. |
+| 51 | Les personnages passent devant un verger de pommiers. |
+| 52 | Quelqu'un a fabriqué une tonnelle en tissant des ifs ensemble au fur et à mesure de leur croissance. |
+| 53 | Une voix crie à l'aide depuis les bois à droite : un piège à ours a attrapé un chasseur par erreur. |
+| 54 | Quelqu’un a peint des graffitis obscènes sur un muret de pierre. |
+| 55 | Deux frères passent par là et se disputent bruyamment. |
+| 56 | Une tortue traverse la route devant les personnages, avec une lenteur incroyablement lente. |
+| 57 | Un aventurier aléatoire demande son chemin pour se rendre à l'auberge la plus proche. |
+| 58 | Une corde bloque la route - un panneau accroché dessus indique "cela a roulé fermé 4 mai". |
+| 59 | Une charrette passe, un tonneau de bière sur le dos menaçant de tomber à tout moment. |
+| 60 | Osez des rats géniaux avec une paire de chaussures abandonnées dans le fossé. |
+| 61 | Quelque chose sort d’une paire de chaussures abandonnées dans le fossé. |
+| 62 | Une balle rebondit sur la route et entre en collision avec un personnage. |
+| 63 | Une canne est abandonnée au milieu de la route et des traces d'éraflures s'en éloignent. |
+| 64 | Le champ d'un agriculteur contient des produits délicieusement alléchants. |
+| 65 | Une robe vide flotte sur une branche d’arbre. |
+| 66 | Un dragon féerique fait une farce aux personnages. |
+| 67 | Quelque chose de scintillant scintille sur la route – une petite tache d’or brut. |
+| 68 | Un chariot peint de couleurs vives est garé au bord de la route – des lettres sinistres proclament « Extraction de dents, 5cp/eal » |
+| 69 | Un troupeau de chèvres à proximité comprend un bouc particulièrement viril, et les autres ne sont pas impressionnés. |
+| 70 | Les vignes grimpent sur les treillis d’un côté de la route. |
+| 71 | Un cours qui s'ennuie ? un enfant halfelin vêtu de vêtements en lambeaux se balance à la porte d'une ferme. |
+| 72 | Un poulet peu impressionné picore la route. |
+| 73 | Un bébé renard s'est coincé sous une racine et crie à l'aide. |
+| 74 | Une plume flotte au gré du vent, mais si un personnage essaie de l'attraper, la plume lui échappe et continue son chemin. |
+| 75 | Un cheval sellé et sans cavalier trotte dans la direction opposée, les flancs trempés de sueur. |
+| 76 | Deux jeunes femmes partent en promenade. Lorsqu'elles aperçoivent la fête, elles éclatent de rire. |
+| 77 | Un aventurier fatigué et grisonnant est affalé contre un poteau de clôture, recousant une entaille à l'avant-bras. |
+| 78 | Un train de wagons de cirque passe, les bruits d'animaux exotiques venant de l'intérieur. |
+| 79 | Un personnage trébuche sur une racine particulièrement noueuse et surélevée. |
+| 80 | Un ruisseau avec un lit de pierres aux couleurs vives coule à travers la route. |
+| 81 | Une colline s'élève dans la différence, avec à son sommet les restes d'un château en ruine. |
+| 82 | Quelqu'un a érigé un menhir à un carrefour. |
+| 83 | Un personnage s'examine dans un étang. Lorsqu'il voit la fête, il halete et s'enfuit. |
+| 84 | Les personnages ont le sentiment étrange d'être observés, mais après enquête, tout ce qu'ils trouvent est un hibou qui les regarde impassiblement. |
+| 85 | Des échafaudages ont été érigés dans un coin et la construction d'une tour de guet est en cours. |
+| 86 | Les papillons commencent à se poser partout sur un personnage. |
+| 87 | De vieilles pierres dressées, couvertes de mousse, forment un cercle dans un champ voisin. |
+| 88 | Un cartographe mesure un pont. |
+| 89 | Une pierre massive à un carrefour a été récemment brisée. |
+| 90 | En traversant un lit de calcaire, un personnage trouve ce qui pourrait être une géode. |
+| 91 | Alors que le groupe traverse un champ de fleurs, ils commencent à avoir très sommeil. |
+| 92 | Un cerf-volant s'est coincé dans une branche d'arbre. |
+| 93 | Quelqu'un trouve un œil de verre, enfoui parmi la mousse. |
+| 94 | Une corde pend sur une paroi rocheuse, mais personne n’est en vue. |
+| 95 | Un clou a été enfoncé dans une épée de la taille d'une poupée et enfoncé dans un poteau de clôture. |
+| 96 | Une silhouette encapuchonnée est assise sur une bûche, tenant une tasse fumante dans des mains gantées sans doigts. |
+| 97 | Une pelle est enfoncée dans un champ à côté d'un tas de terre, et la taille du trou indique que quelque chose a été enlevé. |
+| 98 | Une chenille pénètre dans le pantalon de quelqu'un. |
+| 99 | Une collection de pousses de champignons aux motifs brillants à l’intérieur d’une bûche pourrie. |
+| 100 | Au-delà d'un virage, la lueur chaleureuse du feu d'une auberge vous accueille chez vous. |
+
 
 ## Urbain (d20)
 
@@ -641,3 +748,6 @@ nav_order: 1
 | 98 | Un crâne terni et cuivré a deux pièces d'or coincées sur ses yeux. |
 | 99 | Un personnage se retrouve avec du plancton coincé dans les dents. |
 | 100 | L'ombre d'une empreinte massive s'abat sur le parti. |
+
+
+
