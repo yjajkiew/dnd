@@ -426,3 +426,111 @@ nav_order: 1
 | 98 | Une pile de vestiges sanglants à moitié enterrés se révèle être un tas d'ongles de pieds arrachés.
 | 99 | Une ruche bourdonne tandis qu'un essaim se rapproche lentement d’un des personnages.
 | 100 | D’anciennes empreintes de mains rougeâtres couvrent le mur d’une cave préhistorique.
+
+## Arctique (d100)
+
+**Source :** [Dungeons and Djinns](https://www.dmsguild.com/product/268165/100-NonCombat-Random-Encounters-The-North){:target="_blank"}
+
+| d100 | Description |
+| --- | --- |
+| 1 | Un grondement au loin indique une avalanche. |
+| 2 | Une halfeline patine le long d'une crête, des skis faits maison attachés à ses pieds. |
+| 3 | Une cascade gelée scintille au soleil. |
+| 4 | De minuscules traces de rongeurs s'arrêtent brusquement, accompagnées de marques d'ailes et de quelques gouttes de sang. |
+| 5 | Un morceau de neige mouillée tombe d'une branche de pin directement sur la tête d'un personnage. |
+| 6 | Un personnage perce la croûte de neige et reste coincé dans la neige jusqu'à la cuisse. |
+| 7 | Un wapiti d’un blanc pur trotte devant nous. |
+| 8 | Un faucon se fraye un chemin dans les airs, tournant paresseusement au-dessus d'un sommet de montagne. |
+| 9 | Le sentier se rétrécit et serpente le long d'une crête vertigineuse avec des dénivelés abrupts de chaque côté. |
+| 10 | Une corde est suspendue au flanc d'une falaise, sécurisée par des pitons. |
+| 11 | Une fissure au loin indique qu'un morceau de glace s'est séparé du tout. |
+| 12 | Le groupe passe devant un étang gelé jusqu'à devenir lisse comme un miroir. |
+| 13 | Une grosse bête a aiguisé ses griffes sur un pin. |
+| 14 | Le groupe entend de faibles jappements au loin – des chiots loups jouant les uns avec les autres à l'entrée de leur tanière. |
+| 15 | Une écharpe faite à la main abandonnée a gelé. |
+| 16 | Une ligne de glaçons tombe en cascade depuis un surplomb rocheux. |
+| 17 | Une raquette est coincée dans un arbre, reste de l'épave d'un événement malheureux et mystérieux. |
+| 18 | Une plume inhabituellement grande est plantée au sommet d'un cairn marquant le chemin. |
+| 19 | Snowmelt a révélé les bottes d'un aventurier mort, mais le reste est enseveli sous la neige profonde. |
+| 20 | L'entrée d'un puits de mine abandonné peut être repérée derrière une congère. |
+| 21 | Un morceau de dentelle a été attaché à un bâton enfoncé dans la neige. Si les personnages regardent autour de eux, ils en voient un autre qui s'éloigne de leur chemin. |
+| 22 | Un petit cheval de bois, peint en rouge avec de petites fleurs en guise de punaise, a été laissé sur la neige. |
+| 23 | Un rugissement étrange et surnaturel résonne dans la neige. |
+| 24 | Des buissons surgissent dans la neige, leurs branches sont d'un rouge étrange comme du sang. |
+| 25 | De minuscules fées des neiges sautent par-dessus la croûte de neige et jouent à chat. |
+| 26 | Un pont traverse une rivière gelée, dont la surface est recouverte de glace. |
+| 27 | Un sommet de montagne s'élève au loin, son sommet enveloppé de doux nuages. |
+| 28 | Quelqu'un a accroché plusieurs poupées faites de brindilles à une branche enneigée. |
+| 29 | Un troupeau de chèvres de montagne est perché à flanc de falaise, défiant apparemment la gravité. |
+| 30 | Une colonne de fumée monte vers le ciel, sa source étant bloquée par une montée enneigée. |
+| 31 | Une tente s'est effondrée sous le poids de fortes chutes de neige. |
+| 32 | L'altitude monte brusquement jusqu'à ce qu'il fasse trop froid pour la neige et que la mousse gelée et les plantes alpines crissent sous les pieds, leurs couleurs brillamment préservées. |
+| 33 | Un cri perçant résonne à travers le paysage – les personnages maîtrisant la compétence Nature reconnaissent le son comme celui d'un pika. |
+| 34 | Une source chaude fume au fond d'un ravin. |
+| 35 | Quelqu'un a construit une nouvelle cabane en bois à flanc de colline et de la fumée s'échappe de la cheminée. |
+| 36 | Un piège à ours a été installé le long d'un sentier d'animaux dans lequel un personnage particulièrement inconscient pourrait y entrer. |
+| 37 | Une brillante aurore boréale illumine le ciel nocturne. |
+| 38 | L'air crépite et les armes dégainées des personnages brillent du feu de Saint-Elme. |
+| 39 | La neige sous les pieds s'effondre, laissant tomber le groupe dans une grotte de glace. |
+| 40 | Le groupe entend de faibles appels à l'aide venant d'un ravin. |
+| 41 | Des vents violents soufflent sur la toundra, menaçant de renverser les personnages les plus faibles. |
+| 42 | La voie à suivre passe par une calotte glaciaire glissante sur laquelle les personnages ont du mal à obtenir une quelconque traction. |
+| 43 | Des aboiements au loin annoncent un barbare vêtu de fourrure chevauchant un traîneau tiré par d'énormes mastiffs à fourrure. |
+| 44 | Une lueur de lumière violette vient des profondeurs d'un glacier. |
+| 45 | La neige a fondu pour révéler les os d'une énorme bête préhistorique. |
+| 46 | Le groupe fait sursauter un lièvre d'Amérique qui s'enfuit dans la neige. |
+| 47 | Une traînée de gouttes de sang rouge vif croise le chemin du groupe. |
+| 48 | Un ours polaire joue dans la neige fraîchement tombée. |
+| 49 | Les flocons de neige tournent dans un vortex sans cause visible. |
+| 50 | Alors qu'un brouillard s'installe, les ombres du groupe commencent à briller d'une lumière surnaturelle. |
+| 51 | Les montagnes s'élèvent au loin, mais elles ne semblent jamais se rapprocher à mesure que le groupe voyage. |
+| 52 | Un cairn traverse la neige, sculpté de runes et de symboles nains. |
+| 53 | Une épée repose dans un champ et semble avoir fait fondre comme par magie la neige qui l'entoure - les fleurs s'épanouissent à seulement quelques centimètres du reste des déchets gelés. |
+| 54 | Le cadavre frais d'un aigle majestueux repose sur la neige. |
+| 55 | Le vent hurlant à travers les plaines ressemble beaucoup à une voix annonçant une ancienne prophétie. |
+| 56 | Avec une fissure, le sol en contrebas cède : c'est en réalité une calotte glaciaire au-dessus d'un lac gelé, obscurcie par la neige. |
+| 57 | Quelqu'un a construit un igloo qui peut être encore habité ou non. |
+| 58 | Une sculpture de glace représentant une licorne a été taillée dans un glacier. |
+| 59 | Un personnage aperçoit quelque chose de grand et de forme étrange se déplaçant sous la glace à proximité. |
+| 60 | Quelqu'un a jeté un corset de femme dans les branches d'un pin. |
+| 61 | À gauche se trouve une petite boîte sur un support, sortant à peine de la neige - un panneau au-dessus indique "MAIL". |
+| 62 | Un chemin a été creusé dans la neige, menant à une crête. |
+| 63 | Un gnome avec une paire de lunettes ridicules a coupé une tranche de neige et examine les différents motifs de couleurs. |
+| 64 | cavaliers Gryphon en mission de recherche et de sauvetage, identifiables à leurs sacoches rouges, aile au-dessus de leur tête. |
+| 65 | Au loin, le groupe entend un cri et un homme sur un seul ski dévale une montagne à toute allure et s'écrase aussitôt, roulant sur une bonne vingtaine de pieds. |
+| 66 | Quelqu'un a construit un bonhomme de neige près du chemin. |
+| 67 | Les personnages voient d'étranges lumières sous la neige - l'enquête révèle qu'il s'agit de vers de neige brillants. |
+| 68 | Un sac attaché à une branche voisine est rempli de dents humanoïdes. |
+| 69 | Dans une clairière, un groupe de figures spectrales est assis autour d'un autel en pierre brute. |
+| 70 | Une fusée tire des HF au loin, diffusant des éclats de lumière colorée dans le ciel. |
+| 71 | Un rouge-gorge chante de manière gutturale depuis une branche, puis voltige pour se percher sur un personnage. |
+| 72 | Quelqu'un a accroché un chapelet d'ossements d'animaux entre deux arbres, et ils s'entrechoquent de manière menaçante. |
+| 73 | Un immense lac gelé se trouve au pied d'une vallée, reflétant parfaitement les montagnes environnantes. |
+| 74 | Un gobelet émaillé repose sur la neige et scintille au soleil. |
+| 75 | Quelqu'un a suspendu un lièvre récemment mort à un piège à branches rudimentaire – un appât ? |
+| 76 | Un ours noir fouille une vieille ruche et lèche le miel doré de ses griffes. |
+| 77 | Neige jaune. |
+| 78 | Quelques crocus précoces pointent à travers les congères. |
+| 79 | Une route serpente en contrebas, et sur le bord de la route on aperçoit une voiture, une roue coincée dans la neige épaisse. |
+| 80 | Un personnage repère les empreintes d'un enfant dans la neige. |
+| 81 | Une pomme de pin frappe un personnage à la tête. |
+| 82 | Un vieil homme avec un chapeau en peau de raton laveur fait rôtir un cuissard de quelque chose sur un feu ouvert, et l'odeur est délicieuse. |
+| 83 | Un tunnel a été creusé à travers une crête plus loin, et le temps de l'autre côté semble bien pire. |
+| 84 | Un clan d'orcs a établi son camp dans une vallée plus loin – ils semblent célébrer leur anniversaire, avec des chapeaux. |
+| 85 | Quelque chose de rouge scintille sur un rocher. |
+| 86 | Les faibles sons de la cornemuse résonnent sur les pentes enneigées. |
+| 87 | À près d'un kilomètre et demi dans le ciel, deux dragons blancs se livrent à une danse nuptiale sinueuse. |
+| 88 | Le chemin du groupe est interrompu par le champ d'une avalanche récente - il n'est peut-être pas sûr de traverser, mais faire demi-tour n'est pas une option. |
+| 89 | Le groupe arrive sur la piste de luge parfaite. |
+| 90 | Malgré le froid, un sombre ruisseau coule toujours à travers le paysage. |
+| 91 | Une petite tente sur un lac gelé indique que quelqu'un pêche sur la glace. |
+| 92 | Un grand craquement perturbe le calme, puis un autre – les arbres, qui s'agrandissent à mesure que les températures baissent. |
+| 93 | Un cerf ronge un arbre sans feuilles, mangeant l'intérieur de l'écorce. |
+| 94 | Dans une clairière, un personnage aperçoit un autel en bois avec des taches sombres à la surface. |
+| 95 | Le groupe aurait pu jurer qu'ils ont voyagé toute la journée tout droit, mais ils ont juste traversé des voies qui ressemblent étrangement aux leurs. |
+| 96 | Une bande de fées des neiges décide de lancer des boules de neige sur les personnages. |
+| 97 | Un hibou observe la fête avec une étrange intelligence dans ses yeux sombres. |
+| 98 | Un forgeron nain éteint une lame dans la neige – une lueur provenant d'une grotte voisine indique sa forge. |
+| 99 | Un rocher a été orné d'un symbole composé de lignes de mithril incrustées - ou s'agit-il d'une carte stylisée ? |
+| 100 | Un pingouin se dandine. |
+
