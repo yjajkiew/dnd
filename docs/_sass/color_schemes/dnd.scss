@@ -19,6 +19,7 @@ a,
   color: #959396 !important;
 }
 
+/* labels */
 .label.label-border-white {
   background-color: transparent;
   border: 1px solid white;
@@ -28,6 +29,11 @@ a,
 }
 .label.label-purple {
   background-color: rebeccapurple;
+}
+
+/* callouts */
+blockquote.note::before {
+  color: antiquewhite !important;
 }
 
 
