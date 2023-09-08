@@ -534,3 +534,110 @@ nav_order: 1
 | 99 | Un rocher a été orné d'un symbole composé de lignes de mithril incrustées - ou s'agit-il d'une carte stylisée ? |
 | 100 | Un pingouin se dandine. |
 
+
+## Sous-marin (d100)
+
+**Source :** [Dungeons and Djinns](https://www.dmsguild.com/product/287140/100-NonCombat-Random-Encounters-Underwater){:target="_blank"}
+
+| d100 | Description |
+| --- | --- |
+| 1 | Le groupe croise les restes d'une épave, désormais entièrement incrustés de corail. |
+| 2 | Le chant sonore d'une baleine est plus ressenti qu'entendu. |
+| 3 | Un petit ondin s'approche, ses parents nulle part en vue. |
+| 4 | De longs brins de varech forment une forêt sous-marine. |
+| 5 | Des éclairs crépitent au-dessus de la surface et tout autour, le groupe voit des poissons commencer à nager plus bas. |
+| 6 | Le fond marin s'ouvre sur une crevasse noire d'encre. |
+| 7 | Un calmar panique et projette de l'encre sur un personnage. |
+| 8 | Un gentil dauphin s'intéresse à la fête. |
+| 9 | L'eau se refroidit et les poissons s'enfuient. |
+| 10 | Nuées de petits poissons grignotent la peau morte des personnages. |
+| 11 | En contrebas, une anguille rampante glisse d'une crevasse et attrape un poisson. |
+| 12 | L'ombre d'un bateau flotte au-dessus de nous, puis un filet se précipite vers le groupe. |
+| 13 | Un coffre est encastré dans le sable en contrebas. |
+| 14 | L'eau devient étrangement trouble, comme si des flocons microscopiques de quelque chose y flottaient. |
+| 15 | Un nuage de méduses lumineuses flotte. |
+| 16 | Un banc d'hippocampes joue en contrebas de la fête. |
+| 17 | Dans un tourbillon de bulles, un plongeur plonge dans l'eau et commence à nager jusqu'à une grosse huître. |
+| 18 | Le groupe entend une conversation lointaine et confuse. |
+| 19 | Un livre gorgé d'eau s'enfonce lentement dans les profondeurs. |
+| 20 | Le courant devient plus fort et plus chaud. |
+| 21 | Une arche dorée a été construite sur le fond marin, ne menant apparemment nulle part. |
+| 22 | Un thon massif aussi long qu'un homme nage devant. |
+| 23 | D'étranges fleurs s'épanouissent dans un jardin sous-marin. |
+| 24 | Des bulles s'élèvent d'une fissure dans la roche en contrebas. |
+| 25 | L'eau est déformée devant - un tourbillon ! |
+| 26 | Un petit poisson commence à nager de façon irrégulière, presque comme s'il essayait de communiquer. |
+| 27 | Une perturbation à la surface de l'eau indique un nageur en difficulté. |
+| 28 | L'eau commence à avoir un mauvais goût. |
+| 29 | Des coquillages ont été disposés en ligne sur le fond marin, s'étendant au loin. |
+| 30 | Un énorme exosquelette de crabe abrite désormais de minuscules poissons. |
+| 31 | Un groupe de kuo-toa utilise la baignoire atin comme traîneau pour transporter leur récolte de varech. |
+| 32 | Le groupe entre dans un champ antimagique naturel. |
+| 33 | Un cimetière sous-marin a été marqué par une myriade de poignées de cimeterre rouillées. |
+| 34 | Un récif de corail s'élève pour dominer la vue devant nous. |
+| 35 | Une rame cassée porte une écriture sur la lame – un message codé. |
+| 36 | L'un des personnages sent une traction vers le haut : un hameçon s'est enfoncé dans son sac. |
+| 37 | L'eau devient d'une clarté surnaturelle. |
+| 38 | bulles indiquent une éclaboussure à la surface et le groupe voit un chien blessé qui a du mal à nager. |
+| 39 | Les loutres de mer se précipitent et jouent les unes avec les autres. |
+| 40 | L'eau a soudain un goût sucré au lieu de salé. |
+| 41 | Quel nègre être un concombre épineux qui rampe lentement sur le sable en contrebas. |
+| 42 | Une bouteille contenant un morceau de parchemin qui flotte à la surface. |
+| 43 | L'épave d'un dirigeable repose sur le fond marin. |
+| 44 | La fête entend un chant séduisant. |
+| 45 | Un kuo-toa propose de servir de guide, parlant en commun brisé. |
+| 46 | Un météore éclabousse les vagues dans un souffle de vapeur. |
+| 47 | Un ondin cherche une prophétie à partir des modèles dans lesquels nagent les poissons. |
+| 48 | Une baleine guide un veau. |
+| 49 | Une lampe à huile ternie est à moitié enfouie dans le sable en contrebas. |
+| 50 | Une pieuvre recule brusquement devant un personnage, traitant les autres normalement. |
+| 51 | Les ruines d'une ville engloutie s'étendent devant nous. |
+| 52 | Un tonneau de vin scellé et frappé d'un sceau fantaisie repose, encore intact, dans un lit d'algues. |
+| 53 | Un énorme œuf se trouve dans une vallée. À mesure que le groupe passe, il se contracte comme pour éclore. |
+| 54 | Deux dauphins jouent près de la surface. |
+| 55 | Un oursin pique un personnage, provoquant un gonflement excessif. |
+| 56 | Une lumière est visible au loin, mais elle ne se rapproche jamais. |
+| 57 | De magnifiques poissons aux nageoires flottantes entourent la fête. |
+| 58 | Les brins de certaines algues hautes et filantes sont couverts de fleurs sous-marines. |
+| 59 | Une ondine sourde nage jusqu'à la fête et commence à signer avec animation. |
+| 60 | Une méduse pique un personnage, paralysant le membre affecté pendant 1d4 heures. |
+| 61 | Un petit requin, mesurant peut-être deux pieds de long, commence à mendier de la nourriture. |
+| 62 | Le groupe passe devant la moitié d'une tablette de pierre gravée d'un message. |
+| 63 | Une étrange plante marine laisse échapper une bouffée de spores dans l'eau. |
+| 64 | La phosphorescence illumine un tunnel qui s’étend profondément sous le fond marin. |
+| 65 | Le son des tambours vient d'un temple englouti en contrebas. |
+| 66 | Un navire au-dessus de nous jette l'ancre et manque de heurter un personnage. |
+| 67 | Un cadavre gonflé flotte. |
+| 68 | Un tas de détritus – pièges à poissons cassés, bouteilles vides, sacs en toile – indique un dépotoir de pêche. |
+| 69 | Une voile de toile a coulé au fond de l'océan, étouffant toute la vie végétale qui se trouvait en dessous. |
+| 70 | Un imposant X a été tracé dans les pierres sur le sable en contrebas. |
+| 71 | Un groupe d'elfes des mers armés de lances de cérémonie se tiennent autour d'un socle. |
+| 72 | Deux sahuagins portent un blessé et inconscient, les yeux désespérés. |
+| 73 | Un volcan sous-marin semble endormi – mais l'est-il ? |
+| 74 | Des éclats d’obsidienne jonchent les fonds marins. |
+| 75 | Une algue avec de petites protubérances ressemblant à des baies a été cultivée autour d'une arche sous-marine, et les elfes des mers sont en train de les récolter. |
+| 76 | De petites grappes d'œufs de poisson adhèrent à un rocher. |
+| 77 | Quelque chose de rouge s'échappe d'une fissure dans la coque d'un navire naufragé. |
+| 78 | L'eau scintille comme si des flocons d'or y flottaient. |
+| 79 | Le groupe nage sous le ventre d'une tortue-dragon endormie. |
+| 80 | Un énorme bernard-l'ermite sort de sa coquille et pénètre dans une plus grande. |
+| 81 | Une bouée avance, envoyant des éclairs de lumière magique. |
+| 82 | Une veine exposée de fer oxydé traverse un rocher, ressemblant à un éclair sanglant. |
+| 83 | Un coffre de perles s'ouvre de manière invitante sur le fond marin. |
+| 84 | Un bébé anguille mord le bout de la botte d'un personnage et refuse de le lâcher. |
+| 85 | Le sable prend une couleur noire étincelante et reste parfaitement lisse. |
+| 86 | Quelqu'un a ramassé un tas d'obus et les a déposés aux pieds d'une figure de proue engloutie. |
+| 87 | Un personnage frôle un obélisque et un marid apparaît. Ils offrent trois vœux au groupe, mais les interprètent désespérément littéralement. |
+| 88 | Le squelette d'une baleine est devenu un campement de kuo-toa. |
+| 89 | Un duodrone en panne est empêtré dans des brins de varech. |
+| 90 | Un énorme engin gnome conçu pour ressembler à une baleine en laiton qui « nage » lentement devant elle. |
+| 91 | Une grille ferme une grotte sous-marine - sa serrure est brillante et neuve. |
+| 92 | Le fond marin s'effondre brusquement pour révéler une série de falaises sous-marines descendantes. |
+| 93 | Un escadrons de raies manta nagent. |
+| 94 | Un personnage trouve un dollar des sables parfaitement conservé. |
+| 95 | La surface de la mer est recouverte d'une étrange écume mousseuse. |
+| 96 | Une seiche s'attache à l'épaule d'un personnage comme le perroquet d'un pirate. |
+| 97 | Une école de ménés tourbillonne au-dessus comme une tornade. |
+| 98 | Un crâne terni et cuivré a deux pièces d'or coincées sur ses yeux. |
+| 99 | Un personnage se retrouve avec du plancton coincé dans les dents. |
+| 100 | L'ombre d'une empreinte massive s'abat sur le parti. |
