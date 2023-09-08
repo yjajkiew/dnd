@@ -18,6 +18,20 @@ nav_order: 1
 {:toc}
 </details>
 
+## Objets simples
+
+| d20 | Description |
+| --- | --- |
+| 1-5 | **Trésor** : or, bijou
+| 6-8 | **Vêtement** 
+| 9-10 | **Objet ménager** : Pot de chambre, casserole
+| 11-14 | **Meuble** 
+| 15-16 | **Nourriture, boisson**
+| 17 | **Arme, armure**
+| 18 | **Tissus, peaux, cuirs**
+| 19 | **Livre, parchemin**
+| 20 | **Magique**
+
 ## Objets magiques avec une limitation
 
 **Source :** [Le café Nonobstant](https://nonobstant.cafe/1d20-objets-magiques-avec-limitation/){:target="_blank"}
