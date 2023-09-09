@@ -22,6 +22,8 @@ nav_order: 4
 
 https://le-monde-des-royaumes-oublies.fandom.com/fr/wiki/Wiki_Le_Monde_des_Royaumes_Oubli%C3%A9s
 
+Générateur de noms : https://fr.fantasynamegenerators.com
+
 ## Cartes du monde
 
 cartes gratuites : https://www.caeora.com/world-region-maps
