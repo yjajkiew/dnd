@@ -31,7 +31,7 @@ _Humanoïde (aarakocra) de taille M, neutre bon_
 **Vitesse** 6 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|10 (+0)|11 (+0)|12 (+1)|11 (+0)
 
 **Compétences** Perception +5  
@@ -58,7 +58,7 @@ _Fiélon (diable) de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|18 (+4)|11 (+0)|12 (+1)|13 (+1)
 
 **Sauvegardes** For +6, Con +7  
@@ -93,7 +93,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|18 (+4)|11 (+0)|12 (+1)|13 (+1)
 
 **Sauvegardes** For +6, Con +7  
@@ -129,7 +129,7 @@ _Fiélon (diable, magicien) de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|17 (+3)|22 (+6)|23 (+6)|18 (+4)
 
 **Sauvegardes** Int +12, Sag +12  
@@ -164,7 +164,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|17 (+3)|22 (+6)|23 (+6)|18 (+4)
 
 **Sauvegardes** Int +12, Sag +12  
@@ -199,7 +199,7 @@ _Fiélon (diable) de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|17 (+3)|14 (+2)|13 (+1)|16 (+3)|11 (+0)
 
 **Sauvegardes** Dex +6, Sag +6  
@@ -233,7 +233,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|17 (+3)|14 (+2)|13 (+1)|16 (+3)|11 (+0)
 
 **Sauvegardes** Dex +6, Sag +6  
@@ -269,7 +269,7 @@ _Fiélon (diable) de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|16 (+3)|19 (+4)|14 (+2)|15 (+2)|19 (+4)
 
 **Sauvegardes** For +12, Con +10, Sag +8  
@@ -305,7 +305,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|16 (+3)|19 (+4)|14 (+2)|15 (+2)|19 (+4)
 
 **Sauvegardes** For +12, Con +10, Sag +8  
@@ -342,7 +342,7 @@ _Fiélon (diable) de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|17 (+3)|16 (+3)|17 (+3)|12 (+1)|19 (+4)
 
 **Sauvegardes** Int +8, Cha +9  
@@ -375,7 +375,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|17 (+3)|16 (+3)|17 (+3)|12 (+1)|19 (+4)
 
 **Sauvegardes** Int +8, Cha +9  
@@ -410,7 +410,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|14 (+2)|18 (+4)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +8, Sag +5  
@@ -447,7 +447,7 @@ _Aberration de taille G, loyal mauvais_
 **Vitesse** 3 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)
 
 **Sauvegardes** Con +6, Int +8, Sag +6  
@@ -483,7 +483,7 @@ _Monstruosité de taille TG, typiquement neutre mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|17 (+3)|5 (-3)|12 (+1)|6 (-2)
 
 **Sauvegardes** For +7, Con +6  
@@ -515,7 +515,7 @@ _Mort-vivant de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|16 (+3)|20 (+5)|27 (+8)|21 (+5)|20 (+5)
 
 **Sauvegardes** Con +12, Int +15, Sag +12  
@@ -556,7 +556,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)
 
 **Compétences** Médecine +4, Religion +2  
@@ -585,7 +585,7 @@ _Monstruosité de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|17 (+3)|6 (-2)|11 (+0)|6 (-2)
 
 **Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
@@ -613,7 +613,7 @@ _Monstruosité de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|19 (+4)|8 (-1)|13 (+1)|6 (-2)
 
 **Compétences** Perception +6  
@@ -642,7 +642,7 @@ _Monstruosité de taille P, typiquement neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|12 (+1)|9 (-1)|5 (-3)|6 (-2)|5 (-3)
 
 **Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
@@ -668,7 +668,7 @@ _Monstruosité de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|15 (+2)|6 (-2)|7 (-2)|5 (-3)
 
 **Compétences** Athlétisme +6  
@@ -697,7 +697,7 @@ _Monstruosité de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|17 (+3)|6 (-2)|11 (+0)|6 (-2)
 
 **Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
@@ -726,7 +726,7 @@ _Bête de taille P, sans alignement_
 **Vitesse** 3 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|15 (+2)|10 (+0)|2 (-4)|14 (+2)|7 (-2)
 
 **Compétences** Perception +4  
@@ -752,7 +752,7 @@ _Bête de taille G, neutre bon_
 **Vitesse** 3 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|17 (+3)|13 (+1)|8 (-1)|14 (+2)|10 (+0)
 
 **Compétences** Perception +4  
@@ -780,7 +780,7 @@ _Mort-vivant (flagelleur mental, magicien) de taille M, typiquement neutre mauva
 **Vitesse** 9 m, vol 4,50 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|12 (+1)|16 (+3)|19 (+4)|17 (+3)|17 (+3)
 
 **Sauvegardes** Con +7, Int +8, Sag +7, Cha +7  
@@ -817,7 +817,7 @@ _Mort-vivant de taille M, tout alignement mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|12 (+1)|16 (+3)|19 (+4)|17 (+3)|17 (+3)
 
 **Sauvegardes** Con +7, Int +8, Sag +7, Cha +7  
@@ -860,7 +860,7 @@ _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|19 (+4)|22 (+6)|6 (-2)|11 (+0)|7 (-2)
 
 **Sauvegardes** Dex +8, Con +10  
@@ -897,7 +897,7 @@ _Fiélon (démon) de taille M, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|19 (+4)|22 (+6)|6 (-2)|11 (+0)|7 (-2)
 
 **Sauvegardes** Dex +8, Con +10  
@@ -931,7 +931,7 @@ _Mort-vivant de taille M, typiquement neutre mauvais_
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|17 (+3)|10 (+0)|17 (+3)|15 (+2)|16 (+3)
 
 **Sauvegardes** Int +6, Sag +5  
@@ -964,7 +964,7 @@ _Mort-vivant de taille M, neutre mauvais_
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|17 (+3)|10 (+0)|17 (+3)|15 (+2)|16 (+3)
 
 **Sauvegardes** Int +6, Sag +5  
@@ -996,7 +996,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|13 (+1)|17 (+3)|2 (-4)|12 (+1)|5 (-3)
 
 **Compétences** Perception +5  
@@ -1022,7 +1022,7 @@ _Mort-vivant de taille M, neutre mauvais_
 **Vitesse** 0 m, vol 18 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)
 
 **Résistances** acide, feu, foudre, froid, tonnerre ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -1052,7 +1052,7 @@ _Fiélon (diable) de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|13 (+1)|16 (+3)|20 (+5)|12 (+1)|18 (+4)
 
 **Sauvegardes** Dex +7, Con +9, Sag +7, Cha +10  
@@ -1088,7 +1088,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|13 (+1)|16 (+3)|20 (+5)|12 (+1)|18 (+4)
 
 **Sauvegardes** Dex +7, Con +9, Sag +7, Cha +10  
@@ -1125,7 +1125,7 @@ _Monstruosité de taille G, loyal neutre_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|10 (+0)|20 (+5)|16 (+3)|18 (+4)|23 (+6)
 
 **Sauvegardes** Dex +6, Con +11, Int +9, Sag +10  
@@ -1171,7 +1171,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 9 m, creusement 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|11 (+0)|13 (+1)|1 (-5)|13 (+1)|6 (-2)
 
 **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 11  
@@ -1196,7 +1196,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|11 (+0)|15 (+2)|2 (-4)|12 (+1)|5 (-3)
 
 **Sens** Perception passive 11  
@@ -1220,7 +1220,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|11 (+0)
 
 **Compétences** Arcanes +4, Histoire +4  
@@ -1245,7 +1245,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|11 (+0)
 
 **Compétences** Arcanes +4, Histoire +4  
@@ -1274,7 +1274,7 @@ _Humanoïde (humain) de taille M, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|11 (+0)|12 (+1)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +7, Sag +5  
@@ -1311,7 +1311,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|14 (+2)|8 (-1)|1 (-5)|10 (+0)|2 (-4)
 
 **Compétences** Discrétion +4  
@@ -1339,7 +1339,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|14 (+2)|2 (-4)|10 (+0)|3 (-4)
 
 **Compétences** Discrétion +7, Perception +4  
@@ -1367,7 +1367,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|14 (+2)|2 (-4)|10 (+0)|3 (-4)
 
 **Compétences** Discrétion +7, Perception +4  
@@ -1395,7 +1395,7 @@ _Monstruosité de taille M, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|14 (+2)|2 (-4)|10 (+0)|3 (-4)
 
 **Compétences** Discrétion +5, Perception +4  
@@ -1423,7 +1423,7 @@ _Monstruosité de taille M, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|14 (+2)|2 (-4)|10 (+0)|3 (-4)
 
 **Compétences** Discrétion +5, Perception +4  
@@ -1451,7 +1451,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|15 (+2)|12 (+1)|6 (-2)|10 (+0)|6 (-2)
 
 **Compétences** Discrétion +6  
@@ -1479,7 +1479,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|12 (+1)|2 (-4)|11 (+0)|4 (-3)
 
 **Compétences** Discrétion +7  
@@ -1508,7 +1508,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|13 (+1)|3 (-4)|12 (+1)|4 (-3)
 
 **Compétences** Discrétion +7, Perception +3  
@@ -1536,7 +1536,7 @@ _Plante de taille TG, sans alignement_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|6 (-2)|15 (+2)|10 (+0)|10 (+0)|7 (-2)
 
 **Vulnérabilités** feu  
@@ -1563,7 +1563,7 @@ _Plante de taille P, sans alignement_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|8 (-1)|11 (+0)|10 (+0)|10 (+0)|6 (-2)
 
 **Vulnérabilités** feu  
@@ -1591,7 +1591,7 @@ _Fiélon (yugoloth) de taille M, neutre mauvais_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|14 (+2)|20 (+5)|16 (+3)|17 (+3)
 
 **Sauvegardes** Dex +5, Int +9, Sag +7, Cha +7  
@@ -1635,7 +1635,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|18 (+4)|16 (+3)|11 (+0)|13 (+1)|10 (+0)
 
 **Compétences** Acrobaties +6, Perception +5  
@@ -1663,7 +1663,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|18 (+4)|16 (+3)|11 (+0)|13 (+1)|10 (+0)
 
 **Compétences** Acrobaties +6, Perception +5  
@@ -1691,7 +1691,7 @@ _Humanoïde (druide) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|12 (+1)|12 (+1)|20 (+5)|11 (+0)
 
 **Sauvegardes** Int +5, Sag +9  
@@ -1721,7 +1721,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|12 (+1)|12 (+1)|20 (+5)|11 (+0)
 
 **Sauvegardes** Int +5, Sag +9  
@@ -1759,7 +1759,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)
 
 **Sauvegardes** Int +9, Sag +6  
@@ -1800,7 +1800,7 @@ _Fiélon (démon) de taille G, typiquement chaotique mauvais_
 **Vitesse** 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|18 (+4)|21 (+5)|8 (-1)|12 (+1)|13 (+1)
 
 **Résistances** froid, feu, foudre  
@@ -1832,7 +1832,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|18 (+4)|21 (+5)|8 (-1)|12 (+1)|13 (+1)
 
 **Résistances** froid, feu, foudre  
@@ -1865,7 +1865,7 @@ _Artificiel de taille M, sans alignement_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|11 (+0)|13 (+1)|1 (-5)|3 (-4)|1 (-5)
 
 **Immunités** poison, psychique  
@@ -1895,7 +1895,7 @@ _Humanoïde (toute race) de taille M, tout alignement non bon_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|10 (+0)
 
 **Sauvegardes** Dex +6, Int +4  
@@ -1928,7 +1928,7 @@ _Bête (bétail) de taille G, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|5 (-3)
 
 **Sens** Perception passive 11  
@@ -1952,7 +1952,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|5 (-3)
 
 **Sens** Perception passive 11  
@@ -1977,7 +1977,7 @@ _Artificiel de taille M, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|14 (+2)|3 (-4)|10 (+0)|1 (-5)
 
 **Compétences** Discrétion +7  
@@ -2006,7 +2006,7 @@ _Artificiel de taille M, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|14 (+2)|3 (-4)|10 (+0)|1 (-5)
 
 **Compétences** Discrétion +7  
@@ -2034,7 +2034,7 @@ _Mort-vivant de taille M, neutre mauvais_
 **Vitesse** 18 m, vol 18 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|16 (+3)|16 (+3)|16 (+3)|16 (+3)|16 (+3)
 
 **Immunités** nécrotique, poison  
@@ -2062,7 +2062,7 @@ _Élémentaire de taille M, loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)
 
 **Sauvegardes** Con +4  
@@ -2093,7 +2093,7 @@ _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|16 (+3)|16 (+3)|11 (+0)|12 (+1)|13 (+1)
 
 **Compétences** Perception +5, Discrétion +5  
@@ -2124,7 +2124,7 @@ _Fiélon (démon) de taille M, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|16 (+3)|16 (+3)|11 (+0)|12 (+1)|13 (+1)
 
 **Compétences** Perception +5, Discrétion +5  
@@ -2157,7 +2157,7 @@ _Aberration de taille M, neutre_
 **Vitesse** 3 m, nage 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|8 (-1)|16 (+3)|3 (-4)|10 (+0)|6 (-2)
 
 **Immunités** à terre  
@@ -2187,7 +2187,7 @@ _Bête de taille P, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|14 (+2)|11 (+0)|4 (-3)|12 (+1)|6 (-2)
 
 **Sens** Perception passive 11  
@@ -2213,7 +2213,7 @@ _Humanoïde (nain des montagnes) de taille M, loyal neutre_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)
 
 **Compétences** Athlétisme +5, Perception +2  
@@ -2241,7 +2241,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|17 (+3)|20 (+5)|21 (+5)|24 (+7)|24 (+7)
 
 **Sauvegardes** Dex +9, Con +11, Int +11, Cha +13  
@@ -2281,7 +2281,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|17 (+3)|20 (+5)|21 (+5)|24 (+7)|24 (+7)
 
 **Sauvegardes** Dex +9, Con +11, Int +11, Cha +13  
@@ -2323,7 +2323,7 @@ _Aberration de taille G, typiquement chaotique mauvais_
 **Vitesse** 7,50 m, escalade 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|8 (-1)|18 (+4)|6 (-2)|15 (+2)|8 (-1)
 
 **Sauvegardes** Con +8  
@@ -2356,7 +2356,7 @@ _Aberration de taille G, chaotique mauvais_
 **Vitesse** 7,50 m, escalade 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|8 (-1)|18 (+4)|6 (-2)|15 (+2)|8 (-1)
 
 **Sauvegardes** Con +8  
@@ -2389,7 +2389,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)
 
 **Sauvegardes** For +14, Con +12, Sag +9, Cha +12  
@@ -2425,7 +2425,7 @@ _Monstruosité de taille G, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|12 (+1)|20 (+5)|11 (+0)|14 (+2)|8 (-1)
 
 **Compétences** Athlétisme +8, Discrétion +7  
@@ -2457,7 +2457,7 @@ _Monstruosité de taille G, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|12 (+1)|20 (+5)|11 (+0)|14 (+2)|8 (-1)
 
 **Compétences** Athlétisme +8, Discrétion +7  
@@ -2488,7 +2488,7 @@ _Humanoïde (toute race) de taille M, tout alignement non loyal_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)
 
 **Sens** Perception passive 10  
@@ -2514,7 +2514,7 @@ _Humanoïde (toute race) de taille M, tout alignement non loyal_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)
 
 **Sauvegardes** For +4, Dex +5, Sag +2  
@@ -2544,7 +2544,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|14 (+2)|10 (+0)|12 (+1)|11 (+0)|17 (+3)
 
 **Sauvegardes** Sag +2, Cha +5  
@@ -2576,7 +2576,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|14 (+2)|26 (+8)|18 (+4)|24 (+7)|16 (+3)
 
 **Sauvegardes** Dex +9, Con +15, Sag +14  
@@ -2615,7 +2615,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|14 (+2)|26 (+8)|18 (+4)|24 (+7)|16 (+3)
 
 **Sauvegardes** Dex +9, Con +15, Sag +14  
@@ -2657,7 +2657,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)
 
 **Sauvegardes** Dex +4, Sag +3  
@@ -2688,7 +2688,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)
 
 **Sauvegardes** Dex +4, Sag +3  
@@ -2721,7 +2721,7 @@ _Fiélon de taille G, typiquement neutre mauvais_
 **Vitesse** 18 m (9 m sous forme de gobelin)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|15 (+2)|14 (+2)|13 (+1)|12 (+1)|14 (+2)
 
 **Compétences** Discrétion +4, Intimidation +4, Perception +5, Tromperie +4  
@@ -2754,7 +2754,7 @@ _Fiélon (métamorphe) de taille G, neutre mauvais_
 **Vitesse** 18 m (9 m sous forme de gobelin)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|15 (+2)|14 (+2)|13 (+1)|12 (+1)|14 (+2)
 
 **Compétences** Discrétion +4, Intimidation +4, Perception +5, Tromperie +4  
@@ -2789,7 +2789,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|16 (+3)|7 (-2)|14 (+2)|9 (-1)
 
 **Sauvegardes** Dex +5, Con +6  
@@ -2825,7 +2825,7 @@ _Monstruosité de taille M, sans alignement_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|8 (-1)|15 (+2)|2 (-4)|8 (-1)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 9  
@@ -2851,7 +2851,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|12 (+1)|12 (+1)|2 (-4)|10 (+0)|5 (-3)
 
 **Sens** Perception passive 10  
@@ -2876,7 +2876,7 @@ _Monstruosité de taille TG, neutre mauvais_
 **Vitesse** 15 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|16 (+3)|18 (+4)|7 (-2)|14 (+2)|12 (+1)
 
 **Compétences** Discrétion +7, Perception +6  
@@ -2907,7 +2907,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)
 
 **Sauvegardes** For +14, Con +12, Sag +9, Cha +12  
@@ -2944,7 +2944,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|16 (+3)|8 (-1)|2 (-4)|12 (+1)|3 (-4)
 
 **Compétences** Discrétion +5, Perception +3  
@@ -2971,7 +2971,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|16 (+3)|10 (+0)|4 (-3)|12 (+1)|5 (-3)
 
 **Compétences** Discrétion +5, Perception +3  
@@ -2998,7 +2998,7 @@ _Aberration de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|16 (+3)|9 (-1)|17 (+3)|11 (+0)|10 (+0)
 
 **Sauvegardes** Dex +5, Int +5  
@@ -3028,7 +3028,7 @@ _Aberration de taille M, neutre mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|16 (+3)|9 (-1)|17 (+3)|11 (+0)|10 (+0)
 
 **Sauvegardes** Dex +5, Int +5  
@@ -3058,7 +3058,7 @@ _Humanoïde (toute race) de taille M, tout alignement chaotique_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|17 (+3)|9 (-1)|11 (+0)|9 (-1)
 
 **Sens** Perception passive 10  
@@ -3084,7 +3084,7 @@ _Bête de taille M, -_
 **Vitesse** 1,50 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|15 (+2)|8 (-1)|14 (+2)|11 (+0)
 
 **Sens** vision dans le noir 18 m, Perception passive 12  
@@ -3111,7 +3111,7 @@ _Bête de taille M, -_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|15 (+2)|8 (-1)|14 (+2)|11 (+0)
 
 **Sens** vision dans le noir 18 m, Perception passive 12  
@@ -3138,7 +3138,7 @@ _Bête de taille P, -_
 **Vitesse** 3 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|16 (+3)|13 (+1)|8 (-1)|14 (+2)|11 (+0)
 
 **Sens** vision dans le noir 18 m, Perception passive 12  
@@ -3165,7 +3165,7 @@ _Monstruosité de taille G, loyal mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|16 (+3)|6 (-2)|12 (+1)|8 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 11  
@@ -3192,7 +3192,7 @@ _Fiélon (bétail) de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -3218,7 +3218,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -3245,7 +3245,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 6 m, creusement 1,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |4 (-3)|11 (+0)|12 (+1)|2 (-4)|12 (+1)|5 (-3)
 
 **Sens** vision dans le noir 9 m, Perception passive 11  
@@ -3271,7 +3271,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 9 m, creusement 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|10 (+0)|15 (+2)|2 (-4)|12 (+1)|5 (-3)
 
 **Sens** vision dans le noir 9 m, Perception passive 11  
@@ -3299,7 +3299,7 @@ _Humanoïde (humain) de taille M, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|16 (+3)|12 (+1)|11 (+0)|14 (+2)
 
 **Sauvegardes** For +4, Con +5  
@@ -3326,7 +3326,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|17 (+3)|10 (+0)|11 (+0)|10 (+0)|8 (-1)
 
 **Résistances** nécrotique  
@@ -3357,7 +3357,7 @@ _Mort-vivant de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|15 (+2)|7 (-2)|12 (+1)|12 (+1)
 
 **Compétences** Perception +4, Discrétion +6  
@@ -3390,7 +3390,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|15 (+2)|7 (-2)|12 (+1)|12 (+1)
 
 **Compétences** Perception +4, Discrétion +6  
@@ -3422,7 +3422,7 @@ _Bête (bétail) de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
 
 **Sens** Perception passive 10  
@@ -3447,7 +3447,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
 
 **Sens** Perception passive 10  
@@ -3473,7 +3473,7 @@ _Plante de taille M, typiquement loyal neutre_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|12 (+1)|16 (+3)|10 (+0)|13 (+1)|8 (-1)
 
 **Compétences** Athlétisme +7, Perception +4, Discrétion +4  
@@ -3505,7 +3505,7 @@ _Plante de taille M, loyal neutre_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|12 (+1)|16 (+3)|10 (+0)|13 (+1)|8 (-1)
 
 **Compétences** Athlétisme +7, Perception +4, Discrétion +4  
@@ -3538,7 +3538,7 @@ _Fée de taille P, typiquement chaotique mauvais_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|18 (+4)|10 (+0)|12 (+1)|9 (-1)
 
 **Compétences** Athlétisme +6, Perception +3  
@@ -3567,7 +3567,7 @@ _Fée de taille P, chaotique mauvais_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|18 (+4)|10 (+0)|12 (+1)|9 (-1)
 
 **Compétences** Athlétisme +6, Perception +3  
@@ -3596,7 +3596,7 @@ _Humanoïde (humain) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|16 (+3)|14 (+2)|10 (+0)|14 (+2)
 
 **Sauvegardes** For +4, Dex +5, Sag +2  
@@ -3625,7 +3625,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|18 (+4)|12 (+1)|14 (+2)|11 (+0)|15 (+2)
 
 **Compétences** Acrobaties +8, Athlétisme +5, Persuasion +6  
@@ -3654,7 +3654,7 @@ _Humanoïde (toute race) de taille M, tout alignement non loyal_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|18 (+4)|12 (+1)|14 (+2)|11 (+0)|15 (+2)
 
 **Compétences** Acrobaties +8, Athlétisme +5, Persuasion +6  
@@ -3683,7 +3683,7 @@ _Mort-vivant de taille M, typiquement chaotique mauvais_
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|16 (+3)|16 (+3)|6 (-2)|12 (+1)|7 (-2)
 
 **Sauvegardes** Sag +3  
@@ -3716,7 +3716,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|16 (+3)|16 (+3)|6 (-2)|12 (+1)|7 (-2)
 
 **Sauvegardes** Sag +3  
@@ -3749,7 +3749,7 @@ _Humanoïde (brutacien) de taille M, neutre mauvais_
 **Vitesse** 6 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|12 (+1)|13 (+1)|7 (-2)|10 (+0)|7 (-2)
 
 **Compétences** Discrétion +3  
@@ -3779,7 +3779,7 @@ _Humanoïde de taille M, typiquement loyal bon_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|13 (+1)|9 (-1)|11 (+0)|14 (+2)
 
 **Sauvegardes** Con +3, Sag +2  
@@ -3809,7 +3809,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 12 m, creusement 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|11 (+0)|21 (+5)|2 (-4)|10 (+0)|5 (-3)
 
 **Compétences** Perception +6  
@@ -3837,7 +3837,7 @@ _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|17 (+3)|8 (-1)|9 (-1)|6 (-2)
 
 **Résistances** froid, feu, foudre  
@@ -3867,7 +3867,7 @@ _Fiélon (démon) de taille M, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|17 (+3)|8 (-1)|9 (-1)|6 (-2)
 
 **Résistances** froid, feu, foudre  
@@ -3897,7 +3897,7 @@ _Bête de taille Gig, sans alignement_
 **Vitesse** 0 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|8 (-1)|17 (+3)|3 (-4)|12 (+1)|5 (-3)
 
 **Sens** vision aveugle 36 m, Perception passive 11  
@@ -3926,7 +3926,7 @@ _Fiélon de taille M, tout alignement mauvais_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|18 (+4)|16 (+3)|14 (+2)|12 (+1)|16 (+3)
 
 **Sauvegardes** For +7, Con +6, Int +5, Cha +6  
@@ -3960,7 +3960,7 @@ _Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|17 (+3)|5 (-3)|17 (+3)|12 (+1)
 
 **Compétences** Investigation +3, Perception +9  
@@ -3994,7 +3994,7 @@ _Fiélon (yugoloth) de taille M, neutre mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|17 (+3)|5 (-3)|17 (+3)|12 (+1)
 
 **Compétences** Investigation +3, Perception +9  
@@ -4029,7 +4029,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|12 (+1)|21 (+5)|3 (-4)|14 (+2)|8 (-1)
 
 **Compétences** Perception +5  
@@ -4056,7 +4056,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|12 (+1)|21 (+5)|3 (-4)|14 (+2)|8 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 12  
@@ -4083,7 +4083,7 @@ _Monstruosité de taille G, neutre bon_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|14 (+2)|9 (-1)|13 (+1)|11 (+0)
 
 **Compétences** Athlétisme +6, Perception +3, Survie +3  
@@ -4113,7 +4113,7 @@ _Mort-vivant de taille P, tout alignement_
 **Vitesse** 0 m, vol 3 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|3 (-4)|15 (+2)|19 (+4)|10 (+0)|15 (+2)
 
 **Sauvegardes** Int +6, Cha +4  
@@ -4144,7 +4144,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|16 (+3)|11 (+0)|2 (-4)|14 (+2)|5 (-3)
 
 **Sens** Perception passive 12  
@@ -4169,7 +4169,7 @@ _Aberration (flagelleur mental) de taille G, typiquement loyal mauvais_
 **Vitesse** 1,50 m, nage 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|20 (+5)|21 (+5)|19 (+4)|24 (+7)
 
 **Sauvegardes** Int +10, Sag +9, Cha +12  
@@ -4207,7 +4207,7 @@ _Aberration de taille Gig, typiquement loyal mauvais_
 **Vitesse** 12 m, vol 24 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|13 (+1)|25 (+7)|21 (+5)|19 (+4)|24 (+7)
 
 **Sauvegardes** Con +14, Int +12, Sag +11, Cha +14  
@@ -4244,7 +4244,7 @@ _Aberration de taille G, loyal mauvais_
 **Vitesse** 1,50 m, nage 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|20 (+5)|21 (+5)|19 (+4)|24 (+7)
 
 **Sauvegardes** Int +10, Sag +9, Cha +12  
@@ -4284,7 +4284,7 @@ _Bête de taille P, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|15 (+2)|11 (+0)|3 (-4)|12 (+1)|6 (-2)
 
 **Compétences** Perception +3  
@@ -4312,7 +4312,7 @@ _Humanoïde (humain) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|12 (+1)|13 (+1)|10 (+0)|15 (+2)|12 (+1)
 
 **Compétences** Médecine +4, Nature +4, Perception +4, Survie +6  
@@ -4341,7 +4341,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|8 (-1)|14 (+2)|2 (-4)|8 (-1)|5 (-3)
 
 **Sens** Perception passive 9  
@@ -4366,7 +4366,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|15 (+2)|14 (+2)|10 (+0)|14 (+2)|12 (+1)
 
 **Sauvegardes** For +9, Con +6  
@@ -4396,7 +4396,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|15 (+2)|14 (+2)|10 (+0)|14 (+2)|12 (+1)
 
 **Sauvegardes** For +9, Con +6  
@@ -4426,7 +4426,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|13 (+1)|16 (+3)|1 (-5)|12 (+1)|5 (-3)
 
 **Compétences** Perception +3  
@@ -4455,7 +4455,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 6 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|15 (+2)|12 (+1)|11 (+0)|14 (+2)|10 (+0)
 
 **Sauvegardes** Dex +5, Sag +5  
@@ -4487,7 +4487,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 12 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|15 (+2)|10 (+0)|3 (-4)|12 (+1)|7 (-2)
 
 **Compétences** Discrétion +4, Perception +3  
@@ -4514,7 +4514,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 1,50 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|15 (+2)|8 (-1)|2 (-4)|12 (+1)|4 (-3)
 
 **Sens** vision aveugle 18 m, Perception passive 11  
@@ -4541,7 +4541,7 @@ _Humanoïde (gobelin, métamorphe) de taille P, neutre mauvais_
 **Vitesse** 9 m (escalade 9 m, vol 18 m sous forme hybride ou de chauve-souris)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|17 (+3)|10 (+0)|10 (+0)|12 (+1)|8 (-1)
 
 **Compétences** Perception +3, Discrétion +5  
@@ -4575,7 +4575,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 3 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|11 (+0)|2 (-4)|12 (+1)|6 (-2)
 
 **Sens** vision aveugle 18 m, Perception passive 11  
@@ -4602,7 +4602,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|12 (+1)|13 (+1)|2 (-4)|12 (+1)|7 (-2)
 
 **Sens** Perception passive 11  
@@ -4628,7 +4628,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|10 (+0)|12 (+1)|2 (-4)|11 (+0)|7 (-2)
 
 **Sens** Perception passive 10  
@@ -4653,7 +4653,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|12 (+1)|2 (-4)|11 (+0)|7 (-2)
 
 **Sens** Perception passive 10  
@@ -4678,7 +4678,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)
 
 **Sauvegardes** Con +4, Sag +2  
@@ -4709,7 +4709,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|11 (+0)|20 (+5)|12 (+1)|16 (+3)|18 (+4)
 
 **Sauvegardes** Dex +6, Sag +9, Cha +10  
@@ -4748,7 +4748,7 @@ _Humanoïde (paladin) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|18 (+4)|11 (+0)|14 (+2)|15 (+2)
 
 **Sauvegardes** Sag +5, Cha +5  
@@ -4782,7 +4782,7 @@ _Humanoïde (toute race) de taille M, tout alignement non bon_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|18 (+4)|11 (+0)|14 (+2)|15 (+2)
 
 **Sauvegardes** Sag +5, Cha +5  
@@ -4815,7 +4815,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|10 (+0)|11 (+0)|2 (-4)|10 (+0)|5 (-3)
 
 **Sens** Perception passive 10  
@@ -4842,7 +4842,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|12 (+1)|14 (+2)|2 (-4)|10 (+0)|5 (-3)
 
 **Sens** Perception passive 10  
@@ -4868,7 +4868,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|11 (+0)|12 (+1)|3 (-4)|12 (+1)|6 (-2)
 
 **Sens** Perception passive 11  
@@ -4895,7 +4895,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|11 (+0)|12 (+1)|3 (-4)|12 (+1)|6 (-2)
 
 **Sens** Perception passive 11  
@@ -4921,7 +4921,7 @@ _Fiélon de taille M, loyal mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|14 (+2)|6 (-2)|13 (+1)|6 (-2)
 
 **Compétences** Perception +5  
@@ -4951,7 +4951,7 @@ _Fée de taille G, typiquement neutre mauvais_
 **Vitesse** 12 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|17 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)
 
 **Compétences** Perception +5  
@@ -4981,7 +4981,7 @@ _Fée de taille G, neutre mauvais_
 **Vitesse** 12 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|17 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)
 
 **Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -5011,7 +5011,7 @@ _Monstruosité de taille M, neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|14 (+2)|3 (-4)|13 (+1)|6 (-2)
 
 **Compétences** Discrétion +4, Perception +5  
@@ -5039,7 +5039,7 @@ _Fée de taille M, loyal bon_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|17 (+3)|12 (+1)|10 (+0)|13 (+1)|11 (+0)
 
 **Compétences** Discrétion +5, Perception +3  
@@ -5067,7 +5067,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|14 (+2)|12 (+1)|3 (-4)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -5092,7 +5092,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|13 (+1)|3 (-4)|12 (+1)|8 (-1)
 
 **Compétences** Perception +3  
@@ -5121,7 +5121,7 @@ _Monstruosité de taille G, chaotique mauvais_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|11 (+0)|19 (+4)|3 (-4)|14 (+2)|10 (+0)
 
 **Compétences** Perception +8  
@@ -5151,7 +5151,7 @@ _Monstruosité de taille P, typiquement chaotique mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)
 
 **Compétences** Athlétisme +4, Discrétion +4  
@@ -5181,7 +5181,7 @@ _Monstruosité de taille P, chaotique mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)
 
 **Compétences** Athlétisme +4, Discrétion +4  
@@ -5211,7 +5211,7 @@ _Monstruosité (clerc) de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|12 (+1)|11 (+0)|14 (+2)|10 (+0)
 
 **Compétences** Athlétisme +5, Religion +2, Discrétion +5  
@@ -5243,7 +5243,7 @@ _Monstruosité de taille M, chaotique mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|12 (+1)|11 (+0)|14 (+2)|10 (+0)
 
 **Compétences** Athlétisme +5, Religion +2, Discrétion +5  
@@ -5278,7 +5278,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 1,50 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|13 (+1)|8 (-1)|2 (-4)|12 (+1)|7 (-2)
 
 **Compétences** Discrétion +3, Perception +3  
@@ -5306,7 +5306,7 @@ _Bête de taille G, neutre_
 **Vitesse** 1,50 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|15 (+2)|12 (+1)|8 (-1)|13 (+1)|10 (+0)
 
 **Compétences** Discrétion +4, Perception +5  
@@ -5334,7 +5334,7 @@ _Aberration de taille G, chaotique mauvais_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|16 (+3)|5 (-3)|11 (+0)|5 (-3)
 
 **Compétences** Perception +4  
@@ -5366,7 +5366,7 @@ _Monstruosité de taille P, sans alignement_
 **Vitesse** 6 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|12 (+1)|12 (+1)|2 (-4)|13 (+1)|5 (-3)
 
 **Sens** vision dans le noir 18 m, Perception passive 11  
@@ -5391,7 +5391,7 @@ _Élémentaire de taille G, sans alignement_
 **Vitesse** 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|5 (-3)|20 (+5)|3 (-4)|10 (+0)|5 (-3)
 
 **Immunités** feu, poison  
@@ -5421,7 +5421,7 @@ _Élémentaire de taille G, sans alignement_
 **Vitesse** 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|5 (-3)|20 (+5)|3 (-4)|10 (+0)|5 (-3)
 
 **Immunités** feu, poison  
@@ -5452,7 +5452,7 @@ _Artificiel de taille G, typiquement loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|14 (+2)|20 (+5)|5 (-3)|11 (+0)|8 (-1)
 
 **Immunités** nécrotique, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -5483,7 +5483,7 @@ _Artificiel de taille G, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|14 (+2)|20 (+5)|5 (-3)|11 (+0)|8 (-1)
 
 **Immunités** nécrotique, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -5513,7 +5513,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
 
 **Sauvegardes** Con +4  
@@ -5542,7 +5542,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
 
 **Sauvegardes** Con +4  
@@ -5572,7 +5572,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
 
 **Sauvegardes** Con +4  
@@ -5603,7 +5603,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
 
 **Sauvegardes** Con +4  
@@ -5634,7 +5634,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
 
 **Sauvegardes** Con +5  
@@ -5665,7 +5665,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
 
 **Sauvegardes** Con +5  
@@ -5697,7 +5697,7 @@ _Dragon de taille P, -_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|15 (+2)|8 (-1)|14 (+2)|8 (-1)
 
 **Sauvegardes** Dex +1 plus BM, Sag +2 plus BM  
@@ -5725,7 +5725,7 @@ _Humanoïde (humain) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|11 (+0)|16 (+3)|12 (+1)|15 (+2)|16 (+3)
 
 **Sauvegardes** Sag +4  
@@ -5756,7 +5756,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 3 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|14 (+2)|8 (-1)|2 (-4)|12 (+1)|6 (-2)
 
 **Compétences** Perception +3  
@@ -5783,7 +5783,7 @@ _Céleste de taille M, loyal bon_
 **Vitesse** 9 m, vol 27 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|20 (+5)|17 (+3)|18 (+4)|20 (+5)|18 (+4)
 
 **Sauvegardes** Con +5, Sag +7, Cha +6  
@@ -5819,7 +5819,7 @@ _Élémentaire de taille G, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|14 (+2)|4 (-3)|12 (+1)|6 (-2)
 
 **Immunités** feu  
@@ -5846,7 +5846,7 @@ _Monstruosité de taille G, neutre mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|14 (+2)|4 (-3)|12 (+1)|6 (-2)
 
 **Immunités** feu  
@@ -5873,7 +5873,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 6 m, nage 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|11 (+0)|10 (+0)|1 (-5)|8 (-1)|2 (-4)
 
 **Compétences** Discrétion +2  
@@ -5900,7 +5900,7 @@ _Monstruosité de taille M, sans alignement_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|13 (+1)|14 (+2)|3 (-4)|10 (+0)|3 (-4)
 
 **Compétences** Perception +2, Discrétion +5  
@@ -5931,7 +5931,7 @@ _Monstruosité de taille M, sans alignement_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|13 (+1)|14 (+2)|3 (-4)|10 (+0)|3 (-4)
 
 **Compétences** Perception +2, Discrétion +5  
@@ -5961,7 +5961,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|15 (+2)|11 (+0)|1 (-5)|9 (-1)|3 (-4)
 
 **Compétences** Discrétion +4  
@@ -5988,7 +5988,7 @@ _Humanoïde (humain) de taille M, chaotique mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|20 (+5)|20 (+5)|14 (+2)|13 (+1)|16 (+3)
 
 **Compétences** Intimidation +6, Perception +4, Persuasion +6, Discrétion +11  
@@ -6019,7 +6019,7 @@ _Mort-vivant de taille TP, neutre mauvais_
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|17 (+3)|14 (+2)|16 (+3)|10 (+0)|11 (+0)
 
 **Compétences** Arcanes +5, Perception +2  
@@ -6056,7 +6056,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 6 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|13 (+1)|13 (+1)|2 (-4)|10 (+0)|3 (-4)
 
 **Sens** vision dans le noir 9 m, Perception passive 10  
@@ -6084,7 +6084,7 @@ _Plante de taille M, sans alignement_
 **Vitesse** 0 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|1 (-5)|10 (+0)|1 (-5)|3 (-4)|1 (-5)
 
 **Immunités** aveuglé, assourdi, effrayé  
@@ -6111,7 +6111,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 6 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
 
 **Compétences** Discrétion +2  
@@ -6138,7 +6138,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 9 m, nage 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|9 (-1)|17 (+3)|2 (-4)|10 (+0)|7 (-2)
 
 **Compétences** Discrétion +5  
@@ -6167,7 +6167,7 @@ _Fiélon (démon) de taille Gig, chaotique mauvais_
 **Vitesse** 18 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|10 (+0)|24 (+7)|6 (-2)|10 (+0)|13 (+1)
 
 **Sauvegardes** Con +12, Sag +5  
@@ -6201,7 +6201,7 @@ _Vase de taille G, sans alignement_
 **Vitesse** 4,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|3 (-4)|20 (+5)|1 (-5)|6 (-2)|1 (-5)
 
 **Immunités** assourdi, à terre, aveuglé, charmé, effrayé, épuisement  
@@ -6230,7 +6230,7 @@ _Monstruosité (titan) de taille Gig, sans alignement_
 **Vitesse** 4,50 m, vol 24 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|7 (-2)|25 (+7)|5 (-3)|14 (+2)|18 (+4)
 
 **Sauvegardes** Dex +5, Sag +9  
@@ -6269,7 +6269,7 @@ _Monstruosité (titan) de taille Gig, sans alignement_
 **Vitesse** 4,50 m, vol 24 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|7 (-2)|25 (+7)|5 (-3)|14 (+2)|18 (+4)
 
 **Sauvegardes** Dex +5, Sag +9  
@@ -6308,7 +6308,7 @@ _Humanoïde (toute race) de taille M, tout alignement non bon_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)
 
 **Compétences** Religion +2, Tromperie +2  
@@ -6335,7 +6335,7 @@ _Géant de taille TG, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|11 (+0)|20 (+5)|8 (-1)|6 (-2)|10 (+0)
 
 **Sens** Perception passive 8  
@@ -6362,7 +6362,7 @@ _Élémentaire de taille G, neutre mauvais_
 **Vitesse** 9 m, creusement 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|12 (+1)|24 (+7)|12 (+1)|13 (+1)|14 (+2)
 
 **Sauvegardes** Int +5, Sag +5, Cha +6  
@@ -6397,7 +6397,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 0 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|13 (+1)|13 (+1)|6 (-2)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -6423,7 +6423,7 @@ _Fée de taille M, typiquement chaotique bon_
 **Vitesse** 0 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|13 (+1)|13 (+1)|11 (+0)|12 (+1)|16 (+3)
 
 **Sauvegardes** Sag +3, Cha +5  
@@ -6453,7 +6453,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 0 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|13 (+1)|13 (+1)|6 (-2)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -6480,7 +6480,7 @@ _Artificiel de taille M, -_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|12 (+1)|14 (+2)|4 (-3)|10 (+0)|6 (-2)
 
 **Sauvegardes** Dex +1 plus BM, Con +2 plus BM  
@@ -6512,7 +6512,7 @@ _Humanoïde (humain) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)
 
 **Compétences** Athlétisme +5, Perception +2  
@@ -6542,7 +6542,7 @@ _Mort-vivant de taille TP, neutre mauvais_
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|20 (+5)|10 (+0)|20 (+5)|17 (+3)|20 (+5)
 
 **Sauvegardes** Con +6, Int +11, Sag +9, Cha +11  
@@ -6578,7 +6578,7 @@ _Géant de taille G, tout alignement chaotique_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|14 (+2)|7 (-2)|9 (-1)|10 (+0)
 
 **Sens** vision dans le noir 18 m, Perception passive 9  
@@ -6603,7 +6603,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 15 m, nage 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|14 (+2)|26 (+8)|20 (+5)|17 (+3)|25 (+7)
 
 **Sauvegardes** Dex +10, Con +16, Sag +11, Cha +15  
@@ -6641,7 +6641,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 15 m, nage 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|14 (+2)|26 (+8)|20 (+5)|17 (+3)|25 (+7)
 
 **Sauvegardes** Dex +10, Con +16, Sag +11, Cha +15  
@@ -6685,7 +6685,7 @@ _Fiélon (démon) de taille M, chaotique mauvais_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|17 (+3)|12 (+1)|14 (+2)|13 (+1)|14 (+2)
 
 **Sauvegardes** Dex +5 Cha +4  
@@ -6718,7 +6718,7 @@ _Aberration de taille P, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|12 (+1)|11 (+0)|5 (-3)|9 (-1)
 
 **Compétences** Discrétion +4  
@@ -6746,7 +6746,7 @@ _Humanoïde (derro) de taille P, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|12 (+1)|11 (+0)|5 (-3)|9 (-1)
 
 **Compétences** Discrétion +4  
@@ -6774,7 +6774,7 @@ _Aberration (ensorceleur) de taille P, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|12 (+1)|11 (+0)|5 (-3)|14 (+2)
 
 **Compétences** Discrétion +4  
@@ -6803,7 +6803,7 @@ _Humanoïde (derro) de taille P, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|12 (+1)|11 (+0)|5 (-3)|14 (+2)
 
 **Compétences** Discrétion +4  
@@ -6831,7 +6831,7 @@ _Humanoïde (humain) de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|12 (+1)|12 (+1)|16 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +6, Sag +4  
@@ -6863,7 +6863,7 @@ _Fiélon de taille G, neutre mauvais_
 **Vitesse** 18 m, vol 27 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)
 
 **Immunités** feu  
@@ -6892,7 +6892,7 @@ _Céleste de taille M, loyal bon_
 **Vitesse** 9 m, vol 27 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)
 
 **Sauvegardes** Sag +9, Cha +9  
@@ -6929,7 +6929,7 @@ _Monstruosité de taille G, typiquement chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|13 (+1)|20 (+5)|3 (-4)|6 (-2)|8 (-1)
 
 **Sauvegardes** For +8, Con +9  
@@ -6958,7 +6958,7 @@ _Monstruosité de taille G, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|13 (+1)|20 (+5)|3 (-4)|6 (-2)|8 (-1)
 
 **Sauvegardes** For +8, Con +9  
@@ -6987,7 +6987,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|11 (+0)|18 (+4)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +7, Sag +4  
@@ -7025,7 +7025,7 @@ _Mort-vivant de taille G, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|12 (+1)|20 (+5)|13 (+1)|10 (+0)|16 (+3)
 
 **Résistances** froid, feu, foudre  
@@ -7056,7 +7056,7 @@ _Aberration de taille TP, loyal mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|14 (+2)|13 (+1)|12 (+1)|11 (+0)|10 (+0)
 
 **Compétences** Discrétion +4, Perception +2  
@@ -7087,7 +7087,7 @@ _Fiélon de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|12 (+1)|20 (+5)|13 (+1)|10 (+0)|16 (+3)
 
 **Résistances** froid, feu, foudre  
@@ -7117,7 +7117,7 @@ _Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|19 (+4)|7 (-2)|10 (+0)|9 (-1)
 
 **Sauvegardes** For +6  
@@ -7150,7 +7150,7 @@ _Fiélon (yugoloth) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|19 (+4)|7 (-2)|10 (+0)|9 (-1)
 
 **Sauvegardes** For +6  
@@ -7184,7 +7184,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)
 
 **Sauvegardes** Con +7, Sag +4, Cha +5  
@@ -7218,7 +7218,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|17 (+3)|18 (+4)|12 (+1)|14 (+2)|14 (+2)
 
 **Sauvegardes** For +6, Con +7, Sag +5, Cha +5  
@@ -7254,7 +7254,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|15 (+2)|15 (+2)|9 (-1)|11 (+0)|11 (+0)
 
 **Sauvegardes** For +5, Con +4, Sag +2  
@@ -7288,7 +7288,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 6 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|17 (+3)|21 (+5)|12 (+1)|16 (+3)|17 (+3)
 
 **Sauvegardes** For +10, Dex +7, Sag +7, Cha +7  
@@ -7322,7 +7322,7 @@ _Fiélon (diable) de taille P, loyal mauvais_
 **Vitesse** 6 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|15 (+2)|12 (+1)|11 (+0)|14 (+2)|8 (-1)
 
 **Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -7356,7 +7356,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)
 
 **Sauvegardes** Dex +7, Con +9, Sag +7, Cha +9  
@@ -7391,7 +7391,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 12 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|16 (+3)
 
 **Sauvegardes** Int +5, Sag +6, Cha +7  
@@ -7425,7 +7425,7 @@ _Fiélon (diable, métamorphe) de taille TP, loyal mauvais_
 **Vitesse** 6 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)
 
 **Compétences** Discrétion +5, Intuition +3, Persuasion +4, Tromperie +4  
@@ -7458,7 +7458,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|14 (+2)|24 (+7)|22 (+6)|18 (+4)|24 (+7)
 
 **Sauvegardes** Dex +8, Con +13, Sag +10  
@@ -7497,7 +7497,7 @@ _Élémentaire de taille G, chaotique bon_
 **Vitesse** 9 m, vol 27 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)
 
 **Sauvegardes** Dex +6, Sag +7, Cha +9  
@@ -7531,7 +7531,7 @@ _Monstruosité (métamorphe) de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)
 
 **Compétences** Intuition +3, Tromperie +6  
@@ -7563,7 +7563,7 @@ _Monstruosité de taille TG, typiquement chaotique mauvais_
 **Vitesse** 9 m, nage 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|12 (+1)|20 (+5)|6 (-2)|12 (+1)|12 (+1)
 
 **Compétences** Perception +9  
@@ -7593,7 +7593,7 @@ _Mort-vivant de taille TG, loyal mauvais_
 **Vitesse** 12 m, creusement 9 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)
 
 **Sauvegardes** Dex +6, Con +12, Sag +8, Cha +10  
@@ -7632,7 +7632,7 @@ _Monstruosité de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|14 (+2)|16 (+3)|15 (+2)|11 (+0)|17 (+3)
 
 **Sauvegardes** Int +5, Sag +3, Cha +6  
@@ -7665,7 +7665,7 @@ _Monstruosité de taille G, tout alignement_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|18 (+4)|10 (+0)|10 (+0)|10 (+0)
 
 **Sauvegardes** For +6, Sag +2  
@@ -7694,7 +7694,7 @@ _Monstruosité de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|11 (+0)|13 (+1)|8 (-1)|8 (-1)|10 (+0)
 
 **Sens** vision dans le noir 18 m, Perception passive 9  
@@ -7721,7 +7721,7 @@ _Monstruosité de taille M, tout alignement_
 **Vitesse** 12 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|17 (+3)|14 (+2)|9 (-1)|13 (+1)|11 (+0)
 
 **Sauvegardes** Dex +5  
@@ -7752,7 +7752,7 @@ _Monstruosité de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|10 (+0)|11 (+0)|11 (+0)|10 (+0)|14 (+2)
 
 **Sauvegardes** Int +2, Sag +2, Cha +4  
@@ -7782,7 +7782,7 @@ _Aberration de taille G, typiquement loyal mauvais_
 **Vitesse** O m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|10 (+0)|16 (+3)|14 (+2)|14 (+2)|16 (+3)
 
 **Sauvegardes** Con +6, Sag +5  
@@ -7812,7 +7812,7 @@ _Fiélon (démon) de taille G, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|15 (+2)|18 (+4)|13 (+1)|11 (+0)|11 (+0)
 
 **Compétences** Perception +3, Discrétion +5  
@@ -7844,7 +7844,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|15 (+2)|18 (+4)|13 (+1)|11 (+0)|11 (+0)
 
 **Compétences** Perception +3, Discrétion +5  
@@ -7878,7 +7878,7 @@ _Dragon (chromatique) de taille TG, chaotique mauvais_
 **Vitesse** 12 m, creusement 9 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|10 (+0)|22 (+6)|8 (-1)|12 (+1)|12 (+1)
 
 **Sauvegardes** Dex +5, Con +11, Sag +6, Cha +6  
@@ -7916,7 +7916,7 @@ _Dragon (chromatique) de taille Gig, chaotique mauvais_
 **Vitesse** 12 m, creusement 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|10 (+0)|26 (+8)|10 (+0)|13 (+1)|14 (+2)
 
 **Sauvegardes** Dex +6, Con +14, Sag +7, Cha +8  
@@ -7954,7 +7954,7 @@ _Dragon (chromatique) de taille M, chaotique mauvais_
 **Vitesse** 9 m, creusement 4,50 m, nage 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|10 (+0)|14 (+2)|5 (-3)|10 (+0)|11 (+0)
 
 **Sauvegardes** Dex +2, Con +4, Sag +2, Cha +2  
@@ -7983,7 +7983,7 @@ _Dragon (chromatique) de taille G, chaotique mauvais_
 **Vitesse** 12 m, creusement 6 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|18 (+4)|6 (-2)|11 (+0)|12 (+1)
 
 **Sauvegardes** Dex +3, Con +7, Sag +3, Cha +4  
@@ -8015,7 +8015,7 @@ _Dragon (chromatique) de taille TG, loyal mauvais_
 **Vitesse** 12 m, creusement 9 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)
 
 **Sauvegardes** Dex +5, Con +11, Sag +7, Cha +9  
@@ -8052,7 +8052,7 @@ _Dragon (chromatique) de taille Gig, loyal mauvais_
 **Vitesse** 12 m, creusement 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)
 
 **Sauvegardes** Dex +7, Con +15, Sag +10, Cha +12  
@@ -8089,7 +8089,7 @@ _Dragon (chromatique) de taille M, loyal mauvais_
 **Vitesse** 9 m, creusement 4,50 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)
 
 **Sauvegardes** Dex +2, Con +4, Sag +2, Cha +4  
@@ -8118,7 +8118,7 @@ _Dragon (chromatique) de taille G, loyal mauvais_
 **Vitesse** 12 m, creusement 6 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)
 
 **Sauvegardes** Dex +4, Con +8, Sag +5, Cha +7  
@@ -8149,7 +8149,7 @@ _Mort-vivant de taille TG, tout alignement_
 **Vitesse** 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|12 (+1)|21 (+5)|16 (+3)|13 (+1)|21 (+5)
 
 **Sauvegardes** Con +11, Int +9, Sag +7, Cha +11  
@@ -8187,7 +8187,7 @@ _Dragon (métallique) de taille TG, chaotique bon_
 **Vitesse** 12 m, creusement 9 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|10 (+0)|21 (+5)|14 (+2)|13 (+1)|17 (+3)
 
 **Sauvegardes** Dex +5, Con +10, Sag +6, Cha +8  
@@ -8226,7 +8226,7 @@ _Dragon (métallique) de taille Gig, chaotique bon_
 **Vitesse** 12 m, creusement 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|10 (+0)|25 (+7)|16 (+3)|15 (+2)|19 (+4)
 
 **Sauvegardes** Dex +6, Con +13, Sag +8, Cha +10  
@@ -8266,7 +8266,7 @@ _Dragon (métallique) de taille M, chaotique bon_
 **Vitesse** 9 m, creusement 4,50 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|13 (+1)|10 (+0)|11 (+0)|13 (+1)
 
 **Sauvegardes** Dex +2, Con +3, Sag +2, Cha +3  
@@ -8297,7 +8297,7 @@ _Dragon (métallique) de taille G, chaotique bon_
 **Vitesse** 12 m, creusement 6 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)
 
 **Sauvegardes** Dex +3, Con +6, Sag +3, Cha +5  
@@ -8330,7 +8330,7 @@ _Dragon (diamantin) de taille TG, typiquement neutre_
 **Vitesse** 12 m, vol 24 m (stationnaire), nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|14 (+2)|25 (+7)|20 (+5)|17 (+3)|21 (+5)
 
 **Sauvegardes** Dex +7, Con +12, Sag +8, Cha +10  
@@ -8370,7 +8370,7 @@ _Dragon (diamantin) de taille Gig, typiquement neutre_
 **Vitesse** 12 m, vol 24 m (stationnaire), nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|14 (+2)|27 (+8)|26 (+8)|19 (+4)|23 (+6)
 
 **Sauvegardes** Dex +9, Con +15, Sag +11, Cha +13  
@@ -8409,7 +8409,7 @@ _Dragon (diamantin) de taille M, typiquement neutre_
 **Vitesse** 9 m, vol 18 m (stationnaire), nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|17 (+3)|16 (+3)|13 (+1)|17 (+3)
 
 **Sauvegardes** Dex +2, Con +5, Sag +3, Cha +5  
@@ -8440,7 +8440,7 @@ _Dragon (diamantin) de taille G, typiquement neutre_
 **Vitesse** 12 m, vol 24 m (stationnaire), nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|19 (+4)
 
 **Sauvegardes** Dex +5, Con +9, Sag +6, Cha +8  
@@ -8473,7 +8473,7 @@ _Dragon (métallique) de taille TG, loyal bon_
 **Vitesse** 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)
 
 **Sauvegardes** Dex +5, Con +12, Sag +6, Cha +10  
@@ -8513,7 +8513,7 @@ _Dragon (métallique) de taille Gig, loyal bon_
 **Vitesse** 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)
 
 **Sauvegardes** Dex +7, Con +16, Sag +9, Cha +13  
@@ -8553,7 +8553,7 @@ _Dragon (métallique) de taille M, loyal bon_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)
 
 **Sauvegardes** Dex +2, Con +5, Sag +2, Cha +4  
@@ -8584,7 +8584,7 @@ _Dragon (métallique) de taille G, loyal bon_
 **Vitesse** 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)
 
 **Sauvegardes** Dex +4, Con +9, Sag +4, Cha +8  
@@ -8617,7 +8617,7 @@ _Dragon (diamantin) de taille TG, typiquement loyal neutre_
 **Vitesse** 12 m, creusement 9 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|12 (+1)|21 (+5)|18 (+4)|16 (+3)|18 (+4)
 
 **Sauvegardes** Dex +6, Con +10, Sag +8, Cha +9  
@@ -8658,7 +8658,7 @@ _Dragon (diamantin) de taille Gig, typiquement loyal neutre_
 **Vitesse** 12 m, creusement 9 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|12 (+1)|25 (+7)|20 (+5)|18 (+4)|20 (+5)
 
 **Sauvegardes** Dex +8, Con +14, Sag +11, Cha +12  
@@ -8697,7 +8697,7 @@ _Dragon (diamantin) de taille M, typiquement loyal neutre_
 **Vitesse** 9 m, creusement 6 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|15 (+2)|14 (+2)|12 (+1)|14 (+2)
 
 **Sauvegardes** Dex +3, Con +4, Sag +3, Cha +4  
@@ -8727,7 +8727,7 @@ _Dragon (diamantin) de taille G, typiquement loyal neutre_
 **Vitesse** 12 m, creusement 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|12 (+1)|19 (+4)|16 (+3)|14 (+2)|16 (+3)
 
 **Sauvegardes** Dex +4, Con +7, Sag +5, Cha +6  
@@ -8759,7 +8759,7 @@ _Dragon de taille G, chaotique mauvais_
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)
 
 **Sauvegardes** Dex +4, Con +9, Sag +4, Cha +8  
@@ -8793,7 +8793,7 @@ _Dragon (métallique) de taille TG, loyal bon_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|24 (+7)
 
 **Sauvegardes** Dex +8, Con +13, Sag +8, Cha +13  
@@ -8834,7 +8834,7 @@ _Dragon (métallique) de taille Gig, loyal bon_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|14 (+2)|29 (+9)|18 (+4)|17 (+3)|28 (+9)
 
 **Sauvegardes** Dex +9, Con +16, Sag +10, Cha +16  
@@ -8875,7 +8875,7 @@ _Dragon (métallique) de taille M, loyal bon_
 **Vitesse** 9 m, nage 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|14 (+2)|17 (+3)|14 (+2)|11 (+0)|16 (+3)
 
 **Sauvegardes** Dex +4, Con +5, Sag +2, Cha +5  
@@ -8907,7 +8907,7 @@ _Dragon (métallique) de taille G, loyal bon_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|14 (+2)|21 (+5)|16 (+3)|13 (+1)|20 (+5)
 
 **Sauvegardes** Dex +6, Con +9, Sag +5, Cha +9  
@@ -8941,7 +8941,7 @@ _Dragon (métallique) de taille TG, loyal bon_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)
 
 **Sauvegardes** Dex +5, Con +11, Sag +7, Cha +9  
@@ -8982,7 +8982,7 @@ _Dragon (métallique) de taille Gig, loyal bon_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)
 
 **Sauvegardes** Dex +7, Con +15, Sag +10, Cha +12  
@@ -9023,7 +9023,7 @@ _Dragon (métallique) de taille M, loyal bon_
 **Vitesse** 9 m, nage 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)
 
 **Sauvegardes** Dex +2, Con +4, Sag +2, Cha +4  
@@ -9055,7 +9055,7 @@ _Dragon (métallique) de taille G, loyal bon_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)
 
 **Sauvegardes** Dex +3, Con +7, Sag +4, Cha +6  
@@ -9089,7 +9089,7 @@ _Dragon (diamantin) de taille TG, typiquement chaotique neutre_
 **Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|19 (+4)
 
 **Sauvegardes** Dex +5, Con +9, Sag +6, Cha +8  
@@ -9128,7 +9128,7 @@ _Dragon (diamantin) de taille Gig, typiquement chaotique neutre_
 **Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|12 (+1)|26 (+8)|20 (+5)|16 (+3)|21 (+5)
 
 **Sauvegardes** Dex +7, Con +14, Sag +9, Cha +11  
@@ -9165,7 +9165,7 @@ _Dragon (diamantin) de taille M, typiquement chaotique neutre_
 **Vitesse** 9 m, creusement 4,50 m, escalade 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|12 (+1)|14 (+2)|14 (+2)|13 (+1)|15 (+2)
 
 **Sauvegardes** Dex +3, Con +4, Sag +3, Cha +4  
@@ -9195,7 +9195,7 @@ _Dragon (diamantin) de taille G, typiquement chaotique neutre_
 **Vitesse** 12 m, creusement 6 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|18 (+4)|16 (+3)|14 (+2)|17 (+3)
 
 **Sauvegardes** Dex +4, Con +7, Sag +5, Cha +6  
@@ -9226,7 +9226,7 @@ _Dragon (métallique) de taille TG, chaotique bon_
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)
 
 **Sauvegardes** Dex +6, Con +10, Sag +7, Cha +8  
@@ -9265,7 +9265,7 @@ _Dragon (métallique) de taille Gig, chaotique bon_
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)
 
 **Sauvegardes** Dex +8, Con +14, Sag +10, Cha +11  
@@ -9305,7 +9305,7 @@ _Dragon (métallique) de taille M, chaotique bon_
 **Vitesse** 9 m, escalade 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)
 
 **Sauvegardes** Dex +3, Con +3, Sag +2, Cha +3  
@@ -9336,7 +9336,7 @@ _Dragon (métallique) de taille G, chaotique bon_
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)
 
 **Sauvegardes** Dex +4, Con +6, Sag +4, Cha +5  
@@ -9369,7 +9369,7 @@ _Dragon (diamantin) de taille TG, typiquement loyal neutre_
 **Vitesse** 12 m, creusement 9 m, escalde 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|14 (+2)|22 (+6)|18 (+4)|17 (+3)|18 (+4)
 
 **Sauvegardes** Dex +7, Con +11, Sag +8, Cha +9  
@@ -9410,7 +9410,7 @@ _Dragon (diamantin) de taille Gig, typiquement loyal neutre_
 **Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|14 (+2)|27 (+8)|21 (+5)|19 (+4)|20 (+5)
 
 **Sauvegardes** Dex +9, Con +15, Sag +11, Cha +12  
@@ -9450,7 +9450,7 @@ _Dragon (diamantin) de taille M, typiquement loyal neutre_
 **Vitesse** 9 m, creusement 4,50 m, escalade 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|14 (+2)|16 (+3)|14 (+2)|13 (+1)|14 (+2)
 
 **Sauvegardes** Dex +4, Con +5, Sag +3, Cha +4  
@@ -9482,7 +9482,7 @@ _Dragon (diamantin) de taille G, typiquement loyal neutre_
 **Vitesse** 12 m, creusement 6 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|14 (+2)|20 (+5)|16 (+3)|15 (+2)|16 (+3)
 
 **Sauvegardes** Dex +6, Con +9, Sag +6, Cha +7  
@@ -9516,7 +9516,7 @@ _Dragon (diamantin) de taille TG, typiquement chaotique neutre_
 **Vitesse** 12 m, vol 24 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|12 (+1)|19 (+4)|18 (+4)|17 (+3)|18 (+4)
 
 **Sauvegardes** Dex +6, Con +9, Sag +8, Cha +9  
@@ -9556,7 +9556,7 @@ _Dragon (diamantin) de taille Gig, typiquement chaotique neutre_
 **Vitesse** 12 m, vol 24 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|12 (+1)|23 (+6)|20 (+5)|19 (+4)|20 (+5)
 
 **Sauvegardes** Dex +7, Con +12, Sag +10, Cha +11  
@@ -9595,7 +9595,7 @@ _Dragon (diamantin) de taille M, typiquement chaotique neutre_
 **Vitesse** 9 m, vol 18 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|13 (+1)|14 (+2)|13 (+1)|14 (+2)
 
 **Sauvegardes** Dex +3, Con +3, Sag +3, Cha +4  
@@ -9625,7 +9625,7 @@ _Dragon (diamantin) de taille G, typiquement chaotique neutre_
 **Vitesse** 12 m, vol 24 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|15 (+2)|16 (+3)|15 (+2)|16 (+3)
 
 **Sauvegardes** Dex +4, Con +5, Sag +5, Cha +6  
@@ -9657,7 +9657,7 @@ _Dragon de taille TG, typiquement neutre mauvais_
 **Vitesse** 12 m, creusement 9 m, vol 24 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|14 (+2)|18 (+4)|16 (+3)|16 (+3)|18 (+4)
 
 **Sauvegardes** Dex +6, Con +8, Sag +7, Cha +8  
@@ -9694,7 +9694,7 @@ _Dragon de taille Gig, typiquement neutre mauvais_
 **Vitesse** 12 m, creusement 12 m, vol 24 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|16 (+3)|20 (+5)|19 (+4)|18 (+4)|21 (+5)
 
 **Sauvegardes** Dex +9, Con +11, Sag +10, Cha +11  
@@ -9731,7 +9731,7 @@ _Dragon de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m, creusement 4,50 m, vol 18 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|11 (+0)|12 (+1)|11 (+0)|12 (+1)|13 (+1)
 
 **Sauvegardes** Dex +2, Con +3, Sag +3, Cha +3  
@@ -9760,7 +9760,7 @@ _Dragon de taille G, typiquement neutre mauvais_
 **Vitesse** 12 m, creusement 6 m, vol 24 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|16 (+3)|12 (+1)|14 (+2)|16 (+3)
 
 **Sauvegardes** Dex +4, Con +6, Sag +5, Cha +6  
@@ -9791,7 +9791,7 @@ _Mort-vivant de taille TG, tout alignement_
 **Vitesse** 12 m, vol 24 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|10 (+0)|25 (+7)|16 (+3)|15 (+2)|19 (+4)
 
 **Sauvegardes** Con +13, Sag +8, Cha +10  
@@ -9826,7 +9826,7 @@ _Dragon de taille TP, chaotique bon_
 **Vitesse** 3 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|20 (+5)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
 
 **Compétences** Arcanes +4, Discrétion +7, Perception +3  
@@ -9865,7 +9865,7 @@ _Dragon (chromatique) de taille TG, chaotique mauvais_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|14 (+2)|21 (+5)|14 (+2)|13 (+1)|17 (+3)
 
 **Sauvegardes** Dex +7, Con +10, Sag +6, Cha +8  
@@ -9904,7 +9904,7 @@ _Dragon (chromatique) de taille Gig, chaotique mauvais_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|19 (+4)
 
 **Sauvegardes** Dex +9, Con +14, Sag +9, Cha +11  
@@ -9942,7 +9942,7 @@ _Dragon (chromatique) de taille M, chaotique mauvais_
 **Vitesse** 9 m, nage 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|13 (+1)|10 (+0)|11 (+0)|13 (+1)
 
 **Sauvegardes** Dex +4, Con +3, Sag +2, Cha +3  
@@ -9972,7 +9972,7 @@ _Dragon (chromatique) de taille G, chaotique mauvais_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|14 (+2)|17 (+3)|12 (+1)|11 (+0)|15 (+2)
 
 **Sauvegardes** Dex +5, Con +6, Sag +3, Cha +5  
@@ -10004,7 +10004,7 @@ _Dragon de taille TG, typiquement neutre_
 **Vitesse** 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|18 (+4)|20 (+5)|22 (+6)|20 (+5)|23 (+6)
 
 **Sauvegardes** Int +11, Sag +10, Cha +11  
@@ -10043,7 +10043,7 @@ _Dragon de taille Gig, typiquement neutre_
 **Vitesse** 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|18 (+4)|23 (+6)|20 (+5)|22 (+6)|26 (+8)
 
 **Sauvegardes** Int +12, Sag +13, Cha +15  
@@ -10078,7 +10078,7 @@ _Dragon de taille M, typiquement neutre_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|14 (+2)|16 (+3)|14 (+2)|17 (+3)
 
 **Sauvegardes** Int +5, Sag +4, Cha +5  
@@ -10106,7 +10106,7 @@ _Dragon de taille G, typiquement neutre_
 **Vitesse** 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|16 (+3)|17 (+3)|18 (+4)|17 (+3)|19 (+4)
 
 **Sauvegardes** Con +6, Int +7, Sag +6, Cha +7  
@@ -10137,7 +10137,7 @@ _Dragon (chromatique) de taille TG, chaotique mauvais_
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)
 
 **Sauvegardes** Dex +6, Con +13, Sag +7, Cha +11  
@@ -10174,7 +10174,7 @@ _Dragon (chromatique) de taille Gig, chaotique mauvais_
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)
 
 **Sauvegardes** Dex +7, Con +16, Sag +9, Cha +13  
@@ -10211,7 +10211,7 @@ _Dragon (chromatique) de taille M, chaotique mauvais_
 **Vitesse** 9 m, escalade 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)
 
 **Sauvegardes** Dex +2, Con +5, Sag +2, Cha +4  
@@ -10240,7 +10240,7 @@ _Dragon (chromatique) de taille G, chaotique mauvais_
 **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)
 
 **Sauvegardes** Dex +4, Con +9, Sag +4, Cha +8  
@@ -10271,7 +10271,7 @@ _Dragon de taille Gig, neutre_
 **Vitesse** 6 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|10 (+0)|20 (+5)|10 (+0)|12 (+1)|12 (+1)
 
 **Sauvegardes** Dex +6, Con +11, Sag +7  
@@ -10303,7 +10303,7 @@ _Dragon de taille Gig, typiquement neutre_
 **Vitesse** 9 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|12 (+1)|29 (+9)|14 (+2)|19 (+4)|15 (+2)
 
 **Sauvegardes** Dex +8, Con +16, Sag +11  
@@ -10329,7 +10329,7 @@ _Dragon de taille G, typiquement neutre_
 **Vitesse** 6 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|15 (+2)|8 (-1)|10 (+0)|10 (+0)
 
 **Sauvegardes** Dex +2, Con +4, Sag +2  
@@ -10353,7 +10353,7 @@ _Dragon de taille TG, typiquement neutre_
 **Vitesse** 6 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|10 (+0)|19 (+4)|10 (+0)|12 (+1)|12 (+1)
 
 **Sauvegardes** Dex +4, Con +8, Sag +5  
@@ -10378,7 +10378,7 @@ _Dragon (chromatique) de taille TG, loyal mauvais_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)
 
 **Sauvegardes** Dex +6, Con +10, Sag +7, Cha +8  
@@ -10417,7 +10417,7 @@ _Dragon (chromatique) de taille Gig, loyal mauvais_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)
 
 **Sauvegardes** Dex +8, Con +14, Sag +10, Cha +11  
@@ -10456,7 +10456,7 @@ _Dragon (chromatique) de taille M, loyal mauvais_
 **Vitesse** 9 m, nage 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)
 
 **Sauvegardes** Dex +3, Con +3, Sag +2, Cha +3  
@@ -10487,7 +10487,7 @@ _Dragon (chromatique) de taille G, loyal mauvais_
 **Vitesse** 12 m, nage 12 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)
 
 **Sauvegardes** Dex +4, Con +6, Sag +4, Cha +5  
@@ -10520,7 +10520,7 @@ _Dragon de taille G, typiquement neutre_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|15 (+2)|12 (+1)|8 (-1)|13 (+1)|10 (+0)
 
 **Compétences** Perception +3  
@@ -10547,7 +10547,7 @@ _Dragon de taille M, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|16 (+3)|4 (-3)|10 (+0)|7 (-2)
 
 **Compétences** Perception +2  
@@ -10574,7 +10574,7 @@ _Dragon de taille M, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|16 (+3)|4 (-3)|10 (+0)|7 (-2)
 
 **Compétences** Perception +2  
@@ -10601,7 +10601,7 @@ _Humanoïde de taille G, typiquement loyal bon_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|13 (+1)|18 (+4)|12 (+1)|14 (+2)|17 (+3)
 
 **Sauvegardes** Con +7, Int +4, Sag +5, Cha +6  
@@ -10632,7 +10632,7 @@ _Humanoïde de taille G, typiquement neutre_
 **Vitesse** 9 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|17 (+3)|18 (+4)|14 (+2)|12 (+1)
 
 **Sauvegardes** Con +6, Int +7, Sag +5, Cha +4  
@@ -10666,7 +10666,7 @@ _Humanoïde de taille G, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|11 (+0)|18 (+4)|10 (+0)|12 (+1)|16 (+3)
 
 **Sauvegardes** For +8, Con +7, Sag +4, Cha +6  
@@ -10696,7 +10696,7 @@ _Monstruosité de taille G, typiquement neutre_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|15 (+2)|17 (+3)|6 (-2)|12 (+1)|12 (+1)
 
 **Compétences** Perception +7  
@@ -10719,7 +10719,7 @@ _Fiélon (démon) de taille P, chaotique mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|11 (+0)|12 (+1)|5 (-3)|8 (-1)|3 (-4)
 
 **Résistances** froid, feu, foudre  
@@ -10750,7 +10750,7 @@ _Monstruosité de taille G, chaotique mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|12 (+1)
 
 **Compétences** Discrétion +9, Perception +5  
@@ -10786,7 +10786,7 @@ _Humanoïde (elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|12 (+1)
 
 **Compétences** Discrétion +4, Perception +2  
@@ -10818,7 +10818,7 @@ _Humanoïde (elfe) de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|17 (+3)|14 (+2)|19 (+4)|14 (+2)|16 (+3)
 
 **Sauvegardes** Con +7, Int +9, Cha +8  
@@ -10855,7 +10855,7 @@ _Humanoïde (elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|17 (+3)|14 (+2)|19 (+4)|14 (+2)|16 (+3)
 
 **Sauvegardes** Con +7, Int +9, Cha +8  
@@ -10893,7 +10893,7 @@ _Humanoïde (elfe) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|19 (+4)|15 (+2)|12 (+1)|14 (+2)|13 (+1)
 
 **Sauvegardes** Dex +8, Con +6, Sag +6  
@@ -10928,7 +10928,7 @@ _Humanoïde (elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|19 (+4)|15 (+2)|12 (+1)|14 (+2)|13 (+1)
 
 **Sauvegardes** Dex +8, Con +6, Sag +6  
@@ -10964,7 +10964,7 @@ _Humanoïde (elfe, magicien) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|20 (+5)|16 (+3)|18 (+4)|15 (+2)|18 (+4)
 
 **Sauvegardes** Dex +11, Con +9, Cha +10  
@@ -10996,7 +10996,7 @@ _Humanoïde (elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|20 (+5)|16 (+3)|18 (+4)|15 (+2)|18 (+4)
 
 **Sauvegardes** Dex +11, Con +9, Cha +10  
@@ -11029,7 +11029,7 @@ _Humanoïde (elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|18 (+4)|14 (+2)|11 (+0)|13 (+1)|12 (+1)
 
 **Sauvegardes** Dex +7, Con +5, Sag +4  
@@ -11063,7 +11063,7 @@ _Humanoïde (elfe, clerc) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|15 (+2)|14 (+2)|16 (+3)|21 (+5)|20 (+5)
 
 **Sauvegardes** Con +7, Sag +10, Cha +10  
@@ -11096,7 +11096,7 @@ _Humanoïde (elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|15 (+2)|14 (+2)|16 (+3)|21 (+5)|20 (+5)
 
 **Sauvegardes** Con +7, Sag +10, Cha +10  
@@ -11139,7 +11139,7 @@ _Humanoïde (elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|10 (+0)|17 (+3)|13 (+1)|12 (+1)
 
 **Compétences** Arcanes +6, Discrétion +5, Perception +4, Tromperie +5  
@@ -11177,7 +11177,7 @@ _Humanoïde (elfe, clerc) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|18 (+4)|16 (+3)|17 (+3)|21 (+5)|22 (+6)
 
 **Sauvegardes** Con +9, Sag +11, Cha +12  
@@ -11216,7 +11216,7 @@ _Humanoïde (elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|18 (+4)|16 (+3)|17 (+3)|21 (+5)|22 (+6)
 
 **Sauvegardes** Con +9, Sag +11, Cha +12  
@@ -11255,7 +11255,7 @@ _Humanoïde (elfe) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|21 (+5)|16 (+3)|12 (+1)|14 (+2)|13 (+1)
 
 **Sauvegardes** Dex +9, Con +7, Sag +6  
@@ -11288,7 +11288,7 @@ _Humanoïde (elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|21 (+5)|16 (+3)|12 (+1)|14 (+2)|13 (+1)
 
 **Sauvegardes** Dex +9, Con +7, Sag +6  
@@ -11320,7 +11320,7 @@ _Humanoïde (elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|12 (+1)|13 (+1)|17 (+3)|18 (+4)
 
 **Sauvegardes** Con +4, Sag +6, Cha +7  
@@ -11360,7 +11360,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|13 (+1)|12 (+1)|15 (+2)|11 (+0)
 
 **Compétences** Médecine +4, Nature +3, Perception +4  
@@ -11390,7 +11390,7 @@ _Humanoïde (humain) de taille M, tout alignement_
 **Vitesse** 9 m, 12 m (forme de loup uniquement), creusement 1,50 m (forme de renard uniquement), escalade 9 m (forme de chêvre uniquement), vol 18 m (forme de chouette uniquement)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|13 (+1)|16 (+3)|10 (+0)|16 (+3)|9 (-1)
 
 **Sauvegardes** Int +3, Sag +6  
@@ -11426,7 +11426,7 @@ _Fée de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|11 (+0)|14 (+2)|15 (+2)|18 (+4)
 
 **Compétences** Discrétion +5, Perception +4  
@@ -11460,7 +11460,7 @@ _Humanoïde (nain) de taille M, loyal mauvais_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
 
 **Résistances** poison  
@@ -11491,7 +11491,7 @@ _Humanoïde (nain) de taille M, tout alignement_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|12 (+1)
 
 **Résistances** poison  
@@ -11520,7 +11520,7 @@ _Humanoïde (nain) de taille M, loyal mauvais_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|12 (+1)
 
 **Résistances** poison  
@@ -11551,7 +11551,7 @@ _Humanoïde (nain) de taille M, tout alignement_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|5 (-3)|19 (+4)|15 (+2)|14 (+2)|13 (+1)
 
 **Sauvegardes** Con +8, Sag +6  
@@ -11585,7 +11585,7 @@ _Humanoïde (nain) de taille M, loyal mauvais_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|5 (-3)|19 (+4)|15 (+2)|14 (+2)|13 (+1)
 
 **Sauvegardes** Con +8, Sag +6  
@@ -11621,7 +11621,7 @@ _Humanoïde (nain) de taille M, tout alignement_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
 
 **Résistances** poison  
@@ -11653,7 +11653,7 @@ _Humanoïde (nain) de taille M, loyal mauvais_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
 
 **Résistances** poison  
@@ -11684,7 +11684,7 @@ _Humanoïde (nain) de taille M, tout alignement_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
 
 **Résistances** poison  
@@ -11715,7 +11715,7 @@ _Humanoïde (nain) de taille M, loyal mauvais_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
 
 **Résistances** poison  
@@ -11746,7 +11746,7 @@ _Humanoïde (nain) de taille M, tout alignement_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|17 (+3)|14 (+2)|15 (+2)|10 (+0)|12 (+1)
 
 **Sauvegardes** Sag +2  
@@ -11779,7 +11779,7 @@ _Humanoïde (nain) de taille M, loyal mauvais_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|17 (+3)|14 (+2)|15 (+2)|10 (+0)|12 (+1)
 
 **Sauvegardes** Sag +2  
@@ -11812,7 +11812,7 @@ _Humanoïde (nain) de taille M, tout alignement_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|17 (+3)|12 (+1)|12 (+1)|14 (+2)
 
 **Résistances** poison  
@@ -11844,7 +11844,7 @@ _Humanoïde (nain) de taille M, loyal mauvais_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|17 (+3)|12 (+1)|12 (+1)|14 (+2)
 
 **Résistances** poison  
@@ -11876,7 +11876,7 @@ _Humanoïde (nain) de taille M, tout alignement_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
 
 **Résistances** poison  
@@ -11906,7 +11906,7 @@ _Humanoïde (nain) de taille M, loyal mauvais_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
 
 **Résistances** poison  
@@ -11936,7 +11936,7 @@ _Artificiel de taille M, loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|13 (+1)|12 (+1)|6 (-2)|10 (+0)|7 (-2)
 
 **Sens** vision véritable 36 m, Perception passive 10  
@@ -11964,7 +11964,7 @@ _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|19 (+4)|16 (+3)|16 (+3)|15 (+2)|14 (+2)
 
 **Compétences** Tromperie +6, Intimidation +4, Perception +4  
@@ -11997,7 +11997,7 @@ _Fiélon (démon) de taille M, chaotique mauvais_
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|19 (+4)|16 (+3)|16 (+3)|15 (+2)|14 (+2)
 
 **Compétences** Tromperie +6, Intimidation +4, Perception +4  
@@ -12029,7 +12029,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)
 
 **Compétences** Discrétion +6, Nature +4, Perception +5, Survie +5  
@@ -12058,7 +12058,7 @@ _Mort-vivant de taille TG, typiquement neutre_
 **Vitesse** 0 m, vol 24 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|12 (+1)|18 (+4)|22 (+6)|18 (+4)|22 (+6)
 
 **Sauvegardes** Dex +7, Int +12, Sag +10, Cha +12  
@@ -12082,7 +12082,7 @@ _Élémentaire de taille G, loyal mauvais_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)
 
 **Sauvegardes** Int +7, Sag +6, Cha +7  
@@ -12116,7 +12116,7 @@ _Mort-vivant de taille M, tout alignement_
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|8 (-1)|9 (-1)|14 (+2)|19 (+4)|16 (+3)
 
 **Sauvegardes** Sag +8  
@@ -12149,7 +12149,7 @@ _Mort-vivant de taille M, tout alignement_
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|8 (-1)|9 (-1)|14 (+2)|19 (+4)|16 (+3)
 
 **Sauvegardes** Sag +8  
@@ -12181,7 +12181,7 @@ _Fée (elfe) de taille M, typiquement chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|16 (+3)|14 (+2)|17 (+3)|18 (+4)
 
 **Compétences** Intuition +7, Médecine +7  
@@ -12214,7 +12214,7 @@ _Fée (elfe) de taille M, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|16 (+3)|14 (+2)|17 (+3)|18 (+4)
 
 **Compétences** Intuition +7, Médecine +7  
@@ -12246,7 +12246,7 @@ _Fée (elfe) de taille M, typiquement chaotique neutre_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|21 (+5)|16 (+3)|14 (+2)|12 (+1)|18 (+4)
 
 **Compétences** Athlétisme +8, Intimidation +8  
@@ -12278,7 +12278,7 @@ _Fée (elfe) de taille M, chaotique neutre_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|21 (+5)|16 (+3)|14 (+2)|12 (+1)|18 (+4)
 
 **Compétences** Athlétisme +8, Intimidation +8  
@@ -12310,7 +12310,7 @@ _Fée (elfe) de taille M, typiquement chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|16 (+3)|16 (+3)|18 (+4)|17 (+3)|13 (+1)
 
 **Résistances** froid  
@@ -12342,7 +12342,7 @@ _Fée (elfe) de taille M, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|10 (+0)|16 (+3)|18 (+4)|17 (+3)|13 (+1)
 
 **Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques  
@@ -12373,7 +12373,7 @@ _Fée (elfe) de taille M, typiquement chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|16 (+3)|18 (+4)|11 (+0)|18 (+4)
 
 **Compétences** Tromperie +8, Persuasion +8  
@@ -12405,7 +12405,7 @@ _Fée (elfe) de taille M, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|16 (+3)|18 (+4)|11 (+0)|18 (+4)
 
 **Compétences** Tromperie +8, Persuasion +8  
@@ -12437,7 +12437,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|10 (+0)|12 (+1)|2 (-4)|10 (+0)|6 (-2)
 
 **Sens** Perception passive 10  
@@ -12464,7 +12464,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|16 (+3)|14 (+2)|7 (-2)|14 (+2)|10 (+0)
 
 **Compétences** Perception +4  
@@ -12492,7 +12492,7 @@ _Élémentaire de taille G, neutre_
 **Vitesse** 0 m, vol 27 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|20 (+5)|14 (+2)|6 (-2)|10 (+0)|6 (-2)
 
 **Résistances** foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -12523,7 +12523,7 @@ _Élémentaire de taille TP, neutre_
 **Vitesse** 0 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |5 (-3)|16 (+3)|12 (+1)|3 (-4)|10 (+0)|6 (-2)
 
 **Résistances** foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -12550,7 +12550,7 @@ _Élémentaire de taille M, typiquement neutre_
 **Vitesse** 9 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|14 (+2)|9 (-1)|10 (+0)|10 (+0)
 
 **Résistances** foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -12579,7 +12579,7 @@ _Élémentaire de taille M, neutre_
 **Vitesse** 9 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|14 (+2)|9 (-1)|10 (+0)|10 (+0)
 
 **Résistances** foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -12609,7 +12609,7 @@ _Élémentaire de taille G, neutre_
 **Vitesse** 9 m, nage 27 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|18 (+4)|5 (-3)|10 (+0)|8 (-1)
 
 **Résistances** acide ; contondant, perforant et tranchant d'attaques non magiques  
@@ -12641,7 +12641,7 @@ _Élémentaire de taille P, neutre_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|17 (+3)|3 (-4)|10 (+0)|8 (-1)
 
 **Résistances** acide ; contondant, perforant et tranchant d'attaques non magiques  
@@ -12669,7 +12669,7 @@ _Élémentaire de taille M, typiquement neutre_
 **Vitesse** 12 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|15 (+2)|8 (-1)|10 (+0)|10 (+0)
 
 **Résistances** acide ; contondant, perforant et tranchant d'attaques non magiques  
@@ -12698,7 +12698,7 @@ _Élémentaire de taille M, neutre_
 **Vitesse** 12 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|15 (+2)|8 (-1)|10 (+0)|10 (+0)
 
 **Résistances** acide ; contondant, perforant et tranchant d'attaques non magiques  
@@ -12728,7 +12728,7 @@ _Élémentaire de taille G, neutre_
 **Vitesse** 9 m, creusement 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|8 (-1)|20 (+5)|5 (-3)|10 (+0)|5 (-3)
 
 **Vulnérabilités** tonnerre  
@@ -12760,7 +12760,7 @@ _Élémentaire de taille P, neutre_
 **Vitesse** 3 m (9 m s'il descend), creusement 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|6 (-2)|16 (+3)|3 (-4)|10 (+0)|5 (-3)
 
 **Vulnérabilités** tonnerre  
@@ -12790,7 +12790,7 @@ _Élémentaire de taille M, typiquement neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|17 (+3)|8 (-1)|10 (+0)|10 (+0)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -12819,7 +12819,7 @@ _Élémentaire de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|17 (+3)|8 (-1)|10 (+0)|10 (+0)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -12849,7 +12849,7 @@ _Élémentaire de taille G, neutre_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|17 (+3)|16 (+3)|6 (-2)|10 (+0)|7 (-2)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -12881,7 +12881,7 @@ _Élémentaire de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|15 (+2)|14 (+2)|6 (-2)|10 (+0)|7 (-2)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -12911,7 +12911,7 @@ _Élémentaire de taille M, typiquement neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|18 (+4)|15 (+2)|9 (-1)|10 (+0)|10 (+0)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -12942,7 +12942,7 @@ _Élémentaire de taille M, neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|18 (+4)|15 (+2)|9 (-1)|10 (+0)|10 (+0)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -12974,7 +12974,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|9 (-1)|17 (+3)|3 (-4)|11 (+0)|6 (-2)
 
 **Sens** Perception passive 10  
@@ -13001,7 +13001,7 @@ _Humanoïde (humain) de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|9 (-1)|14 (+2)|10 (+0)|13 (+1)
 
 **Compétences** Arcanes +4, Persuasion +3  
@@ -13028,7 +13028,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|18 (+4)|14 (+2)|10 (+0)|13 (+1)|14 (+2)
 
 **Sauvegardes** For +6, Dex +6, Con +4  
@@ -13053,7 +13053,7 @@ _Céleste (titan) de taille TG, chaotique bon (75 %) ou neutre mauvais (25 %)_
 **Vitesse** 15 m, nage 15 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|21 (+5)|30 (+10)|21 (+5)|22 (+6)|27 (+8)
 
 **Sauvegardes** For +17, Int +12, Sag +13, Cha +15  
@@ -13090,7 +13090,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +6, Sag +4  
@@ -13125,7 +13125,7 @@ _Monstruosité de taille G, neutre mauvais_
 **Vitesse** 3 m, escalade 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|8 (-1)|17 (+3)|7 (-2)|16 (+3)|6 (-2)
 
 **Compétences** Discrétion +5, Perception +6  
@@ -13157,7 +13157,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 0 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|13 (+1)|3 (-4)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -13186,7 +13186,7 @@ _Artificiel de taille P, sans alignement_
 **Vitesse** 0 m, vol 15 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|15 (+2)|11 (+0)|1 (-5)|5 (-3)|1 (-5)
 
 **Sauvegardes** Dex +4  
@@ -13216,7 +13216,7 @@ _Plante de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|6 (-2)
 
 **Compétences** Perception +4, Discrétion +3  
@@ -13245,7 +13245,7 @@ _Artificiel de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|13 (+1)
 
 **Vulnérabilités** feu  
@@ -13276,7 +13276,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)
 
 **Sauvegardes** Dex +7, Con +8, Sag +6, Cha +8  
@@ -13310,7 +13310,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)
 
 **Compétences** Discrétion +4, Escamotage +4, Intuition +4, Investigation +5, Perception +6, Persuasion +5, Tromperie +5  
@@ -13340,7 +13340,7 @@ _Aberration de taille M, -_
 **Vitesse** 9 m ; vol 9 m (stationaire) (tyrannoeil uniquement)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|10 (+0)|15 (+2)|16 (+3)|10 (+0)|6 (-2)
 
 **Immunités** psychique  
@@ -13370,7 +13370,7 @@ _Artificiel de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|18 (+4)|14 (+2)|11 (+0)|5 (-3)
 
 **Résistances** poison  
@@ -13400,7 +13400,7 @@ _Élémentaire de taille M, -_
 **Vitesse** 12 m ; creusement 12 m (Terre uniquement) ; vol 12 m (stationnaire) (Air uniquement) ; nage 12 m (Eau uniquement)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|17 (+3)|4 (-3)|10 (+0)|16 (+3)
 
 **Résistances** acide (Eau uniquement) ; foudre et tonnerre (Air uniquement) ; perforant et tranchant (Terre uniquement)  
@@ -13429,7 +13429,7 @@ _Monstruosité de taille M, -_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|16 (+3)|15 (+2)|4 (-3)|10 (+0)|16 (+3)
 
 **Résistances** nécrotique  
@@ -13459,7 +13459,7 @@ _Bête de taille P, -_
 **Vitesse** 9 m ; escalade 9 m (Terre uniquement) ; vol 18 m (Air uniquement) ; nage 9 m (Eau uniquement)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|16 (+3)|4 (-3)|14 (+2)|5 (-3)
 
 **Sens** vision dans le noir 18 m, Perception passive 12  
@@ -13487,7 +13487,7 @@ _Céleste de taille G, -_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|16 (+3)|10 (+0)|14 (+2)|16 (+3)
 
 **Résistances** radiant  
@@ -13516,7 +13516,7 @@ _Fée de taille P, -_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|16 (+3)
 
 **Immunités** charmé  
@@ -13546,7 +13546,7 @@ _Fiélon de taille G, -_
 **Vitesse** 12 m ; escalade 9 m (démon uniquement) ; vol 18 m (diable uniquement)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|16 (+3)|15 (+2)|10 (+0)|10 (+0)|16 (+3)
 
 **Résistances** feu  
@@ -13579,7 +13579,7 @@ _Mort-vivant de taille M, -_
 **Vitesse** 9 m ; vol 12 m (stationnaire) (fantôme uniquement)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|15 (+2)|4 (-3)|10 (+0)|9 (-1)
 
 **Immunités** nécrotique, poison  
@@ -13610,7 +13610,7 @@ _Élémentaire de taille P, -_
 **Vitesse** 9 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|14 (+2)|13 (+1)|15 (+2)|11 (+0)
 
 **Immunités** feu  
@@ -13637,7 +13637,7 @@ _Dragon de taille G, neutre_
 **Vitesse** 9 m, fvol 18 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|14 (+2)|17 (+3)|10 (+0)|14 (+2)|14 (+2)
 
 **Résistances** acide, froid, feu, foudre et poison (chromatique et métallique uniquement) ; force, nécrotique, psychique, radiant et tonnerre (diamantin uniquement)  
@@ -13666,7 +13666,7 @@ _Fée de taille TP, neutre bon_
 **Vitesse** 3 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)
 
 **Compétences** Discrétion +8, Perception +3  
@@ -13695,7 +13695,7 @@ _Aberration de taille P, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|4 (-3)|12 (+1)|7 (-2)
 
 **Compétences** Discrétion +6  
@@ -13724,7 +13724,7 @@ _Aberration de taille P, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|4 (-3)|12 (+1)|7 (-2)
 
 **Compétences** Discrétion +6  
@@ -13753,7 +13753,7 @@ _Humanoïde (humain) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|15 (+2)|16 (+3)|13 (+1)|10 (+0)
 
 **Sauvegardes** Sag +3  
@@ -13785,7 +13785,7 @@ _Monstruosité de taille M, neutre mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|15 (+2)|13 (+1)|7 (-2)|12 (+1)|8 (-1)
 
 **Compétences** Discrétion +4, Perception +3, Survie +3  
@@ -13817,7 +13817,7 @@ _Géant de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|8 (-1)|17 (+3)|6 (-2)|10 (+0)|8 (-1)
 
 **Compétences** Perception +4  
@@ -13847,7 +13847,7 @@ _Monstruosité de taille M, typiquement chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|19 (+4)|10 (+0)|10 (+0)|7 (-2)|1 (-5)
 
 **Sauvegardes** Con +2  
@@ -13876,7 +13876,7 @@ _Humanoïde de taille M, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|19 (+4)|10 (+0)|10 (+0)|7 (-2)|1 (-5)
 
 **Sauvegardes** Con +2  
@@ -13906,7 +13906,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +7, Sag +5  
@@ -13942,7 +13942,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|17 (+3)|13 (+1)|11 (+0)|16 (+3)|10 (+0)
 
 **Compétences** Acrobaties +5, Discrétion +5, Intuition +5  
@@ -13973,7 +13973,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|17 (+3)|13 (+1)|11 (+0)|16 (+3)|10 (+0)
 
 **Compétences** Acrobaties +5, Discrétion +5, Intuition +5  
@@ -14005,7 +14005,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
 
 **Sauvegardes** Dex +4  
@@ -14035,7 +14035,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
 
 **Sauvegardes** Dex +4  
@@ -14066,7 +14066,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
 
 **Sauvegardes** Dex +4  
@@ -14098,7 +14098,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|17 (+3)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
 
 **Sauvegardes** Dex +5  
@@ -14130,7 +14130,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|17 (+3)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
 
 **Sauvegardes** Dex +6  
@@ -14162,7 +14162,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|17 (+3)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
 
 **Sauvegardes** Dex +6  
@@ -14195,7 +14195,7 @@ _Humanoïde (toute race) de taille M, tout alignement non bon_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)
 
 **Compétences** Persuasion +4, Religion +2, Tromperie +4  
@@ -14227,7 +14227,7 @@ _Mort-vivant de taille M, tout alignement_
 **Vitesse** 0 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|13 (+1)|10 (+0)|10 (+0)|12 (+1)|17 (+3)
 
 **Résistances** acide, foudre, feu, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -14260,7 +14260,7 @@ _Fée de taille P, typiquement chaotique neutre_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|18 (+4)|13 (+1)|6 (-2)|12 (+1)|7 (-2)
 
 **Compétences** Perception +5, Escamotage +6, Discrétion +6  
@@ -14289,7 +14289,7 @@ _Fée de taille P, chaotique neutre_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|18 (+4)|13 (+1)|6 (-2)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3, Escamotage +6, Discrétion +6  
@@ -14319,7 +14319,7 @@ _Humanoïde (humain) de taille M, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|20 (+5)|13 (+1)|15 (+2)|12 (+1)|16 (+3)
 
 **Compétences** Intimidation +5, Perception +3, Persuasion +5, Discrétion +9  
@@ -14349,7 +14349,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 3 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |5 (-3)|16 (+3)|8 (-1)|2 (-4)|14 (+2)|6 (-2)
 
 **Compétences** Perception +4  
@@ -14376,7 +14376,7 @@ _Bête de taille P, sans alignement_
 **Vitesse** 3 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|14 (+2)|10 (+0)|3 (-4)|14 (+2)|5 (-3)
 
 **Compétences** Perception +4  
@@ -14404,7 +14404,7 @@ _Mort-vivant de taille TP, chaotique mauvais_
 **Vitesse** 0 m, vol 15 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)
 
 **Immunités** foudre, poison  
@@ -14437,7 +14437,7 @@ _Aberration de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|12 (+1)|12 (+1)|19 (+4)|17 (+3)|17 (+3)
 
 **Sauvegardes** Int +7, Sag +6, Cha +6  
@@ -14469,7 +14469,7 @@ _Plante de taille G, typiquement chaotique mauvais_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|16 (+3)|7 (-2)|15 (+2)|3 (-4)
 
 **Immunités** aveuglé, assourdi, empoisonné  
@@ -14501,7 +14501,7 @@ _Plante de taille G, chaotique mauvais_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|16 (+3)|7 (-2)|15 (+2)|3 (-4)
 
 **Immunités** aveuglé, assourdi  
@@ -14531,7 +14531,7 @@ _Fiélon (gnoll) de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|14 (+2)|19 (+4)|11 (+0)|13 (+1)|12 (+1)
 
 **Sauvegardes** Con +8, Sag +5  
@@ -14562,7 +14562,7 @@ _Humanoïde (gnoll) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|10 (+0)|19 (+4)|11 (+0)|13 (+1)|12 (+1)
 
 **Sauvegardes** Con +8, Sag +5  
@@ -14593,7 +14593,7 @@ _Aberration de taille P, loyal bon_
 **Vitesse** 1,50 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|15 (+2)|10 (+0)|14 (+2)|14 (+2)|11 (+0)
 
 **Compétences** Arcanes +4, Histoire +4, Religion +4  
@@ -14623,7 +14623,7 @@ _Géant de taille TG, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|10 (+0)|20 (+5)|9 (-1)|14 (+2)|6 (-2)
 
 **Compétences** Discrétion +3, Perception +8  
@@ -14652,7 +14652,7 @@ _Humanoïde de taille M ou P, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|11 (+0)|12 (+1)|13 (+1)|12 (+1)
 
 **Compétences** Escamotage +6 (voir aussi Compétence secrète ci-dessous)  
@@ -14678,7 +14678,7 @@ Fiélon (démon) de taille G, chaotique mauvais
 **Vitesse** 12 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|12 (+1)|25 (+7)|26 (+8)|24 (+7)|26 (+8)
 
 **Sauvegardes** Dex +8, Con +14, Int +15, Sag +14  
@@ -14717,7 +14717,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 12 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|12 (+1)|25 (+7)|26 (+8)|24 (+7)|26 (+8)
 
 **Sauvegardes** Dex +8, Con +14, Int +15, Sag +14  
@@ -14755,7 +14755,7 @@ _Monstruosité de taille TG, sans alignement_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|13 (+1)|20 (+5)|2 (-4)|12 (+1)|5 (-3)
 
 **Sauvegardes** Con +9, Sag +5  
@@ -14787,7 +14787,7 @@ _Monstruosité de taille TG, sans alignement_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|13 (+1)|20 (+5)|2 (-4)|12 (+1)|5 (-3)
 
 **Sauvegardes** Con +9, Sag +5  
@@ -14819,7 +14819,7 @@ _Élémentaire de taille M, neutre_
 **Vitesse** 4,50 m (9 m lorsqu'il roule, 18 m s'il roule en descente)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|14 (+2)|20 (+5)|11 (+0)|12 (+1)|11 (+0)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -14849,7 +14849,7 @@ _Humanoïde (humain) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|18 (+4)|12 (+1)|15 (+2)|18 (+4)
 
 **Sauvegardes** Sag +5  
@@ -14886,7 +14886,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)
 
 **Compétences** Perception +2  
@@ -14912,7 +14912,7 @@ _Artificiel de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|8 (-1)|18 (+4)|7 (-2)|10 (+0)|3 (-4)
 
 **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10  
@@ -14944,7 +14944,7 @@ _Élémentaire de taille M, chaotique mauvais_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|11 (+0)|16 (+3)|6 (-2)|11 (+0)|7 (-2)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -14975,7 +14975,7 @@ _Humanoïde (métamorphe) de taille M, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|15 (+2)|11 (+0)|13 (+1)|11 (+0)|10 (+0)
 
 **Compétences** Discrétion +4, Perception +2, Tromperie +4  
@@ -15006,7 +15006,7 @@ _Aberration (tyrannoeil) de taille M, typiquement loyal mauvais_
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|16 (+3)|15 (+2)|15 (+2)|13 (+1)
 
 **Sauvegardes** Int +5, Sag +5, Cha +4  
@@ -15036,7 +15036,7 @@ _Aberration de taille M, loyal mauvais_
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|16 (+3)|15 (+2)|15 (+2)|13 (+1)
 
 **Sauvegardes** Int +5, Sag +5, Cha +4  
@@ -15072,7 +15072,7 @@ _Aberration (tyrannoeil) de taille TP, typiquement neutre mauvais_
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|17 (+3)|14 (+2)|3 (-4)|10 (+0)|7 (-2)
 
 **Sauvegardes** Sag +2  
@@ -15102,7 +15102,7 @@ _Aberration de taille TP, neutre mauvais_
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|17 (+3)|14 (+2)|3 (-4)|10 (+0)|7 (-2)
 
 **Sauvegardes** Sag +2  
@@ -15136,7 +15136,7 @@ _Géant de taille TG, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|8 (-1)|19 (+4)|5 (-3)|9 (-1)|6 (-2)
 
 **Compétences** Perception +2  
@@ -15164,7 +15164,7 @@ _Géant de taille P, loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|10 (+0)|12 (+1)|8 (-1)|10 (+0)|8 (-1)
 
 **Compétences** Perception +2  
@@ -15191,7 +15191,7 @@ _Géant de taille TG, neutre bon (50 %) ou neutre mauvais (50 %)_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|10 (+0)|22 (+6)|12 (+1)|16 (+3)|16 (+3)
 
 **Sauvegardes** Con +10, Sag +7, Cha +7  
@@ -15225,7 +15225,7 @@ _Géant de taille TG, typiquement chaotique neutre_
 **Vitesse** 12 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|12 (+1)|22 (+6)|15 (+2)|16 (+3)|17 (+3)
 
 **Sauvegardes** Con +10, Int +6, Cha +7  
@@ -15257,7 +15257,7 @@ _Géant (géant des nuages) de taille TG, chaotique neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|12 (+1)|22 (+6)|15 (+2)|16 (+3)|17 (+3)
 
 **Sauvegardes** Con +10, Int +6, Cha +7  
@@ -15296,7 +15296,7 @@ _Géant de taille TG, neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)|9 (-1)
 
 **Sauvegardes** Dex +5, Con +8, Sag +4  
@@ -15327,7 +15327,7 @@ _Géant de taille TG, typiquement chaotique neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|14 (+2)|21 (+5)|10 (+0)|8 (-1)|12 (+1)
 
 **Sauvegardes** Dex +6, Con +9, Sag +3  
@@ -15358,7 +15358,7 @@ _Géant (géant des pierres) de taille TG, chaotique neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|14 (+2)|21 (+5)|10 (+0)|8 (-1)|12 (+1)
 
 **Sauvegardes** Dex +6, Con +9, Sag +3  
@@ -15389,7 +15389,7 @@ _Géant de taille TG, chaotique bon_
 **Vitesse** 15 m, nage 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|14 (+2)|20 (+5)|16 (+3)|18 (+4)|18 (+4)
 
 **Sauvegardes** For +14, Con +10, Sag +9, Cha +9  
@@ -15425,7 +15425,7 @@ _Géant de taille TG, typiquement chaotique bon_
 **Vitesse** 15 m, nage 15 m, vol 15 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|14 (+2)|20 (+5)|17 (+3)|20 (+5)|19 (+4)
 
 **Sauvegardes** For +14, Con +10, Sag +10, Cha +9  
@@ -15460,7 +15460,7 @@ _Géant (géant des tempêtes) de taille TG, chaotique bon_
 **Vitesse** 15 m, nage 15 m, vol 15 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|14 (+2)|20 (+5)|17 (+3)|20 (+5)|19 (+4)
 
 **Sauvegardes** For +14, Con +10, Sag +10, Cha +9  
@@ -15494,7 +15494,7 @@ _Géant de taille TG, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)
 
 **Sauvegardes** Dex +3, Con +10, Cha +5  
@@ -15524,7 +15524,7 @@ _Géant de taille TG, typiquement loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|9 (-1)|23 (+6)|8 (-1)|10 (+0)|11 (+0)
 
 **Sauvegardes** Dex +4, Con +11, Cha +5  
@@ -15555,7 +15555,7 @@ _Géant (géant du feu) de taille TG, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|9 (-1)|23 (+6)|8 (-1)|10 (+0)|11 (+0)
 
 **Sauvegardes** Dex +4, Con +11, Cha +5  
@@ -15586,7 +15586,7 @@ _Géant de taille TG, neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|9 (-1)|21 (+5)|9 (-1)|10 (+0)|12 (+1)
 
 **Sauvegardes** Con +8, Sag +3, Cha +4  
@@ -15616,7 +15616,7 @@ _Géant de taille TG, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|9 (-1)|24 (+7)|9 (-1)|10 (+0)|12 (+1)
 
 **Sauvegardes** For +11, Con +11, Sag +4  
@@ -15648,7 +15648,7 @@ _Géant (géant du givre) de taille TG, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|9 (-1)|24 (+7)|9 (-1)|10 (+0)|12 (+1)
 
 **Sauvegardes** For +11, Con +11, Sag +4  
@@ -15680,7 +15680,7 @@ _Vase de taille G, sans alignement_
 **Vitesse** 3 m, escalade 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|6 (-2)|14 (+2)|2 (-4)|6 (-2)|1 (-5)
 
 **Résistances** acide  
@@ -15711,7 +15711,7 @@ _Fiélon (diable) de taille TG, loyal mauvais_
 **Vitesse** 9 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|17 (+3)|22 (+6)|19 (+4)|16 (+3)|23 (+6)
 
 **Sauvegardes** Dex +10, Con +13, Sag +10, Cha +13  
@@ -15750,7 +15750,7 @@ _Fiélon (diable) de taille TG, loyal mauvais_
 **Vitesse** 9 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|17 (+3)|22 (+6)|19 (+4)|16 (+3)|23 (+6)
 
 **Sauvegardes** Dex +10, Con +13, Sag +10, Cha +13  
@@ -15790,7 +15790,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|17 (+3)|11 (+0)|12 (+1)|12 (+1)
 
 **Sens** Perception passive 11  
@@ -15820,7 +15820,7 @@ _Humanoïde de taille M, loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|17 (+3)|11 (+0)|12 (+1)|12 (+1)
 
 **Sens** Perception passive 11  
@@ -15850,7 +15850,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|16 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3, Discrétion +5  
@@ -15878,7 +15878,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|16 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3, Discrétion +5  
@@ -15907,7 +15907,7 @@ _Humanoïde (gith) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|15 (+2)|14 (+2)|14 (+2)|15 (+2)
 
 **Sauvegardes** Con +5, Int +5, Sag +5  
@@ -15937,7 +15937,7 @@ _Humanoïde (gith) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|17 (+3)|18 (+4)|16 (+3)|16 (+3)|18 (+4)
 
 **Sauvegardes** Con +9, Int +8, Sag +8  
@@ -15970,7 +15970,7 @@ _Humanoïde (gith) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|17 (+3)|18 (+4)|16 (+3)|16 (+3)|18 (+4)
 
 **Sauvegardes** Con +9, Int +8, Sag +8  
@@ -16002,7 +16002,7 @@ _Humanoïde (gith, magicien) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|14 (+2)|16 (+3)|15 (+2)|16 (+3)
 
 **Sauvegardes** Con +6, Int +7, Sag +6  
@@ -16032,7 +16032,7 @@ _Humanoïde (gith) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|14 (+2)|16 (+3)|15 (+2)|16 (+3)
 
 **Sauvegardes** Con +6, Int +7, Sag +6  
@@ -16062,7 +16062,7 @@ _Humanoïde (gith) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|12 (+1)|13 (+1)|13 (+1)|10 (+0)
 
 **Sauvegardes** Con +3, Int +3, Sag +3  
@@ -16091,7 +16091,7 @@ _Humanoïde (gith) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|17 (+3)
 
 **Sauvegardes** Con +7, Int +7, Sag +6  
@@ -16122,7 +16122,7 @@ _Humanoïde (gith) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|17 (+3)
 
 **Sauvegardes** Con +7, Int +7, Sag +6  
@@ -16152,7 +16152,7 @@ _Humanoïde (gith) de taille M, tout alignement_
 **Vitesse** 9 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|21 (+5)|18 (+4)|18 (+4)|20 (+5)|14 (+2)
 
 **Sauvegardes** For +8, Dex +10, Int +9, Sag +10  
@@ -16185,7 +16185,7 @@ _Humanoïde (gith) de taille M, loyal neutre_
 **Vitesse** 9 m, vol 12 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|21 (+5)|18 (+4)|18 (+4)|20 (+5)|14 (+2)
 
 **Sauvegardes** For +8, Dex +10, Int +9, Sag +10  
@@ -16217,7 +16217,7 @@ _Humanoïde (gith) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|19 (+4)|16 (+3)|17 (+3)|19 (+4)|13 (+1)
 
 **Sauvegardes** For +6, Dex +8, Int +7, Sag +8  
@@ -16248,7 +16248,7 @@ _Humanoïde (gith) de taille M, loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|19 (+4)|16 (+3)|17 (+3)|19 (+4)|13 (+1)
 
 **Sauvegardes** For +6, Dex +8, Int +7, Sag +8  
@@ -16278,7 +16278,7 @@ _Humanoïde (gith) de taille M, loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|15 (+2)|12 (+1)|13 (+1)|14 (+2)|10 (+0)
 
 **Sauvegardes** For +3, Dex +4, Int +3, Sag +4  
@@ -16309,7 +16309,7 @@ _Humanoïde (gith) de taille M, loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|18 (+4)|15 (+2)|16 (+3)|17 (+3)|12 (+1)
 
 **Sauvegardes** For +4, Dex +7, Int +6, Sag +6  
@@ -16341,7 +16341,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)
 
 **Sauvegardes** For +9, Con +9, Sag +7, Cha +7  
@@ -16376,7 +16376,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|16 (+3)|10 (+0)|12 (+1)|15 (+2)
 
 **Sauvegardes** For +7, Dex +5, Con +6  
@@ -16408,7 +16408,7 @@ _Humanoïde (gnoll) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|12 (+1)|11 (+0)|6 (-2)|10 (+0)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -16436,7 +16436,7 @@ _Monstruosité de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|14 (+2)|12 (+1)|8 (-1)|10 (+0)|8 (-1)
 
 **Sauvegardes** Dex +4  
@@ -16465,7 +16465,7 @@ _Humanoïde (gnoll) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|14 (+2)|12 (+1)|8 (-1)|10 (+0)|8 (-1)
 
 **Sauvegardes** Dex +4  
@@ -16494,7 +16494,7 @@ _Monstruosité de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|12 (+1)|8 (-1)|12 (+1)|8 (-1)
 
 **Compétences** Perception +3, Discrétion +4  
@@ -16523,7 +16523,7 @@ _Humanoïde (gnoll) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|12 (+1)|8 (-1)|12 (+1)|8 (-1)
 
 **Compétences** Perception +3, Discrétion +4  
@@ -16552,7 +16552,7 @@ _Fiélon (gnoll) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|15 (+2)|10 (+0)|11 (+0)|13 (+1)
 
 **Sauvegardes** Con +4, Sag +2, Cha +3  
@@ -16580,7 +16580,7 @@ _Mort-vivant de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|8 (-1)|12 (+1)|5 (-3)|5 (-3)|5 (-3)
 
 **Immunités** poison  
@@ -16611,7 +16611,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|8 (-1)|12 (+1)|5 (-3)|5 (-3)|5 (-3)
 
 **Immunités** poison  
@@ -16641,7 +16641,7 @@ _Humanoïde (gnoll) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|8 (-1)|11 (+0)|9 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -16670,7 +16670,7 @@ _Humanoïde (gnome) de taille P, neutre bon_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|9 (-1)
 
 **Compétences** Discrétion +4, Investigation +3, Perception +2  
@@ -16702,7 +16702,7 @@ _Humanoïde (gobelinoïde) de taille P, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|8 (-1)
 
 **Compétences** Discrétion +6  
@@ -16730,7 +16730,7 @@ _Humanoïde (gobelinoïde) de taille P, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|10 (+0)
 
 **Compétences** Discrétion +6  
@@ -16759,7 +16759,7 @@ _Humanoïde (gobelinoïde) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|13 (+1)|8 (-1)|11 (+0)|9 (-1)
 
 **Compétences** Discrétion +6, Survie +2  
@@ -16788,7 +16788,7 @@ _Humanoïde (gobelinoïde) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|14 (+2)|14 (+2)|11 (+0)|12 (+1)|11 (+0)
 
 **Compétences** Discrétion +6, Intimidation +2, Survie +3  
@@ -16818,7 +16818,7 @@ _Artificiel de taille G, sans alignement_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|9 (-1)|18 (+4)|3 (-4)|8 (-1)|1 (-5)
 
 **Immunités** acide, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -16852,7 +16852,7 @@ _Artificiel de taille M, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|16 (+3)|15 (+2)|6 (-2)|10 (+0)|5 (-3)
 
 **Compétences** Discrétion +5  
@@ -16886,7 +16886,7 @@ _Artificiel de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|9 (-1)|18 (+4)|3 (-4)|11 (+0)|1 (-5)
 
 **Immunités** feu, foudre, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -16920,7 +16920,7 @@ _Artificiel de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|9 (-1)|18 (+4)|6 (-2)|10 (+0)|5 (-3)
 
 **Immunités** foudre, poison ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -16954,7 +16954,7 @@ _Artificiel de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|9 (-1)|20 (+5)|3 (-4)|11 (+0)|1 (-5)
 
 **Immunités** feu, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -16988,7 +16988,7 @@ _Artificiel de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|9 (-1)|18 (+4)|3 (-4)|11 (+0)|1 (-5)
 
 **Vulnérabilités** feu  
@@ -17022,7 +17022,7 @@ _Artificiel de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|9 (-1)|20 (+5)|3 (-4)|11 (+0)|1 (-5)
 
 **Immunités** poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -17054,7 +17054,7 @@ _Artificiel de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|10 (+0)|17 (+3)|3 (-4)|11 (+0)|10 (+0)
 
 **Immunités** poison  
@@ -17086,7 +17086,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|11 (+0)|18 (+4)|2 (-4)|12 (+1)|7 (-2)
 
 **Compétences** Perception +4  
@@ -17116,7 +17116,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|11 (+0)|25 (+7)|6 (-2)|13 (+1)|14 (+2)
 
 **Sauvegardes** For +13, Dex +6, Con +13, Sag +7  
@@ -17152,7 +17152,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|15 (+2)|10 (+0)|7 (-2)|10 (+0)|6 (-2)
 
 **Immunités** poison  
@@ -17180,7 +17180,7 @@ _Dragon (chromatique) de taille Gig, typiquement chaotique mauvais_
 **Vitesse** 18 m, creusement 18 m, vol 36 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|14 (+2)|30 (+10)|21 (+5)|20 (+5)|26 (+8)
 
 **Sauvegardes** Dex +10, Con +18, Sag +13, Cha +16  
@@ -17220,7 +17220,7 @@ _Dragon (diamantin) de taille Gig, typiquement neutre_
 **Vitesse** 18 m, creusement 18 m, vol 36 m (stationnaire), nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|14 (+2)|29 (+9)|30 (+10)|24 (+7)|25 (+7)
 
 **Sauvegardes** Dex +10, Con +17, Sag +15, Cha +15  
@@ -17261,7 +17261,7 @@ _Dragon (métallique) de taille Gig, typiquement loyal bon_
 **Vitesse** 18 m, creusement 18 m, vol 36 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|16 (+3)|29 (+9)|21 (+5)|22 (+6)|30 (+10)
 
 **Sauvegardes** Dex +11, Con +17, Int +13, Cha +18  
@@ -17303,7 +17303,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|14 (+2)|6 (-2)|12 (+1)|7 (-2)
 
 **Compétences** Athlétisme +5, Perception +3  
@@ -17331,7 +17331,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|15 (+2)|21 (+5)|23 (+6)|21 (+5)|26 (+8)
 
 **Sauvegardes** Dex +9, Con +12, Sag +12  
@@ -17370,7 +17370,7 @@ _Fiélon (démon, métamorphe) de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|15 (+2)|21 (+5)|23 (+6)|21 (+5)|26 (+8)
 
 **Sauvegardes** Dex +9, Con +12, Sag +12  
@@ -17413,7 +17413,7 @@ _Monstruosité de taille G, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|6 (-2)
 
 **Sauvegardes** For +5, Con +4  
@@ -17435,7 +17435,7 @@ _Aberration de taille M, neutre mauvais_
 **Vitesse** 3 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|13 (+1)|12 (+1)|11 (+0)|9 (-1)
 
 **Compétences** Discrétion +6, Perception +4  
@@ -17464,7 +17464,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 6 m, nage 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|13 (+1)|8 (-1)|1 (-5)|8 (-1)|3 (-4)
 
 **Compétences** Discrétion +3, Perception +1  
@@ -17491,7 +17491,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|13 (+1)|11 (+0)|2 (-4)|10 (+0)|3 (-4)
 
 **Compétences** Discrétion +3, Perception +2  
@@ -17520,7 +17520,7 @@ _Monstruosité de taille M, neutre_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|11 (+0)|3 (-4)|14 (+2)|5 (-3)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -17549,7 +17549,7 @@ _Monstruosité de taille G, neutre_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|16 (+3)|15 (+2)|4 (-3)|14 (+2)|9 (-1)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -17578,7 +17578,7 @@ _Mort-vivant de taille TP, neutre mauvais_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|14 (+2)|11 (+0)|5 (-3)|10 (+0)|4 (-3)
 
 **Immunités** poison  
@@ -17605,7 +17605,7 @@ _Mort-vivant de taille G, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|16 (+3)|15 (+2)|13 (+1)|15 (+2)|9 (-1)
 
 **Sauvegardes** Dex +7, Con +6, Sag +6  
@@ -17639,7 +17639,7 @@ _Mort-vivant de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|16 (+3)|15 (+2)|13 (+1)|15 (+2)|9 (-1)
 
 **Sauvegardes** Dex +7, Con +6, Sag +6  
@@ -17672,7 +17672,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 9 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|16 (+3)|2 (-4)|13 (+1)|8 (-1)
 
 **Compétences** Perception +5  
@@ -17701,7 +17701,7 @@ _Humanoide de taille P, tout alignement_
 **Vitesse** 7,50 m, escalade 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|14 (+2)|15 (+2)|10 (+0)|11 (+0)|10 (+0)
 
 **Sauvegardes** Dex +4  
@@ -17733,7 +17733,7 @@ _Humanoïde de taille P, tout alignement_
 **Vitesse** 7,50 m, escalade 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|16 (+3)|15 (+2)|10 (+0)|11 (+0)|12 (+1)
 
 **Sauvegardes** Dex +5  
@@ -17767,7 +17767,7 @@ _Humanoïde (grung) de taille P, loyal mauvais_
 **Vitesse** 7,50 m, escalade 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|16 (+3)|15 (+2)|10 (+0)|11 (+0)|12 (+1)
 
 **Sauvegardes** Dex +5  
@@ -17800,7 +17800,7 @@ _Humanoide (grung) de taille P, loyal mauvais_
 **Vitesse** 7,50 m, escalade 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|14 (+2)|15 (+2)|10 (+0)|11 (+0)|10 (+0)
 
 **Sauvegardes** Dex +4  
@@ -17831,7 +17831,7 @@ _Humanoïde de taille P, tout alignement_
 **Vitesse** 7,50 m, escalade 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|16 (+3)|15 (+2)|10 (+0)|15 (+2)|11 (+0)
 
 **Sauvegardes** Dex +5  
@@ -17865,7 +17865,7 @@ _Humanoïde (grung) de taille P, loyal mauvais_
 **Vitesse** 7,50 m, escalade 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|16 (+3)|15 (+2)|10 (+0)|15 (+2)|11 (+0)
 
 **Sauvegardes** Dex +5  
@@ -17901,7 +17901,7 @@ _Fée de taille G, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|15 (+2)
 
 **Sauvegardes** Con +5  
@@ -17932,7 +17932,7 @@ _Fée de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|15 (+2)
 
 **Sauvegardes** Con +5  
@@ -17964,7 +17964,7 @@ _Fée de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|16 (+3)|14 (+2)|12 (+1)|13 (+1)|16 (+3)
 
 **Sauvegardes** Sag +4  
@@ -17998,7 +17998,7 @@ _Fée de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|16 (+3)|14 (+2)|12 (+1)|13 (+1)|16 (+3)
 
 **Sauvegardes** Sag +4  
@@ -18032,7 +18032,7 @@ _Fée de taille M, chaotique mauvais_
 **Vitesse** 9 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)
 
 **Sens** vision dans le noir 18 m, Perception passive 11  
@@ -18061,7 +18061,7 @@ _Fiélon de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|16 (+3)|16 (+3)|14 (+2)|16 (+3)
 
 **Compétences** Discrétion +6, Intuition +6, Perception +6, Tromperie +7  
@@ -18096,7 +18096,7 @@ _Fée de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)
 
 **Compétences** Arcanes +3, Discrétion +3, Perception +4, Tromperie +4  
@@ -18128,7 +18128,7 @@ _Fiélon de taille G, loyal mauvais_
 **Vitesse** 3 m, vol 18 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)
 
 **Sauvegardes** Dex +5, Sag +3  
@@ -18159,7 +18159,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 3 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|10 (+0)|1 (-5)|10 (+0)|3 (-4)
 
 **Sens** Perception passive 10  
@@ -18184,7 +18184,7 @@ _Mort-vivant de taille M, neutre_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|6 (-2)|14 (+2)|8 (-1)|6 (-2)|8 (-1)
 
 **Sauvegardes** Sag +0  
@@ -18213,7 +18213,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|11 (+0)|12 (+1)|8 (-1)|11 (+0)|8 (-1)
 
 **Sens** Perception passive 10  
@@ -18239,7 +18239,7 @@ _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|8 (-1)|13 (+1)|5 (-3)|8 (-1)|5 (-3)
 
 **Résistances** froid, feu, foudre  
@@ -18267,7 +18267,7 @@ _Fiélon (démon) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|8 (-1)|13 (+1)|5 (-3)|8 (-1)|5 (-3)
 
 **Résistances** froid, feu, foudre  
@@ -18295,7 +18295,7 @@ _Géant de taille TG, typiquement chaotique mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|10 (+0)|18 (+4)|5 (-3)|7 (-2)|5 (-3)
 
 **Compétences** Perception +1  
@@ -18323,7 +18323,7 @@ _Géant (géant des collines) de taille TG, chaotique mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|10 (+0)|18 (+4)|5 (-3)|7 (-2)|5 (-3)
 
 **Compétences** Perception +1  
@@ -18355,7 +18355,7 @@ _Monstruosité de taille G, loyal neutre_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|16 (+3)|18 (+4)|18 (+4)|18 (+4)
 
 **Compétences** Arcanes +12, Histoire +12, Perception +8, Religion +8  
@@ -18397,7 +18397,7 @@ _Humanoïde (humain) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|18 (+4)|18 (+4)|24 (+7)|18 (+4)|18 (+4)
 
 **Sauvegardes** Int + 14, Sag + 11  
@@ -18431,7 +18431,7 @@ _Monstruosité de taille M, chaotique mauvais_
 **Vitesse** 6 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|13 (+1)|12 (+1)|7 (-2)|10 (+0)|13 (+1)
 
 **Sens** Perception passive 10  
@@ -18459,7 +18459,7 @@ _Monstruosité de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m (6 m et nage 12 m sous forme hybride)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|16 (+3)|10 (+0)|12 (+1)|14 (+2)
 
 **Sauvegardes** Sag +3, Cha +4  
@@ -18491,7 +18491,7 @@ _Humanoïde (métamorphe) de taille M, neutre mauvais_
 **Vitesse** 9 m (6 m et nage 12 m sous forme hybride)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|16 (+3)|10 (+0)|12 (+1)|14 (+2)
 
 **Sauvegardes** Sag +3, Cha +4  
@@ -18523,7 +18523,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|17 (+3)|20 (+5)|5 (-3)|12 (+1)|13 (+1)
 
 **Sauvegardes** For +7, Con +8, Sag +4  
@@ -18556,7 +18556,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 0 m, nage 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|12 (+1)|8 (-1)|1 (-5)|10 (+0)|2 (-4)
 
 **Sens** Perception passive 10  
@@ -18581,7 +18581,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 0 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|15 (+2)|11 (+0)|2 (-4)|12 (+1)|5 (-3)
 
 **Sens** Perception passive 11  
@@ -18608,7 +18608,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|13 (+1)|13 (+1)|2 (-4)|12 (+1)|8 (-1)
 
 **Compétences** Perception +5  
@@ -18637,7 +18637,7 @@ _Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|9 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -18664,7 +18664,7 @@ _Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|13 (+1)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -18692,7 +18692,7 @@ _Fée (gobelinoïde) de taille M, typiquement loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|12 (+1)|14 (+2)|16 (+3)|13 (+1)|11 (+0)
 
 **Compétences** Arcanes +5  
@@ -18721,7 +18721,7 @@ _Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|12 (+1)|14 (+2)|16 (+3)|13 (+1)|11 (+0)
 
 **Compétences** Arcanes +5  
@@ -18754,7 +18754,7 @@ _Fée (gobelinoïde) de taille M, typiquement loyal neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|15 (+2)|14 (+2)|15 (+2)|11 (+0)
 
 **Compétences** Acrobaties +5, Athlétisme +4, Discrétion +5  
@@ -18784,7 +18784,7 @@ _Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|15 (+2)|14 (+2)|15 (+2)|11 (+0)
 
 **Compétences** Acrobaties +5, Athlétisme +4, Discrétion +5  
@@ -18816,7 +18816,7 @@ _Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|16 (+3)|14 (+2)|11 (+0)|15 (+2)
 
 **Sauvegardes** Int +5, Sag +3, Cha +5  
@@ -18847,7 +18847,7 @@ _Humanoïde (homme-lézard) de taille M, neutre_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|13 (+1)|7 (-2)|12 (+1)|7 (-2)
 
 **Compétences** Discrétion +4, Perception +3, Survie +5  
@@ -18878,7 +18878,7 @@ _Humanoïde (homme-lézard) de taille M, neutre_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|13 (+1)|10 (+0)|15 (+2)|8 (-1)
 
 **Compétences** Discrétion +4, Perception +4, Survie +6  
@@ -18912,7 +18912,7 @@ _Humanoïde (homme-poisson) de taille M, neutre_
 **Vitesse** 3 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|12 (+1)
 
 **Compétences** Perception +2  
@@ -18939,7 +18939,7 @@ _Artificiel de taille TP, neutre_
 **Vitesse** 6 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)|7 (-2)
 
 **Immunités** poison  
@@ -18967,7 +18967,7 @@ _Artificiel de taille M, neutre_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|16 (+3)|10 (+0)|10 (+0)|10 (+0)
 
 **Compétences** Perception +4  
@@ -18998,7 +18998,7 @@ _Artificiel de taille G, typiquement loyal mauvais_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|16 (+3)|20 (+5)|3 (-4)|11 (+0)|4 (-3)
 
 **Sauvegardes** Dex +8, Con +10, Sag +5  
@@ -19031,7 +19031,7 @@ _Artificiel de taille G, loyal mauvais_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|16 (+3)|20 (+5)|3 (-4)|11 (+0)|4 (-3)
 
 **Sauvegardes** Dex +8, Con +10, Sag +5  
@@ -19064,7 +19064,7 @@ _Monstruosité de taille G, neutre_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|15 (+2)|6 (-2)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -19092,7 +19092,7 @@ _Humanoïde (humain) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|12 (+1)|17 (+3)|12 (+1)|12 (+1)|15 (+2)
 
 **Sauvegardes** For +7, Dex +5, Con +6  
@@ -19123,7 +19123,7 @@ _Fiélon de taille G, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|16 (+3)|15 (+2)|5 (-3)|20 (+5)|6 (-2)
 
 **Compétences** Perception +5  
@@ -19153,7 +19153,7 @@ _Fiélon de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|16 (+3)|15 (+2)|5 (-3)|20 (+5)|6 (-2)
 
 **Compétences** Perception +8  
@@ -19183,7 +19183,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|15 (+2)|25 (+7)|23 (+6)|19 (+4)|25 (+7)
 
 **Sauvegardes** Dex +9, Con +14, Sag +11  
@@ -19226,7 +19226,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|15 (+2)|25 (+7)|23 (+6)|19 (+4)|25 (+7)
 
 **Sauvegardes** Dex +9, Con +14, Sag +11  
@@ -19270,7 +19270,7 @@ _Monstruosité de taille TG, sans alignement_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|12 (+1)|20 (+5)|2 (-4)|10 (+0)|7 (-2)
 
 **Compétences** Perception +6  
@@ -19301,7 +19301,7 @@ _Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
 **Vitesse** 6 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|21 (+5)|16 (+3)|19 (+4)|10 (+0)|14 (+2)
 
 **Compétences** Intuition +4, Perception +4  
@@ -19339,7 +19339,7 @@ _Fiélon (yugoloth) de taille M, neutre mauvais_
 **Vitesse** 6 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|21 (+5)|16 (+3)|19 (+4)|10 (+0)|14 (+2)
 
 **Compétences** Intuition +4, Perception +4  
@@ -19377,7 +19377,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|13 (+1)|12 (+1)|2 (-4)|12 (+1)|5 (-3)
 
 **Compétences** Perception +3  
@@ -19404,7 +19404,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|14 (+2)|2 (-4)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -19431,7 +19431,7 @@ _Fée de taille M (magicien), chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|18 (+4)|18 (+4)|27 (+8)|12 (+1)|23 (+6)
 
 **Sauvegardes** Int +14, Sag +7, Cha +12  
@@ -19455,7 +19455,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|13 (+1)|16 (+3)|11 (+0)|12 (+1)
 
 **Sauvegardes** Int +5, Sag +2  
@@ -19489,7 +19489,7 @@ _Élémentaire de taille TG, neutre mauvais_
 **Vitesse** 15 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|24 (+7)|22 (+6)|15 (+2)|16 (+3)|23 (+6)
 
 **Sauvegardes** Dex +14, Con +13, Cha +13  
@@ -19515,7 +19515,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|10 (+0)|15 (+2)|14 (+2)|13 (+1)
 
 **Sauvegardes** Sag +4  
@@ -19548,7 +19548,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|10 (+0)|15 (+2)|14 (+2)|13 (+1)
 
 **Sauvegardes** Sag +4  
@@ -19581,7 +19581,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|10 (+0)|15 (+2)|14 (+2)|13 (+1)
 
 **Sauvegardes** Sag +4  
@@ -19614,7 +19614,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|10 (+0)|15 (+2)|16 (+3)|13 (+1)
 
 **Sauvegardes** Sag +5  
@@ -19647,7 +19647,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|10 (+0)|15 (+2)|16 (+3)|13 (+1)
 
 **Sauvegardes** Sag +6  
@@ -19682,7 +19682,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|10 (+0)|15 (+2)|16 (+3)|13 (+1)
 
 **Sauvegardes** Sag +6  
@@ -19718,7 +19718,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +6, Sag +4  
@@ -19753,7 +19753,7 @@ _Humanoïde (humain) de taille M, chaotique bon_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|10 (+0)|12 (+1)|11 (+0)|16 (+3)|13 (+1)
 
 **Compétences** Intuition +5, Persuasion +3, Religion +4  
@@ -19786,7 +19786,7 @@ _Humanoïde (elfe) de taille M, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|22 (+6)|14 (+2)|20 (+5)|16 (+3)|19 (+4)
 
 **Sauvegardes** Dex +11, Sag +8  
@@ -19825,7 +19825,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|10 (+0)|23 (+6)|20 (+5)|20 (+5)|16 (+3)
 
 **Sauvegardes** Dex +7, Con +13, Sag +12  
@@ -19864,7 +19864,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|10 (+0)|23 (+6)|20 (+5)|20 (+5)|16 (+3)
 
 **Sauvegardes** Dex +7, Con +13, Sag +12  
@@ -19905,7 +19905,7 @@ _Humanoïde (kenku) de taille M, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|10 (+0)
 
 **Compétences** Discrétion +5, Perception +2, Tromperie +4  
@@ -19933,7 +19933,7 @@ _Céleste de taille TG, typiquement loyal bon_
 **Vitesse** 18 m, vol 36 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|16 (+3)|16 (+3)|19 (+4)|20 (+5)|20 (+5)
 
 **Compétences** Intuition +9, Perception +9, Religion +8  
@@ -19968,7 +19968,7 @@ _Céleste de taille TG, loyal bon_
 **Vitesse** 18 m, vol 36 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|16 (+3)|16 (+3)|19 (+4)|20 (+5)|20 (+5)
 
 **Compétences** Intuition +9, Perception +9, Religion +8  
@@ -20017,7 +20017,7 @@ _Humanoïde (kobold) de taille P, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|15 (+2)|9 (-1)|8 (-1)|7 (-2)|8 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -20045,7 +20045,7 @@ _Humanoïde (kobold) de taille P, loyal mauvais_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|16 (+3)|9 (-1)|8 (-1)|7 (-2)|8 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -20072,7 +20072,7 @@ _Dragon de taille P, tout alignement_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|15 (+2)|14 (+2)|8 (-1)|9 (-1)|10 (+0)
 
 **Compétences** Perception +1  
@@ -20103,7 +20103,7 @@ _Humanoïde (kobold) de taille P, loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|15 (+2)|14 (+2)|8 (-1)|9 (-1)|10 (+0)
 
 **Compétences** Perception +1  
@@ -20134,7 +20134,7 @@ _Humanoïde de taille P, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|15 (+2)|14 (+2)|10 (+0)|9 (-1)|14 (+2)
 
 **Compétences** Arcanes +2, Médecine +1  
@@ -20164,7 +20164,7 @@ _Humanoïde (kobold) de taille P, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|15 (+2)|14 (+2)|10 (+0)|9 (-1)|14 (+2)
 
 **Compétences** Arcanes +2, Médecine +1  
@@ -20196,7 +20196,7 @@ _Humanoïde de taille P, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|15 (+2)|12 (+1)|8 (-1)|7 (-2)|8 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -20224,7 +20224,7 @@ _Humanoïde (kobold) de taille P, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|15 (+2)|12 (+1)|8 (-1)|7 (-2)|8 (-1)
 
 **Compétences** Perception +0  
@@ -20261,7 +20261,7 @@ _Fée de taille P, typiquement chaotique neutre_
 **Vitesse** 9 m, creusement 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|14 (+2)|20 (+5)|10 (+0)|15 (+2)|9 (-1)
 
 **Compétences** Athlétisme +9, Perception +5, Discrétion +5  
@@ -20292,7 +20292,7 @@ _Fée de taille P, chaotique neutre_
 **Vitesse** 9 m, creusement 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|14 (+2)|20 (+5)|10 (+0)|15 (+2)|9 (-1)
 
 **Compétences** Athlétisme +9, Perception +5, Discrétion +5  
@@ -20326,7 +20326,7 @@ _Monstruosité (titan) de taille Gig, chaotique mauvais_
 **Vitesse** 6 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|11 (+0)|25 (+7)|22 (+6)|18 (+4)|20 (+5)
 
 **Sauvegardes** For +17, Dex +7, Con +14, Int +13, Sag +11  
@@ -20364,7 +20364,7 @@ _Monstruosité de taille M, sans alignement_
 **Vitesse** 12 m, creusement 6 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|15 (+2)|7 (-2)|12 (+1)|8 (-1)
 
 **Compétences** Perception +5  
@@ -20393,7 +20393,7 @@ _Monstruosité de taille M, sans alignement_
 **Vitesse** 12 m, creusement 6 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|15 (+2)|7 (-2)|12 (+1)|8 (-1)
 
 **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 11  
@@ -20422,7 +20422,7 @@ _Monstruosité de taille P, sans alignement_
 **Vitesse** 9 m, creusement 3 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|16 (+3)|13 (+1)|4 (-3)|10 (+0)|6 (-2)
 
 **Sens** vision dans le noir 9 m, perception des vibrations 18 m, Perception passive 14  
@@ -20448,7 +20448,7 @@ _Monstruosité de taille P, sans alignement_
 **Vitesse** 9 m, creusement 3 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|16 (+3)|13 (+1)|4 (-3)|10 (+0)|6 (-2)
 
 **Sens** vision dans le noir 9 m, perception des vibrations 18 m, Perception passive 10  
@@ -20475,7 +20475,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 12 m, creusement 6 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|16 (+3)|17 (+3)|10 (+0)|14 (+2)|10 (+0)
 
 **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 18  
@@ -20504,7 +20504,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 12 m, creusement 6 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|16 (+3)|17 (+3)|10 (+0)|14 (+2)|10 (+0)
 
 **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 12  
@@ -20534,7 +20534,7 @@ _Humanoïde (kuo-toa) de taille M, neutre mauvais_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|10 (+0)|11 (+0)|11 (+0)|10 (+0)|8 (-1)
 
 **Compétences** Perception +4  
@@ -20566,7 +20566,7 @@ _Humanoïde (kuo-toa) de taille M, neutre mauvais_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|16 (+3)|13 (+1)|16 (+3)|14 (+2)
 
 **Compétences** Perception +9, Religion +6  
@@ -20604,7 +20604,7 @@ _Humanoïde (kuo-toa) de taille M, neutre mauvais_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|10 (+0)|14 (+2)|12 (+1)|14 (+2)|11 (+0)
 
 **Compétences** Perception +6, Religion +4  
@@ -20638,7 +20638,7 @@ _Monstruosité de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|15 (+2)|6 (-2)|7 (-2)|5 (-3)
 
 **Compétences** Athlétisme +6  
@@ -20667,7 +20667,7 @@ _Monstruosité de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|19 (+4)|8 (-1)|13 (+1)|6 (-2)
 
 **Compétences** Perception +6  
@@ -20696,7 +20696,7 @@ _Monstruosité de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|17 (+3)|6 (-2)|11 (+0)|6 (-2)
 
 **Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
@@ -20724,7 +20724,7 @@ _Monstruosité de taille P, neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|12 (+1)|9 (-1)|5 (-3)|6 (-2)|5 (-3)
 
 **Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
@@ -20750,7 +20750,7 @@ _Monstruosité de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|17 (+3)|6 (-2)|11 (+0)|6 (-2)
 
 **Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
@@ -20779,7 +20779,7 @@ _Humanoïde (humain) de taille M, chaotique bon_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|17 (+3)|20 (+5)|20 (+5)|20 (+5)|19 (+4)
 
 **Sauvegardes** Int +11, Sag +11  
@@ -20825,7 +20825,7 @@ _Mort-vivant de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)
 
 **Compétences** Perception +4  
@@ -20859,7 +20859,7 @@ _Mort-vivant de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)
 
 **Compétences** Perception +4  
@@ -20892,7 +20892,7 @@ _Mort-vivant de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|12 (+1)|17 (+3)|6 (-2)|9 (-1)|10 (+0)
 
 **Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
@@ -20922,7 +20922,7 @@ _Mort-vivant de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|12 (+1)|17 (+3)|6 (-2)|9 (-1)|10 (+0)
 
 **Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
@@ -20951,7 +20951,7 @@ _Humanoïde (humain) de taille M, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|15 (+2)|12 (+1)|10 (+0)|11 (+0)|14 (+2)
 
 **Compétences** Intimidation +4, Discrétion +6  
@@ -20977,7 +20977,7 @@ _Monstruosité de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)
 
 **Compétences** Discrétion +3, Intuition +4, Tromperie +7  
@@ -21010,7 +21010,7 @@ _Humanoïde (yuan-ti) de taille M, loyal neutre_
 **Vitesse** 30 ft.
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)|14 (+2)
 
 **Compétences** Discrétion +3, Perception +3, Tromperie +6  
@@ -21045,7 +21045,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 4,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|5 (-3)|11 (+0)|1 (-5)|11 (+0)|3 (-4)
 
 **Résistances** froid  
@@ -21075,7 +21075,7 @@ _Monstruosité de taille G, typiquement chaotique mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|15 (+2)|9 (-1)|12 (+1)|6 (-2)
 
 **Compétences** Tromperie +2, Perception +5  
@@ -21105,7 +21105,7 @@ _Monstruosité de taille G, chaotique mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|15 (+2)|9 (-1)|12 (+1)|6 (-2)
 
 **Compétences** Tromperie +2, Perception +3  
@@ -21136,7 +21136,7 @@ _Élémentaire de taille Gig, typiquement neutre_
 **Vitesse** 12 m, nage 36 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|24 (+7)|30 (+10)|2 (-4)|18 (+4)|17 (+3)
 
 **Sauvegardes** Sag +10, Cha +9  
@@ -21173,7 +21173,7 @@ _Élémentaire de taille Gig, neutre_
 **Vitesse** 12 m, nage 36 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|24 (+7)|30 (+10)|2 (-4)|18 (+4)|17 (+3)
 
 **Sauvegardes** Sag +10, Cha +9  
@@ -21210,7 +21210,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|11 (+0)|10 (+0)|1 (-5)|8 (-1)|3 (-4)
 
 **Sens** vision dans le noir 9 m, Perception passive 9  
@@ -21235,7 +21235,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
 
 **Sens** vision dans le noir 9 m, Perception passive 10  
@@ -21260,7 +21260,7 @@ _Plante de taille G, sans alignement_
 **Vitesse** 1,50 m, escalade 1,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|16 (+3)|1 (-5)|10 (+0)|1 (-5)
 
 **Résistances** feu, froid  
@@ -21288,7 +21288,7 @@ _Mort-vivant de taille M, tout alignement mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)
 
 **Sauvegardes** Con +10, Int +12, Sag +9  
@@ -21336,7 +21336,7 @@ _Céleste de taille G, loyal bon_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)
 
 **Immunités** poison  
@@ -21376,7 +21376,7 @@ _Plante de taille M, sans alignement_
 **Vitesse** 1,50 m, escalade 1,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|3 (-4)|12 (+1)|1 (-5)|10 (+0)|3 (-4)
 
 **Immunités** assourdi, aveuglé, épuisement, à terre  
@@ -21404,7 +21404,7 @@ _Plante de taille M, neutre mauvais_
 **Vitesse** 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|8 (-1)|14 (+2)|5 (-3)|10 (+0)|3 (-4)
 
 **Compétences** Discrétion +1  
@@ -21432,7 +21432,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 6 m, creusement 1,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|17 (+3)|9 (-1)|2 (-4)|11 (+0)|4 (-3)
 
 **Compétences** Perception +2, Discrétion +5  
@@ -21457,7 +21457,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|13 (+1)|3 (-4)|12 (+1)|8 (-1)
 
 **Compétences** Discrétion +6, Perception +3  
@@ -21488,7 +21488,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|15 (+2)|12 (+1)|3 (-4)|12 (+1)|6 (-2)
 
 **Compétences** Discrétion +4, Perception +3  
@@ -21516,7 +21516,7 @@ _Monstruosité de taille G, neutre mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|14 (+2)|7 (-2)|12 (+1)|8 (-1)
 
 **Compétences** Discrétion +3, Perception +5  
@@ -21547,7 +21547,7 @@ _Humanoïde (humain, métamorphe) de taille M, chaotique mauvais_
 **Vitesse** 9 m (12 m sous forme de loup)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)
 
 **Compétences** Discrétion +3, Perception +4  
@@ -21579,7 +21579,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|7 (-2)
 
 **Compétences** Discrétion +4, Perception +3  
@@ -21607,7 +21607,7 @@ _Artificiel de taille TG, typiquement loyal mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|16 (+3)|24 (+7)|2 (-4)|10 (+0)|1 (-5)
 
 **Sauvegardes** Dex +8, Sag +5, Cha +0  
@@ -21639,7 +21639,7 @@ _Artificiel de taille TG, loyal mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|16 (+3)|24 (+7)|2 (-4)|10 (+0)|1 (-5)
 
 **Sauvegardes** Dex +8, Sag +5, Cha +0  
@@ -21670,7 +21670,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +6, Sag +4  
@@ -21704,7 +21704,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|14 (+2)|18 (+4)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +8, Sag +5  
@@ -21734,7 +21734,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|11 (+0)|18 (+4)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +7, Sag +4  
@@ -21764,7 +21764,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +6, Sag +4  
@@ -21793,7 +21793,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +7, Sag +5  
@@ -21822,7 +21822,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|13 (+1)|16 (+3)|11 (+0)|12 (+1)
 
 **Sauvegardes** Int +5, Sag +2  
@@ -21851,7 +21851,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +6, Sag +4  
@@ -21881,7 +21881,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +7, Sag +5  
@@ -21912,7 +21912,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +6, Sag +4  
@@ -21941,7 +21941,7 @@ _Élémentaire de taille P, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|15 (+2)|12 (+1)|8 (-1)|11 (+0)|10 (+0)
 
 **Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -21970,7 +21970,7 @@ _Humanoïde (humain) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|17 (+3)|19 (+4)|14 (+2)|13 (+1)
 
 **Sauvegardes** Sag +4  
@@ -22007,7 +22007,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|18 (+4)|14 (+2)|11 (+0)|11 (+0)|12 (+1)
 
 **Sauvegardes** Dex +7, Int +3  
@@ -22038,7 +22038,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|18 (+4)|14 (+2)|11 (+0)|11 (+0)|12 (+1)
 
 **Sauvegardes** Dex +7, Int +3  
@@ -22070,7 +22070,7 @@ _Humanoïde (demi-elfe) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|10 (+0)|18 (+4)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +6, Sag +3  
@@ -22106,7 +22106,7 @@ _Humanoïde (toute race) de taille M, tout alignement non bon_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)
 
 **Compétences** Intimidation +2  
@@ -22135,7 +22135,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|9 (-1)|21 (+5)|3 (-4)|11 (+0)|6 (-2)
 
 **Sens** Perception passive 10  
@@ -22162,7 +22162,7 @@ _Fiélon (démon) de taille P, chaotique mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|9 (-1)|13 (+1)|3 (-4)|8 (-1)|4 (-3)
 
 **Résistances** froid, feu, foudre  
@@ -22189,7 +22189,7 @@ _Humanoïde (humain) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|12 (+1)|23 (+6)|15 (+2)|16 (+3)
 
 **Sauvegardes** For +2, Dex +4, Con +3, Int +13, Sag +9, Cha +5  
@@ -22219,7 +22219,7 @@ _Monstruosité de taille P, sans alignement_
 **Vitesse** 3 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
 
 **Compétences** Discrétion +3  
@@ -22248,7 +22248,7 @@ _Aberration de taille G, chaotique neutre_
 **Vitesse** 3 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)
 
 **Compétences** Discrétion +5  
@@ -22281,7 +22281,7 @@ _Monstruosité de taille G, loyal mauvais_
 **Vitesse** 9 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|16 (+3)|17 (+3)|7 (-2)|12 (+1)|8 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 11  
@@ -22310,7 +22310,7 @@ _Élémentaire de taille G, chaotique neutre_
 **Vitesse** 9 m, nage 27 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|12 (+1)|26 (+8)|18 (+4)|17 (+3)|18 (+4)
 
 **Sauvegardes** Dex +5 Sag +7 Cha +8  
@@ -22344,7 +22344,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|20 (+5)|20 (+5)|18 (+4)|16 (+3)|20 (+5)
 
 **Sauvegardes** For +9, Con +10, Sag +8, Cha +10  
@@ -22380,7 +22380,7 @@ _Artificiel (inévitable) de taille G, typiquement loyal neutre_
 **Vitesse** 12 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|12 (+1)|26 (+8)|19 (+4)|15 (+2)|18 (+4)
 
 **Sauvegardes** Int +12, Sag +10, Cha +12  
@@ -22416,7 +22416,7 @@ _Artificiel (inévitable) de taille G, loyal neutre_
 **Vitesse** 12 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|12 (+1)|26 (+8)|19 (+4)|15 (+2)|18 (+4)
 
 **Sauvegardes** Int +12, Sag +10, Cha +12  
@@ -22452,7 +22452,7 @@ _Monstruosité de taille G, chaotique mauvais_
 **Vitesse** 9 m, creusement 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|13 (+1)|16 (+3)|9 (-1)|10 (+0)|10 (+0)
 
 **Sens** vision dans le noir 36 m, perception des vibrations 18 m, Perception passive 10  
@@ -22480,7 +22480,7 @@ _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|17 (+3)|12 (+1)|11 (+0)|12 (+1)|15 (+2)
 
 **Compétences** Tromperie +5  
@@ -22513,7 +22513,7 @@ _Fiélon (démon) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|17 (+3)|12 (+1)|11 (+0)|12 (+1)|15 (+2)
 
 **Compétences** Tromperie +5  
@@ -22546,7 +22546,7 @@ _Monstruosité de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|15 (+2)|16 (+3)|12 (+1)|13 (+1)|15 (+2)
 
 **Compétences** Discrétion +5, Intuition +4, Perception +4, Tromperie +5  
@@ -22576,7 +22576,7 @@ _Élémentaire de taille P, neutre mauvais_
 **Vitesse** 6 m, nage 6 m, vol 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|12 (+1)|12 (+1)|9 (-1)|11 (+0)|7 (-2)
 
 **Compétences** Discrétion +3  
@@ -22606,7 +22606,7 @@ _Élémentaire de taille P, neutre mauvais_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)
 
 **Compétences** Discrétion +4, Perception +2  
@@ -22636,7 +22636,7 @@ _Élémentaire de taille P, neutre mauvais_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|13 (+1)|10 (+0)|9 (-1)|11 (+0)|12 (+1)
 
 **Compétences** Discrétion +3, Perception +2  
@@ -22669,7 +22669,7 @@ _Élémentaire de taille P, neutre mauvais_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|12 (+1)|12 (+1)|7 (-2)|10 (+0)|10 (+0)
 
 **Compétences** Discrétion +3  
@@ -22702,7 +22702,7 @@ _Élémentaire de taille P, neutre mauvais_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |5 (-3)|14 (+2)|10 (+0)|9 (-1)|11 (+0)|10 (+0)
 
 **Compétences** Discrétion +4, Perception +2  
@@ -22734,7 +22734,7 @@ _Élémentaire de taille P, neutre mauvais_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |5 (-3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)
 
 **Immunités** feu, poison  
@@ -22764,7 +22764,7 @@ _Humanoïde (humain) de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|12 (+1)|10 (+0)|11 (+0)|10 (+0)
 
 **Sens** Perception passive 10  
@@ -22791,7 +22791,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|17 (+3)|6 (-2)|12 (+1)|8 (-1)
 
 **Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -22823,7 +22823,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|17 (+3)|6 (-2)|12 (+1)|8 (-1)
 
 **Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -22855,7 +22855,7 @@ _Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|17 (+3)|10 (+0)|17 (+3)|14 (+2)|11 (+0)
 
 **Sauvegardes** Dex +5, Int +5  
@@ -22889,7 +22889,7 @@ _Fiélon (yugoloth) de taille M, neutre mauvais_
 **Vitesse** 9 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|17 (+3)|10 (+0)|17 (+3)|14 (+2)|11 (+0)
 
 **Sauvegardes** Dex +5, Int +5  
@@ -22924,7 +22924,7 @@ _Monstruosité de taille G, chaotique mauvais_
 **Vitesse** 3 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|15 (+2)|8 (-1)|10 (+0)|9 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -22953,7 +22953,7 @@ _Humanoïde (humain) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|11 (+0)|17 (+3)|13 (+1)|16 (+3)
 
 **Sauvegardes** Int +5, Sag +3  
@@ -22985,7 +22985,7 @@ _Fiélon (yugoloth) de taille M, neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|16 (+3)|7 (-2)|10 (+0)|11 (+0)
 
 **Compétences** Perception +3  
@@ -23021,7 +23021,7 @@ _Mort-vivant de taille G, -_
 **Vitesse** 0 m, vol 18 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|20 (+5)|18 (+4)|15 (+2)|23 (+6)
 
 **Sauvegardes** Dex +7, Con +12, Int +11, Sag +9, Cha +13  
@@ -23047,7 +23047,7 @@ _Bête de taille P, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |5 (-3)|14 (+2)|12 (+1)|1 (-5)|7 (-2)|3 (-4)
 
 **Sens** vision aveugle 9 m, Perception passive 8  
@@ -23072,7 +23072,7 @@ _Monstruosité (métamorphe) de taille M, neutre_
 **Vitesse** 4,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|15 (+2)|5 (-3)|13 (+1)|8 (-1)
 
 **Compétences** Discrétion +5  
@@ -23105,7 +23105,7 @@ _Monstruosité de taille TG, typiquement neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|12 (+1)|17 (+3)|10 (+0)|16 (+3)|10 (+0)
 
 **Sauvegardes** Con +6, Sag +6  
@@ -23129,7 +23129,7 @@ _Monstruosité de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|16 (+3)|6 (-2)|16 (+3)|9 (-1)
 
 **Compétences** Perception +7  
@@ -23159,7 +23159,7 @@ _Plante de taille M, sans alignement_
 **Vitesse** 1,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|1 (-5)|10 (+0)|1 (-5)|3 (-4)|1 (-5)
 
 **Immunités** aveuglé, assourdi, effrayé  
@@ -23187,7 +23187,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|19 (+4)|22 (+6)|21 (+5)|18 (+4)|23 (+6)
 
 **Sauvegardes** Dex +11, Con +13, Sag +11, Cha +13  
@@ -23228,7 +23228,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|19 (+4)|22 (+6)|21 (+5)|18 (+4)|23 (+6)
 
 **Sauvegardes** Dex +11, Con +13, Sag +11, Cha +13  
@@ -23272,7 +23272,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|14 (+2)|12 (+1)|3 (-4)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -23299,7 +23299,7 @@ _Monstruosité de taille M, typiquement neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|5 (-3)|12 (+1)|5 (-3)
 
 **Compétences** Perception +5, Discrétion +6  
@@ -23328,7 +23328,7 @@ _Monstruosité de taille M, typiquement neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|5 (-3)|12 (+1)|5 (-3)
 
 **Compétences** Perception +5, Discrétion +6  
@@ -23358,7 +23358,7 @@ _Monstruosité de taille M, neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|5 (-3)|12 (+1)|5 (-3)
 
 **Compétences** Perception +3, Discrétion +6  
@@ -23388,7 +23388,7 @@ _Fiélon (démon) de taille TG, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|22 (+6)|25 (+7)|21 (+5)|24 (+7)|24 (+7)
 
 **Sauvegardes** For +16, Con +14, Sag +14, Cha +14  
@@ -23426,7 +23426,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|22 (+6)|25 (+7)|21 (+5)|24 (+7)|24 (+7)
 
 **Sauvegardes** For +16, Con +14, Sag +14, Cha +14  
@@ -23465,7 +23465,7 @@ _Mort-vivant de taille M, loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|8 (-1)|15 (+2)|6 (-2)|10 (+0)|12 (+1)
 
 **Sauvegardes** Sag +2  
@@ -23497,7 +23497,7 @@ _Artificiel de taille M, loyal neutre_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|13 (+1)|12 (+1)|4 (-3)|10 (+0)|5 (-3)
 
 **Sens** vision véritable 36 m, Perception passive 10  
@@ -23524,7 +23524,7 @@ _Monstruosité de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|17 (+3)|9 (-1)|14 (+2)|13 (+1)|10 (+0)
 
 **Compétences** Perception +3, Discrétion +5  
@@ -23552,7 +23552,7 @@ _Humanoïde (morbilleux) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|17 (+3)|9 (-1)|14 (+2)|13 (+1)|10 (+0)
 
 **Compétences** Perception +3, Discrétion +5  
@@ -23580,7 +23580,7 @@ _Aberration de taille M, typiquement chaotique mauvais_
 **Vitesse** 7,50 m, nage 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|14 (+2)|20 (+5)|15 (+2)|13 (+1)
 
 **Sauvegardes** Dex +6, Int +9, Sag +6  
@@ -23612,7 +23612,7 @@ _Aberration de taille M, chaotique mauvais_
 **Vitesse** 7,50 m, nage 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|14 (+2)|20 (+5)|15 (+2)|13 (+1)
 
 **Sauvegardes** Dex +6, Int +9, Sag +6  
@@ -23652,7 +23652,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 6 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|9 (-1)|14 (+2)|3 (-4)|11 (+0)|4 (-3)
 
 **Sens** Perception passive 10  
@@ -23677,7 +23677,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 6 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|9 (-1)|16 (+3)|3 (-4)|11 (+0)|4 (-3)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -23704,7 +23704,7 @@ _Monstruosité de taille G, chaotique mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|11 (+0)|16 (+3)|18 (+4)|13 (+1)|18 (+4)
 
 **Sauvegardes** Con +8, Int +9  
@@ -23737,7 +23737,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|10 (+0)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
 
 **Sens** Perception passive 10  
@@ -23764,7 +23764,7 @@ _Plante de taille M, loyal neutre_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|12 (+1)|10 (+0)|13 (+1)|7 (-2)
 
 **Sens** vision dans le noir 36 m, Perception passive 11  
@@ -23792,7 +23792,7 @@ _Plante de taille P, loyal neutre_
 **Vitesse** 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|10 (+0)|10 (+0)|8 (-1)|11 (+0)|5 (-3)
 
 **Sens** vision dans le noir 36 m, Perception passive 10  
@@ -23819,7 +23819,7 @@ _Plante de taille G, loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|10 (+0)|14 (+2)|13 (+1)|15 (+2)|10 (+0)
 
 **Sens** vision dans le noir 36 m, Perception passive 12  
@@ -23850,7 +23850,7 @@ _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|14 (+2)|21 (+5)|14 (+2)|15 (+2)|17 (+3)
 
 **Sauvegardes** For +11, Dex +7  
@@ -23885,7 +23885,7 @@ _Fiélon (démon) de taille M, chaotique mauvais_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|14 (+2)|21 (+5)|14 (+2)|15 (+2)|17 (+3)
 
 **Sauvegardes** For +11, Dex +7  
@@ -23921,7 +23921,7 @@ _Monstruosité de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)
 
 **Sauvegardes** Dex +6, Con +5, Sag +5, Cha +6  
@@ -23957,7 +23957,7 @@ _Monstruosité de taille G, loyal bon_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)
 
 **Sauvegardes** Dex +8, Con +7, Int +7, Sag +8, Cha +8  
@@ -23995,7 +23995,7 @@ _Mort-vivant de taille G, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|12 (+1)|15 (+2)|15 (+2)|16 (+3)
 
 **Immunités** poison  
@@ -24031,7 +24031,7 @@ _Monstruosité (magicien) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|15 (+2)|12 (+1)|23 (+6)|18 (+4)|21 (+5)
 
 **Sauvegardes** Int +12, Sag +10, Cha +11  
@@ -24062,7 +24062,7 @@ _Humanoïde (nagpa) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|15 (+2)|12 (+1)|23 (+6)|18 (+4)|21 (+5)
 
 **Sauvegardes** Int +12, Sag +10, Cha +11  
@@ -24091,7 +24091,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 6 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)
 
 **Sauvegardes** Con +11, Int +9, Sag +6, Cha +7  
@@ -24125,7 +24125,7 @@ _Fiélon (diable) de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|10 (+0)|17 (+3)|16 (+3)|14 (+2)|19 (+4)
 
 **Sauvegardes** Dex +5, Con +8, Cha +9  
@@ -24160,7 +24160,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|10 (+0)|17 (+3)|16 (+3)|14 (+2)|19 (+4)
 
 **Sauvegardes** Dex +5, Con +8, Cha +9  
@@ -24196,7 +24196,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +7, Sag +5  
@@ -24233,7 +24233,7 @@ _Humanoïde (humain) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|13 (+1)|15 (+2)|16 (+3)|11 (+0)|10 (+0)
 
 **Compétences** Arcanes +5, Religion +5  
@@ -24260,7 +24260,7 @@ _Mort-vivant de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)
 
 **Compétences** Discrétion +4, Perception +3  
@@ -24293,7 +24293,7 @@ _Aberration de taille P, typiquement loyal mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|16 (+3)|14 (+2)|13 (+1)|12 (+1)|15 (+2)
 
 **Compétences** Intimidation +4, Perception +3  
@@ -24323,7 +24323,7 @@ _Aberration de taille TP, typiquement loyal mauvais_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|13 (+1)|10 (+0)|6 (-2)|10 (+0)|9 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -24349,7 +24349,7 @@ _Aberration de taille TP, loyal mauvais_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|13 (+1)|10 (+0)|6 (-2)|10 (+0)|9 (-1)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -24375,7 +24375,7 @@ _Aberration de taille P, loyal mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|16 (+3)|14 (+2)|13 (+1)|12 (+1)|15 (+2)
 
 **Compétences** Intimidation +4, Perception +3  
@@ -24405,7 +24405,7 @@ _Aberration (occultiste) de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|16 (+3)|14 (+2)|16 (+3)|12 (+1)|18 (+4)
 
 **Sauvegardes** Sag +3  
@@ -24439,7 +24439,7 @@ _Aberration de taille M, loyal mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|16 (+3)|14 (+2)|16 (+3)|12 (+1)|18 (+4)
 
 **Sauvegardes** Sag +3  
@@ -24473,7 +24473,7 @@ _Aberration de taille Gig, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|7 (-2)|21 (+5)|3 (-4)|16 (+3)|12 (+1)
 
 **Sauvegardes** Int +1, Sag +8, Cha +6  
@@ -24502,7 +24502,7 @@ _Aberration de taille Gig, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|7 (-2)|21 (+5)|3 (-4)|16 (+3)|12 (+1)
 
 **Sauvegardes** Int +1, Sag +8, Cha +6  
@@ -24533,7 +24533,7 @@ _Humanoïde (humain) de taille M, loyal bon_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|15 (+2)|12 (+1)|10 (+0)|14 (+2)|9 (-1)
 
 **Compétences** Acrobaties +4, Athlétisme +3, Perception +4  
@@ -24562,7 +24562,7 @@ _Plante de taille P, neutre mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|13 (+1)|12 (+1)|4 (-3)|8 (-1)|3 (-4)
 
 **Compétences** Discrétion +3  
@@ -24591,7 +24591,7 @@ _Fée (gobelinoïde) de taille P, typiquement chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|15 (+2)
 
 **Compétences** Discrétion +6  
@@ -24621,7 +24621,7 @@ _Humanoïde (gobelinoïde) de taille P, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|15 (+2)
 
 **Compétences** Discrétion +6  
@@ -24653,7 +24653,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)
 
 **Compétences** Intuition +4, Persuasion +5, Tromperie +5  
@@ -24680,7 +24680,7 @@ _Aberration de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|16 (+3)|13 (+1)|10 (+0)|8 (-1)
 
 **Compétences** Arcanes +3, Discrétion +5, Intuition +4, Perception +2  
@@ -24709,7 +24709,7 @@ _Nuée de bêtes TP de taille M, sans alignement_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)
 
 **Résistances** contondant, perforant, tranchant  
@@ -24737,7 +24737,7 @@ _Nuée de bêtes TP de taille M, sans alignement_
 **Vitesse** 0 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |5 (-3)|15 (+2)|10 (+0)|2 (-4)|12 (+1)|4 (-3)
 
 **Résistances** contondant, perforant, tranchant  
@@ -24767,7 +24767,7 @@ _Nuée de bêtes TP de taille M, sans alignement_
 **Vitesse** 3 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|14 (+2)|8 (-1)|3 (-4)|12 (+1)|6 (-2)
 
 **Compétences** Perception +5  
@@ -24796,7 +24796,7 @@ _Nuée d'humanoïdes (gobelinoïde) TP de taille M, loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|14 (+2)|10 (+0)|8 (-1)|10 (+0)|8 (-1)
 
 **Résistances** contondant, perforant, tranchant  
@@ -24823,7 +24823,7 @@ _Nuée de bêtes TP de taille M, sans alignement_
 **Vitesse** 0 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)
 
 **Résistances** contondant, perforant, tranchant  
@@ -24853,7 +24853,7 @@ _Nuée de bêtes TP de taille M, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|11 (+0)|9 (-1)|2 (-4)|10 (+0)|3 (-4)
 
 **Résistances** contondant, perforant, tranchant  
@@ -24882,7 +24882,7 @@ _Nuée de bêtes TP de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|14 (+2)
 
 **Résistances** contondant, perforant, tranchant  
@@ -24912,7 +24912,7 @@ _Nuée de bêtes TP de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|14 (+2)
 
 **Résistances** contondant, perforant, tranchant  
@@ -24944,7 +24944,7 @@ _Nuée de bêtes TP de taille M, sans alignement_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|18 (+4)|11 (+0)|1 (-5)|10 (+0)|3 (-4)
 
 **Résistances** contondant, perforant, tranchant  
@@ -24972,7 +24972,7 @@ _Nuée de bêtes TP de taille M, sans alignement_
 **Vitesse** 5 ft., climb 5 ft.
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|7 (-2)|10 (+0)|1 (-5)|2 (-4)|1 (-5)
 
 **Résistances** perforant, tranchant  
@@ -24999,7 +24999,7 @@ _Nuée de bêtes TP de taille M, sans alignement_
 **Vitesse** 5 ft., climb 5 ft.
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|7 (-2)|10 (+0)|1 (-5)|2 (-4)|1 (-5)
 
 **Résistances** perforant, tranchant  
@@ -25026,7 +25026,7 @@ _Fiélon (diable) de taille M, typiquement loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|13 (+1)|3 (-4)|8 (-1)|1 (-5)
 
 **Compétences** Perception +1  
@@ -25056,7 +25056,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|13 (+1)|3 (-4)|8 (-1)|1 (-5)
 
 **Compétences** Perception +1  
@@ -25086,7 +25086,7 @@ _Fiélon (yugoloth) de taille G, neutre mauvais_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|11 (+0)|19 (+4)|12 (+1)|10 (+0)|15 (+2)
 
 **Compétences** Discrétion +4, Intimidation +6, Perception +4  
@@ -25121,7 +25121,7 @@ _Artificiel de taille G ou plus petite, -_
 **Vitesse** 9 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|16 (+3)|4 (-3)|10 (+0)|6 (-2)
 
 **Immunités** poison, psychique  
@@ -25149,7 +25149,7 @@ _Vase de taille M, typiquement loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|19 (+4)|16 (+3)|19 (+4)|12 (+1)|15 (+2)
 
 **Sauvegardes** Int +7, Cha +5  
@@ -25183,7 +25183,7 @@ _Vase de taille M, loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|19 (+4)|16 (+3)|19 (+4)|12 (+1)|15 (+2)
 
 **Sauvegardes** Int +7, Cha +5  
@@ -25216,7 +25216,7 @@ _Vase de taille TP, typiquement loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|16 (+3)|15 (+2)|14 (+2)|11 (+0)|10 (+0)
 
 **Sauvegardes** Int +4, Cha +2  
@@ -25245,7 +25245,7 @@ _Vase de taille TP, loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|16 (+3)|15 (+2)|14 (+2)|11 (+0)|10 (+0)
 
 **Sauvegardes** Int +4, Cha +2  
@@ -25274,7 +25274,7 @@ _Vase de taille TG, typiquement loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|21 (+5)|22 (+6)|13 (+1)|18 (+4)
 
 **Sauvegardes** Int +10, Cha +8  
@@ -25308,7 +25308,7 @@ _Vase de taille TG, loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|16 (+3)|21 (+5)|22 (+6)|13 (+1)|18 (+4)
 
 **Sauvegardes** Int +10, Cha +8  
@@ -25342,7 +25342,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|16 (+3)|11 (+0)|11 (+0)|12 (+1)|18 (+4)
 
 **Sauvegardes** Sag +3, Cha +6  
@@ -25375,7 +25375,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|13 (+1)|11 (+0)|11 (+0)|12 (+1)|18 (+4)
 
 **Sauvegardes** Sag +3, Cha +6  
@@ -25409,7 +25409,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|16 (+3)|15 (+2)|12 (+1)|12 (+1)|18 (+4)
 
 **Sauvegardes** Sag +4, Cha +7  
@@ -25443,7 +25443,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|15 (+2)|12 (+1)|12 (+1)|18 (+4)
 
 **Sauvegardes** Sag +4, Cha +7  
@@ -25477,7 +25477,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|16 (+3)|15 (+2)|12 (+1)|12 (+1)|18 (+4)
 
 **Sauvegardes** Sag +4, Cha +7  
@@ -25510,7 +25510,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|15 (+2)|12 (+1)|12 (+1)|18 (+4)
 
 **Sauvegardes** Sag +4, Cha +7  
@@ -25544,7 +25544,7 @@ _Géant de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -25570,7 +25570,7 @@ _Géant de taille G, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|12 (+1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -25595,7 +25595,7 @@ _Géant de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|12 (+1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -25620,7 +25620,7 @@ _Géant de taille G, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -25647,7 +25647,7 @@ _Géant de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -25673,7 +25673,7 @@ _Géant de taille G, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -25699,7 +25699,7 @@ _Géant de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -25725,7 +25725,7 @@ _Géant de taille G, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -25750,7 +25750,7 @@ _Géant de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -25775,7 +25775,7 @@ _Élémentaire de taille Gig, neutre mauvais_
 **Vitesse** 15 m, creusement 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|11 (+0)|28 (+9)|11 (+0)|15 (+2)|22 (+6)
 
 **Sauvegardes** For +14, Con +15, Sag +8  
@@ -25801,7 +25801,7 @@ _Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|17 (+3)|18 (+4)|17 (+3)|16 (+3)|19 (+4)
 
 **Sauvegardes** Con +8, Sag +7  
@@ -25836,7 +25836,7 @@ _Fiélon (yugoloth) de taille M, neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|17 (+3)|18 (+4)|17 (+3)|16 (+3)|19 (+4)
 
 **Sauvegardes** Con +8, Sag +7  
@@ -25873,7 +25873,7 @@ _Élémentaire de taille TG, neutre mauvais_
 **Vitesse** 15 m, nage 30 ft.
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|22 (+6)|24 (+7)|17 (+3)|18 (+4)|23 (+6)
 
 **Sauvegardes** For +11, Con +13, Sag +10  
@@ -25899,7 +25899,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|14 (+2)|13 (+1)|6 (-2)|10 (+0)|8 (-1)
 
 **Compétences** Discrétion +4 (ou +6 dans une lumière faible ou dans les ténèbres)  
@@ -25932,7 +25932,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|16 (+3)|14 (+2)|6 (-2)|10 (+0)|8 (-1)
 
 **Compétences** Discrétion +5 (+7 dans une lumière faible ou dans les ténèbres)  
@@ -25965,7 +25965,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|16 (+3)|13 (+1)|6 (-2)|12 (+1)|10 (+0)
 
 **Compétences** Discrétion +5 (+7 dans une lumière faible ou dans les ténèbres)  
@@ -26000,7 +26000,7 @@ _Géant de taille G, loyal mauvais_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)
 
 **Sauvegardes** Dex +3, Con +6, Sag +4, Cha +5  
@@ -26035,7 +26035,7 @@ _Humanoïde de taille P, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|12 (+1)|13 (+1)|11 (+0)|17 (+3)
 
 **Sauvegardes** Dex +4, Cha +5  
@@ -26059,7 +26059,7 @@ _Humanoïde (orc) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|16 (+3)|7 (-2)|11 (+0)|10 (+0)
 
 **Compétences** Intimidation +2  
@@ -26087,7 +26087,7 @@ _Humanoïde (orc) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|12 (+1)|18 (+4)|11 (+0)|11 (+0)|16 (+3)
 
 **Sauvegardes** For +6, Con +6, Sag +2  
@@ -26118,7 +26118,7 @@ _Humanoïde (orc) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|16 (+3)|15 (+2)|9 (-1)|11 (+0)|9 (-1)
 
 **Compétences** Intimidation +1, Perception +2, Discrétion +5  
@@ -26149,7 +26149,7 @@ _Humanoïde (orc) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|11 (+0)
 
 **Compétences** Intimidation +2, Médecine +4, Survie +4  
@@ -26181,7 +26181,7 @@ _Humanoïde (orc) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|11 (+0)|17 (+3)|10 (+0)|12 (+1)|14 (+2)
 
 **Sauvegardes** Sag +3  
@@ -26212,7 +26212,7 @@ _Humanoïde (orc) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|11 (+0)|16 (+3)|11 (+0)|14 (+2)|9 (-1)
 
 **Compétences** Arcanes +2, Intimidation +1, Médecine +4, Religion +2  
@@ -26242,7 +26242,7 @@ _Humanoïde (orc) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|16 (+3)|9 (-1)|13 (+1)|12 (+1)
 
 **Compétences** Intimidation +3, Religion +1  
@@ -26269,7 +26269,7 @@ Fiélon (démon) de taille TG, chaotique mauvais
 **Vitesse** 12 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|14 (+2)|25 (+7)|20 (+5)|20 (+5)|25 (+7)
 
 **Sauvegardes** Dex +10, Con +15, Sag +13  
@@ -26311,7 +26311,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 12 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|14 (+2)|25 (+7)|20 (+5)|20 (+5)|25 (+7)
 
 **Sauvegardes** Dex +10, Con +15, Sag + 13  
@@ -26354,7 +26354,7 @@ _Humanoïde (orc) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|12 (+1)|18 (+4)|12 (+1)|11 (+0)|12 (+1)
 
 **Compétences** Intimidation +5, Survie +2  
@@ -26382,7 +26382,7 @@ _Fiélon (diable) de taille G, typiquement loyal mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|16 (+3)|21 (+5)|15 (+2)|15 (+2)|16 (+3)
 
 **Sauvegardes** Dex +7, Con +9, Sag +6  
@@ -26415,7 +26415,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|16 (+3)|21 (+5)|15 (+2)|15 (+2)|16 (+3)
 
 **Sauvegardes** Dex +7, Con +9, Sag +6  
@@ -26448,7 +26448,7 @@ _Aberration de taille G, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|19 (+4)|6 (-2)|13 (+1)|6 (-2)
 
 **Sauvegardes** Con +7  
@@ -26478,7 +26478,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 12 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|16 (+3)|2 (-4)|13 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -26507,7 +26507,7 @@ _Humanoïde (humain, métamorphe) de taille M, neutre bon_
 **Vitesse** 9 m (12 m, escalade 9 m sous forme hybride et sous forme d'ours)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|17 (+3)|11 (+0)|12 (+1)|12 (+1)
 
 **Compétences** Perception +7  
@@ -26539,7 +26539,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|12 (+1)|17 (+3)|3 (-4)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -26568,7 +26568,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|14 (+2)|2 (-4)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -26597,7 +26597,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 12 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|10 (+0)|16 (+3)|2 (-4)|13 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -26626,7 +26626,7 @@ _Monstruosité de taille M, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|12 (+1)|13 (+1)|2 (-4)|13 (+1)|6 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 11  
@@ -26654,7 +26654,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 15 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|15 (+2)|10 (+0)|3 (-4)|14 (+2)|7 (-2)
 
 **Compétences** Discrétion +6, Perception +4  
@@ -26683,7 +26683,7 @@ _Monstruosité de taille M, sans alignement_
 **Vitesse** 3 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|10 (+0)|10 (+0)|10 (+0)|10 (+0)
 
 **Sens** Perception passive 10  
@@ -26707,7 +26707,7 @@ _Céleste de taille G, chaotique bon_
 **Vitesse** 18 m, vol 27 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)
 
 **Sauvegardes** Dex +4, Sag +4, Cha +3  
@@ -26734,7 +26734,7 @@ _Artificiel de taille G, loyal neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|13 (+1)
 
 **Compétences** Perception +4  
@@ -26763,7 +26763,7 @@ _Monstruosité de taille M, sans alignement_
 **Vitesse** 1,50 m, escalade 1,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|13 (+1)|16 (+3)|1 (-5)|7 (-2)|3 (-4)
 
 **Compétences** Discrétion +5  
@@ -26790,7 +26790,7 @@ _Monstruosité de taille M, chaotique mauvais_
 **Vitesse** 6 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|13 (+1)|9 (-1)|12 (+1)|10 (+0)
 
 **Compétences** Perception +5  
@@ -26821,7 +26821,7 @@ _Artificiel de taille M, typiquement loyal mauvais_
 **Vitesse** 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|5 (-3)|14 (+2)|5 (-3)|8 (-1)|7 (-2)
 
 **Vulnérabilités** contondant  
@@ -26851,7 +26851,7 @@ _Artificiel de taille M, loyal mauvais_
 **Vitesse** 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|5 (-3)|14 (+2)|5 (-3)|8 (-1)|7 (-2)
 
 **Vulnérabilités** contondant  
@@ -26880,7 +26880,7 @@ _Élémentaire de taille Gig, typiquement neutre_
 **Vitesse** 6 m, vol 36 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|26 (+8)|25 (+7)|2 (-4)|21 (+5)|18 (+4)
 
 **Sauvegardes** Sag +10, Cha +9  
@@ -26919,7 +26919,7 @@ _Élémentaire de taille Gig, neutre_
 **Vitesse** 6 m, vol 36 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|26 (+8)|25 (+7)|2 (-4)|21 (+5)|18 (+4)
 
 **Sauvegardes** Sag +10, Cha +9  
@@ -26958,7 +26958,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 6 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|11 (+0)|3 (-4)|12 (+1)|5 (-3)
 
 **Sens** vision dans le noir 18 m, Perception passive 11  
@@ -26984,7 +26984,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|17 (+3)|2 (-4)|13 (+1)|4 (-3)
 
 **Compétences** Discrétion +2  
@@ -27011,7 +27011,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 3 m, escalade 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|17 (+3)|2 (-4)|13 (+1)|4 (-3)
 
 **Compétences** Discrétion +2  
@@ -27038,7 +27038,7 @@ _Bête de taille P, sans alignement_
 **Vitesse** 1,50 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |4 (-3)|15 (+2)|11 (+0)|3 (-4)|10 (+0)|4 (-3)
 
 **Compétences** Discrétion +4, Perception +2  
@@ -27068,7 +27068,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 3 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|13 (+1)|13 (+1)|4 (-3)|10 (+0)|4 (-3)
 
 **Compétences** Discrétion +5, Perception +4  
@@ -27098,7 +27098,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 0 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -27125,7 +27125,7 @@ _Fée de taille TP, neutre bon_
 **Vitesse** 3 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|20 (+5)|8 (-1)|10 (+0)|14 (+2)|15 (+2)
 
 **Compétences** Discrétion +7, Perception +4  
@@ -27154,7 +27154,7 @@ _Céleste de taille G, loyal bon_
 **Vitesse** 12 m, vol 36 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|20 (+5)|24 (+7)|19 (+4)|22 (+6)|25 (+7)
 
 **Sauvegardes** Con +12, Sag +11, Cha +12  
@@ -27192,7 +27192,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 6 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|16 (+3)|2 (-4)|12 (+1)|5 (-3)
 
 **Compétences** Discrétion +4, Perception +3  
@@ -27219,7 +27219,7 @@ _Humanoïde (humain) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|13 (+1)|10 (+0)|12 (+1)|11 (+0)
 
 **Immunités** effrayé  
@@ -27247,7 +27247,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|13 (+1)|2 (-4)|11 (+0)|7 (-2)
 
 **Sens** Perception passive 10  
@@ -27272,7 +27272,7 @@ _Vase de taille G, sans alignement_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|5 (-3)|16 (+3)|1 (-5)|6 (-2)|1 (-5)
 
 **Immunités** acide, froid, foudre, tranchant  
@@ -27303,7 +27303,7 @@ _Artificiel de taille G, typiquement loyal neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|17 (+3)|22 (+6)|4 (-3)|14 (+2)|6 (-2)
 
 **Compétences** Perception +7, Discrétion +8, Survie +7  
@@ -27337,7 +27337,7 @@ _Artificiel de taille G, loyal mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|17 (+3)|22 (+6)|4 (-3)|14 (+2)|6 (-2)
 
 **Compétences** Perception +7, Discrétion +8, Survie +7  
@@ -27371,7 +27371,7 @@ _Fée de taille TP, typiquement chaotique mauvais_
 **Vitesse** 36 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |4 (-3)|23 (+6)|13 (+1)|10 (+0)|12 (+1)|7 (-2)
 
 **Compétences** Acrobaties +8, Escamotage +8, Discrétion +8, Perception +5  
@@ -27399,7 +27399,7 @@ _Fée de taille TP, chaotique mauvais_
 **Vitesse** 36 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |4 (-3)|23 (+6)|13 (+1)|10 (+0)|12 (+1)|7 (-2)
 
 **Compétences** Acrobaties +8, Escamotage +8, Discrétion +8, Perception +5  
@@ -27427,7 +27427,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)
 
 **Compétences** Médecine +7, Persuasion +3, Religion +5  
@@ -27459,7 +27459,7 @@ _Humanoïde (clerc) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|10 (+0)|14 (+2)|11 (+0)|17 (+3)|13 (+1)
 
 **Sauvegardes** Con +6, Sag +7  
@@ -27491,7 +27491,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|10 (+0)|14 (+2)|11 (+0)|17 (+3)|13 (+1)
 
 **Sauvegardes** Con +6, Sag +7  
@@ -27526,7 +27526,7 @@ _Monstruosité de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|10 (+0)|16 (+3)|10 (+0)|15 (+2)|14 (+2)
 
 **Compétences** Perception +5  
@@ -27559,7 +27559,7 @@ _Humanoïde (toute race) de taille M, tout alignement mauvais_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|10 (+0)|16 (+3)|10 (+0)|15 (+2)|14 (+2)
 
 **Compétences** Perception +5  
@@ -27591,7 +27591,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|10 (+0)|16 (+3)|14 (+2)|17 (+3)|10 (+0)
 
 **Sauvegardes** Con +6, Sag +6  
@@ -27615,7 +27615,7 @@ _Dragon de taille TP, neutre bon_
 **Vitesse** 4,50 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)
 
 **Compétences** Discrétion +4, Perception +3  
@@ -27645,7 +27645,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 3 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|15 (+2)|10 (+0)|2 (-4)|9 (-1)|5 (-3)
 
 **Compétences** Perception +1  
@@ -27672,7 +27672,7 @@ _Artificiel de taille M, loyal neutre_
 **Vitesse** 9 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)
 
 **Compétences** Perception +2  
@@ -27701,7 +27701,7 @@ _Humanoïde (quaggoth) de taille M, chaotique neutre_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|16 (+3)|6 (-2)|12 (+1)|7 (-2)
 
 **Compétences** Athlétisme +5  
@@ -27730,7 +27730,7 @@ _Plante de taille M, sans alignement_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|16 (+3)|2 (-4)|6 (-2)|1 (-5)
 
 **Immunités** poison  
@@ -27757,7 +27757,7 @@ _Fiélon (démon, métamorphe) de taille TP, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |5 (-3)|17 (+3)|10 (+0)|7 (-2)|10 (+0)|10 (+0)
 
 **Compétences** Discrétion +5  
@@ -27790,7 +27790,7 @@ _Bête (dinosaure) de taille TG, sans alignement_
 **Vitesse** 3 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|13 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
 
 **Compétences** Perception +2  
@@ -27816,7 +27816,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 3 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|13 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
 
 **Compétences** Perception +2  
@@ -27843,7 +27843,7 @@ _Plante de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|11 (+0)|17 (+3)|12 (+1)|14 (+2)|14 (+2)
 
 **Sauvegardes** Con +6, Sag +5  
@@ -27876,7 +27876,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 0 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|12 (+1)|12 (+1)|1 (-5)|12 (+1)|4 (-3)
 
 **Sens** vision dans le noir 18 m, Perception passive 11  
@@ -27903,7 +27903,7 @@ _Fiélon de taille M, loyal mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|20 (+5)
 
 **Compétences** Intuition +8, Tromperie +10  
@@ -27937,7 +27937,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|11 (+0)|9 (-1)|2 (-4)|10 (+0)|4 (-3)
 
 **Sens** vision dans le noir 9 m, Perception passive 10  
@@ -27963,7 +27963,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|14 (+2)|10 (+0)|4 (-3)|11 (+0)|8 (-1)
 
 **Sens** vision dans le noir 9 m, Perception passive 10  
@@ -27989,7 +27989,7 @@ _Bête de taille TP, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|14 (+2)|10 (+0)|4 (-3)|11 (+0)|8 (-1)
 
 **Sens** vision dans le noir 9 m, Perception passive 10  
@@ -28015,7 +28015,7 @@ _Humanoïde (humain, métamorphe) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|8 (-1)
 
 **Compétences** Discrétion +4, Perception +2  
@@ -28047,7 +28047,7 @@ _Bête de taille P, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|15 (+2)|11 (+0)|2 (-4)|10 (+0)|4 (-3)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -28074,7 +28074,7 @@ _Mort-vivant de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|18 (+4)|5 (-3)|7 (-2)|3 (-4)
 
 **Sauvegardes** Sag +1  
@@ -28106,7 +28106,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|11 (+0)|18 (+4)|5 (-3)|7 (-2)|3 (-4)
 
 **Sauvegardes** Sag +1  
@@ -28137,7 +28137,7 @@ _Monstruosité de taille M, typiquement neutre mauvais_
 **Vitesse** 6 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|8 (-1)|15 (+2)|6 (-2)|10 (+0)|8 (-1)
 
 **Sens** vision dans le noir 36 m, Perception passive 10  
@@ -28164,7 +28164,7 @@ _Humanoïde de taille M, neutre mauvais_
 **Vitesse** 6 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|8 (-1)|15 (+2)|6 (-2)|10 (+0)|8 (-1)
 
 **Sens** vision dans le noir 36 m, Perception passive 10  
@@ -28194,7 +28194,7 @@ _Aberration de taille G, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|8 (-1)|21 (+5)|7 (-2)|12 (+1)|9 (-1)
 
 **Sauvegardes** Dex +3, Sag +5  
@@ -28225,7 +28225,7 @@ _Aberration de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|8 (-1)|21 (+5)|7 (-2)|12 (+1)|9 (-1)
 
 **Sauvegardes** Dex +3, Sag +5  
@@ -28256,7 +28256,7 @@ _Aberration de taille P, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|13 (+1)|10 (+0)|9 (-1)|11 (+0)|6 (-2)
 
 **Immunités** psychique  
@@ -28282,7 +28282,7 @@ _Aberration de taille P, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|13 (+1)|10 (+0)|9 (-1)|11 (+0)|6 (-2)
 
 **Immunités** psychique  
@@ -28308,7 +28308,7 @@ _Aberration de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|23 (+6)|18 (+4)|12 (+1)|16 (+3)
 
 **Sauvegardes** Dex +6, Sag +6, Cha +8  
@@ -28346,7 +28346,7 @@ _Aberration de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|23 (+6)|18 (+4)|12 (+1)|16 (+3)
 
 **Sauvegardes** Dex +6, Sag +6, Cha +8  
@@ -28382,7 +28382,7 @@ _Aberration de taille M, typiquement chaotique mauvais_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|18 (+4)|12 (+1)|11 (+0)|12 (+1)|7 (-2)
 
 **Sauvegardes** Dex +7, Con +4  
@@ -28415,7 +28415,7 @@ _Aberration de taille M, chaotique mauvais_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|18 (+4)|12 (+1)|11 (+0)|12 (+1)|7 (-2)
 
 **Sauvegardes** Dex +7, Con +4  
@@ -28448,7 +28448,7 @@ _Aberration de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|12 (+1)|18 (+4)|22 (+6)|19 (+4)|16 (+3)
 
 **Sauvegardes** Dex +6, Int +11, Sag +9, Cha +8  
@@ -28482,7 +28482,7 @@ _Aberration de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|12 (+1)|18 (+4)|22 (+6)|19 (+4)|16 (+3)
 
 **Sauvegardes** Dex +6, Int +11, Sag +9, Cha +8  
@@ -28516,7 +28516,7 @@ _Monstruosité de taille TG, sans alignement_
 **Vitesse** 9 m, creusement 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|13 (+1)|21 (+5)|4 (-3)|10 (+0)|5 (-3)
 
 **Immunités** feu, froid  
@@ -28544,7 +28544,7 @@ _Monstruosité de taille G, sans alignement_
 **Vitesse** 9 m, creusement 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|17 (+3)|3 (-4)|10 (+0)|4 (-3)
 
 **Immunités** froid, feu  
@@ -28570,7 +28570,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 9 m, creusement 1,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|16 (+3)|11 (+0)|3 (-4)|12 (+1)|6 (-2)
 
 **Compétences** Perception +3, Discrétion +5  
@@ -28596,7 +28596,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 0 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|15 (+2)|1 (-5)|10 (+0)|4 (-3)
 
 **Compétences** Perception +2  
@@ -28624,7 +28624,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 0 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|13 (+1)|13 (+1)|1 (-5)|10 (+0)|4 (-3)
 
 **Compétences** Perception +2  
@@ -28652,7 +28652,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 0 m, nage 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|11 (+0)|21 (+5)|1 (-5)|10 (+0)|5 (-3)
 
 **Compétences** Perception +3  
@@ -28680,7 +28680,7 @@ _Plante de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|12 (+1)|13 (+1)|4 (-3)|8 (-1)|3 (-4)
 
 **Immunités** aveuglé, assourdi  
@@ -28706,7 +28706,7 @@ _Mort-vivant de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|18 (+4)|13 (+1)|16 (+3)|18 (+4)
 
 **Sauvegardes** For +7, Con +7, Sag +6, Cha +7  
@@ -28740,7 +28740,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|8 (-1)|15 (+2)|2 (-4)|12 (+1)|6 (-2)
 
 **Sens** Perception passive 11  
@@ -28766,7 +28766,7 @@ _Monstruosité de taille Gig, sans alignement_
 **Vitesse** 6 m, vol 36 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|10 (+0)|20 (+5)|3 (-4)|10 (+0)|9 (-1)
 
 **Sauvegardes** Dex +4, Con +9, Sag +4, Cha +3  
@@ -28796,7 +28796,7 @@ _Humanoïde (homme-lézard) de taille M, chaotique mauvais_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|12 (+1)|15 (+2)|11 (+0)|11 (+0)|15 (+2)
 
 **Sauvegardes** Con +4, Sag +2  
@@ -28828,7 +28828,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
 
 **Sens** vision dans le noir 9 m, Perception passive 10  
@@ -28853,7 +28853,7 @@ _Bête (bétail) de taille M, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -28879,7 +28879,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
 
 **Sens** vision dans le noir 18 m, Perception passive 10  
@@ -28905,7 +28905,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)
 
 **Sens** Perception passive 10  
@@ -28930,7 +28930,7 @@ _Humanoïde (humain) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)
 
 **Compétences** Persuasion +4, Religion +2, Tromperie +4  
@@ -28962,7 +28962,7 @@ _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|15 (+2)|17 (+3)|5 (-3)|12 (+1)|6 (-2)
 
 **Résistances** froid, feu, foudre  
@@ -28990,7 +28990,7 @@ _Fiélon (démon) de taille M, chaotique mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|15 (+2)|17 (+3)|5 (-3)|12 (+1)|6 (-2)
 
 **Résistances** froid, feu, foudre  
@@ -29018,7 +29018,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|10 (+0)|10 (+0)|18 (+4)|15 (+2)|11 (+0)
 
 **Compétences** Arcanes +8, Histoire +8, Intuition +4, Investigation +8, Médecine +6, Nature +8, Religion +8  
@@ -29048,7 +29048,7 @@ _Humanoïde (toute race) de taille M, -_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|10 (+0)|10 (+0)|20 (+5)|18 (+4)|11 (+0)
 
 **Compétences** Arcanes +11, Histoire +11, Intuition +7, Investigation +11, Médecine +10, Nature +11, Religion +11  
@@ -29079,7 +29079,7 @@ _Humanoïde (sahuagin) de taille M, loyal mauvais_
 **Vitesse** 9 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|11 (+0)|12 (+1)|12 (+1)|13 (+1)|9 (-1)
 
 **Compétences** Perception +5  
@@ -29111,7 +29111,7 @@ _Humanoïde (sahuagin) de taille G, loyal mauvais_
 **Vitesse** 9 m, nage 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|15 (+2)|16 (+3)|14 (+2)|13 (+1)|17 (+3)
 
 **Sauvegardes** Dex +5, Con +6, Int +5, Sag +4  
@@ -29143,7 +29143,7 @@ _Humanoïde (sahuagin) de taille M, loyal mauvais_
 **Vitesse** 9 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|11 (+0)|12 (+1)|12 (+1)|14 (+2)|13 (+1)
 
 **Compétences** Perception +6, Religion +3  
@@ -29178,7 +29178,7 @@ _Élémentaire de taille G, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|15 (+2)|11 (+0)|10 (+0)|12 (+1)
 
 **Vulnérabilités** froid  
@@ -29210,7 +29210,7 @@ _Élémentaire de taille TG, sans alignement_
 **Vitesse** 18 m, creusement 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|12 (+1)|18 (+4)|7 (-2)|11 (+0)|7 (-2)
 
 **Sauvegardes** Con +8, Sag +4  
@@ -29242,7 +29242,7 @@ _Élémentaire de taille TG, sans alignement_
 **Vitesse** 18 m, creusement 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|12 (+1)|18 (+4)|7 (-2)|11 (+0)|7 (-2)
 
 **Sauvegardes** Con +8, Sag +4  
@@ -29274,7 +29274,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|11 (+0)|12 (+1)|2 (-4)|9 (-1)|5 (-3)
 
 **Sens** Perception passive 9  
@@ -29301,7 +29301,7 @@ _Humanoïde (humain, métamorphe) de taille M, neutre mauvais_
 **Vitesse** 9 m (12 m sous forme de sanglier)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|15 (+2)|10 (+0)|11 (+0)|8 (-1)
 
 **Compétences** Perception +2  
@@ -29333,7 +29333,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|16 (+3)|2 (-4)|7 (-2)|5 (-3)
 
 **Sens** Perception passive 8  
@@ -29360,7 +29360,7 @@ _Humanoïde (humain) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|14 (+2)
 
 **Sauvegardes** Int +5, Sag +3  
@@ -29390,7 +29390,7 @@ _Fée de taille M, chaotique neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)
 
 **Compétences** Discrétion +5, Perception +2, Représentation +6  
@@ -29419,7 +29419,7 @@ _Bête de taille P, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|10 (+0)|12 (+1)|1 (-5)|7 (-2)|3 (-4)
 
 **Sens** vision aveugle 9 m, Perception passive 8  
@@ -29445,7 +29445,7 @@ _Monstruosité de taille TP, sans alignement_
 **Vitesse** 6 m, creusement 6 m, vol 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |4 (-3)|16 (+3)|11 (+0)|3 (-4)|8 (-1)|6 (-2)
 
 **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 9  
@@ -29466,7 +29466,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|11 (+0)|8 (-1)|1 (-5)|8 (-1)|2 (-4)
 
 **Sens** vision aveugle 3 m, Perception passive 9  
@@ -29491,7 +29491,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|13 (+1)|15 (+2)|1 (-5)|9 (-1)|3 (-4)
 
 **Sens** vision aveugle 18 m, Perception passive 9  
@@ -29518,7 +29518,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|16 (+3)|18 (+4)|12 (+1)|12 (+1)|18 (+4)
 
 **Sauvegardes** For +9, Dex +7, Con +8  
@@ -29551,7 +29551,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|16 (+3)|18 (+4)|12 (+1)|12 (+1)|18 (+4)
 
 **Sauvegardes** For +9, Dex +7, Con +8  
@@ -29584,7 +29584,7 @@ _Mort-vivant (ensorceleur) de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|21 (+5)
 
 **Compétences** Athlétisme +7, Histoire +8, Perception +12, Discrétion +8  
@@ -29622,7 +29622,7 @@ _Mort-vivant de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|21 (+5)
 
 **Compétences** Athlétisme +7, Histoire +8, Perception +12, Discrétion +8  
@@ -29659,7 +29659,7 @@ _Mort-vivant de taille M, loyal mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|10 (+0)|17 (+3)|11 (+0)|18 (+4)|16 (+3)
 
 **Sauvegardes** Con +8, Int +5, Sag +9, Cha +8  
@@ -29706,7 +29706,7 @@ _Mort-vivant de taille M (paladin), loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|11 (+0)|20 (+5)|12 (+1)|16 (+3)|20 (+5)
 
 **Sauvegardes** Dex +6, Sag +9, Cha +11  
@@ -29744,7 +29744,7 @@ _Humanoïde (humain, métamorphe) de taille M, chaotique neutre_
 **Vitesse** 9 m (3 m, nage 9 m sous forme hybride ; 3 m, nage 12 m sous forme de phoque)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|16 (+3)|12 (+1)|11 (+0)|10 (+0)|18 (+4)
 
 **Compétences** Acrobaties +4, Nature +2  
@@ -29776,7 +29776,7 @@ _Élémentaire de taille G, neutre_
 **Vitesse** 0 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|16 (+3)|13 (+1)|11 (+0)|10 (+0)|10 (+0)
 
 **Résistances** feu ; contondant, perforant et tranchant d'attaques non magiques  
@@ -29805,7 +29805,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|3 (-4)
 
 **Sens** vision aveugle 3 m, Perception passive 10  
@@ -29831,7 +29831,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|3 (-4)
 
 **Compétences** Perception +2  
@@ -29858,7 +29858,7 @@ _Élémentaire de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|14 (+2)|11 (+0)|7 (-2)|10 (+0)|8 (-1)
 
 **Vulnérabilités** froid  
@@ -29888,7 +29888,7 @@ _Dragon de taille Gig, typiquement neutre_
 **Vitesse** 6 m, nage 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|15 (+2)|20 (+5)|13 (+1)|16 (+3)|12 (+1)
 
 **Sauvegardes** For +12, Con +10  
@@ -29912,7 +29912,7 @@ _Dragon de taille TG, typiquement neutre_
 **Vitesse** 3 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|12 (+1)|17 (+3)|11 (+0)|13 (+1)|10 (+0)
 
 **Sauvegardes** For +7, Con +6  
@@ -29936,7 +29936,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2 (-4)|16 (+3)|11 (+0)|1 (-5)|10 (+0)|3 (-4)
 
 **Sens** vision aveugle 3 m, Perception passive 10  
@@ -29961,7 +29961,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|18 (+4)|13 (+1)|2 (-4)|10 (+0)|3 (-4)
 
 **Compétences** Perception +2  
@@ -29987,7 +29987,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 9 m, nage 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |4 (-3)|18 (+4)|11 (+0)|2 (-4)|12 (+1)|5 (-3)
 
 **Sens** vision aveugle 3 m, Perception passive 11  
@@ -30013,7 +30013,7 @@ _Artificiel de taille TG, -_
 **Vitesse** 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|14 (+2)|20 (+5)|1 (-5)|14 (+2)|10 (+0)
 
 **Sauvegardes** Sag +9, Cha +7  
@@ -30048,7 +30048,7 @@ _Artificiel de taille TP, -_
 **Vitesse** 6 m, vol 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |4 (-3)|15 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)
 
 **Sauvegardes** Dex +2 plus BM  
@@ -30078,7 +30078,7 @@ _Artificiel de taille TP, sans alignement_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |4 (-3)|16 (+3)|10 (+0)|2 (-4)|10 (+0)|1 (-5)
 
 **Immunités** poison, psychique  
@@ -30104,7 +30104,7 @@ _Humanoïde (elfe) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|17 (+3)|14 (+2)|19 (+4)|15 (+2)|13 (+1)
 
 **Sauvegardes** Dex +7, Sag +7, Cha +5  
@@ -30139,7 +30139,7 @@ _Humanoïde (elfe) de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|17 (+3)|14 (+2)|19 (+4)|15 (+2)|13 (+1)
 
 **Sauvegardes** Dex +7, Sag +7, Cha +5  
@@ -30174,7 +30174,7 @@ _Humanoïde (elfe) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|13 (+1)|11 (+0)|12 (+1)|12 (+1)
 
 **Sauvegardes** Dex +6, Cha +4  
@@ -30205,7 +30205,7 @@ _Humanoïde (elfe) de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|16 (+3)|13 (+1)|11 (+0)|12 (+1)|12 (+1)
 
 **Sauvegardes** Dex +6, Cha +4  
@@ -30236,7 +30236,7 @@ _Humanoïde (elfe) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|18 (+4)|14 (+2)|15 (+2)|12 (+1)|18 (+4)
 
 **Sauvegardes** Dex +8, Con +6  
@@ -30268,7 +30268,7 @@ _Humanoïde (elfe) de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|18 (+4)|14 (+2)|15 (+2)|12 (+1)|18 (+4)
 
 **Sauvegardes** Dex +8, Con +6  
@@ -30301,7 +30301,7 @@ _Fiélon (démon) de taille G, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|17 (+3)|7 (-2)|14 (+2)|9 (-1)
 
 **Sauvegardes** Dex +4, Con +6, Sag +5  
@@ -30332,7 +30332,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|17 (+3)|7 (-2)|14 (+2)|9 (-1)
 
 **Sauvegardes** Dex +4, Con +6, Sag +5  
@@ -30363,7 +30363,7 @@ _Fiélon (démon) de taille TG, typiquement chaotique mauvais_
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|3 (-4)|23 (+6)|25 (+7)|24 (+7)|25 (+7)
 
 **Sauvegardes** Int +13, Cha +13  
@@ -30402,7 +30402,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|3 (-4)|23 (+6)|25 (+7)|24 (+7)|25 (+7)
 
 **Sauvegardes** Int +13, Cha +13  
@@ -30444,7 +30444,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|14 (+2)|18 (+4)|7 (-2)|12 (+1)|7 (-2)
 
 **Compétences** Athlétisme +9, Perception +4  
@@ -30472,7 +30472,7 @@ _Aberration de taille G, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|15 (+2)|18 (+4)|7 (-2)|7 (-2)|9 (-1)
 
 **Compétences** Perception +1  
@@ -30502,7 +30502,7 @@ _Aberration (métamorphe) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|15 (+2)|19 (+4)|15 (+2)|10 (+0)|16 (+3)
 
 **Compétences** Arcanes + 6, Perception +8  
@@ -30539,7 +30539,7 @@ _Aberration (métamorphe) de taille M, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|17 (+3)|16 (+3)|13 (+1)|8 (-1)|14 (+2)
 
 **Compétences** Arcanes + 5, Perception +7  
@@ -30576,7 +30576,7 @@ _Aberration de taille G, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|16 (+3)|6 (-2)|6 (-2)|7 (-2)
 
 **Compétences** Perception +1  
@@ -30606,7 +30606,7 @@ _Aberration de taille TP, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|15 (+2)|10 (+0)|3 (-4)|5 (-3)|3 (-4)
 
 **Compétences** Discrétion +4  
@@ -30633,7 +30633,7 @@ _Aberration (métamorphe) de taille G, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|15 (+2)|16 (+3)|11 (+0)|8 (-1)|12 (+1)
 
 **Compétences** Arcanes + 3, Perception +2  
@@ -30670,7 +30670,7 @@ _Céleste de taille G, loyal bon_
 **Vitesse** 15 m, vol 45 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |26 (+8)|22 (+6)|26 (+8)|25 (+7)|25 (+7)|30 (+10)
 
 **Sauvegardes** Int +14, Sag +14, Cha +17  
@@ -30714,7 +30714,7 @@ _Fée de taille P, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|16 (+3)|12 (+1)|10 (+0)|12 (+1)|10 (+0)
 
 **Compétences** Acrobaties +5, Tromperie +2, Perception +5, Discrétion +7  
@@ -30741,7 +30741,7 @@ _Fée de taille M, typiquement chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|17 (+3)|12 (+1)|10 (+0)|14 (+2)|13 (+1)
 
 **Compétences** Acrobaties +5, Tromperie +3, Perception +6, Discrétion +7  
@@ -30769,7 +30769,7 @@ _Fée de taille M, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|17 (+3)|12 (+1)|10 (+0)|14 (+2)|13 (+1)
 
 **Compétences** Acrobaties +5, Tromperie +3, Perception +6, Discrétion +7  
@@ -30797,7 +30797,7 @@ _Fée de taille P, chaotique neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|16 (+3)|12 (+1)|10 (+0)|12 (+1)|10 (+0)
 
 **Compétences** Acrobaties +5, Tromperie +2, Perception +5, Discrétion +7  
@@ -30824,7 +30824,7 @@ _Mort-vivant (occultiste) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|15 (+2)|10 (+0)|14 (+2)|12 (+1)|16 (+3)
 
 **Sauvegardes** Int +4, Cha +5  
@@ -30858,7 +30858,7 @@ _Mort-vivant (occultiste) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|16 (+3)|12 (+1)|15 (+2)|12 (+1)|17 (+3)
 
 **Sauvegardes** Int +5, Cha +6  
@@ -30893,7 +30893,7 @@ _Mort-vivant de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|16 (+3)|12 (+1)|15 (+2)|12 (+1)|17 (+3)
 
 **Sauvegardes** Int +5, Cha +6  
@@ -30926,7 +30926,7 @@ _Mort-vivant de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|15 (+2)|10 (+0)|14 (+2)|12 (+1)|16 (+3)
 
 **Sauvegardes** Int +4, Cha +5  
@@ -30958,7 +30958,7 @@ _Mort-vivant (occultiste) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|14 (+2)|16 (+3)|12 (+1)|14 (+2)|16 (+3)
 
 **Sauvegardes** Sag +4  
@@ -30992,7 +30992,7 @@ _Mort-vivant de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|14 (+2)|16 (+3)|12 (+1)|14 (+2)|16 (+3)
 
 **Sauvegardes** Sag +4  
@@ -31025,7 +31025,7 @@ _Élementaire de taille G, typiquement neutre mauvais_
 **Vitesse** 9 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|11 (+0)|18 (+4)|6 (-2)|10 (+0)|5 (-3)
 
 **Résistances** dégâts du type correspondant à la forme du souffle animé (acide, froid, feu, foudre ou poison)  
@@ -31048,7 +31048,7 @@ _Aberration de taille M, loyal neutre_
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|14 (+2)|14 (+2)|13 (+1)|14 (+2)|11 (+0)
 
 **Compétences** Perception +6  
@@ -31081,7 +31081,7 @@ _Mort-vivant de taille M, chaotique mauvais_
 **Vitesse** 0 m, vol 15 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|11 (+0)
 
 **Résistances** acide, froid, feu, foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -31111,7 +31111,7 @@ _Plante de taille G, sans alignement_
 **Vitesse** 0 m, vol 3 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |5 (-3)|1 (-5)|3 (-4)|1 (-5)|1 (-5)|1 (-5)
 
 **Immunités** poison  
@@ -31139,7 +31139,7 @@ _Mort-vivant de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|15 (+2)|6 (-2)|8 (-1)|5 (-3)
 
 **Vulnérabilités** contondant  
@@ -31168,7 +31168,7 @@ _Mort-vivant de taille G, loyal mauvais_
 **Vitesse** 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|12 (+1)|15 (+2)|2 (-4)|8 (-1)|5 (-3)
 
 **Vulnérabilités** contondant  
@@ -31196,7 +31196,7 @@ _Mort-vivant de taille G, loyal mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|11 (+0)|15 (+2)|6 (-2)|8 (-1)|5 (-3)
 
 **Vulnérabilités** contondant  
@@ -31226,7 +31226,7 @@ _Mort-vivant (métamorphe) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|18 (+4)|18 (+4)|20 (+5)|15 (+2)|18 (+4)
 
 **Sauvegardes** Dex +9, Sag +7, Cha +9  
@@ -31267,7 +31267,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 3 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |4 (-3)|16 (+3)|11 (+0)|2 (-4)|8 (-1)|6 (-2)
 
 **Sens** vision dans le noir 18 m, Perception passive 9  
@@ -31292,7 +31292,7 @@ _Fiélon (métamorphe) de taille M, neutre mauvais_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)
 
 **Compétences** Discrétion +7, Intuition +5, Perception +5, Persuasion +9, Tromperie +9  
@@ -31324,7 +31324,7 @@ _Plante de taille TG, chaotique bon_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)
 
 **Résistances** contondant, perforant  
@@ -31356,7 +31356,7 @@ _Humanoïde (tabaxi) de taille M, chaotique bon_
 **Vitesse** 9 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|17 (+3)|11 (+0)|13 (+1)|14 (+2)|15 (+2)
 
 **Compétences** Athlétisme +2, Discrétion +5, Perception +4, Survie +6  
@@ -31385,7 +31385,7 @@ _Humanoïde (tabaxi) de taille M, chaotique bon_
 **Vitesse** 9 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|15 (+2)|11 (+0)|14 (+2)|12 (+1)|16 (+3)
 
 **Compétences** Discrétion +4, Perception +3, Représentation +7, Persuasion +5  
@@ -31414,7 +31414,7 @@ _Fiélon (démon) de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|20 (+5)|9 (-1)|9 (-1)|9 (-1)
 
 **Compétences** Intimidation +2, Perception +2  
@@ -31445,7 +31445,7 @@ _Fiélon (démon, orc) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|20 (+5)|9 (-1)|9 (-1)|9 (-1)
 
 **Compétences** Intimidation +2, Perception +2  
@@ -31476,7 +31476,7 @@ _Artificiel de taille G, sans alignement_
 **Vitesse** 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|14 (+2)|10 (+0)|1 (-5)|3 (-4)|1 (-5)
 
 **Immunités** poison, psychique  
@@ -31506,7 +31506,7 @@ _Monstruosité (titan) de taille Gig, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|11 (+0)|30 (+10)|3 (-4)|11 (+0)|11 (+0)
 
 **Sauvegardes** Int +5, Sag +9, Cha +9  
@@ -31547,7 +31547,7 @@ _Aberration de taille G, typiquement loyal neutre_
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|14 (+2)|15 (+2)|15 (+2)|10 (+0)
 
 **Sauvegardes** Int +5, Sag +5  
@@ -31578,7 +31578,7 @@ _Aberration de taille G, loyal mauvais_
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|14 (+2)|15 (+2)|15 (+2)|10 (+0)
 
 **Sauvegardes** Int +5, Sag +5  
@@ -31615,7 +31615,7 @@ _Plante de taille TG, sans alignement_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|8 (-1)|20 (+5)|5 (-3)|8 (-1)|5 (-3)
 
 **Compétences** Discrétion +2  
@@ -31646,7 +31646,7 @@ _Mort-vivant de taille TG, typiquement chaotique mauvais_
 **Vitesse** 12 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|19 (+4)|24 (+7)|6 (-2)|9 (-1)|8 (-1)
 
 **Sauvegardes** Con +13  
@@ -31679,7 +31679,7 @@ _Mort-vivant de taille TG, chaotique mauvais_
 **Vitesse** 12 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|19 (+4)|24 (+7)|6 (-2)|9 (-1)|8 (-1)
 
 **Sauvegardes** Con +13  
@@ -31711,7 +31711,7 @@ _Humanoïde (demi-elfe) de taille M, neutre bon_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|14 (+2)|11 (+0)|10 (+0)|14 (+2)|12 (+1)
 
 **Compétences** Discrétion +6, Nature +4, Perception +6, Survie +6  
@@ -31740,7 +31740,7 @@ _Plante de taille G, sans alignement_
 **Vitesse** 6 m, nage 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|8 (-1)|16 (+3)|5 (-3)|10 (+0)|5 (-3)
 
 **Compétences** Discrétion +2  
@@ -31772,7 +31772,7 @@ _Humanoïde (thri-kreen) de taille M, chaotique neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|15 (+2)|13 (+1)|8 (-1)|12 (+1)|7 (-2)
 
 **Compétences** Discrétion +4, Perception +3, Survie +3  
@@ -31801,7 +31801,7 @@ _Fiélon de taille Gig, chaotique mauvais_
 **Vitesse** 18 m, vol 36 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|10 (+0)|30 (+10)|26 (+8)|26 (+8)|28 (+9)
 
 **Sauvegardes** For +19, Dex +9, Sag +17  
@@ -31826,7 +31826,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|14 (+2)|3 (-4)|12 (+1)|8 (-1)
 
 **Compétences** Discrétion +6, Perception +3  
@@ -31855,7 +31855,7 @@ _Bête de taille G, sans alignement_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|15 (+2)|3 (-4)|12 (+1)|8 (-1)
 
 **Compétences** Discrétion +6, Perception +3  
@@ -31884,7 +31884,7 @@ _Humanoïde (humain, métamorphe) de taille M, neutre_
 **Vitesse** 9 m (12 m sous forme de tigre)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|11 (+0)
 
 **Compétences** Discrétion +4, Perception +5  
@@ -31918,7 +31918,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|22 (+6)|17 (+3)|24 (+7)|22 (+6)|26 (+8)
 
 **Sauvegardes** Dex +11, Con +8, Sag +11, Cha +13  
@@ -31959,7 +31959,7 @@ _Fiélon (diable) de taille M, loyal mauvais_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|22 (+6)|17 (+3)|24 (+7)|22 (+6)|26 (+8)
 
 **Sauvegardes** Dex +11, Con +8, Sag +11, Cha +13  
@@ -32001,7 +32001,7 @@ _Monstruosité de taille G, typiquement neutre_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|13 (+1)|16 (+3)|8 (-1)|12 (+1)|8 (-1)
 
 **Compétences** Perception +4, Discrétion +4, Survie +4  
@@ -32029,7 +32029,7 @@ _Monstruosité de taille G, neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|13 (+1)|16 (+3)|8 (-1)|12 (+1)|8 (-1)
 
 **Compétences** Perception +4, Discrétion +4, Survie +4  
@@ -32057,7 +32057,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)
 
 **Compétences** Athlétisme +4, Survie +3  
@@ -32086,7 +32086,7 @@ _Humanoïde de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|10 (+0)|12 (+1)|11 (+0)|15 (+2)|12 (+1)
 
 **Compétences** Dressage +4, Nature +2, Survie +4  
@@ -32116,7 +32116,7 @@ _Humanoïde (torte) de taille M, loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|10 (+0)|12 (+1)|11 (+0)|15 (+2)|12 (+1)
 
 **Compétences** Dressage +4, Nature +2, Survie +4  
@@ -32145,7 +32145,7 @@ _Humanoïde (torte) de taille M, loyal bon_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)
 
 **Compétences** Athlétisme +4, Survie +3  
@@ -32174,7 +32174,7 @@ _Humanoïde (torve) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|12 (+1)|12 (+1)|9 (-1)|8 (-1)|6 (-2)
 
 **Compétences** Athlétisme +5, Discrétion +3, Perception +3  
@@ -32204,7 +32204,7 @@ _Élémentaire de taille Gig, typiquement neutre_
 **Vitesse** 0 m, vol 36 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|28 (+9)|23 (+6)|2 (-4)|21 (+5)|18 (+4)
 
 **Sauvegardes** Sag +12, Cha +11  
@@ -32242,7 +32242,7 @@ _Élémentaire de taille Gig, neutre_
 **Vitesse** 0 m, vol 36 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|28 (+9)|23 (+6)|2 (-4)|21 (+5)|18 (+4)
 
 **Sauvegardes** Sag +12, Cha +11  
@@ -32280,7 +32280,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
 
 **Sauvegardes** Int +6, Sag +4  
@@ -32320,7 +32320,7 @@ _Monstruosité de taille G, typiquement neutre_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|14 (+2)|15 (+2)|10 (+0)|6 (-2)
 
 **Sauvegardes** Dex +5, Int +5  
@@ -32345,7 +32345,7 @@ _Vase de taille M, typiquement chaotique mauvais_
 **Vitesse** 9 m, escalade 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|19 (+4)|15 (+2)|10 (+0)|14 (+2)|11 (+0)
 
 **Compétences** Discrétion +8, Survie +6  
@@ -32378,7 +32378,7 @@ _Vase de taille M, chaotique mauvais_
 **Vitesse** 9 m, escalade 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|19 (+4)|15 (+2)|10 (+0)|14 (+2)|11 (+0)
 
 **Compétences** Discrétion +8  
@@ -32414,7 +32414,7 @@ _Élémentaire de taille M, neutre_
 **Vitesse** 15 m, vol 15 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|19 (+4)|14 (+2)|10 (+0)|15 (+2)|11 (+0)
 
 **Compétences** Discrétion +10, Perception +8  
@@ -32446,7 +32446,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|9 (-1)|17 (+3)|2 (-4)|11 (+0)|5 (-3)
 
 **Sens** Perception passive 10  
@@ -32473,7 +32473,7 @@ _Artificiel de taille M, loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|13 (+1)|12 (+1)|9 (-1)|10 (+0)|9 (-1)
 
 **Sens** vision véritable 36 m, Perception passive 10  
@@ -32501,7 +32501,7 @@ _Élementaire de taille M, typiquement neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|13 (+1)|12 (+1)|7 (-2)|11 (+0)|8 (-1)
 
 **Immunités** feu  
@@ -32529,7 +32529,7 @@ _Humanoïde (triton du feu) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|13 (+1)|12 (+1)|7 (-2)|11 (+0)|8 (-1)
 
 **Immunités** feu  
@@ -32557,7 +32557,7 @@ _Élémentaire de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|11 (+0)|12 (+1)|9 (-1)|11 (+0)|14 (+2)
 
 **Immunités** feu  
@@ -32588,7 +32588,7 @@ _Humanoïde (triton du feu) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|11 (+0)|12 (+1)|9 (-1)|11 (+0)|14 (+2)
 
 **Immunités** feu  
@@ -32619,7 +32619,7 @@ _Humanoïde (humain) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|10 (+0)|16 (+3)|14 (+2)|10 (+0)|16 (+3)
 
 **Sauvegardes** Sag +3, Cha +6  
@@ -32654,7 +32654,7 @@ _Humanoïde (troglodyte) de taille M, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|10 (+0)|14 (+2)|6 (-2)|10 (+0)|6 (-2)
 
 **Compétences** Discrétion +2  
@@ -32684,7 +32684,7 @@ _Géant de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)
 
 **Compétences** Perception +2  
@@ -32714,7 +32714,7 @@ _Géant de taille G, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|22 (+6)|5 (-3)|8 (-1)|4 (-3)
 
 **Compétences** Perception +3  
@@ -32743,7 +32743,7 @@ _Géant de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|22 (+6)|5 (-3)|8 (-1)|4 (-3)
 
 **Compétences** Perception +3  
@@ -32772,7 +32772,7 @@ _Géant de taille TG, typiquement chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|15 (+2)|21 (+5)|9 (-1)|11 (+0)|5 (-3)
 
 **Sauvegardes** Sag +5, Cha +2  
@@ -32804,7 +32804,7 @@ _Géant de taille TG, chaotique mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|15 (+2)|21 (+5)|9 (-1)|11 (+0)|5 (-3)
 
 **Sauvegardes** Sag +5, Cha +2  
@@ -32837,7 +32837,7 @@ _Géant de taille G, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|17 (+3)|13 (+1)|8 (-1)|9 (-1)|16 (+3)
 
 **Compétences** Perception +3  
@@ -32869,7 +32869,7 @@ _Géant de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1 (-5)|17 (+3)|13 (+1)|8 (-1)|9 (-1)|16 (+3)
 
 **Compétences** Perception +3  
@@ -32901,7 +32901,7 @@ _Géant de taille G, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)
 
 **Compétences** Perception +2  
@@ -32933,7 +32933,7 @@ _Géant de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)
 
 **Compétences** Perception +2  
@@ -32966,7 +32966,7 @@ _Bête de taille P, sans alignement_
 **Vitesse** 0 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|11 (+0)|1 (-5)|6 (-2)|1 (-5)
 
 **Sens** vision dans le noir 18 m, Perception passive 8  
@@ -32992,7 +32992,7 @@ _Mort-vivant de taille G, loyal mauvais_
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|14 (+2)|19 (+4)|15 (+2)|19 (+4)
 
 **Sauvegardes** For +5, Con +7, Int +9, Sag +7, Cha +9  
@@ -33033,7 +33033,7 @@ _Aberration de taille G, loyal mauvais_
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|18 (+4)|17 (+3)|15 (+2)|17 (+3)
 
 **Sauvegardes** Int +8, Sag +7, Cha +8  
@@ -33073,7 +33073,7 @@ _Bête de taille TG, sans alignement_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |25 (+7)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|9 (-1)
 
 **Compétences** Perception +4  
@@ -33101,7 +33101,7 @@ _Aberration (flagelleur mental) de taille G, typiquement loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|15 (+2)|21 (+5)|19 (+4)|21 (+5)
 
 **Sauvegardes** Int +9, Sag +8, Cha +9  
@@ -33133,7 +33133,7 @@ _Aberration de taille G, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|15 (+2)|21 (+5)|19 (+4)|21 (+5)
 
 **Sauvegardes** Int +9, Sag +8, Cha +9  
@@ -33167,7 +33167,7 @@ _Fiélon (yugoloth) de taille M, neutre mauvais_
 **Vitesse** 9 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|16 (+3)|18 (+4)|18 (+4)|15 (+2)|19 (+4)
 
 **Compétences** Discrétion +8, Intimidation +9, Perception +7  
@@ -33204,7 +33204,7 @@ _Humanoïde (humain) de taille M, loyal neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|14 (+2)|12 (+1)|20 (+5)|11 (+0)|16 (+3)
 
 **Sauvegardes** For +2, Dex +4, Con +3, Int +12, Sag +7, Cha +5  
@@ -33233,7 +33233,7 @@ _Mort-vivant (métamorphe) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)
 
 **Sauvegardes** Dex +9, Sag +7, Cha +9  
@@ -33278,7 +33278,7 @@ _Mort-vivant de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)
 
 **Sauvegardes** Dex +6, Sag +3  
@@ -33315,7 +33315,7 @@ _Aberration (tyrannoeil) de taille G, typiquement neutre mauvais_
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|18 (+4)|10 (+0)|12 (+1)|10 (+0)
 
 **Sauvegardes** Con +8, Sag +5  
@@ -33346,7 +33346,7 @@ _Aberration de taille G, neutre mauvais_
 **Vitesse** 0 m, vol 9 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|14 (+2)|18 (+4)|10 (+0)|12 (+1)|10 (+0)
 
 **Sauvegardes** Con +8, Sag +5  
@@ -33377,7 +33377,7 @@ _Fiélon de taille TP, typiquement chaotique mauvais_
 **Vitesse** 1,50 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|14 (+2)|14 (+2)|4 (-3)|7 (-2)|2 (-4)
 
 **Résistances** froid, feu, foudre  
@@ -33406,7 +33406,7 @@ _Fiélon de taille TP, chaotique mauvais_
 **Vitesse** 1,50 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|14 (+2)|14 (+2)|4 (-3)|7 (-2)|2 (-4)
 
 **Résistances** froid, feu, foudre  
@@ -33435,7 +33435,7 @@ _Vase de taille G, sans alignement_
 **Vitesse** 6 m, escalade 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|6 (-2)|17 (+3)|2 (-4)|12 (+1)|10 (+0)
 
 **Compétences** Perception +4, Discrétion +4  
@@ -33466,7 +33466,7 @@ _Vase de taille M, sans alignement_
 **Vitesse** 3 m, escalade 3 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |12 (+1)|6 (-2)|16 (+3)|1 (-5)|6 (-2)|2 (-4)
 
 **Compétences** Discrétion +2  
@@ -33497,7 +33497,7 @@ _Bête de taille M, sans alignement_
 **Vitesse** 3 m, vol 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|10 (+0)|13 (+1)|2 (-4)|12 (+1)|4 (-3)
 
 **Compétences** Perception +3  
@@ -33525,7 +33525,7 @@ _Bête de taille G, neutre mauvais_
 **Vitesse** 3 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|10 (+0)|15 (+2)|6 (-2)|12 (+1)|7 (-2)
 
 **Compétences** Perception +3  
@@ -33555,7 +33555,7 @@ _Mort-vivant (magicien) de taille M, loyal mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|16 (+3)|18 (+4)|22 (+6)|24 (+7)|16 (+3)
 
 **Sauvegardes** Con +12, Int +14, Sag +15  
@@ -33599,7 +33599,7 @@ _Plante de taille P, typiquement neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|14 (+2)|13 (+1)|6 (-2)|11 (+0)|7 (-2)
 
 **Compétences** Perception +2, Discrétion +4  
@@ -33628,7 +33628,7 @@ _Plante de taille P, typiquement neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|14 (+2)|7 (-2)|12 (+1)|9 (-1)
 
 **Compétences** Perception +3, Discrétion +4  
@@ -33659,7 +33659,7 @@ _Plante de taille P, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|14 (+2)|14 (+2)|7 (-2)|12 (+1)|9 (-1)
 
 **Compétences** Perception +3, Discrétion +4  
@@ -33690,7 +33690,7 @@ _Plante de taille M, typiquement neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|6 (-2)
 
 **Compétences** Perception +4, Discrétion +3  
@@ -33719,7 +33719,7 @@ _Plante de taille P, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|14 (+2)|13 (+1)|6 (-2)|11 (+0)|7 (-2)
 
 **Compétences** Perception +2, Discrétion +4  
@@ -33748,7 +33748,7 @@ _Humanoïde (humain) de taille M, neutre_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|12 (+1)|17 (+3)|18 (+4)|15 (+2)|13 (+1)
 
 **Sauvegardes** Int +6, Sag +4  
@@ -33771,7 +33771,7 @@ _Bête (dinosaure) de taille TP, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|14 (+2)|13 (+1)|4 (-3)|12 (+1)|6 (-2)
 
 **Compétences** Perception +3  
@@ -33799,7 +33799,7 @@ _Bête de taille TP, sans alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |6 (-2)|14 (+2)|13 (+1)|4 (-3)|12 (+1)|6 (-2)
 
 **Compétences** Perception +3  
@@ -33827,7 +33827,7 @@ _Monstruosité de taille Gig, sans alignement_
 **Vitesse** 15 m, creusement 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |28 (+9)|7 (-2)|22 (+6)|1 (-5)|8 (-1)|4 (-3)
 
 **Sauvegardes** Con +11, Sag +4  
@@ -33856,7 +33856,7 @@ _Humanoïde (toute race) de taille M, tout alignement_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)
 
 **Compétences** Athlétisme +5, Perception +2  
@@ -33885,7 +33885,7 @@ _Humanoïde (halfelin) de taille P, loyal neutre_
 **Vitesse** 7,50 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|10 (+0)|12 (+1)|14 (+2)|10 (+0)|11 (+0)
 
 **Compétences** Arcanes +4, Histoire +4  
@@ -33913,7 +33913,7 @@ _Fée de taille P, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|8 (-1)
 
 **Compétences** Perception +4, Discrétion +6, Survie +2  
@@ -33942,7 +33942,7 @@ _Fée de taille P, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |7 (-2)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|8 (-1)
 
 **Compétences** Perception +4, Discrétion +6, Survie +2  
@@ -33971,7 +33971,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 12 m, vol 18 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|18 (+4)|8 (-1)|13 (+1)|8 (-1)
 
 **Sauvegardes** Dex +5, Sag +4, Cha +2  
@@ -34005,7 +34005,7 @@ _Fiélon (démon) de taille G, typiquement chaotique mauvais_
 **Vitesse** 9 m, nage 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|18 (+4)|21 (+5)|19 (+4)|12 (+1)|14 (+2)
 
 **Sauvegardes** For +9, Con +10  
@@ -34040,7 +34040,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 9 m, nage 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|18 (+4)|21 (+5)|19 (+4)|12 (+1)|14 (+2)
 
 **Sauvegardes** For +9, Con +10  
@@ -34075,7 +34075,7 @@ _Dragon de taille G, sans alignement_
 **Vitesse** 6 m, vol 24 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|10 (+0)|16 (+3)|5 (-3)|12 (+1)|6 (-2)
 
 **Compétences** Perception +4  
@@ -34104,7 +34104,7 @@ _Monstruosité de taille G, neutre mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|13 (+1)|13 (+1)|7 (-2)|11 (+0)|8 (-1)
 
 **Compétences** Perception +4  
@@ -34131,7 +34131,7 @@ _Humanoïde (homme serpent) de taille M, neutre_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9 (-1)|13 (+1)|9 (-1)|12 (+1)|12 (+1)|18 (+4)
 
 **Sauvegardes** Sag +3, Cha +6  
@@ -34166,7 +34166,7 @@ _Élémentaire de taille M, neutre_
 **Vitesse** 6 m, creusement 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|22 (+6)|11 (+0)|10 (+0)|11 (+0)
 
 **Compétences** Discrétion +3, Perception +6  
@@ -34198,7 +34198,7 @@ _Monstruosité de taille P, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|14 (+2)|10 (+0)|8 (-1)|7 (-2)|7 (-2)
 
 **Compétences** Discrétion +4  
@@ -34226,7 +34226,7 @@ _Humanoïde (xvart) de taille P, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|14 (+2)|10 (+0)|8 (-1)|7 (-2)|7 (-2)
 
 **Compétences** Discrétion +4  
@@ -34255,7 +34255,7 @@ _Monstruosité de taille P, typiquement chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|14 (+2)|12 (+1)|8 (-1)|11 (+0)|12 (+1)
 
 **Compétences** Discrétion +3  
@@ -34286,7 +34286,7 @@ _Humanoïde (xvart) de taille P, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |8 (-1)|14 (+2)|12 (+1)|8 (-1)|11 (+0)|12 (+1)
 
 **Compétences** Discrétion +3  
@@ -34319,7 +34319,7 @@ _Fiélon (yugoloth) de taille G, typiquement neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|14 (+2)|21 (+5)|16 (+3)|15 (+2)|18 (+4)
 
 **Sauvegardes** Dex +6, Int +7, Sag +6, Cha +8  
@@ -34355,7 +34355,7 @@ _Fiélon (yugoloth) de taille G, neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|14 (+2)|21 (+5)|16 (+3)|15 (+2)|18 (+4)
 
 **Sauvegardes** Dex +6, Int +7, Sag +6, Cha +8  
@@ -34392,7 +34392,7 @@ _Élémentaire de taille TG, neutre mauvais_
 **Vitesse** 15 m, vol 45 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|24 (+7)|24 (+7)|16 (+3)|21 (+5)|23 (+6)
 
 **Sauvegardes** Dex +13, Sag +11, Cha +12  
@@ -34418,7 +34418,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|16 (+3)|23 (+6)|15 (+2)|24 (+7)|15 (+2)
 
 **Sauvegardes** Dex +10, Con +15, Sag +14  
@@ -34456,7 +34456,7 @@ _Fiélon (démon) de taille TG, chaotique mauvais_
 **Vitesse** 15 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |29 (+9)|16 (+3)|23 (+6)|15 (+2)|24 (+7)|15 (+2)
 
 **Sauvegardes** Dex +10, Con +15, Sag +14  
@@ -34495,7 +34495,7 @@ _Monstruosité de taille G, chaotique mauvais_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|13 (+1)|16 (+3)|8 (-1)|12 (+1)|7 (-2)
 
 **Compétences** Discrétion +3, Perception +3  
@@ -34527,7 +34527,7 @@ _Monstruosité de taille TG, chaotique mauvais_
 **Vitesse** 12 m, escalade 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|10 (+0)|22 (+6)|9 (-1)|13 (+1)|9 (-1)
 
 **Compétences** Discrétion +4, Perception +5  
@@ -34559,7 +34559,7 @@ _Fiélon (démon, métamorphe) de taille M, chaotique mauvais_
 **Vitesse** 9 m, escalade 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|18 (+4)|13 (+1)|15 (+2)|15 (+2)
 
 **Sauvegardes** Dex +6, Int +5, Sag +6, Cha +6  
@@ -34597,7 +34597,7 @@ _Monstruosité (métamorphe, yuan-ti) de taille G, neutre mauvais_
 **Vitesse** 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|16 (+3)|17 (+3)|17 (+3)|15 (+2)|18 (+4)
 
 **Compétences** Discrétion +6, Perception +5  
@@ -34634,7 +34634,7 @@ _Monstruosité de taille TG, typiquement neutre mauvais_
 **Vitesse** 12 m, escalade 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|13 (+1)|19 (+4)|19 (+4)|17 (+3)|20 (+5)
 
 **Compétences** Perception +11, Discrétion +5  
@@ -34670,7 +34670,7 @@ _Monstruosité (métamorphe, yuan-ti) de taille TG, neutre mauvais_
 **Vitesse** 12 m, escalade 9 m, nage 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|13 (+1)|19 (+4)|19 (+4)|17 (+3)|20 (+5)
 
 **Compétences** Perception +7, Discrétion +5  
@@ -34709,7 +34709,7 @@ _Monstruosité (occultiste) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
 
 **Sauvegardes** Sag +3, Cha +5  
@@ -34745,7 +34745,7 @@ _Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
 
 **Sauvegardes** Sag +3, Cha +5  
@@ -34785,7 +34785,7 @@ _Monstruosité (occultiste) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|14 (+2)|14 (+2)|16 (+3)
 
 **Sauvegardes** Sag +4, Cha +5  
@@ -34821,7 +34821,7 @@ _Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|14 (+2)|14 (+2)|16 (+3)
 
 **Sauvegardes** Sag +4, Cha +5  
@@ -34861,7 +34861,7 @@ _Monstruosité de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|14 (+2)|6 (-2)|11 (+0)|4 (-3)
 
 **Sauvegardes** For +4, Dex +4, Sag +2  
@@ -34892,7 +34892,7 @@ _Humanoïde (yuan-ti) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|14 (+2)|14 (+2)|6 (-2)|11 (+0)|4 (-3)
 
 **Sauvegardes** For +4, Dex +4, Sag +2  
@@ -34924,7 +34924,7 @@ _Monstruosité (occultiste) de taille M, typiquement neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
 
 **Sauvegardes** Sag +4, Cha +6  
@@ -34959,7 +34959,7 @@ _Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
 
 **Sauvegardes** Sag +3, Cha +5  
@@ -34998,7 +34998,7 @@ _Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
 
 **Compétences** Discrétion +4, Tromperie +5  
@@ -35048,7 +35048,7 @@ _Humanoïde (yuan-ti) de taille M, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)|14 (+2)
 
 **Compétences** Discrétion +3, Perception +3, Tromperie +6  
@@ -35082,7 +35082,7 @@ _Élémentaire de taille Gig, typiquement neutre_
 **Vitesse** 12 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|10 (+0)|30 (+10)|2 (-4)|21 (+5)|18 (+4)
 
 **Sauvegardes** Sag +12, Cha +11  
@@ -35125,7 +35125,7 @@ _Élémentaire de taille Gig, neutre_
 **Vitesse** 12 m, nage 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |30 (+10)|10 (+0)|30 (+10)|2 (-4)|21 (+5)|18 (+4)
 
 **Sauvegardes** Sag +12, Cha +11  
@@ -35168,7 +35168,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 15 m, vol 45 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|24 (+7)|28 (+9)|26 (+8)|27 (+8)|30 (+10)
 
 **Sauvegardes** Int +16, Sag +16, Cha +18  
@@ -35208,7 +35208,7 @@ _Fiélon (diable) de taille G, loyal mauvais_
 **Vitesse** 15 m, vol 45 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|24 (+7)|28 (+9)|26 (+8)|27 (+8)|30 (+10)
 
 **Sauvegardes** Int +16, Sag +16, Cha +18  
@@ -35251,7 +35251,7 @@ _Fiélon (diable) de taille M, typiquement loyal mauvais_
 **Vitesse** 9 m, vol 12 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |14 (+2)|17 (+3)|14 (+2)|15 (+2)|16 (+3)|11 (+0)
 
 **Sauvegardes** Dex +6, Sag +6  
@@ -35288,7 +35288,7 @@ _Mort-vivant de taille M, neutre mauvais_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|6 (-2)|16 (+3)|3 (-4)|6 (-2)|5 (-3)
 
 **Sauvegardes** Sag +0  
@@ -35317,7 +35317,7 @@ _Mort-vivant de taille M, sans alignement_
 **Vitesse** 6 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |13 (+1)|9 (-1)|12 (+1)|1 (-5)|6 (-2)|3 (-4)
 
 **Immunités** charmé, épuisement  
@@ -35344,7 +35344,7 @@ _Mort-vivant de taille G, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |19 (+4)|6 (-2)|18 (+4)|3 (-4)|6 (-2)|5 (-3)
 
 **Sauvegardes** Sag +0  
@@ -35373,7 +35373,7 @@ _Mort-vivant de taille G, neutre mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|6 (-2)|16 (+3)|2 (-4)|6 (-2)|6 (-2)
 
 **Sauvegardes** Sag +0  
@@ -35403,7 +35403,7 @@ _Mort-vivant de taille G, neutre mauvais_
 **Vitesse** 0 m, vol 6 m (stationnaire)
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |10 (+0)|8 (-1)|16 (+3)|3 (-4)|8 (-1)|5 (-3)
 
 **Sauvegardes** Sag +2  
@@ -35437,7 +35437,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|15 (+2)|18 (+4)|20 (+5)|19 (+4)|24 (+7)
 
 **Sauvegardes** Dex +9, Con +11, Sag +11  
@@ -35477,7 +35477,7 @@ _Fiélon (démon) de taille G, chaotique mauvais_
 **Vitesse** 9 m
 
 | FOR  | DEX  | CON  | INT  | SAG  | CHA |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|15 (+2)|18 (+4)|20 (+5)|19 (+4)|24 (+7)
 
 **Sauvegardes** Dex +9, Con +11, Sag +11  
