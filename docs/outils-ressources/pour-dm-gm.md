@@ -12,15 +12,15 @@ https://le-monde-des-royaumes-oublies.fandom.com/fr/wiki/Wiki_Le_Monde_des_Royau
 https://www.monstershuffler.com/
 http://tetra-cube.com/dnd/dnd-statblock.html
 
-Listes :
-https://www.aidedd.org/dnd-filters/monstres.php
+Création de PDF dans le style D&D :
 
-http://tetra-cube.com/dnd/dnd-statblock.html
+https://www.reddit.com/r/DnD/comments/2x8u77/5e_tried_to_recreate_the_monster_manuals_style/
+exemple : https://imgur.com/a/r7zgV#0
 
-https://www.aidedd.org/dnd-filters/sorts.php
+https://homebrewery.naturalcrit.com
 
-https://www.aidedd.org/dnd-filters/objets-magiques.php
+Création de personnages 
+DungeonsMastersVault : 
+Packs : https://docs.google.com/spreadsheets/d/129gwuo7c2STrgnNs82KDIN3FcxKccRafOk4ykO_imak/edit#gid=1046689729
 
-https://www.aidedd.org/dnd-filters/poisons.php
 
-https://www.aidedd.org/dnd-filters/herbes.php
