@@ -30,6 +30,12 @@ cartes gratuites : https://www.caeora.com/world-region-maps
 
 générateur de cartes du monde : https://azgaar.github.io/Fantasy-Map-Generator/
 
+## Cartes de villes
+
+https://watabou.itch.io/medieval-fantasy-city-generator
+
+
+
 ## Création de monstres et PNJ
 
 https://www.monstershuffler.com/
