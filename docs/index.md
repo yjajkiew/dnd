@@ -5,16 +5,14 @@ nav_order: 0
 comments: true
 ---
 
-# Donjons & Dragons 
+# L'aventure d'un jeune Maître du Donjon
 
-<p align="center"><img src="/assets/dungeons-and-dragons-logo.png" /></p>
 
-*TODO*
 
-<br/>
-<hr>
+---
 
-<h1>Latest Posts</h1>
+
+# Derniers articles
 
 <ul>
   {% for post in site.posts %}
@@ -25,8 +23,14 @@ comments: true
   {% endfor %}
 </ul>
 
-<br/>
-<hr>
+
+
+---
+
+
+
+---
+
 
 ## Qui suis-je ?
 
