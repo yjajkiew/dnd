@@ -15,7 +15,7 @@ Ce site vise à fournir des ressources et astuces utiles à tous ceux impliqués
 # Derniers articles
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
