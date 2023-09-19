@@ -62,3 +62,4 @@ kramdown:
 plugins:
   - jekyll-sitemap
   - jekyll-archives
+  - jekyll-feed
