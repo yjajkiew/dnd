@@ -24,15 +24,10 @@ Ce site vise à fournir des ressources et astuces utiles à tous ceux impliqués
 </ul>
 
 
-
 ---
 
 
-
----
-
-
-## Qui suis-je ?
+# Qui suis-je ?
 
 Le jour je suis architecte de solutions chez Capgemini, travail dans lequel j'aime confronter la technique et les besoins pour concevoir des solutions adaptées, évolutives et scalables.
 
@@ -41,7 +36,7 @@ Le jour je suis architecte de solutions chez Capgemini, travail dans lequel j'ai
 <br/>
 <hr>
 
-## Support / Contact
+# Support / Contact
 
 Site web : [https://yann.me](https://yann.me)
 
