@@ -17,7 +17,7 @@ Ce site vise à fournir des ressources et astuces utiles à tous ceux impliqués
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
-      {{ post.date | date: "%Y-%m-%d" }} - <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date: "%Y-%m-%d" }} : <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
