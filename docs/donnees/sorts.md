@@ -2,7 +2,6 @@
 layout: default
 title: Sorts
 parent: Bases de données
-nav_order: 2
 ---
 
 # Sorts
