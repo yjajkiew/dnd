@@ -2,7 +2,6 @@
 layout: default
 title: Créatures
 parent: Bases de données
-nav_order: 1
 ---
 
 
