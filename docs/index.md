@@ -11,6 +11,22 @@ Ce site vise à fournir des ressources et astuces utiles à tous ceux impliqués
 
 ---
 
+# Organisation du site
+
+**[Articles](/articles.html)** : liste des différents articles de blog du site.
+
+**[Aventures](/aventures/)** : contient les aventures One-Shot *(qui peuvent se jouer d'une traite)* que j'ai pu créer, adapter ou mener.
+
+**[Campagnes](/campagnes/)** : contient les campagnes que j'ai pu créer, adapter ou mener. Vous y retrouverez les éléments nécessaires au Maître du Donjon pour maîtriser les campagnes, mais également des résumés des sessions pour s'immerger dans l'expérience narrative sans meta-gaming ou besoins de connaître les coulisses du MD.
+
+**[Outils & Ressources](/outils-ressources/)** : contient toutes les astuces, ressources et sites en lien avec le jeu D&D qui conviennent aux joueurs et aux MD.
+
+**[Maître du Donjon (MD)](/maitre-du-donjon/)** : toute la panoplie des ressources indispensables du Maître du Donjon avec des tables aléatoires, des outils pour la musique, les outils pour créer un monde et des cartes, etc.
+
+**[Bases de données](/donnees)** : quelques bases simples mais complètes comme les créatures, les objets magiques, les sorts,... avec leur source, le nom anglais pour faire un rapprochement plus rapide, et les descriptifs.
+
+---
+
 
 # Derniers articles
 
