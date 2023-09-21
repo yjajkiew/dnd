@@ -2,7 +2,6 @@
 layout: default
 title: Objets magiques
 parent: Bases de données
-nav_order: 3
 ---
 
 # Objets magiques
