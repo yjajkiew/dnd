@@ -2,7 +2,6 @@
 layout: default
 title: Puzzles
 parent: Maître du Donjon (MD)
-nav_order: 6
 ---
 
 
