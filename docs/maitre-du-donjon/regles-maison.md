@@ -2,7 +2,6 @@
 layout: default
 title: Règles maison (homebrew)
 parent: Maître du Donjon (MD)
-nav_order: 3
 ---
 
 
