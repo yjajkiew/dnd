@@ -2,7 +2,6 @@
 layout: default
 title: World building
 parent: Maître du Donjon (MD)
-nav_order: 4
 ---
 
 # World building
