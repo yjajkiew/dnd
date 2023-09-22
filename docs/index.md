@@ -13,6 +13,7 @@ Ce site vise à fournir des ressources et astuces utiles à tous ceux impliqués
 
 # Organisation du site
 
+
 **[Articles](/articles.html)** : liste des différents articles de blog du site.
 
 **[Aventures](/aventures/)** : contient les aventures One-Shot *(qui peuvent se jouer d'une traite)* que j'ai pu créer, adapter ou mener.
