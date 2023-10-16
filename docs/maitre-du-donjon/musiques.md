@@ -29,22 +29,23 @@ https://rpgaudioplayer.khuris.com/index_en.html
 
 ### 3. Steam RPG Sounds
 
+### 4. BattleBards
 
-### 4. SoundTale
+### 5. SoundTale
 
 
-### 5. PocketBard
+### 6. PocketBard
 
-### 6. TableTopAudio
+### 7. TableTopAudio
 
-### 7. RPG Audio Mixer
+### 8. RPG Audio Mixer
 
 https://rpgaudiomixer.netlify.app/
 
-### 8. Youtube & Spotify
+### 9. Youtube & Spotify
 
 
-### 9. KenkuFM
+### 10. KenkuFM
 
 
 
