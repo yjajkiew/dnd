@@ -54,6 +54,8 @@ https://rpgaudiomixer.netlify.app/
 
 ### Youtube
 
+https://blackcitadelrpg.com/music-ambiance-5e/
+
 ### Spotify
 
 https://www.reddit.com/r/DnD/comments/595zc6/my_curated_spotify_playlists_i_use_for_dd/
