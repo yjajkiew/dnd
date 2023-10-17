@@ -23,6 +23,8 @@ https://le-monde-des-royaumes-oublies.fandom.com/fr/wiki/Wiki_Le_Monde_des_Royau
 
 Générateur de noms : https://fr.fantasynamegenerators.com
 
+Démographie calculateur : https://docs.google.com/spreadsheets/d/1ZFbvC5KSwkGg2RlsOICiW4-gEteXxOEP/edit#gid=56616154
+
 ## Cartes
 
 ### Cartes du monde
