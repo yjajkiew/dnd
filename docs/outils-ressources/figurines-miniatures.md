@@ -18,4 +18,6 @@ https://www.patreon.com/paperforge
 
 https://www.patreon.com/posts/paper-miniatures-21640146
 
+https://papergolems.gumroad.com/
+
 Astuces peintures figurines : https://forum.reapermini.com/index.php?/topic/48668-bones-preparation-glues-putties-mould-lines-etc/&/topic/48668-bones-preparation-glues-putties-mould-lines-etc/?p=1127711
