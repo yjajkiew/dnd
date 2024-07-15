@@ -8,7 +8,7 @@ comments: true
 # L'antre du MD
 ### *ou l'aventure d'un jeune Maître du Donjon*
 
-Ce site vise à fournir des ressources et astuces utiles à tous ceux impliqués dans le monde de D&D avec un orientation plus forte sur les éléments qui concernent le Maître du Donjon ou Maître du Jeu. Le contenu se concentre spécifiquement sur la 5e édition mais il peut facilement être appliqué à toutes les autres éditions de D&D ou à d'autres jeux de rôle.
+Ce site a pour objectif de fournir des ressources et des astuces précieuses à tous les passionnés de Donjons & Dragons, avec une attention particulière aux besoins des Maîtres du Donjon (ou Maîtres du Jeu). Bien que le contenu soit principalement axé sur la 5e édition, il est facilement adaptable à d'autres éditions de D&D ainsi qu'à d'autres jeux de rôle.
 
 ---
 
@@ -46,7 +46,7 @@ Ce site vise à fournir des ressources et astuces utiles à tous ceux impliqués
 
 # Qui suis-je ?
 
-Le jour je suis architecte de solutions chez Capgemini, travail dans lequel j'aime confronter la technique et les besoins pour concevoir des solutions adaptées, évolutives et scalables.
+Le jour je suis architecte de solutions chez Capgemini, travail dans lequel j'aime confronter la technique et les besoins pour concevoir des solutions adaptées, évolutives et scalables. La nuit je suis Maître du Donjon où je masterise des aventures et campagnes pour mes amis.
 
 <p align="center"><img src="assets/profil.jpg" width="200" style="border-radius: 50%;" /></p>
 
