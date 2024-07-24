@@ -8,6 +8,10 @@ body {
   background-color: transparent !important;
 }
 
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6, .main-content #toctitle, .main-content summary {
+  font-family: 'Alegreya', sans-serif;
+}
+
 /* links color */
 a, 
 .nav-list .nav-list-item .nav-list-expander, 
