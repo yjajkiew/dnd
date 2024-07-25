@@ -6,7 +6,7 @@ comments: true
 ---
 
 # L'antre du MD
-### *ou l'aventure d'un jeune Maître du Donjon*
+## *L'aventure d'un jeune Maître du Donjon*
 
 Ce site a pour objectif de fournir des ressources et des astuces précieuses à tous les passionnés de Donjons & Dragons, avec une attention particulière aux besoins des Maîtres du Donjon (ou Maîtres du Jeu). Bien que le contenu soit principalement axé sur la 5e édition, il est facilement adaptable à d'autres éditions de D&D ainsi qu'à d'autres jeux de rôle.
 
@@ -48,7 +48,7 @@ Ce site a pour objectif de fournir des ressources et des astuces précieuses à 
 
 Le jour je suis architecte de solutions chez Capgemini, travail dans lequel j'aime confronter la technique et les besoins pour concevoir des solutions adaptées, évolutives et scalables. La nuit je suis Maître du Donjon où je masterise des aventures et campagnes pour mes amis.
 
-<p align="center"><img src="assets/profil.jpg" width="200" style="border-radius: 50%;" /></p>
+<p align="center"><img src="assets/profil.jpg" alt="Photo de Yann Jajkiewicz en noir et blanc." width="200" style="border-radius: 50%;" /></p>
 
 <br/>
 <hr>
