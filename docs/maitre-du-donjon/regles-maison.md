@@ -21,6 +21,14 @@ Ces règles doivent être définies et acceptées par l'ensemble des joueurs et 
 {:toc}
 </details>
 
+## Boire une potion en action bonnus
+
+Dans Donjons & Dragons 5e *(2014)*, les règles stipulent que boire une potion (ou en donner une à un autre personnage) est une action. Cependant, une des règles maison les plus populaires est de pouvoir utiliser une potion sur soi en tant qu'action bonus. Cela permet aux personnages de se soigner sans sacrifier leur capacité à attaquer ou lancer des sorts, ce qui rend les combats plus dynamiques. Comme les potions sont des ressources limitées, cette règle encourage leur utilisation stratégique sans pour autant en abuser.
+
+**Règle maison :** Un personnage peut boire une potion en utilisant une action bonus au lieu d'une action. Cela ne s'applique qu'aux potions consommées par le personnage lui-même, et non lorsqu'il s'agit de donner une potion à un allié.
+
+ 
+
 ## Long repos des elfes
 
 D'après les règles les elfes n'ont pas réellement besoin de dormir 8h durant un long comme les créatures d'autres races :
