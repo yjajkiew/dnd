@@ -21,3 +21,7 @@ parent: Maître du Donjon (MD)
 
 Oui ([Source](https://www.sageadvice.eu/lucky-death-saving-throw/))
 
+## Peut-on copier un sort depuis un parchemin dans son grimoire ?
+
+Oui, le parchemin est alors détruis ([Source]([https://www.sageadvice.eu/lucky-death-saving-throw/](https://www.sageadvice.eu/copy-a-spell-into-a-spellbook/)))
+
