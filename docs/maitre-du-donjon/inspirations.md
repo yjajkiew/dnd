@@ -55,7 +55,19 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
 ### Dessins animés
  - Bilbo le Hobbit (1977)
  - Le Seigneur des anneaux (1978)
+ - Heavy Metal (1981)
+ - Taram et le Chaudron magique (1985)
+ - Qui veut la peau de Roger Rabbit (1988)
+ - Totoro (1988)
+ - Aladdin (1992)
+ - L'étrange noël de Mr Jack (1993)
  - Hercules (1997)
+ - Le voyage de Chihiro (2001)
+ - Atlantide, l'empire perdu (2001)
+ - Le château ambulant (2004)
+ - Les noces funèbres (2005)
+ - Coraline (2009)
+ - Rebelle (2012)
 
 ### Séries de films
  - La trilogie **Le Hobbit**
@@ -79,6 +91,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Gremlins (1984)
  - L'Histoire sans Fin (1984)
  - Beetlejuice (1988)
+ - Willow (1988)
  - Edward aux mains d'argent (1990)
  - Hook (1991)
  - Bram Stokers Dracula (1992)
@@ -93,8 +106,10 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Stardust, le mystère de l'étoile (2007)
  - Cloud Atlas (2012)
  - About time (2013)
+ - Oculus (2013)
  - Crimson Peak (2015)
  - Krampus (2015)
+ - Hush (2016)
  - Warcraft (2016)
  - King Arthur Legend of the Sword (2017)
  - Kaamelott First Installment (2021)
@@ -105,6 +120,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Kaamelott (2005) - 5 saisons
  - True Blood (2008) - 7 saisons
  - Game of Thrones (2011) - 8 saisons
+ - American Horror Story (2011) - 10 saisons
  - Black Sails (2014) - 4 saisons
  - Penny Dreadful (2014) - 3 saisons
  - Jonathan Strange and Mr Norrell (2015) - 1 saison
@@ -112,20 +128,28 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - The Good Place (2016) - 4 saisons
  - Castle Rock (2018) - 2 saisons
  - Chilling adventures of Sabrina (2018) - 4 saisons
+ - The Haunting of Hill House (2018) - 1 saison
  - Dark Crystal (2019) - 1 saison
  - The Witcher (2019) - 3 saisons
  - Good Omens (2019) - 2 saisons
  - Carnival Row (2019) - 2 saisons
+ - Dracula (2020) - 1 saison
  - Locke & Key (2020) - 3 saisons
  - Blood of Zeus (2020) - 2 saisons
+ - The Haunting of Bly Manor (2020) - 1 saison
+ - Chapelwaite (2021) - 1 saison
  - Arcane (2021) - 1 saison
+ - Midnight Mass (2021) - 1 saison
  - Le Seigneur des anneaux : Les Anneaux de pouvoir (2022) - 2 saisons
+ - The Midnight Club (2022) - 1 saison
  - House of the Dragon (2022) - 2 saisons
  - The Sandman (2022) - 1 saison
  - Vox machina (2022) - 1 saison
  - The Witcher : Blood Origin (2022) - 1 saison
+ - The Fall of the House of Usher (2023) - 1 saison
 
 ## Jeux vidéos
+ - Age of Mythology
  - Diablo II
  - Lineage II
  - World of Warcraft
