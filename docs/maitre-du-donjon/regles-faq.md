@@ -38,5 +38,15 @@ La formule est : 8 + modificateur de la caractéristique appropriée + bonus de 
 
 Vous pouvez autoriser/permettre à un familier de communiquer télépathiquement des concepts simples à son maître. ([Source]([https://www.sageadvice.eu/lucky-death-saving-throw/](https://www.sageadvice.eu/owl-familiar-spying/)))
 
+## Exemples de gestion de la vie pour les druides en forme sauvage
 
+> Quand vous vous transformez, vous endossez également les points de vie de la bête et ses dés de vie. Lorsque vous reprenez votre forme vous récupérez le nombre de points de vie que vous aviez avant votre transformation. De plus, si vous vous retransformez parce que vous êtes tombé à 0 point de vie, tous les dégâts supplémentaires sont encaissés par les points de vie de votre forme normale. Par exemple, si vous subissez 10 points de dégâts sous forme animale alors que vous n'aviez plus qu'un point de vie, vous retournez à votre forme normale et encaissez 9 points de dégâts. Tant que ces dégâts résiduels ne font pas tomber les points de vie de votre forme normale à 0, vous ne sombrez pas dans l'inconscience.
+
+([Source](https://www.aidedd.org/regles/classes/druide/))
+
+> Vous avez 15 PV, vous vous transformez en une forme avec 25 PV, subissez 12 points de dégâts, puis reprenez votre forme initiale. Combien de PV vous reste-t-il ? **15 PV**
+
+> Si vous avez 15 PV, que vous vous transformez en une bête avec 25 PV, subissez 30 points de dégâts, vous reprenez votre forme initiale avec 10 PV.
+
+([Source](https://www.sageadvice.eu/druid-wild-shape-in-combat/))
 
