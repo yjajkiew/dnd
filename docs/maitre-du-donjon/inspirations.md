@@ -89,6 +89,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Le Dernier Samouraï (2003)
  - Van Helsing (2004)
  - Pans Labyrinth (2006)
+ - Stardust, le mystère de l'étoile (2007)
  - Cloud Atlas (2012)
  - About time (2013)
  - Crimson Peak (2015)
