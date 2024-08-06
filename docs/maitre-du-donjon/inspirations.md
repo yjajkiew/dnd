@@ -8,6 +8,7 @@ parent: Maître du Donjon (MD)
 # Inspirations
 {: .no_toc }
 
+Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la fantasy que j'ai personnellement consommés au fil du temps, qu'il s'agisse de livres, films, séries, jeux vidéo ou bandes dessinées. Chacun de ces oeuvres m'a profondément inspiré en tant que Maître du Donjon, enrichissant mon imagination et m'aidant à créer des aventures captivantes pour mes parties de Donjons et Dragons. Ils sont une source inépuisable d'idées, de scénarios, d'univers, et de personnages qui peuvent nourrir la créativité et influer les mondes que mes joueurs explorent.
 
 <details open markdown="block">
   <summary>
@@ -124,5 +125,9 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Vox machina (2022) - 1 saison
  - The Witcher : Blood Origin (2022) - 1 saison
 
-
+## Jeux vidéos
+ - Diablo II
+ - Lineage II
+ - World of Warcraft
+ - Neverwinters Night
 
