@@ -155,6 +155,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Cloud Atlas (2012)
  - About time (2013)
  - Oculus (2013)
+ - Dracula Untold (2014)
  - Crimson Peak (2015)
  - Krampus (2015)
  - Hush (2016)
