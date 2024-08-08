@@ -108,6 +108,8 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Les noces funèbres (2005)
  - Coraline (2009)
  - Rebelle (2012)
+ - Astérix : Le Domaine des dieux (2014)
+ - Astérix : Le Secret de la potion magique (2018)
 
 ### Séries de films
  - La trilogie **Le Hobbit**
@@ -147,6 +149,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Gladiator (2000)
  - From Hell (2001)
  - The Others (2001)
+ - Le pacte des loups (2001)
  - The Mothman Prophecies (2002)
  - Le Dernier Samouraï (2003)
  - Van Helsing (2004)
