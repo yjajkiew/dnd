@@ -22,7 +22,7 @@ has_children: true
 {: .highlight-title }
 > Attention
 >
-> La page "Maître du Donjon (MD)" contient tout le storytelling, tous les rebondissements, ennemis, rencontres envisagées, etc. et est destinée aux MD qui souhaitent découvrir les coulisses de comment mener cette campagne"
+> La page "Guide du maître" contient tout le storytelling, tous les rebondissements, ennemis, rencontres envisagées, etc. et est destinée aux MD qui souhaitent découvrir les coulisses de comment mener cette campagne"
 
 
 # Contexte
