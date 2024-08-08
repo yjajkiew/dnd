@@ -23,7 +23,15 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
 
 ### Romans
 
+ - Le Tasliman (Stephen King & Peter Straub)
 
+#### Tolkien
+
+ - Le Hobbit
+ - La trilogie **Le Seigneur des anneaux**
+   - Le Seigneur des anneaux : la Communauté de l'anneau
+   - Le Seigneur des anneaux : Les Deux Tours
+   - Le Seigneur des anneaux : Le Retour du roi
 
 #### Série DragonLance
 
@@ -80,8 +88,16 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
    - Le Seigneur des anneaux : Le Retour du roi (2003)
  - Dune
    - Dune (2021)
-   - Dune 2
+   - Dune 2 (2024)
  - Harry Potter
+   - Harry Potter à l'école des sorciers (2001)
+   - Harry Potter et la Chambre des secrets (2002)
+   - Harry Potter et le Prisonnier d'Azkaban (2004)
+   - Harry Potter et la Coupe de feu (2005)
+   - Harry Potter et l'Ordre du Phénix (2007)
+   - Harry Potter et le Prince de sang-mêlé (2009)
+   - Harry Potter et les reliques de la mort - 1ère partie (2010)
+   - Harry Potter et les reliques de la mort - 2ème partie (2011)
  - Hocus Pocus
    - Hocus Pocus (1993)
    - Hocus Pocus 2 (2022)
@@ -147,6 +163,31 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Vox machina (2022) - 1 saison
  - The Witcher : Blood Origin (2022) - 1 saison
  - The Fall of the House of Usher (2023) - 1 saison
+
+## YouTube
+
+ - La Bonne Auberge
+   - [Campagne principale](https://www.youtube.com/@labonneaubergejdr/playlists) (4 saisons)
+   - [les Confinés](https://www.youtube.com/playlist?list=PLXd8mfrhn6IxFLL2OOwOBRCa_rpaqFwtg) (1 saison)
+   - [DnD Celebration 2021 : Maudites tourbières](https://www.youtube.com/playlist?list=PLXd8mfrhn6IwF3EehFhzKUCug6TU1V6dl) (one-shot)
+   - [La Mauvaise Auberge](https://www.youtube.com/playlist?list=PLXd8mfrhn6IzeShxFP-DhI9zvytK8K4UL) (2 saisons)
+   - [Le Diamant Noir](https://www.youtube.com/playlist?list=PLXd8mfrhn6IzTL-SnsAGsyusaAajTzL7z) (one-shot)
+   - [L'aventure des Sidekicks](https://www.youtube.com/playlist?list=PLXd8mfrhn6IyC_3xN1IWPQ5yU_0CeHfZf) (one-shot)
+   - [L'Ordalie](https://www.youtube.com/playlist?list=PLXd8mfrhn6Iz0qi8E4sWarh-LXBecclp3) (1 saison)
+   - [Les Égarés](https://www.youtube.com/watch?v=cAoMmkZvp6w&list=PLXd8mfrhn6IzkJ79Ix8PxEQcyIO8Lxfos&pp=iAQB) (1 saison)
+   - [Les Animaux Fantastiques](https://www.youtube.com/playlist?list=PLXd8mfrhn6IyK8L8Ws4uvFZkWG04SYicT) (one-shot)
+   - [D&Drags](https://www.youtube.com/playlist?list=PLXd8mfrhn6IywcdI-0mTF-2__-xR97Eky) (1 saison)
+   - [Cyberpunk](https://www.youtube.com/playlist?list=PLXd8mfrhn6IzcVKocvGt1X9SOPJXX8WQC) (one-shot)
+- Critical Roll
+   - [Campagne 1 : Vox Machina](https://www.youtube.com/playlist?list=PLqTT_VuffgDP0I6accl0jP5p3kxBRPVPa)
+   - [Exandria Unlimited : Calamity](https://www.youtube.com/playlist?list=PLxpS2Q_QbR0cPCLxnnP3VnEiKk3tmsQ4f) (mini-serie)
+   - [CelebriD&D with Joe Manganiello](https://www.youtube.com/watch?v=qYrp6qfXrBM&pp=ygUfY2VsZWJyaWQmZCB3aXRoIGpvZSBtYW5nYW5pZWxsbw%3D%3D) (one-shot)
+   - [D&Diel with Vin Diesel (Extended Version)](https://www.youtube.com/watch?v=yLEMb_RIZ3o&pp=ygUfY2VsZWJyaWQmZCB3aXRoIGpvZSBtYW5nYW5pZWxsbw%3D%3D) (one-shot)
+ - Autre
+   - [Relics and Rarities](https://www.youtube.com/playlist?list=PL7atuZxmT954B-AtfJsw_YbULHL_L7J8z) (one-shot)
+   - [B. Dave Walters, Seth Green, Deborah Ann Woll, & More at the BEADLE & GRIMMS Table! | D&D Live 2021](https://www.youtube.com/watch?v=9LUYWVll3-w&pp=ygUORG5kIHNldGggZ3JlZW4%3D) (one-shot)
+   - [A Stranger Things Dungeons & Dragons Adventure: The Hellfire Club](https://www.youtube.com/watch?v=RFcfJm3SqGk&pp=ygURRG5kIHN0cmFuZ2VyIGNhc3Q%3D) (one-shot)
+
 
 ## Jeux vidéos
  - Age of Mythology
