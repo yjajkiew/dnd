@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maître du Donjon (MD)
-parent: Aventures à Phandalin
+parent: Aventures à Phandalin (2023)
 grand_parent: Campagnes
 nav_order: 1
 ---
