@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Maître du Donjon (MD)
+title: Guide du maître
 parent: Aventures à Phandalin (2023)
 grand_parent: Campagnes
 nav_order: 1
 ---
 
-# Maître du Donjon (MD)
+# Guide du maître pour La malédiction de Strahd
 {: .no_toc }
 
 <details open markdown="block">
@@ -22,7 +22,7 @@ nav_order: 1
 {: .highlight-title }
 > Attention
 >
-> La page "Maître du Donjon (MD)" contient tout le storytelling, tous les rebondissements, ennemis, rencontres envisagées, etc. et est destinée aux MD qui souhaitent découvrir les coulisses de comment mener cette campagne
+> La page "Guide du maître" contient tout le storytelling, tous les rebondissements, ennemis, rencontres envisagées, etc. et est destinée aux MD qui souhaitent découvrir les coulisses de comment mener cette campagne
 
 {: .note }
 > Si vous n'avez pas lu le guide du MD pour l'aventure _"La mine oubliée de Phancreux"_ vous risquez d'être perdu, ainsi je vous invite à vous approprier le guide d'aventure avant de découvrir ce que j'y ai modifié pour ma campagne.
