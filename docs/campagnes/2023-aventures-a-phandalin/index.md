@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Aventures à Phandalin
+title: Aventures à Phandalin (2023)
 parent: Campagnes
 nav_order: 2
 has_children: true
 ---
 
-# Aventures à Phandalin
+# Aventures à Phandalin (2023)
 {: .no_toc }
 
 <details open markdown="block">
