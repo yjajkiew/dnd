@@ -23,7 +23,7 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
 
 ### Romans
 
- - Le Tasliman (Stephen King & Peter Straub)
+ - Le Tasliman (1984, Stephen King & Peter Straub)
 
 #### Tolkien
 
@@ -35,10 +35,42 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
 
 #### Série DragonLance
 
+ - Trilogie des Chroniques de Lancedragon
+   - Dragons d'un crépuscule d'automne (1996, Margaret Weis & Tracy Hickman)
+   - Dragons d'une nuit d'hiver (1996, Margaret Weis & Tracy Hickman)
+   - Dragons d'une aube de printemps (1996, Margaret Weis & Tracy Hickman)
+ - Chroniques perdues
+   - Dragons des profondeurs (2008, Margaret Weis & Tracy Hickman)
+   - Dragons des cieux (2008, Margaret Weis & Tracy Hickman)
+   - Le Mage aux sabliers (2009, Margaret Weis & Tracy Hickman)
+ - Les Légendes de Lancedragon
+   - Le Temps des jumeaux (1996, Margaret Weis & Tracy Hickman)
+   - La Guerre des jumeaux (1996, Margaret Weis & Tracy Hickman)
+   - L'Épreuve des jumeaux (1996, Margaret Weis & Tracy Hickman)
+ - Les Nouvelles Chroniques
+   - Deuxième Génération (1999, Margaret Weis & Tracy Hickman)
+   - Dragons d'une flamme d'été (2002, Margaret Weis & Tracy Hickman)
+ - La Séquence de Raistlin
+   - Une âme bien trempée (2003, Margaret Weis & Tracy Hickman)
+   - Les Frères d'armes (2003, Margaret Weis & Ron Perrin)
+
 #### Série Royaumes oubliés
 
 #### Série Ravenloft
 
+ - Le Vampire des brumes (1995, Christie Golden)
+ - Le Chevalier de la Rose Noire (1995, James Lowder)
+ - Coeur de minuit (1995, J. Robert King)
+ - Danse avec les morts (1995, Christie Golden)
+ - Les Âmes dans le canevas (1996, Elaine Bergstrom)
+ - Le Carnaval de la peur (1996, J. Robert King)
+ - L'Ennemi intime numéro un (1996, Christie Golden)
+ - Mordenheim (1996, Chet Williamson)
+ - La Tour de la désolation (1997, Mark Anthony)
+ - La Baronne sanglante (1997, ELaine Bergstrom)
+ - Moi, Strahd : journal d'un vampire (1997, P. N. Elrod)
+ - Mort d'un sombre seigneur (1998, Laurell K. Hamilton)
+ - Le Maître du déclin (1998, Tanya Huff) 
 
 
 ### BD
