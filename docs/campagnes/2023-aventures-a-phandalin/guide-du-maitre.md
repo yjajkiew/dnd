@@ -6,7 +6,7 @@ grand_parent: Campagnes
 nav_order: 1
 ---
 
-# Guide du maître pour La malédiction de Strahd
+# Guide du maître pour Aventures à Phandalin
 {: .no_toc }
 
 <details open markdown="block">
