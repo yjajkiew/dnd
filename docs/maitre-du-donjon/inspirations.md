@@ -165,6 +165,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Warcraft (2016)
  - King Arthur Legend of the Sword (2017)
  - Kaamelott First Installment (2021)
+ - The Northman
  - Dungeons & Dragons (2023)
 
 
@@ -173,6 +174,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - True Blood (2008) - 7 saisons
  - Game of Thrones (2011) - 8 saisons
  - American Horror Story (2011) - 10 saisons
+ - Vikings (2013) - 6 saisons
  - Black Sails (2014) - 4 saisons
  - Penny Dreadful (2014) - 3 saisons
  - Jonathan Strange and Mr Norrell (2015) - 1 saison
