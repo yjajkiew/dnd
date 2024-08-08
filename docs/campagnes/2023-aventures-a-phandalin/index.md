@@ -22,12 +22,24 @@ has_children: true
 {: .highlight-title }
 > Attention
 >
-> Si vous souhaitez lire les comptes rendus des sessions de cette campagne _(en mode histoire)_ sans vous faire spoiler : ne lisez pas la page "Maître du Donjon (MD)" qui contient tout le storytelling, tous les rebondissements, ennemis, rencontres envisagées, etc."
+> La page "Maître du Donjon (MD)" contient tout le storytelling, tous les rebondissements, ennemis, rencontres envisagées, etc. et est destinée aux MD qui souhaitent découvrir les coulisses de comment mener cette campagne"
 
 
 # Contexte
 
-TODO
+En 2023 je souhaitais me lancer et jouer à Donjons et Dragons, dans le plus simple appareil et sans groupe j'ai donc pris l'initiative d'apprendre à maîtriser une partie et de faire jouer ma conjointe.
+
+Pour démarrer j'avais acheté la boîte [Dungeons & Dragons : l'Essentiel](https://dnd.wizards.com/fr/products/essentials-kit) qui, pour seulement 20€, contient des aventures dans un monde sandbox ainsi que tout le matériel nécessaire pour démarrer (dés, écran du maître, carte, livret).
+
+À l'époque Wizards of the Coast offrait également une version française et digitale gratuitement sur son site le livret de l'autre kit de débutant [La mine oubliée de Phancreux](https://www.aidedd.org/dnd-5/livres/starter-set-lost-mine-of-phandelver/)
+
+_Edit : WotC fournit toujours gratuitement en digital et en français le [Livret de règles du Kit d'initiation + La mine oubliée de Phancreux](https://media.wizards.com/2021/dnd/downloads/dnd_loc_2010_10_07_fr.zip)_
+
+Compte tenu que l'ensemble des quêtes et aventures de ces livrets se déroulent au même moment je décidais donc de fusionner l'ensemble pour créer une campagne mélangeant sandbox et storytelling.
+
+La page "Maître du donjon" de cette campagne explique dans les grandes lignes ce qui était planifié.
+
+Cette campagne n'a jamais été jouée jusqu'au bout car un groupe d'amis souhaitant découvrir DnD ont été mordu par une aventure one-shot que j'avais concoté pour débutants et depuis nous jouons à la Malédiction de Strahd ensemble.
 
 # Campagne
 
