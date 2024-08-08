@@ -42,7 +42,7 @@ ___
 > ## Nerodri Erzish
 _Elf noir / drow (mâle), Occultiste_
 >
-> ![](/assets/2023-aventures-a-phandalin/Relvyre.jpg)
+> ![](/assets/2023-malediction-strahd/nerodri.png)
 >
 > ___
 > - **Level** 5
@@ -87,7 +87,7 @@ ___
 > ## Osborne Vertbouteille
 _Halfelin (Male), Voleur_
 >
-> ![](/assets/2023-aventures-a-phandalin/Osril.png)
+> ![](/assets/2023-malediction-strahd/osborne.png)
 >
 > ___
 > - **Level** 5
@@ -134,7 +134,7 @@ ___
 > ## Qion Zavka
 > Humain (Male), Clerc de la forge_
 >
-> ![](/assets/2023-aventures-a-phandalin/Osril.png)
+> ![](/assets/2023-malediction-strahd/qion.png)
 >
 > ___
 > - **Level** 5
