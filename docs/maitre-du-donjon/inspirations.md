@@ -143,6 +143,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Beetlejuice (1988)
  - Willow (1988)
  - Edward aux mains d'argent (1990)
+ - Ça (1990)
  - Hook (1991)
  - Bram Stokers Dracula (1992)
  - Le 5ème Élément (1997)
@@ -164,6 +165,8 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Hush (2016)
  - Warcraft (2016)
  - King Arthur Legend of the Sword (2017)
+ - Ça : Chapitre 1 (2017)
+ - Ça : Chapitre 1 (2019)
  - Kaamelott First Installment (2021)
  - The Northman
  - Dungeons & Dragons (2023)
@@ -180,6 +183,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Jonathan Strange and Mr Norrell (2015) - 1 saison
  - Stranger Things (2016) - 4 saisons
  - The Good Place (2016) - 4 saisons
+ - Dark (2017) - 2 saisons
  - Castle Rock (2018) - 2 saisons
  - Chilling adventures of Sabrina (2018) - 4 saisons
  - The Haunting of Hill House (2018) - 1 saison
