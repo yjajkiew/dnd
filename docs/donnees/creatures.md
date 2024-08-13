@@ -26,6 +26,8 @@ ___
 >
 >_Humanoïde (aarakocra) de taille M, neutre bon_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 6 m, vol 15 m
@@ -59,6 +61,8 @@ ___
 >_\[ White Abishai \]_
 >
 >_Fiélon (diable) de taille M, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 68 (8d8 + 32)  
@@ -103,6 +107,8 @@ ___
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 68 (8d8 + 32)  
 >**Vitesse** 9 m, vol 12 m
@@ -146,6 +152,8 @@ ___
 >
 >_Fiélon (diable, magicien) de taille M, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 202 (27d8 + 81)  
 >**Vitesse** 9 m, vol 15 m
@@ -187,6 +195,8 @@ ___
 >_\[ Blue Abishai \]_
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 195 (26d8 + 78)  
@@ -230,6 +240,8 @@ ___
 >
 >_Fiélon (diable) de taille M, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m, vol 12 m
@@ -271,6 +283,8 @@ ___
 >_\[ Black Abishai \]_
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 58 (9d8 + 18)  
@@ -314,6 +328,8 @@ ___
 >_\[ Red Abishai \]_
 >
 >_Fiélon (diable) de taille M, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 289 (34d8 + 136)  
@@ -359,6 +375,8 @@ ___
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 255 (30d8 + 120)  
 >**Vitesse** 9 m, vol 15 m
@@ -403,6 +421,8 @@ ___
 >
 >_Fiélon (diable) de taille M, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 195 (26d8 + 78)  
 >**Vitesse** 9 m, vol 12 m
@@ -443,6 +463,8 @@ ___
 >_\[ Green Abishai \]_
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 187 (25d8 + 75)  
@@ -485,6 +507,8 @@ ___
 >_\[ Abjurer \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 84 (13d8 + 26)  
@@ -533,6 +557,8 @@ ___
 >
 >_Aberration de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 135 (18d10 + 36)  
 >**Vitesse** 3 m, nage 12 m
@@ -575,6 +601,8 @@ ___
 >
 >_Monstruosité de taille TG, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 66 (7d12 + 21)  
 >**Vitesse** 9 m, vol 12 m
@@ -614,6 +642,8 @@ ___
 >_\[ Acererak \]_
 >
 >_Mort-vivant de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 285 (30d8+150)  
@@ -663,6 +693,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 9 m
@@ -696,6 +728,8 @@ ___
 >_\[ Hungry Sorrowsworn \]_
 >
 >_Monstruosité de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 225 (30d8 + 90)  
@@ -732,6 +766,8 @@ ___
 >_\[ Angry Sorrowsworn \]_
 >
 >_Monstruosité de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 255 (30d8 + 120)  
@@ -770,6 +806,8 @@ ___
 >
 >_Monstruosité de taille P, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 10 (4d6 - 4)  
 >**Vitesse** 12 m
@@ -803,6 +841,8 @@ ___
 >_\[ Lost Sorrowsworn \]_
 >
 >_Monstruosité de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 78 (12d8 + 24)  
@@ -841,6 +881,8 @@ ___
 >
 >_Monstruosité de taille M, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
@@ -878,6 +920,8 @@ ___
 >
 >_Bête de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 3 (1d6)  
 >**Vitesse** 3 m, vol 18 m
@@ -911,6 +955,8 @@ ___
 >_\[ Giant Eagle \]_
 >
 >_Bête de taille G, neutre bon_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 26 (4d10 + 4)  
@@ -947,6 +993,8 @@ ___
 >_\[ Alhoon \]_
 >
 >_Mort-vivant (flagelleur mental, magicien) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 150 (20d8 + 60)  
@@ -992,6 +1040,8 @@ ___
 >_\[ Alhoon \]_
 >
 >_Mort-vivant de taille M, tout alignement mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 120 (16d8 + 48)  
@@ -1044,6 +1094,8 @@ ___
 >
 >_Fiélon (démon) de taille M, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 168 (16d8 + 96)  
 >**Vitesse** 12 m, escalade 12 m
@@ -1089,6 +1141,8 @@ ___
 >
 >_Fiélon (démon) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 157 (15d8 + 90)  
 >**Vitesse** 12 m
@@ -1130,6 +1184,8 @@ ___
 >
 >_Mort-vivant de taille M, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 40 (9d18)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
@@ -1169,6 +1225,8 @@ ___
 >_\[ Allip \]_
 >
 >_Mort-vivant de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 40 (9d18)  
@@ -1210,6 +1268,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 51 (6d10 + 18)  
 >**Vitesse** 18 m
@@ -1245,6 +1305,8 @@ ___
 >_\[ Wraith \]_
 >
 >_Mort-vivant de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 67 (9d8 + 27)  
@@ -1282,6 +1344,8 @@ ___
 >_\[ Sword Wraith Commander \]_
 >
 >_Mort-vivant de taille M, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (cuirasse, bouclier)  
 >**Points de vie** 127 (15d8 + 60)  
@@ -1325,6 +1389,8 @@ ___
 >
 >_Mort-vivant de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (cuirasse, bouclier)  
 >**Points de vie** 127 (15d8 + 60)  
 >**Vitesse** 9 m
@@ -1365,6 +1431,8 @@ ___
 >
 >_Mort-vivant de taille M, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (chemise de mailles, bouclier)  
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
@@ -1403,6 +1471,8 @@ ___
 >
 >_Mort-vivant de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (chemise de mailles, bouclier)  
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
@@ -1438,6 +1508,8 @@ ___
 >_\[ Amnizu \]_
 >
 >_Fiélon (diable) de taille M, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 202 (27d8 + 81)  
@@ -1483,6 +1555,8 @@ ___
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 202 (27d8 + 81)  
 >**Vitesse** 9 m, vol 12 m
@@ -1526,6 +1600,8 @@ ___
 >_\[ Androsphinx \]_
 >
 >_Monstruosité de taille G, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 199 (19d10 + 95)  
@@ -1580,6 +1656,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle), 11 lorsqu'il est à terre  
 >**Points de vie** 39 (6d10 + 6)  
 >**Vitesse** 9 m, creusement 3 m
@@ -1612,6 +1690,8 @@ ___
 >
 >_Bête de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 68 (8d12 + 16)  
 >**Vitesse** 9 m
@@ -1643,6 +1723,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 10 (13 avec _armure de mage_)  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m
@@ -1672,6 +1754,8 @@ ___
 >_\[ Apprentice Wizard \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 9 (2d8)  
@@ -1706,6 +1790,8 @@ ___
 >_\[ Arach \]_
 >
 >_Humanoïde (humain) de taille M, chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 66 (12d8 + 12)  
@@ -1752,6 +1838,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 6 m, escalade 6 m
@@ -1787,6 +1875,8 @@ ___
 >_\[ Female Steeder \] \[ Montarachne, femelle \]_
 >
 >_Monstruosité de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 30 (4d10 + 8)  
@@ -1824,6 +1914,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 30 (4d10 + 8)  
 >**Vitesse** 9 m, escalade 9 m
@@ -1859,6 +1951,8 @@ ___
 >_\[ Male Steeder \] \[ Montarachne, mâle \]_
 >
 >_Monstruosité de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 13 (2d8 + 4)  
@@ -1896,6 +1990,8 @@ ___
 >
 >_Monstruosité de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m, escalade 9 m
@@ -1932,6 +2028,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 32 (5d10 + 5)  
 >**Vitesse** 9 m, escalade 9 m
@@ -1967,6 +2065,8 @@ ___
 >_\[ Giant Spider \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 26 (4d10 + 4)  
@@ -2005,6 +2105,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m, escalade 12 m
@@ -2041,6 +2143,8 @@ ___
 >
 >_Plante de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 59 (7d12 + 14)  
 >**Vitesse** 6 m
@@ -2076,6 +2180,8 @@ ___
 >
 >_Plante de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 9  
 >**Points de vie** 10 (3d6)  
 >**Vitesse** 6 m
@@ -2109,6 +2215,8 @@ ___
 >_\[ Arcanaloth \]_
 >
 >_Fiélon (yugoloth) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 104 (16d8 + 32)  
@@ -2161,6 +2269,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (armure de cuir clouté)  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m
@@ -2197,6 +2307,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (armure de cuir clouté)  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m
@@ -2232,6 +2344,8 @@ ___
 >_\[ Archdruid \]_
 >
 >_Humanoïde (druide) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure de peaux)  
 >**Points de vie** 154 (28d8 + 28)  
@@ -2270,6 +2384,8 @@ ___
 >_\[ Archdruid \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 16 (armure de peaux, bouclier)  
 >**Points de vie** 132 (24d8 + 24)  
@@ -2315,6 +2431,8 @@ ___
 >_\[ Archmage \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 99 (18d8 + 18)  
@@ -2363,6 +2481,8 @@ ___
 >
 >_Fiélon (démon) de taille G, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 94 (9d10 + 45)  
 >**Vitesse** 18 m
@@ -2402,6 +2522,8 @@ ___
 >_\[ Armanite \]_
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 84 (8d10 + 40)  
@@ -2443,6 +2565,8 @@ ___
 >
 >_Artificiel de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 7,50 m
@@ -2478,6 +2602,8 @@ ___
 >_\[ Assassin \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement non bon_
+>
+>___
 >
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 78 (12d8 + 24)  
@@ -2518,6 +2644,8 @@ ___
 >
 >_Bête (bétail) de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 38 (4d10 + 16)  
 >**Vitesse** 15 m
@@ -2549,6 +2677,8 @@ ___
 >_\[ Aurochs \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 38 (4d10 + 16)  
@@ -2582,6 +2712,8 @@ ___
 >_\[ Clockwork Iron Cobra \] \[ Mécane, cobra de fer \]_
 >
 >_Artificiel de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 91 (14d8 + 28)  
@@ -2620,6 +2752,8 @@ ___
 >
 >_Artificiel de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
@@ -2654,6 +2788,8 @@ ___
 >_\[ Avatar of Death \]_
 >
 >_Mort-vivant de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 20  
 >**Points de vie** la moitié du maximum de points de vie de son invocateur  
@@ -2691,6 +2827,8 @@ ___
 >
 >_Élémentaire de taille M, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle, bouclier)  
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m
@@ -2727,6 +2865,8 @@ ___
 >_\[ Babau \]_
 >
 >_Fiélon (démon) de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 82 (11d8 + 33)  
@@ -2766,6 +2906,8 @@ ___
 >_\[ Babau \]_
 >
 >_Fiélon (démon) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 82 (11d8 + 33)  
@@ -2807,6 +2949,8 @@ ___
 >
 >_Aberration de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 9  
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 3 m, nage 3 m
@@ -2843,6 +2987,8 @@ ___
 >
 >_Bête de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 3 (1d6)  
 >**Vitesse** 9 m, escalade 9 m
@@ -2874,6 +3020,8 @@ ___
 >_\[ Badîan \]_
 >
 >_Humanoïde (nain des montagnes) de taille M, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 16 (cotte de mailles)  
 >**Points de vie** 58 (9d8 + 18)  
@@ -2909,6 +3057,8 @@ ___
 >_\[ Bael \]_
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 189 (18d10 + 90)  
@@ -2957,6 +3107,8 @@ ___
 >_\[ Bael \]_
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 189 (18d10 + 90)  
@@ -3007,6 +3159,8 @@ ___
 >
 >_Aberration de taille G, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 7,50 m, escalade 7,50 m
@@ -3048,6 +3202,8 @@ ___
 >
 >_Aberration de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 7,50 m, escalade 7,50 m
@@ -3087,6 +3243,8 @@ ___
 >_\[ Balor \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 262 (21d12 + 126)  
@@ -3130,6 +3288,8 @@ ___
 >
 >_Monstruosité de taille G, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 9 m
@@ -3170,6 +3330,8 @@ ___
 >
 >_Monstruosité de taille G, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 9 m
@@ -3209,6 +3371,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement non loyal_
 >
+>___
+>
 >**Classe d'armure** 12 (armure de cuir)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
@@ -3239,6 +3403,8 @@ ___
 >_\[ Bandit Captain \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement non loyal_
+>
+>___
 >
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 65 (10d8 + 20)  
@@ -3274,6 +3440,8 @@ ___
 >_\[ Banshee \]_
 >
 >_Mort-vivant de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 58 (13d8)  
@@ -3314,6 +3482,8 @@ ___
 >_\[ Baphomet \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 319 (22d12 + 176)  
@@ -3361,6 +3531,8 @@ ___
 >_\[ Baphomet \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 275 (19d12 + 152)  
@@ -3411,6 +3583,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (chemise de mailles)  
 >**Points de vie** 44 (8d8 + 8)  
 >**Vitesse** 9 m
@@ -3449,6 +3623,8 @@ ___
 >_\[ Bard \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 15 (chemise de mailles)  
 >**Points de vie** 44 (8d8 + 8)  
@@ -3491,6 +3667,8 @@ ___
 >
 >_Fiélon de taille G, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 60 (8d10 + 16)  
 >**Vitesse** 18 m (9 m sous forme de gobelin)
@@ -3531,6 +3709,8 @@ ___
 >_\[ Barghest \]_
 >
 >_Fiélon (métamorphe) de taille G, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 90 (12d10 + 24)  
@@ -3573,6 +3753,8 @@ ___
 >_\[ Barlgura \]_
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 68 (8d10 + 24)  
@@ -3618,6 +3800,8 @@ ___
 >
 >_Monstruosité de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 6 m
@@ -3650,6 +3834,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 15 m
@@ -3679,6 +3865,8 @@ ___
 >_\[ Behir \]_
 >
 >_Monstruosité de taille TG, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 168 (16d12 + 64)  
@@ -3715,6 +3903,8 @@ ___
 >_\[ Belaphoss \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 262 (21d12 + 126)  
@@ -3761,6 +3951,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 9 m
@@ -3794,6 +3986,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 12 m
@@ -3826,6 +4020,8 @@ ___
 >_\[ Berbalang \]_
 >
 >_Aberration de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 49 (14d8 - 14)  
@@ -3865,6 +4061,8 @@ ___
 >
 >_Aberration de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 38 (11d8 - 11)  
 >**Vitesse** 9 m, vol 12 m
@@ -3902,6 +4100,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement chaotique_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de peaux)  
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 9 m
@@ -3933,6 +4133,8 @@ ___
 >_\[ Beast of the Sea \]_
 >
 >_Bête de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 13 + BM (armure naturelle)  
 >**Points de vie** 5 + cinq fois votre niveau de rôdeur (la bête a un nombre de Dés de vie \[d8\] égal à votre niveau de rôdeur)  
@@ -3966,6 +4168,8 @@ ___
 >
 >_Bête de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 13 + BM (armure naturelle)  
 >**Points de vie** 5 + cinq fois votre niveau de rôdeur (la bête a un nombre de Dés de vie \[d8\] égal à votre niveau de rôdeur)  
 >**Vitesse** 12 m, escalade 12 m
@@ -3998,6 +4202,8 @@ ___
 >
 >_Bête de taille P, -_
 >
+>___
+>
 >**Classe d'armure** 13 + BM (armure naturelle)  
 >**Points de vie** 4 + quatre fois votre niveau de rôdeur (la bête a un nombre de Dés de vie \[d6\] égal à votre niveau de rôdeur)  
 >**Vitesse** 3 m, vol 18 m
@@ -4029,6 +4235,8 @@ ___
 >_\[ Displacer Beast \]_
 >
 >_Monstruosité de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 85 (10d10 + 30)  
@@ -4065,6 +4273,8 @@ ___
 >
 >_Fiélon (bétail) de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 15 (2d10 + 4)  
 >**Vitesse** 9 m
@@ -4098,6 +4308,8 @@ ___
 >_\[ Stench Kow \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 15 (2d10 + 4)  
@@ -4134,6 +4346,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 3 (1d4 + 1)  
 >**Vitesse** 6 m, creusement 1,50 m
@@ -4165,6 +4379,8 @@ ___
 >_\[ Giant Badger \]_
 >
 >_Bête de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 13 (2d8 + 4)  
@@ -4200,6 +4416,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir clouté)  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m
@@ -4233,6 +4451,8 @@ ___
 >_\[ Ghast \]_
 >
 >_Mort-vivant de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 36 (8d8)  
@@ -4270,6 +4490,8 @@ ___
 >_\[ Bodak \]_
 >
 >_Mort-vivant de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 58 (9d8 + 18)  
@@ -4312,6 +4534,8 @@ ___
 >
 >_Mort-vivant de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m
@@ -4352,6 +4576,8 @@ ___
 >
 >_Bête (bétail) de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 15 (2d10 + 4)  
 >**Vitesse** 9 m
@@ -4384,6 +4610,8 @@ ___
 >_\[ Ox \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 15 (2d10 + 4)  
@@ -4418,6 +4646,8 @@ ___
 >_\[ Wood Woad \]_
 >
 >_Plante de taille M, typiquement loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle, bouclier)  
 >**Points de vie** 75 (10d8 + 30)  
@@ -4458,6 +4688,8 @@ ___
 >_\[ Wood Woad \]_
 >
 >_Plante de taille M, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle, bouclier)  
 >**Points de vie** 75 (10d8 + 30)  
@@ -4500,6 +4732,8 @@ ___
 >
 >_Fée de taille P, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 45 (6d6 + 24)  
 >**Vitesse** 7,50 m
@@ -4536,6 +4770,8 @@ ___
 >_\[ Redcap \]_
 >
 >_Fée de taille P, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 45 (6d6 + 24)  
@@ -4574,6 +4810,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m
@@ -4609,6 +4847,8 @@ ___
 >_\[ Swashbuckler \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 17 (armure de cuir, défense élégante)  
 >**Points de vie** 66 (12d8 + 12)  
@@ -4648,6 +4888,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement non loyal_
 >
+>___
+>
 >**Classe d'armure** 17 (armure de cuir)  
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m
@@ -4684,6 +4926,8 @@ ___
 >_\[ Vampiric Mist \]_
 >
 >_Mort-vivant de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 30 (4d8 + 12)  
@@ -4726,6 +4970,8 @@ ___
 >
 >_Mort-vivant de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 30 (4d8 + 12)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
@@ -4766,6 +5012,8 @@ ___
 >
 >_Humanoïde (brutacien) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de peaux, bouclier)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 6 m, nage 12 m
@@ -4803,6 +5051,8 @@ ___
 >_\[ Bullywug Knight \]_
 >
 >_Humanoïde de taille M, typiquement loyal bon_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 66 (12d8 + 12)  
@@ -4843,6 +5093,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 94 (9d10 + 45)  
 >**Vitesse** 12 m, creusement 12 m
@@ -4876,6 +5128,8 @@ ___
 >_\[ Bulezau \]_
 >
 >_Fiélon (démon) de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 52 (7d8 + 21)  
@@ -4915,6 +5169,8 @@ ___
 >
 >_Fiélon (démon) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 12 m
@@ -4952,6 +5208,8 @@ ___
 >
 >_Bête de taille Gig, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 189 (14d20 + 42)  
 >**Vitesse** 0 m, nage 18 m
@@ -4988,6 +5246,8 @@ ___
 >_\[ Cambion \]_
 >
 >_Fiélon de taille M, tout alignement mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure d'écailles)  
 >**Points de vie** 82 (11d8 + 33)  
@@ -5029,6 +5289,8 @@ ___
 >_\[ Canoloth \]_
 >
 >_Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 120 (16d8 + 48)  
@@ -5072,6 +5334,8 @@ ___
 >
 >_Fiélon (yugoloth) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 120 (16d8 + 48)  
 >**Vitesse** 15 m
@@ -5114,6 +5378,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 9 m
@@ -5148,6 +5414,8 @@ ___
 >_\[ Catoblepas \]_
 >
 >_Monstruosité de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 84 (8d10 + 40)  
@@ -5184,6 +5452,8 @@ ___
 >
 >_Monstruosité de taille G, neutre bon_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 15 m
@@ -5219,6 +5489,8 @@ ___
 >_\[ Brain in a Jar \]_
 >
 >_Mort-vivant de taille P, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 55 (10d6 + 20)  
@@ -5259,6 +5531,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 4 (1d8)  
 >**Vitesse** 15 m
@@ -5288,6 +5562,8 @@ ___
 >_\[ Elder Brain \]_
 >
 >_Aberration (flagelleur mental) de taille G, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 210 (20d10 + 100)  
@@ -5335,6 +5611,8 @@ ___
 >
 >_Aberration de taille Gig, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturwlle)  
 >**Points de vie** 350 (20d20 + 140)  
 >**Vitesse** 12 m, vol 24 m (stationnaire)
@@ -5379,6 +5657,8 @@ ___
 >_\[ Elder Brain \]_
 >
 >_Aberration de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 210 (20d10 + 100)  
@@ -5428,6 +5708,8 @@ ___
 >
 >_Bête de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 3 (1d6)  
 >**Vitesse** 12 m
@@ -5461,6 +5743,8 @@ ___
 >_\[ Uthgardt Shaman \]_
 >
 >_Humanoïde (humain) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de peaux)  
 >**Points de vie** 38 (7d8 + 7)  
@@ -5498,6 +5782,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 9  
 >**Points de vie** 15 (2d10 + 4)  
 >**Vitesse** 15 m
@@ -5527,6 +5813,8 @@ ___
 >_\[ Champion \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 143 (22d8 + 44)  
@@ -5567,6 +5855,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 143 (22d8 + 44)  
 >**Vitesse** 9 m
@@ -5605,6 +5895,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 51 (6d10 + 18)  
 >**Vitesse** 9 m, escalade 9 m
@@ -5641,6 +5933,8 @@ ___
 >_\[ Chasme \]_
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 84 (13d10 + 13)  
@@ -5682,6 +5976,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 12 m, escalade 9 m
@@ -5715,6 +6011,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 1,50 m, vol 9 m
@@ -5747,6 +6045,8 @@ ___
 >_\[ Were Bat \]_
 >
 >_Humanoïde (gobelin, métamorphe) de taille P, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 24 (7d6)  
@@ -5790,6 +6090,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 22 (4d10)  
 >**Vitesse** 3 m, vol 18 m
@@ -5823,6 +6125,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 18 m
@@ -5855,6 +6159,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 13 (2d10 + 2)  
 >**Vitesse** 18 m
@@ -5885,6 +6191,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 12 m
@@ -5914,6 +6222,8 @@ ___
 >_\[ Knight \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 52 (8d8 + 16)  
@@ -5951,6 +6261,8 @@ ___
 >_\[ Death Knight \]_
 >
 >_Mort-vivant de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 20 (harnois, bouclier)  
 >**Points de vie** 180 (19d8 + 95)  
@@ -5998,6 +6310,8 @@ ___
 >
 >_Humanoïde (paladin) de taille M, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 119 (14d8 + 56)  
 >**Vitesse** 9 m
@@ -6040,6 +6354,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement non bon_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 153 (18d8 + 72)  
 >**Vitesse** 9 m
@@ -6080,6 +6396,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 4 (1d8)  
 >**Vitesse** 12 m
@@ -6112,6 +6430,8 @@ ___
 >_\[ Mountain Goat \]_
 >
 >_Bête de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 11  
 >**Points de vie** 13 (2d8 + 4)  
@@ -6147,6 +6467,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 12 m
@@ -6181,6 +6503,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 12 m
@@ -6214,6 +6538,8 @@ ___
 >_\[ Hell Hound \] \[ Molosse infernal \]_
 >
 >_Fiélon de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 45 (7d8 + 14)  
@@ -6250,6 +6576,8 @@ ___
 >_\[ Yeth Hound \] \[ Molosse de yeth \]_
 >
 >_Fée de taille G, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 51 (6d10 + 18)  
@@ -6289,6 +6617,8 @@ ___
 >
 >_Fée de taille G, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 51 (6d10 + 18)  
 >**Vitesse** 12 m, vol 12 m (stationnaire)
@@ -6327,6 +6657,8 @@ ___
 >
 >_Monstruosité de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 12 m
@@ -6360,6 +6692,8 @@ ___
 >_\[ Blink Dog \]_
 >
 >_Fée de taille M, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 22 (4d8 + 4)  
@@ -6395,6 +6729,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 5 (1d8 + 1)  
 >**Vitesse** 12 m
@@ -6427,6 +6763,8 @@ ___
 >_\[ Wild Dog Alpha \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 26 (4d10 + 4)  
@@ -6465,6 +6803,8 @@ ___
 >
 >_Monstruosité de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 9 m, vol 18 m
@@ -6499,6 +6839,8 @@ ___
 >_\[ Chitine \]_
 >
 >_Monstruosité de taille P, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure de peaux)  
 >**Points de vie** 18 (4d6 + 4)  
@@ -6538,6 +6880,8 @@ ___
 >
 >_Monstruosité de taille P, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de peaux)  
 >**Points de vie** 18 (4d6 + 4)  
 >**Vitesse** 9 m, escalade 9 m
@@ -6575,6 +6919,8 @@ ___
 >_\[ Choldrith \]_
 >
 >_Monstruosité (clerc) de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 66 (12d8 + 12)  
@@ -6615,6 +6961,8 @@ ___
 >_\[ Choldrith \]_
 >
 >_Monstruosité de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 66 (12d8 + 12)  
@@ -6659,6 +7007,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 1,50 m, vol 18 m
@@ -6693,6 +7043,8 @@ ___
 >
 >_Bête de taille G, neutre_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 1,50 m, vol 18 m
@@ -6726,6 +7078,8 @@ ___
 >_\[ Chuul \]_
 >
 >_Aberration de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 93 (11d10 + 33)  
@@ -6765,6 +7119,8 @@ ___
 >
 >_Monstruosité de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 27 (6d6 + 6)  
 >**Vitesse** 6 m, vol 12 m
@@ -6794,6 +7150,8 @@ ___
 >_\[ Flail Snail \]_
 >
 >_Élémentaire de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 52 (5d10 + 25)  
@@ -6833,6 +7191,8 @@ ___
 >
 >_Élémentaire de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 52 (5d10 + 25)  
 >**Vitesse** 3 m
@@ -6870,6 +7230,8 @@ ___
 >_\[ Cadaver Collector \] \[ Collecteur cadavéreux \]_
 >
 >_Artificiel de taille G, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 189 (18d10 + 90)  
@@ -6910,6 +7272,8 @@ ___
 >
 >_Artificiel de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
@@ -6948,6 +7312,8 @@ ___
 >_\[ Warrior (lvl 1) \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 16 (chemise de mailles, bouclier)  
 >**Points de vie** 13 (2d8 + 4)  
@@ -6988,6 +7354,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 16 (chemise de mailles, bouclier)  
 >**Points de vie** 19 (3d8 + 6)  
 >**Vitesse** 9 m
@@ -7027,6 +7395,8 @@ ___
 >_\[ Warrior (lvl 3) \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 16 (chemise de mailles, bouclier)  
 >**Points de vie** 26 (4d8 + 8)  
@@ -7069,6 +7439,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 16 (chemise de mailles, bouclier)  
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m
@@ -7109,6 +7481,8 @@ ___
 >_\[ Warrior (lvl 5) \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 16 (chemise de mailles, bouclier)  
 >**Points de vie** 39 (6d8 + 12)  
@@ -7151,6 +7525,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 16 (chemise de mailles, bouclier)  
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
@@ -7191,6 +7567,8 @@ ___
 >
 >_Dragon de taille P, -_
 >
+>___
+>
 >**Classe d'armure** 14 + BM (armure naturelle)  
 >**Points de vie** 5 + cinq fois votre niveau de rôdeur (le drake a un nombre de dés de vie \[d10\] égal à votre niveau de rôdeur)  
 >**Vitesse** 12 m
@@ -7226,6 +7604,8 @@ ___
 >_\[ Iron Consul \]_
 >
 >_Humanoïde (humain) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (cotte de mailles)  
 >**Points de vie** 45 (6d8 + 18)  
@@ -7264,6 +7644,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 3 m, vol 15 m
@@ -7296,6 +7678,8 @@ ___
 >_\[ Couatl \]_
 >
 >_Céleste de taille M, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 97 (13d8 + 39)  
@@ -7339,6 +7723,8 @@ ___
 >
 >_Élémentaire de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 22 (3d10 + 6)  
 >**Vitesse** 15 m
@@ -7373,6 +7759,8 @@ ___
 >_\[ Giant Strider \]_
 >
 >_Monstruosité de taille G, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 22 (3d10 + 6)  
@@ -7409,6 +7797,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 6 m, nage 6 m
@@ -7441,6 +7831,8 @@ ___
 >_\[ Cave Fisher \]_
 >
 >_Monstruosité de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 58 (9d8 + 18)  
@@ -7481,6 +7873,8 @@ ___
 >
 >_Monstruosité de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 6 m, escalade 6 m
@@ -7519,6 +7913,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m, nage 9 m
@@ -7551,6 +7947,8 @@ ___
 >_\[ Death's Head of Bhaal \]_
 >
 >_Humanoïde (humain) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15  
 >**Points de vie** 76 (8d8 + 40)  
@@ -7588,6 +7986,8 @@ ___
 >_\[ Flameskull \]_
 >
 >_Mort-vivant de taille TP, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 40 (9d4 + 18)  
@@ -7633,6 +8033,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 39 (6d10 + 6)  
 >**Vitesse** 6 m, nage 12 m
@@ -7667,6 +8069,8 @@ ___
 >
 >_Plante de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 5  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 0 m
@@ -7698,6 +8102,8 @@ ___
 >_\[ Crocodile \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 19 (3d10 + 3)  
@@ -7731,6 +8137,8 @@ ___
 >_\[ Giant Crocodile \]_
 >
 >_Bête de taille TG, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 85 (9d12 + 27)  
@@ -7766,6 +8174,8 @@ ___
 >_\[ Crokek'toeck \]_
 >
 >_Fiélon (démon) de taille Gig, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 297 (17d20 + 119)  
@@ -7808,6 +8218,8 @@ ___
 >
 >_Vase de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 6  
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 4,50 m
@@ -7842,6 +8254,8 @@ ___
 >_\[ Astral Dreadnought \]_
 >
 >_Monstruosité (titan) de taille Gig, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 297 (17d20 + 119)  
@@ -7890,6 +8304,8 @@ ___
 >
 >_Monstruosité (titan) de taille Gig, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 297 (17d20 + 119)  
 >**Vitesse** 4,50 m, vol 24 m (stationnaire)
@@ -7937,6 +8353,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement non bon_
 >
+>___
+>
 >**Classe d'armure** 12 (armure de cuir)  
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 9 m
@@ -7969,6 +8387,8 @@ ___
 >_\[ Cyclops \]_
 >
 >_Géant de taille TG, chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 138 (12d12 + 60)  
@@ -8004,6 +8424,8 @@ ___
 >_\[ Dao \]_
 >
 >_Élémentaire de taille G, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 187 (15d10 + 105)  
@@ -8048,6 +8470,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 0 m, nage 18 m
@@ -8081,6 +8505,8 @@ ___
 >_\[ Dolphin Delighter \]_
 >
 >_Fée de taille M, typiquement chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 27 (5d8 + 5)  
@@ -8120,6 +8546,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 0 m, nage 18 m
@@ -8154,6 +8582,8 @@ ___
 >_\[ Steel Defender \]_
 >
 >_Artificiel de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 2 + votre modificateur d'Intelligence + cinq fois votre niveau d'artificier (le défenseur a un nombre de Dés de vie \[d8\] égal à votre niveau d'artificier)  
@@ -8193,6 +8623,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 65 (10d8 + 20)  
 >**Vitesse** 9 m
@@ -8229,6 +8661,8 @@ ___
 >_\[ Demilich \]_
 >
 >_Mort-vivant de taille TP, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 80 (32d4)  
@@ -8274,6 +8708,8 @@ ___
 >
 >_Géant de taille G, tout alignement chaotique_
 >
+>___
+>
 >**Classe d'armure** 12 (armure de peaux)  
 >**Points de vie** 30 (4d10 + 8)  
 >**Vitesse** 9 m
@@ -8305,6 +8741,8 @@ ___
 >_\[ Demogorgon \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 464 (32d12 + 256)  
@@ -8351,6 +8789,8 @@ ___
 >_\[ Demogorgon \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 406 (28d12 + 224)  
@@ -8404,6 +8844,8 @@ ___
 >
 >_Fiélon (démon) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m, vol 9 m
@@ -8445,6 +8887,8 @@ ___
 >
 >_Aberration de taille P, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
@@ -8481,6 +8925,8 @@ ___
 >
 >_Humanoïde (derro) de taille P, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
@@ -8515,6 +8961,8 @@ ___
 >_\[ Derro Savant \]_
 >
 >_Aberration (ensorceleur) de taille P, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 36 (8d6 + 8)  
@@ -8553,6 +9001,8 @@ ___
 >
 >_Humanoïde (derro) de taille P, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 36 (8d6 + 8)  
 >**Vitesse** 9 m
@@ -8587,6 +9037,8 @@ ___
 >_\[ Deslor \]_
 >
 >_Humanoïde (humain) de taille M, neutre_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 49 (9d8+9)  
@@ -8627,6 +9079,8 @@ ___
 >
 >_Fiélon de taille G, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 68 (8d10 + 24)  
 >**Vitesse** 18 m, vol 27 m
@@ -8661,6 +9115,8 @@ ___
 >_\[ Deva \]_
 >
 >_Céleste de taille M, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 136 (16d8 + 64)  
@@ -8705,6 +9161,8 @@ ___
 >
 >_Monstruosité de taille G, typiquement chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
@@ -8742,6 +9200,8 @@ ___
 >
 >_Monstruosité de taille G, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
@@ -8777,6 +9237,8 @@ ___
 >_\[ Diviner \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 67 (15d8)  
@@ -8824,6 +9286,8 @@ ___
 >
 >_Mort-vivant de taille G, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
@@ -8862,6 +9326,8 @@ ___
 >_\[ Intellect Devourer \]_
 >
 >_Aberration de taille TP, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 21 (6d4 + 6)  
@@ -8902,6 +9368,8 @@ ___
 >
 >_Fiélon de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 178 (17d10 + 85)  
 >**Vitesse** 9 m
@@ -8938,6 +9406,8 @@ ___
 >_\[ Dhergoloth \]_
 >
 >_Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 119 (14d8 + 56)  
@@ -8980,6 +9450,8 @@ ___
 >
 >_Fiélon (yugoloth) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 119 (14d8 + 56)  
 >**Vitesse** 9 m
@@ -9021,6 +9493,8 @@ ___
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 85 (10d8 + 40)  
 >**Vitesse** 9 m
@@ -9060,6 +9534,8 @@ ___
 >_\[ Barbed Devil \]_
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 110 (13d8 + 52)  
@@ -9103,6 +9579,8 @@ ___
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 9 m
@@ -9143,6 +9621,8 @@ ___
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 178 (17d10 + 85)  
 >**Vitesse** 6 m, vol 18 m
@@ -9182,6 +9662,8 @@ ___
 >_\[ Spined Devil \]_
 >
 >_Fiélon (diable) de taille P, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 22 (5d6 + 5)  
@@ -9225,6 +9707,8 @@ ___
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 180 (19d10 + 76)  
 >**Vitesse** 12 m
@@ -9266,6 +9750,8 @@ ___
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 142 (15d10 + 60)  
 >**Vitesse** 12 m, vol 12 m
@@ -9306,6 +9792,8 @@ ___
 >
 >_Fiélon (diable, métamorphe) de taille TP, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 10 (3d4 + 3)  
 >**Vitesse** 6 m, vol 12 m
@@ -9344,6 +9832,8 @@ ___
 >_\[ Pit Fiend \]_
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 300 (24d10 + 168)  
@@ -9389,6 +9879,8 @@ ___
 >
 >_Élémentaire de taille G, chaotique bon_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 161 (14d10 + 84)  
 >**Vitesse** 9 m, vol 27 m
@@ -9428,6 +9920,8 @@ ___
 >
 >_Monstruosité (métamorphe) de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 9 m
@@ -9466,6 +9960,8 @@ ___
 >
 >_Monstruosité de taille TG, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 218 (19d12 + 95)  
 >**Vitesse** 9 m, nage 9 m, vol 9 m
@@ -9503,6 +9999,8 @@ ___
 >_\[ Adult Blue Dracolich \]_
 >
 >_Mort-vivant de taille TG, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 225 (18d12 + 108)  
@@ -9551,6 +10049,8 @@ ___
 >
 >_Monstruosité de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 9 m
@@ -9592,6 +10092,8 @@ ___
 >
 >_Monstruosité de taille G, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 57 (6d10 + 24)  
 >**Vitesse** 9 m, vol 12 m
@@ -9629,6 +10131,8 @@ ___
 >
 >_Monstruosité de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
@@ -9664,6 +10168,8 @@ ___
 >_\[ Draconian Infiltrator \]_
 >
 >_Monstruosité de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 39 (6d8 + 12)  
@@ -9704,6 +10210,8 @@ ___
 >
 >_Monstruosité de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m
@@ -9742,6 +10250,8 @@ ___
 >
 >_Aberration de taille G, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 119 (14d10 + 42)  
 >**Vitesse** O m, vol 9 m (stationnaire)
@@ -9779,6 +10289,8 @@ ___
 >_\[ Draegloth \]_
 >
 >_Fiélon (démon) de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 123 (13d10 + 52)  
@@ -9820,6 +10332,8 @@ ___
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 123 (13d10 + 52)  
 >**Vitesse** 9 m
@@ -9860,6 +10374,8 @@ ___
 >_\[ Adult White Dragon \]_
 >
 >_Dragon (chromatique) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 200 (16d12 + 96)  
@@ -9905,6 +10421,8 @@ ___
 >
 >_Dragon (chromatique) de taille Gig, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 333 (18d20 + 144)  
 >**Vitesse** 12 m, creusement 12 m, nage 12 m, vol 24 m
@@ -9949,6 +10467,8 @@ ___
 >
 >_Dragon (chromatique) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m, creusement 4,50 m, nage 9 m, vol 18 m
@@ -9982,6 +10502,8 @@ ___
 >_\[ Young White Dragon \]_
 >
 >_Dragon (chromatique) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 133 (14d10 + 56)  
@@ -10020,6 +10542,8 @@ ___
 >_\[ Adult Blue Dragon \]_
 >
 >_Dragon (chromatique) de taille TG, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 225 (18d12 + 108)  
@@ -10064,6 +10588,8 @@ ___
 >
 >_Dragon (chromatique) de taille Gig, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 481 (26d20 + 208)  
 >**Vitesse** 12 m, creusement 12 m, vol 24 m
@@ -10107,6 +10633,8 @@ ___
 >
 >_Dragon (chromatique) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 9 m, creusement 4,50 m, vol 18 m
@@ -10140,6 +10668,8 @@ ___
 >_\[ Young Blue Dragon \]_
 >
 >_Dragon (chromatique) de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 152 (16d10 + 64)  
@@ -10176,6 +10706,8 @@ ___
 >_\[ Hollow Dragon \]_
 >
 >_Mort-vivant de taille TG, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 241 (21d12 + 105)  
@@ -10223,6 +10755,8 @@ ___
 >
 >_Dragon (métallique) de taille TG, chaotique bon_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 172 (15d12 + 75)  
 >**Vitesse** 12 m, creusement 9 m, vol 24 m
@@ -10267,6 +10801,8 @@ ___
 >_\[ Ancient Brass Dragon \] \[ Dragon d'airain, vénérable \]_
 >
 >_Dragon (métallique) de taille Gig, chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 297 (17d20 + 119)  
@@ -10314,6 +10850,8 @@ ___
 >
 >_Dragon (métallique) de taille M, chaotique bon_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 16 (3d8 + 3)  
 >**Vitesse** 9 m, creusement 4,50 m, vol 18 m
@@ -10349,6 +10887,8 @@ ___
 >_\[ Young Brass Dragon \]_
 >
 >_Dragon (métallique) de taille G, chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 110 (13d10 + 39)  
@@ -10387,6 +10927,8 @@ ___
 >_\[ Adult Amethyst Dragon \]_
 >
 >_Dragon (diamantin) de taille TG, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 229 (17d12 + 119)  
@@ -10437,6 +10979,8 @@ ___
 >
 >_Dragon (diamantin) de taille Gig, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 444 (24d20 + 192)  
 >**Vitesse** 12 m, vol 24 m (stationnaire), nage 12 m
@@ -10484,6 +11028,8 @@ ___
 >
 >_Dragon (diamantin) de taille M, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, vol 18 m (stationnaire), nage 9 m
@@ -10522,6 +11068,8 @@ ___
 >_\[ Young Amethyst Dragon \]_
 >
 >_Dragon (diamantin) de taille G, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 168 (16d10 + 80)  
@@ -10563,6 +11111,8 @@ ___
 >_\[ Adult Silver Dragon \]_
 >
 >_Dragon (métallique) de taille TG, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 243 (18d12 + 126)  
@@ -10610,6 +11160,8 @@ ___
 >
 >_Dragon (métallique) de taille Gig, loyal bon_
 >
+>___
+>
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 487 (25d20 + 225)  
 >**Vitesse** 12 m, vol 24 m
@@ -10656,6 +11208,8 @@ ___
 >
 >_Dragon (métallique) de taille M, loyal bon_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m, vol 18 m
@@ -10691,6 +11245,8 @@ ___
 >_\[ Young Silver Dragon \]_
 >
 >_Dragon (métallique) de taille G, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 168 (16d10 + 80)  
@@ -10729,6 +11285,8 @@ ___
 >_\[ Adult Emerald Dragon \]_
 >
 >_Dragon (diamantin) de taille TG, typiquement loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 207 (18d12 + 90)  
@@ -10780,6 +11338,8 @@ ___
 >
 >_Dragon (diamantin) de taille Gig, typiquement loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 332 (19d20 + 133)  
 >**Vitesse** 12 m, creusement 9 m, vol 24 m
@@ -10827,6 +11387,8 @@ ___
 >
 >_Dragon (diamantin) de taille M, typiquement loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m, creusement 6 m, vol 18 m
@@ -10864,6 +11426,8 @@ ___
 >_\[ Young Emerald Dragon \]_
 >
 >_Dragon (diamantin) de taille G, typiquement loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 142 (15d10 + 60)  
@@ -10904,6 +11468,8 @@ ___
 >_\[ Young Red Shadow Dragon \]_
 >
 >_Dragon de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 178 (17d10 + 85)  
@@ -10946,6 +11512,8 @@ ___
 >_\[ Adult Gold Dragon \]_
 >
 >_Dragon (métallique) de taille TG, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 256 (19d12 + 133)  
@@ -10994,6 +11562,8 @@ ___
 >
 >_Dragon (métallique) de taille Gig, loyal bon_
 >
+>___
+>
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 546 (28d20 + 252)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
@@ -11041,6 +11611,8 @@ ___
 >
 >_Dragon (métallique) de taille M, loyal bon_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 9 m, nage 9 m, vol 18 m
@@ -11078,6 +11650,8 @@ ___
 >_\[ Young Gold Dragon \]_
 >
 >_Dragon (métallique) de taille G, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 178 (17d10 + 85)  
@@ -11118,6 +11692,8 @@ ___
 >_\[ Adult Bronze Dragon \]_
 >
 >_Dragon (métallique) de taille TG, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 212 (17d12 + 102)  
@@ -11166,6 +11742,8 @@ ___
 >
 >_Dragon (métallique) de taille Gig, loyal bon_
 >
+>___
+>
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 444 (24d20 + 192)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
@@ -11213,6 +11791,8 @@ ___
 >
 >_Dragon (métallique) de taille M, loyal bon_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m, nage 9 m, vol 18 m
@@ -11250,6 +11830,8 @@ ___
 >_\[ Young Bronze Dragon \]_
 >
 >_Dragon (métallique) de taille G, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 142 (15d10 + 60)  
@@ -11290,6 +11872,8 @@ ___
 >_\[ Adult Crystal Dragon \]_
 >
 >_Dragon (diamantin) de taille TG, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 172 (15d12 + 75)  
@@ -11339,6 +11923,8 @@ ___
 >
 >_Dragon (diamantin) de taille Gig, typiquement chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 222 (12d20 + 96)  
 >**Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
@@ -11384,6 +11970,8 @@ ___
 >
 >_Dragon (diamantin) de taille M, typiquement chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m, creusement 4,50 m, escalade 9 m, vol 18 m
@@ -11421,6 +12009,8 @@ ___
 >_\[ Young Crystal Dragon \]_
 >
 >_Dragon (diamantin) de taille G, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 95 (10d10 + 40)  
@@ -11460,6 +12050,8 @@ ___
 >_\[ Adult Copper Dragon \]_
 >
 >_Dragon (métallique) de taille TG, chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 184 (16d12 + 80)  
@@ -11505,6 +12097,8 @@ ___
 >_\[ Ancient Copper Dragon \] \[ Dragon de cuivre, vénérable \]_
 >
 >_Dragon (métallique) de taille Gig, chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 350 (20d20 + 140)  
@@ -11552,6 +12146,8 @@ ___
 >
 >_Dragon (métallique) de taille M, chaotique bon_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m, escalade 9 m, vol 18 m
@@ -11587,6 +12183,8 @@ ___
 >_\[ Young Copper Dragon \]_
 >
 >_Dragon (métallique) de taille G, chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 119 (14d10 + 42)  
@@ -11625,6 +12223,8 @@ ___
 >_\[ Adult Sapphire Dragon \]_
 >
 >_Dragon (diamantin) de taille TG, typiquement loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 225 (18d12 + 108)  
@@ -11676,6 +12276,8 @@ ___
 >
 >_Dragon (diamantin) de taille Gig, typiquement loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 370 (20d20 + 160)  
 >**Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
@@ -11724,6 +12326,8 @@ ___
 >
 >_Dragon (diamantin) de taille M, typiquement loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m, creusement 4,50 m, escalade 9 m, vol 18 m
@@ -11763,6 +12367,8 @@ ___
 >_\[ Young Sapphire Dragon \]_
 >
 >_Dragon (diamantin) de taille G, typiquement loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 157 (15d10 + 75)  
@@ -11805,6 +12411,8 @@ ___
 >_\[ Adult Topaz Dragon \]_
 >
 >_Dragon (diamantin) de taille TG, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 210 (20d12 + 80)  
@@ -11855,6 +12463,8 @@ ___
 >
 >_Dragon (diamantin) de taille Gig, typiquement chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 280 (17d20 + 102)  
 >**Vitesse** 12 m, vol 24 m, nage 12 m
@@ -11902,6 +12512,8 @@ ___
 >
 >_Dragon (diamantin) de taille M, typiquement chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m, vol 18 m, nage 9 m
@@ -11939,6 +12551,8 @@ ___
 >_\[ Young Topaz Dragon \]_
 >
 >_Dragon (diamantin) de taille G, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 127 (17d10 + 34)  
@@ -11979,6 +12593,8 @@ ___
 >_\[ Adult Deep Dragon \]_
 >
 >_Dragon de taille TG, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 147 (14d12 + 56)  
@@ -12026,6 +12642,8 @@ ___
 >
 >_Dragon de taille Gig, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 201 (13d20 + 65)  
 >**Vitesse** 12 m, creusement 12 m, vol 24 m, nage 12 m
@@ -12071,6 +12689,8 @@ ___
 >
 >_Dragon de taille M, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m, creusement 4,50 m, vol 18 m, nage 9 m
@@ -12107,6 +12727,8 @@ ___
 >_\[ Young Deep Dragon \]_
 >
 >_Dragon de taille G, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 93 (11d10 + 33)  
@@ -12146,6 +12768,8 @@ ___
 >_\[ Ghost Dragon \]_
 >
 >_Mort-vivant de taille TG, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 324 (24d12 + 168)  
@@ -12189,6 +12813,8 @@ ___
 >_\[ Faerie Dragon \]_
 >
 >_Dragon de taille TP, chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 15  
 >**Points de vie** 14 (4d4 + 4)  
@@ -12236,6 +12862,8 @@ ___
 >
 >_Dragon (chromatique) de taille TG, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 195 (17d12 + 85)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
@@ -12281,6 +12909,8 @@ ___
 >
 >_Dragon (chromatique) de taille Gig, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 367 (21d20 + 147)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
@@ -12325,6 +12955,8 @@ ___
 >
 >_Dragon (chromatique) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m, nage 9 m, vol 18 m
@@ -12360,6 +12992,8 @@ ___
 >_\[ Young Black Dragon \]_
 >
 >_Dragon (chromatique) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 127 (15d10 + 45)  
@@ -12398,6 +13032,8 @@ ___
 >_\[ Adult Moonstone Dragon \]_
 >
 >_Dragon de taille TG, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 195 (17d12 + 85)  
@@ -12447,6 +13083,8 @@ ___
 >
 >_Dragon de taille Gig, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 330 (20d20 + 120)  
 >**Vitesse** 12 m, vol 24 m
@@ -12490,6 +13128,8 @@ ___
 >
 >_Dragon de taille M, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m, vol 18 m
@@ -12525,6 +13165,8 @@ ___
 >_\[ Young Moonstone Dragon \]_
 >
 >_Dragon de taille G, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 144 (17d10 + 51)  
@@ -12564,6 +13206,8 @@ ___
 >_\[ Adult Red Dragon \]_
 >
 >_Dragon (chromatique) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 256 (19d12 + 133)  
@@ -12608,6 +13252,8 @@ ___
 >
 >_Dragon (chromatique) de taille Gig, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 546 (28d20 + 252)  
 >**Vitesse** 12 m, escalade 12 m, vol 24 m
@@ -12651,6 +13297,8 @@ ___
 >
 >_Dragon (chromatique) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, escalade 9 m, vol 18 m
@@ -12684,6 +13332,8 @@ ___
 >_\[ Young Red Dragon \]_
 >
 >_Dragon (chromatique) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 178 (17d10 + 85)  
@@ -12720,6 +13370,8 @@ ___
 >_\[ Dragon Turtle \]_
 >
 >_Dragon de taille Gig, neutre_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 341 (22d20 + 110)  
@@ -12759,6 +13411,8 @@ ___
 >
 >_Dragon de taille Gig, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 409 (21d20 + 189)  
 >**Vitesse** 9 m, nage 18 m
@@ -12793,6 +13447,8 @@ ___
 >
 >_Dragon de taille G, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 6 m, nage 9 m
@@ -12824,6 +13480,8 @@ ___
 >_\[ Young Dragon Turtle \]_
 >
 >_Dragon de taille TG, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 178 (17d12 + 68)  
@@ -12857,6 +13515,8 @@ ___
 >_\[ Adult Green Dragon \]_
 >
 >_Dragon (chromatique) de taille TG, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 207 (18d12 + 90)  
@@ -12903,6 +13563,8 @@ ___
 >
 >_Dragon (chromatique) de taille Gig, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 385 (22d20 + 154)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
@@ -12948,6 +13610,8 @@ ___
 >
 >_Dragon (chromatique) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 9 m, nage 9 m, vol 18 m
@@ -12984,6 +13648,8 @@ ___
 >_\[ Young Green Dragon \]_
 >
 >_Dragon (chromatique) de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 136 (16d10 + 48)  
@@ -13024,6 +13690,8 @@ ___
 >
 >_Dragon de taille G, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 58 (9d10 + 9)  
 >**Vitesse** 9 m, vol 18 m
@@ -13058,6 +13726,8 @@ ___
 >_\[ Guard Drake \] \[ Guivre gardienne \]_
 >
 >_Dragon de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 52 (7d8 + 21)  
@@ -13094,6 +13764,8 @@ ___
 >
 >_Dragon de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 9 m
@@ -13127,6 +13799,8 @@ ___
 >_\[ Dragonborn of Bahamut \]_
 >
 >_Humanoïde de taille G, typiquement loyal bon_
+>
+>___
 >
 >**Classe d'armure** 18 (demi-plate, bouclier)  
 >**Points de vie** 93 (11d8 + 44)  
@@ -13166,6 +13840,8 @@ ___
 >_\[ Dragonborn of Sardior \]_
 >
 >_Humanoïde de taille G, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 20 (défense mentale)  
 >**Points de vie** 75 (10d8 + 30)  
@@ -13209,6 +13885,8 @@ ___
 >
 >_Humanoïde de taille G, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 85 (10d8 + 40)  
 >**Vitesse** 9 m
@@ -13247,6 +13925,8 @@ ___
 >
 >_Monstruosité de taille G, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 119 (14d10 + 42)  
 >**Vitesse** 12 m, vol 18 m
@@ -13277,6 +13957,8 @@ ___
 >_\[ Dretch \]_
 >
 >_Fiélon (démon) de taille P, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 18 (4d6 + 4)  
@@ -13313,6 +13995,8 @@ ___
 >_\[ Drider \]_
 >
 >_Monstruosité de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 123 (13d10 + 52)  
@@ -13356,6 +14040,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (chemise de mailles)  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m
@@ -13393,6 +14079,8 @@ ___
 >_\[ Drow Arachnomancer \]_
 >
 >_Humanoïde (elfe) de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 162 (25d8 + 50)  
@@ -13439,6 +14127,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 162 (25d8 + 50)  
 >**Vitesse** 9 m, escalade 9 m
@@ -13484,6 +14174,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (cotte de mailles)  
 >**Points de vie** 162 (25d8 + 50)  
 >**Vitesse** 9 m
@@ -13526,6 +14218,8 @@ ___
 >_\[ Drow House Captain \]_
 >
 >_Humanoïde (elfe) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (cotte de mailles)  
 >**Points de vie** 162 (25d8 + 50)  
@@ -13571,6 +14265,8 @@ ___
 >
 >_Humanoïde (elfe, magicien) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 15  
 >**Points de vie** 240 (32d8 + 96)  
 >**Vitesse** 9 m
@@ -13611,6 +14307,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (18 avec _armure de mage_)  
 >**Points de vie** 225 (30d8 + 90)  
 >**Vitesse** 9 m
@@ -13650,6 +14348,8 @@ ___
 >_\[ Drow Elite Warrior \]_
 >
 >_Humanoïde (elfe) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure de cuir clouté, bouclier)  
 >**Points de vie** 71 (11d8 + 22)  
@@ -13693,6 +14393,8 @@ ___
 >
 >_Humanoïde (elfe, clerc) de taille M, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (cuirasse)  
 >**Points de vie** 149 (23d8 + 46)  
 >**Vitesse** 9 m
@@ -13733,6 +14435,8 @@ ___
 >_\[ Drow Inquisitor \]_
 >
 >_Humanoïde (elfe) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (cuirasse)  
 >**Points de vie** 143 (22d8 + 44)  
@@ -13785,6 +14489,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 45 (10d8)  
 >**Vitesse** 9 m
@@ -13830,6 +14536,8 @@ ___
 >_\[ Drow Matron Mother \]_
 >
 >_Humanoïde (elfe, clerc) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (demi-plate)  
 >**Points de vie** 247 (33d8 + 99)  
@@ -13878,6 +14586,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (demi-plate)  
 >**Points de vie** 262 (35d8 + 105)  
 >**Vitesse** 9 m
@@ -13924,6 +14634,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 17 (armure de cuir clouté)  
 >**Points de vie** 150 (20d8 + 60)  
 >**Vitesse** 9 m
@@ -13965,6 +14677,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure de cuir clouté)  
 >**Points de vie** 150 (20d8 + 60)  
 >**Vitesse** 9 m
@@ -14003,6 +14717,8 @@ ___
 >_\[ Drow Priestess of Lolth \]_
 >
 >_Humanoïde (elfe) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure d'écailles)  
 >**Points de vie** 71 (13d8 + 13)  
@@ -14052,6 +14768,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 11 (16 avec _peau d'écorce_)  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
@@ -14086,6 +14804,8 @@ ___
 >_\[ Frost Druid \]_
 >
 >_Humanoïde (humain) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de peaux)  
 >**Points de vie** 67 (9d8 + 27)  
@@ -14130,6 +14850,8 @@ ___
 >
 >_Fée de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 11 (16 avec _peau d'écorce_)  
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
@@ -14170,6 +14892,8 @@ ___
 >
 >_Humanoïde (nain) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure d'écailles, bouclier)  
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 7,50 m
@@ -14206,6 +14930,8 @@ ___
 >_\[ Duergar Soulblade \]_
 >
 >_Humanoïde (nain) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure de cuir)  
 >**Points de vie** 27 (6d8)  
@@ -14244,6 +14970,8 @@ ___
 >
 >_Humanoïde (nain) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de cuir)  
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 7,50 m
@@ -14281,6 +15009,8 @@ ___
 >_\[ Duergar Despot \]_
 >
 >_Humanoïde (nain) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 119 (14d8 + 56)  
@@ -14323,6 +15053,8 @@ ___
 >_\[ Duergar Despot \]_
 >
 >_Humanoïde (nain) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 119 (14d8 + 56)  
@@ -14368,6 +15100,8 @@ ___
 >
 >_Humanoïde (nain) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 18 (cotte de mailles, bouclier)  
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 7,50 m
@@ -14408,6 +15142,8 @@ ___
 >
 >_Humanoïde (nain) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (cotte de mailles, bouclier)  
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 7,50 m
@@ -14446,6 +15182,8 @@ ___
 >_\[ Duergar Kavalrachni \]_
 >
 >_Humanoïde (nain) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 16 (armure d'écailles, bouclier)  
 >**Points de vie** 26 (4d8 + 8)  
@@ -14486,6 +15224,8 @@ ___
 >
 >_Humanoïde (nain) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure d'écailles, bouclier)  
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 7,50 m
@@ -14524,6 +15264,8 @@ ___
 >_\[ Duergar Mind Master \]_
 >
 >_Humanoïde (nain) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure de cuir)  
 >**Points de vie** 39 (6d8 + 12)  
@@ -14566,6 +15308,8 @@ ___
 >
 >_Humanoïde (nain) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de cuir)  
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 7,50 m
@@ -14607,6 +15351,8 @@ ___
 >
 >_Humanoïde (nain) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 20 (harnois, bouclier)  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 7,50 m
@@ -14646,6 +15392,8 @@ ___
 >_\[ Duergar Warlord \]_
 >
 >_Humanoïde (nain) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 20 (harnois, bouclier)  
 >**Points de vie** 75 (10d8 + 30)  
@@ -14687,6 +15435,8 @@ ___
 >
 >_Humanoïde (nain) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 7,50 m
@@ -14725,6 +15475,8 @@ ___
 >
 >_Humanoïde (nain) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 7,50 m
@@ -14762,6 +15514,8 @@ ___
 >
 >_Artificiel de taille M, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
@@ -14797,6 +15551,8 @@ ___
 >_\[ Dybbuk \]_
 >
 >_Fiélon (démon) de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14  
 >**Points de vie** 37 (5d8 + 15)  
@@ -14839,6 +15595,8 @@ ___
 >
 >_Fiélon (démon) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 37 (5d8 + 15)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
@@ -14878,6 +15636,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 16 (3d8 + 3)  
 >**Vitesse** 9 m
@@ -14913,6 +15673,8 @@ ___
 >
 >_Mort-vivant de taille TG, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 17 (déflexion)  
 >**Points de vie** 168 (16d12 + 64)  
 >**Vitesse** 0 m, vol 24 m (stationnaire)
@@ -14947,6 +15709,8 @@ ___
 >_\[ Efreeti \]_
 >
 >_Élémentaire de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 200 (16d10 + 112)  
@@ -14986,6 +15750,8 @@ ___
 >_\[ Eidolon \]_
 >
 >_Mort-vivant de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 9  
 >**Points de vie** 63 (18d8 - 18)  
@@ -15028,6 +15794,8 @@ ___
 >
 >_Mort-vivant de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 9  
 >**Points de vie** 63 (18d8 - 18)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
@@ -15067,6 +15835,8 @@ ___
 >_\[ Autumn Eladrin \]_
 >
 >_Fée (elfe) de taille M, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 165 (22d8 + 66)  
@@ -15109,6 +15879,8 @@ ___
 >
 >_Fée (elfe) de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
@@ -15147,6 +15919,8 @@ ___
 >_\[ Summer Eladrin \]_
 >
 >_Fée (elfe) de taille M, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 165 (22d8 + 66)  
@@ -15188,6 +15962,8 @@ ___
 >
 >_Fée (elfe) de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 15 m
@@ -15226,6 +16002,8 @@ ___
 >_\[ Winter Eladrin \]_
 >
 >_Fée (elfe) de taille M, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 165 (22d8 + 66)  
@@ -15267,6 +16045,8 @@ ___
 >
 >_Fée (elfe) de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
@@ -15304,6 +16084,8 @@ ___
 >_\[ Spring Eladrin \]_
 >
 >_Fée (elfe) de taille M, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 165 (22d8 + 66)  
@@ -15345,6 +16127,8 @@ ___
 >
 >_Fée (elfe) de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
@@ -15384,6 +16168,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 13 (2d10 + 2)  
 >**Vitesse** 15 m
@@ -15416,6 +16202,8 @@ ___
 >_\[ Giant Elk \]_
 >
 >_Bête de taille TG, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 42 (5d12 + 10)  
@@ -15450,6 +16238,8 @@ ___
 >_\[ Air Elemental \]_
 >
 >_Élémentaire de taille G, neutre_
+>
+>___
 >
 >**Classe d'armure** 15  
 >**Points de vie** 90 (12d10 + 24)  
@@ -15489,6 +16279,8 @@ ___
 >
 >_Élémentaire de taille TP, neutre_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 16 (6d4 + 6)  
 >**Vitesse** 0 m, vol 9 m
@@ -15525,6 +16317,8 @@ ___
 >_\[ Air Elemental Myrmidon \]_
 >
 >_Élémentaire de taille M, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 117 (18d8 + 36)  
@@ -15563,6 +16357,8 @@ ___
 >
 >_Élémentaire de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 117 (18d8 + 36)  
 >**Vitesse** 9 m, vol 9 m (stationnaire)
@@ -15599,6 +16395,8 @@ ___
 >_\[ Water Elemental \]_
 >
 >_Élémentaire de taille G, neutre_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 114 (12d10 + 48)  
@@ -15639,6 +16437,8 @@ ___
 >
 >_Élémentaire de taille P, neutre_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 39 (6d6 + 18)  
 >**Vitesse** 9 m, nage 9 m
@@ -15677,6 +16477,8 @@ ___
 >
 >_Élémentaire de taille M, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 12 m, nage 12 m
@@ -15714,6 +16516,8 @@ ___
 >
 >_Élémentaire de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 12 m, nage 12 m
@@ -15750,6 +16554,8 @@ ___
 >_\[ Earth Elemental \]_
 >
 >_Élémentaire de taille G, neutre_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 126 (12d10 + 60)  
@@ -15789,6 +16595,8 @@ ___
 >
 >_Élémentaire de taille P, neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 3 m (9 m s'il descend), creusement 9 m
@@ -15824,6 +16632,8 @@ ___
 >_\[ Earth Elemental Myrmidon \]_
 >
 >_Élémentaire de taille M, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 127 (17d8 + 51)  
@@ -15862,6 +16672,8 @@ ___
 >
 >_Élémentaire de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
@@ -15898,6 +16710,8 @@ ___
 >_\[ Fire Elemental \]_
 >
 >_Élémentaire de taille G, neutre_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 102 (12d10 + 36)  
@@ -15937,6 +16751,8 @@ ___
 >
 >_Élémentaire de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m
@@ -15972,6 +16788,8 @@ ___
 >_\[ Fire Elemental Myrmidon \]_
 >
 >_Élémentaire de taille M, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 123 (19d8 + 38)  
@@ -16012,6 +16830,8 @@ ___
 >
 >_Élémentaire de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 123 (19d8 + 38)  
 >**Vitesse** 12 m
@@ -16051,6 +16871,8 @@ ___
 >
 >_Bête de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 76 (8d12 + 24)  
 >**Vitesse** 12 m
@@ -16083,6 +16905,8 @@ ___
 >_\[ Elric \]_
 >
 >_Humanoïde (humain) de taille M, neutre_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 7 (2d8 - 2)  
@@ -16119,6 +16943,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
@@ -16151,6 +16977,8 @@ ___
 >_\[ Empyrean \]_
 >
 >_Céleste (titan) de taille TG, chaotique bon (75 %) ou neutre mauvais (25 %)_
+>
+>___
 >
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 313 (19d12 + 190)  
@@ -16197,6 +17025,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m
@@ -16239,6 +17069,8 @@ ___
 >
 >_Monstruosité de taille G, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 3 m, escalade 3 m
@@ -16277,6 +17109,8 @@ ___
 >
 >_Bête de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 90 (12d12 + 12)  
 >**Vitesse** 0 m, nage 18 m
@@ -16311,6 +17145,8 @@ ___
 >_\[ Flying Sword \]_
 >
 >_Artificiel de taille P, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 17 (5d6)  
@@ -16348,6 +17184,8 @@ ___
 >
 >_Plante de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
@@ -16384,6 +17222,8 @@ ___
 >_\[ Scarecrow \]_
 >
 >_Artificiel de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 11  
 >**Points de vie** 36 (8d8)  
@@ -16423,6 +17263,8 @@ ___
 >_\[ Erinyes \]_
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 153 (18d8 + 72)  
@@ -16464,6 +17306,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 27 (6d8)  
 >**Vitesse** 9 m
@@ -16500,6 +17344,8 @@ ___
 >_\[ Aberrant Spirit \]_
 >
 >_Aberration de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 11 + le niveau du sort (armure naturelle)  
 >**Points de vie** 40 + 10 pour chaque niveau de sort supérieur au niveau 4  
@@ -16538,6 +17384,8 @@ ___
 >
 >_Artificiel de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 13 + le niveau du sort (armure naturelle)  
 >**Points de vie** 40 + 15 pour chaque niveau de sort supérieur au niveau 4  
 >**Vitesse** 9 m
@@ -16575,6 +17423,8 @@ ___
 >
 >_Élémentaire de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 11 + le niveau du sort (armure naturelle)  
 >**Points de vie** 50 + 10 pour chaque niveau de sort supérieur au niveau 4  
 >**Vitesse** 12 m ; creusement 12 m (Terre uniquement) ; vol 12 m (stationnaire) (Air uniquement) ; nage 12 m (Eau uniquement)
@@ -16610,6 +17460,8 @@ ___
 >_\[ Shadow Spirit \]_
 >
 >_Monstruosité de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 11 + le niveau du sort (armure naturelle)  
 >**Points de vie** 35 + 15 pour chaque niveau de sort supérieur au niveau 3  
@@ -16648,6 +17500,8 @@ ___
 >
 >_Bête de taille P, -_
 >
+>___
+>
 >**Classe d'armure** 11 + le niveau du sort (armure naturelle)  
 >**Points de vie** 20 (Air uniquement) ou 30 (Terre et Eau uniquement) + 5 pour chaque niveau de sort supérieur au niveau 2  
 >**Vitesse** 9 m ; escalade 9 m (Terre uniquement) ; vol 18 m (Air uniquement) ; nage 9 m (Eau uniquement)
@@ -16682,6 +17536,8 @@ ___
 >_\[ Celestial Spirit \]_
 >
 >_Céleste de taille G, -_
+>
+>___
 >
 >**Classe d'armure** 11 + le niveau du sort (armure naturelle) + 2 (Protecteur uniquement)  
 >**Points de vie** 40 + 10 pour chaque niveau de sort supérieur au niveau 5  
@@ -16719,6 +17575,8 @@ ___
 >
 >_Fée de taille P, -_
 >
+>___
+>
 >**Classe d'armure** 12 + le niveau du sort (armure naturelle)  
 >**Points de vie** 30 + 10 pour chaque niveau de sort supérieur au niveau 3  
 >**Vitesse** 12 m
@@ -16755,6 +17613,8 @@ ___
 >_\[ Fiendish Spirit \]_
 >
 >_Fiélon de taille G, -_
+>
+>___
 >
 >**Classe d'armure** 12 + le niveau du sort (armure naturelle)  
 >**Points de vie** 50 (démon uniquement) or 40 (diable uniquement) or 60 (yugoloth uniquement) + 15 pour chaque niveau de sort supérieur au niveau 6  
@@ -16796,6 +17656,8 @@ ___
 >
 >_Mort-vivant de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 11 + le niveau du sort (armure naturelle)  
 >**Points de vie** 30 (fantôme et putréfié uniquement) or 20 (squelette uniquement) + 10 pour chaque niveau de sort supérieur au niveau 3  
 >**Vitesse** 9 m ; vol 12 m (stationnaire) (fantôme uniquement)
@@ -16834,6 +17696,8 @@ ___
 >
 >_Élémentaire de taille P, -_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 5 + cinq fois votre niveau de druide  
 >**Vitesse** 9 m, vol 9 m (stationnaire)
@@ -16867,6 +17731,8 @@ ___
 >_\[ Draconic Spirit \]_
 >
 >_Dragon de taille G, neutre_
+>
+>___
 >
 >**Classe d'armure** 14 + le niveau du sort (armure naturelle)  
 >**Points de vie** 50 + 10 pour chaque niveau pour chaque niveau de sort supérieur au niveau 5 (le dragon a un nombre de dés de vie \[d10\] égal au niveau du sort)  
@@ -16905,6 +17771,8 @@ ___
 >
 >_Fée de taille TP, neutre bon_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de cuir)  
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 3 m, vol 12 m
@@ -16938,6 +17806,8 @@ ___
 >_\[ Choker \]_
 >
 >_Aberration de taille P, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 13 (3d6 + 3)  
@@ -16976,6 +17846,8 @@ ___
 >
 >_Aberration de taille P, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
@@ -17011,6 +17883,8 @@ ___
 >_\[ Skull Lasher of Myrkul \]_
 >
 >_Humanoïde (humain) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 32 (5d8 + 10)  
@@ -17051,6 +17925,8 @@ ___
 >
 >_Monstruosité de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 44 (8d8 + 8)  
 >**Vitesse** 9 m, escalade 9 m
@@ -17089,6 +17965,8 @@ ___
 >
 >_Géant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 12 m
@@ -17124,6 +18002,8 @@ ___
 >_\[ Skulk \]_
 >
 >_Monstruosité de taille M, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 14  
 >**Points de vie** 18 (4d8)  
@@ -17162,6 +18042,8 @@ ___
 >
 >_Humanoïde de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 9 m
@@ -17198,6 +18080,8 @@ ___
 >_\[ Evoker \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 66 (12d8 + 12)  
@@ -17243,6 +18127,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (Défense sans armure)  
 >**Points de vie** 60 (11d8 + 11)  
 >**Vitesse** 12 m
@@ -17282,6 +18168,8 @@ ___
 >_\[ Martial Arts Adept \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 16  
 >**Points de vie** 60 (11d8 + 11)  
@@ -17325,6 +18213,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de cuir clouté)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
@@ -17364,6 +18254,8 @@ ___
 >_\[ Expert (lvl 2) \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 14 (armure de cuir clouté)  
 >**Points de vie** 16 (3d8 + 3)  
@@ -17405,6 +18297,8 @@ ___
 >_\[ Expert (lvl 3) \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 14 (armure de cuir clouté)  
 >**Points de vie** 22 (4d8 + 4)  
@@ -17448,6 +18342,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de cuir clouté)  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
@@ -17489,6 +18385,8 @@ ___
 >_\[ Expert (lvl 5) \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 14 (armure de cuir clouté)  
 >**Points de vie** 33 (6d8 + 6)  
@@ -17532,6 +18430,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de cuir clouté)  
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 9 m
@@ -17573,6 +18473,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement non bon_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
@@ -17609,6 +18511,8 @@ ___
 >_\[ Ghost \]_
 >
 >_Mort-vivant de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 11  
 >**Points de vie** 45 (10d8)  
@@ -17649,6 +18553,8 @@ ___
 >
 >_Fée de taille P, typiquement chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 18 (4d6 + 4)  
 >**Vitesse** 9 m, escalade 9 m
@@ -17685,6 +18591,8 @@ ___
 >_\[ Boggle \]_
 >
 >_Fée de taille P, chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 14  
 >**Points de vie** 18 (4d6 + 4)  
@@ -17724,6 +18632,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 12 m
@@ -17761,6 +18671,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 3 m, vol 18 m
@@ -17793,6 +18705,8 @@ ___
 >_\[ Blood Hawk \]_
 >
 >_Bête de taille P, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 7 (2d6)  
@@ -17827,6 +18741,8 @@ ___
 >_\[ Will-o'-Wisp \]_
 >
 >_Mort-vivant de taille TP, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 19  
 >**Points de vie** 22 (9d4)  
@@ -17867,6 +18783,8 @@ ___
 >
 >_Aberration de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (cuirasse)  
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
@@ -17905,6 +18823,8 @@ ___
 >_\[ Corpse Flower \]_
 >
 >_Plante de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 127 (15d10 + 45)  
@@ -17946,6 +18866,8 @@ ___
 >
 >_Plante de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 127 (15d10 + 45)  
 >**Vitesse** 6 m, escalade 6 m
@@ -17982,6 +18904,8 @@ ___
 >_\[ Flind \]_
 >
 >_Fiélon (gnoll) de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (cuirasse)  
 >**Points de vie** 127 (15d8 + 60)  
@@ -18022,6 +18946,8 @@ ___
 >
 >_Humanoïde (gnoll) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (cotte de mailles)  
 >**Points de vie** 127 (15d8 + 60)  
 >**Vitesse** 9 m
@@ -18061,6 +18987,8 @@ ___
 >
 >_Aberration de taille P, loyal bon_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 1,50 m, vol 9 m
@@ -18099,6 +19027,8 @@ ___
 >
 >_Géant de taille TG, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 149 (13d12 + 65)  
 >**Vitesse** 9 m
@@ -18134,6 +19064,8 @@ ___
 >_\[ Witchlight Hand \]_
 >
 >_Humanoïde de taille M ou P, -_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 9 (2d8) si M, 7 (2d6) si P  
@@ -18172,6 +19104,8 @@ ___
 >\[ Fraz-Urb'luu \]
 >
 >Fiélon (démon) de taille G, chaotique mauvais
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 337 (27d10 + 189)  
@@ -18218,6 +19152,8 @@ ___
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 337 (27d10 + 189)  
 >**Vitesse** 12 m, vol 12 m
@@ -18263,6 +19199,8 @@ ___
 >
 >_Monstruosité de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 161 (14d12 + 70)  
 >**Vitesse** 9 m, nage 9 m
@@ -18302,6 +19240,8 @@ ___
 >_\[ Froghemoth \] \[ Crapaudonte \]_
 >
 >_Monstruosité de taille TG, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 184 (16d12 + 80)  
@@ -18343,6 +19283,8 @@ ___
 >
 >_Élémentaire de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 85 (9d8 + 45)  
 >**Vitesse** 4,50 m (9 m lorsqu'il roule, 18 m s'il roule en descente)
@@ -18380,6 +19322,8 @@ ___
 >_\[ Black Gauntlet of Bane \]_
 >
 >_Humanoïde (humain) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (cotte de mailles)  
 >**Points de vie** 51 (6d8 + 24)  
@@ -18426,6 +19370,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (chemise de mailles, bouclier)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
@@ -18456,6 +19402,8 @@ ___
 >_\[ Shield Guardian \] \[ Garde animé \]_
 >
 >_Artificiel de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 142 (15d10 + 60)  
@@ -18495,6 +19443,8 @@ ___
 >
 >_Élémentaire de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 9 m, vol 18 m
@@ -18531,6 +19481,8 @@ ___
 >_\[ Jackalwere \]_
 >
 >_Humanoïde (métamorphe) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 18 (4d8)  
@@ -18571,6 +19523,8 @@ ___
 >
 >_Aberration (tyrannoeil) de taille M, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
@@ -18608,6 +19562,8 @@ ___
 >_\[ Gauth \]_
 >
 >_Aberration de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 67 (9d8 + 27)  
@@ -18653,6 +19609,8 @@ ___
 >
 >_Aberration (tyrannoeil) de taille TP, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 13 (3d4 + 6)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
@@ -18690,6 +19648,8 @@ ___
 >_\[ Gazer \]_
 >
 >_Aberration de taille TP, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 13 (3d4 + 6)  
@@ -18733,6 +19693,8 @@ ___
 >
 >_Géant de taille TG, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 105 (10d12 + 40)  
 >**Vitesse** 12 m
@@ -18765,6 +19727,8 @@ ___
 >_\[ Cursed Hill Giant \]_
 >
 >_Géant de taille P, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 27 (6d6 + 6)  
@@ -18800,6 +19764,8 @@ ___
 >_\[ Cloud Giant \]_
 >
 >_Géant de taille TG, neutre bon (50 %) ou neutre mauvais (50 %)_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 200 (16d12 + 96)  
@@ -18840,6 +19806,8 @@ ___
 >
 >_Géant de taille TG, typiquement chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 250 (20d12 + 120)  
 >**Vitesse** 12 m, vol 12 m (stationnaire)
@@ -18879,6 +19847,8 @@ ___
 >_\[ Cloud Giant Smiling One \]_
 >
 >_Géant (géant des nuages) de taille TG, chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 262 (21d12 + 126)  
@@ -18927,6 +19897,8 @@ ___
 >
 >_Géant de taille TG, neutre_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 126 (11d12 + 55)  
 >**Vitesse** 12 m
@@ -18963,6 +19935,8 @@ ___
 >_\[ Stone Giant Dreamwalker \]_
 >
 >_Géant de taille TG, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 161 (14d12 + 70)  
@@ -19003,6 +19977,8 @@ ___
 >
 >_Géant (géant des pierres) de taille TG, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 161 (14d12 + 70)  
 >**Vitesse** 12 m
@@ -19041,6 +20017,8 @@ ___
 >_\[ Storm Giant \]_
 >
 >_Géant de taille TG, chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 16 (armure d'écailles)  
 >**Points de vie** 230 (20d12 + 100)  
@@ -19082,6 +20060,8 @@ ___
 >_\[ Storm Giant Quintessent \]_
 >
 >_Géant de taille TG, typiquement chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 230 (20d12 + 100)  
@@ -19125,6 +20105,8 @@ ___
 >
 >_Géant (géant des tempêtes) de taille TG, chaotique bon_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 230 (20d12 + 100)  
 >**Vitesse** 15 m, nage 15 m, vol 15 m (stationnaire)
@@ -19167,6 +20149,8 @@ ___
 >
 >_Géant de taille TG, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 162 (13d12 + 78)  
 >**Vitesse** 9 m
@@ -19201,6 +20185,8 @@ ___
 >_\[ Fire Giant Dreadnought \]_
 >
 >_Géant de taille TG, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 21 (cuirasse, boucliers)  
 >**Points de vie** 187 (15d12 + 90)  
@@ -19241,6 +20227,8 @@ ___
 >
 >_Géant (géant du feu) de taille TG, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 21 (cuirasse, boucliers)  
 >**Points de vie** 187 (15d12 + 90)  
 >**Vitesse** 9 m
@@ -19280,6 +20268,8 @@ ___
 >
 >_Géant de taille TG, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure composite)  
 >**Points de vie** 138 (12d12 + 60)  
 >**Vitesse** 12 m
@@ -19314,6 +20304,8 @@ ___
 >_\[ Frost Giant Everlasting One \]_
 >
 >_Géant de taille TG, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure composite)  
 >**Points de vie** 189 (14d12 + 98)  
@@ -19355,6 +20347,8 @@ ___
 >
 >_Géant (géant du givre) de taille TG, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure composite)  
 >**Points de vie** 189 (14d12 + 98)  
 >**Vitesse** 12 m
@@ -19395,6 +20389,8 @@ ___
 >
 >_Vase de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 8  
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 3 m, escalade 3 m
@@ -19431,6 +20427,8 @@ ___
 >_\[ Geryon \]_
 >
 >_Fiélon (diable) de taille TG, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 300 (24d12 + 144)  
@@ -19479,6 +20477,8 @@ ___
 >
 >_Fiélon (diable) de taille TG, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 300 (24d12 + 144)  
 >**Vitesse** 9 m, vol 15 m
@@ -19526,6 +20526,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (cuirasse)  
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 9 m
@@ -19564,6 +20566,8 @@ ___
 >
 >_Humanoïde de taille M, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 16 (cuirasse)  
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 9 m
@@ -19601,6 +20605,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m, escalade 12 m
@@ -19636,6 +20642,8 @@ ___
 >_\[ Girallon \]_
 >
 >_Monstruosité de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 59 (7d10 + 21)  
@@ -19674,6 +20682,8 @@ ___
 >
 >_Humanoïde (gith) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 91 (14d8 + 28)  
 >**Vitesse** 9 m
@@ -19710,6 +20720,8 @@ ___
 >_\[ Githyanki Supreme Commander \]_
 >
 >_Humanoïde (gith) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 187 (22d8 + 88)  
@@ -19752,6 +20764,8 @@ ___
 >
 >_Humanoïde (gith) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 187 (22d8 + 88)  
 >**Vitesse** 9 m
@@ -19791,6 +20805,8 @@ ___
 >
 >_Humanoïde (gith, magicien) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 17 (demi-plate)  
 >**Points de vie** 130 (20d8 + 40)  
 >**Vitesse** 9 m
@@ -19829,6 +20845,8 @@ ___
 >
 >_Humanoïde (gith) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (demi-plate)  
 >**Points de vie** 123 (19d8 + 38)  
 >**Vitesse** 9 m
@@ -19866,6 +20884,8 @@ ___
 >
 >_Humanoïde (gith) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (demi-plate)  
 >**Points de vie** 49 (9d8 + 9)  
 >**Vitesse** 9 m
@@ -19901,6 +20921,8 @@ ___
 >_\[ Githyanki Kith'rak \]_
 >
 >_Humanoïde (gith) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 180 (24d8 + 72)  
@@ -19941,6 +20963,8 @@ ___
 >
 >_Humanoïde (gith) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 180 (24d8 + 72)  
 >**Vitesse** 9 m
@@ -19977,6 +21001,8 @@ ___
 >_\[ Githzerai Anarch \]_
 >
 >_Humanoïde (gith) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 20 (défense psychique)  
 >**Points de vie** 144 (17d8 + 68)  
@@ -20019,6 +21045,8 @@ ___
 >
 >_Humanoïde (gith) de taille M, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 20  
 >**Points de vie** 144 (17d8 + 68)  
 >**Vitesse** 9 m, vol 12 m (stationnaire)
@@ -20057,6 +21085,8 @@ ___
 >_\[ Githzerai Enlightened \]_
 >
 >_Humanoïde (gith) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 18 (défense psychique)  
 >**Points de vie** 112 (15d8 + 45)  
@@ -20097,6 +21127,8 @@ ___
 >
 >_Humanoïde (gith) de taille M, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 18  
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
@@ -20133,6 +21165,8 @@ ___
 >_\[ Githzerai Monk \]_
 >
 >_Humanoïde (gith) de taille M, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 14  
 >**Points de vie** 38 (7d8 + 7)  
@@ -20173,6 +21207,8 @@ ___
 >
 >_Humanoïde (gith) de taille M, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 17  
 >**Points de vie** 84 (13d8 + 26)  
 >**Vitesse** 9 m
@@ -20212,6 +21248,8 @@ ___
 >_\[ Glabrezu \]_
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 157 (15d10 + 75)  
@@ -20254,6 +21292,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (armure de cuir clouté, bouclier)  
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
@@ -20292,6 +21332,8 @@ ___
 >
 >_Humanoïde (gnoll) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de peaux, bouclier)  
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
@@ -20325,6 +21367,8 @@ ___
 >_\[ Gnoll Flesh Gnawer \]_
 >
 >_Monstruosité de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure de cuir clouté)  
 >**Points de vie** 22 (4d8 + 4)  
@@ -20363,6 +21407,8 @@ ___
 >
 >_Humanoïde (gnoll) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de cuir clouté)  
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
@@ -20399,6 +21445,8 @@ ___
 >_\[ Gnoll Hunter \]_
 >
 >_Monstruosité de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 22 (4d8 + 4)  
@@ -20437,6 +21485,8 @@ ___
 >
 >_Humanoïde (gnoll) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
@@ -20474,6 +21524,8 @@ ___
 >
 >_Fiélon (gnoll) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de peaux)  
 >**Points de vie** 65 (10d8 + 20)  
 >**Vitesse** 9 m
@@ -20509,6 +21561,8 @@ ___
 >_\[ Gnoll Witherling \]_
 >
 >_Mort-vivant de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 11 (2d8 + 2)  
@@ -20549,6 +21603,8 @@ ___
 >
 >_Mort-vivant de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
@@ -20587,6 +21643,8 @@ ___
 >
 >_Humanoïde (gnoll) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (chemise de mailles)  
 >**Points de vie** 49 (9d8 + 9)  
 >**Vitesse** 9 m
@@ -20623,6 +21681,8 @@ ___
 >_\[ Deep Gnome (Svirfneblin) \]_
 >
 >_Humanoïde (gnome) de taille P, neutre bon_
+>
+>___
 >
 >**Classe d'armure** 15 (chemise de mailles)  
 >**Points de vie** 16 (3d6 + 6)  
@@ -20661,6 +21721,8 @@ ___
 >
 >_Humanoïde (gobelinoïde) de taille P, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de cuir, bouclier)  
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 9 m
@@ -20694,6 +21756,8 @@ ___
 >_\[ Goblin Boss \]_
 >
 >_Humanoïde (gobelinoïde) de taille P, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (chemise de mailles, bouclier)  
 >**Points de vie** 21 (6d6)  
@@ -20732,6 +21796,8 @@ ___
 >
 >_Humanoïde (gobelinoïde) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure de peaux, bouclier)  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
@@ -20766,6 +21832,8 @@ ___
 >_\[ Bugbear Chief \]_
 >
 >_Humanoïde (gobelinoïde) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (chemise de mailles, bouclier)  
 >**Points de vie** 65 (10d8 + 20)  
@@ -20804,6 +21872,8 @@ ___
 >_\[ Clay Golem \]_
 >
 >_Artificiel de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 133 (14d10 + 56)  
@@ -20844,6 +21914,8 @@ ___
 >_\[ Wood Golem \]_
 >
 >_Artificiel de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 61 (10d8 + 16)  
@@ -20887,6 +21959,8 @@ ___
 >
 >_Artificiel de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 147 (18d10 + 100)  
 >**Vitesse** 9 m
@@ -20929,6 +22003,8 @@ ___
 >
 >_Artificiel de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 9  
 >**Points de vie** 93 (11d8 + 44)  
 >**Vitesse** 9 m
@@ -20969,6 +22045,8 @@ ___
 >
 >_Artificiel de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 210 (20d10 + 100)  
 >**Vitesse** 9 m
@@ -21008,6 +22086,8 @@ ___
 >_\[ Ice Golem \]_
 >
 >_Artificiel de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 126 (12d10 +60)  
@@ -21051,6 +22131,8 @@ ___
 >
 >_Artificiel de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 178 (17d10 + 85)  
 >**Vitesse** 9 m
@@ -21088,6 +22170,8 @@ ___
 >_\[ Dragonbone Golem \]_
 >
 >_Artificiel de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 161 (19d10 + 57)  
@@ -21129,6 +22213,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 12 m
@@ -21164,6 +22250,8 @@ ___
 >_\[ Goristro \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 310 (23d12 + 161)  
@@ -21209,6 +22297,8 @@ ___
 >
 >_Mort-vivant de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
@@ -21241,6 +22331,8 @@ ___
 >_\[ Chromatic Greatwyrm \]_
 >
 >_Dragon (chromatique) de taille Gig, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 533 (26d20 + 260)  
@@ -21290,6 +22382,8 @@ ___
 >
 >_Dragon (diamantin) de taille Gig, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 507 (26d20 + 234)  
 >**Vitesse** 18 m, creusement 18 m, vol 36 m (stationnaire), nage 18 m
@@ -21338,6 +22432,8 @@ ___
 >_\[ Metallic Greatwyrm \]_
 >
 >_Dragon (métallique) de taille Gig, typiquement loyal bon_
+>
+>___
 >
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 565 (29d20 + 261)  
@@ -21389,6 +22485,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 19 (3d8 + 6)  
 >**Vitesse** 9 m, escalade 9 m
@@ -21421,6 +22519,8 @@ ___
 >_\[ Graz'zt \]_
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 346 (33d10 + 165)  
@@ -21468,6 +22568,8 @@ ___
 >_\[ Graz'zt \]_
 >
 >_Fiélon (démon, métamorphe) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 346 (33d10 + 165)  
@@ -21520,6 +22622,8 @@ ___
 >
 >_Monstruosité de taille G, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 52 (7d10 + 14)  
 >**Vitesse** 9 m
@@ -21550,6 +22654,8 @@ ___
 >_\[ Grell \]_
 >
 >_Aberration de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 55 (10d8 + 10)  
@@ -21587,6 +22693,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 6 m, nage 6 m
@@ -21618,6 +22726,8 @@ ___
 >_\[ Giant Frog \]_
 >
 >_Bête de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 11  
 >**Points de vie** 18 (4d8)  
@@ -21654,6 +22764,8 @@ ___
 >
 >_Monstruosité de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 27 (6d8)  
 >**Vitesse** 9 m, escalade 9 m
@@ -21688,6 +22800,8 @@ ___
 >_\[ Grick alpha \]_
 >
 >_Monstruosité de taille G, neutre_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 75 (10d10 + 20)  
@@ -21726,6 +22840,8 @@ ___
 >
 >_Mort-vivant de taille TP, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 6 m, escalade 6 m
@@ -21760,6 +22876,8 @@ ___
 >_\[ Boneclaw \] \[ Esquilleux \]_
 >
 >_Mort-vivant de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 150 (20d10 + 40)  
@@ -21803,6 +22921,8 @@ ___
 >
 >_Mort-vivant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 127 (17d10 + 34)  
 >**Vitesse** 12 m
@@ -21843,6 +22963,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 9 m, vol 24 m
@@ -21877,6 +22999,8 @@ ___
 >_\[ Grung \]_
 >
 >_Humanoide de taille P, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 11 (2d6 + 4)  
@@ -21917,6 +23041,8 @@ ___
 >_\[ Grung Elite Warrior \]_
 >
 >_Humanoïde de taille P, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 49 (9d6 + 18)  
@@ -21960,6 +23086,8 @@ ___
 >
 >_Humanoïde (grung) de taille P, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 49 (9d6 + 18)  
 >**Vitesse** 7,50 m, escalade 7,50 m
@@ -22001,6 +23129,8 @@ ___
 >
 >_Humanoide (grung) de taille P, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 11 (2d6 + 4)  
 >**Vitesse** 7,50 m, escalade 7,50 m
@@ -22039,6 +23169,8 @@ ___
 >_\[ Grung Wildling \]_
 >
 >_Humanoïde de taille P, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 27 (5d6 + 10)  
@@ -22081,6 +23213,8 @@ ___
 >_\[ Grung Wildling \]_
 >
 >_Humanoïde (grung) de taille P, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (16 avec _peau d'écorce_)  
 >**Points de vie** 27 (5d6 + 10)  
@@ -22125,6 +23259,8 @@ ___
 >
 >_Fée de taille G, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 12 m
@@ -22164,6 +23300,8 @@ ___
 >
 >_Fée de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 12 m
@@ -22202,6 +23340,8 @@ ___
 >_\[ Bheur Hag \]_
 >
 >_Fée de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 91 (14d8 + 28)  
@@ -22245,6 +23385,8 @@ ___
 >
 >_Fée de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 91 (14d8 + 28)  
 >**Vitesse** 9 m
@@ -22286,6 +23428,8 @@ ___
 >
 >_Fée de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 9 m, nage 12 m
@@ -22320,6 +23464,8 @@ ___
 >_\[ Night Hag \]_
 >
 >_Fiélon de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 112 (15d8 + 45)  
@@ -22362,6 +23508,8 @@ ___
 >
 >_Fée de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 82 (11d8 + 33)  
 >**Vitesse** 9 m
@@ -22399,6 +23547,8 @@ ___
 >_\[ Hellwasp \]_
 >
 >_Fiélon de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 52 (8d10 + 8)  
@@ -22439,6 +23589,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 3 m, vol 15 m
@@ -22468,6 +23620,8 @@ ___
 >_\[ Mummified Warrior \]_
 >
 >_Mort-vivant de taille M, neutre_
+>
+>___
 >
 >**Classe d'armure** 8  
 >**Points de vie** 19 (3d8 + 6)  
@@ -22506,6 +23660,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure de peaux)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
@@ -22537,6 +23693,8 @@ ___
 >_\[ Maw Demon \]_
 >
 >_Fiélon (démon) de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 33 (6d8 + 6)  
@@ -22574,6 +23732,8 @@ ___
 >
 >_Fiélon (démon) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
@@ -22610,6 +23770,8 @@ ___
 >
 >_Géant de taille TG, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 105 (10d12 + 40)  
 >**Vitesse** 15 m
@@ -22645,6 +23807,8 @@ ___
 >_\[ Mouth of Grolantor \]_
 >
 >_Géant (géant des collines) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 105 (10d12 + 40)  
@@ -22685,6 +23849,8 @@ ___
 >_\[ Gynosphinx \]_
 >
 >_Monstruosité de taille G, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 136 (16d10 + 48)  
@@ -22734,6 +23900,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (17 avec _armure de mage_)  
 >**Points de vie** 246 (29d8 + 116)  
 >**Vitesse** 9 m
@@ -22776,6 +23944,8 @@ ___
 >
 >_Monstruosité de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 6 m, vol 12 m
@@ -22808,6 +23978,8 @@ ___
 >_\[ Deep Scion \]_
 >
 >_Monstruosité de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 11  
 >**Points de vie** 67 (9d8 + 27)  
@@ -22849,6 +24021,8 @@ ___
 >
 >_Humanoïde (métamorphe) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 9 m (6 m et nage 12 m sous forme hybride)
@@ -22889,6 +24063,8 @@ ___
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 136 (13d10 + 65)  
 >**Vitesse** 9 m
@@ -22928,6 +24104,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 0 m, nage 6 m
@@ -22957,6 +24135,8 @@ ___
 >_\[ Giant Sea Horse \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 16 (3d10)  
@@ -22990,6 +24170,8 @@ ___
 >_\[ Hippogriff \]_
 >
 >_Monstruosité de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 11  
 >**Points de vie** 19 (3d10 + 3)  
@@ -23026,6 +24208,8 @@ ___
 >
 >_Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (cotte de mailles, bouclier)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
@@ -23058,6 +24242,8 @@ ___
 >_\[ Hobgoblin Captain \]_
 >
 >_Humanoïde (gobelinoïde) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (demi-plate)  
 >**Points de vie** 39 (6d8 + 12)  
@@ -23095,6 +24281,8 @@ ___
 >
 >_Fée (gobelinoïde) de taille M, typiquement loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir clouté)  
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
@@ -23131,6 +24319,8 @@ ___
 >_\[ Hobgoblin Devastator \]_
 >
 >_Humanoïde (gobelinoïde) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de cuir clouté)  
 >**Points de vie** 45 (7d8 + 14)  
@@ -23172,6 +24362,8 @@ ___
 >
 >_Fée (gobelinoïde) de taille M, typiquement loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 15  
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 12 m
@@ -23209,6 +24401,8 @@ ___
 >_\[ Hobgoblin Iron Shadow \]_
 >
 >_Humanoïde (gobelinoïde) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15  
 >**Points de vie** 32 (5d8 + 10)  
@@ -23250,6 +24444,8 @@ ___
 >
 >_Humanoïde (gobelinoïde) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 20 (harnois, bouclier)  
 >**Points de vie** 97 (13d8 + 39)  
 >**Vitesse** 9 m
@@ -23289,6 +24485,8 @@ ___
 >
 >_Humanoïde (homme-lézard) de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle, bouclier)  
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m, nage 9 m
@@ -23325,6 +24523,8 @@ ___
 >_\[ Lizardfolk Shaman \]_
 >
 >_Humanoïde (homme-lézard) de taille M, neutre_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 27 (5d8 + 5)  
@@ -23367,6 +24567,8 @@ ___
 >
 >_Humanoïde (homme-poisson) de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 3 m, nage 12 m
@@ -23399,6 +24601,8 @@ ___
 >_\[ Homunculus \]_
 >
 >_Artificiel de taille TP, neutre_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 5 (2d4)  
@@ -23433,6 +24637,8 @@ ___
 >_\[ Helmed Horror \]_
 >
 >_Artificiel de taille M, neutre_
+>
+>___
 >
 >**Classe d'armure** 20 (harnois, bouclier)  
 >**Points de vie** 60 (8d8 + 24)  
@@ -23472,6 +24678,8 @@ ___
 >_\[ Retriever \]_
 >
 >_Artificiel de taille G, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 210 (20d10 + 100)  
@@ -23514,6 +24722,8 @@ ___
 >
 >_Artificiel de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 210 (20d10 + 100)  
 >**Vitesse** 12 m, escalade 12 m
@@ -23554,6 +24764,8 @@ ___
 >
 >_Monstruosité de taille G, neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 9 m, escalade 9 m
@@ -23589,6 +24801,8 @@ ___
 >_\[ Huldin \]_
 >
 >_Humanoïde (humain) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (cotte de mailles, bouclier)  
 >**Points de vie** 112 (15d8 + 45)  
@@ -23629,6 +24843,8 @@ ___
 >
 >_Fiélon de taille G, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 12 m
@@ -23667,6 +24883,8 @@ ___
 >
 >_Fiélon de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 12 m
@@ -23703,6 +24921,8 @@ ___
 >_\[ Hutijin \]_
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 200 (16d10 + 112)  
@@ -23755,6 +24975,8 @@ ___
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 200 (16d10 + 112)  
 >**Vitesse** 9 m, vol 18 m
@@ -23806,6 +25028,8 @@ ___
 >
 >_Monstruosité de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 172 (15d12 + 75)  
 >**Vitesse** 9 m, nage 9 m
@@ -23842,6 +25066,8 @@ ___
 >_\[ Hydroloth \]_
 >
 >_Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 15  
 >**Points de vie** 135 (18d8 + 54)  
@@ -23889,6 +25115,8 @@ ___
 >
 >_Fiélon (yugoloth) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15  
 >**Points de vie** 135 (18d8 + 54)  
 >**Vitesse** 6 m, nage 12 m
@@ -23934,6 +25162,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 5 (1d8 + 1)  
 >**Vitesse** 15 m
@@ -23966,6 +25196,8 @@ ___
 >_\[ Giant Hyena \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 45 (6d10 + 12)  
@@ -24001,6 +25233,8 @@ ___
 >
 >_Fée de taille M (magicien), chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 19 (_robe of the archmagi_)  
 >**Points de vie** 255 (30d8 + 120)  
 >**Vitesse** 9 m
@@ -24032,6 +25266,8 @@ ___
 >_\[ Illusionist \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 38 (7d8 + 7)  
@@ -24075,6 +25311,8 @@ ___
 >
 >_Élémentaire de taille TG, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 17  
 >**Points de vie** 325 (26d12 + 156)  
 >**Vitesse** 15 m, vol 15 m
@@ -24109,6 +25347,8 @@ ___
 >_\[ Spellcaster (lvl 1) \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 12 (armure de cuir)  
 >**Points de vie** 9 (2d8)  
@@ -24152,6 +25392,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 12 (armure de cuir)  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m
@@ -24193,6 +25435,8 @@ ___
 >_\[ Spellcaster (lvl 3) \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 12 (armure de cuir)  
 >**Points de vie** 18 (4d8)  
@@ -24236,6 +25480,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 12 (armure de cuir)  
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
@@ -24277,6 +25523,8 @@ ___
 >_\[ Spellcaster (lvl 5) \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 12 (armure de cuir)  
 >**Points de vie** 27 (6d8)  
@@ -24322,6 +25570,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, -_
 >
+>___
+>
 >**Classe d'armure** 12 (armure de cuir)  
 >**Points de vie** 31 (7d8)  
 >**Vitesse** 9 m
@@ -24366,6 +25616,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m
@@ -24409,6 +25661,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, chaotique bon_
 >
+>___
+>
 >**Classe d'armure** 13 (chemise de mailles)  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
@@ -24448,6 +25702,8 @@ ___
 >_\[ Jarlaxle Baenre \]_
 >
 >_Humanoïde (elfe) de taille M, chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 24 (_armur de cuir +3_, Défense élégante)  
 >**Points de vie** 123 (19d8 + 38)  
@@ -24495,6 +25751,8 @@ ___
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 350 (28d12 + 168)  
 >**Vitesse** 9 m
@@ -24541,6 +25799,8 @@ ___
 >_\[ Juiblex \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 350 (28d12 + 168)  
@@ -24590,6 +25850,8 @@ ___
 >
 >_Humanoïde (kenku) de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m
@@ -24625,6 +25887,8 @@ ___
 >_\[ Ki-rin \]_
 >
 >_Céleste de taille TG, typiquement loyal bon_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 153 (18d10 + 54)  
@@ -24668,6 +25932,8 @@ ___
 >_\[ Ki-rin \]_
 >
 >_Céleste de taille TG, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 152 (16d12 + 48)  
@@ -24725,6 +25991,8 @@ ___
 >
 >_Humanoïde (kobold) de taille P, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 5 (2d6 - 2)  
 >**Vitesse** 9 m
@@ -24758,6 +26026,8 @@ ___
 >_\[ Winged Kobold \]_
 >
 >_Humanoïde (kobold) de taille P, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 7 (3d6 - 3)  
@@ -24793,6 +26063,8 @@ ___
 >_\[ Kobold Dragonshield \]_
 >
 >_Dragon de taille P, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 15 (armure de cuir, bouclier)  
 >**Points de vie** 44 (8d6 + 16)  
@@ -24833,6 +26105,8 @@ ___
 >
 >_Humanoïde (kobold) de taille P, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de cuir, bouclier)  
 >**Points de vie** 44 (8d6 + 16)  
 >**Vitesse** 6 m
@@ -24872,6 +26146,8 @@ ___
 >
 >_Humanoïde de taille P, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 27 (5d6 + 10)  
 >**Vitesse** 9 m
@@ -24909,6 +26185,8 @@ ___
 >_\[ Kobold Scale Sorcerer \]_
 >
 >_Humanoïde (kobold) de taille P, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 27 (5d6 + 10)  
@@ -24950,6 +26228,8 @@ ___
 >
 >_Humanoïde de taille P, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
@@ -24985,6 +26265,8 @@ ___
 >_\[ Kobold Inventor \]_
 >
 >_Humanoïde (kobold) de taille P, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 13 (3d6 + 3)  
@@ -25031,6 +26313,8 @@ ___
 >
 >_Fée de taille P, typiquement chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 93 (11d6 + 55)  
 >**Vitesse** 9 m, creusement 9 m
@@ -25069,6 +26353,8 @@ ___
 >_\[ Korred \]_
 >
 >_Fée de taille P, chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 102 (12d6 + 60)  
@@ -25111,6 +26397,8 @@ ___
 >_\[ Kraken \]_
 >
 >_Monstruosité (titan) de taille Gig, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 472 (27d20 + 189)  
@@ -25156,6 +26444,8 @@ ___
 >
 >_Monstruosité de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 12 m, creusement 6 m, escalade 12 m
@@ -25193,6 +26483,8 @@ ___
 >
 >_Monstruosité de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 12 m, creusement 6 m, escalade 12 m
@@ -25229,6 +26521,8 @@ ___
 >
 >_Monstruosité de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 9 (2d6 + 2)  
 >**Vitesse** 9 m, creusement 3 m, escalade 9 m
@@ -25263,6 +26557,8 @@ ___
 >
 >_Monstruosité de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 9 (2d6 + 2)  
 >**Vitesse** 9 m, creusement 3 m, escalade 9 m
@@ -25296,6 +26592,8 @@ ___
 >_\[ Kruthik Hive Lord \]_
 >
 >_Monstruosité de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 102 (12d10 + 36)  
@@ -25334,6 +26632,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 102 (12d10 + 36)  
 >**Vitesse** 12 m, creusement 6 m, escalade 12 m
@@ -25370,6 +26670,8 @@ ___
 >_\[ Kuo-toa \]_
 >
 >_Humanoïde (kuo-toa) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle, bouclier)  
 >**Points de vie** 18 (4d8)  
@@ -25410,6 +26712,8 @@ ___
 >_\[ Kuo-toa Archpriest \]_
 >
 >_Humanoïde (kuo-toa) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 97 (13d8 + 39)  
@@ -25456,6 +26760,8 @@ ___
 >
 >_Humanoïde (kuo-toa) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 65 (10d8 + 20)  
 >**Vitesse** 9 m, nage 9 m
@@ -25497,6 +26803,8 @@ ___
 >
 >_Monstruosité de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 78 (12d8 + 24)  
 >**Vitesse** 9 m
@@ -25532,6 +26840,8 @@ ___
 >_\[ The Angry \]_
 >
 >_Monstruosité de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 255 (30d8 + 120)  
@@ -25569,6 +26879,8 @@ ___
 >
 >_Monstruosité de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 225 (30d8 + 90)  
 >**Vitesse** 9 m
@@ -25604,6 +26916,8 @@ ___
 >
 >_Monstruosité de taille P, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 10 (4d6 - 4)  
 >**Vitesse** 12 m
@@ -25636,6 +26950,8 @@ ___
 >_\[ The Lonely \]_
 >
 >_Monstruosité de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 112 (15d8 + 45)  
@@ -25672,6 +26988,8 @@ ___
 >_\[ Laeral Silverhand \]_
 >
 >_Humanoïde (humain) de taille M, chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 18 (_robe de l'archimage_)  
 >**Points de vie** 228 (24d8 + 120)  
@@ -25726,6 +27044,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m
@@ -25759,6 +27079,8 @@ ___
 >_\[ Lamia \]_
 >
 >_Monstruosité de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 97 (13d10 + 26)  
@@ -25797,6 +27119,8 @@ ___
 >_\[ Lekhet \]_
 >
 >_Humanoïde (yuan-ti) de taille M, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 11  
 >**Points de vie** 40 (9d8)  
@@ -25841,6 +27165,8 @@ ___
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 7  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 4,50 m
@@ -25876,6 +27202,8 @@ ___
 >_\[ Leucrotta \]_
 >
 >_Monstruosité de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 67 (9d10 + 18)  
@@ -25915,6 +27243,8 @@ ___
 >
 >_Monstruosité de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 67 (9d10 + 18)  
 >**Vitesse** 15 m
@@ -25953,6 +27283,8 @@ ___
 >_\[ Leviathan \]_
 >
 >_Élémentaire de taille Gig, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 17  
 >**Points de vie** 328 (16d20 + 160)  
@@ -25999,6 +27331,8 @@ ___
 >
 >_Élémentaire de taille Gig, neutre_
 >
+>___
+>
 >**Classe d'armure** 17  
 >**Points de vie** 328 (16d20 + 160)  
 >**Vitesse** 12 m, nage 36 m
@@ -26043,6 +27377,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 6 m, escalade 6 m
@@ -26072,6 +27408,8 @@ ___
 >_\[ Giant Lizard \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 19 (3d10 + 3)  
@@ -26103,6 +27441,8 @@ ___
 >_\[ Assassin Vine \]_
 >
 >_Plante de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 85 (10d10 + 30)  
@@ -26139,6 +27479,8 @@ ___
 >_\[ Lich \]_
 >
 >_Mort-vivant de taille M, tout alignement mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 135 (18d8 + 54)  
@@ -26194,6 +27536,8 @@ ___
 >
 >_Céleste de taille G, loyal bon_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 67 (9d10 + 18)  
 >**Vitesse** 15 m
@@ -26240,6 +27584,8 @@ ___
 >
 >_Plante de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 6  
 >**Points de vie** 60 (11d8 + 11)  
 >**Vitesse** 1,50 m, escalade 1,50 m
@@ -26275,6 +27621,8 @@ ___
 >_\[ Vine Blight \]_
 >
 >_Plante de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 26 (4d8 + 8)  
@@ -26312,6 +27660,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 6 m, creusement 1,50 m
@@ -26343,6 +27693,8 @@ ___
 >_\[ Lion \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 26 (4d10 + 4)  
@@ -26381,6 +27733,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m
@@ -26414,6 +27768,8 @@ ___
 >_\[ Winter Wolf \]_
 >
 >_Monstruosité de taille G, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 75 (10d10 + 20)  
@@ -26451,6 +27807,8 @@ ___
 >_\[ Werewolf \]_
 >
 >_Humanoïde (humain, métamorphe) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme de loup ou sous forme hybride  
 >**Points de vie** 58 (9d8 + 18)  
@@ -26490,6 +27848,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 37 (5d10 + 10)  
 >**Vitesse** 15 m
@@ -26523,6 +27883,8 @@ ___
 >_\[ Hellfire Engine \]_
 >
 >_Artificiel de taille TG, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 216 (16d12 + 112)  
@@ -26564,6 +27926,8 @@ ___
 >
 >_Artificiel de taille TG, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 216 (16d12 + 112)  
 >**Vitesse** 12 m
@@ -26601,6 +27965,8 @@ ___
 >_\[ Mage \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 40 (9d8)  
@@ -26641,6 +28007,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 104 (16d8 32)  
 >**Vitesse** 9 m
@@ -26678,6 +28046,8 @@ ___
 >_\[ Diviner Wizard \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 90 (20d8)  
@@ -26717,6 +28087,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 49 (11d8)  
 >**Vitesse** 9 m
@@ -26753,6 +28125,8 @@ ___
 >_\[ Evoker Wizard \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 121 (22d8 + 22)  
@@ -26791,6 +28165,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 44 (8d8 + 8)  
 >**Vitesse** 9 m
@@ -26827,6 +28203,8 @@ ___
 >_\[ Conjurer Wizard \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 58 (13d8)  
@@ -26865,6 +28243,8 @@ ___
 >_\[ Necromancer Wizard \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 110 (20d8 + 20)  
@@ -26905,6 +28285,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 49 (11d8)  
 >**Vitesse** 9 m
@@ -26942,6 +28324,8 @@ ___
 >
 >_Élémentaire de taille P, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 9 (2d6 + 2)  
 >**Vitesse** 9 m
@@ -26976,6 +28360,8 @@ ___
 >_\[ Master of Souls \]_
 >
 >_Humanoïde (humain) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 45 (6d8 + 18)  
@@ -27021,6 +28407,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (armure de cuir clouté)  
 >**Points de vie** 84 (13d8 + 26)  
 >**Vitesse** 9 m
@@ -27061,6 +28449,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 16 (armure de cuir clouté)  
 >**Points de vie** 84 (13d8 + 26)  
 >**Vitesse** 9 m
@@ -27100,6 +28490,8 @@ ___
 >_\[ Maldryn \]_
 >
 >_Humanoïde (demi-elfe) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 31 (7d8)  
@@ -27145,6 +28537,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement non bon_
 >
+>___
+>
 >**Classe d'armure** 11 (armure de cuir)  
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m
@@ -27180,6 +28574,8 @@ ___
 >
 >_Bête de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 126 (11d12 + 55)  
 >**Vitesse** 12 m
@@ -27212,6 +28608,8 @@ ___
 >_\[ Manes \]_
 >
 >_Fiélon (démon) de taille P, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 9  
 >**Points de vie** 9 (2d6 + 2)  
@@ -27246,6 +28644,8 @@ ___
 >_\[ Manshoon \]_
 >
 >_Humanoïde (humain) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (_robe de l'archimage, bâton de puissance_)  
 >**Points de vie** 126 (23d8 + 23)  
@@ -27284,6 +28684,8 @@ ___
 >
 >_Monstruosité de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 22 (5d6 + 5)  
 >**Vitesse** 3 m, vol 9 m
@@ -27318,6 +28720,8 @@ ___
 >_\[ Cloaker \]_
 >
 >_Aberration de taille G, chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 78 (12d10 + 12)  
@@ -27358,6 +28762,8 @@ ___
 >
 >_Monstruosité de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 68 (8d10 + 24)  
 >**Vitesse** 9 m, vol 15 m
@@ -27392,6 +28798,8 @@ ___
 >_\[ Marid \]_
 >
 >_Élémentaire de taille G, chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 229 (17d10 + 136)  
@@ -27434,6 +28842,8 @@ ___
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 12 m
@@ -27475,6 +28885,8 @@ ___
 >_\[ Marut \]_
 >
 >_Artificiel (inévitable) de taille G, typiquement loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 432 (32d10 + 256)  
@@ -27520,6 +28932,8 @@ ___
 >
 >_Artificiel (inévitable) de taille G, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 432 (32d10 + 256)  
 >**Vitesse** 12 m, vol 9 m (stationnaire)
@@ -27563,6 +28977,8 @@ ___
 >
 >_Monstruosité de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 9 m, creusement 6 m
@@ -27598,6 +29014,8 @@ ___
 >_\[ Maurezhi \]_
 >
 >_Fiélon (démon) de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 88 (16d8 + 16)  
@@ -27640,6 +29058,8 @@ ___
 >
 >_Fiélon (démon) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 88 (16d8 + 16)  
 >**Vitesse** 9 m
@@ -27680,6 +29100,8 @@ ___
 >
 >_Monstruosité de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
@@ -27715,6 +29137,8 @@ ___
 >_\[ Mud Mephit \]_
 >
 >_Élémentaire de taille P, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 11  
 >**Points de vie** 27 (6d6 + 6)  
@@ -27754,6 +29178,8 @@ ___
 >
 >_Élémentaire de taille P, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 22 (5d6 + 5)  
 >**Vitesse** 9 m, vol 9 m
@@ -27791,6 +29217,8 @@ ___
 >_\[ Ice Mephit \]_
 >
 >_Élémentaire de taille P, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 11  
 >**Points de vie** 21 (6d6)  
@@ -27831,6 +29259,8 @@ ___
 >
 >_Élémentaire de taille P, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 22 (5d6 + 5)  
 >**Vitesse** 9 m, vol 9 m
@@ -27870,6 +29300,8 @@ ___
 >
 >_Élémentaire de taille P, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 17 (5d6)  
 >**Vitesse** 9 m, vol 9 m
@@ -27908,6 +29340,8 @@ ___
 >
 >_Élémentaire de taille P, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 21 (6d6)  
 >**Vitesse** 9 m, vol 9 m
@@ -27944,6 +29378,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 13 (chemise de mailles)  
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 9 m
@@ -27978,6 +29414,8 @@ ___
 >_\[ Merregon \]_
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 45 (6d8 + 18)  
@@ -28019,6 +29457,8 @@ ___
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
@@ -28057,6 +29497,8 @@ ___
 >_\[ Merrenoloth \]_
 >
 >_Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 40 (9d8)  
@@ -28100,6 +29542,8 @@ ___
 >
 >_Fiélon (yugoloth) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m, nage 12 m
@@ -28142,6 +29586,8 @@ ___
 >
 >_Monstruosité de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 3 m, nage 12 m
@@ -28176,6 +29622,8 @@ ___
 >_\[ Mez'Arate \]_
 >
 >_Humanoïde (humain) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (avec _armure de mage_)  
 >**Points de vie** 28 (6d8)  
@@ -28215,6 +29663,8 @@ ___
 >_\[ Mezzoloth \]_
 >
 >_Fiélon (yugoloth) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 75 (10d8 + 30)  
@@ -28260,6 +29710,8 @@ ___
 >
 >_Mort-vivant de taille G, -_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 262 (25d10 + 125)  
 >**Vitesse** 0 m, vol 18 m (stationnaire)
@@ -28294,6 +29746,8 @@ ___
 >
 >_Bête de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 4 (1d6 + 1)  
 >**Vitesse** 9 m, escalade 9 m
@@ -28324,6 +29778,8 @@ ___
 >_\[ Mimic \]_
 >
 >_Monstruosité (métamorphe) de taille M, neutre_
+>
+>___
 >
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 58 (9d8 + 18)  
@@ -28365,6 +29821,8 @@ ___
 >
 >_Monstruosité de taille TG, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 123 (13d12 + 39)  
 >**Vitesse** 9 m
@@ -28397,6 +29855,8 @@ ___
 >_\[ Minotaur \]_
 >
 >_Monstruosité de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 76 (9d10 + 27)  
@@ -28434,6 +29894,8 @@ ___
 >
 >_Plante de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 5  
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 1,50 m
@@ -28467,6 +29929,8 @@ ___
 >_\[ Moloch \]_
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 253 (22d10 + 132)  
@@ -28516,6 +29980,8 @@ ___
 >_\[ Moloch \]_
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 253 (22d10 + 132)  
@@ -28569,6 +30035,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 5 (1d8 + 1)  
 >**Vitesse** 12 m
@@ -28601,6 +30069,8 @@ ___
 >_\[ Shadow Mastiff \]_
 >
 >_Monstruosité de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 44 (8d8 + 8)  
@@ -28638,6 +30108,8 @@ ___
 >_\[ Shadow Mastiff Alpha \] \[ Molosse des ombres alpha \]_
 >
 >_Monstruosité de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 33 (6d8 + 6)  
@@ -28677,6 +30149,8 @@ ___
 >
 >_Monstruosité de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 12 m
@@ -28714,6 +30188,8 @@ ___
 >_\[ Molydeus \]_
 >
 >_Fiélon (démon) de taille TG, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 216 (16d12 + 112)  
@@ -28761,6 +30237,8 @@ ___
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 216 (16d12 + 112)  
 >**Vitesse** 12 m
@@ -28807,6 +30285,8 @@ ___
 >
 >_Mort-vivant de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 6 m
@@ -28844,6 +30324,8 @@ ___
 >
 >_Artificiel de taille M, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 5 (1d8 + 1)  
 >**Vitesse** 9 m, vol 9 m
@@ -28878,6 +30360,8 @@ ___
 >_\[ Meazel \]_
 >
 >_Monstruosité de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 35 (10d8 - 10)  
@@ -28915,6 +30399,8 @@ ___
 >
 >_Humanoïde (morbilleux) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 35 (10d8 - 10)  
 >**Vitesse** 9 m
@@ -28949,6 +30435,8 @@ ___
 >_\[ Morkoth \]_
 >
 >_Aberration de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 165 (22d10 + 44)  
@@ -28989,6 +30477,8 @@ ___
 >_\[ Morkoth \]_
 >
 >_Aberration de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 130 (20d8 + 40)  
@@ -29037,6 +30527,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 9  
 >**Points de vie** 22 (3d10 + 6)  
 >**Vitesse** 6 m, nage 12 m
@@ -29069,6 +30561,8 @@ ___
 >_\[ Giant Walrus \]_
 >
 >_Bête de taille TG, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 9  
 >**Points de vie** 55 (9d12 + 27)  
@@ -29104,6 +30598,8 @@ ___
 >_\[ Muiral \]_
 >
 >_Monstruosité de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 195 (23d10 + 69)  
@@ -29145,6 +30641,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m
@@ -29177,6 +30675,8 @@ ___
 >_\[ Myconid adult \]_
 >
 >_Plante de taille M, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 22 (4d8 + 4)  
@@ -29214,6 +30714,8 @@ ___
 >
 >_Plante de taille P, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 3 m
@@ -29248,6 +30750,8 @@ ___
 >_\[ Myconid Sovereign \]_
 >
 >_Plante de taille G, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 60 (8d10 + 16)  
@@ -29287,6 +30791,8 @@ ___
 >_\[ Nabassu \]_
 >
 >_Fiélon (démon) de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 190 (20d8 + 100)  
@@ -29331,6 +30837,8 @@ ___
 >
 >_Fiélon (démon) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 190 (20d8 + 100)  
 >**Vitesse** 12 m, vol 18 m
@@ -29374,6 +30882,8 @@ ___
 >
 >_Monstruosité de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 12 m
@@ -29414,6 +30924,8 @@ ___
 >_\[ Guardian Naga \]_
 >
 >_Monstruosité de taille G, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 127 (15d10 + 45)  
@@ -29457,6 +30969,8 @@ ___
 >_\[ Bone Naga \]_
 >
 >_Mort-vivant de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 58 (9d10 + 9)  
@@ -29502,6 +31016,8 @@ ___
 >
 >_Monstruosité (magicien) de taille M, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 203 (37d8 + 37)  
 >**Vitesse** 9 m
@@ -29541,6 +31057,8 @@ ___
 >
 >_Humanoïde (nagpa) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 187 (34d8 + 34)  
 >**Vitesse** 9 m
@@ -29576,6 +31094,8 @@ ___
 >_\[ Nalfeshnee \]_
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 184 (16d10 + 96)  
@@ -29616,6 +31136,8 @@ ___
 >_\[ Narzugon \]_
 >
 >_Fiélon (diable) de taille M, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 20 (harnois, bouclier)  
 >**Points de vie** 112 (15d8 + 45)  
@@ -29660,6 +31182,8 @@ ___
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 20 (harnois, bouclier)  
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
@@ -29703,6 +31227,8 @@ ___
 >_\[ Necromancer \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 66 (12d8 + 12)  
@@ -29749,6 +31275,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m
@@ -29782,6 +31310,8 @@ ___
 >_\[ Wight \]_
 >
 >_Mort-vivant de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure de cuir clouté)  
 >**Points de vie** 45 (6d8 + 18)  
@@ -29822,6 +31352,8 @@ ___
 >
 >_Aberration de taille P, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 33 (6d6 + 12)  
 >**Vitesse** 9 m, escalade 9 m
@@ -29860,6 +31392,8 @@ ___
 >
 >_Aberration de taille TP, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 7 (3d4)  
 >**Vitesse** 6 m, escalade 6 m
@@ -29894,6 +31428,8 @@ ___
 >
 >_Aberration de taille TP, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 7 (3d4)  
 >**Vitesse** 6 m, escalade 6 m
@@ -29927,6 +31463,8 @@ ___
 >_\[ Neogi \]_
 >
 >_Aberration de taille P, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 33 (6d6 + 12)  
@@ -29965,6 +31503,8 @@ ___
 >_\[ Neogi Master \]_
 >
 >_Aberration (occultiste) de taille M, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 71 (11d8 + 22)  
@@ -30008,6 +31548,8 @@ ___
 >
 >_Aberration de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 71 (11d8 + 22)  
 >**Vitesse** 9 m, escalade 9 m
@@ -30049,6 +31591,8 @@ ___
 >
 >_Aberration de taille Gig, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 232 (15d20 + 75)  
 >**Vitesse** 9 m
@@ -30085,6 +31629,8 @@ ___
 >_\[ Neothelid \]_
 >
 >_Aberration de taille Gig, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 325 (21d20 + 105)  
@@ -30125,6 +31671,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, loyal bon_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 12 m
@@ -30162,6 +31710,8 @@ ___
 >
 >_Plante de taille P, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 4 (1d6 + 1)  
 >**Vitesse** 6 m
@@ -30196,6 +31746,8 @@ ___
 >_\[ Nilbog \]_
 >
 >_Fée (gobelinoïde) de taille P, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 7 (2d6)  
@@ -30234,6 +31786,8 @@ ___
 >_\[ Nilbog \]_
 >
 >_Humanoïde (gobelinoïde) de taille P, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 7 (2d6)  
@@ -30275,6 +31829,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (cuirasse)  
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 9 m
@@ -30306,6 +31862,8 @@ ___
 >_\[ Nothic \]_
 >
 >_Aberration de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 45 (6d8 + 18)  
@@ -30344,6 +31902,8 @@ ___
 >
 >_Nuée de bêtes TP de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 6 m, escalade 6 m
@@ -30377,6 +31937,8 @@ ___
 >_\[ Swarm of Bats \]_
 >
 >_Nuée de bêtes TP de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 22 (5d8)  
@@ -30414,6 +31976,8 @@ ___
 >
 >_Nuée de bêtes TP de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 24 (7d8 - 7)  
 >**Vitesse** 3 m, vol 15 m
@@ -30449,6 +32013,8 @@ ___
 >
 >_Nuée d'humanoïdes (gobelinoïde) TP de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 6 m
@@ -30483,6 +32049,8 @@ ___
 >_\[ Swarm of Quippers \]_
 >
 >_Nuée de bêtes TP de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 28 (8d8 - 8)  
@@ -30520,6 +32088,8 @@ ___
 >
 >_Nuée de bêtes TP de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 24 (7d8 - 7)  
 >**Vitesse** 9 m
@@ -30554,6 +32124,8 @@ ___
 >_\[ Swarm of Cranium Rats \]_
 >
 >_Nuée de bêtes TP de taille M, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 76 (17d8)  
@@ -30592,6 +32164,8 @@ ___
 >_\[ Swarm of Cranium Rats \]_
 >
 >_Nuée de bêtes TP de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 36 (8d8)  
@@ -30633,6 +32207,8 @@ ___
 >
 >_Nuée de bêtes TP de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 36 (8d8)  
 >**Vitesse** 9 m, nage 9 m
@@ -30666,6 +32242,8 @@ ___
 >_\[ Swarm of Rot Grubs \]_
 >
 >_Nuée de bêtes TP de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 8  
 >**Points de vie** 22 (5d8)  
@@ -30702,6 +32280,8 @@ ___
 >
 >_Nuée de bêtes TP de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 8  
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 5 ft., climb 5 ft.
@@ -30736,6 +32316,8 @@ ___
 >_\[ Nupperibo \]_
 >
 >_Fiélon (diable) de taille M, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 11 (2d8 + 2)  
@@ -30776,6 +32358,8 @@ ___
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 6 m
@@ -30812,6 +32396,8 @@ ___
 >_\[ Nycaloth \]_
 >
 >_Fiélon (yugoloth) de taille G, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 123 (13d10 + 52)  
@@ -30856,6 +32442,8 @@ ___
 >
 >_Artificiel de taille G ou plus petite, -_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 10 + cinq fois votre niveau de barde  
 >**Vitesse** 9 m, vol 9 m (stationnaire)
@@ -30891,6 +32479,8 @@ ___
 >_\[ Adult Oblex \]_
 >
 >_Vase de taille M, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 14  
 >**Points de vie** 75 (10d8 + 30)  
@@ -30934,6 +32524,8 @@ ___
 >
 >_Vase de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 6 m
@@ -30974,6 +32566,8 @@ ___
 >
 >_Vase de taille TP, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 18 (4d4 + 8)  
 >**Vitesse** 6 m
@@ -31011,6 +32605,8 @@ ___
 >
 >_Vase de taille TP, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 18 (4d4 + 8)  
 >**Vitesse** 6 m
@@ -31046,6 +32642,8 @@ ___
 >_\[ Elder Oblex \] \[ Oblex, ancien \]_
 >
 >_Vase de taille TG, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 16  
 >**Points de vie** 115 (10d12 + 50)  
@@ -31089,6 +32687,8 @@ ___
 >
 >_Vase de taille TG, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 16  
 >**Points de vie** 115 (10d12 + 50)  
 >**Vitesse** 6 m
@@ -31129,6 +32729,8 @@ ___
 >_\[ Warlock of the Archfey \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 13 (16 avec _armure de mage_)  
 >**Points de vie** 67 (15d8)  
@@ -31171,6 +32773,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 11 (14 avec _armure de mage_)  
 >**Points de vie** 49 (11d8)  
 >**Vitesse** 9 m
@@ -31211,6 +32815,8 @@ ___
 >_\[ Warlock of the Fiend \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 13 (16 avec _armure de mage_)  
 >**Points de vie** 78 (12d8 + 24)  
@@ -31255,6 +32861,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 78 (12d8 + 24)  
 >**Vitesse** 9 m
@@ -31296,6 +32904,8 @@ ___
 >_\[ Warlock of the Great Old One \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 13 (16 avec _armure de mage_)  
 >**Points de vie** 91 (14d8 + 28)  
@@ -31339,6 +32949,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 91 (14d8 + 28)  
 >**Vitesse** 9 m
@@ -31381,6 +32993,8 @@ ___
 >
 >_Géant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 11 (armure de peaux)  
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
@@ -31411,6 +33025,8 @@ ___
 >_\[ Ogre Bolt Launcher \]_
 >
 >_Géant de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de peaux)  
 >**Points de vie** 59 (7d10 + 21)  
@@ -31445,6 +33061,8 @@ ___
 >
 >_Géant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de peaux)  
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
@@ -31476,6 +33094,8 @@ ___
 >_\[ Ogre Battering Ram \]_
 >
 >_Géant de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 11 (armure de peaux)  
 >**Points de vie** 76 (9d10 + 27)  
@@ -31512,6 +33132,8 @@ ___
 >
 >_Géant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (broigne)  
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
@@ -31544,6 +33166,8 @@ ___
 >_\[ Ogre Chain Brute \]_
 >
 >_Géant de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 11 (armure de peaux)  
 >**Points de vie** 59 (7d10 + 21)  
@@ -31579,6 +33203,8 @@ ___
 >
 >_Géant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 11 (armure de peaux)  
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
@@ -31611,6 +33237,8 @@ ___
 >_\[ Ogre Howdah \]_
 >
 >_Géant de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (cuirasse, bouclier)  
 >**Points de vie** 59 (7d10 + 21)  
@@ -31645,6 +33273,8 @@ ___
 >
 >_Géant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (cuirasse)  
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
@@ -31676,6 +33306,8 @@ ___
 >_\[ Ogrémoch \]_
 >
 >_Élémentaire de taille Gig, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 526 (27d20 + 243)  
@@ -31709,6 +33341,8 @@ ___
 >_\[ Oinoloth \]_
 >
 >_Fiélon (yugoloth) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 119 (14d8 + 56)  
@@ -31752,6 +33386,8 @@ ___
 >_\[ Oinoloth \]_
 >
 >_Fiélon (yugoloth) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 126 (12d10 + 60)  
@@ -31797,6 +33433,8 @@ ___
 >
 >_Élémentaire de taille TG, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 324 (24d12 + 168)  
 >**Vitesse** 15 m, nage 30 ft.
@@ -31829,6 +33467,8 @@ ___
 >_\[ Shadow \]_
 >
 >_Mort-vivant de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 16 (3d8 + 3)  
@@ -31868,6 +33508,8 @@ ___
 >_\[ Ancient Shadow \]_
 >
 >_Mort-vivant de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 32 (5d8 + 10)  
@@ -31909,6 +33551,8 @@ ___
 >_\[ Venerable Shadow \]_
 >
 >_Mort-vivant de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 27 (5d8 + 5)  
@@ -31953,6 +33597,8 @@ ___
 >
 >_Géant de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (cotte de mailles)  
 >**Points de vie** 110 (13d10 + 39)  
 >**Vitesse** 9 m, vol 9 m
@@ -31994,6 +33640,8 @@ ___
 >
 >_Humanoïde de taille P, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 36 (8d6 + 8)  
 >**Vitesse** 9 m
@@ -32026,6 +33674,8 @@ ___
 >_\[ Orc \]_
 >
 >_Humanoïde (orc) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de peaux)  
 >**Points de vie** 15 (2d8 + 6)  
@@ -32060,6 +33710,8 @@ ___
 >_\[ Orc War Chief \]_
 >
 >_Humanoïde (orc) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (cotte de mailles)  
 >**Points de vie** 93 (11d8 + 44)  
@@ -32100,6 +33752,8 @@ ___
 >
 >_Humanoïde (orc) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 9 m
@@ -32138,6 +33792,8 @@ ___
 >_\[ Orc Claw of Luthic \]_
 >
 >_Humanoïde (orc) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure de peaux)  
 >**Points de vie** 45 (6d8 + 18)  
@@ -32178,6 +33834,8 @@ ___
 >
 >_Humanoïde (orc) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (cotte de mailles, bouclier)  
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 9 m
@@ -32217,6 +33875,8 @@ ___
 >
 >_Humanoïde (orc) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12 (armure de peaux)  
 >**Points de vie** 30 (4d8 + 12)  
 >**Vitesse** 9 m
@@ -32254,6 +33914,8 @@ ___
 >
 >_Humanoïde (orc) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (broigne, bouclier)  
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
@@ -32287,6 +33949,8 @@ ___
 >\[ Orcus \]
 >
 >Fiélon (démon) de taille TG, chaotique mauvais
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle), 20 avec la _baguette d'Orcus_  
 >**Points de vie** 405 (30d12 + 210)  
@@ -32335,6 +33999,8 @@ ___
 >_\[ Orcus \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle), 20 avec la _baguette d'Orcus_  
 >**Points de vie** 405 (30d12 + 210)  
@@ -32387,6 +34053,8 @@ ___
 >
 >_Humanoïde (orc) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 42 (5d8 + 20)  
 >**Vitesse** 9 m
@@ -32422,6 +34090,8 @@ ___
 >_\[ Orthon \]_
 >
 >_Fiélon (diable) de taille G, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (demi-plate)  
 >**Points de vie** 105 (10d10 + 50)  
@@ -32464,6 +34134,8 @@ ___
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (demi-plate)  
 >**Points de vie** 105 (10d10 + 50)  
 >**Vitesse** 9 m, escalade 9 m
@@ -32504,6 +34176,8 @@ ___
 >
 >_Aberration de taille G, neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 9 m
@@ -32540,6 +34214,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 34 (4d10 + 12)  
 >**Vitesse** 12 m, escalade 9 m
@@ -32574,6 +34250,8 @@ ___
 >_\[ Werebear \]_
 >
 >_Humanoïde (humain, métamorphe) de taille M, neutre bon_
+>
+>___
 >
 >**Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme d'ours et sous forme hybride.  
 >**Points de vie** 135 (18d8 + 54)  
@@ -32613,6 +34291,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
@@ -32647,6 +34327,8 @@ ___
 >_\[ Black Bear \]_
 >
 >_Bête de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 19 (3d8 + 6)  
@@ -32683,6 +34365,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 42 (5d10 + 15)  
 >**Vitesse** 12 m, nage 9 m
@@ -32718,6 +34402,8 @@ ___
 >
 >_Monstruosité de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 12 m
@@ -32751,6 +34437,8 @@ ___
 >_\[ Panther \]_
 >
 >_Bête de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 13 (3d8)  
@@ -32787,6 +34475,8 @@ ___
 >
 >_Monstruosité de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 3 m, vol 9 m
@@ -32817,6 +34507,8 @@ ___
 >_\[ Pegasus \]_
 >
 >_Céleste de taille G, chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 59 (7d10 + 21)  
@@ -32849,6 +34541,8 @@ ___
 >_\[ Pentadrone \]_
 >
 >_Artificiel de taille G, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 32 (5d10 + 5)  
@@ -32887,6 +34581,8 @@ ___
 >
 >_Monstruosité de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 22 (3d8 + 9)  
 >**Vitesse** 1,50 m, escalade 1,50 m
@@ -32921,6 +34617,8 @@ ___
 >_\[ Peryton \]_
 >
 >_Monstruosité de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 33 (6d8 + 6)  
@@ -32961,6 +34659,8 @@ ___
 >
 >_Artificiel de taille M, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 19 (3d8 + 4)  
 >**Vitesse** 3 m
@@ -32999,6 +34699,8 @@ ___
 >
 >_Artificiel de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 19 (3d8 + 4)  
 >**Vitesse** 3 m
@@ -33034,6 +34736,8 @@ ___
 >_\[ Phoenix \]_
 >
 >_Élémentaire de taille Gig, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 18  
 >**Points de vie** 175 (10d20 + 70)  
@@ -33082,6 +34786,8 @@ ___
 >
 >_Élémentaire de taille Gig, neutre_
 >
+>___
+>
 >**Classe d'armure** 18  
 >**Points de vie** 175 (10d20 + 70)  
 >**Vitesse** 6 m, vol 36 m
@@ -33128,6 +34834,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 6 m, nage 12 m
@@ -33160,6 +34868,8 @@ ___
 >_\[ Trapper \]_
 >
 >_Monstruosité de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 68 (8d10 + 24)  
@@ -33196,6 +34906,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 3 m, escalade 3 m
@@ -33230,6 +34942,8 @@ ___
 >_\[ Octopus \]_
 >
 >_Bête de taille P, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 3 (1d6)  
@@ -33267,6 +34981,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 52 (8d10 + 8)  
 >**Vitesse** 3 m, nage 18 m
@@ -33303,6 +35019,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 0 m, nage 12 m
@@ -33335,6 +35053,8 @@ ___
 >_\[ Pixie \]_
 >
 >_Fée de taille TP, neutre bon_
+>
+>___
 >
 >**Classe d'armure** 15  
 >**Points de vie** 1 (1d4 - 1)  
@@ -33371,6 +35091,8 @@ ___
 >_\[ Planetar \]_
 >
 >_Céleste de taille G, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 200 (16d10 + 112)  
@@ -33416,6 +35138,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 68 (8d10 + 24)  
 >**Vitesse** 6 m, nage 12 m
@@ -33448,6 +35172,8 @@ ___
 >_\[ Fist of Bane \]_
 >
 >_Humanoïde (humain) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (cotte de mailles, bouclier)  
 >**Points de vie** 22 (4d8 + 4)  
@@ -33485,6 +35211,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m
@@ -33514,6 +35242,8 @@ ___
 >_\[ Black Pudding \]_
 >
 >_Vase de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 7  
 >**Points de vie** 85 (10d10 + 30)  
@@ -33551,6 +35281,8 @@ ___
 >_\[ Steel Predator \]_
 >
 >_Artificiel de taille G, typiquement loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 207 (18d10 + 108)  
@@ -33594,6 +35326,8 @@ ___
 >
 >_Artificiel de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 207 (18d10 + 108)  
 >**Vitesse** 12 m
@@ -33635,6 +35369,8 @@ ___
 >
 >_Fée de taille TP, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16  
 >**Points de vie** 10 (3d4 + 3)  
 >**Vitesse** 36 m
@@ -33670,6 +35406,8 @@ ___
 >_\[ Quickling \]_
 >
 >_Fée de taille TP, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16  
 >**Points de vie** 10 (3d4 + 3)  
@@ -33707,6 +35445,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (chemise de mailles)  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
@@ -33743,6 +35483,8 @@ ___
 >_\[ War priest \]_
 >
 >_Humanoïde (clerc) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 117 (18d8 + 36)  
@@ -33783,6 +35525,8 @@ ___
 >_\[ War priest \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 117 (18d8 + 36)  
@@ -33826,6 +35570,8 @@ ___
 >
 >_Monstruosité de taille M, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, nage 9 m
@@ -33868,6 +35614,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement mauvais_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, nage 9 m
@@ -33907,6 +35655,8 @@ ___
 >
 >_Humanoïde de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure d'écailles)  
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m
@@ -33938,6 +35688,8 @@ ___
 >_\[ Pseudodragon \]_
 >
 >_Dragon de taille TP, neutre bon_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 7 (2d4 + 2)  
@@ -33975,6 +35727,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 3 m, vol 18 m
@@ -34007,6 +35761,8 @@ ___
 >_\[ Quadrone \]_
 >
 >_Artificiel de taille M, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 22 (4d8 + 4)  
@@ -34045,6 +35801,8 @@ ___
 >
 >_Humanoïde (quaggoth) de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m, escalade 9 m
@@ -34082,6 +35840,8 @@ ___
 >
 >_Plante de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 6 m, escalade 6 m
@@ -34115,6 +35875,8 @@ ___
 >_\[ Quasit \]_
 >
 >_Fiélon (démon, métamorphe) de taille TP, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 7 (3d4)  
@@ -34155,6 +35917,8 @@ ___
 >
 >_Bête (dinosaure) de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 30 (4d12 + 4)  
 >**Vitesse** 3 m, vol 24 m
@@ -34188,6 +35952,8 @@ ___
 >_\[ Quetzalcoatlus \]_
 >
 >_Bête de taille TG, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 30 (4d12 + 4)  
@@ -34223,6 +35989,8 @@ ___
 >_\[ Devilroot \]_
 >
 >_Plante de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 105 (14d8 + 42)  
@@ -34265,6 +36033,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 16 (3d8 + 3)  
 >**Vitesse** 0 m, nage 12 m
@@ -34299,6 +36069,8 @@ ___
 >_\[ Rakshasa \]_
 >
 >_Fiélon de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 110 (13d8 + 52)  
@@ -34339,6 +36111,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 6 m
@@ -34370,6 +36144,8 @@ ___
 >_\[ Cranium Rat \]_
 >
 >_Bête de taille TP, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 2 (1d4)  
@@ -34405,6 +36181,8 @@ ___
 >
 >_Bête de taille TP, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 9 m
@@ -34438,6 +36216,8 @@ ___
 >_\[ Wererat \]_
 >
 >_Humanoïde (humain, métamorphe) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 33 (6d8 + 6)  
@@ -34477,6 +36257,8 @@ ___
 >
 >_Bête de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 9 m
@@ -34509,6 +36291,8 @@ ___
 >_\[ Spawn of Kyuss \]_
 >
 >_Mort-vivant de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 76 (9d8 + 36)  
@@ -34550,6 +36334,8 @@ ___
 >
 >_Mort-vivant de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 76 (9d8 + 36)  
 >**Vitesse** 9 m
@@ -34589,6 +36375,8 @@ ___
 >
 >_Monstruosité de taille M, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 6 m, nage 9 m
@@ -34623,6 +36411,8 @@ ___
 >_\[ Sea Spawn \]_
 >
 >_Humanoïde de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 32 (5d8 + 10)  
@@ -34661,6 +36451,8 @@ ___
 >_\[ Star Spawn Hulk \] \[ Fléau stellaire, colosse \]_
 >
 >_Aberration de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 136 (13d10 + 65)  
@@ -34701,6 +36493,8 @@ ___
 >
 >_Aberration de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 136 (13d10 + 65)  
 >**Vitesse** 9 m
@@ -34739,6 +36533,8 @@ ___
 >
 >_Aberration de taille P, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 17 (5d6)  
 >**Vitesse** 9 m
@@ -34773,6 +36569,8 @@ ___
 >
 >_Aberration de taille P, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 17 (5d6)  
 >**Vitesse** 9 m
@@ -34805,6 +36603,8 @@ ___
 >_\[ Star Spawn Larva Mage \] \[ Fléau stellaire, magever \]_
 >
 >_Aberration de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 168 (16d8 + 96)  
@@ -34852,6 +36652,8 @@ ___
 >
 >_Aberration de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 168 (16d8 + 96)  
 >**Vitesse** 9 m
@@ -34895,6 +36697,8 @@ ___
 >
 >_Aberration de taille M, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 12 m, escalade 12 m
@@ -34936,6 +36740,8 @@ ___
 >
 >_Aberration de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 12 m, escalade 12 m
@@ -34975,6 +36781,8 @@ ___
 >_\[ Star Spawn Seer \] \[ Fléau stellaire, voyant \]_
 >
 >_Aberration de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 153 (18d8 + 72)  
@@ -35018,6 +36826,8 @@ ___
 >
 >_Aberration de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 153 (18d8 + 72)  
 >**Vitesse** 9 m
@@ -35059,6 +36869,8 @@ ___
 >
 >_Monstruosité de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 195 (17d12 + 85)  
 >**Vitesse** 9 m, creusement 6 m
@@ -35093,6 +36905,8 @@ ___
 >
 >_Monstruosité de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 9 m, creusement 6 m
@@ -35126,6 +36940,8 @@ ___
 >_\[ Fox \]_
 >
 >_Bête de taille TP, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 13  
 >**Points de vie** 2 (1d4)  
@@ -35162,6 +36978,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 0 m, nage 12 m
@@ -35195,6 +37013,8 @@ ___
 >_\[ Reef Shark \]_
 >
 >_Bête de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 22 (4d8 + 4)  
@@ -35230,6 +37050,8 @@ ___
 >
 >_Bête de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 126 (11d12 + 55)  
 >**Vitesse** 0 m, nage 15 m
@@ -35264,6 +37086,8 @@ ___
 >
 >_Plante de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
@@ -35296,6 +37120,8 @@ ___
 >_\[ Revenant \]_
 >
 >_Mort-vivant de taille M, neutre_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 136 (16d8 + 64)  
@@ -35339,6 +37165,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 12 m
@@ -35370,6 +37198,8 @@ ___
 >_\[ Roc \] \[ Ruhk \]_
 >
 >_Monstruosité de taille Gig, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 248 (16d20 + 80)  
@@ -35406,6 +37236,8 @@ ___
 >_\[ Lizard King/Queen \]_
 >
 >_Humanoïde (homme-lézard) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 78 (12d8 + 24)  
@@ -35447,6 +37279,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 15 (2d10 + 4)  
 >**Vitesse** 9 m
@@ -35479,6 +37313,8 @@ ___
 >_\[ Deep Rothé \]_
 >
 >_Bête (bétail) de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 13 (2d8 + 4)  
@@ -35514,6 +37350,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m
@@ -35548,6 +37386,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 4 (1d8)  
 >**Vitesse** 9 m
@@ -35577,6 +37417,8 @@ ___
 >_\[ Rotz \]_
 >
 >_Humanoïde (humain) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 33 (6d8 + 6)  
@@ -35617,6 +37459,8 @@ ___
 >
 >_Fiélon (démon) de taille M, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 37 (5d8 + 15)  
 >**Vitesse** 6 m
@@ -35653,6 +37497,8 @@ ___
 >
 >_Fiélon (démon) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 37 (5d8 + 15)  
 >**Vitesse** 6 m
@@ -35687,6 +37533,8 @@ ___
 >_\[ Sage \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 10 (13 avec _armure de mage_)  
 >**Points de vie** 22 (5d8)  
@@ -35726,6 +37574,8 @@ ___
 >_\[ Master Sage \]_
 >
 >_Humanoïde (toute race) de taille M, -_
+>
+>___
 >
 >**Classe d'armure** 10 (13 avec _armure de mage_)  
 >**Points de vie** 54 (12d8)  
@@ -35767,6 +37617,8 @@ ___
 >
 >_Humanoïde (sahuagin) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m, nage 12 m
@@ -35804,6 +37656,8 @@ ___
 >_\[ Sahuagin Baron \]_
 >
 >_Humanoïde (sahuagin) de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (cuirasse)  
 >**Points de vie** 76 (9d10 + 27)  
@@ -35844,6 +37698,8 @@ ___
 >_\[ Sahuagin Priestess \]_
 >
 >_Humanoïde (sahuagin) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 33 (6d8 + 6)  
@@ -35887,6 +37743,8 @@ ___
 >
 >_Élémentaire de taille G, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 9 m
@@ -35924,6 +37782,8 @@ ___
 >_\[ Frost Salamander \]_
 >
 >_Élémentaire de taille TG, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 168 (16d12 + 64)  
@@ -35965,6 +37825,8 @@ ___
 >
 >_Élémentaire de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 168 (16d12 + 64)  
 >**Vitesse** 18 m, creusement 12 m, escalade 12 m
@@ -36004,6 +37866,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m
@@ -36036,6 +37900,8 @@ ___
 >_\[ Wereboar \]_
 >
 >_Humanoïde (humain, métamorphe) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme de sanglier ou sous forme hybride  
 >**Points de vie** 78 (12d8 + 24)  
@@ -36075,6 +37941,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 42 (5d10 + 15)  
 >**Vitesse** 12 m
@@ -36107,6 +37975,8 @@ ___
 >_\[ Sanuya \]_
 >
 >_Humanoïde (humain) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 22 (5d8)  
@@ -36145,6 +38015,8 @@ ___
 >
 >_Fée de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de cuir)  
 >**Points de vie** 31 (7d8)  
 >**Vitesse** 12 m
@@ -36180,6 +38052,8 @@ ___
 >
 >_Bête de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 4 (1d6 + 1)  
 >**Vitesse** 9 m
@@ -36212,6 +38086,8 @@ ___
 >
 >_Monstruosité de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 7 (3d4)  
 >**Vitesse** 6 m, creusement 6 m, vol 6 m
@@ -36242,6 +38118,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 3 m
@@ -36271,6 +38149,8 @@ ___
 >_\[ Giant Scorpion \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 52 (7d10 + 14)  
@@ -36303,6 +38183,8 @@ ___
 >_\[ Warlord \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 229 (27d8 + 108)  
@@ -36346,6 +38228,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 229 (27d8 + 108)  
 >**Vitesse** 9 m
@@ -36386,6 +38270,8 @@ ___
 >_\[ Skull Lord \]_
 >
 >_Mort-vivant (ensorceleur) de taille M, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 112 (15d8 + 45)  
@@ -36433,6 +38319,8 @@ ___
 >
 >_Mort-vivant de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 105 (14d8 + 42)  
 >**Vitesse** 9 m
@@ -36476,6 +38364,8 @@ ___
 >_\[ Mummy Lord \] \[ Momie auguste \]_
 >
 >_Mort-vivant de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 97 (13d8 + 39)  
@@ -36529,6 +38419,8 @@ ___
 >
 >_Mort-vivant de taille M (paladin), loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (harnois)  
 >**Points de vie** 228 (24d8 + 120)  
 >**Vitesse** 9 m
@@ -36575,6 +38467,8 @@ ___
 >
 >_Humanoïde (humain, métamorphe) de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m (3 m, nage 9 m sous forme hybride ; 3 m, nage 12 m sous forme de phoque)
@@ -36615,6 +38509,8 @@ ___
 >
 >_Élémentaire de taille G, neutre_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 58 (9d10 + 9)  
 >**Vitesse** 0 m, nage 18 m
@@ -36652,6 +38548,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 13 (2d10 + 2)  
 >**Vitesse** 9 m, nage 9 m
@@ -36682,6 +38580,8 @@ ___
 >_\[ Giant Constrictor Snake \]_
 >
 >_Bête de taille TG, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 60 (8d12 + 8)  
@@ -36714,6 +38614,8 @@ ___
 >_\[ Fire Snake \]_
 >
 >_Élémentaire de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 22 (5d8)  
@@ -36753,6 +38655,8 @@ ___
 >
 >_Dragon de taille Gig, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 170 (11d20 + 55)  
 >**Vitesse** 6 m, nage 18 m
@@ -36785,6 +38689,8 @@ ___
 >_\[ Young Sea Serpent \]_
 >
 >_Dragon de taille TG, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 123 (13d12 + 39)  
@@ -36819,6 +38725,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13  
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 9 m, nage 9 m
@@ -36848,6 +38756,8 @@ ___
 >_\[ Giant Poisonous Snake \]_
 >
 >_Bête de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14  
 >**Points de vie** 11 (2d8 + 2)  
@@ -36880,6 +38790,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 5 (2d4)  
 >**Vitesse** 9 m, nage 9 m, vol 18 m
@@ -36911,6 +38823,8 @@ ___
 >_\[ Mighty Servant of Leuk-O \]_
 >
 >_Artificiel de taille TG, -_
+>
+>___
 >
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 310 (27d12 + 135)  
@@ -36954,6 +38868,8 @@ ___
 >
 >_Artificiel de taille TP, -_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 1 + votre modificateur d'Intelligence + votre niveau d'artificier (l'homoncule a un nombre de Dés de vie \[d4\] égal à votre niveau d'artificier)  
 >**Vitesse** 6 m, vol 9 m
@@ -36993,6 +38909,8 @@ ___
 >
 >_Artificiel de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 10 (4d4)  
 >**Vitesse** 9 m, escalade 9 m
@@ -37026,6 +38944,8 @@ ___
 >_\[ Shadar-kai Soul Monger \]_
 >
 >_Humanoïde (elfe) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 136 (21d8 + 42)  
@@ -37070,6 +38990,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 123 (19d8 + 38)  
 >**Vitesse** 9 m
@@ -37112,6 +39034,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
@@ -37151,6 +39075,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
@@ -37188,6 +39114,8 @@ ___
 >_\[ Shadar-kai Gloom Weaver \]_
 >
 >_Humanoïde (elfe) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14  
 >**Points de vie** 104 (16d8 + 32)  
@@ -37229,6 +39157,8 @@ ___
 >
 >_Humanoïde (elfe) de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (17 avec _armure de mage_)  
 >**Points de vie** 104 (16d8 + 32)  
 >**Vitesse** 9 m
@@ -37269,6 +39199,8 @@ ___
 >
 >_Fiélon (démon) de taille G, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 136 (16d10 + 48)  
 >**Vitesse** 12 m
@@ -37308,6 +39240,8 @@ ___
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 110 (13d10 + 39)  
 >**Vitesse** 12 m
@@ -37346,6 +39280,8 @@ ___
 >_\[ Sibriex \]_
 >
 >_Fiélon (démon) de taille TG, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 150 (12d12 + 72)  
@@ -37393,6 +39329,8 @@ ___
 >_\[ Sibriex \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 150 (12d12 + 72)  
@@ -37444,6 +39382,8 @@ ___
 >
 >_Bête de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 157 (15d12 + 60)  
 >**Vitesse** 12 m, escalade 12 m
@@ -37476,6 +39416,8 @@ ___
 >_\[ Blue Slaad \]_
 >
 >_Aberration de taille G, chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 123 (13d10 + 52)  
@@ -37514,6 +39456,8 @@ ___
 >_\[ Death Slaad \]_
 >
 >_Aberration (métamorphe) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 170 (20d8 + 80)  
@@ -37560,6 +39504,8 @@ ___
 >
 >_Aberration (métamorphe) de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
@@ -37605,6 +39551,8 @@ ___
 >
 >_Aberration de taille G, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 9 m
@@ -37643,6 +39591,8 @@ ___
 >
 >_Aberration de taille TP, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 10 (4d4)  
 >**Vitesse** 9 m
@@ -37677,6 +39627,8 @@ ___
 >_\[ Green Slaad \]_
 >
 >_Aberration (métamorphe) de taille G, chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 127 (15d10 + 45)  
@@ -37722,6 +39674,8 @@ ___
 >_\[ Solar \]_
 >
 >_Céleste de taille G, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 243 (18d10 + 144)  
@@ -37773,6 +39727,8 @@ ___
 >
 >_Fée de taille P, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de cuir)  
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
@@ -37807,6 +39763,8 @@ ___
 >_\[ Darkling Elder \] \[ Obscur, aîné \]_
 >
 >_Fée de taille M, typiquement chaotique neutre_
+>
+>___
 >
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 27 (5d8 + 5)  
@@ -37844,6 +39802,8 @@ ___
 >
 >_Fée de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure de cuir clouté)  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
@@ -37880,6 +39840,8 @@ ___
 >
 >_Fée de taille P, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de cuir)  
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
@@ -37914,6 +39876,8 @@ ___
 >_\[ Deathlock \]_
 >
 >_Mort-vivant (occultiste) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 36 (8d8)  
@@ -37956,6 +39920,8 @@ ___
 >_\[ Deathlock Mastermind \] \[ Sorcemort, cerveau \]_
 >
 >_Mort-vivant (occultiste) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (16 avec _armure de mage_)  
 >**Points de vie** 110 (20d8 + 20)  
@@ -38000,6 +39966,8 @@ ___
 >
 >_Mort-vivant de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (16 avec _armure de mage_)  
 >**Points de vie** 110 (20d8 + 20)  
 >**Vitesse** 9 m
@@ -38040,6 +40008,8 @@ ___
 >
 >_Mort-vivant de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 36 (8d8)  
 >**Vitesse** 9 m
@@ -38078,6 +40048,8 @@ ___
 >_\[ Deathlock Wight \]_
 >
 >_Mort-vivant (occultiste) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 37 (5d8 + 15)  
@@ -38121,6 +40093,8 @@ ___
 >
 >_Mort-vivant de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 37 (5d8 + 15)  
 >**Vitesse** 9 m
@@ -38161,6 +40135,8 @@ ___
 >
 >_Élementaire de taille G, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle) ou 17 (forme de froid uniquement)  
 >**Points de vie** 95 (10d10 + 40)  
 >**Vitesse** 9 m, vol 9 m (stationnaire)
@@ -38192,6 +40168,8 @@ ___
 >_\[ Spectator \]_
 >
 >_Aberration de taille M, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 39 (6d8 + 12)  
@@ -38233,6 +40211,8 @@ ___
 >
 >_Mort-vivant de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 0 m, vol 15 m (stationnaire)
@@ -38268,6 +40248,8 @@ ___
 >_\[ Gas Spore \]_
 >
 >_Plante de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 5  
 >**Points de vie** 1 (1d10 - 4)  
@@ -38305,6 +40287,8 @@ ___
 >
 >_Mort-vivant de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (restes d'armure)  
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m
@@ -38339,6 +40323,8 @@ ___
 >
 >_Mort-vivant de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (restes de caparaçonnage)  
 >**Points de vie** 22 (3d10 + 6)  
 >**Vitesse** 18 m
@@ -38371,6 +40357,8 @@ ___
 >_\[ Minotaur Skeleton \]_
 >
 >_Mort-vivant de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 67 (9d10 + 18)  
@@ -38408,6 +40396,8 @@ ___
 >_\[ Strahd von Zarovich \]_
 >
 >_Mort-vivant (métamorphe) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 144 (17d8 + 68)  
@@ -38458,6 +40448,8 @@ ___
 >
 >_Bête de taille TP, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 3 m, vol 12 m
@@ -38487,6 +40479,8 @@ ___
 >_\[ Succubus \]_
 >
 >_Fiélon (métamorphe) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 66 (12d8 + 12)  
@@ -38525,6 +40519,8 @@ ___
 >_\[ Treant \]_
 >
 >_Plante de taille TG, chaotique bon_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 138 (12d12 + 60)  
@@ -38565,6 +40561,8 @@ ___
 >
 >_Humanoïde (tabaxi) de taille M, chaotique bon_
 >
+>___
+>
 >**Classe d'armure** 14 (armure de cuir)  
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m, escalade 6 m
@@ -38603,6 +40601,8 @@ ___
 >
 >_Humanoïde (tabaxi) de taille M, chaotique bon_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m, escalade 6 m
@@ -38636,6 +40636,8 @@ ___
 >_\[ Tanarukk \]_
 >
 >_Fiélon (démon) de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 95 (10d8 + 50)  
@@ -38676,6 +40678,8 @@ ___
 >
 >_Fiélon (démon, orc) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 95 (10d8 + 50)  
 >**Vitesse** 9 m
@@ -38715,6 +40719,8 @@ ___
 >
 >_Artificiel de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 33 (6d10)  
 >**Vitesse** 3 m
@@ -38750,6 +40756,8 @@ ___
 >_\[ Tarrasque \]_
 >
 >_Monstruosité (titan) de taille Gig, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 25 (armure naturelle)  
 >**Points de vie** 676 (33d20 + 330)  
@@ -38798,6 +40806,8 @@ ___
 >
 >_Aberration de taille G, typiquement loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
@@ -38836,6 +40846,8 @@ ___
 >_\[ Mindwitness \]_
 >
 >_Aberration de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 75 (10d10 + 20)  
@@ -38882,6 +40894,8 @@ ___
 >
 >_Plante de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 6 m
@@ -38919,6 +40933,8 @@ ___
 >_\[ Nightwalker \]_
 >
 >_Mort-vivant de taille TG, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14  
 >**Points de vie** 337 (25d12 + 175)  
@@ -38961,6 +40977,8 @@ ___
 >
 >_Mort-vivant de taille TG, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 297 (22d12 + 154)  
 >**Vitesse** 12 m, vol 12 m
@@ -39000,6 +41018,8 @@ ___
 >
 >_Humanoïde (demi-elfe) de taille M, neutre bon_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m
@@ -39036,6 +41056,8 @@ ___
 >_\[ Shambling Mound \]_
 >
 >_Plante de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 136 (16d10 + 48)  
@@ -39075,6 +41097,8 @@ ___
 >
 >_Humanoïde (thri-kreen) de taille M, chaotique neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 12 m
@@ -39112,6 +41136,8 @@ ___
 >
 >_Fiélon de taille Gig, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 25 (armure naturelle)  
 >**Points de vie** 615 (30d20 + 300)  
 >**Vitesse** 18 m, vol 36 m
@@ -39144,6 +41170,8 @@ ___
 >_\[ Tiger \]_
 >
 >_Bête de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 37 (5d10 + 10)  
@@ -39180,6 +41208,8 @@ ___
 >
 >_Bête de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 52 (7d10 + 14)  
 >**Vitesse** 12 m
@@ -39214,6 +41244,8 @@ ___
 >_\[ Weretiger \]_
 >
 >_Humanoïde (humain, métamorphe) de taille M, neutre_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 120 (16d8 + 48)  
@@ -39254,6 +41286,8 @@ ___
 >_\[ Titivilus \]_
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 150 (20d8 + 60)  
@@ -39304,6 +41338,8 @@ ___
 >
 >_Fiélon (diable) de taille M, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 12 m, vol 18 m
@@ -39353,6 +41389,8 @@ ___
 >
 >_Monstruosité de taille G, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 12 m
@@ -39389,6 +41427,8 @@ ___
 >
 >_Monstruosité de taille G, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 12 m
@@ -39423,6 +41463,8 @@ ___
 >_\[ Tortle \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 22 (4d8 + 4)  
@@ -39460,6 +41502,8 @@ ___
 >_\[ Tortle Druid \]_
 >
 >_Humanoïde de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 33 (6d8 + 6)  
@@ -39499,6 +41543,8 @@ ___
 >
 >_Humanoïde (torte) de taille M, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
@@ -39534,6 +41580,8 @@ ___
 >_\[ Tortle \]_
 >
 >_Humanoïde (torte) de taille M, loyal bon_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 22 (4d8 + 4)  
@@ -39571,6 +41619,8 @@ ___
 >
 >_Humanoïde (torve) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
@@ -39606,6 +41656,8 @@ ___
 >_\[ Elder Tempest \]_
 >
 >_Élémentaire de taille Gig, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 19  
 >**Points de vie** 264 (16d20 + 96)  
@@ -39653,6 +41705,8 @@ ___
 >
 >_Élémentaire de taille Gig, neutre_
 >
+>___
+>
 >**Classe d'armure** 19  
 >**Points de vie** 264 (16d20 + 96)  
 >**Vitesse** 0 m, vol 36 m (stationnaire)
@@ -39697,6 +41751,8 @@ ___
 >_\[ Transmuter \]_
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 40 (9d8)  
@@ -39745,6 +41801,8 @@ ___
 >
 >_Monstruosité de taille G, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 67 (9d10 + 18)  
 >**Vitesse** 12 m, escalade 12 m
@@ -39777,6 +41835,8 @@ ___
 >_\[ Slithering Tracker \] \[ Traquatique \]_
 >
 >_Vase de taille M, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14  
 >**Points de vie** 39 (6d8 + 12)  
@@ -39818,6 +41878,8 @@ ___
 >_\[ Slithering Tracker \]_
 >
 >_Vase de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 14  
 >**Points de vie** 32 (5d8 + 10)  
@@ -39863,6 +41925,8 @@ ___
 >
 >_Élémentaire de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 14  
 >**Points de vie** 104 (16d8 + 32)  
 >**Vitesse** 15 m, vol 15 m (stationnaire)
@@ -39901,6 +41965,8 @@ ___
 >
 >_Bête de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 95 (10d12 + 30)  
 >**Vitesse** 15 m
@@ -39933,6 +41999,8 @@ ___
 >_\[ Tridrone \]_
 >
 >_Artificiel de taille M, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 16 (3d8 + 3)  
@@ -39970,6 +42038,8 @@ ___
 >
 >_Élementaire de taille M, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 13 (bouclier)  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
@@ -40006,6 +42076,8 @@ ___
 >
 >_Humanoïde (triton du feu) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (chemise de mailles, bouclier)  
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
@@ -40041,6 +42113,8 @@ ___
 >_\[ Firenewt Warlock of Imix \]_
 >
 >_Élémentaire de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 33 (6d8 + 6)  
@@ -40081,6 +42155,8 @@ ___
 >
 >_Humanoïde (triton du feu) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 10 (13 avec _armure de mage_)  
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
@@ -40119,6 +42195,8 @@ ___
 >_\[ Tritsir \]_
 >
 >_Humanoïde (humain) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 10 (13 avec _armure de mage_)  
 >**Points de vie** 90 (12d8 + 36)  
@@ -40163,6 +42241,8 @@ ___
 >
 >_Humanoïde (troglodyte) de taille M, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 11 (armure naturelle)  
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m
@@ -40201,6 +42281,8 @@ ___
 >
 >_Géant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 9 m
@@ -40236,6 +42318,8 @@ ___
 >_\[ Rot Troll \]_
 >
 >_Géant de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 138 (12d10 + 72)  
@@ -40274,6 +42358,8 @@ ___
 >
 >_Géant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 138 (12d10 + 72)  
 >**Vitesse** 9 m
@@ -40309,6 +42395,8 @@ ___
 >_\[ Dire Troll \]_
 >
 >_Géant de taille TG, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 172 (15d12 + 75)  
@@ -40350,6 +42438,8 @@ ___
 >
 >_Géant de taille TG, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 172 (15d12 + 75)  
 >**Vitesse** 12 m
@@ -40389,6 +42479,8 @@ ___
 >_\[ Spirit Troll \]_
 >
 >_Géant de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 130 (20d10 + 20)  
@@ -40430,6 +42522,8 @@ ___
 >
 >_Géant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 97 (15d10 + 15)  
 >**Vitesse** 9 m
@@ -40468,6 +42562,8 @@ ___
 >_\[ Venom Troll \]_
 >
 >_Géant de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 94 (9d10 + 45)  
@@ -40509,6 +42605,8 @@ ___
 >
 >_Géant de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 94 (9d10 + 45)  
 >**Vitesse** 9 m
@@ -40549,6 +42647,8 @@ ___
 >
 >_Bête de taille P, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 0 m, nage 9 m
@@ -40583,6 +42683,8 @@ ___
 >_\[ Death Tyrant \]_
 >
 >_Mort-vivant de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 187 (25d10 + 50)  
@@ -40633,6 +42735,8 @@ ___
 >
 >_Aberration de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 180 (19d10 + 76)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
@@ -40681,6 +42785,8 @@ ___
 >
 >_Bête de taille TG, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 136 (13d12 + 52)  
 >**Vitesse** 15 m
@@ -40713,6 +42819,8 @@ ___
 >_\[ Ulitharid \]_
 >
 >_Aberration (flagelleur mental) de taille G, typiquement loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (cuirasse)  
 >**Points de vie** 127 (17d10 + 34)  
@@ -40754,6 +42862,8 @@ ___
 >
 >_Aberration de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (cuirasse)  
 >**Points de vie** 127 (17d10 + 34)  
 >**Vitesse** 9 m
@@ -40794,6 +42904,8 @@ ___
 >_\[ Ultroloth \]_
 >
 >_Fiélon (yugoloth) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 153 (18d8 + 72)  
@@ -40840,6 +42952,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, loyal neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (_Bâton noir_ ; 17 avec _armure de mage_)  
 >**Points de vie** 126 (23d8 + 23)  
 >**Vitesse** 9 m
@@ -40876,6 +42990,8 @@ ___
 >_\[ Vampire \]_
 >
 >_Mort-vivant (métamorphe) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 144 (17d8 + 68)  
@@ -40928,6 +43044,8 @@ ___
 >
 >_Mort-vivant de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 82 (11d8 + 33)  
 >**Vitesse** 9 m
@@ -40971,6 +43089,8 @@ ___
 >
 >_Aberration (tyrannoeil) de taille G, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 142 (15d10 + 60)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
@@ -41009,6 +43129,8 @@ ___
 >_\[ Death Kiss \]_
 >
 >_Aberration de taille G, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 161 (17d10 + 68)  
@@ -41049,6 +43171,8 @@ ___
 >
 >_Fiélon de taille TP, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 18 (4d4 + 8)  
 >**Vitesse** 1,50 m, vol 12 m
@@ -41086,6 +43210,8 @@ ___
 >
 >_Fiélon de taille TP, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12  
 >**Points de vie** 13 (3d4 + 6)  
 >**Vitesse** 1,50 m, vol 12 m
@@ -41121,6 +43247,8 @@ ___
 >_\[ Dragonblood Ooze \] \[ Dracoglobine \]_
 >
 >_Vase de taille G, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 68 (8d10 + 24)  
@@ -41161,6 +43289,8 @@ ___
 >
 >_Vase de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 8  
 >**Points de vie** 22 (3d8 + 9)  
 >**Vitesse** 3 m, escalade 3 m
@@ -41198,6 +43328,8 @@ ___
 >
 >_Bête de taille M, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 10  
 >**Points de vie** 5 (1d8 + 1)  
 >**Vitesse** 3 m, vol 15 m
@@ -41231,6 +43363,8 @@ ___
 >_\[ Giant Vulture \]_
 >
 >_Bête de taille G, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 22 (3d10 + 6)  
@@ -41267,6 +43401,8 @@ ___
 >_\[ Vecna the Archlich \]_
 >
 >_Mort-vivant (magicien) de taille M, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 272 (32d8 + 128)  
@@ -41322,6 +43458,8 @@ ___
 >
 >_Plante de taille P, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
@@ -41358,6 +43496,8 @@ ___
 >_\[ Vegepygmy Chief \]_
 >
 >_Plante de taille P, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 33 (6d6 + 12)  
@@ -41398,6 +43538,8 @@ ___
 >
 >_Plante de taille P, neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 33 (6d6 + 12)  
 >**Vitesse** 9 m
@@ -41437,6 +43579,8 @@ ___
 >
 >_Plante de taille M, typiquement neutre_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
@@ -41473,6 +43617,8 @@ ___
 >_\[ Vegepygmy \]_
 >
 >_Plante de taille P, neutre_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 9 (2d6 + 2)  
@@ -41511,6 +43657,8 @@ ___
 >
 >_Humanoïde (humain) de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 13 (_bracelets de défense_)  
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 6 m
@@ -41541,6 +43689,8 @@ ___
 >_\[ Velociraptor \]_
 >
 >_Bête (dinosaure) de taille TP, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 10 (3d4 + 3)  
@@ -41576,6 +43726,8 @@ ___
 >_\[ Velociraptor \]_
 >
 >_Bête de taille TP, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 10 (3d4 + 3)  
@@ -41613,6 +43765,8 @@ ___
 >
 >_Monstruosité de taille Gig, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 247 (15d20 + 90)  
 >**Vitesse** 15 m, creusement 9 m
@@ -41648,6 +43802,8 @@ ___
 >
 >_Humanoïde (toute race) de taille M, tout alignement_
 >
+>___
+>
 >**Classe d'armure** 17 (clibanion)  
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m
@@ -41681,6 +43837,8 @@ ___
 >_\[ Viplo \]_
 >
 >_Humanoïde (halfelin) de taille P, loyal neutre_
+>
+>___
 >
 >**Classe d'armure** 10  
 >**Points de vie** 9 (2d6 + 2)  
@@ -41716,6 +43874,8 @@ ___
 >_\[ Meenlock \]_
 >
 >_Fée de taille P, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 31 (7d6 + 7)  
@@ -41754,6 +43914,8 @@ ___
 >
 >_Fée de taille P, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 31 (7d6 + 7)  
 >**Vitesse** 9 m
@@ -41790,6 +43952,8 @@ ___
 >_\[ Vrock \]_
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 104 (11d10 + 44)  
@@ -41830,6 +43994,8 @@ ___
 >_\[ Wastrilith \]_
 >
 >_Fiélon (démon) de taille G, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 157 (15d10 + 75)  
@@ -41874,6 +44040,8 @@ ___
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 157 (15d10 + 75)  
 >**Vitesse** 9 m, nage 24 m
@@ -41916,6 +44084,8 @@ ___
 >
 >_Dragon de taille G, sans alignement_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 110 (13d10 + 39)  
 >**Vitesse** 6 m, vol 24 m
@@ -41950,6 +44120,8 @@ ___
 >
 >_Monstruosité de taille G, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure naturelle)  
 >**Points de vie** 26 (4d10 + 4)  
 >**Vitesse** 15 m
@@ -41982,6 +44154,8 @@ ___
 >_\[ Xiximantre \]_
 >
 >_Humanoïde (homme serpent) de taille M, neutre_
+>
+>___
 >
 >**Classe d'armure** 11 (14 avec _armure de mage_)  
 >**Points de vie** 38 (11d8-11)  
@@ -42026,6 +44200,8 @@ ___
 >
 >_Élémentaire de taille M, neutre_
 >
+>___
+>
 >**Classe d'armure** 19 (armure naturelle)  
 >**Points de vie** 73 (7d8 + 42)  
 >**Vitesse** 6 m, creusement 6 m
@@ -42064,6 +44240,8 @@ ___
 >
 >_Monstruosité de taille P, typiquement chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 9 m
@@ -42099,6 +44277,8 @@ ___
 >_\[ Xvart \]_
 >
 >_Humanoïde (xvart) de taille P, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 13 (armure de cuir)  
 >**Points de vie** 7 (2d6)  
@@ -42136,6 +44316,8 @@ ___
 >_\[ Xvart Warlock of Raxivort \]_
 >
 >_Monstruosité de taille P, typiquement chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 22 (5d6 + 5)  
@@ -42175,6 +44357,8 @@ ___
 >_\[ Xvart Warlock of Raxivort \]_
 >
 >_Humanoïde (xvart) de taille P, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 12 (15 avec _armure de mage_)  
 >**Points de vie** 22 (5d6 + 5)  
@@ -42216,6 +44400,8 @@ ___
 >_\[ Yagnoloth \]_
 >
 >_Fiélon (yugoloth) de taille G, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 147 (14d10 + 70)  
@@ -42261,6 +44447,8 @@ ___
 >
 >_Fiélon (yugoloth) de taille G, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 17 (armure naturelle)  
 >**Points de vie** 147 (14d10 + 70)  
 >**Vitesse** 12 m
@@ -42305,6 +44493,8 @@ ___
 >
 >_Élémentaire de taille TG, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 22 (armure naturelle)  
 >**Points de vie** 283 (21d12 + 147)  
 >**Vitesse** 15 m, vol 45 m
@@ -42337,6 +44527,8 @@ ___
 >_\[ Yeenoghu \]_
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 333 (23d12 + 184)  
@@ -42384,6 +44576,8 @@ ___
 >
 >_Fiélon (démon) de taille TG, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 20 (armure naturelle)  
 >**Points de vie** 333 (23d12 + 184)  
 >**Vitesse** 15 m
@@ -42430,6 +44624,8 @@ ___
 >
 >_Monstruosité de taille G, chaotique mauvais_
 >
+>___
+>
 >**Classe d'armure** 12 (armure naturelle)  
 >**Points de vie** 51 (6d10 + 18)  
 >**Vitesse** 12 m, escalade 12 m
@@ -42467,6 +44663,8 @@ ___
 >_\[ Abominable Yeti \]_
 >
 >_Monstruosité de taille TG, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 137 (11d12 + 66)  
@@ -42507,6 +44705,8 @@ ___
 >_\[ Yochlol \]_
 >
 >_Fiélon (démon, métamorphe) de taille M, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 136 (16d8 + 64)  
@@ -42554,6 +44754,8 @@ ___
 >
 >_Monstruosité (métamorphe, yuan-ti) de taille G, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 127 (15d10 + 45)  
 >**Vitesse** 12 m
@@ -42599,6 +44801,8 @@ ___
 >
 >_Monstruosité de taille TG, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 189 (18d12 + 72)  
 >**Vitesse** 12 m, escalade 9 m, nage 9 m
@@ -42642,6 +44846,8 @@ ___
 >_\[ Yuan-ti Anathema \]_
 >
 >_Monstruosité (métamorphe, yuan-ti) de taille TG, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 16 (armure naturelle)  
 >**Points de vie** 189 (18d12 + 72)  
@@ -42690,6 +44896,8 @@ ___
 >
 >_Monstruosité (occultiste) de taille M, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
@@ -42733,6 +44941,8 @@ ___
 >_\[ Yuan-ti Nightmare Speaker \]_
 >
 >_Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 71 (13d8 + 13)  
@@ -42781,6 +44991,8 @@ ___
 >
 >_Monstruosité (occultiste) de taille M, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
@@ -42824,6 +45036,8 @@ ___
 >_\[ Yuan-ti Mind Whisperer \]_
 >
 >_Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 71 (13d8 + 13)  
@@ -42873,6 +45087,8 @@ ___
 >
 >_Monstruosité de taille M, typiquement neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
@@ -42911,6 +45127,8 @@ ___
 >_\[ Yuan-ti Broodguard \]_
 >
 >_Humanoïde (yuan-ti) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 45 (7d8 + 14)  
@@ -42951,6 +45169,8 @@ ___
 >_\[ Yuan-ti Pit Master \]_
 >
 >_Monstruosité (occultiste) de taille M, typiquement neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 88 (16d8 + 16)  
@@ -42994,6 +45214,8 @@ ___
 >_\[ Yuan-ti Pit Master \]_
 >
 >_Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 14 (armure naturelle)  
 >**Points de vie** 88 (16d8 + 16)  
@@ -43040,6 +45262,8 @@ ___
 >_\[ Yuan-ti Malison \]_
 >
 >_Monstruosité (métamorphe, yuan-ti) de taille M, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 12  
 >**Points de vie** 66 (12d8 + 12)  
@@ -43096,6 +45320,8 @@ ___
 >
 >_Humanoïde (yuan-ti) de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 11  
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m
@@ -43135,6 +45361,8 @@ ___
 >_\[ Zaratan \]_
 >
 >_Élémentaire de taille Gig, typiquement neutre_
+>
+>___
 >
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 307 (15d20 + 150)  
@@ -43184,6 +45412,8 @@ ___
 >_\[ Zaratan \]_
 >
 >_Élémentaire de taille Gig, neutre_
+>
+>___
 >
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 307 (15d20 + 150)  
@@ -43235,6 +45465,8 @@ ___
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 420 (29d10 + 261)  
 >**Vitesse** 15 m, vol 45 m
@@ -43282,6 +45514,8 @@ ___
 >_\[ Zariel \]_
 >
 >_Fiélon (diable) de taille G, loyal mauvais_
+>
+>___
 >
 >**Classe d'armure** 21 (armure naturelle)  
 >**Points de vie** 580 (40d10 + 360)  
@@ -43334,6 +45568,8 @@ ___
 >
 >_Fiélon (diable) de taille M, typiquement loyal mauvais_
 >
+>___
+>
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m, vol 12 m
@@ -43380,6 +45616,8 @@ ___
 >
 >_Mort-vivant de taille M, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 8  
 >**Points de vie** 22 (3d8 + 9)  
 >**Vitesse** 6 m
@@ -43414,6 +45652,8 @@ ___
 >_\[ Yellow Musk Zombie \]_
 >
 >_Mort-vivant de taille M, sans alignement_
+>
+>___
 >
 >**Classe d'armure** 9  
 >**Points de vie** 33 (6d8 + 6)  
@@ -43450,6 +45690,8 @@ ___
 >
 >_Mort-vivant de taille G, neutre mauvais_
 >
+>___
+>
 >**Classe d'armure** 8  
 >**Points de vie** 85 (9d10 + 36)  
 >**Vitesse** 9 m
@@ -43484,6 +45726,8 @@ ___
 >_\[ Rothé Zombie \]_
 >
 >_Mort-vivant de taille G, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 8  
 >**Points de vie** 22 (3d8 + 9)  
@@ -43520,6 +45764,8 @@ ___
 >_\[ Beholder Zombie \]_
 >
 >_Mort-vivant de taille G, neutre mauvais_
+>
+>___
 >
 >**Classe d'armure** 15 (armure naturelle)  
 >**Points de vie** 93 (11d10 + 33)  
@@ -43560,6 +45806,8 @@ ___
 >_\[ Zuggtmoy \]_
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 304 (32d10 + 128)  
@@ -43608,6 +45856,8 @@ ___
 >_\[ Zuggtmoy \]_
 >
 >_Fiélon (démon) de taille G, chaotique mauvais_
+>
+>___
 >
 >**Classe d'armure** 18 (armure naturelle)  
 >**Points de vie** 304 (32d10 + 128)  
