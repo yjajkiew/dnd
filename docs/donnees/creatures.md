@@ -40,8 +40,8 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Attaque en piqué**.  
->A|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
->A|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
+>Action|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
+>Action|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
 >
 >Monster Manual (BR+)
 >{: .label .label.label-statblock }
@@ -464,7 +464,7 @@ ___
 >Niv 7 (1) : _téléportation_  
 >\* sort d'abjuration de niveau 1 ou supérieur  
 >**Protection arcanique**.  
->A|**Bâton**.  
+>Action|**Bâton**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -496,13 +496,13 @@ ___
 >**Amphibien**.  
 >**Nuage de mucus**.  
 >**Pénétration télépathique**.  
->A|**Attaques multiples**.  
->A|**Tentacule**. +9, 3 m, 2d6+5 contondants  
->A|**Queue**. +9, 3 m, 3d6+5 contondants  
->A|**Asservissement (3/jour)**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Absorption psychique (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Tentacule**. +9, 3 m, 2d6+5 contondants  
+>Action|**Queue**. +9, 3 m, 3d6+5 contondants  
+>Action|**Asservissement (3/jour)**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Absorption psychique (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -612,7 +612,7 @@ ___
 >**Incantation**.  
 >Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
 >Niv 1 (3) : _bénédiction, soins_  
->A|**Gourdin**. +2, 1,50 m, 1d4 contondants  
+>Action|**Gourdin**. +2, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -801,7 +801,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Vue aiguisée**.  
->A|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
+>Action|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -830,9 +830,9 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Vue aiguisée**.  
->A|**Attaques multiples**.  
->A|**Bec**. +5, 1,50 m, 1d6+3 perforants  
->A|**Serres**. +5, 1,50 m, 2d6+3 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Bec**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Serres**. +5, 1,50 m, 2d6+3 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -918,8 +918,8 @@ ___
 >Niv 5 (2) : _modification de mémoire, mur de force_  
 >Niv 6 (1) : _désintégration, globe d'invulnérabilité_  
 >**Résistance au renvoi**.  
->A|**Étreinte glaciale**. +8, 1,50 m, 3d6 froid  
->A|**Explosion de l'esprit (Recharge 5-6)**.  
+>Action|**Étreinte glaciale**. +8, 1,50 m, 3d6 froid  
+>Action|**Explosion de l'esprit (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -1066,9 +1066,9 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Déplacement intangible**.  
->A|**Contact perturbant**. +6, 1,50 m, 4d6+3 psychiques  
->A|**Murmures de la folie**.  
->A|**Babil mugissant (Recharge 6)**.  
+>Action|**Contact perturbant**. +6, 1,50 m, 4d6+3 psychiques  
+>Action|**Murmures de la folie**.  
+>Action|**Babil mugissant (Recharge 6)**.  
 >
 >Mordenkainen´s Tome of Foes
 >{: .label .label.label-statblock }
@@ -1097,8 +1097,8 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Bond agressif**.  
->A|**Griffes**. +6, 1,50 m, 1d8+4 tranchants  
->A|**Morsure**. +6, 1,50 m, 2d10+4 perforants  
+>Action|**Griffes**. +6, 1,50 m, 1d8+4 tranchants  
+>Action|**Morsure**. +6, 1,50 m, 2d10+4 perforants  
 >
 >Monster Manual (BR)
 >{: .label .label.label-statblock }
@@ -1131,8 +1131,8 @@ ___
 >
 >**Déplacement intangible**.  
 >**Sensibilité au soleil**.  
->A|**Absorption de vie**. +6, 1,50 m, 4d8+3 nécrotiques  
->A|**Création de spectre**.  
+>Action|**Absorption de vie**. +6, 1,50 m, 4d8+3 nécrotiques  
+>Action|**Création de spectre**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -1392,15 +1392,15 @@ ___
 >Niv 4 (3) : _liberté de mouvement_  
 >Niv 5 (2) : _restauration supérieure_  
 >Niv 6 (1) : _festin des héros_  
->A|**Attaques multiples**.  
->A|**Griffes**. +12, 1,50 m, 2d10+6 tranchants  
->A|**Rugissement (3/jour)**.  
->A|**Premier rugissement**.  
->A|**Second rugissement**.  
->A|**Troisième rugissement**.  
->L|**Attaque avec les griffes**.  
->L|**Téléportation (coûte 2 actions)**.  
->L|**Sort (coûte 3 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +12, 1,50 m, 2d10+6 tranchants  
+>Action|**Rugissement (3/jour)**.  
+>Action|**Premier rugissement**.  
+>Action|**Second rugissement**.  
+>Action|**Troisième rugissement**.  
+>Action Légendaire|**Attaque avec les griffes**.  
+>Action Légendaire|**Téléportation (coûte 2 actions)**.  
+>Action Légendaire|**Sort (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -1427,8 +1427,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
->A|**Morsure**. +5, 1,50 m, 2d6+3 tranchants  
->A|**Vaporisation d'acide (Recharge 6)**.  
+>Action|**Morsure**. +5, 1,50 m, 2d6+3 tranchants  
+>Action|**Vaporisation d'acide (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -1455,7 +1455,7 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
->A|**Queue**. +7, 3 m, 4d6+4 contondants  
+>Action|**Queue**. +7, 3 m, 4d6+4 contondants  
 >
 >_Monster Manual (BR)_
 >{: .label .label.label-statblock }
@@ -1484,8 +1484,8 @@ ___
 >**Puissance** 1/4 (50 PX)
 >**Bonus de maîtrise** +2
 >
->A|**Explosion arcanique**. +4, , 1d10+2 force  
->A|**Incantation**.  
+>Action|**Explosion arcanique**. +4, , 1d10+2 force  
+>Action|**Incantation**.  
 >À volonté : _prestidigitation_  
 >1/jour : _mains brûlantes, déguisement,
 >
@@ -1512,7 +1512,7 @@ ___
 >**Incantation**.  
 >Sorts mineurs (à volonté) : _réparation, prestidigitation_  
 >Niv 1 (2) : _mains brûlantes, déguisement, bouclier_  
->A|**Dague**. +2, 1,50 m ou 6/18 m, 1d4 perforants  
+>Action|**Dague**. +2, 1,50 m ou 6/18 m, 1d4 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -1551,7 +1551,7 @@ ___
 >Niv 6 (1) : _création de mort-vivant\*_  
 >\* sort de nécromancie de niveau 1 ou supérieur  
 >**Sinistre moisson (1/tour)**.  
->A|**Toucher flétrissant**. +7, 1,50 m, 2d4 nécrotiques  
+>Action|**Toucher flétrissant**. +7, 1,50 m, 2d4 nécrotiques  
 >
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
@@ -1582,7 +1582,7 @@ ___
 >**Pattes d'araignée**.  
 >**Sens de la toile**.  
 >**Déplacement sur la toile**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -1644,8 +1644,8 @@ ___
 >
 >**Pattes d'araignée**.  
 >**Saut extraordinaire**.  
->A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
->A|**Patte collante**.  
+>Action|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
+>Action|**Patte collante**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -1707,8 +1707,8 @@ ___
 >
 >**Pattes d'araignée**.  
 >**Saut extraordinaire**.  
->A|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
->A|**Patte collante**.  
+>Action|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
+>Action|**Patte collante**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -1739,7 +1739,7 @@ ___
 >**Saut éthérée**.  
 >**Pattes d'araignée**.  
 >**Déplacement sur la toile**.  
->A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -1770,8 +1770,8 @@ ___
 >**Déplacement sur la toile**.  
 >**Pattes d'araignée**.  
 >**Sens de la toile**.  
->A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
->A|**Toile d'araignée (Recharge 5-6)**.  
+>Action|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
+>Action|**Toile d'araignée (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -1802,7 +1802,7 @@ ___
 >**Déplacement sur la toile**.  
 >**Pattes d'araignée**.  
 >**Sens de la toile**.  
->A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
+>Action|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -1832,7 +1832,7 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Apparence trompeuse**.  
->A|**Coup**. +6, 3 m, 3d6+4 contondants  
+>Action|**Coup**. +6, 3 m, 3d6+4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -1862,7 +1862,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Apparence trompeuse**.  
->A|**Écorchure**.  
+>Action|**Écorchure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -1907,8 +1907,8 @@ ___
 >Niv 6 (1) : _chaîne d'éclairs_  
 >Niv 7 (1) : _doigt de mort_  
 >Niv 8 (1) : _esprit impénétrable_  
->A|**Griffes**. +7, 1,50 m, 2d4+3 tranchants  
->A|**Téléportation**.  
+>Action|**Griffes**. +7, 1,50 m, 2d4+3 tranchants  
+>Action|**Téléportation**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -1937,10 +1937,10 @@ ___
 >**Puissance** 3 (700 PX)
 >**Bonus de maîtrise** +2
 >
->A|**Attaques multiples**.  
->A|**Épée courte**. +6, 1,50 m, 1d6+4 perforants  
->A|**Arc long**. +6, 45/90 m, 1d8+4 perforants  
->B|**Oeil de l'archer (3/jour)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +6, 1,50 m, 1d6+4 perforants  
+>Action|**Arc long**. +6, 45/90 m, 1d8+4 perforants  
+>Action Bonus|**Oeil de l'archer (3/jour)**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -1969,9 +1969,9 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Oeil de l'archer (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Épée courte**. +6, 1,50 m, 1d6+4 perforants  
->A|**Arc long**. +6, 45/90 m, 1d8+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +6, 1,50 m, 1d6+4 perforants  
+>Action|**Arc long**. +6, 45/90 m, 1d8+4 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -2045,8 +2045,8 @@ ___
 >Niv 7 (1) : _tempête de feu_  
 >Niv 8 (1) : _formes animales_  
 >Niv 9 (1) : _prémonition_  
->A|**Cimeterre**. +6, 1,50 m, 1d6+2 tranchants  
->A|**Changement de forme (2/jour)**. 
+>Action|**Cimeterre**. +6, 1,50 m, 1d6+2 tranchants  
+>Action|**Changement de forme (2/jour)**. 
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -2089,7 +2089,7 @@ ___
 >Niv 9 (1) : _arrêt du temps_  
 >\* L'archimage jette ces sorts avant le combat.  
 >**Résistance à la magie**.  
->A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -2191,8 +2191,8 @@ ___
 >
 >**Apparence trompeuse**.  
 >**Sensibilité à l'antimagie**.  
->A|**Attaques multiples**.  
->A|**Coup**. +4, 1,50 m, 1d6+2 contondants 
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +4, 1,50 m, 1d6+2 contondants 
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -2224,9 +2224,9 @@ ___
 >**Assassinat**.  
 >**Attaque sournoise**.  
 >**Esquive totale**.  
->A|**Attaques multiples**.  
->A|**Épée courte**. +6, 1,50 m, 1d6+3 perforants  
->A|**Arbalète légère**. +6, 24/96 m, 1d8+3 perforants 
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +6, 1,50 m, 1d6+3 perforants  
+>Action|**Arbalète légère**. +6, 24/96 m, 1d8+3 perforants 
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -2281,7 +2281,7 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Charge**.  
->A|**Corne**. +7, 1,50 m, 2d8+5 perforants  
+>Action|**Corne**. +7, 1,50 m, 2d8+5 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -2376,7 +2376,7 @@ ___
 >
 >**Déplacement intangible**.  
 >**Immunité au changement**.  
->A|**Faux moissonneuse**.  
+>Action|**Faux moissonneuse**.  
 >
 >_Rules (Dungeon Master´s Guide)_
 >{: .label .label.label-statblock }
@@ -2409,7 +2409,7 @@ ___
 >**Corps brûlant**.  
 >**Armes brûlantes**.  
 >**Illumination**.  
->A|**Marteau de guerre**. +5, 1,50 m, 1d8+3 contondants  
+>Action|**Marteau de guerre**. +5, 1,50 m, 1d8+3 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -2476,10 +2476,10 @@ ___
 >
 >**Incantation innée**.  
 >À volonté : _ténèbres, métal brûlant, lévitation_  
->A|**Attaques multiples**.  
->A|**Griffes**. +6, 1,50 m, 1d8+4 tranchants  
->A|**Lance**. +6, 1,50 m ou 6/18 m, 1d6+4 perforants  
->A|**Regard affaiblissant**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +6, 1,50 m, 1d8+4 tranchants  
+>Action|**Lance**. +6, 1,50 m ou 6/18 m, 1d6+4 perforants  
+>Action|**Regard affaiblissant**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -2509,9 +2509,9 @@ ___
 >
 >**Sol aberrant**.  
 >**Charabia**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +2, 1,50 m, 5d6 perforants  
->A|**Salive aveuglante (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +2, 1,50 m, 5d6 perforants  
+>Action|**Salive aveuglante (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -2538,7 +2538,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Tactique de groupe**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -2565,10 +2565,10 @@ ___
 >**Langues** commun, nain  
 >**Puissance** 3 (700 PX)
 >
->A|**Attaques multiples**.  
->A|**Marteau de guerre**. +5, 1,50 m, 1d8+3 contondants  
->A|**Marteau léger**. +5, 1,50 m, 1d4+3 contondants  
->A|**Arbalète légère**. +3, 24/96 m, 1d8+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Marteau de guerre**. +5, 1,50 m, 1d8+3 contondants  
+>Action|**Marteau léger**. +5, 1,50 m, 1d4+3 contondants  
+>Action|**Arbalète légère**. +3, 24/96 m, 1d8+1 perforants  
 >
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
@@ -2765,10 +2765,10 @@ ___
 >**Aura de feu**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Épée longue**. +14, 3 m, 3d8+8 tranchants  
->A|**Fouet**. +14, 9 m, 2d6+8 tranchants  
->A|**Téléportation**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +14, 3 m, 3d8+8 tranchants  
+>Action|**Fouet**. +14, 9 m, 2d6+8 tranchants  
+>Action|**Téléportation**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -2834,10 +2834,10 @@ ___
 >
 >**Connexion par vibrations**.  
 >**Discrétion dans les ombres**.  
->A|**Morsure**. +8, 1,50 m, 5d6+5 perforants  
->A|**Langue**. +8, 4,50 m, 3d6 nécrotiques  
->A|**Engloutissement**.  
->A|**Foulée d'ombre**. 
+>Action|**Morsure**. +8, 1,50 m, 5d6+5 perforants  
+>Action|**Langue**. +8, 4,50 m, 3d6 nécrotiques  
+>Action|**Engloutissement**.  
+>Action|**Foulée d'ombre**. 
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -2864,8 +2864,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 1/8 (25 PX)
 >
->A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
->A|**Arbalète légère**. +3, 24/96 m, 1d8+1 perforants  
+>Action|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
+>Action|**Arbalète légère**. +3, 24/96 m, 1d8+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -2893,10 +2893,10 @@ ___
 >**Langues** deux langues au choix  
 >**Puissance** 2 (450 PX)
 >
->A|**Attaques multiples**.  
->A|**Cimeterre**. +5, 1,50 m, 1d6+3 tranchants  
->A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
->R|**Parade**.  
+>Action|**Attaques multiples**.  
+>Action|**Cimeterre**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
+>Réaction|**Parade**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -2928,9 +2928,9 @@ ___
 >
 >**Détection de la vie**.  
 >**Déplacement intangible**.  
->A|**Contact corrupteur**. +4, 1,50 m, 3d6+2 nécrotiques  
->A|**Visage Effroyable**.  
->A|**Hurlement (1/jour)**. 
+>Action|**Contact corrupteur**. +4, 1,50 m, 3d6+2 nécrotiques  
+>Action|**Visage Effroyable**.  
+>Action|**Hurlement (1/jour)**. 
 >
 >_Monster Manual (BR)_
 >{: .label .label.label-statblock }
@@ -3088,8 +3088,8 @@ ___
 >Niv 2 (3) : _invisibilité, fracassement_  
 >**Chant reposant**.  
 >**Provocation (2/jour)**.  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -3163,8 +3163,8 @@ ___
 >**Incantation innée**.  
 >À volonté : _lévitation, passage sans trace,_  
 >1/jour chacun : _suggestion_  
->A|**Morsure (forme véritable uniquement)**. +6, 1,50 m, 2d8+4 perforants  
->A|**Griffes**. +6, 1,50 m, 1d8+4 tranchants 
+>Action|**Morsure (forme véritable uniquement)**. +6, 1,50 m, 2d8+4 perforants  
+>Action|**Griffes**. +6, 1,50 m, 1d8+4 tranchants 
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -3201,9 +3201,9 @@ ___
 >2/jour chacun : _déguisement, invisibilité_ (personnel uniquement)  
 >**Téméraire**.  
 >**Saut avec élan**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +7, 1,50 m, 2d6+4 perforants  
->A|**Poing**. +7, 1,50 m, 1d10+4 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +7, 1,50 m, 2d6+4 perforants  
+>Action|**Poing**. +7, 1,50 m, 1d10+4 contondants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -3231,7 +3231,7 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Regard pétrifiant**.  
->A|**Morsure**. +5, 1,50 m, 2d6+3 perforants 
+>Action|**Morsure**. +5, 1,50 m, 2d6+3 perforants 
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -3257,7 +3257,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
->A|**Bec**. +4, 1,50 m, 1d8+2 tranchants  
+>Action|**Bec**. +4, 1,50 m, 1d8+2 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -3285,11 +3285,11 @@ ___
 >**Langues** draconique  
 >**Puissance** 11 (7200 PX)
 >
->A|**Attaques multiples**.  
->A|**Morsure**. +10, 3 m, 3d10+6 perforants  
->A|**Constriction**. +10, 1,50 m, 2d10+6 contondants  
->A|**Souffle de foudre (Recharge 5-6)**.  
->A|**Engloutissement**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +10, 3 m, 3d10+6 perforants  
+>Action|**Constriction**. +10, 1,50 m, 2d10+6 contondants  
+>Action|**Souffle de foudre (Recharge 5-6)**.  
+>Action|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -3323,12 +3323,12 @@ ___
 >**Aura de feu**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Hache à deux mains**.  
->A|**Fouet**.  
->A|**Tempête abyssal (Recharge 5-6)**.  
->A|**Téléportation**.  
->A|**Battement d'ailes**.  
+>Action|**Attaques multiples**.  
+>Action|**Hache à deux mains**.  
+>Action|**Fouet**.  
+>Action|**Tempête abyssal (Recharge 5-6)**.  
+>Action|**Téléportation**.  
+>Action|**Battement d'ailes**.  
 >
 >_Extra (Dragon Mag)_
 >{: .label .label.label-statblock }
@@ -3357,7 +3357,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Odorat et ouïe aiguisés**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -3385,7 +3385,7 @@ ___
 >**Puissance** 1/8 (25 PX)
 >
 >**Odorat et ouïe aiguisés**.  
->A|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -3479,7 +3479,7 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Téméraire**.  
->A|**Hache à deux mains**. +5, 1,50 m, 1d12+3 tranchants  
+>Action|**Hache à deux mains**. +5, 1,50 m, 1d12+3 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -3591,8 +3591,8 @@ ___
 >
 >**Esquive totale**.  
 >**Déplacement**.  
->A|**Attaques multiples**.  
->A|**Tentacule**. +6, 3 m, 1d6+4 contondants 
+>Action|**Attaques multiples**.  
+>Action|**Tentacule**. +6, 3 m, 1d6+4 contondants 
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -3652,7 +3652,7 @@ ___
 >
 >**Charge**.  
 >**Puanteur**.  
->A|**Corne**. +6, 1,50 m, 1d6+4 perforants 
+>Action|**Corne**. +6, 1,50 m, 1d6+4 perforants 
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -3680,7 +3680,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Odorat aiguisé**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -3707,9 +3707,9 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Odorat aiguisé**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
->A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
+>Action|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -3737,8 +3737,8 @@ ___
 >**Langues** commun  
 >**Puissance** 2 (450 PX)
 >
->A|**Attaques multiples**.  
->A|**Hache à deux mains**. +4, 1,50 m, 1d12+3 tranchants 
+>Action|**Attaques multiples**.  
+>Action|**Hache à deux mains**. +4, 1,50 m, 1d12+3 tranchants 
 >
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
@@ -3770,8 +3770,8 @@ ___
 >
 >**Puanteur**.  
 >**Mépris du renvoi**.  
->A|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
->A|**Morsure**. +3, 1,50 m, 2d8+3 perforants 
+>Action|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
+>Action|**Morsure**. +3, 1,50 m, 2d8+3 perforants 
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -3841,8 +3841,8 @@ ___
 >**Aura d'annihilation**.  
 >**Regard mortel**.  
 >**Hypersensibilité au soleil**.  
->A|**Poing**. +5, 1,50 m, 1d4+2 contondants  
->A|**Regard flétrissant**. 
+>Action|**Poing**. +5, 1,50 m, 1d4+2 contondants  
+>Action|**Regard flétrissant**. 
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -3900,7 +3900,7 @@ ___
 >
 >**Bête de somme**.  
 >**Charge**.  
->A|**Corne**. +6, 1,50 m, 1d6+4 perforants  
+>Action|**Corne**. +6, 1,50 m, 1d6+4 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -3971,8 +3971,8 @@ ___
 >**Camouflage dans la végétation**.  
 >**Régénération**.  
 >**Passage par les arbres**.  
->A|**Attaques multiples**.  
->A|**Gourdin**. +7, 1,50 m, 4d4+4 contondants 
+>Action|**Attaques multiples**.  
+>Action|**Gourdin**. +7, 1,50 m, 4d4+4 contondants 
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -4035,9 +4035,9 @@ ___
 >
 >**Bottes en fer**.  
 >**Force hors normes**.  
->A|**Attaques multiples**.  
->A|**Serpe mauvaise**. +6, 1,50 m, 2d4+4 tranchants  
->A|**Poursuite de fer**.  
+>Action|**Attaques multiples**.  
+>Action|**Serpe mauvaise**. +6, 1,50 m, 2d4+4 tranchants  
+>Action|**Poursuite de fer**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -4066,10 +4066,10 @@ ___
 >**Langues** commun, commun des profondeurs  
 >**Puissance** 2 (450 PX)
 >
->A|**Attaques multiples**.  
->A|**Fouet**. +5, 3 m, 1d4+3 tranchants  
->A|**Dague +1**. +6, 1,50 m ou 6/18 m, 1d4+4 perforants  
->R|**Parade**.  
+>Action|**Attaques multiples**.  
+>Action|**Fouet**. +5, 3 m, 1d4+3 tranchants  
+>Action|**Dague +1**. +6, 1,50 m ou 6/18 m, 1d4+4 perforants  
+>Réaction|**Parade**.  
 >
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
@@ -4099,10 +4099,10 @@ ___
 >**Bonus de maîtrise** +2
 >
 >**Défense élégante**.  
->A|**Attaques multiples**.  
->A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+4 perforants  
->A|**Rapière**. +6, 1,50 m, 1d8+4 perforants  
->B|**Pied léger**. 
+>Action|**Attaques multiples**.  
+>Action|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+4 perforants  
+>Action|**Rapière**. +6, 1,50 m, 1d8+4 perforants  
+>Action Bonus|**Pied léger**. 
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -4132,9 +4132,9 @@ ___
 >
 >**Pied léger**.  
 >**Défense élégante**.  
->A|**Attaques multiples**.  
->A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+4 perforants  
->A|**Rapière**. +6, 1,50 m, 1d8+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+4 perforants  
+>Action|**Rapière**. +6, 1,50 m, 1d8+4 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -4239,9 +4239,9 @@ ___
 >**Communication avec les grenouilles et les crapauds**.  
 >**Camouflage dans la vase**.  
 >**Saut sans élan**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +3, 1,50 m, 1d4+1 contondants  
->A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +3, 1,50 m, 1d4+1 contondants  
+>Action|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >_Monster Manual (BR+)_{: .label .label.label-statblock }
 {: .statblock5e }
@@ -4272,9 +4272,9 @@ ___
 >**Amphibien**.  
 >**Communication avec les grenouilles et les crapauds**.  
 >**Saut sans élan**.  
->A|**Attaques multiples**.  
->A|**Coutille**. +5, 3 m, 1d10+3 tranchants  
->B|**Croassement charmeur (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Coutille**. +5, 3 m, 1d10+3 tranchants  
+>Action Bonus|**Croassement charmeur (Recharge après un repos court ou long)**.  
 >
 >_Adventures (The Wild Beyond the Witchlight)_
 >{: .label .label.label-statblock }
@@ -4303,8 +4303,8 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Saut sans élan**.  
->A|**Morsure**. +7, 1,50 m, 4d12+4 perforants  
->A|**Saut implacable**.  
+>Action|**Morsure**. +7, 1,50 m, 4d12+4 perforants  
+>Action|**Saut implacable**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -4400,9 +4400,9 @@ ___
 >**Écholocalisation**.  
 >**Apnée**.  
 >**Ouïe aiguisée**.  
->A|**Attaques multiples**.  
->A|**Morsures**. +11, 1,50 m, 3d8+8 perforants  
->A|**Queue**. +11, 4,50 m, 3d6+8 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Morsures**. +11, 1,50 m, 3d8+8 perforants  
+>Action|**Queue**. +11, 4,50 m, 3d6+8 contondants  
 >
 >_Adventures (Rime of the Frostmaiden)_
 >{: .label .label.label-statblock }
@@ -4436,10 +4436,10 @@ ___
 >**Incantation innée**.  
 >3/jour chacun : _détection de la magie, modification d'apparence_  
 >1/jour : _changement de plan_ (personnel uniquement)  
->A|**Attaques multiples**.  
->A|**Lance**. +7, 1,50 m ou 6/12 m, 1d6+4 perforants  
->A|**Rayon de feu**. +7, 36 m, 3d6 feu  
->A|**Charme satanique**. 
+>Action|**Attaques multiples**.  
+>Action|**Lance**. +7, 1,50 m ou 6/12 m, 1d6+4 perforants  
+>Action|**Rayon de feu**. +7, 36 m, 3d6 feu  
+>Action|**Charme satanique**. 
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -4575,8 +4575,8 @@ ___
 >
 >**Odorat aiguisé**.  
 >**Puanteur**.  
->A|**Queue**. +7, 3 m, 5d6+4 contondants  
->A|**Rayon de la mort (Recharge 5-6)**.  
+>Action|**Queue**. +7, 3 m, 5d6+4 contondants  
+>Action|**Rayon de la mort (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -4605,10 +4605,10 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Charge**.  
->A|**Attaques multiples**.  
->A|**Pique**. +6, 3 m, 1d10+4 perforants  
->A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
->A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Pique**. +6, 3 m, 1d10+4 perforants  
+>Action|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
+>Action|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -4669,7 +4669,7 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
->A|**Morsure**. +2, 1,50 m, 1d4 perforants  
+>Action|**Morsure**. +2, 1,50 m, 1d4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -4787,14 +4787,14 @@ ___
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Relai télépathique**.  
->A|**Tentacule**. +7, 9 m, 4d8+2 contondants  
->A|**Explosion de l'esprit (Recharge 5-6)**.  
->A|**Lien psychique**.  
->A|**Perception des pensées**.  
->L|**Tentacule**.  
->L|**Rupture de concentration**.  
->L|**Pulsation psychique**.  
->L|**Lien psychique intense**.
+>Action|**Tentacule**. +7, 9 m, 4d8+2 contondants  
+>Action|**Explosion de l'esprit (Recharge 5-6)**.  
+>Action|**Lien psychique**.  
+>Action|**Perception des pensées**.  
+>Action Légendaire|**Tentacule**.  
+>Action Légendaire|**Rupture de concentration**.  
+>Action Légendaire|**Pulsation psychique**.  
+>Action Légendaire|**Lien psychique intense**.
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -4824,7 +4824,7 @@ ___
 >
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -4854,8 +4854,8 @@ ___
 >**Incantation innée**.  
 >À volonté : _lumières dansantes, thaumaturgie_  
 >1/jour chacun : _malédiction, cordon de flèches, détection de la magie, maléfice, prière de guérison, communication avec les morts, esprits gardiens_  
->A|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
->A|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
+>Action|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
+>Action|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
 >
 >_Adventures (Storm King's Thunder)_
 >{: .label .label.label-statblock }
@@ -4882,7 +4882,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
->A|**Morsure**. +5, 1,50 m, 1d4 contondants  
+>Action|**Morsure**. +5, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -4912,10 +4912,10 @@ ___
 >**Bonus de maîtrise** +4
 >
 >**Inflexible (2/jour)**.  
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
->A|**Arc court**. +6, 24/96 m, 1d6+2 perforants  
->B|**Second souffle (recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
+>Action|**Arc court**. +6, 24/96 m, 1d6+2 perforants  
+>Action Bonus|**Second souffle (recharge après un repos court ou long)**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -4946,9 +4946,9 @@ ___
 >
 >**Inflexible (2/jour)**.  
 >**Second souffle (Recharge après un repos court ou long)**.  
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
->A|**Arc court \[E\]**. +6, 24/96 m, 1d6+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
+>Action|**Arc court \[E\]**. +6, 24/96 m, 1d6+2 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -4978,9 +4978,9 @@ ___
 >
 >**Odorat aiguisé**.  
 >**Pattes d'araignée**.  
->A|**Attaques multiples**.  
->A|**Tentacules**. +8, 3 m, 1d4+2 poison  
->A|**Morsure**. +4, 1,50 m, 2d4+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Tentacules**. +8, 3 m, 1d4+2 poison  
+>Action|**Morsure**. +4, 1,50 m, 2d4+2 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -5015,7 +5015,7 @@ ___
 >**Bourdonnement**.  
 >**Résistance à la magie**.  
 >**Pattes d'araignée**.  
->A|**Rostre**. +5, 1,50 m, 4d6+2 perforants 
+>Action|**Rostre**. +5, 1,50 m, 4d6+2 perforants 
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -5044,7 +5044,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Odorat aiguisé**.  
->A|**Griffes**.  
+>Action|**Griffes**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5072,7 +5072,7 @@ ___
 >
 >**Écholocalisation**.  
 >**Ouïe aiguisée**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5105,10 +5105,10 @@ ___
 >**Audition affûtée**.  
 >**Fuite agile (forme humanoïde uniquement)**.  
 >**Sensibilité au soleil**.  
->A|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
->A|**Morsure (forme de chauve-souris ou hybride uniquement)**. +5, 1,50 m, 1d6+3 perforants  
->A|**Cimeterre (forme humanoïde ou hybride uniquement)**.  
->A|**Arc court (forme humanoïde ou hybride uniquement)**. +5, , 1d6+3 perforants  
+>Action|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
+>Action|**Morsure (forme de chauve-souris ou hybride uniquement)**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Cimeterre (forme humanoïde ou hybride uniquement)**.  
+>Action|**Arc court (forme humanoïde ou hybride uniquement)**. +5, , 1d6+3 perforants  
 >
 >_Adventures (Dungeon of the Mad Mage)_
 >{: .label .label.label-statblock }
@@ -5137,7 +5137,7 @@ ___
 >
 >**Écholocalisation**.  
 >**Ouïe aiguisée**.  
->A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5164,7 +5164,7 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Charge écrasante**.  
->A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
+>Action|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5190,7 +5190,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
->A|**Sabots**. +5, 1,50 m, 2d4+3 contondants  
+>Action|**Sabots**. +5, 1,50 m, 2d4+3 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5216,7 +5216,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
->A|**Sabots**. +6, 1,50 m, 2d4+4 contondants  
+>Action|**Sabots**. +6, 1,50 m, 2d4+4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5244,11 +5244,11 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Brave**.  
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +5, 1,50 m, 2d6+3 tranchants  
->A|**Arbalète lourde**. +2, 30/120 m, 1d10 perforants  
->A|**Commandement (Recharge après un repos court ou long)**.  
->R|**Parade**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +5, 1,50 m, 2d6+3 tranchants  
+>Action|**Arbalète lourde**. +2, 30/120 m, 1d10 perforants  
+>Action|**Commandement (Recharge après un repos court ou long)**.  
+>Réaction|**Parade**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5286,10 +5286,10 @@ ___
 >Niv 3 (3) : _arme élémentaire, dissipation de la magie_  
 >Niv 4 (3) : _châtiment débilitant_  
 >Niv 5 (2) : _vague destructrice_ (nécrotique)  
->A|**Attaques multiples**.  
->A|**Épée longue**. +11, 1,50 m, 1d8+5 tranchants  
->A|**Flammes impies (1/jour)**.  
->R|**Parade**. 
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +11, 1,50 m, 1d8+5 tranchants  
+>Action|**Flammes impies (1/jour)**.  
+>Réaction|**Parade**. 
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -5319,15 +5319,15 @@ ___
 >**Puissance** 8 (3900 PX)
 >**Bonus de maîtrise** +3
 >
->A|**Attaques multiples**.  
->A|**Coutille**. +7, 3 m, 1d10+4 tranchants  
->A|**Arc court**. +3, 24/96 m, 1d6+2 perforants  
->A|**Aspect épouvantable (Recharge après un repos court ou long)**.  
->A|**Incantation**.  
+>Action|**Attaques multiples**.  
+>Action|**Coutille**. +7, 3 m, 1d10+4 tranchants  
+>Action|**Arc court**. +3, 24/96 m, 1d6+2 perforants  
+>Action|**Aspect épouvantable (Recharge après un repos court ou long)**.  
+>Action|**Incantation**.  
 >2/jour chacun : _appel de destrier_  
->B|**Châtiment**.  
->B|**Aveuglé**.  
->B|**Repoussé**.  
+>Action Bonus|**Châtiment**.  
+>Action Bonus|**Aveuglé**.  
+>Action Bonus|**Repoussé**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -5360,10 +5360,10 @@ ___
 >Niv 1 (4) : _châtiment tonitruant_  
 >Niv 2 (3) : _châtiment révélateur, appel de destrier_  
 >Niv 3 (2) : _châtiment aveuglant, dissipation de la magie_  
->A|**Attaques multiples**.  
->A|**Coutille**. +7, 3 m, 1d10+4 tranchants  
->A|**Arc court**. +3, 24/96 m, 1d6+2 perforants  
->A|**Aspect épouvantable (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Coutille**. +7, 3 m, 1d10+4 tranchants  
+>Action|**Arc court**. +3, 24/96 m, 1d6+2 perforants  
+>Action|**Aspect épouvantable (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -5392,7 +5392,7 @@ ___
 >
 >**Charge**.  
 >**Stable**.  
->A|**Coup de tête**. +3, 1,50 m, 1d4+1 contondants  
+>Action|**Coup de tête**. +3, 1,50 m, 1d4+1 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5420,7 +5420,7 @@ ___
 >
 >**Charge**.  
 >**Pied sûr**.  
->A|**Coup de tête**. +4, 1,50 m, 1d6+2 contondants  
+>Action|**Coup de tête**. +4, 1,50 m, 1d6+2 contondants  
 >
 >_Adventures (Rime of the Frostmaiden)_
 >{: .label .label.label-statblock }
@@ -5449,7 +5449,7 @@ ___
 >
 >**Charge**.  
 >**Stable**.  
->A|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
+>Action|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5478,8 +5478,8 @@ ___
 >
 >**Charge**.  
 >**Stable**.  
->A|**Attaques multiples**.  
->A|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
 >
 >_Extra (Adventurers League)_
 {: .statblock5e }
@@ -5509,8 +5509,8 @@ ___
 >
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.  
->A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
->A|**Souffle de feu (Recharge 5-6)**.
+>Action|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
+>Action|**Souffle de feu (Recharge 5-6)**.
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5575,8 +5575,8 @@ ___
 >**Odorat et ouïe aiguisés**.  
 >**Banni par le soleil**.  
 >**Lien télépathique**.  
->A|**Morsure**. +6, 1,50 m, 2d6+4 perforants  
->A|**Sinistre aboiement**.  
+>Action|**Morsure**. +6, 1,50 m, 2d6+4 perforants  
+>Action|**Sinistre aboiement**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -5605,8 +5605,8 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Bicéphale**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5634,8 +5634,8 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Odorat et ouïe aiguisés**.  
->A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
->A|**Téléportation (Recharge 4-6)**.  
+>Action|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
+>Action|**Téléportation (Recharge 4-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5663,7 +5663,7 @@ ___
 >**Puissance** 1/8 (25 PX)
 >
 >**Odorat et ouïe aiguisés**.  
->A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
+>Action|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Extra (Adventurers League)_
 {: .statblock5e }
@@ -5694,7 +5694,7 @@ ___
 >**Tactique de groupe**.  
 >**Bond agressif**.  
 >**Saut avec élan**.  
->A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
+>Action|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 >
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
@@ -5722,11 +5722,11 @@ ___
 >**Langues** comprend le draconique mais ne peut pas parler  
 >**Puissance** 6 (2300 PX)
 >
->A|**Attaques multiples**.  
->A|**Cornes**. +7, 1,50 m, 1d12+4 contondants  
->A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
->A|**Morsure**. +7, 1,50 m, 2d6+4 perforants  
->A|**Souffle de feu (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Cornes**. +7, 1,50 m, 1d12+4 contondants  
+>Action|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
+>Action|**Morsure**. +7, 1,50 m, 2d6+4 perforants  
+>Action|**Souffle de feu (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5791,8 +5791,8 @@ ___
 >**Sensibilité au soleil**.  
 >**Sens de la toile**.  
 >**Déplacement sur la toile**.  
->A|**Attaques multiples**.  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -5865,8 +5865,8 @@ ___
 >**Sensibilité au soleil**.  
 >**Sens de la toile**.  
 >**Déplacement sur la toile**.  
->A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
->A|**Toile d'araignée (Recharge 5-6)**.  
+>Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
+>Action|**Toile d'araignée (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -5896,7 +5896,7 @@ ___
 >
 >**Repli aérien**.  
 >**Ouïe et vue aiguisées**.  
->A|**Serres**.  
+>Action|**Serres**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5925,7 +5925,7 @@ ___
 >
 >**Repli aérien**.  
 >**Ouïe et vue aiguisées**.  
->A|**Serres**. +3, 1,50 m, 2d6+1 tranchants  
+>Action|**Serres**. +3, 1,50 m, 2d6+1 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5956,9 +5956,9 @@ ___
 >
 >**Amphibien**.  
 >**Détection de la magie**.  
->A|**Attaques multiples**.  
->A|**Pinces**. +6, 3 m, 2d6+4 contondants  
->A|**Tentacules**.  
+>Action|**Attaques multiples**.  
+>Action|**Pinces**. +6, 3 m, 2d6+4 contondants  
+>Action|**Tentacules**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -5984,7 +5984,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
->A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
+>Action|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -6149,9 +6149,9 @@ ___
 >**Puissance** -
 >
 >**Rôle martial**.  
->A|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
->A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
->R|**Protection (défenseur seulement)**.  
+>Action|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
+>Action|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
+>Réaction|**Protection (défenseur seulement)**.  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -6182,9 +6182,9 @@ ___
 >
 >**Rôle martial**.  
 >**Second souffle**.  
->A|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
->A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
->R|**Protection (défenseur seulement)**.  
+>Action|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
+>Action|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
+>Réaction|**Protection (défenseur seulement)**.  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -6216,9 +6216,9 @@ ___
 >**Rôle martial**.  
 >**Second souffle**.  
 >**Critique amélioré**.  
->A|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
->A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
->R|**Protection (défenseur seulement)**.  
+>Action|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
+>Action|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
+>Réaction|**Protection (défenseur seulement)**.  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -6250,9 +6250,9 @@ ___
 >**Rôle martial**.  
 >**Second souffle**.  
 >**Critique amélioré**.  
->A|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
->A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
->R|**Protection (défenseur seulement)**.  
+>Action|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
+>Action|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
+>Réaction|**Protection (défenseur seulement)**.  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -6284,9 +6284,9 @@ ___
 >**Rôle martial**.  
 >**Second souffle**.  
 >**Critique amélioré**.  
->A|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
->A|**Arc long**. +4, 45/180 m, 1d8+1 perforants  
->R|**Protection (défenseur seulement)**.  
+>Action|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
+>Action|**Arc long**. +4, 45/180 m, 1d8+1 perforants  
+>Réaction|**Protection (défenseur seulement)**.  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -6319,9 +6319,9 @@ ___
 >**Second souffle**.  
 >**Critique amélioré**.  
 >**Attaque supplémentaire**.  
->A|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
->A|**Arc long**. +4, 45/180 m, 1d8+1 perforants  
->R|**Protection (défenseur seulement)**. 
+>Action|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
+>Action|**Arc long**. +4, 45/180 m, 1d8+1 perforants  
+>Réaction|**Protection (défenseur seulement)**. 
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -6351,8 +6351,8 @@ ___
 >**Puissance** - **Bonus de maîtrise** égal à votre bonus
 >
 >**Essence draconique**.  
->A|**Morsure**.  
->R|**Attaques imprégnées**.  
+>Action|**Morsure**.  
+>Réaction|**Attaques imprégnées**.  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -6383,9 +6383,9 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Discipline tactique**.  
->A|**Attaques multiples**.  
->A|**Lance**. +5, 1,50 m ou 6/18 m, 1d6+3 perforants  
->A|**Voix autoritaire**.
+>Action|**Attaques multiples**.  
+>Action|**Lance**. +5, 1,50 m ou 6/18 m, 1d6+3 perforants  
+>Action|**Voix autoritaire**.
 >
 >_Adventures (Descent into Avernus)_
 >{: .label .label.label-statblock }
@@ -6413,7 +6413,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Imitation**.  
->A|**Bec**.  
+>Action|**Bec**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -6448,9 +6448,9 @@ ___
 >1/jour chacun : _restauration supérieure, songe_  
 >**Armes magiques**.  
 >**Esprit fortifié**.  
->A|**Morsure**. +8, 1,50 m, 1d6+5 perforants  
->A|**Constriction**. +6, 3 m, 2d6+3 contondants  
->A|**Changement de forme**.
+>Action|**Morsure**. +8, 1,50 m, 1d6+5 perforants  
+>Action|**Constriction**. +6, 3 m, 2d6+3 contondants  
+>Action|**Changement de forme**.
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -6509,8 +6509,8 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Absorption du feu**.  
->A|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
->A|**Explosion de feu (Recharge 5-6)**.  
+>Action|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
+>Action|**Explosion de feu (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -6539,7 +6539,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Amphibien**.  
->A|**Pinces**.  
+>Action|**Pinces**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -6604,9 +6604,9 @@ ___
 >**Filament collant**.  
 >**Sang inflammable**.  
 >**Pattes d'araignée**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
->A|**Filament**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
+>Action|**Filament**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -6635,7 +6635,7 @@ ___
 >**Puissance** 1/8 (25 PX)
 >
 >**Amphibien**.  
->A|**Pinces**. +3, 1,50 m, 1d6+1 contondants  
+>Action|**Pinces**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -6664,10 +6664,10 @@ ___
 >
 >**Aura de meurtre**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Dague**. +7, 1,50 m ou 6/18 m, 1d4+5 perforants  
->A|**Regard étourdissant**.  
->R|**Inarrêtable (3/jour)**.  
+>Action|**Attaques multiples**.  
+>Action|**Dague**. +7, 1,50 m ou 6/18 m, 1d4+5 perforants  
+>Action|**Regard étourdissant**.  
+>Réaction|**Inarrêtable (3/jour)**.  
 >
 >_Adventures (Descent into Avernus)_
 >{: .label .label.label-statblock }
@@ -6705,8 +6705,8 @@ ___
 >Niv 1 (3 de sorts) : _projectile magique_  
 >Niv 2 (2 de sorts) : _sphère de feu_  
 >Niv 3 (1 de sort) : _boule de feu_  
->A|**Attaques multiples**.  
->A|**Rayon de feu**. +5, 9 m, 3d6 feu 
+>Action|**Attaques multiples**.  
+>Action|**Rayon de feu**. +5, 9 m, 3d6 feu 
 >
 >_Monster Manual (BR)_
 >{: .label .label.label-statblock }
@@ -6735,8 +6735,8 @@ ___
 >
 >**Amphibien**.  
 >**Saut sans élan**.  
->A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
->A|**Engloutissement**.  
+>Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+>Action|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -6764,7 +6764,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Apparence trompeuse**.  
->R|**Hurlement**.  
+>Réaction|**Hurlement**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -6792,7 +6792,7 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Apnée**.  
->A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -6820,9 +6820,9 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Apnée**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +8, 1,50 m, 3d10+5 perforants  
->A|**Queue**. +8, 3 m, 2d8+5 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +8, 1,50 m, 3d10+5 perforants  
+>Action|**Queue**. +8, 3 m, 2d8+5 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -6888,8 +6888,8 @@ ___
 >
 >**Vase cubique**.  
 >**Transparent**.  
->A|**Pseudopode**. +4, 1,50 m, 3d6 acide  
->A|**Engloutissement**.  
+>Action|**Pseudopode**. +4, 1,50 m, 3d6 acide  
+>Action|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -6968,12 +6968,12 @@ ___
 >**Résistance légendaire (3/jour)**.  
 >**Armes magiques**.  
 >**Rompre le cordon argenté**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +16, 3 m, 5d10+9 perforants  
->A|**Griffes**. +16, 6 m, 3d6+9 tranchants  
->L|**Griffes**.  
->L|**Visite du Donjon (coûte 2 actions)**.  
->L|**Projection psychique (coûte 3 actions)**.
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +16, 3 m, 5d10+9 perforants  
+>Action|**Griffes**. +16, 6 m, 3d6+9 tranchants  
+>Action Légendaire|**Griffes**.  
+>Action Légendaire|**Visite du Donjon (coûte 2 actions)**.  
+>Action Légendaire|**Projection psychique (coûte 3 actions)**.
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -7002,7 +7002,7 @@ ___
 >**Puissance** 1/8 (25 PX)
 >
 >**Sombre dévotion**.  
->A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
+>Action|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -7029,9 +7029,9 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Faible perception du relief**.  
->A|**Attaques multiples**.  
->A|**Massue**. +9, 3 m, 3d8+6 contondants  
->A|**Rocher**. +9, 9/36 m, 4d10+6 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Massue**. +9, 3 m, 3d8+6 contondants  
+>Action|**Rocher**. +9, 9/36 m, 4d10+6 contondants  
 >
 >_Monster Manual (BR)_
 >{: .label .label.label-statblock }
@@ -7067,9 +7067,9 @@ ___
 >1/jour chacun : _invocation d'élémentaire_ (élémentaire de la terre uniquement), _invisibilité, mur de pierre_  
 >**Déplacement dans la terre**.  
 >**Pieds sûrs**.  
->A|**Attaques multiples**.  
->A|**Poing**. +10, 1,50 m, 2d8+6 contondants  
->A|**Maillet**. +10, 1,50 m, 4d6+6 contondants 
+>Action|**Attaques multiples**.  
+>Action|**Poing**. +10, 1,50 m, 2d8+6 contondants  
+>Action|**Maillet**. +10, 1,50 m, 4d6+6 contondants 
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -7163,7 +7163,7 @@ ___
 >
 >**Charge**.  
 >**Apnée**.  
->A|**Coup**. +4, 1,50 m, 1d6+2 contondants  
+>Action|**Coup**. +4, 1,50 m, 1d6+2 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -7195,9 +7195,9 @@ ___
 >**Puissance** - **Bonus de maîtrise** égal à votre bonus
 >
 >**Vigilant**.  
->A|**Morsure de force**.  
->A|**Réparation (3/jour)**.  
->R|**Parade d'attaque**.  
+>Action|**Morsure de force**.  
+>Action|**Réparation (3/jour)**.  
+>Réaction|**Parade d'attaque**.  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
 >{: .label .label.label-statblock }
@@ -7225,11 +7225,11 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 5 (1800 PX)
 >
->A|**Attaques multiples**.  
->A|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
->A|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
->A|**Arbalète lourde**. +3, 30/120 m, 1d10+1 perforants  
->A|**Souffle de feu (Recharge 5-6)**.
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
+>Action|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Arbalète lourde**. +3, 30/120 m, 1d10+1 perforants  
+>Action|**Souffle de feu (Recharge 5-6)**.
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -7263,12 +7263,12 @@ ___
 >**Esquive totale**.  
 >**Résistance légendaire (3/jour)**.  
 >**Immunité au renvoi**.  
->A|**Hurlement (Recharge 5-6)**.  
->A|**Absorption de vie**.  
->L|**Envolée**.  
->L|**Nuage de poussière**.  
->L|**Absorption d'énergie (coûte 2 actions)**.  
->L|**Infâme malédiction (coûte 3 actions)**.
+>Action|**Hurlement (Recharge 5-6)**.  
+>Action|**Absorption de vie**.  
+>Action Légendaire|**Envolée**.  
+>Action Légendaire|**Nuage de poussière**.  
+>Action Légendaire|**Absorption d'énergie (coûte 2 actions)**.  
+>Action Légendaire|**Infâme malédiction (coûte 3 actions)**.
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -7295,8 +7295,8 @@ ___
 >**Langues** commun, géant  
 >**Puissance** 1 (200 PX)
 >
->A|**Hache d'armes**. +5, 1,50 m, 2d8+3 tranchants  
->A|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants  
+>Action|**Hache d'armes**. +5, 1,50 m, 2d8+3 tranchants  
+>Action|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -7378,14 +7378,14 @@ ___
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Deux têtes**.  
->A|**Attaques multiples**.  
->A|**Tentacule**. +17, 3 m, 3d12+9 contondants  
->A|**Regard**.  
->A|**1- Regard séduisant**.  
->A|**2- Regard hypnotique**.  
->A|**3- Regard dément**.  
->L|**Queue**. +17, 4,50 m, 2d10+9 contondants  
->L|**Regard qui rend fou**. 
+>Action|**Attaques multiples**.  
+>Action|**Tentacule**. +17, 3 m, 3d12+9 contondants  
+>Action|**Regard**.  
+>Action|**1- Regard séduisant**.  
+>Action|**2- Regard hypnotique**.  
+>Action|**3- Regard dément**.  
+>Action Légendaire|**Queue**. +17, 4,50 m, 2d10+9 contondants  
+>Action Légendaire|**Regard qui rend fou**. 
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -7421,7 +7421,7 @@ ___
 >**Déplacement intangible**.  
 >**Sensibilité à la lumière**.  
 >**Discrétion dans les ombres**.  
->A|**Griffes**. +5, 1,50 m, 2d6+3 psychiques  
+>Action|**Griffes**. +5, 1,50 m, 2d6+3 psychiques  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -7584,7 +7584,7 @@ ___
 >Niv 3 (3) : _vol_  
 >Niv 4 (3) : _invisibilité supérieure, tempête de grêle_  
 >Niv 5 (1) : _cône de froid_  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+1 perforants 
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+1 perforants 
 >
 >_Extra (AideDD)_
 {: .statblock5e }
@@ -7613,8 +7613,8 @@ ___
 >
 >**Résistance au feu partagée**.  
 >**Illumination**.  
->A|**Sabots**. +6, 1,50 m, 2d8+4 contondants  
->A|**Galop éthéré**.  
+>Action|**Sabots**. +6, 1,50 m, 2d8+4 contondants  
+>Action|**Galop éthéré**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -7649,10 +7649,10 @@ ___
 >À volonté : _détection du mal et du bien_  
 >1/jour chacun : _rappel à la vie_  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Masse d'armes**. +8, 1,50 m, 1d6+4 contondants  
->A|**Contact guérisseur (3/jour)**.  
->A|**Changement de forme**.  
+>Action|**Attaques multiples**.  
+>Action|**Masse d'armes**. +8, 1,50 m, 1d6+4 contondants  
+>Action|**Contact guérisseur (3/jour)**.  
+>Action|**Changement de forme**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -7757,7 +7757,7 @@ ___
 >Niv 8 (1) : _dédale_  
 >\* sort de divination de niveau 1 ou supérieur  
 >**Présage (Recharge après que le devin ait lancé un sort de divination de niveau 1 ou supérieur)**.  
->A|**Bâton**.
+>Action|**Bâton**.
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -7823,10 +7823,10 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Détection de la sentience**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
->A|**Consommation de l'intellect**.  
->A|**Vol de corps**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
+>Action|**Consommation de l'intellect**.  
+>Action|**Vol de corps**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -7856,10 +7856,10 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 13 (10000 PX)
 >
->A|**Attaques multiples**.  
->A|**Griffes**. +10, 1,50 m, 2d6+5 tranchants  
->A|**Emprisonnement de l'âme**.  
->A|**Déchirure des âmes (Recharge 6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +10, 1,50 m, 2d6+5 tranchants  
+>Action|**Emprisonnement de l'âme**.  
+>Action|**Déchirure des âmes (Recharge 6)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -7966,10 +7966,10 @@ ___
 >
 >**Vision de diable**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Chaine**. +8, 3 m, 2d6+4 tranchants  
->A|**Animation des chaînes (Recharge après un repos court ou long)**.  
->R|**Masque déstabilisant**.  
+>Action|**Attaques multiples**.  
+>Action|**Chaine**. +8, 3 m, 2d6+4 tranchants  
+>Action|**Animation des chaînes (Recharge après un repos court ou long)**.  
+>Réaction|**Masque déstabilisant**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8003,10 +8003,10 @@ ___
 >**Peau barbelée**.  
 >**Vision de diable**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +6, 1,50 m, 1d6+3 perforants  
->A|**Queue**. +6, 1,50 m, 2d6+3 perforants  
->A|**Jet de flammes**. +5, 45 m, 3d6 feu  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +6, 1,50 m, 1d6+3 perforants  
+>Action|**Queue**. +6, 1,50 m, 2d6+3 perforants  
+>Action|**Jet de flammes**. +5, 45 m, 3d6 feu  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8039,9 +8039,9 @@ ___
 >**Vision de diable**.  
 >**Résistance à la magie**.  
 >**Inébranlable**.  
->A|**Attaques multiples**.  
->A|**Barbe**. +5, 1,50 m, 1d8+2 perforants  
->A|**Coutille**. +5, 3 m, 1d10+3 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Barbe**. +5, 1,50 m, 1d8+2 perforants  
+>Action|**Coutille**. +5, 3 m, 1d10+3 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8073,10 +8073,10 @@ ___
 >
 >**Vision de diable**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Fourche**. +10, 3 m, 2d8+6 perforants  
->A|**Queue**. +10, 3 m, 1d8+6 perforants  
->A|**Jet de flammes**. +7, 45 m, 4d6 feu  
+>Action|**Attaques multiples**.  
+>Action|**Fourche**. +10, 3 m, 2d8+6 perforants  
+>Action|**Queue**. +10, 3 m, 1d8+6 perforants  
+>Action|**Jet de flammes**. +7, 45 m, 4d6 feu  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8109,10 +8109,10 @@ ___
 >**Repli aérien**.  
 >**Épines limitées**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +2, 1,50 m, 2d4 tranchants  
->A|**Fourche**. +2, 1,50 m, 1d6 perforants  
->A|**Épine caudale**. +4, 6/24 m, 1d4+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +2, 1,50 m, 2d4 tranchants  
+>Action|**Fourche**. +2, 1,50 m, 1d6 perforants  
+>Action|**Épine caudale**. +4, 6/24 m, 1d4+2 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -8145,11 +8145,11 @@ ___
 >
 >**Vision de diable**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +10, 1,50 m, 2d6+5 perforants  
->A|**Griffes**. +10, 1,50 m, 2d4+5 tranchants  
->A|**Queue**. +10, 3 m, 2d6+5 contondants  
->A|**Mur de glace (Recharge 6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +10, 1,50 m, 2d6+5 perforants  
+>Action|**Griffes**. +10, 1,50 m, 2d4+5 tranchants  
+>Action|**Queue**. +10, 3 m, 2d6+5 contondants  
+>Action|**Mur de glace (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8182,9 +8182,9 @@ ___
 >
 >**Vision de diable**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +8, 3 m, 1d8+4 tranchants  
->A|**Dard**. +8, 3 m, 2d8+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +8, 3 m, 1d8+4 tranchants  
+>Action|**Dard**. +8, 3 m, 2d8+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8217,8 +8217,8 @@ ___
 >**Métamorphe**.  
 >**Vision de diable**.  
 >**Résistance à la magie**.  
->A|**Dard (Morsure sous forme de bête)**. +5, 1,50 m, 1d4+3 perforants  
->A|**Invisibilité**.  
+>Action|**Dard (Morsure sous forme de bête)**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Invisibilité**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8254,11 +8254,11 @@ ___
 >**Incantation innée**.  
 >À volonté : _détection de la magie, boule de feu_  
 >3/jour chacun : _mur de feu_  
->A|**Attaques multiples**.  
->A|**Morsure**. +14, 1,50 m, 4d6+8 perforants  
->A|**Griffes**. +14, 3 m, 2d8+8 tranchants  
->A|**Masse d'armes**. +14, 3 m, 2d6+8 contondants  
->A|**Queue**. +14, 3 m, 3d10+8 contondants 
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +14, 1,50 m, 4d6+8 perforants  
+>Action|**Griffes**. +14, 3 m, 2d8+8 tranchants  
+>Action|**Masse d'armes**. +14, 3 m, 2d6+8 contondants  
+>Action|**Queue**. +14, 3 m, 3d10+8 contondants 
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8291,9 +8291,9 @@ ___
 >À volonté : _détection du mal et du bien, détection de la magie, vague tonnante_  
 >3/jour chacun : _création de nourriture et d'eau_ (peut créer du vin à la place de l'eau), _marche sur le vent_  
 >1/jour chacun : _invocation d'élémentaire_ (élémentaire de l'air uniquement), _création, invisibilité, changement de plan_  
->A|**Attaques multiples**.  
->A|**Cimeterre**. +9, 1,50 m, 2d6+5 tranchants  
->A|**Création de tourbillon**.
+>Action|**Attaques multiples**.  
+>Action|**Cimeterre**. +9, 1,50 m, 2d6+5 tranchants  
+>Action|**Création de tourbillon**.
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8324,9 +8324,9 @@ ___
 >**Métamorphe**.  
 >**Embuscade**.  
 >**Attaque surprise**.  
->A|**Attaques multiples**.  
->A|**Coup**. +6, 1,50 m, 1d6+4 contondants  
->A|**Lecture des pensées**.  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +6, 1,50 m, 1d6+4 contondants  
+>Action|**Lecture des pensées**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8393,15 +8393,15 @@ ___
 >
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +13, 1,50 m, 2d6+7 tranchants  
->A|**Morsure**. +13, 3 m, 2d10+7 perforants  
->A|**Queue**. +13, 4,50 m, 2d8+7 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de foudre (Recharge 5-6)**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +13, 1,50 m, 2d6+7 tranchants  
+>Action|**Morsure**. +13, 3 m, 2d10+7 perforants  
+>Action|**Queue**. +13, 4,50 m, 2d8+7 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de foudre (Recharge 5-6)**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -8501,8 +8501,8 @@ ___
 >
 >**Chute contrôlée**.  
 >**Spasmes d'agonie**.  
->A|**Attaques multiples**.  
->A|**Épée courte**. +3, 1,50 m, 1d6+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -8676,9 +8676,9 @@ ___
 >**Incantation innée**.  
 >À volonté : _ténèbres_  
 >1/jour chacun : _lumières dansantes, lueurs féeriques_  
->A|**Attaques multiples**.  
->A|**Morsure**. +8, 1,50 m, 2d10+5 perforants  
->A|**Griffes**. +8, 3 m, 2d10+5 tranchants
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +8, 1,50 m, 2d10+5 perforants  
+>Action|**Griffes**. +8, 3 m, 2d10+5 tranchants
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -8710,15 +8710,15 @@ ___
 >
 >**Marche sur la glace**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
->A|**Morsure**. +11, 3 m, 2d10+6 perforants  
->A|**Queue**. +11, 4,50 m, 2d8+6 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de froid (Recharge 5-6)**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**. 
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
+>Action|**Morsure**. +11, 3 m, 2d10+6 perforants  
+>Action|**Queue**. +11, 4,50 m, 2d8+6 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de froid (Recharge 5-6)**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**. 
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8749,15 +8749,15 @@ ___
 >
 >**Marche sur la glace**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +14, 4,50 m, 2d10+8 perforants  
->A|**Griffes**. +14, 3 m, 2d6+8 tranchants  
->A|**Queue**. +14, 6 m, 2d8+8 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de froid (Recharge 5-6)**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +14, 4,50 m, 2d10+8 perforants  
+>Action|**Griffes**. +14, 3 m, 2d6+8 tranchants  
+>Action|**Queue**. +14, 6 m, 2d8+8 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de froid (Recharge 5-6)**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8786,8 +8786,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 2 (450 PX)
 >
->A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
->A|**Souffle de froid (Recharge 5-6)**.  
+>Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+>Action|**Souffle de froid (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8817,10 +8817,10 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Marche sur la glace**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +7, 3 m, 2d10+4 perforants  
->A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
->A|**Souffle de froid (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +7, 3 m, 2d10+4 perforants  
+>Action|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
+>Action|**Souffle de froid (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8850,15 +8850,15 @@ ___
 >**Puissance** 16 (15000 PX)
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +12, 1,50 m, 2d6+7 tranchants  
->A|**Morsure**. +12, 3 m, 2d10+7 perforants  
->A|**Queue**. +12, 4,50 m, 2d8+7 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de foudre (Recharge 5-6)**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +12, 1,50 m, 2d6+7 tranchants  
+>Action|**Morsure**. +12, 3 m, 2d10+7 perforants  
+>Action|**Queue**. +12, 4,50 m, 2d8+7 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de foudre (Recharge 5-6)**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8888,15 +8888,15 @@ ___
 >**Puissance** 23 (50000 PX)
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +16, 4,50 m, 2d10+9 perforants  
->A|**Griffes**. +16, 3 m, 2d6+9 tranchants  
->A|**Queue**. +16, 6 m, 2d8+9 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de foudre (Recharge 5-6)**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +16, 4,50 m, 2d10+9 perforants  
+>Action|**Griffes**. +16, 3 m, 2d6+9 tranchants  
+>Action|**Queue**. +16, 6 m, 2d8+9 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de foudre (Recharge 5-6)**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8925,8 +8925,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 3 (700 PX)
 >
->A|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
->A|**Souffle de foudre (Recharge 5-6)**.  
+>Action|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
+>Action|**Souffle de foudre (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -8955,10 +8955,10 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 9 (5000 PX)
 >
->A|**Attaques multiples**.  
->A|**Morsure**. +9, 3 m, 2d10+5 perforants  
->A|**Griffes**. +9, 1,50 m, 2d6+5 tranchants  
->A|**Souffle de foudre (Recharge 5-6)**.
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +9, 3 m, 2d10+5 perforants  
+>Action|**Griffes**. +9, 1,50 m, 2d6+5 tranchants  
+>Action|**Souffle de foudre (Recharge 5-6)**.
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9030,17 +9030,17 @@ ___
 >**Puissance** 13 (10000 PX)
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +11, 3 m, 2d10+6 perforants  
->A|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
->A|**Queue**. +11, 4,50 m, 2d8+6 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de feu**.  
->A|**Souffle de sommeil**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +11, 3 m, 2d10+6 perforants  
+>Action|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
+>Action|**Queue**. +11, 4,50 m, 2d8+6 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de feu**.  
+>Action|**Souffle de sommeil**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9070,18 +9070,18 @@ ___
 >**Puissance** 20 (25000 PX)
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +14, 4,50 m, 2d10+8 perforants  
->A|**Griffes**. +14, 3 m, 2d6+8 tranchants  
->A|**Queue**. +14, 6 m, 2d8+8 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de feu**.  
->A|**Souffle de sommeil**.  
->A|**Changement de forme**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +14, 4,50 m, 2d10+8 perforants  
+>Action|**Griffes**. +14, 3 m, 2d6+8 tranchants  
+>Action|**Queue**. +14, 6 m, 2d8+8 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de feu**.  
+>Action|**Souffle de sommeil**.  
+>Action|**Changement de forme**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9110,10 +9110,10 @@ ___
 >**Langues** draconique  
 >**Puissance** 1 (200 PX)
 >
->A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de feu**.  
->A|**Souffle de sommeil**.  
+>Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de feu**.  
+>Action|**Souffle de sommeil**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9142,12 +9142,12 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 6 (2300 PX)
 >
->A|**Attaques multiples**.  
->A|**Morsure**. +7, 3 m, 2d10+4 perforants  
->A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de feu**.  
->A|**Souffle de sommeil**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +7, 3 m, 2d10+4 perforants  
+>Action|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de feu**.  
+>Action|**Souffle de sommeil**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9180,17 +9180,17 @@ ___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +12, 3 m, 2d10+7 perforants  
->A|**Griffes**. +12, 3 m, 1d8+7 tranchants  
->A|**Incantation (psioniques)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +12, 3 m, 2d10+7 perforants  
+>Action|**Griffes**. +12, 3 m, 1d8+7 tranchants  
+>Action|**Incantation (psioniques)**.  
 >1/jour chacun : _contrôle de l'eau, communication à distance_  
->A|**Souffle singulier (Recharge 5-6)**.  
->B|**Changement de forme**.  
->B|**Foulée psychique**.  
->L|**Griffes**.  
->L|**Psioniques (coûte 2 actions)**.  
->L|**Cristal explosif (coûte 3 actions)**.  
+>Action|**Souffle singulier (Recharge 5-6)**.  
+>Action Bonus|**Changement de forme**.  
+>Action Bonus|**Foulée psychique**.  
+>Action Légendaire|**Griffes**.  
+>Action Légendaire|**Psioniques (coûte 2 actions)**.  
+>Action Légendaire|**Cristal explosif (coûte 3 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -9336,18 +9336,18 @@ ___
 >**Puissance** 16 (15000 PX)
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +13, 3 m, 2d10+8 perforants  
->A|**Griffes**. +13, 1,50 m, 2d6+8 tranchants  
->A|**Queue**. +13, 4,50 m, 2d8+8 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de froid**.  
->A|**Souffle paralysant**.  
->A|**Changement de forme**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +13, 3 m, 2d10+8 perforants  
+>Action|**Griffes**. +13, 1,50 m, 2d6+8 tranchants  
+>Action|**Queue**. +13, 4,50 m, 2d8+8 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de froid**.  
+>Action|**Souffle paralysant**.  
+>Action|**Changement de forme**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9377,18 +9377,18 @@ ___
 >**Puissance** 23 (50000 PX)
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +17, 4,50 m, 2d10+10 perforants  
->A|**Griffes**. +17, 3 m, 2d6+10 tranchants  
->A|**Queue**. +17, 6 m, 2d8+10 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de froid**.  
->A|**Souffle paralysant**.  
->A|**Changement de forme**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +17, 4,50 m, 2d10+10 perforants  
+>Action|**Griffes**. +17, 3 m, 2d6+10 tranchants  
+>Action|**Queue**. +17, 6 m, 2d8+10 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de froid**.  
+>Action|**Souffle paralysant**.  
+>Action|**Changement de forme**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9417,10 +9417,10 @@ ___
 >**Langues** draconique  
 >**Puissance** 2 (450 PX)
 >
->A|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de froid**.  
->A|**Souffle paralysant**.  
+>Action|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de froid**.  
+>Action|**Souffle paralysant**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9449,12 +9449,12 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 9 (5000 PX)
 >
->A|**Attaques multiples**.  
->A|**Morsure**. +10, 3 m, 2d10+6 perforants  
->A|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de froid**.  
->A|**Souffle paralysant**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +10, 3 m, 2d10+6 perforants  
+>Action|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de froid**.  
+>Action|**Souffle paralysant**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9487,18 +9487,18 @@ ___
 >**Résistance légendaire (3/jour)**.  
 >**Perception décalée (1/jour)**.  
 >**Fouisseur**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +11, 3 m, 2d10+6 perforants  
->A|**Griffes**. +11, 1,50 m, 1d8+6 tranchants  
->A|**Incantation (psioniques)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +11, 3 m, 2d10+6 perforants  
+>Action|**Griffes**. +11, 1,50 m, 1d8+6 tranchants  
+>Action|**Incantation (psioniques)**.  
 >À volonté : _illusion mineure_  
 >1/jour chacun : _détection des pensées, dissipation de la magie, invisibilité, image majeure_  
->A|**Souffle désorientant (Recharge 5-6)**.  
->B|**Changement de forme**.  
->B|**Foulée psychique**.  
->L|**Griffes**.  
->L|**Psioniques (coûte 2 actions)**.  
->L|**Braises d'émeraude (coûte 3 actions)**.  
+>Action|**Souffle désorientant (Recharge 5-6)**.  
+>Action Bonus|**Changement de forme**.  
+>Action Bonus|**Foulée psychique**.  
+>Action Légendaire|**Griffes**.  
+>Action Légendaire|**Psioniques (coûte 2 actions)**.  
+>Action Légendaire|**Braises d'émeraude (coûte 3 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -9645,10 +9645,10 @@ ___
 >**Ombre vivante**.  
 >**Discrétion dans les ombres**.  
 >**Sensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
->A|**Morsure**. +10, 3 m, 2d10+6 perforants  
->A|**Souffle d'ombres (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
+>Action|**Morsure**. +10, 3 m, 2d10+6 perforants  
+>Action|**Souffle d'ombres (Recharge 5-6)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -9680,18 +9680,18 @@ ___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +14, 3 m, 2d10+8 perforants  
->A|**Griffes**. +14, 1,50 m, 2d6+8 tranchants  
->A|**Queue**. +14, 4,50 m, 2d8+8 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de feu**.  
->A|**Souffle affaiblissant**.  
->A|**Changement de forme**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +14, 3 m, 2d10+8 perforants  
+>Action|**Griffes**. +14, 1,50 m, 2d6+8 tranchants  
+>Action|**Queue**. +14, 4,50 m, 2d8+8 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de feu**.  
+>Action|**Souffle affaiblissant**.  
+>Action|**Changement de forme**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9722,18 +9722,18 @@ ___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +17, 4,50 m, 2d10+10 perforants  
->A|**Griffes**. +17, 3 m, 2d6+10 tranchants  
->A|**Queue**. +17, 6 m, 2d8+10 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de feu**.  
->A|**Souffle affaiblissant**.  
->A|**Changement de forme**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +17, 4,50 m, 2d10+10 perforants  
+>Action|**Griffes**. +17, 3 m, 2d6+10 tranchants  
+>Action|**Queue**. +17, 6 m, 2d8+10 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de feu**.  
+>Action|**Souffle affaiblissant**.  
+>Action|**Changement de forme**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9763,10 +9763,10 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Amphibien**.  
->A|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de feu**.  
->A|**Souffle affaiblissant**.  
+>Action|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de feu**.  
+>Action|**Souffle affaiblissant**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9796,12 +9796,12 @@ ___
 >**Puissance** 10 (5900 PX)
 >
 >**Amphibien**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +10, 3 m, 2d10+6 perforants  
->A|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de feu**.  
->A|**Souffle affaiblissant**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +10, 3 m, 2d10+6 perforants  
+>Action|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de feu**.  
+>Action|**Souffle affaiblissant**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9832,18 +9832,18 @@ ___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +12, 1,50 m, 2d6+7 tranchants  
->A|**Morsure**. +12, 3 m, 2d10+7 perforants  
->A|**Queue**. +12, 4,50 m, 2d8+7 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de foudre**.  
->A|**Souffle répulsif**.  
->A|**Changement de forme**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +12, 1,50 m, 2d6+7 tranchants  
+>Action|**Morsure**. +12, 3 m, 2d10+7 perforants  
+>Action|**Queue**. +12, 4,50 m, 2d8+7 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de foudre**.  
+>Action|**Souffle répulsif**.  
+>Action|**Changement de forme**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9874,18 +9874,18 @@ ___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +16, 4,50 m, 2d10+9 perforants  
->A|**Griffes**. +16, 3 m, 2d6+9 tranchants  
->A|**Queue**. +16, 6 m, 2d8+9 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de foudre**.  
->A|**Souffle répulsif**.  
->A|**Changement de forme**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +16, 4,50 m, 2d10+9 perforants  
+>Action|**Griffes**. +16, 3 m, 2d6+9 tranchants  
+>Action|**Queue**. +16, 6 m, 2d8+9 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de foudre**.  
+>Action|**Souffle répulsif**.  
+>Action|**Changement de forme**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9915,10 +9915,10 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Amphibien**.  
->A|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de foudre**.  
->A|**Souffle répulsif**.  
+>Action|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de foudre**.  
+>Action|**Souffle répulsif**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9948,12 +9948,12 @@ ___
 >**Puissance** 8 (3900 PX)
 >
 >**Amphibien**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +8, 3 m, 2d10+5 perforants  
->A|**Griffes**. +8, 1,50 m, 2d6+5 tranchants  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle de foudre**.  
->A|**Souffle répulsif**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +8, 3 m, 2d10+5 perforants  
+>Action|**Griffes**. +8, 1,50 m, 2d6+5 tranchants  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle de foudre**.  
+>Action|**Souffle répulsif**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -9984,18 +9984,18 @@ ___
 >**Bonus de maîtrise** +4
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +9, 3 m, 2d10+5 perforants  
->A|**Griffes**. +9, 1,50 m, 1d8+5 tranchants  
->A|**Incantation (psioniques)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +9, 3 m, 2d10+5 perforants  
+>Action|**Griffes**. +9, 1,50 m, 1d8+5 tranchants  
+>Action|**Incantation (psioniques)**.  
 >À volonté : _lumières dansantes, assistance_  
 >1/jour chacun : _restauration partielle_  
->A|**Souffle scintillant (Recharge 5-6)**.  
->B|**Changement de forme**.  
->B|**Foulée psychique**.  
->L|**Griffes**.  
->L|**Psioniques (coûte 2 actions)**.  
->L|**Frappe stellaire (coûte 3 actions)**.  
+>Action|**Souffle scintillant (Recharge 5-6)**.  
+>Action Bonus|**Changement de forme**.  
+>Action Bonus|**Foulée psychique**.  
+>Action Légendaire|**Griffes**.  
+>Action Légendaire|**Psioniques (coûte 2 actions)**.  
+>Action Légendaire|**Frappe stellaire (coûte 3 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -10136,17 +10136,17 @@ ___
 >**Puissance** 14 (11500 PX)
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +11, 3 m, 2d10+6 perforants  
->A|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
->A|**Queue**. +11, 4,50 m, 2d8+6 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle d'acide**.  
->A|**Souffle de ralentissement**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +11, 3 m, 2d10+6 perforants  
+>Action|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
+>Action|**Queue**. +11, 4,50 m, 2d8+6 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle d'acide**.  
+>Action|**Souffle de ralentissement**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -10176,18 +10176,18 @@ ___
 >**Puissance** 21 (33000 PX)
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +15, 4,50 m, 2d10+8 perforants  
->A|**Griffes**. +15, 3 m, 2d6+8 tranchants  
->A|**Queue**. +15, 6 m, 2d8+8 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle d'acide**.  
->A|**Souffle de ralentissement**.  
->A|**Changement de forme**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +15, 4,50 m, 2d10+8 perforants  
+>Action|**Griffes**. +15, 3 m, 2d6+8 tranchants  
+>Action|**Queue**. +15, 6 m, 2d8+8 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle d'acide**.  
+>Action|**Souffle de ralentissement**.  
+>Action|**Changement de forme**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -10216,10 +10216,10 @@ ___
 >**Langues** draconique  
 >**Puissance** 1 (200 PX)
 >
->A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle d'acide**.  
->A|**Souffle de ralentissement**.  
+>Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle d'acide**.  
+>Action|**Souffle de ralentissement**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -10248,12 +10248,12 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 7 (2900 PX)
 >
->A|**Attaques multiples**.  
->A|**Morsure**. +7, 3 m, 2d10+4 perforants  
->A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
->A|**Souffle de combat (Recharge 5-6)**.  
->A|**Souffle d'acide**.  
->A|**Souffle de ralentissement**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +7, 3 m, 2d10+4 perforants  
+>Action|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
+>Action|**Souffle de combat (Recharge 5-6)**.  
+>Action|**Souffle d'acide**.  
+>Action|**Souffle de ralentissement**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -10287,17 +10287,17 @@ ___
 >**Résistance légendaire (3/jour)**.  
 >**Pattes d'araignée**.  
 >**Fouisseur**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +11, 3 m, 2d10+6 perforants  
->A|**Griffes**. +11, 1,50 m, 1d8+6 tranchants  
->A|**Incantation (psioniques)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +11, 3 m, 2d10+6 perforants  
+>Action|**Griffes**. +11, 1,50 m, 1d8+6 tranchants  
+>Action|**Incantation (psioniques)**.  
 >1/jour chacun : _télékinésie_  
->A|**Souffle débilitant (Recharge 5-6)**.  
->B|**Changement de forme**.  
->B|**Foulée psychique**.  
->L|**Griffes**.  
->L|**Psioniques (coûte 2 actions)**.  
->L|**Lancer télékinésique (coûte 3 actions)**.  
+>Action|**Souffle débilitant (Recharge 5-6)**.  
+>Action Bonus|**Changement de forme**.  
+>Action Bonus|**Foulée psychique**.  
+>Action Légendaire|**Griffes**.  
+>Action Légendaire|**Psioniques (coûte 2 actions)**.  
+>Action Légendaire|**Lancer télékinésique (coûte 3 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -10449,17 +10449,17 @@ ___
 >**Amphibien**.  
 >**Fabrication (1/jour)**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +9, 3 m, 2d10+4 perforants  
->A|**Griffes**. +9, 1,50 m, 1d8+4 tranchants  
->A|**Incantation (psioniques)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +9, 3 m, 2d10+4 perforants  
+>Action|**Griffes**. +9, 1,50 m, 1d8+4 tranchants  
+>Action|**Incantation (psioniques)**.  
 >1/jour chacun : _fléau, contrôle de l'eau, création ou destruction d'eau,_  
->A|**Souffle desséchant (Recharge 5-6)**.  
->B|**Changement de forme**.  
->B|**Foulée psychique**.  
->L|**Griffes**.  
->L|**Psioniques (coûte 2 actions)**.  
->L|**Réduction essentielle (coûte 3 actions)**.  
+>Action|**Souffle desséchant (Recharge 5-6)**.  
+>Action Bonus|**Changement de forme**.  
+>Action Bonus|**Foulée psychique**.  
+>Action Légendaire|**Griffes**.  
+>Action Légendaire|**Psioniques (coûte 2 actions)**.  
+>Action Légendaire|**Réduction essentielle (coûte 3 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -10605,15 +10605,15 @@ ___
 >**Bonus de maîtrise** +4
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +9, 3 m, 2d10+5 perforants  
->A|**Griffes**. +9, 1,50 m, 1d6+5 tranchants  
->A|**Queue**. +9, 4,50 m, 1d8+5 contondants  
->A|**Changement de forme**.  
->A|**Souffle de cauchemar (Recharge 5-6)**.  
->L|**Spores commandantes**.  
->L|**Queue**.  
->L|**Salve de spores (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +9, 3 m, 2d10+5 perforants  
+>Action|**Griffes**. +9, 1,50 m, 1d6+5 tranchants  
+>Action|**Queue**. +9, 4,50 m, 1d8+5 contondants  
+>Action|**Changement de forme**.  
+>Action|**Souffle de cauchemar (Recharge 5-6)**.  
+>Action Légendaire|**Spores commandantes**.  
+>Action Légendaire|**Queue**.  
+>Action Légendaire|**Salve de spores (coûte 2 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -10800,10 +10800,10 @@ ___
 >Bleu (450 XP), 1/jour : _image majeure_  
 >Indigo (450 XP), 1/jour : _terrain hallucinatoire_  
 >Violet (450 XP), 1/jour : _métamorphose_  
->A|**Morsure**.  
->A|**Souffle d'euphorie (Recharge 5-6)**.  
->A|**1-4**.  
->A|**5-6**. 
+>Action|**Morsure**.  
+>Action|**Souffle d'euphorie (Recharge 5-6)**.  
+>Action|**1-4**.  
+>Action|**5-6**. 
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -10835,15 +10835,15 @@ ___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
->A|**Morsure**. +11, 3 m, 2d10+6 perforants  
->A|**Queue**. +11, 4,50 m, 2d8+6 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle d'acide (Recharge 5-6)**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
+>Action|**Morsure**. +11, 3 m, 2d10+6 perforants  
+>Action|**Queue**. +11, 4,50 m, 2d8+6 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle d'acide (Recharge 5-6)**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >
 >_Monster Manual (SRD)_
@@ -10875,15 +10875,15 @@ ___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +15, 4,50 m, 2d10+8 perforants  
->A|**Griffes**. +15, 3 m, 2d6+8 tranchants  
->A|**Queue**. +15, 6 m, 2d8+8 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle d'acide (Recharge 5-6)**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +15, 4,50 m, 2d10+8 perforants  
+>Action|**Griffes**. +15, 3 m, 2d6+8 tranchants  
+>Action|**Queue**. +15, 6 m, 2d8+8 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle d'acide (Recharge 5-6)**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -10913,8 +10913,8 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Amphibien**.  
->A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
->A|**Souffle d'acide (Recharge 5-6)**.  
+>Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+>Action|**Souffle d'acide (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -10944,10 +10944,10 @@ ___
 >**Puissance** 7 (2900 PX)
 >
 >**Amphibien**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +7, 3 m, 2d10+4 perforants  
->A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
->A|**Souffle d'acide (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +7, 3 m, 2d10+4 perforants  
+>Action|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
+>Action|**Souffle d'acide (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -10978,18 +10978,18 @@ ___
 >**Bonus de maîtrise** +5
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +10, 3 m, 2d10+5 perforants  
->A|**Griffes**. +10, 1,50 m, 2d6+5 tranchants  
->A|**Queue**. +10, 4,50 m, 1d8+5 contondants  
->A|**Souffle (Recharge 5-6)**.  
->A|**Souffle de rêve**.  
->A|**Souffle de lune**.  
->A|**Incantation**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +10, 3 m, 2d10+5 perforants  
+>Action|**Griffes**. +10, 1,50 m, 2d6+5 tranchants  
+>Action|**Queue**. +10, 4,50 m, 1d8+5 contondants  
+>Action|**Souffle (Recharge 5-6)**.  
+>Action|**Souffle de rêve**.  
+>Action|**Souffle de lune**.  
+>Action|**Incantation**.  
 >À volonté : _lueurs féeriques_  
 >1/jour chacun : _apaisement des émotions, invisibilité, retour à la vie  
->L|**Queue**.  
->L|**Sort (coûte 2 actions)**.  
+>Action Légendaire|**Queue**.  
+>Action Légendaire|**Sort (coûte 2 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -11126,15 +11126,15 @@ ___
 >**Puissance** 17 (18000 PX)
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +14, 1,50 m, 2d6+8 tranchants  
->A|**Morsure**. +14, 3 m, 2d10+8 perforants  
->A|**Queue**. +14, 4,50 m, 2d8+8 contondants  
->A|**Présence effrayante**.  
->A|**Souffle de feu (Recharge 5-6)**.  
->L|**Attaque avec la queue**.  
->L|**Détection**.  
->L|**Attaque Ailée (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +14, 1,50 m, 2d6+8 tranchants  
+>Action|**Morsure**. +14, 3 m, 2d10+8 perforants  
+>Action|**Queue**. +14, 4,50 m, 2d8+8 contondants  
+>Action|**Présence effrayante**.  
+>Action|**Souffle de feu (Recharge 5-6)**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque Ailée (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11164,15 +11164,15 @@ ___
 >**Puissance** 24 (62000 PX)
 >
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +17, 3 m, 2d6+10 tranchants  
->A|**Morsure**. +17, 4,50 m, 2d10+10 perforants  
->A|**Queue**. +17, 6 m, 2d8+10 contondants  
->A|**Présence effrayante**.  
->A|**Souffle de feu (Recharge 5-6)**.  
->L|**Attaque avec la queue**.  
->L|**Détection**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +17, 3 m, 2d6+10 tranchants  
+>Action|**Morsure**. +17, 4,50 m, 2d10+10 perforants  
+>Action|**Queue**. +17, 6 m, 2d8+10 contondants  
+>Action|**Présence effrayante**.  
+>Action|**Souffle de feu (Recharge 5-6)**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11201,8 +11201,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 4 (1100 PX)
 >
->A|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
->A|**Souffle de feu (Recharge 5-6)**.  
+>Action|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
+>Action|**Souffle de feu (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11231,10 +11231,10 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 10 (5900 PX)
 >
->A|**Attaques multiples**.  
->A|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
->A|**Morsure**. +10, 3 m, 2d10+6 perforants  
->A|**Souffle de feu (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
+>Action|**Morsure**. +10, 3 m, 2d10+6 perforants  
+>Action|**Souffle de feu (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11263,11 +11263,11 @@ ___
 >**Puissance** 17 (18000 PX)
 >
 >**Amphibien**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +13, 3 m, 2d8+7 tranchants  
->A|**Morsure**. +13, 4,50 m, 3d12+7 perforants  
->A|**Queue**. +13, 4,50 m, 3d12+7 contondants  
->A|**Souffle de vapeur (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +13, 3 m, 2d8+7 tranchants  
+>Action|**Morsure**. +13, 4,50 m, 3d12+7 perforants  
+>Action|**Queue**. +13, 4,50 m, 3d12+7 contondants  
+>Action|**Souffle de vapeur (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11386,15 +11386,15 @@ ___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +11, 3 m, 2d10+6 perforants  
->A|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
->A|**Queue**. +11, 4,50 m, 2d8+6 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle empoisonné (Recharge 5-6)**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +11, 3 m, 2d10+6 perforants  
+>Action|**Griffes**. +11, 1,50 m, 2d6+6 tranchants  
+>Action|**Queue**. +11, 4,50 m, 2d8+6 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle empoisonné (Recharge 5-6)**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11426,15 +11426,15 @@ ___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +15, 4,50 m, 2d10+8 perforants  
->A|**Griffes**. +15, 3 m, 4d6+8 tranchants  
->A|**Queue**. +15, 6 m, 2d8+8 contondants  
->A|**Présence terrifiante**.  
->A|**Souffle empoisonné (Recharge 5-6)**.  
->L|**Détection**.  
->L|**Attaque avec la queue**.  
->L|**Attaque avec les ailes (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +15, 4,50 m, 2d10+8 perforants  
+>Action|**Griffes**. +15, 3 m, 4d6+8 tranchants  
+>Action|**Queue**. +15, 6 m, 2d8+8 contondants  
+>Action|**Présence terrifiante**.  
+>Action|**Souffle empoisonné (Recharge 5-6)**.  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Attaque avec la queue**.  
+>Action Légendaire|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11465,8 +11465,8 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Amphibien**.  
->A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
->A|**Souffle empoisonné (Recharge 5-6)**.  
+>Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
+>Action|**Souffle empoisonné (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11497,10 +11497,10 @@ ___
 >**Puissance** 8 (3900 PX)
 >
 >**Amphibien**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
->A|**Morsure**. +7, 3 m, 2d10+4 perforants  
->A|**Souffle empoisonné (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
+>Action|**Morsure**. +7, 3 m, 2d10+4 perforants  
+>Action|**Souffle empoisonné (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11589,9 +11589,9 @@ ___
 >**Langues** comprend le draconique mais ne peut pas parler  
 >**Puissance** 2 (450 PX)
 >
->A|**Attaques multiples**.  
->A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
->A|**Queue**. +5, 1,50 m, 1d6+3 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
+>Action|**Queue**. +5, 1,50 m, 1d6+3 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -11755,10 +11755,10 @@ ___
 >**Langues** abyssal, télépathie 18 m (ne fonctionne qu'avec les créatures qui comprennent l'abyssal)  
 >**Puissance** 1/4 (50 PX)
 >
->A|**Attaques multiples**.  
->A|**Griffes**. +2, 1,50 m, 2d4 tranchants  
->A|**Morsure**. +2, 1,50 m, 1d6 perforants  
->A|**Nuage fétide (1/jour)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +2, 1,50 m, 2d4 tranchants  
+>Action|**Morsure**. +2, 1,50 m, 1d6 perforants  
+>Action|**Nuage fétide (1/jour)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11792,10 +11792,10 @@ ___
 >**Pattes d'araignée**.  
 >**Sensibilité au soleil**.  
 >**Déplacement sur la toile**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +6, 1,50 m, 1d4 perforants  
->A|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
->A|**Arc long**. +6, 45/180 m, 1d8+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +6, 1,50 m, 1d4 perforants  
+>Action|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
+>Action|**Arc long**. +6, 45/180 m, 1d8+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11827,8 +11827,8 @@ ___
 >À volonté : _lumières dansantes_  
 >1/jour chacun : _ténèbres, lueurs féeriques_  
 >**Sensibilité au soleil**.  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Arbalète de poing**. +4, 9/36 m, 1d6+2 perforants  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Arbalète de poing**. +4, 9/36 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -11983,11 +11983,11 @@ ___
 >À volonté : _lumières dansantes_  
 >1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
 >**Sensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Cimeterre**. +8, 1,50 m, 1d6+4 tranchants  
->A|**Fouet**. +8, 3 m, 1d4+4 tranchants  
->A|**Arbalète de poing**. +8, 9/36 m, 1d6+4 perforants  
->R|**Parade**.  
+>Action|**Attaques multiples**.  
+>Action|**Cimeterre**. +8, 1,50 m, 1d6+4 tranchants  
+>Action|**Fouet**. +8, 3 m, 1d4+4 tranchants  
+>Action|**Arbalète de poing**. +8, 9/36 m, 1d6+4 perforants  
+>Réaction|**Parade**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -12093,10 +12093,10 @@ ___
 >À volonté : _lumières dansantes_  
 >1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
 >**Sensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Épée courte**. +7, 1,50 m, 1d6+4 perforants  
->A|**Arbalète de poing**. +7, 9/36 m, 1d6+4 perforants  
->R|**Parade**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +7, 1,50 m, 1d6+4 perforants  
+>Action|**Arbalète de poing**. +7, 9/36 m, 1d6+4 perforants  
+>Réaction|**Parade**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -12178,8 +12178,8 @@ ___
 >Niv 5 (2) : _fléau d'insectes_  
 >Niv 6 (1) : _vision suprême, contamination_  
 >**Sensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Lance d'arçon mortelle**. +10, 1,50 m, 1d6+5 perforants 
+>Action|**Attaques multiples**.  
+>Action|**Lance d'arçon mortelle**. +10, 1,50 m, 1d6+5 perforants 
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -12219,8 +12219,8 @@ ___
 >Niv 4 (3) : _invisibilité supérieure_  
 >Niv 5 (2) : _brume mortelle_  
 >**Sensibilité au soleil**.  
->A|**Bâton**.  
->A|**Invocation de démon (1/jour)**.  
+>Action|**Bâton**.  
+>Action|**Invocation de démon (1/jour)**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -12418,9 +12418,9 @@ ___
 >Niv 4 (3) : _liberté de mouvement_  
 >Niv 5 (2) : _fléau d'insectes, soins de groupe_  
 >**Sensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Fouet barbelé**. +5, 1,50 m, 1d6+2 perforants  
->A|**Invocation de démon (1/jour)**.  
+>Action|**Attaques multiples**.  
+>Action|**Fouet barbelé**. +5, 1,50 m, 1d6+2 perforants  
+>Action|**Invocation de démon (1/jour)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -12452,7 +12452,7 @@ ___
 >Sorts mineurs (à volonté) : _gourdin magique_  
 >Niv 1 (4) : _enchevêtrement, grande foulée, vague tonnante_  
 >Niv 2 (3) : _peau d'écorce_  
->A|**Bâton**. +2, , 1d6 contondants  
+>Action|**Bâton**. +2, , 1d6 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -12488,10 +12488,10 @@ ___
 >Niv 3 (3) : _tempête de neige, mur de vent_  
 >Niv 4 (3) : _tempête de grêle_  
 >Niv 5 (1) : _éveil_  
->A|**Attaques multiples**.  
->A|**Serpe de glace (forme humanoïde uniquement)**. +4, 1,50 m, 1d6 tranchants  
->A|**Maillet (forme de bête uniquement)**.  
->A|**Changement de forme**.  
+>Action|**Attaques multiples**.  
+>Action|**Serpe de glace (forme humanoïde uniquement)**. +4, 1,50 m, 1d6 tranchants  
+>Action|**Maillet (forme de bête uniquement)**.  
+>Action|**Changement de forme**.  
 >
 >_Adventures (Rime of the Frostmaiden)_
 {: .statblock5e }
@@ -12525,8 +12525,8 @@ ___
 >**Résistance à la magie**.  
 >**Communication avec les animaux et avec les plantes**.  
 >**Passage par les arbres**.  
->A|**Gourdin**. +2, , 1d4 contondants  
->A|**Charme des fées**.  
+>Action|**Gourdin**. +2, , 1d4 contondants  
+>Action|**Charme des fées**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -12555,10 +12555,10 @@ ___
 >
 >**Résistance duergare**.  
 >**Sensibilité au soleil**.  
->A|**Agrandissement (Recharge après un repos court ou long)**.  
->A|**Pic de guerre**. +4, 1,50 m, 1d8+2 perforants  
->A|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
->A|**Invisibilité (Recharge après un repos court ou long)**.  
+>Action|**Agrandissement (Recharge après un repos court ou long)**.  
+>Action|**Pic de guerre**. +4, 1,50 m, 1d8+2 perforants  
+>Action|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
+>Action|**Invisibilité (Recharge après un repos court ou long)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -12698,10 +12698,10 @@ ___
 >**Résistance à la magie**.  
 >**Moteur psychique**.  
 >**Sensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Poing de fer**. +9, 1,50 m, 2d8+5 contondants  
->A|**Piétinement**. +9, 1,50 m, 1d8+5 contondants  
->A|**Jet de flammes**.  
+>Action|**Attaques multiples**.  
+>Action|**Poing de fer**. +9, 1,50 m, 2d8+5 contondants  
+>Action|**Piétinement**. +9, 1,50 m, 1d8+5 contondants  
+>Action|**Jet de flammes**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -12768,10 +12768,10 @@ ___
 >**Résistance duergare**.  
 >**Formation de phalange**.  
 >**Sensibilité au soleil**.  
->A|**Couteau du roi (épée courte)**. +6, 1,50 m, 1d6+4 perforants  
->A|**Javeline**. +6, 1,50 m ou 9/36 m, 1d6+4 perforants  
->A|**Agrandissement (Recharge après un repos court ou long)**.  
->A|**Invisibilité (Recharge 4-6)**.  
+>Action|**Couteau du roi (épée courte)**. +6, 1,50 m, 1d6+4 perforants  
+>Action|**Javeline**. +6, 1,50 m ou 9/36 m, 1d6+4 perforants  
+>Action|**Agrandissement (Recharge après un repos court ou long)**.  
+>Action|**Invisibilité (Recharge 4-6)**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -12837,10 +12837,10 @@ ___
 >**Formation de cavalerie**.  
 >**Résistance duergare**.  
 >**Sensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Pic de guerre**. +4, 1,50 m, 1d8+2 perforants  
->A|**Arbalète lourde**. +2, 30/120 m, 1d10 perforants  
->A|**Invisibilité partagée (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Pic de guerre**. +4, 1,50 m, 1d8+2 perforants  
+>Action|**Arbalète lourde**. +2, 30/120 m, 1d10 perforants  
+>Action|**Invisibilité partagée (Recharge après un repos court ou long)**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -12909,11 +12909,11 @@ ___
 >
 >**Résistance duergare**.  
 >**Sensibilité au soleil**.  
->A|**Attaque multiple**.  
->A|**Dague esprit-poison**. +5, 1,50 m, 1d4+3 perforants  
->A|**Invisibilité (Recharge 4-6)**.  
->A|**Maîtrise de l'esprit**.  
->A|**Réduction (Recharge après un repos court ou long)**.  
+>Action|**Attaque multiple**.  
+>Action|**Dague esprit-poison**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Invisibilité (Recharge 4-6)**.  
+>Action|**Maîtrise de l'esprit**.  
+>Action|**Réduction (Recharge après un repos court ou long)**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -12979,12 +12979,12 @@ ___
 >
 >**Résistance duergare**.  
 >**Sensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Marteau lié à l'esprit**. +7, 1,50 m, 1d10+4 contondants  
->A|**Javeline**. +7, 1,50 m ou 9/36 m, 1d6+4 perforants  
->A|**Ordre d'attaquer**.  
->A|**Agrandissement (Recharge après un repos court ou long)**.  
->A|**Invisibilité (Recharge 4-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Marteau lié à l'esprit**. +7, 1,50 m, 1d10+4 contondants  
+>Action|**Javeline**. +7, 1,50 m ou 9/36 m, 1d6+4 perforants  
+>Action|**Ordre d'attaquer**.  
+>Action|**Agrandissement (Recharge après un repos court ou long)**.  
+>Action|**Invisibilité (Recharge 4-6)**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -13080,9 +13080,9 @@ ___
 >
 >**Esprit axiomatique**.  
 >**Désintégration**.  
->A|**Attaques multiples**.  
->A|**Poing**. +2, 1,50 m, 1d4 contondants  
->A|**Javeline**. +3, 1,50 m ou 9/36 m, 1d6+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Poing**. +2, 1,50 m, 1d4 contondants  
+>Action|**Javeline**. +3, 1,50 m ou 9/36 m, 1d6+1 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -13183,9 +13183,9 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Ouïe et vue aiguisées**.  
->A|**Attaques multiples**.  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -13249,9 +13249,9 @@ ___
 >À volonté : _détection de la magie_  
 >3/jour chacun : _don des langues_  
 >1/jour chacun : _invocation d'élémentaire_ (élémentaire du feu uniquement), _invisibilité, mur de feu_  
->A|**Attaques multiples**.  
->A|**Cimeterre**. +10, 1,50 m, 2d6+6 tranchants  
->A|**Jet de flammes**. +7, 36 m, 5d6 feu  
+>Action|**Attaques multiples**.  
+>Action|**Cimeterre**. +10, 1,50 m, 2d6+6 tranchants  
+>Action|**Jet de flammes**. +7, 36 m, 5d6 feu  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -13322,7 +13322,7 @@ ___
 >**Déplacement intangible**.  
 >**Animation sacrée (Recharge 5-6)**.  
 >**Résistance au renvoi**.  
->A|**Divine épouvante**.  
+>Action|**Divine épouvante**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -13634,8 +13634,8 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Charge**.  
->A|**Coup de tête**. +5, 1,50 m, 1d6+3 contondants  
->A|**Sabots**. +5, 1,50 m, 2d4+3 contondants  
+>Action|**Coup de tête**. +5, 1,50 m, 1d6+3 contondants  
+>Action|**Sabots**. +5, 1,50 m, 2d4+3 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -13663,8 +13663,8 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Charge**.  
->A|**Coup de tête**. +6, 3 m, 2d6+4 contondants  
->A|**Sabots**. +6, 1,50 m, 4d8+4 contondants  
+>Action|**Coup de tête**. +6, 3 m, 2d6+4 contondants  
+>Action|**Sabots**. +6, 1,50 m, 4d8+4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -13694,9 +13694,9 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Forme d'air**.  
->A|**Attaques multiples**.  
->A|**Coup**. +8, 1,50 m, 2d8+5 contondants  
->A|**Cyclone (Recharge 4-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +8, 1,50 m, 2d8+5 contondants  
+>Action|**Cyclone (Recharge 4-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -13728,7 +13728,7 @@ ___
 >**Bonus de maîtrise** +2_
 >
 >**Forme d'air**.  
->A|**Coup**. +5, 0 m, 1d4+3 contondants  
+>Action|**Coup**. +5, 0 m, 1d4+3 contondants  
 >
 >_Extra (D&D Beyond)_
 >{: .label .label.label-statblock }
@@ -13826,9 +13826,9 @@ ___
 >
 >**Forme d'eau**.  
 >**Congelé**.  
->A|**Attaques multiples**.  
->A|**Coup**. +7, 1,50 m, 2d8+4 contondants  
->A|**Submersion (Recharge 4-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +7, 1,50 m, 2d8+4 contondants  
+>Action|**Submersion (Recharge 4-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -13861,7 +13861,7 @@ ___
 >
 >**Forme d'eau**.  
 >**Congelé**.  
->A|**Coup**. +5, 1,50 m, 1d8+2 contondants  
+>Action|**Coup**. +5, 1,50 m, 1d8+2 contondants  
 >
 >_Extra (D&D Beyond)_
 >{: .label .label.label-statblock }
@@ -13960,8 +13960,8 @@ ___
 >
 >**Déplacement dans la terre**.  
 >**Monstre de siège**.  
->A|**Attaques multiples**.  
->A|**Coup**. +8, 3 m, 2d8+5 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +8, 3 m, 2d8+5 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -13995,7 +13995,7 @@ ___
 >**Descente**.  
 >**Déplacement dans la terre**.  
 >**Apparence trompeuse**.  
->A|**Coup**. +4, 1,50 m, 1d8+4 contondants  
+>Action|**Coup**. +4, 1,50 m, 1d8+4 contondants  
 >
 >_Extra (D&D Beyond)_
 >
@@ -14090,8 +14090,8 @@ ___
 >**Forme de feu**.  
 >**Illumination**.  
 >**Susceptibilité à l'eau**.  
->A|**Attaques multiples**.  
->A|**Contact**. +6, 1,50 m, 2d6+3 feu  
+>Action|**Attaques multiples**.  
+>Action|**Contact**. +6, 1,50 m, 2d6+3 feu  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -14124,8 +14124,8 @@ ___
 >**Forme de feu**.  
 >**Illumination**.  
 >**Susceptibilité à l'eau**.  
->A|**Attaques multiples**.  
->A|**Contact**. +5, 1,50 m, 1d6+2 feu  
+>Action|**Attaques multiples**.  
+>Action|**Contact**. +5, 1,50 m, 1d6+2 feu  
 >
 >_Extra (D&D Beyond)_
 >
@@ -14219,8 +14219,8 @@ ___
 >**Puissance** 4 (1100 PX)
 >
 >**Charge écrasante**.  
->A|**Défenses**. +8, 1,50 m, 3d8+6 perforants  
->A|**Piétinement**. +8, 1,50 m, 3d10+6 contondants  
+>Action|**Défenses**. +8, 1,50 m, 3d8+6 perforants  
+>Action|**Piétinement**. +8, 1,50 m, 3d10+6 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -14250,7 +14250,7 @@ ___
 >**Incantation**.  
 >Sorts mineurs (à volonté) : _lumière_  
 >Niv 1 (2) : _repli expéditif_  
->A|**Dague**. +2, 1,50 m ou 6/18 m, 1d4 perforants  
+>Action|**Dague**. +2, 1,50 m ou 6/18 m, 1d4 perforants  
 >
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
@@ -14315,11 +14315,11 @@ ___
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Maillet**.  
->A|**Foudre**. +15, 180 m, 7d6 l  
->L|**Attaque**.  
->L|**Soutien**.  
->L|**Secousse (coûte 2 actions)**.  
+>Action|**Maillet**.  
+>Action|**Foudre**. +15, 180 m, 7d6 l  
+>Action Légendaire|**Attaque**.  
+>Action Légendaire|**Soutien**.  
+>Action Légendaire|**Secousse (coûte 2 actions)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -14356,8 +14356,8 @@ ___
 >Niv 4 (3) : _domination de bête\*, peau de pierre_  
 >Niv 5 (2) : _immobilisation de monstre_  
 >\* sort d'enchantement de niveau 1 ou supérieur  
->A|**Bâton**.  
->R|**Charme instinctif (Recharge après que l'enchanteur ait lancé un sort d'enchantement de niveau 1 ou supérieur)**.  
+>Action|**Bâton**.  
+>Réaction|**Charme instinctif (Recharge après que l'enchanteur ait lancé un sort d'enchantement de niveau 1 ou supérieur)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -14388,10 +14388,10 @@ ___
 >**Apparence trompeuse**.  
 >**Filaments agrippants**.  
 >**Pattes d'araignée**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +7, 1,50 m, 4d8+4 perforants  
->A|**Filament**.  
->A|**Embobiner**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +7, 1,50 m, 4d8+4 perforants  
+>Action|**Filament**.  
+>Action|**Embobiner**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -14421,7 +14421,7 @@ ___
 >**Écholocalisation**.  
 >**Apnée**.  
 >**Ouïe aiguisée**.  
->A|**Morsure**. +6, 1,50 m, 5d6+4 perforants  
+>Action|**Morsure**. +6, 1,50 m, 5d6+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -14452,7 +14452,7 @@ ___
 >
 >**Apparence trompeuse**.  
 >**Sensibilité à l'antimagie**.  
->A|**Épée longue**. +3, 1,50 m, 1d8+1 tranchants  
+>Action|**Épée longue**. +3, 1,50 m, 1d8+1 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -14483,7 +14483,7 @@ ___
 >**Camouflage dans la végétation**.  
 >**Régénération**.  
 >**Corps épineux**.  
->A|**Morsure**. +3, 1,50 m, 2d6+1 perforants  
+>Action|**Morsure**. +3, 1,50 m, 2d6+1 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -14515,9 +14515,9 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Apparence trompeuse**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
->A|**Regard terrifiant**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
+>Action|**Regard terrifiant**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -14550,10 +14550,10 @@ ___
 >
 >**Armes infernales**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Épée longue**. +8, 1,50 m, 1d8+4 tranchants  
->A|**Arc long**. +7, 45/180 m, 1d8+3 perforants  
->R|**Parade**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +8, 1,50 m, 1d8+4 tranchants  
+>Action|**Arc long**. +7, 45/180 m, 1d8+3 perforants  
+>Réaction|**Parade**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -14582,9 +14582,9 @@ ___
 >
 >**Ruse**.  
 >**Attaque sournoise (1/tour)**.  
->A|**Attaques multiples**.  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Arbalète de poing**. +4, 9/36 m, 1d6+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Arbalète de poing**. +4, 9/36 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -14910,8 +14910,8 @@ ___
 >**Langues** comprend les langues que vous parlez  
 >**Puissance** - **Bonus de maîtrise** égal à votre bonus_
 >
->_A|**Graine de flamme**.  
->A|**Téléportation ardente**.  
+>_Action|**Graine de flamme**.  
+>Action|**Téléportation ardente**.  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
 >{: .label .label.label-statblock }
@@ -14941,9 +14941,9 @@ ___
 >**Puissance** - **Bonus de maîtrise** égal à votre bonus_
 >
 >**Résistances partagées**.  
->A|**Attaques multiples**.  
->A|**Déchirement**.  
->A|**Souffle**.  
+>Action|**Attaques multiples**.  
+>Action|**Déchirement**.  
+>Action|**Souffle**.  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -14971,10 +14971,10 @@ ___
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 1/4 (50 PX)
 >
->_A|**Épée longue**.  
->A|**Arc court**.  
->A|**Perception du for intérieur**.  
->A|**Invisibilité**.  
+>_Action|**Épée longue**.  
+>Action|**Arc court**.  
+>Action|**Perception du for intérieur**.  
+>Action|**Invisibilité**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -15071,9 +15071,9 @@ ___
 >Sorts mineurs (à volonté) : _prestidigitation_  
 >Niv 1 (4) : _détection de la magie, rayon empoisonné_ (voir "Actions" ci-dessous)  
 >Niv 2 (3) : _ténèbres, foulée brumeuse_  
->A|**Attaques multiples**.  
->A|**Fléau de crâne en fer**. +2, 1,50 m, 1d8 contondants  
->A|**Rayon empoisonné (sort de niveau 1 ; requiert un de sort)**. +5, 18 m, 2d8 poison  
+>Action|**Attaques multiples**.  
+>Action|**Fléau de crâne en fer**. +2, 1,50 m, 1d8 contondants  
+>Action|**Rayon empoisonné (sort de niveau 1 ; requiert un de sort)**. +5, 18 m, 2d8 poison  
 >
 >_Adventures (Descent into Avernus)_
 >{: .label .label.label-statblock }
@@ -15104,10 +15104,10 @@ ___
 >**Pattes d'araignée**.  
 >**Sens de la toile**.  
 >**Déplacement sur la toile**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
->A|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
->A|**Toile d'araignée (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
+>Action|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
+>Action|**Toile d'araignée (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -15136,9 +15136,9 @@ ___
 >
 >**Bicéphale**.  
 >**Alerte**.  
->A|**Attaques multiples**.  
->A|**Hache d'armes**. +7, 1,50 m, 2d8+5 tranchants  
->A|**Morgenstern**. +7, 1,50 m, 2d8+5 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Hache d'armes**. +7, 1,50 m, 2d8+5 tranchants  
+>Action|**Morgenstern**. +7, 1,50 m, 2d8+5 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -15242,7 +15242,7 @@ ___
 >Niv 6 (1) : _chaîne d'éclairs\*, mur de glace\*_  
 >\* sort d'évocation  
 >**Façonneur de sorts**.  
->A|**Bâton**.  
+>Action|**Bâton**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -15272,12 +15272,12 @@ ___
 >**Bonus de maîtrise** +2_
 >
 >**Défense sans armure**.  
->A|**Attaques multiples**.  
->A|**Attaque à mains nues**. +5, 1,50 m, 1d8+3 contondants  
->A|**1-2**.  
->A|**3-4**.  
->A|**Fléchette**. +5, 6/18 m, 1d4+3 perforants  
->R|**Parade de projectiles**.  
+>Action|**Attaques multiples**.  
+>Action|**Attaque à mains nues**. +5, 1,50 m, 1d8+3 contondants  
+>Action|**1-2**.  
+>Action|**3-4**.  
+>Action|**Fléchette**. +5, 6/18 m, 1d4+3 perforants  
+>Réaction|**Parade de projectiles**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -15306,13 +15306,13 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Défense sans armure**.  
->A|**Attaques multiples**.  
->A|**Attaque à mains nues**. +5, 1,50 m, 1d8+3 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Attaque à mains nues**. +5, 1,50 m, 1d8+3 contondants  
 >• La cible doit réussir un jet de sauvegarde de Force DD 13 ou faire tomber un objet qu'elle tient (choisi par l'adepte).  
 >• La cible doit réussir un jet de sauvegarde de Dextérité DD 13 ou être jetée à terre.  
 >• La cible doit réussir un jet de sauvegarde de Constitution DD 13 ou être étourdie jusqu'à la fin du prochain tour de l'adepte.  
->A|**Fléchette**. +5, 6/18 m, 1d4+3 perforants  
->R|**Parade de projectiles**.  
+>Action|**Fléchette**. +5, 6/18 m, 1d4+3 perforants  
+>Réaction|**Parade de projectiles**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -15343,9 +15343,9 @@ ___
 >
 >**Outils**.  
 >**Serviable**.  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
->A|**Arc court**. +4, 24/96 m, 1d8+2 perforants  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Arc court**. +4, 24/96 m, 1d8+2 perforants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -15377,9 +15377,9 @@ ___
 >**Outils**.  
 >**Serviable**.  
 >**Ruse**.  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
->A|**Arc court**. +4, 24/96 m, 1d8+2 perforants  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Arc court**. +4, 24/96 m, 1d8+2 perforants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -15412,9 +15412,9 @@ ___
 >**Serviable**.  
 >**Ruse**.  
 >**Expertise**.  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
->A|**Arc court**. +4, 24/96 m, 1d8+2 perforants  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Arc court**. +4, 24/96 m, 1d8+2 perforants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -15447,9 +15447,9 @@ ___
 >**Serviable**.  
 >**Ruse**.  
 >**Expertise**.  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
->A|**Arc court**. +5, 24/96 m, 1d8+3 perforants  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
+>Action|**Arc court**. +5, 24/96 m, 1d8+3 perforants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -15482,9 +15482,9 @@ ___
 >**Serviable**.  
 >**Ruse**.  
 >**Expertise**.  
->A|**Épée courte**. +5, 1,50 m, 1d6+2 perforants  
->A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+3 perforants  
->A|**Arc court**. +6, 24/96 m, 1d8+3 perforants  
+>Action|**Épée courte**. +5, 1,50 m, 1d6+2 perforants  
+>Action|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+3 perforants  
+>Action|**Arc court**. +6, 24/96 m, 1d8+3 perforants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -15518,9 +15518,9 @@ ___
 >**Ruse**.  
 >**Expertise**.  
 >**Attaque supplémentaire**.  
->A|**Épée courte**. +5, 1,50 m, 1d6+2 perforants  
->A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+3 perforants  
->A|**Arc court**. +6, 24/96 m, 1d8+3 perforants  
+>Action|**Épée courte**. +5, 1,50 m, 1d6+2 perforants  
+>Action|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+3 perforants  
+>Action|**Arc court**. +6, 24/96 m, 1d8+3 perforants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -15553,8 +15553,8 @@ ___
 >Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
 >Niv 1 (4) : _injonction_  
 >Niv 2 (3) : _immobilisation de personne_  
->A|**Attaques multiples**.  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -15585,10 +15585,10 @@ ___
 >
 >**Déplacement intangible**.  
 >**Vision éthérée**.  
->A|**Contact flétrissant**. +5, 1,50 m, 4d6+3 nécrotiques  
->A|**Forme éthérée**.  
->A|**Visage effroyable**.  
->A|**Possession (Recharge 6)**.  
+>Action|**Contact flétrissant**. +5, 1,50 m, 4d6+3 nécrotiques  
+>Action|**Forme éthérée**.  
+>Action|**Visage effroyable**.  
+>Action|**Possession (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -15652,8 +15652,8 @@ ___
 >**Huile de farfadet**.  
 >**Faille dimensionnelle**.  
 >**Odeur étrange**.  
->A|**Coups**.  
->A|**Flaque d'huile**.  
+>Action|**Coups**.  
+>Action|**Flaque d'huile**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -15684,9 +15684,9 @@ ___
 >**Aura de meurtre**.  
 >**Incantation innée**.  
 >1/jour chacun: _déguisement, sanctuaire_  
->A|**Attaques multiples**.  
->A|**Dague**. +7, 1,50 m ou 6/18 m, 1d4+5 perforants  
->A|**Linceul**.  
+>Action|**Attaques multiples**.  
+>Action|**Dague**. +7, 1,50 m ou 6/18 m, 1d4+5 perforants  
+>Action|**Linceul**.  
 >
 >_Adventures (Descent into Avernus)_
 >{: .label .label.label-statblock }
@@ -15715,7 +15715,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Vue aiguisée**.  
->A|**Serres**.  
+>Action|**Serres**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -15744,7 +15744,7 @@ ___
 >
 >**Tactique de groupe**.  
 >**Vue aiguisée**.  
->A|**Bec**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Bec**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -15777,8 +15777,8 @@ ___
 >**Éphémère**.  
 >**Déplacement intangible**.  
 >**Illumination variable**.  
->A|**Secousse**. +4, 1,50 m, 2d8 foudre  
->A|**Invisibilité**.  
+>Action|**Secousse**. +4, 1,50 m, 2d8 foudre  
+>Action|**Invisibilité**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -15810,9 +15810,9 @@ ___
 >**Incantation innée (psioniques)**.  
 >À volonté : _détection des pensées, lévitation_  
 >1/jour chacun : _changement de plan_ (personnel uniquement)  
->A|**Explosion de l'esprit (Recharge 5-6)**.  
->A|**Extraction de cerveau**.  
->A|**Tentacules**. +7, 1,50 m, 2d10+4 psychiques  
+>Action|**Explosion de l'esprit (Recharge 5-6)**.  
+>Action|**Extraction de cerveau**.  
+>Action|**Tentacules**. +7, 1,50 m, 2d10+4 psychiques  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -15946,11 +15946,11 @@ ___
 >**Puissance** 9 (5000 PX)
 >
 >**Aura de Soif de sang**.  
->A|**Attaques multiples**.  
->A|**Fléau de la folie**. +9, 1,50 m, 1d10+5 contondants  
->A|**Fléau de la souffrance**. +9, 1,50 m, 1d10+5 contondants  
->A|**Fléau de la paralysie**. +9, 1,50 m, 1d10+5 contondants  
->A|**Arc long**. +4, 45/180 m, 1d8 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Fléau de la folie**. +9, 1,50 m, 1d10+5 contondants  
+>Action|**Fléau de la souffrance**. +9, 1,50 m, 1d10+5 contondants  
+>Action|**Fléau de la paralysie**. +9, 1,50 m, 1d10+5 contondants  
+>Action|**Arc long**. +4, 45/180 m, 1d8 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -15982,8 +15982,8 @@ ___
 >**Télépathie avancée**.  
 >**Handicap à terre**.  
 >**Voile télépathique**.  
->A|**Vrilles**. +4, 1,50 m, 1d4+2 perforants  
->A|**Vaporisation nauséabonde (1/jour)**.  
+>Action|**Vrilles**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Vaporisation nauséabonde (1/jour)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -16011,10 +16011,10 @@ ___
 >**Langues** géant, commun des profondeurs  
 >**Puissance** 8 (3900 PX)
 >
->_A|**Attaques multiples**.  
->A|**Massue**. +9, 4,50 m, 3d8+6 contondants  
->A|**Mauvais Œil**.  
->A|**Malédiction du mauvais oeil (Recharge après un repos court ou long)**.  
+>_Action|**Attaques multiples**.  
+>Action|**Massue**. +9, 4,50 m, 3d8+6 contondants  
+>Action|**Mauvais Œil**.  
+>Action|**Malédiction du mauvais oeil (Recharge après un repos court ou long)**.  
 >La créature transformée peut retenter son jet de sauvegarde chaque fois qu'elle finit un repos long, mettant fin à l'effet qui l'affecte en cas de réussite.  
 >
 >_Monster Manual_
@@ -16045,9 +16045,9 @@ ___
 >**Bonus de maîtrise** +2_
 >
 >**Compétence secrète**.  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
->A|**Poussière de pixie (1/jour)**.  
->A|**Incantation**.  
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Poussière de pixie (1/jour)**.  
+>Action|**Incantation**.  
 >À volonté : _lumières dansantes,
 >
 >Extra (Adventurers League)
@@ -16198,10 +16198,10 @@ ___
 >
 >**Amphibien**.  
 >**Vulnérabilité à l'électrocution**.  
->A|**Attaques multiples**.  
->A|**Tentacule**. +10, 6 m, 3d8+6 contondants  
->A|**Morsure**. +10, 1,50 m, 3d10+6 perforants  
->A|**Langue**.  
+>Action|**Attaques multiples**.  
+>Action|**Tentacule**. +10, 6 m, 3d8+6 contondants  
+>Action|**Morsure**. +10, 1,50 m, 3d10+6 perforants  
+>Action|**Langue**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -16233,8 +16233,8 @@ ___
 >
 >**Apparence trompeuse**.  
 >**Charge en roulade**.  
->A|**Coup**. +8, 1,50 m, 2d6+5 contondants  
->A|**Animation de rochers (1/jour)**.  
+>Action|**Coup**. +8, 1,50 m, 2d6+5 contondants  
+>Action|**Animation de rochers (1/jour)**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -16271,9 +16271,9 @@ ___
 >Niv 2 (3) : _cécité/surdité, silence_  
 >Niv 3 (2) : _communication à distance, esprits gardiens_  
 >**Discipline tactique**.  
->A|**Attaques multiples**.  
->A|**Masse d'armes**. +7, 1,50 m, 1d6+4 contondants  
->A|**Éclair traçant (sort de niveau 1 ; requiert un de sort)**. +7, 36 m, 4d6 radiants  
+>Action|**Attaques multiples**.  
+>Action|**Masse d'armes**. +7, 1,50 m, 1d6+4 contondants  
+>Action|**Éclair traçant (sort de niveau 1 ; requiert un de sort)**. +7, 36 m, 4d6 radiants  
 >
 >
 >Adventures (Descent into Avernus)
@@ -16302,7 +16302,7 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 1/8 (25 PX)
 >
->A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
+>Action|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -16333,9 +16333,9 @@ ___
 >**Lien**.  
 >**Régénération**.  
 >**Réservoir de sort**.  
->A|**Attaques multiples**.  
->A|**Poing**. +7, 1,50 m, 2d6+4 contondants  
->R|**Bouclier**.  
+>Action|**Attaques multiples**.  
+>Action|**Poing**. +7, 1,50 m, 2d6+4 contondants  
+>Réaction|**Bouclier**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -16365,9 +16365,9 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Apparence trompeuse**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +4, 1,50 m, 1d6+2 tranchants  
->A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +4, 1,50 m, 1d6+2 tranchants  
+>Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -16398,9 +16398,9 @@ ___
 >**Métamorphe**.  
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.  
->A|**Morsure (forme de chacal ou hybride uniquement)**. +4, 1,50 m, 1d4+2 perforants  
->A|**Cimeterre (forme humanoïde ou hybride uniquement)**. +4, 1,50 m, 1d6+2 tranchants  
->A|**Regard soporifique**.  
+>Action|**Morsure (forme de chacal ou hybride uniquement)**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Cimeterre (forme humanoïde ou hybride uniquement)**. +4, 1,50 m, 1d6+2 tranchants  
+>Action|**Regard soporifique**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -16466,14 +16466,14 @@ ___
 >
 >**Regard étourdissant**.  
 >**Spasmes d'agonie**.  
->A|**Morsure**. +6, 1,50 m, 2d8 perforants  
->A|**Rayons oculaires**.  
->A|**1- Rayon d'absorption de la magie**.  
->A|**2- Rayon affaiblissant**.  
->A|**3- Rayon répulsif**.  
->A|**4- Rayon de feu**.  
->A|**5- Rayon paralysant**.  
->A|**6- Rayon de sommeil**.  
+>Action|**Morsure**. +6, 1,50 m, 2d8 perforants  
+>Action|**Rayons oculaires**.  
+>Action|**1- Rayon d'absorption de la magie**.  
+>Action|**2- Rayon affaiblissant**.  
+>Action|**3- Rayon répulsif**.  
+>Action|**4- Rayon de feu**.  
+>Action|**5- Rayon paralysant**.  
+>Action|**6- Rayon de sommeil**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -16539,12 +16539,12 @@ ___
 >
 >**Agressif**.  
 >**Imitation**.  
->A|**Morsure**.  
->A|**Rayons oculaires**.  
->A|**1- Rayon étourdissant**.  
->A|**2- Rayon de la peur**.  
->A|**3- Rayon de givre**.  
->A|**4- Rayon télékinétique**.  
+>Action|**Morsure**.  
+>Action|**Rayons oculaires**.  
+>Action|**1- Rayon étourdissant**.  
+>Action|**2- Rayon de la peur**.  
+>Action|**3- Rayon de givre**.  
+>Action|**4- Rayon télékinétique**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -16572,9 +16572,9 @@ ___
 >**Langues** géant  
 >**Puissance** 5 (1800 PX)
 >
->A|**Attaques multiples**.  
->A|**Massue**. +8, 3 m, 3d8+5 contondants  
->A|**Rocher**. +8, 18/72 m, 3d10+5 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Massue**. +8, 3 m, 3d8+5 contondants  
+>Action|**Rocher**. +8, 18/72 m, 3d10+5 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -16602,8 +16602,8 @@ ___
 >**Puissance** 1 (100 PX)
 >
 >**Attaques multiples**.  
->A|**Massue**. +4, 1,50 m, 1d6+2 contondants  
->A|**Rocher**. +4, 6/18 m, 1d8+2 contondants  
+>Action|**Massue**. +4, 1,50 m, 1d6+2 contondants  
+>Action|**Rocher**. +4, 6/18 m, 1d8+2 contondants  
 >
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
@@ -16637,9 +16637,9 @@ ___
 >À volonté : _détection de la magie, lumière_  
 >3/jour chacun : _foulée brumeuse, télékinésie_  
 >1/jour chacun : _contrôle du climat, forme gazeuse_  
->A|**Attaques multiples**.  
->A|**Morgenstern**. +12, 3 m, 3d8+8 perforants  
->A|**Rocher**. +12, 18/72 m, 4d10+8 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Morgenstern**. +12, 3 m, 3d8+8 perforants  
+>Action|**Rocher**. +12, 18/72 m, 4d10+8 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -16713,10 +16713,10 @@ ___
 >Niv 2 (3) : _invisibilité, suggestion_  
 >Niv 3 (2) : _don des langues_  
 >**Odorat aiguisé**.  
->A|**Attaques multiples**.  
->A|**Morgenstern**. +12, 3 m, 3d8+8 contondants  
->A|**Rocher**. +12, 18/72 m, 4d10+8 contondants  
->A|**Changement de forme**.  
+>Action|**Attaques multiples**.  
+>Action|**Morgenstern**. +12, 3 m, 3d8+8 contondants  
+>Action|**Rocher**. +12, 18/72 m, 4d10+8 contondants  
+>Action|**Changement de forme**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -16746,10 +16746,10 @@ ___
 >**Puissance** 7 (2900 PX)
 >
 >**Camouflage dans les rochers**.  
->A|**Attaques multiples**.  
->A|**Massue**. +9, 4,50 m, 3d8+6 contondants  
->A|**Rocher**. +9, 18/72 m, 4d10+6 contondants  
->R|**Réception de rocher**.  
+>Action|**Attaques multiples**.  
+>Action|**Massue**. +9, 4,50 m, 3d8+6 contondants  
+>Action|**Rocher**. +9, 18/72 m, 4d10+6 contondants  
+>Réaction|**Réception de rocher**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -16814,10 +16814,10 @@ ___
 >**Puissance** 10 (5900 PX)
 >
 >**Charme d'onirien**.  
->A|**Attaques multiples**.  
->A|**Massue**. +10, 4,50 m, 3d8+6 contondants  
->A|**Contact pétrifiant**.  
->A|**Rocher**. +10, 18/72 m, 4d10+6 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Massue**. +10, 4,50 m, 3d8+6 contondants  
+>Action|**Contact pétrifiant**.  
+>Action|**Rocher**. +10, 18/72 m, 4d10+6 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -16852,10 +16852,10 @@ ___
 >**Incantation innée**.  
 >À volonté : _détection de la magie, lévitation, lumière_  
 >3/jour chacun : _contrôle du climat, respiration aquatique_  
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +14, 3 m, 6d6+9 tranchants  
->A|**Rocher**. +14, 18/72 m, 4d12+9 contondants  
->A|**Frappe foudroyante (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +14, 3 m, 6d6+9 tranchants  
+>Action|**Rocher**. +14, 18/72 m, 4d12+9 contondants  
+>Action|**Frappe foudroyante (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -16924,12 +16924,12 @@ ___
 >**Puissance** 16 (15000 PX)
 >
 >**Amphibien**.  
->A|**Attaques multiples**.  
->A|**Épée de foudre**. +14, 4,50 m, 9d6+9 foudre  
->A|**Javeline de vent**.  
->L|**Rafale de vent**.  
->L|**Foudre (2 actions)**.  
->L|**Maître des tempêtes (3 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée de foudre**. +14, 4,50 m, 9d6+9 foudre  
+>Action|**Javeline de vent**.  
+>Action Légendaire|**Rafale de vent**.  
+>Action Légendaire|**Foudre (2 actions)**.  
+>Action Légendaire|**Maître des tempêtes (3 actions)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -16959,9 +16959,9 @@ ___
 >**Langues** géant  
 >**Puissance** 9 (5000 PX)
 >
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +11, 3 m, 6d6+7 tranchants  
->A|**Rocher**. +11, 18/72 m, 4d10+7 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +11, 3 m, 6d6+7 tranchants  
+>Action|**Rocher**. +11, 18/72 m, 4d10+7 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -17026,10 +17026,10 @@ ___
 >**Puissance** 14 (11500 PX)
 >
 >**Double boucliers**.  
->A|**Attaques multiples**.  
->A|**Bouclier de feu**.  
->A|**Rocher**. +13, 18/72 m, 4d10+8 contondants  
->A|**Charge avec bouclier**.  
+>Action|**Attaques multiples**.  
+>Action|**Bouclier de feu**.  
+>Action|**Rocher**. +13, 18/72 m, 4d10+8 contondants  
+>Action|**Charge avec bouclier**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -17059,9 +17059,9 @@ ___
 >**Langues** géant  
 >**Puissance** 8 (3900 PX)
 >
->A|**Attaques multiples**.  
->A|**Hache à deux mains**. +9, 3 m, 3d12+6 tranchants  
->A|**Rocher**. +9, 18/72 m, 4d10+6 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Hache à deux mains**. +9, 3 m, 3d12+6 tranchants  
+>Action|**Rocher**. +9, 18/72 m, 4d10+6 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -17129,9 +17129,9 @@ ___
 >**Têtes supplémentaires**.  
 >**Régénération**.  
 >**Rage de Vaprak (Recharge après un repos court ou long)**.  
->A|**Attaques multiples**.  
->A|**Hache à deux mains**. +11, 3 m, 3d12+7 tranchants  
->A|**Rocher**. +11, 18/72 m, 4d10+7 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Hache à deux mains**. +11, 3 m, 3d12+7 tranchants  
+>Action|**Rocher**. +11, 18/72 m, 4d10+7 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -17163,8 +17163,8 @@ ___
 >
 >**Informe**.  
 >**Pattes d'araignée**.  
->A|**Pseudopode**. +4, 1,50 m, 2d6+2 contondants  
->R|**Division**.  
+>Action|**Pseudopode**. +4, 1,50 m, 2d6+2 contondants  
+>Réaction|**Division**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -17378,9 +17378,9 @@ ___
 >
 >**Agressif**.  
 >**Odorat aiguisé**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +6, 1,50 m, 1d6+4 perforants  
->A|**Griffes**. +6, 3 m, 1d6+4 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +6, 1,50 m, 1d6+4 perforants  
+>Action|**Griffes**. +6, 3 m, 1d6+4 tranchants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -17412,8 +17412,8 @@ ___
 >À volonté : _main de mage_ (la main est invisible)  
 >3/jour chacun : _foulée brumeuse, antidétection_ (personnel uniquement), _don des langues_  
 >1/jour chacun : _télékinésie_  
->A|**Attaques multiples**.  
->A|**Épée à deux mains en argent**. +9, 1,50 m, 2d6+6 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains en argent**. +9, 1,50 m, 2d6+6 tranchants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -17583,8 +17583,8 @@ ___
 >**Incantation innée (psioniques)**.  
 >À volonté : _main de mage_ (la main est invisible)  
 >3/jour chacun : _foulée brumeuse, antidétection_ (personnel uniquement)  
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +4, 1,50 m, 2d6+2 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +4, 1,50 m, 2d6+2 tranchants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -17825,8 +17825,8 @@ ___
 >À volonté : _main de mage_ (la main est invisible)  
 >3/jour chacun : _bouclier_  
 >**Défense psychique**.  
->A|**Attaques multiples**.  
->A|**Attaque à mains nues**. +4, 1,50 m, 1d8+2 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Attaque à mains nues**. +4, 1,50 m, 1d8+2 contondants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -17860,8 +17860,8 @@ ___
 >3/jour chacun : _bouclier_  
 >1/jour chacun : _changement de plan_  
 >**Défense psychique**.  
->A|**Attaques multiples**.  
->A|**Attaque à mains nues**. +7, 1,50 m, 2d6+4 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Attaque à mains nues**. +7, 1,50 m, 2d6+4 contondants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -17896,9 +17896,9 @@ ___
 >À volonté : _ténèbres, détection de la magie, dissipation de la magie_  
 >1/jour chacun : _mot de pouvoir étourdissant_  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Pinces**. +9, 3 m, 2d10+5 contondants  
->A|**Poing**. +9, 1,50 m, 2d4+2 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Pinces**. +9, 3 m, 2d10+5 contondants  
+>Action|**Poing**. +9, 1,50 m, 2d4+2 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -17928,10 +17928,10 @@ ___
 >
 >**Brave**.  
 >**Brutal**.  
->A|**Attaques multiples**.  
->A|**Lance**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants  
->A|**Coup de bouclier**. +7, 1,50 m, 2d4+4 contondants  
->R|**Parade**.  
+>Action|**Attaques multiples**.  
+>Action|**Lance**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants  
+>Action|**Coup de bouclier**. +7, 1,50 m, 2d4+4 contondants  
+>Réaction|**Parade**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -17958,9 +17958,9 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Déchaîné**.  
->A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
->A|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
->A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
+>Action|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -18021,10 +18021,10 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Déchaîné**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Rush soudain**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Rush soudain**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -18086,10 +18086,10 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Déchaîné**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
->A|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
->A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
+>Action|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -18118,9 +18118,9 @@ ___
 >**Puissance** 4 (1100 PX)
 >
 >**Déchaîné**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +5, 1,50 m, 1d8+3 tranchants  
->A|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +5, 1,50 m, 1d8+3 tranchants  
+>Action|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -18185,10 +18185,10 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Déchaîné**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
->A|**Gourdin**. +4, 1,50 m, 1d4+2 contondants  
->R|**Frappe vengeresse**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Gourdin**. +4, 1,50 m, 1d4+2 contondants  
+>Réaction|**Frappe vengeresse**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -18216,11 +18216,11 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Déchaîné**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
->A|**Coutille**. +5, 3 m, 1d10+3 tranchants  
->A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
->A|**Incitation au déchaînement (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Coutille**. +5, 3 m, 1d10+3 tranchants  
+>Action|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
+>Action|**Incitation au déchaînement (Recharge 5-6)**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -18253,8 +18253,8 @@ ___
 >**Incantation innée**.  
 >À volonté : _antidétection_ (personnel uniquement)  
 >1/jour chacun : _cécité/surdité, déguisement_  
->A|**Pic de guerre**. +4, 1,50 m, 1d8+2 perforants  
->A|**Dard empoisonné**. +4, 9/36 m, 1d4+2 perforants  
+>Action|**Pic de guerre**. +4, 1,50 m, 1d8+2 perforants  
+>Action|**Dard empoisonné**. +4, 9/36 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -18282,8 +18282,8 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Fuite agile**.  
->A|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants  
->A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
+>Action|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants  
+>Action|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -18311,10 +18311,10 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Fuite agile**.  
->A|**Attaques multiples**.  
->A|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants  
->A|**Javeline**. +2, 1,50 m ou 9/36 m, 1d6 perforants  
->R|**Attaque redirigée**.  
+>Action|**Attaques multiples**.  
+>Action|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants  
+>Action|**Javeline**. +2, 1,50 m ou 9/36 m, 1d6 perforants  
+>Réaction|**Attaque redirigée**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -18344,8 +18344,8 @@ ___
 >
 >**Attaque surprise**.  
 >**Brutal**.  
->A|**Morgenstern**. +4, 1,50 m, 2d8+2 perforants  
->A|**Javeline**. +4, 1,50 m ou 9/36 m, 2d6+2 perforants  
+>Action|**Morgenstern**. +4, 1,50 m, 2d8+2 perforants  
+>Action|**Javeline**. +4, 1,50 m ou 9/36 m, 2d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -18375,9 +18375,9 @@ ___
 >**Attaque surprise**.  
 >**Brutal**.  
 >**Cœur de Hruggek**.  
->A|**Attaques multiples**.  
->A|**Morgenstern**. +5, 1,50 m, 2d8+3 perforants  
->A|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morgenstern**. +5, 1,50 m, 2d8+3 perforants  
+>Action|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -18411,9 +18411,9 @@ ___
 >**Forme immuable**.  
 >**Armes magiques**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Coup**. +8, 1,50 m, 2d10+5 contondants  
->A|**Hâte (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +8, 1,50 m, 2d10+5 contondants  
+>Action|**Hâte (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -18447,8 +18447,8 @@ ___
 >**Forme immuable**.  
 >**Dissimulation**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Coup**. +3, 1,50 m, 2d6+1 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +3, 1,50 m, 2d6+1 contondants  
 >
 >
 >_Extra (AideDD)_
@@ -18483,9 +18483,9 @@ ___
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Choc électrique (Recharge 4-6)**.  
->A|**Attaques multiples**.  
->A|**Coup**. +10, 1,50 m, 3d8+5 contondants  
->A|**Lance**. +10, 3 m, 3d10+5 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +10, 1,50 m, 3d8+5 contondants  
+>Action|**Lance**. +10, 3 m, 3d10+5 perforants  
 >
 >
 >_Extra (AideDD)_
@@ -18521,8 +18521,8 @@ ___
 >**Forme immuable**.  
 >**Armes magiques**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Coup**. +7, 1,50 m, 2d8+4 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +7, 1,50 m, 2d8+4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -18554,10 +18554,10 @@ ___
 >**Forme immuable**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Coup**. +13, 1,50 m, 3d8+7 contondants  
->A|**Épée**. +13, 3 m, 3d10+7 tranchants  
->A|**Souffle empoisonné (Recharge 6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +13, 1,50 m, 3d8+7 contondants  
+>Action|**Épée**. +13, 3 m, 3d10+7 tranchants  
+>Action|**Souffle empoisonné (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -18590,9 +18590,9 @@ ___
 >**Forme immuable**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Coup**. +6, 1,50 m, 3d10+5 contondants  
->A|**Vent glacial (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +6, 1,50 m, 3d10+5 contondants  
+>Action|**Vent glacial (Recharge 5-6)**.  
 >
 >
 >_Extra (AideDD)_
@@ -18625,9 +18625,9 @@ ___
 >**Forme immuable**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Coup**. +10, 1,50 m, 3d8+6 contondants  
->A|**Lenteur (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +10, 1,50 m, 3d8+6 contondants  
+>Action|**Lenteur (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -18692,9 +18692,9 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Charge écrasante**.  
->A|**Corne**. +8, 1,50 m, 2d12+5 perforants  
->A|**Sabots**. +8, 1,50 m, 2d10+5 contondants  
->A|**Souffle pétrifiant (Recharge 5-6)**.  
+>Action|**Corne**. +8, 1,50 m, 2d12+5 perforants  
+>Action|**Sabots**. +8, 1,50 m, 2d10+5 contondants  
+>Action|**Souffle pétrifiant (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -18729,10 +18729,10 @@ ___
 >**Mémoire de labyrinthe**.  
 >**Résistance à la magie**.  
 >**Monstre de siège**.  
->A|**Attaques multiples**.  
->A|**Poing**. +13, 3 m, 3d8+7 contondants  
->A|**Sabots**. +13, 1,50 m, 3d10+7 contondants  
->A|**Cornes**. +13, 3 m, 7d10+7 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Poing**. +13, 3 m, 3d8+7 contondants  
+>Action|**Sabots**. +13, 1,50 m, 3d10+7 contondants  
+>Action|**Cornes**. +13, 3 m, 7d10+7 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -18761,8 +18761,8 @@ ___
 >**Langues** commun  
 >**Puissance** 1 (200 PX)
 >
->A|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
->A|**Morsure**. +2, 1,50 m, 2d6+2 perforants  
+>Action|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
+>Action|**Morsure**. +2, 1,50 m, 2d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -18924,9 +18924,9 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
->A|**Attaques multiples**.  
->A|**Poing**. +5, 1,50 m, 1d6+3 contondants  
->A|**Rocher**. +5, 7,50/15 m, 1d6+3 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Poing**. +5, 1,50 m, 1d6+3 contondants  
+>Action|**Rocher**. +5, 7,50/15 m, 1d6+3 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -19008,13 +19008,13 @@ ___
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Lame de chagrin (épée à deux mains)**. +13, 3 m, 4d6+6 tranchants  
->A|**Téléportation**.  
->L|**Attaque**.  
->L|**Danse, ma marionnette**.  
->L|**Graine de la discorde**.  
->L|**Téléportation**.  
+>Action|**Attaques multiples**.  
+>Action|**Lame de chagrin (épée à deux mains)**. +13, 3 m, 4d6+6 tranchants  
+>Action|**Téléportation**.  
+>Action Légendaire|**Attaque**.  
+>Action Légendaire|**Danse, ma marionnette**.  
+>Action Légendaire|**Graine de la discorde**.  
+>Action Légendaire|**Téléportation**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -19071,9 +19071,9 @@ ___
 >**Langues** grell  
 >**Puissance** 3 (700 PX)
 >
->A|**Attaques multiples**.  
->A|**Tentacules**. +4, 3 m, 1d10+2 perforants  
->A|**Bec**. +4, 1,50 m, 2d4+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Tentacules**. +4, 3 m, 1d10+2 perforants  
+>Action|**Bec**. +4, 1,50 m, 2d4+2 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -19131,8 +19131,8 @@ ___
 >
 >**Amphibien**.  
 >**Saut sans élan**.  
->A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
->A|**Engloutissement**.  
+>Action|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
+>Action|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -19160,9 +19160,9 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Camouflage dans les rochers**.  
->A|**Attaques multiples**.  
->A|**Tentacules**. +4, 1,50 m, 2d6+2 tranchants  
->A|**Bec**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Tentacules**. +4, 1,50 m, 2d6+2 tranchants  
+>Action|**Bec**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -19190,10 +19190,10 @@ ___
 >**Puissance** 7 (2900 PX)
 >
 >**Camouflage dans les rochers**.  
->A|**Attaques multiples**.  
->A|**Queue**. +7, 3 m, 2d6+4 contondants  
->A|**Tentacules**. +7, 3 m, 4d8+4 tranchants  
->A|**Bec**. +7, 3 m, 2d8+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Queue**. +7, 3 m, 2d6+4 contondants  
+>Action|**Tentacules**. +7, 3 m, 4d8+4 tranchants  
+>Action|**Bec**. +7, 3 m, 2d8+4 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -19223,7 +19223,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Immunité au renvoi**.  
->A|**Griffes**.  
+>Action|**Griffes**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -19326,9 +19326,9 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Vue aiguisée**.  
->A|**Attaques multiples**.  
->A|**Bec**. +6, 1,50 m, 1d8+4 perforants  
->A|**Griffes**. +6, 1,50 m, 2d6+4 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Bec**. +6, 1,50 m, 1d8+4 perforants  
+>Action|**Griffes**. +6, 1,50 m, 2d6+4 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -19435,9 +19435,9 @@ ___
 >**Amphibien**.  
 >**Peau vénéneuse**.  
 >**Saut sans élan**.  
->A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
->A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
->A|**Gazouilli envoûtant (Recharge 6)**.  
+>Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
+>Action|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
+>Action|**Gazouilli envoûtant (Recharge 6)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -19471,7 +19471,7 @@ ___
 >**Amphibien**.  
 >**Peau vénéneuse**.  
 >**Saut sans élan**.  
->A|**Dague**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Dague**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -19547,8 +19547,8 @@ ___
 >Niv 1 (4) : _saut_  
 >Niv 2 (3) : _peau d'écorce, croissance d'épines_  
 >Niv 3 (2) : _croissance végétale_  
->A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
->A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
+>Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
+>Action|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -19615,10 +19615,10 @@ ___
 >
 >**Incantation innée**.  
 >3/jour chacun : _déguisement_ (peut prendre la forme d'un humanoïde de taille M), _nappe de brouillard_  
->A|**Attaques multiples**.  
->A|**Morsure**. +8, 1,50 m, 3d6+5 perforants  
->A|**Griffes**. +8, 1,50 m, 3d6+5 tranchants  
->A|**Étreinte excessive**. +8, 1,50 m, 9d6+5 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +8, 1,50 m, 3d6+5 perforants  
+>Action|**Griffes**. +8, 1,50 m, 3d6+5 tranchants  
+>Action|**Étreinte excessive**. +8, 1,50 m, 9d6+5 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -19692,8 +19692,8 @@ ___
 >À volonté : _rayon de givre_  
 >3/jour chacun : _cône de froid\*, tempête de grêle\*, mur de glace\*_  
 >1/jour chacun : _contrôle du climat_  
->A|**Coup**. +4, 1,50 m, 2d8+1 contondants  
->A|**Festin oppressant**.  
+>Action|**Coup**. +4, 1,50 m, 2d8+1 contondants  
+>Action|**Festin oppressant**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -19722,9 +19722,9 @@ ___
 >
 >**Amphibien**.  
 >**Apparence horrifique**.  
->A|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
->A|**Éblouissement mortel**.  
->A|**Apparence illusoire**.  
+>Action|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
+>Action|**Éblouissement mortel**.  
+>Action|**Apparence illusoire**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -19757,10 +19757,10 @@ ___
 >À volonté : _détection de la magie, projectile magique_  
 >2/jour chacun : _sommeil_  
 >**Résistance à la magie**.  
->A|**Griffes (forme de guenaude uniquement)**. +7, 1,50 m, 2d8+4 tranchants  
->A|**Changement de forme**.  
->A|**Passage dans l'éther**.  
->A|**Invasion cauchemardesque (1/jour)**.  
+>Action|**Griffes (forme de guenaude uniquement)**. +7, 1,50 m, 2d8+4 tranchants  
+>Action|**Changement de forme**.  
+>Action|**Passage dans l'éther**.  
+>Action|**Invasion cauchemardesque (1/jour)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -19791,9 +19791,9 @@ ___
 >**Incantation innée**.  
 >À volonté : _lumières dansantes, moquerie cruelle_  
 >**Imitation**.  
->A|**Griffes**. +6, 1,50 m, 2d8+4 tranchants  
->A|**Apparence illusoire**.  
->A|**Passage invisible**.  
+>Action|**Griffes**. +6, 1,50 m, 2d8+4 tranchants  
+>Action|**Apparence illusoire**.  
+>Action|**Passage invisible**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -19823,9 +19823,9 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Dard**. +7, 1,50 m, 1d8+4 perforants  
->A|**Serres-lames**. +7, 1,50 m, 2d6+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Dard**. +7, 1,50 m, 1d8+4 perforants  
+>Action|**Serres-lames**. +7, 1,50 m, 2d6+4 perforants  
 >
 >
 >Adventures (Descent into Avernus)
@@ -19853,7 +19853,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
->A|**Dard**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Dard**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -19883,7 +19883,7 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Tenacité de mort-vivant**.  
->A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
+>Action|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >
 >_Extra (AideDD)_
@@ -19912,7 +19912,7 @@ ___
 >**Puissance** 1/8 (25 PX)
 >
 >**Tactique de groupe**.  
->A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
+>Action|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -19974,7 +19974,7 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Déchaîné**.  
->A|**Morsure**. +4, 1,50 m, 2d8+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 2d8+2 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -20040,8 +20040,8 @@ ___
 >**4-5**.  
 >**6-7**.  
 >**8-10**.  
->A|**Morsure**. +8, 1,50 m, 3d6+5 perforants  
->A|**Poing**. +8, 3 m, 3d8+5 contondants  
+>Action|**Morsure**. +8, 1,50 m, 3d6+5 perforants  
+>Action|**Poing**. +8, 3 m, 3d8+5 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -20081,11 +20081,11 @@ ___
 >Niv 3 (3) : _délivrance des malédictions, don des langues_  
 >Niv 4 (3) : _invisibilité supérieure_  
 >Niv 5 (1) : _Mythes et légendes_  
->A|**Attaques multiples**.  
->A|**Griffes**. +8, 1,50 m, 2d8+4 tranchants  
->L|**Attaque avec les griffes**.  
->L|**Téléportation (coûte 2 actions)**.  
->L|**Sort (coûte 3 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +8, 1,50 m, 2d8+4 tranchants  
+>Action Légendaire|**Attaque avec les griffes**.  
+>Action Légendaire|**Téléportation (coûte 2 actions)**.  
+>Action Légendaire|**Sort (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -20150,10 +20150,10 @@ ___
 >**Langues** commun  
 >**Puissance** 1 (200 PX)
 >
->A|**Attaques multiples**.  
->A|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
->A|**Gourdin**. +3, 1,50 m, 1d4+1 contondants  
->A|**Chant captivant**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
+>Action|**Gourdin**. +3, 1,50 m, 1d4+1 contondants  
+>Action|**Chant captivant**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -20219,11 +20219,11 @@ ___
 >
 >**Métamorphe**.  
 >**Amphibien (forme hybride uniquement)**.  
->A|**Attaques multiples**.  
->A|**Hache d'armes (forme humanoïde uniquement)**. +6, 1,50 m, 1d8+4 tranchants  
->A|**Morsure (forme hybride uniquement)**. +6, 1,50 m, 1d4+4 perforants  
->A|**Griffes (forme hybride uniquement)**. +6, 1,50 m, 1d6+4 tranchants  
->A|**Hurlement psychique (forme hybride uniquement ; Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Hache d'armes (forme humanoïde uniquement)**. +6, 1,50 m, 1d8+4 tranchants  
+>Action|**Morsure (forme hybride uniquement)**. +6, 1,50 m, 1d4+4 perforants  
+>Action|**Griffes (forme hybride uniquement)**. +6, 1,50 m, 1d6+4 tranchants  
+>Action|**Hurlement psychique (forme hybride uniquement ; Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -20256,9 +20256,9 @@ ___
 >
 >**Résistance à la magie**.  
 >**Puanteur**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
->A|**Morsure**. +7, 1,50 m, 2d10+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
+>Action|**Morsure**. +7, 1,50 m, 2d10+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -20312,7 +20312,7 @@ ___
 >
 >**Charge**.  
 >**Respiration aquatique**.  
->A|**Coup de tête**. +3, 1,50 m, 1d6+1 contondants  
+>Action|**Coup de tête**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -20340,9 +20340,9 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Vue aiguisée**.  
->A|**Attaques multiples**.  
->A|**Bec**. +5, 1,50 m, 1d10+3 perforants  
->A|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Bec**. +5, 1,50 m, 1d10+3 perforants  
+>Action|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -20369,8 +20369,8 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Avantage martial**.  
->A|**Épée longue**. +3, 1,50 m, 1d8+1 tranchants  
->A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
+>Action|**Épée longue**. +3, 1,50 m, 1d8+1 tranchants  
+>Action|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -20397,10 +20397,10 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Avantage martial**.  
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +4, 1,50 m, 2d6+2 perforants  
->A|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
->A|**Commandement (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +4, 1,50 m, 2d6+2 perforants  
+>Action|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
+>Action|**Commandement (Recharge après un repos court ou long)**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -20469,7 +20469,7 @@ ___
 >Niv 2 (3) : _flèche acide de Melf, rayon ardent_  
 >Niv 3 (3) : _éclair_  
 >Niv 4 (1) : _tempête de grêle_  
->A|**Bâton**. +3, 1,50 m, 1d6+1 contondants  
+>Action|**Bâton**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -20535,10 +20535,10 @@ ___
 >Sorts mineurs (à volonté) : _coup au but_  
 >Niv 1 (3) : _déguisement, repli expéditif, image silencieuse_  
 >**Défense sans armure**.  
->A|**Attaques multiples**.  
->A|**Attaque à mains nues**. +5, 1,50 m, 1d4+3 contondants  
->A|**Fléchette**. +5, 6/18 m, 1d4+3 perforants  
->A|**Détour par les ombres**.  
+>Action|**Attaques multiples**.  
+>Action|**Attaque à mains nues**. +5, 1,50 m, 1d4+3 contondants  
+>Action|**Fléchette**. +5, 6/18 m, 1d4+3 perforants  
+>Action|**Détour par les ombres**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -20567,12 +20567,12 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Avantage martial**.  
->A|**Attaques multiples**.  
->A|**Épée longue**. +9, 1,50 m, 1d8+3 tranchants  
->A|**Coup de bouclier**. +9, 1,50 m, 1d4+3 contondants  
->A|**Javeline**. +9, 1,50 m ou 9/36 m, 1d6+3 perforants  
->A|**Commandement (Recharge après un repos court ou long)**.  
->R|**Parade**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +9, 1,50 m, 1d8+3 tranchants  
+>Action|**Coup de bouclier**. +9, 1,50 m, 1d4+3 contondants  
+>Action|**Javeline**. +9, 1,50 m ou 9/36 m, 1d6+3 perforants  
+>Action|**Commandement (Recharge après un repos court ou long)**.  
+>Réaction|**Parade**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -20601,11 +20601,11 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Apnée**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
->A|**Gourdin lesté**. +4, 1,50 m, 1d6+2 contondants  
->A|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
->A|**Bouclier à pointe**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Gourdin lesté**. +4, 1,50 m, 1d6+2 contondants  
+>Action|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
+>Action|**Bouclier à pointe**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -20638,10 +20638,10 @@ ___
 >Niv 1 (4) : _enchevêtrement, nappe de brouillard_  
 >Niv 2 (3) : _métal brûlant, croissance d'épines_  
 >Niv 3 (2) : _croissance végétale_  
->A|**Attaques multiples (forme d'homme-lézard uniquement)**.  
->A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
->A|**Griffes (forme d'homme-lézard uniquement)**. +4, 1,50 m, 1d4+2 tranchants  
->A|**Changement de forme (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples (forme d'homme-lézard uniquement)**.  
+>Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Griffes (forme d'homme-lézard uniquement)**. +4, 1,50 m, 1d4+2 tranchants  
+>Action|**Changement de forme (Recharge après un repos court ou long)**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -20670,7 +20670,7 @@ ___
 >**Puissance** 1/8 (25 PX)
 >
 >**Amphibien**.  
->A|**Lance**. +2, 1,50 m ou 6/18 m, 1d6 perforants  
+>Action|**Lance**. +2, 1,50 m ou 6/18 m, 1d6 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -20699,7 +20699,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Lien télépathique**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -20731,8 +20731,8 @@ ___
 >
 >**Résistance à la magie**.  
 >**Immunité aux sorts**.  
->A|**Attaques multiples**.  
->A|**Épée longue**. +6, 1,50 m, 1d8+4 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +6, 1,50 m, 1d8+4 tranchants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -20835,8 +20835,8 @@ ___
 >
 >**Écholocalisation**.  
 >**Audition affûtée**.  
->A|**Attaques multiples**.  
->A|**Crochet**. +6, 3 m, 2d6+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Crochet**. +6, 3 m, 2d6+4 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -20867,9 +20867,9 @@ ___
 >
 >**Brave**.  
 >**Brutal**.  
->A|**Attaques multiples**.  
->A|**Épée longue +1**. +8, 1,50 m, 2d8+5 tranchants  
->A|**Coup de bouclier**. +7, 1,50 m, 2d4+4 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue +1**. +8, 1,50 m, 2d8+5 tranchants  
+>Action|**Coup de bouclier**. +7, 1,50 m, 2d4+4 contondants  
 >
 >
 >_Extra (AideDD)_
@@ -21063,8 +21063,8 @@ ___
 >**Têtes multiples**.  
 >**Têtes réactives**.  
 >**Toujours éveillée**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +8, 3 m, 1d10+5 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +8, 3 m, 1d10+5 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -21175,7 +21175,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Tactique de groupe**.  
->A|**Morsure**. +2, 1,50 m, 1d6 perforants  
+>Action|**Morsure**. +2, 1,50 m, 1d6 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -21203,7 +21203,7 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Déchaîné**.  
->A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
+>Action|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -21268,7 +21268,7 @@ ___
 >Niv 4 (1) : _assassin imaginaire\*_  
 >\* sort d'illusion de niveau 1 ou supérieur  
 >**Déplacement (Recharge après que l'illusionniste ait lancé un sort d'illusion de niveau 1 ou supérieur)**.  
->A|**Bâton**.  
+>Action|**Bâton**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -21333,7 +21333,7 @@ ___
 >**Incantation (mage)**.  
 >Sorts mineurs (à volonté) : _lumière, trait de feu_  
 >Niv 1 (2) : _sommeil_  
->A|**Bâton**. +2, 1,50 m, 1d6 contondants  
+>Action|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -21369,7 +21369,7 @@ ___
 >**Incantation (mage)**.  
 >Sorts mineurs (à volonté) : _lumière, trait de feu_  
 >Niv 1 (2) : _mains brûlantes, sommeil_  
->A|**Bâton**. +2, 1,50 m, 1d6 contondants  
+>Action|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -21405,7 +21405,7 @@ ___
 >**Incantation (mage)**.  
 >Sorts mineurs (à volonté) : _lumière, trait de feu_  
 >Niv 1 (3) : _mains brûlantes, sommeil_  
->A|**Bâton**. +2, 1,50 m, 1d6 contondants  
+>Action|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -21441,7 +21441,7 @@ ___
 >**Incantation (mage)**.  
 >Sorts mineurs (à volonté) : _lumière, trait de feu_  
 >Niv 1 (3) : _mains brûlantes, sommeil_  
->A|**Bâton**. +2, 1,50 m, 1d6 contondants  
+>Action|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -21479,7 +21479,7 @@ ___
 >Sorts mineurs (à volonté) : _lumière, trait de feu_  
 >Niv 1 (4) : _mains brûlantes, sommeil_  
 >Niv 2 (2) : _invisibilité_  
->A|**Bâton**. +3, 1,50 m, 1d6 contondants  
+>Action|**Bâton**. +3, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -21518,7 +21518,7 @@ ___
 >Niv 1 (4) : _mains brûlantes, sommeil_  
 >Niv 2 (2) : _invisibilité_  
 >**Sorts mineurs puissants**.  
->A|**Bâton**. +3, 1,50 m, 1d6 contondants  
+>Action|**Bâton**. +3, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
@@ -21556,7 +21556,7 @@ ___
 >Niv 5 (2) : _invocation d'élémentaire\*_  
 >\* sort d'invocation de niveau 1 ou supérieur  
 >**Transport bénin (Recharge après que l'invocateur ait lancé un sort d'invocation de niveau 1 ou supérieur)**.  
->A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -21590,8 +21590,8 @@ ___
 >Niv 1 (4) : _détection du mal et du bien, éclair traçant, soins_  
 >Niv 2 (3) : _restauration partielle_  
 >Niv 3 (3) : _esprits gardiens_  
->A|**Épée longue**.  
->A|**Renvoi des morts-vivants (Recharge après un repos court ou long)**.  
+>Action|**Épée longue**.  
+>Action|**Renvoi des morts-vivants (Recharge après un repos court ou long)**.  
 >
 >
 >_Extra (AideDD)_
@@ -21751,8 +21751,8 @@ ___
 >
 >**Embuscade**.  
 >**Imitation**.  
->A|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
->A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
+>Action|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -21838,12 +21838,12 @@ ___
 >Niv 7 (1) : _forme éthérée, changement de plan_  
 >Niv 8 (1) : _contrôle du climat_  
 >Niv 9 (1) : _résurrection suprême_  
->A|**Attaques multiples**.  
->A|**Sabot**. +9, 4,50 m, 2d4+5 contondants  
->A|**Corne**. +9, 1,50 m, 2d8+5 perforants  
->L|**Détection**.  
->L|**Châtiment**.  
->L|**Déplacement**.  
+>Action|**Attaques multiples**.  
+>Action|**Sabot**. +9, 4,50 m, 2d4+5 contondants  
+>Action|**Corne**. +9, 1,50 m, 2d8+5 perforants  
+>Action Légendaire|**Détection**.  
+>Action Légendaire|**Châtiment**.  
+>Action Légendaire|**Déplacement**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -21872,8 +21872,8 @@ ___
 >
 >**Sensibilité au soleil**.  
 >**Tactique de groupe**.  
->A|**Dague**. +4, 1,50 m, 1d4+2 perforants  
->A|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
+>Action|**Dague**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -21901,8 +21901,8 @@ ___
 >
 >**Sensibilité au soleil**.  
 >**Tactique de groupe**.  
->A|**Dague**. +5, 1,50 m, 1d4+3 perforants  
->A|**Chute de pierre**. +5, , 1d6+3 contondants  
+>Action|**Dague**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Chute de pierre**. +5, , 1d6+3 contondants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -21970,8 +21970,8 @@ ___
 >**Cœur du dragon**.  
 >**Sensibilité au soleil**.  
 >**Tactique de groupe**.  
->A|**Attaques multiples**.  
->A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -22040,7 +22040,7 @@ ___
 >**Points de sorcellerie**.  
 >**Tactique de groupe**.  
 >**Sensibilité au soleil**.  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -22102,17 +22102,17 @@ ___
 >
 >**Tactique de groupe**.  
 >**Sensibilité au soleil**.  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
->A|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
->A|**Invention militaire**.  
->A|**1- Acide**. +4, 1,50/6 m, 2d6 acide  
->A|**2- Feu grégeois**. +4, 1,50/6 m, 1d4 feu  
->A|**3- Soulier de mille-pattes**.  
->A|**4- Pot de vase verte**.  
->A|**5- Pot de vers des charniers**.  
->A|**6- Scorpion sur une canne**.  
->A|**7- Putois en cage**.  
->A|**8- Nid de guêpes dans un sac**.  
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
+>Action|**Invention militaire**.  
+>Action|**1- Acide**. +4, 1,50/6 m, 2d6 acide  
+>Action|**2- Feu grégeois**. +4, 1,50/6 m, 1d4 feu  
+>Action|**3- Soulier de mille-pattes**.  
+>Action|**4- Pot de vase verte**.  
+>Action|**5- Pot de vers des charniers**.  
+>Action|**6- Scorpion sur une canne**.  
+>Action|**7- Putois en cage**.  
+>Action|**8- Nid de guêpes dans un sac**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -22182,9 +22182,9 @@ ___
 >1/jour chacun : _invocation d'élémentaire_ (comme un sort de niveau 6 ; galeb duhr, gargouille, élémentaire de terre ou xorn uniquement), _danse irrésistible d'Otto_  
 >**Camouflage dans les rochers**.  
 >**Force de la pierre**.  
->A|**Attaques multiples**.  
->A|**Massue**. +9, 1,50 m, 1d8+6 contondants  
->A|**Rocher**. +9, , 2d8+6 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Massue**. +9, 1,50 m, 1d8+6 contondants  
+>Action|**Rocher**. +9, , 2d8+6 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -22217,14 +22217,14 @@ ___
 >**Amphibien**.  
 >**Liberté de mouvement**.  
 >**Monstre de siège**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +17, 1,50 m, 3d8+10 perforants  
->A|**Tentacule**. +17, 9 m, 3d6+10 contondants  
->A|**Catapultage**.  
->A|**Tempête d'éclairs**.  
->L|**Attaque de tentacule ou Catapultage**.  
->L|**Tempête d'éclairs (coûte 2 actions)**.  
->L|**Nuage d'encre (coûte 3 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +17, 1,50 m, 3d8+10 perforants  
+>Action|**Tentacule**. +17, 9 m, 3d6+10 contondants  
+>Action|**Catapultage**.  
+>Action|**Tempête d'éclairs**.  
+>Action Légendaire|**Attaque de tentacule ou Catapultage**.  
+>Action Légendaire|**Tempête d'éclairs (coûte 2 actions)**.  
+>Action Légendaire|**Nuage d'encre (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -22446,10 +22446,10 @@ ___
 >**Perception d'un autre monde**.  
 >**Visqueux**.  
 >**Sensibilité au soleil**.  
->A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
->A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
->A|**Filet**.  
->R|**Bouclier collant**.  
+>Action|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
+>Action|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
+>Action|**Filet**.  
+>Réaction|**Bouclier collant**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -22488,9 +22488,9 @@ ___
 >Niv 3 (3) : _don des langues_  
 >Niv 4 (3) : _contrôle de l'eau, divination_  
 >Niv 5 (2) : _soins de groupe_  
->A|**Attaques multiples**.  
->A|**Sceptre**. +6, 1,50 m, 1d6+3 contondants  
->A|**Attaque à mains nues**. +6, 1,50 m, 1d4+3 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Sceptre**. +6, 1,50 m, 1d6+3 contondants  
+>Action|**Attaque à mains nues**. +6, 1,50 m, 1d4+3 contondants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -22525,9 +22525,9 @@ ___
 >**Incantation**.  
 >Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
 >Niv 1 (3) : _fléau_  
->A|**Attaques multiples**.  
->A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
->A|**Bâton à pinces**. +4, 3 m, 1d6+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Bâton à pinces**. +4, 3 m, 1d6+2 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -22728,10 +22728,10 @@ ___
 >Niv 7 (1) : _téléportation_  
 >Niv 8 (1) : _mot de pouvoir étourdissant_  
 >Niv 9 (1) : _arrêt du temps_  
->A|**Attaques multiples**.  
->A|**Cheveux d'argent**. +11, 1,50 m, 2d6 force  
->A|**Épée ardente**. +7, 1,50 m, 1d8+1 tranchants  
->A|**Feu-sorcier (Recharge après un repos long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Cheveux d'argent**. +11, 1,50 m, 2d6 force  
+>Action|**Épée ardente**. +7, 1,50 m, 1d8+1 tranchants  
+>Action|**Feu-sorcier (Recharge après un repos long)**.  
 >Tant que les flammes argentées sont présentes, elle peut effectuer les actions suivantes :  
 >
 >
@@ -22761,7 +22761,7 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Aura de meurtre**.  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >Adventures (Descent into Avernus)
 >{: .label .label.label-statblock }
@@ -22793,10 +22793,10 @@ ___
 >À volonté : _déguisement_ (n'importe quelle forme humanoïde), _image majeure_  
 >3/jour : _suggestion_  
 >1/jour : _quête_  
->A|**Attaques multiples**.  
->A|**Griffes**. +5, 1,50 m, 2d10+3 tranchants  
->A|**Dague**. +5, 1,50 m, 1d4+3 perforants  
->A|**Contact enivrant**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +5, 1,50 m, 2d10+3 tranchants  
+>Action|**Dague**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Contact enivrant**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -22831,9 +22831,9 @@ ___
 >**Amulette du rêveur**.  
 >2/jour chacun : _couronne du dément, rayon empoisonné, sommeil_  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
->A|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
+>Action|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
 >
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
@@ -22865,7 +22865,7 @@ ___
 >
 >**Vision de diable**.  
 >**Reconstitution infernale**.  
->A|**Poing**. +3, 1,50 m, 1d4 contondants  
+>Action|**Poing**. +3, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -22930,9 +22930,9 @@ ___
 >**Retraite percutante**.  
 >**Imitation**.  
 >**Déchaîné**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
->A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
+>Action|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -23040,7 +23040,7 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23066,7 +23066,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
->A|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23096,8 +23096,8 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Faux semblant**.  
->A|**Constriction**.  
->A|**Lianes enchevêtrantes**.  
+>Action|**Constriction**.  
+>Action|**Lianes enchevêtrantes**.  
 >
 >
 >Adventures (Tomb of Annihilation)
@@ -23143,11 +23143,11 @@ ___
 >Niv 8 (1) : _mot de pouvoir étourdissant_  
 >Niv 9 (1) : _mot de pouvoir mortel_  
 >**Résistance au renvoi**.  
->A|**Contact paralysant**. +12, 1,50 m, 3d6 froid  
->L|**Sort mineur**.  
->L|**Contact paralysant (coûte 2 actions)**.  
->L|**Regard effrayant (coûte 2 actions)**.  
->L|**Perturbation de la vie (coûte 3 actions)**.  
+>Action|**Contact paralysant**. +12, 1,50 m, 3d6 froid  
+>Action Légendaire|**Sort mineur**.  
+>Action Légendaire|**Contact paralysant (coûte 2 actions)**.  
+>Action Légendaire|**Regard effrayant (coûte 2 actions)**.  
+>Action Légendaire|**Perturbation de la vie (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23181,14 +23181,14 @@ ___
 >1/jour chacun : _apaisement des émotions, enchevêtrement, dissipation du mal et du bien_  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Sabots**. +7, 1,50 m, 2d6+4 contondants  
->A|**Corne**. +7, 1,50 m, 1d8+4 perforants  
->A|**Contact guérisseur (3/jour)**.  
->A|**Téléportation (1/jour)**.  
->L|**Sabots**.  
->L|**Boucliers scintillant (coûte 2 actions)**.  
->L|**Soin personnel (coûte 3 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Sabots**. +7, 1,50 m, 2d6+4 contondants  
+>Action|**Corne**. +7, 1,50 m, 1d8+4 perforants  
+>Action|**Contact guérisseur (3/jour)**.  
+>Action|**Téléportation (1/jour)**.  
+>Action Légendaire|**Sabots**.  
+>Action Légendaire|**Boucliers scintillant (coûte 2 actions)**.  
+>Action Légendaire|**Soin personnel (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23217,8 +23217,8 @@ ___
 >
 >**Apparence trompeuse**.  
 >**Régénération**.  
->A|**Contact**. +3, 1,50 m, 3d8 psychiques  
->A|**Musc jaune (3/jour)**.  
+>Action|**Contact**. +3, 1,50 m, 3d8 psychiques  
+>Action|**Musc jaune (3/jour)**.  
 >
 >
 >Adventures (Tomb of Annihilation)
@@ -23248,8 +23248,8 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Apparence trompeuse**.  
->A|**Constriction**. +4, 3 m, 2d6+2 contondants  
->A|**Enchevêtrement des plantes (Recharge 5-6)**.  
+>Action|**Constriction**. +4, 3 m, 2d6+2 contondants  
+>Action|**Enchevêtrement des plantes (Recharge 5-6)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -23309,8 +23309,8 @@ ___
 >**Tactique de groupe**.  
 >**Bond agressif**.  
 >**Saut avec élan**.  
->A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
->A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
+>Action|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23339,7 +23339,7 @@ ___
 >
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.  
->A|**Morsure**. +4, 1,50 m, 2d4+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 2d4+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23370,8 +23370,8 @@ ___
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.  
 >**Camouflage dans la neige**.  
->A|**Morsure**. +6, 1,50 m, 2d6+4 perforants  
->A|**Souffle glacé (Recharge 5-6)**.  
+>Action|**Morsure**. +6, 1,50 m, 2d6+4 perforants  
+>Action|**Souffle glacé (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23401,10 +23401,10 @@ ___
 >
 >**Métamorphe**.  
 >**Odorat et ouïe aiguisés**.  
->A|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
->A|**Morsure (forme de loup ou hybride uniquement)**. +4, 1,50 m, 1d8+2 perforants  
->A|**Griffes (forme hybride uniquement)**. +4, 1,50 m, 2d4+2 tranchants  
->A|**Lance (forme humanoïde uniquement)**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
+>Action|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
+>Action|**Morsure (forme de loup ou hybride uniquement)**. +4, 1,50 m, 1d8+2 perforants  
+>Action|**Griffes (forme hybride uniquement)**. +4, 1,50 m, 2d4+2 tranchants  
+>Action|**Lance (forme humanoïde uniquement)**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23433,7 +23433,7 @@ ___
 >
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.  
->A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
+>Action|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23538,7 +23538,7 @@ ___
 >Niv 3 (3) : _vol_  
 >Niv 4 (3) : _invisibilité supérieure, tempête de grêle_  
 >Niv 5 (1) : _cône de froid_  
->A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23837,7 +23837,7 @@ ___
 >
 >**Mort explosive**.  
 >**Illumination enflammée**.  
->A|**Contact**. +4, 1,50 m, 2d6 feu  
+>Action|**Contact**. +4, 1,50 m, 2d6 feu  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -23871,11 +23871,11 @@ ___
 >Niv 1 (4) : _mains brûlantes, détection de la magie, rayon empoisonné_ (voir "Actions" ci-dessous), _bouclier_  
 >Niv 2 (3) : _ténèbres, foulée brumeuse, rayon ardent_ (voir "Actions" ci-dessous)  
 >Niv 3 (2) : _boule de feu_  
->A|**Attaques multiples**.  
->A|**Fléau de crâne en argent**. +2, 1,50 m, 1d8 contondants  
->A|**Contact glacial (sort mineur)**. +6, 36 m, 2d8 nécrotiques  
->A|**Rayon empoisonné (sort de niveau 1 ; requiert un de sort)**. +6, 18 m, 2d8 poison  
->A|**Rayon ardent (sort de niveau 2 ; requiert un de sort)**. +6, 36 m, 2d6 feu  
+>Action|**Attaques multiples**.  
+>Action|**Fléau de crâne en argent**. +2, 1,50 m, 1d8 contondants  
+>Action|**Contact glacial (sort mineur)**. +6, 36 m, 2d8 nécrotiques  
+>Action|**Rayon empoisonné (sort de niveau 1 ; requiert un de sort)**. +6, 18 m, 2d8 poison  
+>Action|**Rayon ardent (sort de niveau 2 ; requiert un de sort)**. +6, 36 m, 2d6 feu  
 >
 >
 >Adventures (Descent into Avernus)
@@ -23907,11 +23907,11 @@ ___
 >**Bonus de maîtrise** +3
 >
 >**Évasion**.  
->A|**Attaques multiples**.  
->A|**Épée courte**. +7, 1,50 m, 1d6+4 perforants  
->A|**Arc court**. +7, 24/96 m, 1d6+4 perforants  
->B|**Action fourbe**.  
->R|**Esquive**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +7, 1,50 m, 1d6+4 perforants  
+>Action|**Arc court**. +7, 24/96 m, 1d6+4 perforants  
+>Action Bonus|**Action fourbe**.  
+>Réaction|**Esquive**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -23943,10 +23943,10 @@ ___
 >**Action fourbe**.  
 >**Évasion**.  
 >**Attaque sournoise (1/tour)**.  
->A|**Attaques multiples**.  
->A|**Épée courte**. +7, 1,50 m, 1d6+4 perforants  
->A|**Arbalète légère**. +7, 24/96 m, 1d8+4 perforants  
->R|**Esquive**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +7, 1,50 m, 1d6+4 perforants  
+>Action|**Arbalète légère**. +7, 24/96 m, 1d8+4 perforants  
+>Réaction|**Esquive**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -23984,7 +23984,7 @@ ___
 >Niv 4 (1) : _tempête de grêle_  
 >\* sort de divination de niveau 1 ou supérieur  
 >**Présage (Recharge après qu'il ait lancé un sort de divination de niveau 1 ou supérieur)**.  
->A|**Bâton**. +2, 1,50 m, 1d6 contondants  
+>Action|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >
 >_Extra (AideDD)_
@@ -24014,9 +24014,9 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Tactique de groupe**.  
->A|**Attaques multiples**.  
->A|**Masse d'armes**. +4, 1,50 m, 1d6+2 contondants  
->A|**Arbalète lourde**. +2, 30/120 m, 1d10 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Masse d'armes**. +4, 1,50 m, 1d6+2 contondants  
+>Action|**Arbalète lourde**. +2, 30/120 m, 1d10 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24043,8 +24043,8 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Charge écrasante**.  
->A|**Défenses**. +10, 3 m, 4d8+7 perforants  
->A|**Piétinement**. +10, 1,50 m, 4d10+7 contondants  
+>Action|**Défenses**. +10, 3 m, 4d8+7 perforants  
+>Action|**Piétinement**. +10, 1,50 m, 4d10+7 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24073,7 +24073,7 @@ ___
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 1/8 (25 PX)
 >
->A|**Griffes**. +2, 1,50 m, 2d4 tranchants  
+>Action|**Griffes**. +2, 1,50 m, 2d4 tranchants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -24136,8 +24136,8 @@ ___
 >
 >**Écholocalisation**.  
 >**Apparence trompeuse**.  
->A|**Écrasement**. +5, 1,50 m, 1d6+3 contondants  
->A|**Aura ténébreuse (1/jour)**.  
+>Action|**Écrasement**. +5, 1,50 m, 1d6+3 contondants  
+>Action|**Aura ténébreuse (1/jour)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24167,11 +24167,11 @@ ___
 >**Transfert de dégâts**.  
 >**Apparence trompeuse**.  
 >**Sensibilité à la lumière**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +6, 1,50 m, 2d6+3 perforants  
->A|**Queue**. +6, 3 m, 1d8+3 tranchants  
->A|**Gémissement**.  
->A|**Fantasmes (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +6, 1,50 m, 2d6+3 perforants  
+>Action|**Queue**. +6, 3 m, 1d8+3 tranchants  
+>Action|**Gémissement**.  
+>Action|**Fantasmes (Recharge après un repos court ou long)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24198,10 +24198,10 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Refloraison de piquants**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
->A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
->A|**Piquant**. +5, 30/60 m, 1d8+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
+>Action|**Piquant**. +5, 30/60 m, 1d8+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24235,9 +24235,9 @@ ___
 >À volonté : _création ou destruction d'eau, détection du mal et du bien, détection de la magie, nappe de brouillard, purification de nourriture et d'eau_  
 >3/jour chacun : _marche sur l'eau_  
 >1/jour chacun : _invocation d'élémentaire_ (élémentaire de l'eau uniquement), _contrôle de l'eau, invisibilité, changement de plan_  
->A|**Attaques multiples**.  
->A|**Trident**. +10, 1,50 m ou 6/18 m, 2d6+6 perforants  
->A|**Jet d'eau**.  
+>Action|**Attaques multiples**.  
+>Action|**Trident**. +10, 1,50 m ou 6/18 m, 2d6+6 perforants  
+>Action|**Jet d'eau**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -24271,11 +24271,11 @@ ___
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Réactif**.  
->A|**Attaques multiples**.  
->A|**Épée longue**. +9, 1,50 m, 2d8+4 tranchants  
->A|**Queue**. +9, 3 m, 2d10+4 contondants  
->A|**Téléportation**.  
->R|**Parade**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +9, 1,50 m, 2d8+4 tranchants  
+>Action|**Queue**. +9, 3 m, 2d10+4 contondants  
+>Action|**Téléportation**.  
+>Réaction|**Parade**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24382,9 +24382,9 @@ ___
 >
 >**Regard déstabilisant**.  
 >**Fouisseur**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +8, 1,50 m, 1d8+5 tranchants  
->A|**Mandibules**. +8, 1,50 m, 2d8+5 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +8, 1,50 m, 1d8+5 tranchants  
+>Action|**Mandibules**. +8, 1,50 m, 2d8+5 tranchants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -24486,10 +24486,10 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Regard pétrifiant**.  
->A|**Attaques multiples**.  
->A|**Chevelure venimeuse**. +5, 1,50 m, 1d4+2 perforants  
->A|**Épée courte**. +5, 1,50 m, 1d6+2 perforants  
->A|**Arc Long**. +5, 45/180 m, 1d8+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Chevelure venimeuse**. +5, 1,50 m, 1d4+2 perforants  
+>Action|**Épée courte**. +5, 1,50 m, 1d6+2 perforants  
+>Action|**Arc Long**. +5, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24520,8 +24520,8 @@ ___
 >
 >**Mort explosive**.  
 >**Apparence trompeuse**.  
->A|**Poing**. +3, 1,50 m, 1d6+1 contondants  
->A|**Souffle boueux (Recharge 6)**.  
+>Action|**Poing**. +3, 1,50 m, 1d6+1 contondants  
+>Action|**Souffle boueux (Recharge 6)**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -24553,8 +24553,8 @@ ___
 >
 >**Mort explosive**.  
 >**Incantation innée (1/jour)**.  
->A|**Griffes**. +4, 1,50 m, 1d4+2 tranchants  
->A|**Souffle de cendre (Recharge 6)**.  
+>Action|**Griffes**. +4, 1,50 m, 1d4+2 tranchants  
+>Action|**Souffle de cendre (Recharge 6)**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -24588,8 +24588,8 @@ ___
 >**Mort explosive**.  
 >**Apparence trompeuse**.  
 >**Incantation innée (1/jour)**.  
->A|**Griffes**. +3, 1,50 m, 1d4+1 tranchants  
->A|**Souffle de givre (Recharge 6)**.  
+>Action|**Griffes**. +3, 1,50 m, 1d4+1 tranchants  
+>Action|**Souffle de givre (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24622,8 +24622,8 @@ ___
 >**Mort explosive**.  
 >**Apparence trompeuse**.  
 >**Incantation innée (1/jour)**.  
->A|**Griffes**. +3, 1,50 m, 1d4+1 tranchants  
->A|**Souffle de feu (Recharge 6)**.  
+>Action|**Griffes**. +3, 1,50 m, 1d4+1 tranchants  
+>Action|**Souffle de feu (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24655,8 +24655,8 @@ ___
 >
 >**Mort explosive**.  
 >**Incantation innée (1/jour)**.  
->A|**Griffes**. +4, 1,50 m, 1d4+2 tranchants  
->A|**Souffle aveuglant (Recharge 6)**.  
+>Action|**Griffes**. +4, 1,50 m, 1d4+2 tranchants  
+>Action|**Souffle aveuglant (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24686,8 +24686,8 @@ ___
 >
 >**Mort explosive**.  
 >**Incantation innée (1/jour)**.  
->A|**Griffes**. +2, 1,50 m, 1d4 tranchants  
->A|**Souffle vaporeux (Recharge 6)**.  
+>Action|**Griffes**. +2, 1,50 m, 1d4 tranchants  
+>Action|**Souffle vaporeux (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24714,8 +24714,8 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Attaques multiples**.  
->A|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
->A|**Arbalète légère**. +2, 24/96 m, 1d8 perforants  
+>Action|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
+>Action|**Arbalète légère**. +2, 24/96 m, 1d8 perforants  
 >
 >
 >_Extra (AideDD)_
@@ -24891,10 +24891,10 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Amphibien**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +6, 1,50 m, 2d4+4 tranchants  
->A|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
->A|**Harpon**. +6, 1,50 m ou 6/18 m, 2d6+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +6, 1,50 m, 2d4+4 tranchants  
+>Action|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
+>Action|**Harpon**. +6, 1,50 m ou 6/18 m, 2d6+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -24927,7 +24927,7 @@ ___
 >Sorts mineurs (à volonté) : _lumière, bouffée de poison_  
 >Niv 1 (4) : _trait ensorcelé, sommeil_  
 >Niv 2 (3) : _flèche acide de Melf, sphère de feu, vision dans le noir_  
->A|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+1 perforants  
+>Action|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+1 perforants  
 >
 >
 >_Extra (AideDD)_
@@ -24964,10 +24964,10 @@ ___
 >1/jour : _brume mortelle_  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +7, 1,50 m, 2d4+4 tranchants  
->A|**Trident**. +7, 1,50 m ou 6/18 m, 1d6+4 perforants  
->A|**Téléportation**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +7, 1,50 m, 2d4+4 tranchants  
+>Action|**Trident**. +7, 1,50 m ou 6/18 m, 1d6+4 perforants  
+>Action|**Téléportation**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -25024,7 +25024,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
->A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -25058,8 +25058,8 @@ ___
 >**Collant (forme d'objet uniquement)**.  
 >**Apparence trompeuse (forme d'objet uniquement)**.  
 >**Lutteur**.  
->A|**Pseudopode**. +5, 1,50 m, 1d8+3 contondants  
->A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
+>Action|**Pseudopode**. +5, 1,50 m, 1d8+3 contondants  
+>Action|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -25119,8 +25119,8 @@ ___
 >**Charge**.  
 >**Mémoire de labyrinthe**.  
 >**Téméraire**.  
->A|**Hache à deux mains**. +6, 1,50 m, 2d12+4 tranchants  
->A|**Corne**. +6, 1,50 m, 2d8+4 perforants  
+>Action|**Hache à deux mains**. +6, 1,50 m, 2d12+4 tranchants  
+>Action|**Corne**. +6, 1,50 m, 2d8+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -25148,8 +25148,8 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Apparence trompeuse**.  
->A|**Attaques multiples**.  
->A|**Contact pourrissant**. +2, 3 m, 1d8 nécrotiques  
+>Action|**Attaques multiples**.  
+>Action|**Contact pourrissant**. +2, 3 m, 1d8 nécrotiques  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -25232,15 +25232,15 @@ ___
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Régénération**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +15, 1,50 m, 4d8+8 perforants  
->A|**Griffes**. +15, 3 m, 2d8+8 tranchants  
->A|**Fouet aux innombrables queues**. +15, 9 m, 2d4+8 tranchants  
->A|**Souffle du désespoir (Recharge 5-6)**.  
->A|**Téléportation**.  
->L|**Nuage nauséabond**.  
->L|**Téléportation**.  
->L|**Fouet**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +15, 1,50 m, 4d8+8 perforants  
+>Action|**Griffes**. +15, 3 m, 2d8+8 tranchants  
+>Action|**Fouet aux innombrables queues**. +15, 9 m, 2d4+8 tranchants  
+>Action|**Souffle du désespoir (Recharge 5-6)**.  
+>Action|**Téléportation**.  
+>Action Légendaire|**Nuage nauséabond**.  
+>Action Légendaire|**Téléportation**.  
+>Action Légendaire|**Fouet**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -25269,7 +25269,7 @@ ___
 >**Puissance** 1/8 (25 PX)
 >
 >**Odorat et ouïe aiguisés**.  
->A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
+>Action|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -25368,7 +25368,7 @@ ___
 >**Odorat et ouïe aiguisés**.  
 >**Mélange d'ombre**.  
 >**Impuissance face à la lumière du soleil**.  
->A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
+>Action|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -25484,9 +25484,9 @@ ___
 >**Langues** les langues qu'elle connaissait de son vivant  
 >**Puissance** 3 (700 PX)
 >
->A|**Attaques multiples**.  
->A|**Poings putréfiants**. +5, 1,50 m, 2d6+3 contondants  
->A|**Regard d'épouvante**.  
+>Action|**Attaques multiples**.  
+>Action|**Poings putréfiants**. +5, 1,50 m, 2d6+3 contondants  
+>Action|**Regard d'épouvante**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -25514,8 +25514,8 @@ ___
 >
 >**Esprit axiomatique**.  
 >**Désintégration**.  
->A|**Dague**. +3, 1,50 m, 1d4+1 perforants  
->A|**Javeline**. +2, 1,50 m ou 9/36 m, 1d6 perforants  
+>Action|**Dague**. +3, 1,50 m, 1d4+1 perforants  
+>Action|**Javeline**. +2, 1,50 m ou 9/36 m, 1d6 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -25653,11 +25653,11 @@ ___
 >Niv 4 (3) : _tentacules noirs d'Evard_  
 >Niv 5 (3) : _quête, scrutation_  
 >Niv 6 (1) : _chaîne d'éclairs_  
->A|**Attaques multiples**.  
->A|**Morsure**. +6, 1,50 m, 2d6+2 tranchants  
->A|**Tentacules**. +6, 1,50 m, 3d8+2 contondants  
->A|**Hypnose**.  
->R|**Renvoi de sort**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +6, 1,50 m, 2d6+2 tranchants  
+>Action|**Tentacules**. +6, 1,50 m, 3d8+2 contondants  
+>Action|**Hypnose**.  
+>Réaction|**Renvoi de sort**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -25685,7 +25685,7 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Apnée**.  
->A|**Défenses**. +4, 1,50 m, 2d4+2 perforants  
+>Action|**Défenses**. +4, 1,50 m, 2d4+2 perforants  
 >
 >
 >Adventures (Rime of the Frostmaiden)
@@ -25713,9 +25713,9 @@ ___
 >**Puissance** 4 (1100 PX)
 >
 >**Apnée**.  
->A|**Attaques multiples**.  
->A|**Coup de corps**. +8, 1,50 m, 2d8+6 contondants  
->A|**Défenses**. +8, 1,50 m, 3d6+6 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Coup de corps**. +8, 1,50 m, 2d8+6 contondants  
+>Action|**Défenses**. +8, 1,50 m, 3d6+6 perforants  
 >
 >
 >Adventures (Rime of the Frostmaiden)
@@ -25780,7 +25780,7 @@ ___
 >
 >**Bête de somme**.  
 >**Pied sûr**.  
->A|**Sabots**. +2, 1,50 m, 1d4+2 contondants  
+>Action|**Sabots**. +2, 1,50 m, 1d4+2 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -25808,9 +25808,9 @@ ___
 >
 >**Spores de détresse**.  
 >**Maladie solaire**.  
->A|**Poing**. +2, 1,50 m, 2d4 contondants  
->A|**Spores pacificatrices (3/jour)**.  
->A|**Spores de communication (3/jour)**.  
+>Action|**Poing**. +2, 1,50 m, 2d4 contondants  
+>Action|**Spores pacificatrices (3/jour)**.  
+>Action|**Spores de communication (3/jour)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -25839,8 +25839,8 @@ ___
 >
 >**Spores de détresse**.  
 >**Maladie solaire**.  
->A|**Poing**.  
->A|**Spores de communication (3/jour)**.  
+>Action|**Poing**.  
+>Action|**Spores de communication (3/jour)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -25869,12 +25869,12 @@ ___
 >
 >**Spores de détresse**.  
 >**Maladie solaire**.  
->A|**Attaques multiples**.  
->A|**Poing**. +3, 1,50 m, 3d4+1 contondants  
->A|**Spores réanimatrices (3/jour)**.  
->A|**Spores hallucinogènes**.  
->A|**Spores pacificatrices**.  
->A|**Spores de communication**.  
+>Action|**Attaques multiples**.  
+>Action|**Poing**. +3, 1,50 m, 3d4+1 contondants  
+>Action|**Spores réanimatrices (3/jour)**.  
+>Action|**Spores hallucinogènes**.  
+>Action|**Spores pacificatrices**.  
+>Action|**Spores de communication**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -25990,7 +25990,7 @@ ___
 >Niv 3 (3) : _éclair, respiration aquatique_  
 >Niv 4 (3) : _flétrissement, porte dimensionnelle_  
 >Niv 5 (2) : _domination de personne_  
->A|**Morsure**. +7, 3 m, 1d6+4 perforants  
+>Action|**Morsure**. +7, 3 m, 1d6+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -26028,8 +26028,8 @@ ___
 >Niv 4 (3) : _liberté de mouvement_  
 >Niv 5 (2) : _quête_  
 >Niv 6 (1) : _vision suprême_  
->A|**Morsure**. +8, 3 m, 1d8+4 perforants  
->A|**Crachat empoisonné**.  
+>Action|**Morsure**. +8, 3 m, 1d8+4 perforants  
+>Action|**Crachat empoisonné**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -26068,7 +26068,7 @@ ___
 >Niv 1 (4) : _sommeil_  
 >Niv 2 (3) : _détection des pensées, immobilisation de personne_  
 >Niv 3 (2) : _éclair_  
->A|**Morsure**. +5, 3 m, 2d6+3 perforants
+>Action|**Morsure**. +5, 3 m, 2d6+3 perforants
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -26167,11 +26167,11 @@ ___
 >**Puissance** 13 (10000 PX)
 >
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +10, 3 m, 3d6+5 tranchants  
->A|**Morsure**. +10, 1,50 m, 5d10+5 perforants  
->A|**Nimbe d'horreur (Recharge 5-6)**.  
->A|**Téléportation**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +10, 3 m, 3d6+5 tranchants  
+>Action|**Morsure**. +10, 1,50 m, 5d10+5 perforants  
+>Action|**Nimbe d'horreur (Recharge 5-6)**.  
+>Action|**Téléportation**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -26244,11 +26244,11 @@ ___
 >**Sens diaboliques**.  
 >**Harnachement infernal**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Lance d'arçon des feux de l'enfer**. +10, 3 m, 1d12+5 perforants  
->A|**Commandement infernal**.  
->A|**Commandement terrifiant**.  
->A|**Guérison (1/jour)**.  
+>Action|**Attaques multiples**.  
+>Action|**Lance d'arçon des feux de l'enfer**. +10, 3 m, 1d12+5 perforants  
+>Action|**Commandement infernal**.  
+>Action|**Commandement terrifiant**.  
+>Action|**Guérison (1/jour)**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -26288,7 +26288,7 @@ ___
 >Niv 6 (1) : _cercle de mort\*_  
 >\* sort de nécromancie de niveau 1 ou supérieur  
 >**Sinistre moisson (1/tour)**.  
->A|**Toucher flétrissant**. +7, 1,50 m, 2d4 nécrotiques  
+>Action|**Toucher flétrissant**. +7, 1,50 m, 2d4 nécrotiques  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -26316,8 +26316,8 @@ ___
 >**Langues** abyssal, commun, infernal  
 >**Puissance** 1/2 (100 PX)
 >
->A|**Fléau de crâne**. +2, 1,50 m, 1d8 contondants  
->A|**Griffes de la tombe**. +5, 27 m, 2d4+3 nécrotiques  
+>Action|**Fléau de crâne**. +2, 1,50 m, 1d8 contondants  
+>Action|**Griffes de la tombe**. +5, 27 m, 2d4+3 nécrotiques  
 >
 >
 >Adventures (Descent into Avernus)
@@ -26350,10 +26350,10 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Sensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Absorption de vie**. +4, 1,50 m, 1d6+2 nécrotiques  
->A|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
->A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Absorption de vie**. +4, 1,50 m, 1d6+2 nécrotiques  
+>Action|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
+>Action|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -26445,7 +26445,7 @@ ___
 >
 >**Résistance mentale**.  
 >**Pattes d'araignée**.  
->A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
+>Action|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -26475,10 +26475,10 @@ ___
 >
 >**Résistance mentale**.  
 >**Pattes d'araignée**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
->A|**Griffes**. +5, 1,50 m, 2d4+3 tranchants  
->A|**Asservissement (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Griffes**. +5, 1,50 m, 2d4+3 tranchants  
+>Action|**Asservissement (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -26550,10 +26550,10 @@ ___
 >**Incantation**.  
 >Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 mètres, bonus de +4 à chaque jet de dégâts), _moquerie cruelle_  
 >Nivx 1-4 (2 de niveau 4) : _voracité de Hadar, invisibilité, serviteur invisible_  
->A|**Attaques multiples**.  
->A|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
->A|**Griffes**. +5, 1,50 m, 2d4+3 tranchants  
->A|**Asservissement (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Griffes**. +5, 1,50 m, 2d4+3 tranchants  
+>Action|**Asservissement (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -26619,8 +26619,8 @@ ___
 >À volonté : _lévitation_  
 >1/jour chacun : _télékinésie_  
 >**Résistance à la magie**.  
->A|**Tentacules**. +13, 4,50 m, 3d8+8 contondants  
->A|**Souffle d'acide (Recharge 5-6)**.  
+>Action|**Tentacules**. +13, 4,50 m, 3d8+8 contondants  
+>Action|**Souffle d'acide (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -26650,9 +26650,9 @@ ___
 >
 >**Défense sans armure**.  
 >**Déplacement sans armure**.  
->A|**Attaques multiples**.  
->A|**Mains nues**. +4, 1,50 m, 1d6+2 contondants  
->R|**Parade**.  
+>Action|**Attaques multiples**.  
+>Action|**Mains nues**. +4, 1,50 m, 1d6+2 contondants  
+>Réaction|**Parade**.  
 >
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
@@ -26683,7 +26683,7 @@ ___
 >**Puissance** 1/8 (25 PX)
 >
 >**Apparence trompeuse**.  
->A|**Griffes**. +3, 1,50 m, 1d4+1 perforants  
+>Action|**Griffes**. +3, 1,50 m, 1d4+1 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -26749,9 +26749,9 @@ ___
 >1/jour : _confusion_  
 >**Nilebogisme**.  
 >**Fuite agile**.  
->A|**Sceptre du sot**. +4, 1,50 m, 1d6+2 contondants  
->A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
->R|**Revers de fortune**.  
+>Action|**Sceptre du sot**. +4, 1,50 m, 1d6+2 contondants  
+>Action|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
+>Réaction|**Revers de fortune**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -26779,8 +26779,8 @@ ___
 >**Langues** deux langues au choix  
 >**Puissance** 1/8 (25 PX)
 >
->A|**Rapière**. +3, 1,50 m, 1d8+1 perforants  
->R|**Parade**.  
+>Action|**Rapière**. +3, 1,50 m, 1d8+1 perforants  
+>Réaction|**Parade**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -26808,10 +26808,10 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Vue aiguisée**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +4, 1,50 m, 1d6+3 tranchants  
->A|**Regard de putréfaction**.  
->A|**Intuition mystérieuse**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +4, 1,50 m, 1d6+3 tranchants  
+>Action|**Regard de putréfaction**.  
+>Action|**Intuition mystérieuse**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -26841,7 +26841,7 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Nuée**.  
->A|**Morsures**. +3, 0 m, 4d4 perforants  
+>Action|**Morsures**. +3, 0 m, 4d4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -26872,7 +26872,7 @@ ___
 >**Écholocalisation**.  
 >**Ouïe aiguisée**.  
 >**Nuée**.  
->A|**Morsures**. +4, 0 m, 2d4 perforants  
+>Action|**Morsures**. +4, 0 m, 2d4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -26902,7 +26902,7 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Nuée**.  
->A|**Becs**. +4, 1,50 m, 2d6 perforants  
+>Action|**Becs**. +4, 1,50 m, 2d6 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -26931,7 +26931,7 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Nuée**.  
->A|**Cimeterre minuscule**. +3, 0 m, 4d4 tranchants  
+>Action|**Cimeterre minuscule**. +3, 0 m, 4d4 tranchants  
 >
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
@@ -26963,7 +26963,7 @@ ___
 >**Frénésie sanguinaire**.  
 >**Nuée**.  
 >**Respiration aquatique**.  
->A|**Morsures**. +5, 0 m, 4d6 perforants  
+>Action|**Morsures**. +5, 0 m, 4d6 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -26993,7 +26993,7 @@ ___
 >
 >**Odorat aiguisé**.  
 >**Nuée**.  
->A|**Morsures**. +2, 0 m, 2d6 perforants  
+>Action|**Morsures**. +2, 0 m, 2d6 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -27061,7 +27061,7 @@ ___
 >1/jour chacun : _domination de monstre_  
 >**Nuée**.  
 >**Voile télépathique**.  
->A|**Morsure**. +5, , 4d6 perforants  
+>Action|**Morsure**. +5, , 4d6 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -27091,7 +27091,7 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Nuée**.  
->A|**Morsures**. +6, 0 m, 2d6 perforants  
+>Action|**Morsures**. +6, 0 m, 2d6 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -27151,7 +27151,7 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Nuée**.  
->A|**Morsures**.  
+>Action|**Morsures**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -27185,7 +27185,7 @@ ___
 >
 >**Nuage de vermines**.  
 >**Traqueur guidé**.  
->A|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -27253,10 +27253,10 @@ ___
 >À volonté : _ténèbres, détection de la magie, invisibilité_ (personnel uniquement), _image miroir_  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +9, 1,50 m, 2d6+5 tranchants  
->A|**Hache à deux mains**. +9, 1,50 m, 2d12+5 tranchants  
->A|**Téléportation**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +9, 1,50 m, 2d6+5 tranchants  
+>Action|**Hache à deux mains**. +9, 1,50 m, 2d12+5 tranchants  
+>Action|**Téléportation**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -27287,7 +27287,7 @@ ___
 >
 >**Forme immuable**.  
 >**Danse irrépressible**.  
->A|**Coups de force**.  
+>Action|**Coups de force**.  
 >
 >
 >Rules (Tasha´s Cauldron of Everything)
@@ -27532,13 +27532,13 @@ ___
 >**Puissance** 4 (1100 PX)
 >**Bonus de maîtrise** +2
 >
->A|**Attaques multiples**.  
->A|**Rapière**. +5, , 1d8+3 perforants  
->A|**Mot déconcertant**.  
->A|**Incantation**.  
+>Action|**Attaques multiples**.  
+>Action|**Rapière**. +5, , 1d8+3 perforants  
+>Action|**Mot déconcertant**.  
+>Action|**Incantation**.  
 >À volonté : _lumières dansantes, déguisement, communication avec les animaux_  
 >1/jour chacun : _immobilisation de monstre_  
->R|**Échappatoire brumeuse (Recharge après un repos court ou long)**.  
+>Réaction|**Échappatoire brumeuse (Recharge après un repos court ou long)**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -27574,8 +27574,8 @@ ___
 >**Incantation**.  
 >Sorts mineurs (à volonté) : _décharge occulte, lumières dansantes, moquerie cruelle_  
 >Niv 1-5 (3 de niveau 5) : _domination de bête, lueurs féeriques, foulée brumeuse, apparence trompeuse_  
->A|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+2 perforants  
->R|**Échappatoire brumeuse (Recharge après un repos court ou long)**.  
+>Action|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Réaction|**Échappatoire brumeuse (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -27607,13 +27607,13 @@ ___
 >**Bonus de maîtrise** +3
 >
 >**Chance du ténébreux (Recharge après un repos court ou long)**.  
->A|**Attaques multiples**.  
->A|**Cimeterre**. +6, , 1d6+3 contondants  
->A|**Feu de l'enfer**.  
->A|**Incantation**.  
+>Action|**Attaques multiples**.  
+>Action|**Cimeterre**. +6, , 1d6+3 contondants  
+>Action|**Feu de l'enfer**.  
+>Action|**Incantation**.  
 >À volonté : _prestidigitation_  
 >1/jour chacun : _suggestion_  
->R|**Représailles fiélonnes (3/jour)**.  
+>Réaction|**Représailles fiélonnes (3/jour)**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -27650,7 +27650,7 @@ ___
 >Sorts mineurs (à volonté) : _décharge occulte, poigne électrique_  
 >Nivx 1 à 5 (4 de niveau 5) : _mains brûlantes, représailles infernales, nuage nauséabond, mur de feu_  
 >**Chance du ténébreux (Recharge après un repos court ou long)**.  
->A|**Masse d'armes**. +3, 1,50 m, 1d6 contondants  
+>Action|**Masse d'armes**. +3, 1,50 m, 1d6 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -27682,10 +27682,10 @@ ___
 >**Bonus de maîtrise** +3
 >
 >**Aura chuchotante**.  
->A|**Attaques multiples**.  
->A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+3 perforants  
->A|**Vide hurlant**.  
->A|**Incantation**.  
+>Action|**Attaques multiples**.  
+>Action|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+3 perforants  
+>Action|**Vide hurlant**.  
+>Action|**Incantation**.  
 >À volonté : _détection de la magie, assistance, lévitation, communication avec les morts_  
 >1/jour chacun : _détection des pensées, vision suprême_  
 >
@@ -27724,7 +27724,7 @@ ___
 >Sorts mineurs (à volonté) : _décharge occulte, poigne électrique_  
 >Niv 1-5 (3 de niveau 5) : _couronne du dément, détection des pensées, domination de bête, télékinésie, toucher du vampire_  
 >**Aura chuchotante**.  
->A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -27751,8 +27751,8 @@ ___
 >**Langues** commun, géant  
 >**Puissance** 2 (450 PX)
 >
->A|**Massue**. +6, 1,50 m, 2d8+4 contondants  
->A|**Javeline**. +6, 1,50 m ou 9/36 m, 2d6+4 perforants  
+>Action|**Massue**. +6, 1,50 m, 2d8+4 contondants  
+>Action|**Javeline**. +6, 1,50 m ou 9/36 m, 2d6+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28156,7 +28156,7 @@ ___
 >**Informe**.  
 >**Discrétion dans les ombres**.  
 >**Impuissance face à la lumière du soleil**.  
->A|**Absorption de Force**. +4, 1,50 m, 2d6+2 nécrotiques  
+>Action|**Absorption de Force**. +4, 1,50 m, 2d6+2 nécrotiques  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28190,7 +28190,7 @@ ___
 >**Informe**.  
 >**Discrétion dans les ombres**.  
 >**Hypersensibilité au soleil**.  
->A|**Absorption de Force**. +5, 1,50 m, 2d6+3 nécrotiques  
+>Action|**Absorption de Force**. +5, 1,50 m, 2d6+3 nécrotiques  
 >
 >
 >_Extra (AideDD)_
@@ -28228,7 +28228,7 @@ ___
 >**Hypersensibilité au soleil**.  
 >**Vision de diable**.  
 >**Passage par les ombres (3/jour)**.  
->A|**Absorption de Force**. +5, 1,50 m, 2d8+3 nécrotiques  
+>Action|**Absorption de Force**. +5, 1,50 m, 2d8+3 nécrotiques  
 >
 >
 >_Extra (AideDD)_
@@ -28263,10 +28263,10 @@ ___
 >1/jour chacun : _cône de froid, sommeil_  
 >**Armes magiques**.  
 >**Régénération**.  
->A|**Attaques multiples**.  
->A|**Griffes (forme d'oni uniquement)**. +7, 1,50 m, 1d8+4 tranchants  
->A|**Coutille**. +7, 3 m, 2d10+4 tranchants  
->A|**Changement de forme**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes (forme d'oni uniquement)**. +7, 1,50 m, 1d8+4 tranchants  
+>Action|**Coutille**. +7, 3 m, 2d10+4 tranchants  
+>Action|**Changement de forme**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28323,8 +28323,8 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Agressif**.  
->A|**Hache à deux mains**. +5, 1,50 m, 1d12+3 tranchants  
->A|**Javeline**. +5, 1,50 m ou 9/36 m, 1d6+3 perforants  
+>Action|**Hache à deux mains**. +5, 1,50 m, 1d12+3 tranchants  
+>Action|**Javeline**. +5, 1,50 m ou 9/36 m, 1d6+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28354,10 +28354,10 @@ ___
 >
 >**Agressif**.  
 >**Furie de Gruumsh**.  
->A|**Attaques multiples**.  
->A|**Hache à deux mains**.  
->A|**Lance**.  
->A|**Cri de guerre (1/jour)**.  
+>Action|**Attaques multiples**.  
+>Action|**Hache à deux mains**.  
+>Action|**Lance**.  
+>Action|**Cri de guerre (1/jour)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -28389,9 +28389,9 @@ ___
 >**Main de Shargaas**.  
 >**Vision de Shargaas**.  
 >**Tueur**.  
->A|**Cimeterre**. +5, 1,50 m, 3d6+3 tranchants  
->A|**Fléchette**. +5, 6/18 m, 3d4+3 perforants  
->A|**Voile de Shargaas (Recharge après un repos court ou long)**.  
+>Action|**Cimeterre**. +5, 1,50 m, 3d6+3 tranchants  
+>Action|**Fléchette**. +5, 6/18 m, 3d4+3 perforants  
+>Action|**Voile de Shargaas (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -28425,8 +28425,8 @@ ___
 >Niv 1 (4) : _fléau, éclair traçant_  
 >Niv 2 (3) : _lien de protection_  
 >Niv 3 (2) : _malédiction, création de nourriture et d'eau_  
->A|**Attaques multiples**.  
->A|**Griffes**. +4, 1,50 m, 1d8+2 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +4, 1,50 m, 1d8+2 tranchants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -28457,10 +28457,10 @@ ___
 >
 >**Agressif**.  
 >**Châtieur d'ennemis d'Ilneval**.  
->A|**Attaques multiples**.  
->A|**Épée longue**. +5, 1,50 m, 2d8+3 tranchants  
->A|**Javeline**. +5, 1,50 m ou 9/36 m, 1d6+3 perforants  
->A|**Injonction d'Ilneval (Recharge 4-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +5, 1,50 m, 2d8+3 tranchants  
+>Action|**Javeline**. +5, 1,50 m ou 9/36 m, 1d6+3 perforants  
+>Action|**Injonction d'Ilneval (Recharge 4-6)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -28493,7 +28493,7 @@ ___
 >Sorts mineurs (à volonté) : _réparation, résistance, thaumaturgie_  
 >Niv 1 (4) : _fléau, détection de la magie, protection contre le mal et le bien_  
 >Niv 2 (3) : _cécité/surdité, silence_  
->A|**Toucher de la Main blanche**. +3, 1,50 m, 2d8 nécrotiques  
+>Action|**Toucher de la Main blanche**. +3, 1,50 m, 2d8 nécrotiques  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -28608,12 +28608,12 @@ ___
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Maître des morts-vivants**.  
->A|**Attaques multiples**.  
->A|**Baguette d'Orcus**. +19, 3 m, 3d8+8 contondants  
->A|**Queue**. +17, 3 m, 3d8+8 perforants  
->L|**Queue**.  
->L|**Un avant-goût de la non-mort**.  
->L|**Mort rampante (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Baguette d'Orcus**. +19, 3 m, 3d8+8 contondants  
+>Action|**Queue**. +17, 3 m, 3d8+8 perforants  
+>Action Légendaire|**Queue**.  
+>Action Légendaire|**Un avant-goût de la non-mort**.  
+>Action Légendaire|**Mort rampante (coûte 2 actions)**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -28642,9 +28642,9 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Agressif**.  
->A|**Attaques multiples**.  
->A|**Hache à deux mains**. +6, 1,50 m, 1d12+4 tranchants  
->A|**Javeline**. +6, 1,50 m ou 9/36 m, 1d6+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Hache à deux mains**. +6, 1,50 m, 1d12+4 tranchants  
+>Action|**Javeline**. +6, 1,50 m ou 9/36 m, 1d6+4 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -28746,10 +28746,10 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Télépathie limitée**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +6, 1,50 m, 2d8+3 perforants  
->A|**Tentacule**. +6, 3 m, 1d8+3 contondants  
->A|**Frappe tentaculaire**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +6, 1,50 m, 2d8+3 perforants  
+>Action|**Tentacule**. +6, 3 m, 1d8+3 contondants  
+>Action|**Frappe tentaculaire**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28777,9 +28777,9 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Odorat aiguisé**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +6, 1,50 m, 2d6+4 tranchants  
->A|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +6, 1,50 m, 2d6+4 tranchants  
+>Action|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28809,10 +28809,10 @@ ___
 >
 >**Métamorphe**.  
 >**Odorat aiguisé**.  
->A|**Attaques multiples**.  
->A|**Morsure (forme d'ours ou hybride uniquement)**. +7, 1,50 m, 2d10+4 perforants  
->A|**Griffes (forme d'ours ou hybride uniquement)**. +7, 1,50 m, 2d8+4 tranchants  
->A|**Hache à deux mains (forme humanoïde ou hybride uniquement)**. +7, 1,50 m, 1d12+4 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure (forme d'ours ou hybride uniquement)**. +7, 1,50 m, 2d10+4 perforants  
+>Action|**Griffes (forme d'ours ou hybride uniquement)**. +7, 1,50 m, 2d8+4 tranchants  
+>Action|**Hache à deux mains (forme humanoïde ou hybride uniquement)**. +7, 1,50 m, 1d12+4 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28840,9 +28840,9 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Odorat et vue aiguisés**.  
->A|**Attaques multiples**.  
->A|**Bec**. +7, 1,50 m, 1d10+5 perforants  
->A|**Griffes**. +7, 1,50 m, 2d8+5 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Bec**. +7, 1,50 m, 1d10+5 perforants  
+>Action|**Griffes**. +7, 1,50 m, 2d8+5 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28870,9 +28870,9 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Odorat aiguisé**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
->A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
+>Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28900,9 +28900,9 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Odorat aiguisé**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +7, 1,50 m, 2d6+5 tranchants  
->A|**Morsure**. +7, 1,50 m, 1d8+5 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +7, 1,50 m, 2d6+5 tranchants  
+>Action|**Morsure**. +7, 1,50 m, 1d8+5 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28930,8 +28930,8 @@ ___
 >
 >**Odorat ferreux**.  
 >**Oxydation**.  
->A|**Morsure**. +3, 1,50 m, 1d8+1 perforants  
->A|**Antennes**.  
+>Action|**Morsure**. +3, 1,50 m, 1d8+1 perforants  
+>Action|**Antennes**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28960,8 +28960,8 @@ ___
 >
 >**Odorat aiguisé**.  
 >**Bond agressif**.  
->A|**Griffes**. +4, 1,50 m, 1d4+2 tranchants  
->A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Griffes**. +4, 1,50 m, 1d4+2 tranchants  
+>Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -28987,7 +28987,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
->A|**Dard**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Dard**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
@@ -29016,7 +29016,7 @@ ___
 >**Langues** comprend le céleste, le commun, l'elfique et le sylvestre mais ne peut pas parler  
 >**Puissance** 2 (450 PX)
 >
->A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
+>Action|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -29045,9 +29045,9 @@ ___
 >
 >**Esprit axiomatique**.  
 >**Désintégration**.  
->A|**Attaques multiples**.  
->A|**Appendice**. +4, 1,50 m, 1d6+2 contondants  
->A|**Gaz paralysant (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Appendice**. +4, 1,50 m, 1d6+2 contondants  
+>Action|**Gaz paralysant (Recharge 5-6)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -29077,7 +29077,7 @@ ___
 >
 >**Apparence trompeuse**.  
 >**Pattes d'araignée**.  
->A|**Plongeon**. +3, , 1d6 perforants  
+>Action|**Plongeon**. +3, , 1d6 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -29109,9 +29109,9 @@ ___
 >**Attaque en piqué**.  
 >**Repli aérien**.  
 >**Odorat et vue aiguisés**.  
->A|**Attaques multiples**.  
->A|**Corne**.  
->A|**Serres**. +5, 1,50 m, 2d4+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Corne**.  
+>Action|**Serres**. +5, 1,50 m, 2d4+3 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -29352,7 +29352,7 @@ ___
 >
 >**Apparence trompeuse**.  
 >**Pattes d'araignée**.  
->A|**Étouffement**.  
+>Action|**Étouffement**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -29383,8 +29383,8 @@ ___
 >**Apnée**.  
 >**Camouflage dans l'eau**.  
 >**Respiration aquatique**.  
->A|**Tentacules**.  
->A|**Nuage d'encre (Recharges après un repos court ou long)**.  
+>Action|**Tentacules**.  
+>Action|**Nuage d'encre (Recharges après un repos court ou long)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -29414,8 +29414,8 @@ ___
 >**Apnée**.  
 >**Camouflage dans l'eau**.  
 >**Respiration aquatique**.  
->A|**Tentacules**. +5, 4,50 m, 2d6+3 contondants  
->A|**Nuage d'encre (Recharge après un repos court ou long)**.  
+>Action|**Tentacules**. +5, 4,50 m, 2d6+3 contondants  
+>Action|**Nuage d'encre (Recharge après un repos court ou long)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -29443,7 +29443,7 @@ ___
 >
 >**Frénésie sanguinaire**.  
 >**Respiration aquatique**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -29474,7 +29474,7 @@ ___
 >**Incantation innée**.  
 >À volonté : _druidisme_  
 >1/jour chacun : _lumières dansantes, détection du mal et du bien, détection des pensées, enchevêtrement, métamorphose, sommeil_  
->A|**Invisibilité supérieure**.  
+>Action|**Invisibilité supérieure**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -29512,9 +29512,9 @@ ___
 >3/jour chacun : _barrière de lames, rappel à la vie_  
 >1/jour chacun : _contrôle du climat, fléau d'insectes_  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +12, 1,50 m, 4d6+7 tranchants  
->A|**Contact guérisseur (4/jour)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +12, 1,50 m, 4d6+7 tranchants  
+>Action|**Contact guérisseur (4/jour)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -29542,7 +29542,7 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Apnée**.  
->A|**Morsure**. +6, 3 m, 3d6+4 perforants  
+>Action|**Morsure**. +6, 3 m, 3d6+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -29570,8 +29570,8 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Discipline tactique**.  
->A|**Masse d'armes**. +5, 1,50 m, 1d6+3 contondants  
->A|**Arc long**. +2, 45/180 m, 1d8 perforants  
+>Action|**Masse d'armes**. +5, 1,50 m, 1d6+3 contondants  
+>Action|**Arc long**. +2, 45/180 m, 1d8 perforants  
 >
 >
 >Adventures (Descent into Avernus)
@@ -29599,7 +29599,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
->A|**Sabots**. +4, 1,50 m, 2d4+2 contondants  
+>Action|**Sabots**. +4, 1,50 m, 2d4+2 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -29630,8 +29630,8 @@ ___
 >**Informe**.  
 >**Forme corrosive**.  
 >**Pattes d'araignée**.  
->A|**Pseudopode**. +5, 1,50 m, 1d6+3 contondants  
->R|**Division**.  
+>Action|**Pseudopode**. +5, 1,50 m, 1d6+3 contondants  
+>Réaction|**Division**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -29767,8 +29767,8 @@ ___
 >
 >**Mouvement flou**.  
 >**Esquive totale**.  
->A|**Attaques multiples**.  
->A|**Dague**. +8, 1,50 m ou 6/18 m, 1d4+6 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Dague**. +8, 1,50 m ou 6/18 m, 1d4+6 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -29802,7 +29802,7 @@ ___
 >Niv 1 (4) : _éclair traçant, soins_  
 >Niv 2 (3) : _restauration partielle_  
 >Niv 3 (2) : _esprits gardiens_  
->A|**Masse d'armes**. +2, 1,50 m, 1d6 contondants  
+>Action|**Masse d'armes**. +2, 1,50 m, 1d6 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -29831,13 +29831,13 @@ ___
 >**Puissance** 9 (5000 PX)
 >**Bonus de maîtrise** +4
 >
->A|**Attaques multiples**.  
->A|**Maillet**.  
->A|**Feu sacré**.  
->A|**Incantation**.  
+>Action|**Attaques multiples**.  
+>Action|**Maillet**.  
+>Action|**Feu sacré**.  
+>Action|**Incantation**.  
 >À volonté : _lumière, thaumaturgie_  
 >1/jour chacun : _retour à la vie_  
->B|**Lumière de guérison (Recharge 4-6)**.  
+>Action Bonus|**Lumière de guérison (Recharge 4-6)**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -29873,9 +29873,9 @@ ___
 >Niv 3 (3) : _aura du croisé, retour à la vie, marche sur l'eau_  
 >Niv 4 (3) : _liberté de mouvement, peau de pierre_  
 >Niv 5 (1) : _immobilisation de monstre_  
->A|**Attaques multiples**.  
->A|**Maillet**.  
->R|**Frappe guidée (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Maillet**.  
+>Réaction|**Frappe guidée (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -29905,14 +29905,14 @@ ___
 >**Bonus de maîtrise** +3
 >
 >**Amphibien**.  
->A|**Attaques multiples**.  
->A|**Contact tonitruant**. +5, 1,50 m, 5d10 tonnerre  
->A|**Coup de tonnerre**. +5, , 2d10 foudre  
->A|**Incantation innée**.  
+>Action|**Attaques multiples**.  
+>Action|**Contact tonitruant**. +5, 1,50 m, 5d10 tonnerre  
+>Action|**Coup de tonnerre**. +5, , 2d10 foudre  
+>Action|**Incantation innée**.  
 >À volonté : _création ou destruction d'eau_  
 >3/jour chacun : _contrôle de l'eau, ténèbres, marche sur l'eau_  
 >1/jour : _tentacules noirs d'Evard_  
->A|**Voix du kraken (Recharge après un repos court ou long)**.  
+>Action|**Voix du kraken (Recharge après un repos court ou long)**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -29946,8 +29946,8 @@ ___
 >À volonté : _création ou destruction d'eau_  
 >3/jour chacun : _contrôle de l'eau, ténèbres, marche sur l'eau_  
 >1/jour chacun : _tentacules noirs d'Evard_  
->A|**Contact tonitruant**. +5, 1,50 m, 5d10 tonnerre  
->A|**Voix du kraken (Recharge après un repos court ou long)**.  
+>Action|**Contact tonitruant**. +5, 1,50 m, 5d10 tonnerre  
+>Action|**Voix du kraken (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -30006,8 +30006,8 @@ ___
 >**Sens aiguisés**.  
 >**Résistance à la magie**.  
 >**Télépathie limitée**.  
->A|**Morsure**. +4, 1,50 m, 1d4+2 tranchants  
->A|**Dard**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 tranchants  
+>Action|**Dard**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -30035,7 +30035,7 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Repli aérien**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -30064,9 +30064,9 @@ ___
 >
 >**Esprit axiomatique**.  
 >**Désintégration**.  
->A|**Attaques multiples**.  
->A|**Coup**. +3, 1,50 m, 1d4+1 contondants  
->A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +3, 1,50 m, 1d4+1 contondants  
+>Action|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -30097,8 +30097,8 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Fureur du blessé**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -30127,8 +30127,8 @@ ___
 >**Langues** —  
 >**Puissance** 1 (200 PX)
 >
->A|**Attaques multiples**.  
->A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -30161,9 +30161,9 @@ ___
 >
 >**Métamorphe**.  
 >**Résistance à la magie**.  
->A|**Griffes (Morsure sous forme de bête)**. +4, 1,50 m, 1d4+3 perforants  
->A|**Frayeur (1/jour)**.  
->A|**Invisibilité**.  
+>Action|**Griffes (Morsure sous forme de bête)**. +4, 1,50 m, 1d4+3 perforants  
+>Action|**Frayeur (1/jour)**.  
+>Action|**Invisibilité**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -30222,7 +30222,7 @@ ___
 >
 >**Attaque en piqué**.  
 >**Repli aérien**.  
->A|**Morsure**. +4, 3 m, 3d6+2 perforants  
+>Action|**Morsure**. +4, 3 m, 3d6+2 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -30255,9 +30255,9 @@ ___
 >
 >**Apparence trompeuse**.  
 >**Communication avec les plantes**.  
->A|**Attaques multiples**.  
->A|**Liane diabolique**. +6, 3 m, 2d6+3 contondants  
->A|**Pollen diabolique (Recharge 5-6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Liane diabolique**. +6, 3 m, 2d6+3 contondants  
+>Action|**Pollen diabolique (Recharge 5-6)**.  
 >
 >
 >_Extra (AideDD)_
@@ -30287,7 +30287,7 @@ ___
 >
 >**Charge**.  
 >**Respiration aquatique**.  
->A|**Coup de tête**. +3, 1,50 m, 1d6+1 contondants  
+>Action|**Coup de tête**. +3, 1,50 m, 1d6+1 contondants  
 >
 >
 >_Extra (AideDD)_
@@ -30323,8 +30323,8 @@ ___
 >À volonté : _déguisement, détection des pensées, main de mage_  
 >3/jour chacun : _détection de la magie, invisibilité, suggestion_  
 >1/jour chacun : _vision suprême, vol_  
->A|**Attaques multiples**.  
->A|**Griffes**. +7, 1,50 m, 2d6+2 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +7, 1,50 m, 2d6+2 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -30351,7 +30351,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Odorat aiguisé**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -30409,7 +30409,7 @@ ___
 >
 >**Éclairage**.  
 >**Voile télépathique**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -30440,10 +30440,10 @@ ___
 >
 >**Métamorphe**.  
 >**Odorat aiguisé**.  
->A|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
->A|**Morsure (forme de rat ou hybride uniquement)**. +4, 1,50 m, 1d4+2 perforants  
->A|**Épée courte (forme humanoïde ou hybride uniquement)**. +4, 1,50 m, 1d6+2 perforants  
->A|**Arbalète de poing (forme humanoïde ou hybride uniquement)**. +4, 9/36 m, 1d6+2 perforants  
+>Action|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
+>Action|**Morsure (forme de rat ou hybride uniquement)**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Épée courte (forme humanoïde ou hybride uniquement)**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Arbalète de poing (forme humanoïde ou hybride uniquement)**. +4, 9/36 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -30471,7 +30471,7 @@ ___
 >
 >**Odorat aiguisé**.  
 >**Tactique de groupe**.  
->A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -30538,9 +30538,9 @@ ___
 >
 >**Régénération**.  
 >**Vers**.  
->A|**Attaques multiples**.  
->A|**Ver fouisseur**.  
->A|**Griffes**. +6, 1,50 m, 1d6+3 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Ver fouisseur**.  
+>Action|**Griffes**. +6, 1,50 m, 1d6+3 tranchants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -30599,12 +30599,12 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Amphibie limitée**.  
->A|**Attaques multiples**.  
->A|**Attaque à mains nues**. +4, 1,50 m, 1d4+2 contondants  
->A|**Anatomie de poisson**.  
->A|**Morsure**. +5, 1,50 m, 1d4+2 perforants  
->A|**Épines empoisonnées**. +5, 1,50 m, 1d6 poison  
->A|**Tentacule**. +5, 3 m, 1d6+2 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Attaque à mains nues**. +4, 1,50 m, 1d4+2 contondants  
+>Action|**Anatomie de poisson**.  
+>Action|**Morsure**. +5, 1,50 m, 1d4+2 perforants  
+>Action|**Épines empoisonnées**. +5, 1,50 m, 1d6 poison  
+>Action|**Tentacule**. +5, 3 m, 1d6+2 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -30990,8 +30990,8 @@ ___
 >**Puissance** 11 (7200 PX)
 >
 >**Corps brûlant**.  
->A|**Morsure**. +11, 3 m, 6d10+7 perforants  
->A|**Engloutissement**.  
+>Action|**Morsure**. +11, 3 m, 6d10+7 perforants  
+>Action|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31019,7 +31019,7 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Corps brûlant**.  
->A|**Morsure**. +6, 1,50 m, 3d10+4 perforants  
+>Action|**Morsure**. +6, 1,50 m, 3d10+4 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -31048,7 +31048,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Ouïe aiguisée**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >
 >Adventures (Rime of the Frostmaiden)
@@ -31079,7 +31079,7 @@ ___
 >
 >**Frénésie sanguinaire**.  
 >**Respiration aquatique**.  
->A|**Morsure**. +6, 1,50 m, 2d8+4 perforants  
+>Action|**Morsure**. +6, 1,50 m, 2d8+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31108,7 +31108,7 @@ ___
 >
 >**Tactique de groupe**.  
 >**Respiration aquatique**.  
->A|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31137,7 +31137,7 @@ ___
 >
 >**Frénésie sanguinaire**.  
 >**Respiration aquatique**.  
->A|**Morsure**. +9, 1,50 m, 3d10+6 perforants  
+>Action|**Morsure**. +9, 1,50 m, 3d10+6 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31164,8 +31164,8 @@ ___
 >**Langues** comprend le commun mais ne peut pas parler  
 >**Puissance** 1/4 (50 PX)
 >
->A|**Griffes**. +3, 1,50 m, 2d4+1 perforants  
->A|**Épines**. +3, 9/18 m, 2d6+1 perforants  
+>Action|**Griffes**. +3, 1,50 m, 2d4+1 perforants  
+>Action|**Épines**. +3, 9/18 m, 2d6+1 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -31200,9 +31200,9 @@ ___
 >**Reconstitution**.  
 >**Immunité au renvoi**.  
 >**Traqueur rancunier**.  
->A|**Attaques multiples**.  
->A|**Poing**. +7, 1,50 m, 2d6+4 contondants  
->A|**Éblouissement vengeur**.  
+>Action|**Attaques multiples**.  
+>Action|**Poing**. +7, 1,50 m, 2d6+4 contondants  
+>Action|**Éblouissement vengeur**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -31230,7 +31230,7 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Charge**.  
->A|**Corne**. +7, 1,50 m, 2d8+5 contondants  
+>Action|**Corne**. +7, 1,50 m, 2d8+5 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31259,9 +31259,9 @@ ___
 >**Puissance** 11 (7200 PX)
 >
 >**Vue aiguisée**.  
->A|**Attaques multiples**.  
->A|**Bec**. +13, 3 m, 4d8+9 perforants  
->A|**Serres**. +13, 1,50 m, 4d6+9 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Bec**. +13, 3 m, 4d8+9 perforants  
+>Action|**Serres**. +13, 1,50 m, 4d6+9 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31292,10 +31292,10 @@ ___
 >
 >**Apnée**.  
 >**Embrocher**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
->A|**Griffes**. +5, 1,50 m, 1d4+3 tranchants  
->A|**Trident**. +5, 1,50 m ou 6/18 m, 1d6+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Griffes**. +5, 1,50 m, 1d4+3 tranchants  
+>Action|**Trident**. +5, 1,50 m ou 6/18 m, 1d6+3 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -31323,7 +31323,7 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Charge**.  
->A|**Corne**. +6, 1,50 m, 1d6+4 perforants  
+>Action|**Corne**. +6, 1,50 m, 1d6+4 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -31382,7 +31382,7 @@ ___
 >
 >**Charge**.  
 >**Incantation innée**.  
->A|**Corne**. +6, 1,50 m, 1d6+4 perforants  
+>Action|**Corne**. +6, 1,50 m, 1d6+4 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -31409,7 +31409,7 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 0 (10 PX)
 >
->A|**Gourdin**. +2, 1,50 m, 1d4 contondants  
+>Action|**Gourdin**. +2, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31441,8 +31441,8 @@ ___
 >Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
 >Niv 1 (4) : _injonction_  
 >Niv 2 (3) : _immobilisation de personne_  
->A|**Attaques multiples**.  
->A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >
 >_Extra (AideDD)_
@@ -31535,12 +31535,12 @@ ___
 >**Puissance** 1/2 (100 PX)
 >**Bonus de maîtrise** +2
 >
->A|**Poigne électrique (sort mineur)**. +6, , 2d8 foudre  
->A|**Incantation**.  
+>Action|**Poigne électrique (sort mineur)**. +6, , 2d8 foudre  
+>Action|**Incantation**.  
 >À volonté : _lumière, réparation_  
 >3/jour chacun : _compréhension des langues, détection de la magie, identification_  
 >1/jour chacun : _lévitation, localisation d'objet, voir l'invisible, communication à distance, don des langues, serviteur invisible_  
->R|**Bouclier (sort de niveau 1 ; 3/jour)**.  
+>Réaction|**Bouclier (sort de niveau 1 ; 3/jour)**.  
 >
 >
 >Adventures (Candlekeep Mysteries)
@@ -31570,13 +31570,13 @@ ___
 >**Puissance** 5 (1800 PX)
 >**Bonus de maîtrise** +3
 >
->A|**Poigne électrique (sort mineur)**. +8, , 3d8 foudre  
->A|**Boule de feu (sort de niveau 3 ; 3/jour)**.  
->A|**Incantation**.  
+>Action|**Poigne électrique (sort mineur)**. +8, , 3d8 foudre  
+>Action|**Boule de feu (sort de niveau 3 ; 3/jour)**.  
+>Action|**Incantation**.  
 >À volonté : _lumière, réparation, prestidigitation_  
 >3/jour chacun : _compréhension des langues, détection de la magie, lévitation, localisation d'objet, disque flottant de Tenser, serviteur invisible_  
 >1/jour chacun : _bannissement, contact avec un autre plan, convocations instantanées de Drawmij, mythes et légendes, localisation de créature, contrat, métamorphose, scrutation, communication à distance, vision suprême_  
->R|**Bouclier (sort de niveau 1 ; 3/jour)**.  
+>Réaction|**Bouclier (sort de niveau 1 ; 3/jour)**.  
 >
 >
 >Adventures (Candlekeep Mysteries)
@@ -31608,10 +31608,10 @@ ___
 >**Frénésie sanguinaire**.  
 >**Amphibie limitée**.  
 >**Télépathie avec les requins**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
->A|**Griffes**. +3, 1,50 m, 1d4+1 tranchants  
->A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
+>Action|**Griffes**. +3, 1,50 m, 1d4+1 tranchants  
+>Action|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31642,10 +31642,10 @@ ___
 >**Frénésie sanguinaire**.  
 >**Amphibie limitée**.  
 >**Télépathie avec les requins**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
->A|**Morsure**. +7, 1,50 m, 2d4+4 perforants  
->A|**Trident**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
+>Action|**Morsure**. +7, 1,50 m, 2d4+4 perforants  
+>Action|**Trident**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -31681,9 +31681,9 @@ ___
 >Niv 1 (4) : _bénédiction, détection de la magie, éclair traçant_  
 >Niv 2 (3) : _arme spirituelle_ (trident)  
 >Niv 3 (3) : _mot de guérison de groupe, don des langues_  
->A|**Attaques multiples**.  
->A|**Griffes**. +3, 1,50 m, 1d4+1 tranchants  
->A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +3, 1,50 m, 1d4+1 tranchants  
+>Action|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -31715,9 +31715,9 @@ ___
 >
 >**Corps brûlant**.  
 >**Armes brûlantes**.  
->A|**Attaques multiples**.  
->A|**Lance**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants  
->A|**Queue**. +7, 3 m, 2d6+4 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Lance**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants  
+>Action|**Queue**. +7, 3 m, 2d6+4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31816,7 +31816,7 @@ ___
 >
 >**Charge**.  
 >**Implacable (Recharge après un repos court ou long)**.  
->A|**Défenses**. +3, 1,50 m, 1d6+1 tranchants  
+>Action|**Défenses**. +3, 1,50 m, 1d6+1 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31847,9 +31847,9 @@ ___
 >**Métamorphe**.  
 >**Charge (forme de sanglier ou hybride uniquement)**.  
 >**Férocité implacable (Recharge après un repos court ou long)**.  
->A|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
->A|**Maillet (forme humanoïde ou hybride uniquement)**. +5, 1,50 m, 2d6+3 contondants  
->A|**Défenses (forme de sanglier ou hybride uniquement)**. +5, 1,50 m, 2d6+3 tranchants  
+>Action|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
+>Action|**Maillet (forme humanoïde ou hybride uniquement)**. +5, 1,50 m, 2d6+3 contondants  
+>Action|**Défenses (forme de sanglier ou hybride uniquement)**. +5, 1,50 m, 2d6+3 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31877,7 +31877,7 @@ ___
 >
 >**Charge**.  
 >**Implacable (Recharge après un Repos court ou long)**.  
->A|**Défenses**. +5, 1,50 m, 2d6+3 tranchants  
+>Action|**Défenses**. +5, 1,50 m, 2d6+3 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31909,7 +31909,7 @@ ___
 >Sorts mineurs (à volonté) : _lumière, poigne électrique_  
 >Niv 1 (4) : _projectile magique_  
 >Niv 2 (3) : _foulée brumeuse, immobilisation de personne_  
->A|**Bâton**.  
+>Action|**Bâton**.  
 >
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
@@ -31938,9 +31938,9 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Résistance à la magie**.  
->A|**Coup de tête**.  
->A|**Épée courte**.  
->A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
+>Action|**Coup de tête**.  
+>Action|**Épée courte**.  
+>Action|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -31967,7 +31967,7 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Illumination**.
->A|**Morsure**.
+>Action|**Morsure**.
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -32020,7 +32020,7 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
->A|**Dard**.  
+>Action|**Dard**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -32046,9 +32046,9 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
->A|**Attaques multiples**.  
->A|**Pinces**. +4, 1,50 m, 1d8+2 contondants  
->A|**Dard**. +4, 1,50 m, 1d10+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Pinces**. +4, 1,50 m, 1d8+2 contondants  
+>Action|**Dard**. +4, 1,50 m, 1d10+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -32079,12 +32079,12 @@ ___
 >
 >**Inflexible (3/jour)**.  
 >**Survivant**.  
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
->A|**Arc court**. +7, 24/96 m, 1d6+3 perforants  
->L|**Commandement des alliés**.  
->L|**Attaque avec une arme**.  
->L|**Ennemi apeuré (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
+>Action|**Arc court**. +7, 24/96 m, 1d6+3 perforants  
+>Action Légendaire|**Commandement des alliés**.  
+>Action Légendaire|**Attaque avec une arme**.  
+>Action Légendaire|**Ennemi apeuré (coûte 2 actions)**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -32115,12 +32115,12 @@ ___
 >
 >**Inflexible (3/jour)**.  
 >**Survivant**.  
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
->A|**Arc court**. +7, 24/96 m, 1d6+3 perforants  
->L|**Attaque avec une arme**.  
->L|**Commandement des alliés**.  
->L|**Ennemi apeuré (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
+>Action|**Arc court**. +7, 24/96 m, 1d6+3 perforants  
+>Action Légendaire|**Attaque avec une arme**.  
+>Action Légendaire|**Commandement des alliés**.  
+>Action Légendaire|**Ennemi apeuré (coûte 2 actions)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -32244,14 +32244,14 @@ ___
 >Niv 4 (3) : _gardien de la foi_  
 >Niv 5 (2) : _fléau d'insectes_  
 >Niv 6 (1) : _contamination_  
->A|**Attaques multiples**.  
->A|**Poings putréfiants**. +9, 1,50 m, 3d6+4 contondants  
->A|**Regard d'épouvante**.  
->L|**Attaques**.  
->L|**Poussière aveuglante**.  
->L|**Blasphème (coûte 2 actions)**.  
->L|**Canalisation d'énergie négative (coûte 2 actions)**.  
->L|**Tourbillon de sable (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Poings putréfiants**. +9, 1,50 m, 3d6+4 contondants  
+>Action|**Regard d'épouvante**.  
+>Action Légendaire|**Attaques**.  
+>Action Légendaire|**Poussière aveuglante**.  
+>Action Légendaire|**Blasphème (coûte 2 actions)**.  
+>Action Légendaire|**Canalisation d'énergie négative (coûte 2 actions)**.  
+>Action Légendaire|**Tourbillon de sable (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -32323,10 +32323,10 @@ ___
 >**Métamorphe**.  
 >**Mammifère aquatique (forme de phoque ou hybride uniquement)**.  
 >**Incantation innée (1/jour ; forme humanoïde ou hybride uniquement)**.  
->A|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
->A|**Morsure (forme de phoque ou hybride uniquement)**. +4, 1,50 m, 1d4+2 perforants  
->A|**Épée courte (forme humanoïde ou hybride uniquement)**. +4, 1,50 m, 1d6+2 perforants  
->A|**Arbalète de poing (forme humanoïde ou hybride uniquement)**. +4, 9/36 m, 1d6+2 perforants  
+>Action|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
+>Action|**Morsure (forme de phoque ou hybride uniquement)**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Épée courte (forme humanoïde ou hybride uniquement)**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Arbalète de poing (forme humanoïde ou hybride uniquement)**. +4, 9/36 m, 1d6+2 perforants  
 >
 >
 >_Extra (AideDD)_
@@ -32359,7 +32359,7 @@ ___
 >
 >**Invisible dans l'eau**.  
 >**Connexion à l'eau**.  
->A|**Constriction**. +5, 3 m, 3d6+3 contondants  
+>Action|**Constriction**. +5, 3 m, 3d6+3 contondants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -32386,8 +32386,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
->A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
->A|**Constriction**. +4, 1,50 m, 1d8+2 contondants  
+>Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Constriction**. +4, 1,50 m, 1d8+2 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -32414,8 +32414,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
->A|**Morsure**. +6, 3 m, 2d6+4 perforants  
->A|**Constriction**. +6, 1,50 m, 2d8+4 contondants  
+>Action|**Morsure**. +6, 3 m, 2d6+4 perforants  
+>Action|**Constriction**. +6, 1,50 m, 2d8+4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -32445,9 +32445,9 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Corps brûlant**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
->A|**Queue**. +3, 1,50 m, 1d4+1 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
+>Action|**Queue**. +3, 1,50 m, 1d4+1 contondants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -32532,7 +32532,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -32559,7 +32559,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
->A|**Morsure**. +6, 3 m, 1d4+4 perforants  
+>Action|**Morsure**. +6, 3 m, 1d4+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -32586,7 +32586,7 @@ ___
 >**Puissance** 1/8 (25 PX)
 >
 >**Repli aérien**.  
->A|**Morsure**.  
+>Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -32655,8 +32655,8 @@ ___
 >**Puissance** - **Bonus de maîtrise** égal à votre bonus
 >
 >**Évasion**.  
->A|**Frappe de force**.  
->R|**Conduit magique**.  
+>Action|**Frappe de force**.  
+>Réaction|**Conduit magique**.  
 >
 >Rules (Tasha´s Cauldron of Everything)
 >{: .label .label.label-statblock }
@@ -32686,7 +32686,7 @@ ___
 >**Langues** —  
 >**Puissance** -
 >
->A|**Coup**. +5, 1,50 m, 1d4 contondants  
+>Action|**Coup**. +5, 1,50 m, 1d4 contondants  
 >
 >
 >Rules (Xanathar´s Guide to Everything)
@@ -32972,9 +32972,9 @@ ___
 >**Puissance** 8 (3900 PX)
 >
 >**Déchaîné**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +7, 1,50 m, 4d10+4 perforants  
->A|**Dard caudal**. +7, 4,50 m, 2d8+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +7, 1,50 m, 4d10+4 perforants  
+>Action|**Dard caudal**. +7, 4,50 m, 2d8+4 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -33055,14 +33055,14 @@ ___
 >3/jour : _esprit faible_  
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Chaîne**. +6, 4,50 m, 2d12+7 perforants  
->A|**Morsure**. +6, 1,50 m, 2d8 perforants  
->A|**Crachat de bile**.  
->A|**Corruption de créature**.  
->L|**Sort**.  
->L|**Vaporisation de bile**.  
->L|**Corruption (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Chaîne**. +6, 4,50 m, 2d12+7 perforants  
+>Action|**Morsure**. +6, 1,50 m, 2d8 perforants  
+>Action|**Crachat de bile**.  
+>Action|**Corruption de créature**.  
+>Action Légendaire|**Sort**.  
+>Action Légendaire|**Vaporisation de bile**.  
+>Action Légendaire|**Corruption (coûte 2 actions)**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -33090,9 +33090,9 @@ ___
 >**Langues** —  
 >**Puissance** 7 (2900 PX)
 >
->A|**Attaques multiples**.  
->A|**Poing**. +9, 3 m, 3d10+6 contondants  
->A|**Rocher**. +9, 15/30 m, 7d6+6 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Poing**. +9, 3 m, 3d10+6 contondants  
+>Action|**Rocher**. +9, 15/30 m, 7d6+6 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -33122,9 +33122,9 @@ ___
 >
 >**Résistance à la magie**.  
 >**Régénération**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +8, 1,50 m, 2d6+5 tranchants  
->A|**Morsure**. +8, 1,50 m, 2d6+5 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +8, 1,50 m, 2d6+5 tranchants  
+>Action|**Morsure**. +8, 1,50 m, 2d6+5 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -33161,10 +33161,10 @@ ___
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Régénération**.  
->A|**Attaques multiples**.  
->A|**Morsure (forme de slaad uniquement)**. +9, 1,50 m, 1d8+5 perforants  
->A|**Griffes (forme de slaad uniquement)**. +9, 1,50 m, 1d10+5 tranchants  
->A|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure (forme de slaad uniquement)**. +9, 1,50 m, 1d8+5 perforants  
+>Action|**Griffes (forme de slaad uniquement)**. +9, 1,50 m, 1d10+5 tranchants  
+>Action|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -33201,10 +33201,10 @@ ___
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Régénération**.  
->A|**Attaques multiples**.  
->A|**Morsure (forme de slaad uniquement)**. +7, 1,50 m, 1d6+3 perforants  
->A|**Griffes (forme de slaad uniquement)**. +7, 1,50 m, 1d10+3 tranchants  
->A|**Épée à deux mains**. +7, 1,50 m, 2d6+3 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure (forme de slaad uniquement)**. +7, 1,50 m, 1d6+3 perforants  
+>Action|**Griffes (forme de slaad uniquement)**. +7, 1,50 m, 1d10+3 tranchants  
+>Action|**Épée à deux mains**. +7, 1,50 m, 2d6+3 tranchants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -33235,9 +33235,9 @@ ___
 >
 >**Résistance à la magie**.  
 >**Régénération**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +6, 1,50 m, 1d8+3 tranchants  
->A|**Morsure**. +6, 1,50 m, 2d4+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +6, 1,50 m, 1d8+3 tranchants  
+>Action|**Morsure**. +6, 1,50 m, 2d4+3 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -33267,7 +33267,7 @@ ___
 >**Puissance** 1/8 (25 PX)
 >
 >**Résistance à la magie**.  
->A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -33303,11 +33303,11 @@ ___
 >1/jour : _boule de feu_  
 >**Résistance à la magie**.  
 >**Régénération**.  
->A|**Attaques multiples**.  
->A|**Morsure (forme de slaad uniquement)**. +7, 1,50 m, 2d6+4 perforants  
->A|**Griffes (forme de slaad uniquement)**. +7, 1,50 m, 1d6+4 tranchants  
->A|**Bâton**. +7, 1,50 m, 2d6+4 contondants  
->A|**Jet de flammes**. +4, 18 m, 3d6 feu  
+>Action|**Attaques multiples**.  
+>Action|**Morsure (forme de slaad uniquement)**. +7, 1,50 m, 2d6+4 perforants  
+>Action|**Griffes (forme de slaad uniquement)**. +7, 1,50 m, 1d6+4 tranchants  
+>Action|**Bâton**. +7, 1,50 m, 2d6+4 contondants  
+>Action|**Jet de flammes**. +4, 18 m, 3d6 feu  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -33346,14 +33346,14 @@ ___
 >3/jour chacun : _barrière de lames, résurrection_  
 >1/jour chacun : _contrôle du climat_  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Épée à deux mains**. +15, 1,50 m, 4d6+8 tranchants  
->A|**Arc long Tueur**. +13, 45/180 m, 2d8+6 perforants  
->A|**Épée volante**.  
->A|**Contact guérisseur (4/jour)**.  
->L|**Téléportation**.  
->L|**Explosion brûlante (coûte 2 actions)**.  
->L|**Regard aveuglant (coûte 3 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée à deux mains**. +15, 1,50 m, 4d6+8 tranchants  
+>Action|**Arc long Tueur**. +13, 45/180 m, 2d8+6 perforants  
+>Action|**Épée volante**.  
+>Action|**Contact guérisseur (4/jour)**.  
+>Action Légendaire|**Téléportation**.  
+>Action Légendaire|**Explosion brûlante (coûte 2 actions)**.  
+>Action Légendaire|**Regard aveuglant (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -33444,9 +33444,9 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Mort brûlante**.  
->A|**Attaques multiples**.  
->A|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
->A|**Ténèbres (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Ténèbres (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -33476,7 +33476,7 @@ ___
 >
 >**Mort éblouissante**.  
 >**Sensibilité à la lumière**.  
->A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
+>Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -33755,14 +33755,14 @@ ___
 >**Langues** profond, commun des profondeurs, télépathie 36 m  
 >**Puissance** 3 (700 PX)
 >
->A|**Morsure**.  
->A|**Rayons oculaires**.  
->A|**1- Rayon de confusion**.  
->A|**2- Rayon paralysant**.  
->A|**3- Rayon de peur**.  
->A|**4- Rayon de blessure**.  
->A|**Création d'eau et de nourriture**.  
->R|**Renvoi de sort**.  
+>Action|**Morsure**.  
+>Action|**Rayons oculaires**.  
+>Action|**1- Rayon de confusion**.  
+>Action|**2- Rayon paralysant**.  
+>Action|**3- Rayon de peur**.  
+>Action|**4- Rayon de blessure**.  
+>Action|**Création d'eau et de nourriture**.  
+>Réaction|**Renvoi de sort**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -33794,7 +33794,7 @@ ___
 >
 >**Déplacement intangible**.  
 >**Sensibilité au soleil**.  
->A|**Absorption de vie**. +4, 1,50 m, 3d6 nécrotiques  
+>Action|**Absorption de vie**. +4, 1,50 m, 3d6 nécrotiques  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -33824,7 +33824,7 @@ ___
 >
 >**Mort explosive**.  
 >**Sinistre ressemblance**.  
->A|**Contact**.  
+>Action|**Contact**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -33854,8 +33854,8 @@ ___
 >**Langues** comprend les langues qu'il connaissait de son vivant mais ne peut pas parler  
 >**Puissance** 1/4 (50 PX)
 >
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -33884,7 +33884,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
->A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
+>Action|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -33914,8 +33914,8 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Charge**.  
->A|**Hache à deux mains**. +6, 1,50 m, 2d12+4 tranchants  
->A|**Corne**. +6, 1,50 m, 2d8+4 perforants  
+>Action|**Hache à deux mains**. +6, 1,50 m, 2d12+4 tranchants  
+>Action|**Corne**. +6, 1,50 m, 2d8+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -33987,7 +33987,7 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
->A|**Absorption de sang**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Absorption de sang**. +5, 1,50 m, 1d4+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -34017,10 +34017,10 @@ ___
 >
 >**Lien télépathique**.  
 >**Métamorphe**.  
->A|**Griffes (forme fiélone uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
->A|**Charme**.  
->A|**Baiser corrupteur**.  
->A|**Forme éthérée**.  
+>Action|**Griffes (forme fiélone uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Charme**.  
+>Action|**Baiser corrupteur**.  
+>Action|**Forme éthérée**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -34050,10 +34050,10 @@ ___
 >
 >**Apparence trompeuse**.  
 >**Monstre de siège**.  
->A|**Attaques multiples**.  
->A|**Coup**. +10, 1,50 m, 3d6+6 contondants  
->A|**Rocher**. +10, 18/54 m, 4d10+6 contondants  
->A|**Animation des arbres (1/jour)**.  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +10, 1,50 m, 3d6+6 contondants  
+>Action|**Rocher**. +10, 18/54 m, 4d10+6 contondants  
+>Action|**Animation des arbres (1/jour)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -34082,10 +34082,10 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Agilité féline**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +2, 1,50 m, 1d4 tranchants  
->A|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
->A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +2, 1,50 m, 1d4 tranchants  
+>Action|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 >
 >
 >Adventures (Tomb of Annihilation)
@@ -34116,9 +34116,9 @@ ___
 >
 >**Agilité féline**.  
 >**Inspirer (1/jour)**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +2, 1,50 m, 1d4 tranchants  
->A|**Fléchettes**. +4, 6/18 m, 1d4+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +2, 1,50 m, 1d4 tranchants  
+>Action|**Fléchettes**. +4, 6/18 m, 1d4+2 perforants  
 >
 >
 >Adventures (Tomb of Annihilation)
@@ -34181,10 +34181,10 @@ ___
 >
 >**Agressif**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +7, 1,50 m, 1d8+4 perforants  
->A|**Épée à deux mains**. +7, 1,50 m, 2d6+4 tranchants  
->R|**Furie effrénée**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +7, 1,50 m, 1d8+4 perforants  
+>Action|**Épée à deux mains**. +7, 1,50 m, 2d6+4 tranchants  
+>Réaction|**Furie effrénée**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -34216,7 +34216,7 @@ ___
 >**Sensibilité à l'antimagie**.  
 >**Transfert de dégâts**.  
 >**Apparence trompeuse**.  
->A|**Étouffement**.  
+>Action|**Étouffement**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -34249,16 +34249,16 @@ ___
 >**Résistance à la magie**.  
 >**Carapace réfléchissante**.  
 >**Monstre de siège**.  
->A|**Attaques multiples**.  
->A|**Cornes**. +19, 3 m, 4d10+10 perforants  
->A|**Griffes**. +19, 4,50 m, 4d8+10 tranchants  
->A|**Morsure**. +19, 3 m, 4d12+10 perforants  
->A|**Queue**. +19, 6 m, 4d6+10 contondants  
->A|**Présence effrayante**.  
->A|**Engloutissement**.  
->L|**Attaque**.  
->L|**Déplacement**.  
->L|**Mastication (coûte 2 actions)**.  
+>Action|**Attaques multiples**.  
+>Action|**Cornes**. +19, 3 m, 4d10+10 perforants  
+>Action|**Griffes**. +19, 4,50 m, 4d8+10 tranchants  
+>Action|**Morsure**. +19, 3 m, 4d12+10 perforants  
+>Action|**Queue**. +19, 6 m, 4d6+10 contondants  
+>Action|**Présence effrayante**.  
+>Action|**Engloutissement**.  
+>Action Légendaire|**Attaque**.  
+>Action Légendaire|**Déplacement**.  
+>Action Légendaire|**Mastication (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -34323,16 +34323,16 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Relai télépathique**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +5, 1,50 m, 4d6+2 perforants  
->A|**Tentacules**. +5, 1,50 m, 4d8+2 psychiques  
->A|**Rayons oculaires**.  
->A|**1- Rayon de dégoût**.  
->A|**2- Rayon de peur**.  
->A|**3- Rayon psychique**.  
->A|**4- Rayon de lenteur**.  
->A|**5- Rayon étourdissant**.  
->A|**6- Rayon télékinétique**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +5, 1,50 m, 4d6+2 perforants  
+>Action|**Tentacules**. +5, 1,50 m, 4d8+2 psychiques  
+>Action|**Rayons oculaires**.  
+>Action|**1- Rayon de dégoût**.  
+>Action|**2- Rayon de peur**.  
+>Action|**3- Rayon psychique**.  
+>Action|**4- Rayon de lenteur**.  
+>Action|**5- Rayon étourdissant**.  
+>Action|**6- Rayon télékinétique**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -34362,10 +34362,10 @@ ___
 >**Langues** —  
 >**Puissance** 6 (2300 PX)
 >
->A|**Attaques multiples**.  
->A|**Morsure**. +9, 3 m, 6d10+6 perforants  
->A|**Appendice**. +4, 4,50 m, 1d6+6 contondants  
->A|**Engloutissement**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +9, 3 m, 6d10+6 perforants  
+>Action|**Appendice**. +4, 4,50 m, 1d6+6 contondants  
+>Action|**Engloutissement**.  
 >
 >
 >_Extra (AideDD)_
@@ -34467,9 +34467,9 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Ouïe et vue aiguisées**.  
->A|**Attaques multiples**.  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 >
 >
 >_Extra (AideDD)_
@@ -34502,9 +34502,9 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Absorption de foudre**.  
->A|**Attaques multiples**.  
->A|**Coup**. +7, 1,50 m, 2d8+4 contondants  
->A|**Engloutissement**.  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +7, 1,50 m, 2d8+4 contondants  
+>Action|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -34533,9 +34533,9 @@ ___
 >
 >**Carapace caméléon**.  
 >**Saut sans élan**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
->A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
+>Action|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -34594,8 +34594,8 @@ ___
 >
 >**Odorat aiguisé**.  
 >**Bond agressif**.  
->A|**Griffes**. +5, 1,50 m, 1d8+3 tranchants  
->A|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
+>Action|**Griffes**. +5, 1,50 m, 1d8+3 tranchants  
+>Action|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -34624,8 +34624,8 @@ ___
 >
 >**Odorat aiguisé**.  
 >**Bond agressif**.  
->A|**Griffes**. +6, 1,50 m, 2d6+5 tranchants  
->A|**Morsure**. +6, 1,50 m, 1d10+5 perforants  
+>Action|**Griffes**. +6, 1,50 m, 2d6+5 tranchants  
+>Action|**Morsure**. +6, 1,50 m, 1d10+5 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -34656,11 +34656,11 @@ ___
 >**Métamorphe**.  
 >**Odorat et ouïe aiguisés**.  
 >**Bond (forme de tigre ou hybride uniquement)**.  
->A|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
->A|**Morsure (forme de tigre ou hybride uniquement)**. +5, 1,50 m, 1d10+3 perforants  
->A|**Griffes (forme de tigre ou hybride uniquement)**. +5, 1,50 m, 1d8+3 tranchants  
->A|**Cimeterre (forme humanoïde ou hybride uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
->A|**Arc long (forme humanoïde ou hybride uniquement)**. +4, 45/180 m, 1d8+2 perforants  
+>Action|**Attaques multiples (forme humanoïde ou hybride uniquement)**.  
+>Action|**Morsure (forme de tigre ou hybride uniquement)**. +5, 1,50 m, 1d10+3 perforants  
+>Action|**Griffes (forme de tigre ou hybride uniquement)**. +5, 1,50 m, 1d8+3 tranchants  
+>Action|**Cimeterre (forme humanoïde ou hybride uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Arc long (forme humanoïde ou hybride uniquement)**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -34809,10 +34809,10 @@ ___
 >**Langues** tlincalli  
 >**Puissance** 5 (1800 PX)
 >
->A|**Attaques multiples**.  
->A|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
->A|**Chaîne barbelée**. +6, 3 m, 1d6+3 perforants  
->A|**Dard**. +6, 1,50 m, 1d6+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
+>Action|**Chaîne barbelée**. +6, 3 m, 1d6+3 perforants  
+>Action|**Dard**. +6, 1,50 m, 1d6+3 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -34975,7 +34975,7 @@ ___
 >**Sens aveugles**.  
 >**Odorat et ouïe aiguisés**.  
 >**Camouflage dans les rochers**.  
->A|**Gourdin d'os hérissé de pointes**. +5, 1,50 m, 1d4+3 contondants  
+>Action|**Gourdin d'os hérissé de pointes**. +5, 1,50 m, 1d4+3 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -35100,7 +35100,7 @@ ___
 >• Maîtrise des jets de sauvegarde de Constitution  
 >• Résistance aux dommages causés par l'acide, le froid, le feu, la foudre ou le tonnerre (au choix du transmutateur lorsqu'il choisit cet avantage)  
 >Si le transmutateur a la pierre et lance un sort de transmutation de niveau 1 ou supérieur, il peut changer l'effet de la pierre.  
->A|**Bâton**.  
+>Action|**Bâton**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -35204,8 +35204,8 @@ ___
 >**Forme liquide**.  
 >**Pattes d'araignée**.  
 >**Discrétion aqueuse**.  
->A|**Coup**. +5, 1,50 m, 1d10+3 contondants  
->A|**Suceur de vie**.  
+>Action|**Coup**. +5, 1,50 m, 1d10+3 contondants  
+>Action|**Suceur de vie**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -35238,8 +35238,8 @@ ___
 >
 >**Invisibilité**.  
 >**Traqueur irréprochable**.  
->A|**Attaques multiples**.  
->A|**Coup**. +6, 1,50 m, 2d6+3 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Coup**. +6, 1,50 m, 2d6+3 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -35266,8 +35266,8 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Charge écrasante**.  
->A|**Corne**. +9, 1,50 m, 4d8+6 perforants  
->A|**Piétinement**. +9, 1,50 m, 3d10+6 contondants  
+>Action|**Corne**. +9, 1,50 m, 4d8+6 perforants  
+>Action|**Piétinement**. +9, 1,50 m, 3d10+6 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -35295,9 +35295,9 @@ ___
 >
 >**Esprit axiomatique**.  
 >**Désintégration**.  
->A|**Attaques multiples**.  
->A|**Poing**. +3, 1,50 m, 1d4+1 contondants  
->A|**Javeline**. +3, 1,50 m ou 9/36 m, 1d6+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Poing**. +3, 1,50 m, 1d4+1 contondants  
+>Action|**Javeline**. +3, 1,50 m ou 9/36 m, 1d6+1 perforants  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -35358,9 +35358,9 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Amphibien**.  
->A|**Attaques multiples**.  
->A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
->A|**Cracheur de feu (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples**.  
+>Action|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
+>Action|**Cracheur de feu (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -35429,7 +35429,7 @@ ___
 >Sorts mineurs (à volonté) : _lumière, prestidigitation_  
 >Nivx 1-2 (2 de niveau 2) : _mains brûlantes, sphère de feu, représailles infernales, rayon ardent_  
 >**Bénédiction d'Imix**.  
->A|**Morgenstern**. +3, 1,50 m, 1d8+1 perforants  
+>Action|**Morgenstern**. +3, 1,50 m, 1d8+1 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -35466,7 +35466,7 @@ ___
 >Sorts mineurs (à volonté) : _décharge occulte, bouffée de poison_  
 >Nivx 1 à 5 (4 de niveau 5) : _représailles infernales, mains brûlantes, nuage nauséabond, représailles infernales, suggestion_  
 >**Chance du ténébreux (Recharge après un repos court ou long)**.  
->A|**Masse d'armes**. +3, 1,50 m, 1d6 contondants  
+>Action|**Masse d'armes**. +3, 1,50 m, 1d6 contondants  
 >
 >
 >_Extra (AideDD)_
@@ -35498,9 +35498,9 @@ ___
 >**Peau de caméléon**.  
 >**Puanteur**.  
 >**Sensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
->A|**Griffes**. +4, 1,50 m, 1d4+2 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Griffes**. +4, 1,50 m, 1d4+2 tranchants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -35530,9 +35530,9 @@ ___
 >
 >**Odorat aiguisé**.  
 >**Régénération**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
->A|**Morsure**. +7, 1,50 m, 1d6+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
+>Action|**Morsure**. +7, 1,50 m, 1d6+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -35839,8 +35839,8 @@ ___
 >**Puissance** 0 (10 PX)
 >
 >**Respiration aquatique**.  
->A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
->A|**Queue**. +4, 1,50 m, 1d4+2 contondants  
+>Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
+>Action|**Queue**. +4, 1,50 m, 1d4+2 contondants  
 >
 >
 >Adventures (Rime of the Frostmaiden)
@@ -35873,19 +35873,19 @@ ___
 >**Puissance** 14 (11500 PX)
 >
 >**Cône d'énergie négative**.  
->A|**Morsure**. +5, 1,50 m, 4d6 perforants  
->A|**Rayons oculaires**.  
->A|**1- Rayon de charme**.  
->A|**2- Rayon paralysant**.  
->A|**3- Rayon de peur**.  
->A|**4- Rayon de lenteur**.  
->A|**5- Rayon affaiblissant**.  
->A|**6- Rayon télékinétique**.  
->A|**7- Rayon de sommeil**.  
->A|**8- Rayon de pétrification**.  
->A|**9- Rayon de désintégration**.  
->A|**10- Rayon de mort**.  
->L|**Rayon oculaire**.  
+>Action|**Morsure**. +5, 1,50 m, 4d6 perforants  
+>Action|**Rayons oculaires**.  
+>Action|**1- Rayon de charme**.  
+>Action|**2- Rayon paralysant**.  
+>Action|**3- Rayon de peur**.  
+>Action|**4- Rayon de lenteur**.  
+>Action|**5- Rayon affaiblissant**.  
+>Action|**6- Rayon télékinétique**.  
+>Action|**7- Rayon de sommeil**.  
+>Action|**8- Rayon de pétrification**.  
+>Action|**9- Rayon de désintégration**.  
+>Action|**10- Rayon de mort**.  
+>Action Légendaire|**Rayon oculaire**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -35916,19 +35916,19 @@ ___
 >**Puissance** 13 (10000 PX)
 >
 >**Cône d'antimagie**.  
->A|**Morsure**. +5, 1,50 m, 4d6 perforants  
->A|**Rayons oculaires**.  
->A|**1- Rayon de charme**.  
->A|**2- Rayon paralysant**.  
->A|**3- Rayon de peur**.  
->A|**4- Rayon de lenteur**.  
->A|**5- Rayon affaiblissant**.  
->A|**6- Rayon télékinétique**.  
->A|**7- Rayon de sommeil**.  
->A|**8- Rayon de pétrification**.  
->A|**9- Rayon de désintégration**.  
->A|**10- Rayon de mort**.  
->L|**Rayon oculaire**.  
+>Action|**Morsure**. +5, 1,50 m, 4d6 perforants  
+>Action|**Rayons oculaires**.  
+>Action|**1- Rayon de charme**.  
+>Action|**2- Rayon paralysant**.  
+>Action|**3- Rayon de peur**.  
+>Action|**4- Rayon de lenteur**.  
+>Action|**5- Rayon affaiblissant**.  
+>Action|**6- Rayon télékinétique**.  
+>Action|**7- Rayon de sommeil**.  
+>Action|**8- Rayon de pétrification**.  
+>Action|**9- Rayon de désintégration**.  
+>Action|**10- Rayon de mort**.  
+>Action Légendaire|**Rayon oculaire**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -35956,9 +35956,9 @@ ___
 >**Langues** —  
 >**Puissance** 8 (3900 PX)
 >
->A|**Attaques multiples**.  
->A|**Morsure**. +10, 3 m, 4d12+7 perforants  
->A|**Queue**. +10, 3 m, 3d8+7 contondants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +10, 3 m, 4d12+7 perforants  
+>Action|**Queue**. +10, 3 m, 3d8+7 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -36028,9 +36028,9 @@ ___
 >**Incantation innée (psioniques)**.  
 >À volonté : _détection des pensées, lévitation_  
 >1/jour chacun : _télékinésie, changement de plan_ (personnel uniquement)  
->A|**Tentacules**. +9, 3 m, 4d10+5 psychiques  
->A|**Extraction de cerveau**. +9, 1,50 m, 10d10 perforants  
->A|**Explosion de l'esprit (Recharge 5-6)**.  
+>Action|**Tentacules**. +9, 3 m, 4d10+5 psychiques  
+>Action|**Extraction de cerveau**. +9, 1,50 m, 10d10 perforants  
+>Action|**Explosion de l'esprit (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -36067,10 +36067,10 @@ ___
 >1/jour chacun : _tempête de feu, suggestion de groupe_  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
->A|**Attaques multiples**.  
->A|**Épée longue**. +8, 1,50 m, 1d8+3 tranchants  
->A|**Regard hypnotique**.  
->A|**Téléportation**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +8, 1,50 m, 1d8+3 tranchants  
+>Action|**Regard hypnotique**.  
+>Action|**Téléportation**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -36143,14 +36143,14 @@ ___
 >**Détruit par les étendues d'eau courante**.  
 >**Un pieu dans le cœur**.  
 >**Hypersensibilité au soleil**.  
->A|**Attaques multiples (forme de vampire uniquement)**.  
->A|**Attaque à mains nues (forme de vampire uniquement)**. +9, 1,50 m, 1d8+4 contondants  
->A|**Morsure (forme de vampire ou de chauve-souris uniquement)**. +9, 1,50 m, 1d6+4 perforants  
->A|**Charme**.  
->A|**Enfants de la nuit (1/jour)**.  
->L|**Déplacement**.  
->L|**Attaque à mains nues**.  
->L|**Morsure (coûte 2 actions)**.  
+>Action|**Attaques multiples (forme de vampire uniquement)**.  
+>Action|**Attaque à mains nues (forme de vampire uniquement)**. +9, 1,50 m, 1d8+4 contondants  
+>Action|**Morsure (forme de vampire ou de chauve-souris uniquement)**. +9, 1,50 m, 1d6+4 perforants  
+>Action|**Charme**.  
+>Action|**Enfants de la nuit (1/jour)**.  
+>Action Légendaire|**Déplacement**.  
+>Action Légendaire|**Attaque à mains nues**.  
+>Action Légendaire|**Morsure (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -36186,9 +36186,9 @@ ___
 >**Détruit par les étendues d'eau courante**.  
 >**Un pieu dans le cœur**.  
 >**Hypersensibilité au soleil**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +6, 1,50 m, 2d4+3 tranchants  
->A|**Morsure**. +6, 1,50 m, 1d6+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +6, 1,50 m, 2d4+3 tranchants  
+>Action|**Morsure**. +6, 1,50 m, 1d6+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -36254,9 +36254,9 @@ ___
 >**Puissance** 10 (5900 PX)
 >
 >**Sang de foudre**.  
->A|**Attaques multiples**.  
->A|**Tentacule**. +8, 6 m, 3d6+4 perforants  
->A|**Absorption de sang**.  
+>Action|**Attaques multiples**.  
+>Action|**Tentacule**. +8, 6 m, 3d6+4 perforants  
+>Action|**Absorption de sang**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -36319,9 +36319,9 @@ ___
 >**Langues** comprend l'abyssal, l'infernal et toutes les langues qu'elle connaissait avant de devenir une vargouille mais ne peut pas parler  
 >**Puissance** 1 (200 PX)
 >
->A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
->A|**Baiser**.  
->A|**Cri étourdissant**.  
+>Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Baiser**.  
+>Action|**Cri étourdissant**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -36389,7 +36389,7 @@ ___
 >**Informe**.  
 >**Corrosion du métal**.  
 >**Apparence trompeuse**.  
->A|**Pseudopode**. +3, 1,50 m, 1d6+1 contondants  
+>Action|**Pseudopode**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -36418,7 +36418,7 @@ ___
 >
 >**Odorat et vue aiguisés**.  
 >**Tactique de groupe**.  
->A|**Bec**. +2, 1,50 m, 1d4 perforants  
+>Action|**Bec**. +2, 1,50 m, 1d4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -36447,9 +36447,9 @@ ___
 >
 >**Odorat et vue aiguisés**.  
 >**Tactique de groupe**.  
->A|**Attaques multiples**.  
->A|**Bec**. +4, 1,50 m, 2d4+2 perforants  
->A|**Serres**. +5, 1,50 m, 2d6+2 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Bec**. +4, 1,50 m, 2d4+2 perforants  
+>Action|**Serres**. +5, 1,50 m, 2d6+2 tranchants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -36485,18 +36485,18 @@ ___
 >**Équipement spécial**.  
 >**Éternel**.  
 >**Nature insolite**.  
->A|**Attaques multiples**.  
->A|**Après-coup**.  
->A|**Volée des damnés (Recharge 5–6)**.  
->A|**Destin funeste**.  
->A|**Incantation**.  
+>Action|**Attaques multiples**.  
+>Action|**Après-coup**.  
+>Action|**Volée des damnés (Recharge 5–6)**.  
+>Action|**Destin funeste**.  
+>Action|**Incantation**.  
 >À volonté : _animation des morts_ (par une action), _détection de la magie, dissipation de la magie, éclair, main de mage, prestidigitation, vol_  
 >2/jour chacun : _invisibilité, porte dimensionnelle, scrutation_ (par une action)  
 >1/jour chacun : _changement de plan_ (personnel uniquement), _domination de monstre, globe d'invulnérabilité_  
->B|**Téléportation néfaste**.  
+>Action Bonus|**Téléportation néfaste**.  
 >Vecna peut effectuer jusqu'à trois réactions par round mais une seule par tour.  
->R|**Contresort effroyable**.  
->R|**Représailles affaiblissantes**.  
+>Réaction|**Contresort effroyable**.  
+>Réaction|**Représailles affaiblissantes**.  
 >
 >
 >Extra (D&D Beyond)
@@ -36596,10 +36596,10 @@ ___
 >
 >**Camouflage dans la végétation**.  
 >**Régénération**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +4, 1,50 m, 1d6+2 tranchants  
->A|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
->A|**Spores (1/jour)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +4, 1,50 m, 1d6+2 tranchants  
+>Action|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
+>Action|**Spores (1/jour)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -36663,8 +36663,8 @@ ___
 >
 >**Camouflage dans la végétation**.  
 >**Régénération**.  
->A|**Griffes**. +4, 1,50 m, 1d6+2 tranchants  
->A|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
+>Action|**Griffes**. +4, 1,50 m, 1d6+2 tranchants  
+>Action|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -36751,9 +36751,9 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Tactique de groupe**.  
->A|**Attaques multiples**.  
->A|**Morsure**.  
->A|**Griffes**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**.  
+>Action|**Griffes**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -36782,9 +36782,9 @@ ___
 >**Puissance** 15 (13000 PX)
 >
 >**Fouisseur**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +14, 3 m, 3d8+9 perforants  
->A|**Dard**. +14, 3 m, 3d6+9 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +14, 3 m, 3d8+9 perforants  
+>Action|**Dard**. +14, 3 m, 3d6+9 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -36811,10 +36811,10 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 3 (700 PX)
 >
->A|**Attaques multiples**.  
->A|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
->A|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
->A|**Arbalète lourde**. +3, 30/120 m, 1d10+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
+>Action|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
+>Action|**Arbalète lourde**. +3, 30/120 m, 1d10+1 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -36844,7 +36844,7 @@ ___
 >**Incantation**.  
 >Sorts mineurs (à volonté) : _réparation, trait de feu_  
 >Niv 1 (2) : _déguisement, mains brûlantes_  
->A|**Bâton**.  
+>Action|**Bâton**.  
 >
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
@@ -36909,7 +36909,7 @@ ___
 >**Aura de peur**.  
 >**Sensibilité à la lumière**.  
 >**Téléportation par les ombres (Recharge 5-6)**.  
->A|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
+>Action|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -36941,11 +36941,11 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Bec**. +6, 1,50 m, 2d6+3 perforants  
->A|**Serres**. +6, 1,50 m, 2d10+3 tranchants  
->A|**Spores (Recharge 6)**.  
->A|**Cri étourdissant (1/jour)**.  
+>Action|**Attaques multiples**.  
+>Action|**Bec**. +6, 1,50 m, 2d6+3 perforants  
+>Action|**Serres**. +6, 1,50 m, 2d10+3 tranchants  
+>Action|**Spores (Recharge 6)**.  
+>Action|**Cri étourdissant (1/jour)**.  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -37049,10 +37049,10 @@ ___
 >**Langues** —  
 >**Puissance** 6 (2300 PX)
 >
->A|**Attaques multiples**.  
->A|**Dard**. +7, 3 m, 2d6+4 perforants  
->A|**Griffes**. +7, 1,50 m, 2d8+4 tranchants  
->A|**Morsure**. +7, 3 m, 2d6+4 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Dard**. +7, 3 m, 2d6+4 perforants  
+>Action|**Griffes**. +7, 1,50 m, 2d8+4 tranchants  
+>Action|**Morsure**. +7, 3 m, 2d6+4 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -37080,7 +37080,7 @@ ___
 >**Puissance** 1/2 (100 PX)
 >
 >**Odorat et ouïe aiguisés**.  
->A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
+>Action|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -37116,7 +37116,7 @@ ___
 >Sorts mineurs (à volonté) : _décharge occulte, protection contre les armes_  
 >Niv 1-5 (3 de niveau 5) : _compréhension des langues, couronne du dément, détection des pensées_  
 >**Nature immortelle**.  
->A|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+2 perforants  
+>Action|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >
 >_Extra (AideDD)_
@@ -37149,9 +37149,9 @@ ___
 >**Déplacement dans la terre**.  
 >**Camouflage dans les rochers**.  
 >**Perception des trésors**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +6, 1,50 m, 1d6+3 tranchants  
->A|**Morsure**. +6, 1,50 m, 3d6+3 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +6, 1,50 m, 1d6+3 tranchants  
+>Action|**Morsure**. +6, 1,50 m, 3d6+3 perforants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -37213,8 +37213,8 @@ ___
 >**Action fourbe mineure**.  
 >**Groupe autoritaire**.  
 >**Langue de Raxivort**.  
->A|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
->A|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
+>Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
+>Action|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -37285,7 +37285,7 @@ ___
 >**Action fourbe mineure**.  
 >**Bénédiction de Raxivort**.  
 >**Langue de Raxivort**.  
->A|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants  
+>Action|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -37510,9 +37510,9 @@ ___
 >**Camouflage dans la neige**.  
 >**Crainte du feu**.  
 >**Odorat aiguisé**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +6, 1,50 m, 1d6+4 tranchants  
->A|**Regard givrant**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +6, 1,50 m, 1d6+4 tranchants  
+>Action|**Regard givrant**.  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -37543,10 +37543,10 @@ ___
 >**Camouflage dans la neige**.  
 >**Crainte du feu**.  
 >**Odorat aiguisé**.  
->A|**Attaques multiples**.  
->A|**Griffes**. +11, 1,50 m, 2d6+7 tranchants  
->A|**Regard givrant**.  
->A|**Souffle de froid (Recharge 6)**.  
+>Action|**Attaques multiples**.  
+>Action|**Griffes**. +11, 1,50 m, 2d6+7 tranchants  
+>Action|**Regard givrant**.  
+>Action|**Souffle de froid (Recharge 6)**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -37585,9 +37585,9 @@ ___
 >À volonté : _détection des pensées, toile d'araignée_  
 >1/jour : _domination de personne_  
 >**Déplacement sur la toile**.  
->A|**Attaques multiples**.  
->A|**Coup (Morsure sous forme d'araignée)**. +6, 1,50 m, 1d6+2 contondants  
->A|**Forme brumeuse**.  
+>Action|**Attaques multiples**.  
+>Action|**Coup (Morsure sous forme d'araignée)**. +6, 1,50 m, 1d6+2 contondants  
+>Action|**Forme brumeuse**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
@@ -37623,11 +37623,11 @@ ___
 >3/jour : _suggestion_  
 >1/jour : _peur_  
 >**Résistance à la magie**.  
->A|**Attaques multiples (forme d'abomination uniquement)**.  
->A|**Morsure**. +7, 1,50 m, 1d6+4 perforants  
->A|**Constriction**. +7, 3 m, 2d6+4 contondants  
->A|**Cimeterre (forme d'abomination uniquement)**. +7, 1,50 m, 2d6+4 tranchants  
->A|**Arc long (forme d'abomination uniquement)**. +6, 45/180 m, 2d8+3 perforants  
+>Action|**Attaques multiples (forme d'abomination uniquement)**.  
+>Action|**Morsure**. +7, 1,50 m, 1d6+4 perforants  
+>Action|**Constriction**. +7, 3 m, 2d6+4 contondants  
+>Action|**Cimeterre (forme d'abomination uniquement)**. +7, 1,50 m, 2d6+4 tranchants  
+>Action|**Arc long (forme d'abomination uniquement)**. +6, 45/180 m, 2d8+3 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -37706,10 +37706,10 @@ ___
 >**Aura d'ophidiophobie**.  
 >**Métamorphe**.  
 >**Six têtes**.  
->A|**Attaques multiples (forme d'anathème uniquement)**.  
->A|**Griffes (forme d'anathème uniquement)**. +10, 3 m, 2d6+6 tranchants  
->A|**Constriction**.  
->A|**Déluge de morsures**. +10, 3 m, 6d6+6 perforants  
+>Action|**Attaques multiples (forme d'anathème uniquement)**.  
+>Action|**Griffes (forme d'anathème uniquement)**. +10, 3 m, 2d6+6 tranchants  
+>Action|**Constriction**.  
+>Action|**Déluge de morsures**. +10, 3 m, 6d6+6 perforants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -37789,10 +37789,10 @@ ___
 >**Incantation (forme de yuan-ti uniquement)**.  
 >Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 m, bonus de +3 à chaque jet de dégâts), _bouffée de poison, prestidigitation_  
 >Niv 1 à 3 (2 de niveau 3) : _ténèbres, maléfice, voracité de Hadar, trait ensorcelé_  
->A|**Attaques multiples (forme de yuan-ti uniquement)**.  
->A|**Constriction**. +5, 3 m, 2d6+3 contondants  
->A|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
->A|**Invocation de cauchemar (Recharge après un repos court ou long)**.  
+>Action|**Attaques multiples (forme de yuan-ti uniquement)**.  
+>Action|**Constriction**. +5, 3 m, 2d6+3 contondants  
+>Action|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Invocation de cauchemar (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -37873,9 +37873,9 @@ ___
 >Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 mètres, bonus de +3 à chaque jet de dégâts), _bouffée de poison, prestidigitation_  
 >Niv 1-3 (2 de niveau 3) : _couronne du dément, détection des pensées, repli expéditif, texte illusoire_  
 >**Bénédiction de Sseth**.  
->A|**Attaques multiples (forme de yuan-ti uniquement)**.  
->A|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
->A|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Attaques multiples (forme de yuan-ti uniquement)**.  
+>Action|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -37943,9 +37943,9 @@ ___
 >
 >**Résistance mentale**.  
 >**Téméraire**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
->A|**Griffes**. +4, 1,50 m, 1d6+2 tranchants  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
+>Action|**Griffes**. +4, 1,50 m, 1d6+2 tranchants  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -38024,9 +38024,9 @@ ___
 >**Incantation (forme de yuan-ti uniquement)**.  
 >Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 mètres, bonus de +3 à chaque jet de dégâts), _bouffée de poison_  
 >Niv 1-3 (2 de niveau 3) : _représailles infernales, invisibilité, invisibilité, serviteur invisible, toucher du vampire_  
->A|**Attaques multiples (forme Yuan-ti uniquement)**.  
->A|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
->A|**Sommeil de Merrshaulk (1/jour)**.  
+>Action|**Attaques multiples (forme Yuan-ti uniquement)**.  
+>Action|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Sommeil de Merrshaulk (1/jour)**.  
 >
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
@@ -38066,19 +38066,19 @@ ___
 >Type 2 : Tête humaine et des serpents à la place des bras.  
 >Type 3 : Tête et buste humain avec un corps de serpent à la place des jambes.  
 >Pour le Type 1  
->A|**Attaques multiples (forme de yuan-ti uniquement)**.  
->A|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
->A|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
->A|**Arc long (forme de yuan-ti uniquement)**. +4, 45/180 m, 1d8+2 perforants  
+>Action|**Attaques multiples (forme de yuan-ti uniquement)**.  
+>Action|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Arc long (forme de yuan-ti uniquement)**. +4, 45/180 m, 1d8+2 perforants  
 >Pour le Type 2  
->A|**Attaques multiples (forme de yuan-ti uniquement)**.  
->A|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Attaques multiples (forme de yuan-ti uniquement)**.  
+>Action|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
 >Pour le Type 3  
->A|**Attaques multiples (forme de yuan-ti uniquement)**.  
->A|**Morsure (forme de serpent uniquement)**. +5, 1,50 m, 1d4+3 perforants  
->A|**Constriction**. +5, 1,50 m, 2d6+3 contondants  
->A|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
->A|**Arc long (forme de yuan-ti uniquement)**. +4, 45/180 m, 1d8+2 perforants  
+>Action|**Attaques multiples (forme de yuan-ti uniquement)**.  
+>Action|**Morsure (forme de serpent uniquement)**. +5, 1,50 m, 1d4+3 perforants  
+>Action|**Constriction**. +5, 1,50 m, 2d6+3 contondants  
+>Action|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
+>Action|**Arc long (forme de yuan-ti uniquement)**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -38111,9 +38111,9 @@ ___
 >À volonté : _amitié avec les animaux_ (serpents uniquement)  
 >3/jour chacun : _bouffée de poison_  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
->A|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
+>Action|**Attaques multiples**.  
+>Action|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
+>Action|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
 >
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
@@ -38287,13 +38287,13 @@ ___
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Régénération**.  
->A|**Attaques multiples**.  
->A|**Épée longue**. +16, 3 m, 2d8+8 tranchants  
->A|**Javeline**. +16, 3 m ou 9/36 m, 2d6+8 perforants  
->A|**Contact affreux (Recharge 5-6)**. +16, 3 m, 8d10 nécrotiques  
->A|**Téléportation**.  
->L|**Regard immolant (coûte 2 actions)**.  
->L|**Téléportation**.  
+>Action|**Attaques multiples**.  
+>Action|**Épée longue**. +16, 3 m, 2d8+8 tranchants  
+>Action|**Javeline**. +16, 3 m ou 9/36 m, 2d6+8 perforants  
+>Action|**Contact affreux (Recharge 5-6)**. +16, 3 m, 8d10 nécrotiques  
+>Action|**Téléportation**.  
+>Action Légendaire|**Regard immolant (coûte 2 actions)**.  
+>Action Légendaire|**Téléportation**.  
 >
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
@@ -38328,12 +38328,12 @@ ___
 >
 >**Vision de diable**.  
 >**Résistance à la magie**.  
->A|**Attaques multiples**.  
->A|**Morsure**. +6, 1,50 m, 1d10+3 perforants  
->A|**Cimeterre**. +6, 1,50 m, 1d6+3 force  
->A|**Convocation de nupperibos (Recharge après un repos court ou long)**.  
->A|**Téléportation (dans le château uniquement)**.  
->B|**Discrétion dans les ombres**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**. +6, 1,50 m, 1d10+3 perforants  
+>Action|**Cimeterre**. +6, 1,50 m, 1d6+3 force  
+>Action|**Convocation de nupperibos (Recharge après un repos court ou long)**.  
+>Action|**Téléportation (dans le château uniquement)**.  
+>Action Bonus|**Discrétion dans les ombres**.  
 >
 >
 >_Extra (AideDD)_
@@ -38365,7 +38365,7 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Tenacité de mort-vivant**.  
->A|**Coup**. +3, 1,50 m, 1d6+1 contondants  
+>Action|**Coup**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -38393,7 +38393,7 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Tenacité de mort-vivant**.  
->A|**Coup**. +3, 1,50 m, 1d8+1 contondants  
+>Action|**Coup**. +3, 1,50 m, 1d8+1 contondants  
 >
 >
 >_Adventures (Tomb of Annihilation)_
@@ -38425,7 +38425,7 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Tenacité de mort-vivant**.  
->A|**Morgenstern**. +6, 1,50 m, 2d8+4 contondants  
+>Action|**Morgenstern**. +6, 1,50 m, 2d8+4 contondants  
 >
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
@@ -38456,7 +38456,7 @@ ___
 >
 >**Charge**.  
 >**Tenacité de mort-vivant**.  
->A|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
+>Action|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
 >
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
@@ -38486,12 +38486,12 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Tenacité de mort-vivant**.  
->A|**Morsure**. +3, 1,50 m, 4d6 perforants  
->A|**Rayons oculaires**.  
->A|**1- Rayon paralysant**.  
->A|**2- Rayon de peur**.  
->A|**3- Rayon affaiblissant**.  
->A|**4- Rayon de désintégration**.  
+>Action|**Morsure**. +3, 1,50 m, 4d6 perforants  
+>Action|**Rayons oculaires**.  
+>Action|**1- Rayon paralysant**.  
+>Action|**2- Rayon de peur**.  
+>Action|**3- Rayon affaiblissant**.  
+>Action|**4- Rayon de désintégration**.  
 >
 >_Monster Manual_
 >{: .label .label.label-statblock }
