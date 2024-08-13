@@ -23,7 +23,7 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
 
 ### Romans
 
- - Le Tasliman (1984, Stephen King & Peter Straub)
+ - Le Tasliman (1984, Stephen King & Peter Straub) ★★★★☆
 
 #### Tolkien
 
@@ -68,7 +68,7 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
  - Mordenheim (1996, Chet Williamson)
  - La Tour de la désolation (1997, Mark Anthony)
  - La Baronne sanglante (1997, ELaine Bergstrom)
- - Moi, Strahd : journal d'un vampire (1997, P. N. Elrod)
+ - Moi, Strahd : journal d'un vampire (1997, P. N. Elrod) ★★★★★
  - Mort d'un sombre seigneur (1998, Laurell K. Hamilton)
  - Le Maître du déclin (1998, Tanya Huff) 
 
