@@ -46,7 +46,7 @@ ___
 >A|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
 >
 >Monster Manual (BR+)
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 
@@ -84,7 +84,7 @@ ___
 >Représailles vicieuses.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Abishaï blanc legacy
@@ -121,7 +121,7 @@ ___
 >Représailles vicieuses.  
 >
 >Mordenkainen´s Tome of Foes
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Abishaï bleu
@@ -157,7 +157,7 @@ ___
 >Téléportation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Abishaï bleu legacy
@@ -193,7 +193,7 @@ ___
 >Morsure.  
 >
 >Mordenkainen´s Tome of Foes
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Abishaï noir
@@ -228,7 +228,7 @@ ___
 >Discrétion dans les ombres.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Abishaï noir legacy
@@ -265,7 +265,7 @@ ___
 >Ténèbres rampantes (Recharge 6).  
 >
 >Mordenkainen´s Tome of Foes
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Abishaï rouge
@@ -302,7 +302,7 @@ ___
 >Pouvoir de la Reine des Dragons.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Abishaï rouge legacy
@@ -340,7 +340,7 @@ ___
 >Pouvoir de la Reine des Dragons.  
 >
 >Mordenkainen´s Tome of Foes
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Abishaï vert
@@ -374,7 +374,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Abishaï vert legacy
@@ -410,7 +410,7 @@ ___
 >Griffes.  
 >
 >Mordenkainen´s Tome of Foes
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Abjurateur legacy
@@ -448,7 +448,7 @@ ___
 >A|**Bâton**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Aboleth
@@ -484,7 +484,7 @@ ___
 >L|**Absorption psychique (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -518,7 +518,7 @@ ___
 >Éructation acide (Recharge 5-6).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Acérérak
@@ -560,7 +560,7 @@ ___
 >Trouble vitsal (coûte 3 actions).  
 >
 >_Adventures (Tomb of Annihilation)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Acolyte
@@ -589,7 +589,7 @@ ___
 >A|**Gourdin**. +2, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -619,7 +619,7 @@ ___
 >Griffes.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Affligé colérique
@@ -649,7 +649,7 @@ ___
 >Crochet.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Affligé misérable
@@ -676,7 +676,7 @@ ___
 >Morsure.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Affligé perdu
@@ -706,7 +706,7 @@ ___
 >Étreinte serrée.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Affligé solitaire
@@ -736,7 +736,7 @@ ___
 >Étreinte douloureuse.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Aigle
@@ -763,7 +763,7 @@ ___
 >A|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Aigle géant
@@ -792,7 +792,7 @@ ___
 >A|**Serres**. +5, 1,50 m, 2d6+3 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Alhoon
@@ -830,7 +830,7 @@ ___
 >Annulation de sort (3/jour).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Alhoon legacy
@@ -874,7 +874,7 @@ ___
 >A|**Explosion de l'esprit (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Alkilith
@@ -912,7 +912,7 @@ ___
 >Tentacle.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Alkilith legacy
@@ -947,7 +947,7 @@ ___
 >Tentacle.  
 >
 >Mordenkainen´s Tome of Foes
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Allip
@@ -981,7 +981,7 @@ ___
 >Murmures de compulsion.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Allip legacy
@@ -1014,7 +1014,7 @@ ___
 >A|**Babil mugissant (Recharge 6)**.  
 >
 >Mordenkainen´s Tome of Foes
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Allosaure
@@ -1071,7 +1071,7 @@ ___
 >A|**Création de spectre**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Amnizu
@@ -1108,7 +1108,7 @@ ___
 >Charme instinctif.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Amnizu legacy
@@ -1146,7 +1146,7 @@ ___
 >Charme instinctif.  
 >
 >Mordenkainen´s Tome of Foes
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Androsphinx
@@ -1193,7 +1193,7 @@ ___
 >L|**Sort (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ankheg
@@ -1219,7 +1219,7 @@ ___
 >A|**Vaporisation d'acide (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ankylosaure
@@ -1244,7 +1244,7 @@ ___
 >A|**Queue**. +7, 3 m, 4d6+4 contondants  
 >
 >_Monster Manual (BR)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Apprenti magicien
@@ -1298,7 +1298,7 @@ ___
 >A|**Dague**. +2, 1,50 m ou 6/18 m, 1d4 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -1337,7 +1337,7 @@ ___
 >A|**Toucher flétrissant**. +7, 1,50 m, 2d4 nécrotiques  
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Araignée
@@ -1366,7 +1366,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Araignée de monte, femelle
@@ -1395,7 +1395,7 @@ ___
 >Patte collante.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Araignée de monte, femelle legacy
@@ -1424,7 +1424,7 @@ ___
 >A|**Patte collante**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Araignée de monte, mâle
@@ -1453,7 +1453,7 @@ ___
 >Patte collante.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Araignée de monte, mâle legacy
@@ -1482,7 +1482,7 @@ ___
 >A|**Patte collante**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Araignée de phase
@@ -1511,7 +1511,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Araignée géante
@@ -1541,7 +1541,7 @@ ___
 >A|**Toile d'araignée (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Araignée-loup géante
@@ -1570,7 +1570,7 @@ ___
 >A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Arbre éveillé
@@ -1598,7 +1598,7 @@ ___
 >A|**Coup**. +6, 3 m, 3d6+4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Arbuste éveillé
@@ -1626,7 +1626,7 @@ ___
 >A|**Écorchure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -1672,7 +1672,7 @@ ___
 >A|**Téléportation**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Archer
@@ -1701,7 +1701,7 @@ ___
 >B|**Oeil de l'archer (3/jour)**.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Archer legacy
@@ -1730,7 +1730,7 @@ ___
 >A|**Arc long**. +6, 45/90 m, 1d8+4 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Archidruide
@@ -1761,7 +1761,7 @@ ___
 >Changement de forme (2/jour).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Archidruide legacy
@@ -1800,7 +1800,7 @@ ___
 >A|**Changement de forme (2/jour)**. 
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Archimage
@@ -1841,7 +1841,7 @@ ___
 >A|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -1875,7 +1875,7 @@ ___
 >Lance d'arçon éclair (Recharge 5–6). 
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Armanite legacy
@@ -1909,7 +1909,7 @@ ___
 >Lance d'arçon éclair (Recharge 5–6). 
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Armure animée
@@ -1939,7 +1939,7 @@ ___
 >A|**Coup**. +4, 1,50 m, 1d6+2 contondants 
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -1973,7 +1973,7 @@ ___
 >A|**Arbalète légère**. +6, 24/96 m, 1d8+3 perforants 
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -1999,7 +1999,7 @@ ___
 >Corne.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Auroch legacy
@@ -2025,7 +2025,7 @@ ___
 >A|**Corne**. +7, 1,50 m, 2d8+5 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Automate, cobra de fer
@@ -2055,7 +2055,7 @@ ___
 >Morsure.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Automate, cobra de fer legacy
@@ -2084,7 +2084,7 @@ ___
 >Morsure.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Avatar de la mort
@@ -2113,7 +2113,7 @@ ___
 >A|**Faux moissonneuse**.  
 >
 >_Rules (Dungeon Master´s Guide)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Azer
@@ -2144,7 +2144,7 @@ ___
 >A|**Marteau de guerre**. +5, 1,50 m, 1d8+3 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -2177,7 +2177,7 @@ ___
 >Regard affaiblissant.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Babau legacy
@@ -2211,7 +2211,7 @@ ___
 >A|**Regard affaiblissant**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Babélien
@@ -2241,7 +2241,7 @@ ___
 >A|**Salive aveuglante (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -2268,7 +2268,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -2298,7 +2298,7 @@ ___
 >A|**Arbalète légère**. +3, 24/96 m, 1d8+1 perforants  
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Baël
@@ -2339,7 +2339,7 @@ ___
 >Attaque (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Baël legacy
@@ -2382,7 +2382,7 @@ ___
 >Téléportation.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Balhannoth
@@ -2416,7 +2416,7 @@ ___
 >Disparition.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Balhannoth legacy
@@ -2450,7 +2450,7 @@ ___
 >Disparition. 
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Balor
@@ -2486,7 +2486,7 @@ ___
 >A|**Téléportation**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -2520,7 +2520,7 @@ ___
 >Discrétion dans les ombres.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Banderhobb legacy
@@ -2552,7 +2552,7 @@ ___
 >A|**Foulée d'ombre**. 
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bandit
@@ -2578,7 +2578,7 @@ ___
 >A|**Arbalète légère**. +3, 24/96 m, 1d8+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -2609,7 +2609,7 @@ ___
 >R|**Parade**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -2643,7 +2643,7 @@ ___
 >A|**Hurlement (1/jour)**. 
 >
 >_Monster Manual (BR)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Baphomet
@@ -2683,7 +2683,7 @@ ___
 >Charge (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Baphomet legacy
@@ -2726,7 +2726,7 @@ ___
 >Charge (coûte 2 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Barde
@@ -2758,7 +2758,7 @@ ___
 >Raillerie (2/jour) 
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Barde legacy
@@ -2792,7 +2792,7 @@ ___
 >A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Barghest
@@ -2826,7 +2826,7 @@ ___
 >Métamorphe.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Barghest legacy
@@ -2862,7 +2862,7 @@ ___
 >A|**Griffes**. +6, 1,50 m, 1d8+4 tranchants 
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Barlgura
@@ -2899,7 +2899,7 @@ ___
 >A|**Poing**. +7, 1,50 m, 1d10+4 contondants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Basilic
@@ -2925,7 +2925,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 2d6+3 perforants 
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -2951,7 +2951,7 @@ ___
 >A|**Bec**. +4, 1,50 m, 1d8+2 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -2983,7 +2983,7 @@ ___
 >A|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3022,7 +3022,7 @@ ___
 >A|**Battement d'ailes**.  
 >
 >_Extra (Dragon Mag)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Belette
@@ -3049,7 +3049,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3077,7 +3077,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3109,7 +3109,7 @@ ___
 >Duplication spectrale (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Berbalang legacy
@@ -3140,7 +3140,7 @@ ___
 >Griffes.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Berserker
@@ -3166,7 +3166,7 @@ ___
 >A|**Hache à deux mains**. +5, 1,50 m, 1d12+3 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3194,7 +3194,7 @@ ___
 >Frappe contraignante.  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3222,7 +3222,7 @@ ___
 >Maillet.  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3250,7 +3250,7 @@ ___
 >Déchiqueté.  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3279,7 +3279,7 @@ ___
 >A|**Tentacule**. +6, 3 m, 1d6+4 contondants 
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bison fétide
@@ -3306,7 +3306,7 @@ ___
 >Corne.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bison fétide legacy
@@ -3334,7 +3334,7 @@ ___
 >A|**Corne**. +6, 1,50 m, 1d6+4 perforants 
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Blaireau
@@ -3360,7 +3360,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3389,7 +3389,7 @@ ___
 >A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3418,7 +3418,7 @@ ___
 >A|**Hache à deux mains**. +4, 1,50 m, 1d12+3 tranchants 
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Blême
@@ -3449,7 +3449,7 @@ ___
 >A|**Morsure**. +3, 1,50 m, 2d8+3 perforants 
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3484,7 +3484,7 @@ ___
 >Aura d'annihilation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bodak legacy
@@ -3517,7 +3517,7 @@ ___
 >A|**Regard flétrissant**. 
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Boeuf
@@ -3543,7 +3543,7 @@ ___
 >Corne.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Boeuf legacy
@@ -3570,7 +3570,7 @@ ___
 >A|**Corne**. +6, 1,50 m, 1d6+4 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Boiseux
@@ -3603,7 +3603,7 @@ ___
 >Gourdin.
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Boiseux legacy
@@ -3637,7 +3637,7 @@ ___
 >A|**Gourdin**. +7, 1,50 m, 4d4+4 contondants 
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bonnet-rouge
@@ -3667,7 +3667,7 @@ ___
 >Poursuite de fer.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bonnet-rouge legacy
@@ -3697,7 +3697,7 @@ ___
 >A|**Poursuite de fer**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bousniarf
@@ -3727,7 +3727,7 @@ ___
 >R|**Parade**.  
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bretteur
@@ -3757,7 +3757,7 @@ ___
 >B|**Pied léger**. 
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bretteur legacy
@@ -3787,7 +3787,7 @@ ___
 >A|**Rapière**. +6, 1,50 m, 1d8+4 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Brume vampirique
@@ -3821,7 +3821,7 @@ ___
 >Absorption de vie.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Brume vampirique legacy
@@ -3855,7 +3855,7 @@ ___
 >Absorption de vie.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Brutacien
@@ -3886,7 +3886,7 @@ ___
 >A|**Morsure**. +3, 1,50 m, 1d4+1 contondants  
 >A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
->_Monster Manual (BR+)_{: .label .label-border-white }
+>_Monster Manual (BR+)_{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Brutacien, chevalier
@@ -3917,7 +3917,7 @@ ___
 >B|**Croassement charmeur (Recharge après un repos court ou long)**.  
 >
 >_Adventures (The Wild Beyond the Witchlight)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bulette
@@ -3945,7 +3945,7 @@ ___
 >A|**Saut implacable**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -3977,7 +3977,7 @@ ___
 >Queue barbelée.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Bulezau legacy
@@ -4008,7 +4008,7 @@ ___
 >Queue barbelée.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Cachalot
@@ -4038,7 +4038,7 @@ ___
 >A|**Queue**. +11, 4,50 m, 3d6+8 contondants  
 >
 >_Adventures (Rime of the Frostmaiden)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Cambion
@@ -4073,7 +4073,7 @@ ___
 >A|**Charme satanique**. 
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Canoloth
@@ -4108,7 +4108,7 @@ ___
 >Langue.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Canoloth legacy
@@ -4144,7 +4144,7 @@ ___
 >Langue.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Catoblépas
@@ -4172,7 +4172,7 @@ ___
 >Rayon de la mort (Recharge 5-6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Catoblépas legacy
@@ -4200,7 +4200,7 @@ ___
 >A|**Rayon de la mort (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Centaure
@@ -4230,7 +4230,7 @@ ___
 >A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4264,7 +4264,9 @@ ___
 >Explosion de l'esprit (Recharge 5–6). 
 >
 >_Adventures (Rime of the Frostmaiden)_
->
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
 >Cerf
 >======
 >
@@ -4287,7 +4289,7 @@ ___
 >A|**Morsure**. +2, 1,50 m, 1d4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4327,7 +4329,7 @@ ___
 >Tentacule (coûte 2 actions). 
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Cerveau vénérable draconique
@@ -4365,7 +4367,7 @@ ___
 >Briseur de concentration (coûte 2 actions).
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Cerveau, vénérable legacy
@@ -4406,7 +4408,7 @@ ___
 >L|**Lien psychique intense**.
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chacal
@@ -4434,7 +4436,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4465,7 +4467,7 @@ ___
 >A|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
 >
 >_Adventures (Storm King's Thunder)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chameau
@@ -4490,7 +4492,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4522,7 +4524,7 @@ ___
 >B|**Second souffle (recharge après un repos court ou long)**.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Champion legacy
@@ -4553,7 +4555,7 @@ ___
 >A|**Arc court \[E\]**. +6, 24/96 m, 1d6+2 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Charognard rampant
@@ -4583,7 +4585,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 2d4+2 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chasme
@@ -4616,7 +4618,7 @@ ___
 >A|**Rostre**. +5, 1,50 m, 4d6+2 perforants 
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chat
@@ -4643,7 +4645,7 @@ ___
 >A|**Griffes**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4671,7 +4673,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4707,7 +4709,7 @@ ___
 >A|**Arc court (forme humanoïde ou hybride uniquement)**. +5, , 1d6+3 perforants  
 >
 >_Adventures (Dungeon of the Mad Mage)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chauve-souris géante
@@ -4734,7 +4736,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4761,7 +4763,7 @@ ___
 >A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4787,7 +4789,7 @@ ___
 >A|**Sabots**. +5, 1,50 m, 2d4+3 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4813,7 +4815,7 @@ ___
 >A|**Sabots**. +6, 1,50 m, 2d4+4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4845,7 +4847,7 @@ ___
 >R|**Parade**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -4886,7 +4888,7 @@ ___
 >R|**Parade**. 
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chevalier noir
@@ -4921,7 +4923,7 @@ ___
 >B|**Repoussé**.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chevalier noir legacy
@@ -4955,7 +4957,7 @@ ___
 >A|**Aspect épouvantable (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chèvre
@@ -4982,7 +4984,7 @@ ___
 >A|**Coup de tête**. +3, 1,50 m, 1d4+1 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5010,7 +5012,7 @@ ___
 >A|**Coup de tête**. +4, 1,50 m, 1d6+2 contondants  
 >
 >_Adventures (Rime of the Frostmaiden)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chèvre géante
@@ -5037,7 +5039,7 @@ ___
 >A|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5094,7 +5096,7 @@ ___
 >A|**Souffle de feu (Recharge 5-6)**.
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5126,7 +5128,7 @@ ___
 >Sinistre aboiement.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chien de chasse yeth legacy
@@ -5157,7 +5159,7 @@ ___
 >A|**Sinistre aboiement**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chien du trépas
@@ -5185,7 +5187,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5214,7 +5216,7 @@ ___
 >A|**Téléportation (Recharge 4-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5270,7 +5272,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 >
 >_Extra (Adventurers League)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chimère
@@ -5300,7 +5302,7 @@ ___
 >A|**Souffle de feu (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5332,7 +5334,7 @@ ___
 >Dague.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chitineux legacy
@@ -5363,7 +5365,7 @@ ___
 >A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Choldrithe
@@ -5396,7 +5398,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Choldrithe legacy
@@ -5432,7 +5434,7 @@ ___
 >A|**Toile d'araignée (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Chouette
@@ -5460,7 +5462,7 @@ ___
 >A|**Serres**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5489,7 +5491,7 @@ ___
 >A|**Serres**. +3, 1,50 m, 2d6+1 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5522,7 +5524,7 @@ ___
 >A|**Tentacules**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5548,7 +5550,7 @@ ___
 >A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5580,7 +5582,7 @@ ___
 >Coquille protectrice. 
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Colimassue legacy
@@ -5612,7 +5614,7 @@ ___
 >Coquille protectrice.
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Collecteur de cadavres
@@ -5644,7 +5646,7 @@ ___
 >Convocation de spectres (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Collecteur de cadavres legacy
@@ -5675,7 +5677,7 @@ ___
 >Souffle paralysant (Recharge 5–6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Compagnon d'armes (niv 1)
@@ -5705,7 +5707,7 @@ ___
 >R|**Protection (défenseur seulement)**.  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Compagnon d'armes (niv 2)
@@ -5736,7 +5738,7 @@ ___
 >R|**Protection (défenseur seulement)**.  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Compagnon d'armes (niv 3)
@@ -5768,7 +5770,7 @@ ___
 >R|**Protection (défenseur seulement)**.  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Compagnon d'armes (niv 4)
@@ -5800,7 +5802,7 @@ ___
 >R|**Protection (défenseur seulement)**.  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Compagnon d'armes (niv 5)
@@ -5832,7 +5834,7 @@ ___
 >R|**Protection (défenseur seulement)**.  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Compagnon d'armes (niv 6)
@@ -5865,7 +5867,7 @@ ___
 >R|**Protection (défenseur seulement)**. 
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Compagnon Drake
@@ -5894,7 +5896,7 @@ ___
 >R|**Attaques imprégnées**.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Consul de fer
@@ -5925,7 +5927,7 @@ ___
 >A|**Voix autoritaire**.
 >
 >_Adventures (Descent into Avernus)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5953,7 +5955,7 @@ ___
 >A|**Bec**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -5990,7 +5992,7 @@ ___
 >A|**Changement de forme**.
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6019,7 +6021,7 @@ ___
 >Explosion de feu (Recharge 5-6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Coursier géant legacy
@@ -6047,7 +6049,7 @@ ___
 >A|**Explosion de feu (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Crabe
@@ -6074,7 +6076,7 @@ ___
 >A|**Pinces**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6107,7 +6109,7 @@ ___
 >Filament collant.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Crabe des cavernes legacy
@@ -6138,7 +6140,7 @@ ___
 >A|**Filament**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Crabe géant
@@ -6165,7 +6167,7 @@ ___
 >A|**Pinces**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6197,7 +6199,7 @@ ___
 >R|**Inarrêtable (3/jour)**.  
 >
 >_Adventures (Descent into Avernus)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6236,7 +6238,7 @@ ___
 >A|**Rayon de feu**. +5, 9 m, 3d6 feu 
 >
 >_Monster Manual (BR)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Crapaud géant
@@ -6264,7 +6266,7 @@ ___
 >A|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6292,7 +6294,7 @@ ___
 >R|**Hurlement**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6320,7 +6322,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6350,7 +6352,7 @@ ___
 >A|**Queue**. +8, 3 m, 2d8+5 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6386,7 +6388,7 @@ ___
 >Régurgitation d'alliés (Recharge 6).  
 >
 >_Adventures (Descent into Avernus)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Cube gélatineux
@@ -6415,7 +6417,7 @@ ___
 >A|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6456,7 +6458,7 @@ ___
 >Projection psychique (coûte 3 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Cuirassier astral legacy
@@ -6496,7 +6498,7 @@ ___
 >L|**Projection psychique (coûte 3 actions)**.
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Cultiste
@@ -6523,7 +6525,7 @@ ___
 >A|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6552,7 +6554,7 @@ ___
 >A|**Rocher**. +9, 9/36 m, 4d10+6 contondants  
 >
 >_Monster Manual (BR)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dao
@@ -6588,7 +6590,7 @@ ___
 >A|**Maillet**. +10, 1,50 m, 4d6+6 contondants 
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dauphin
@@ -6615,7 +6617,7 @@ ___
 >Coup.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Dauphin enchanteur
@@ -6646,7 +6648,7 @@ ___
 >Saut féerique.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dauphin legacy
@@ -6674,7 +6676,7 @@ ___
 >A|**Coup**. +4, 1,50 m, 1d6+2 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Défenseur d'acier
@@ -6706,7 +6708,7 @@ ___
 >R|**Parade d'attaque**.  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -6738,7 +6740,7 @@ ___
 >A|**Souffle de feu (Recharge 5-6)**.
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Demi-liche
@@ -6775,7 +6777,7 @@ ___
 >L|**Infâme malédiction (coûte 3 actions)**.
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Demi-ogre
@@ -6801,7 +6803,7 @@ ___
 >A|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Démogorgon
@@ -6840,7 +6842,7 @@ ___
 >Sort (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Démogorgon legacy
@@ -6885,7 +6887,7 @@ ___
 >L|**Regard qui rend fou**. 
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Démon des ombres
@@ -6919,7 +6921,7 @@ ___
 >A|**Griffes**. +5, 1,50 m, 2d6+3 psychiques  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Derro
@@ -6948,7 +6950,7 @@ ___
 >Arbalète légère.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Derro legacy
@@ -6977,7 +6979,7 @@ ___
 >Arbalète légère.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Derro, savant
@@ -7007,7 +7009,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Derro, savant legacy
@@ -7036,7 +7038,7 @@ ___
 >Bâton.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Deslor
@@ -7097,7 +7099,7 @@ ___
 >A|**Galop éthéré**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7135,7 +7137,7 @@ ___
 >A|**Changement de forme**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7166,7 +7168,7 @@ ___
 >Saccage sanglant.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dévastateur gris legacy
@@ -7196,7 +7198,7 @@ ___
 >Saccage sanglant.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Devin legacy
@@ -7235,7 +7237,7 @@ ___
 >A|**Bâton**.
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dévoreur
@@ -7267,7 +7269,7 @@ ___
 >Déchirure des âmes (Recharge 6).
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dévoreur d'intellect
@@ -7299,7 +7301,7 @@ ___
 >A|**Vol de corps**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dévoreur legacy
@@ -7330,7 +7332,7 @@ ___
 >A|**Déchirure des âmes (Recharge 6)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dhergoloth
@@ -7364,7 +7366,7 @@ ___
 >Téléportation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dhergoloth legacy
@@ -7399,7 +7401,7 @@ ___
 >Téléportation.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Diable à chaînes
@@ -7433,7 +7435,7 @@ ___
 >R|**Masque déstabilisant**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7470,7 +7472,7 @@ ___
 >A|**Jet de flammes**. +5, 45 m, 3d6 feu  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7505,7 +7507,7 @@ ___
 >A|**Coutille**. +5, 3 m, 1d10+3 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7540,7 +7542,7 @@ ___
 >A|**Jet de flammes**. +7, 45 m, 4d6 feu  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7576,7 +7578,7 @@ ___
 >A|**Épine caudale**. +4, 6/24 m, 1d4+2 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Diable gelé
@@ -7611,7 +7613,7 @@ ___
 >A|**Mur de glace (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7646,7 +7648,7 @@ ___
 >A|**Dard**. +8, 3 m, 2d8+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7680,7 +7682,7 @@ ___
 >A|**Invisibilité**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7720,7 +7722,7 @@ ___
 >A|**Queue**. +14, 3 m, 3d10+8 contondants 
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7755,7 +7757,7 @@ ___
 >A|**Création de tourbillon**.
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7788,7 +7790,7 @@ ___
 >A|**Lecture des pensées**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -7820,7 +7822,7 @@ ___
 >Souffle prismatique (Recharge 4-6). 
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dracoliche bleue, adulte
@@ -7860,7 +7862,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Draconien, conspirateur
@@ -7894,7 +7896,7 @@ ___
 >Bouclier magique (3/jour).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Draconien, cuirassé
@@ -7924,7 +7926,7 @@ ___
 >Vol de forme. 
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Draconien, fantassin
@@ -7952,7 +7954,7 @@ ___
 >A|**Épée courte**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Draconien, infiltré
@@ -7984,7 +7986,7 @@ ___
 >Dague.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Draconien, mage
@@ -8015,7 +8017,7 @@ ___
 >Incantation.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Draconnoeil
@@ -8046,7 +8048,7 @@ ___
 >Rayons oculaires.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Draegloth
@@ -8079,7 +8081,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Draegloth legacy
@@ -8114,7 +8116,7 @@ ___
 >A|**Griffes**. +8, 3 m, 2d10+5 tranchants
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon blanc, adulte
@@ -8152,7 +8154,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**. 
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8191,7 +8193,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8221,7 +8223,7 @@ ___
 >A|**Souffle de froid (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8254,7 +8256,7 @@ ___
 >A|**Souffle de froid (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8292,7 +8294,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8330,7 +8332,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8360,7 +8362,7 @@ ___
 >A|**Souffle de foudre (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8392,7 +8394,7 @@ ___
 >A|**Souffle de foudre (Recharge 5-6)**.
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8432,7 +8434,7 @@ ___
 >Écailles en plein essor (coûte 3 actions).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Dragon d'airain, adulte
@@ -8471,7 +8473,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8512,7 +8514,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8544,7 +8546,7 @@ ___
 >A|**Souffle de sommeil**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8578,7 +8580,7 @@ ___
 >A|**Souffle de sommeil**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8620,7 +8622,7 @@ ___
 >L|**Cristal explosif (coûte 3 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon d'améthyste, ancien
@@ -8660,7 +8662,7 @@ ___
 >Cristal explosif (coûte 3 actions).
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon d'améthyste, dragonnet
@@ -8692,7 +8694,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon d'améthyste, jeune
@@ -8726,7 +8728,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon d'argent, adulte
@@ -8766,7 +8768,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8807,7 +8809,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8839,7 +8841,7 @@ ___
 >A|**Souffle paralysant**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8873,7 +8875,7 @@ ___
 >A|**Souffle paralysant**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -8916,7 +8918,7 @@ ___
 >L|**Braises d'émeraude (coûte 3 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon d'émeraude, ancien
@@ -8956,7 +8958,7 @@ ___
 >Braises d'émeraude (coûte 3 actions).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon d'émeraude, dragonnet
@@ -8987,7 +8989,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon d'émeraude, jeune
@@ -9020,7 +9022,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon d'ombre rouge, jeune
@@ -9055,7 +9057,7 @@ ___
 >A|**Souffle d'ombres (Recharge 5-6)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon d'or, adulte
@@ -9096,7 +9098,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9138,7 +9140,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9171,7 +9173,7 @@ ___
 >A|**Souffle affaiblissant**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9206,7 +9208,7 @@ ___
 >A|**Souffle affaiblissant**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9248,7 +9250,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9290,7 +9292,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9323,7 +9325,7 @@ ___
 >A|**Souffle répulsif**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9358,7 +9360,7 @@ ___
 >A|**Souffle répulsif**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9399,7 +9401,7 @@ ___
 >L|**Frappe stellaire (coûte 3 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de cristal, ancien
@@ -9437,7 +9439,7 @@ ___
 >Frappe stellaire (coûte 3 actions).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de cristal, dragonnet
@@ -9468,7 +9470,7 @@ ___
 >
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de cristal, jeune
@@ -9500,7 +9502,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de cuivre, adulte
@@ -9539,7 +9541,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9580,7 +9582,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9612,7 +9614,7 @@ ___
 >A|**Souffle de ralentissement**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9646,7 +9648,7 @@ ___
 >A|**Souffle de ralentissement**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -9689,7 +9691,7 @@ ___
 >L|**Lancer télékinésique (coûte 3 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de saphir, ancien
@@ -9730,7 +9732,7 @@ ___
 >Lancer télékinésique (coûte 3 actions).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de saphir, dragonnet
@@ -9763,7 +9765,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de saphir, jeune
@@ -9798,7 +9800,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de topaze, adulte
@@ -9839,7 +9841,7 @@ ___
 >L|**Réduction essentielle (coûte 3 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de topaze, ancien
@@ -9879,7 +9881,7 @@ ___
 >Réduction essentielle (coûte 3 actions).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de topaze, dragonnet
@@ -9910,7 +9912,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon de topaze, jeune
@@ -9943,7 +9945,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon des profondeurs, adulte
@@ -9981,7 +9983,7 @@ ___
 >L|**Salve de spores (coûte 2 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon des profondeurs, ancien
@@ -10019,7 +10021,7 @@ ___
 >Salve de spores (coûte 2 actions).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon des profondeurs, dragonnet
@@ -10049,7 +10051,7 @@ ___
 >Souffle de cauchemar (Recharge 5-6).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon des profondeurs, jeune
@@ -10081,7 +10083,7 @@ ___
 >Souffle de cauchemar (Recharge 5-6).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon fantôme
@@ -10117,7 +10119,7 @@ ___
 >Souffle terrifiant (Recharge 6).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon féerique
@@ -10157,7 +10159,7 @@ ___
 >A|**5-6**. 
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon noir, adulte
@@ -10196,7 +10198,7 @@ ___
 >
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10235,7 +10237,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10266,7 +10268,7 @@ ___
 >A|**Souffle d'acide (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10299,7 +10301,7 @@ ___
 >A|**Souffle d'acide (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10340,7 +10342,7 @@ ___
 >L|**Sort (coûte 2 actions)**.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon pierre-de-lune, ancien
@@ -10376,7 +10378,7 @@ ___
 >Sort (coûte 2 actions).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon pierre-de-lune, dragonnet
@@ -10405,7 +10407,7 @@ ___
 >Souffle (Recharge 5–6).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon pierre-de-lune, jeune
@@ -10437,7 +10439,7 @@ ___
 >Incantation.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon rouge, adulte
@@ -10474,7 +10476,7 @@ ___
 >L|**Attaque Ailée (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10512,7 +10514,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10542,7 +10544,7 @@ ___
 >A|**Souffle de feu (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10574,7 +10576,7 @@ ___
 >A|**Souffle de feu (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10607,7 +10609,7 @@ ___
 >A|**Souffle de vapeur (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10635,7 +10637,7 @@ ___
 >**Puissance** 24 (62000 PX) **Bonus de maîtrise** +7
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon-tortue, dragonnet
@@ -10660,7 +10662,7 @@ ___
 >**Puissance** 4 (1100 PX) **Bonus de maîtrise** +2
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon-tortue, jeune
@@ -10686,7 +10688,7 @@ ___
 >**Puissance** 10 (5900 PX) **Bonus de maîtrise** +4
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dragon vert, adulte
@@ -10725,7 +10727,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10765,7 +10767,7 @@ ___
 >L|**Attaque avec les ailes (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10797,7 +10799,7 @@ ___
 >A|**Souffle empoisonné (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10831,7 +10833,7 @@ ___
 >A|**Souffle empoisonné (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -10860,7 +10862,7 @@ ___
 >Déchirement.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drake gardien
@@ -10888,7 +10890,7 @@ ___
 >Queue.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drake gardien legacy
@@ -10916,7 +10918,7 @@ ___
 >A|**Queue**. +5, 1,50 m, 1d6+3 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drakéide de Bahamut
@@ -10948,7 +10950,7 @@ ___
 >Souffle radiant (Recharge 6).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drakéide de Sardior
@@ -10983,7 +10985,7 @@ ___
 >
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drakéide de Tiamat
@@ -11014,7 +11016,7 @@ ___
 >Souffle nécrotique (Recharge 6).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Draquelion
@@ -11038,7 +11040,7 @@ ___
 >**Puissance** 7 (2900 PX) **Bonus de maîtrise** +3
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dretch
@@ -11069,7 +11071,7 @@ ___
 >A|**Nuage fétide (1/jour)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -11106,7 +11108,7 @@ ___
 >A|**Arc long**. +6, 45/180 m, 1d8+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -11139,7 +11141,7 @@ ___
 >A|**Arbalète de poing**. +4, 9/36 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -11178,7 +11180,7 @@ ___
 >
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, arachnomancien legacy
@@ -11217,7 +11219,7 @@ ___
 >
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, capitaine de maison
@@ -11253,7 +11255,7 @@ ___
 >Parade.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, capitaine de maison legacy
@@ -11290,7 +11292,7 @@ ___
 >R|**Parade**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, consort favori
@@ -11323,7 +11325,7 @@ ___
 >Bouclier de protection (3/jour).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, consort favori legacy
@@ -11357,7 +11359,7 @@ ___
 >Arbalète de poing.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, guerrier d'élite
@@ -11392,7 +11394,7 @@ ___
 >R|**Parade**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, inquisitrice
@@ -11426,7 +11428,7 @@ ___
 >Dague spectrale (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, inquisitrice legacy
@@ -11470,7 +11472,7 @@ ___
 >A|**Lance d'arçon mortelle**. +10, 1,50 m, 1d6+5 perforants 
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, mage
@@ -11509,7 +11511,7 @@ ___
 >A|**Invocation de démon (1/jour)**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, Mère matrone
@@ -11549,7 +11551,7 @@ ___
 >Sort (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, Mère matrone legacy
@@ -11589,7 +11591,7 @@ ___
 >Sort (coûte 1-3 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, ombrelame
@@ -11623,7 +11625,7 @@ ___
 >Foulée d'ombre.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, ombrelame legacy
@@ -11656,7 +11658,7 @@ ___
 >Arbalète de poing.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Drow, prêtresse de Lolth
@@ -11697,7 +11699,7 @@ ___
 >A|**Invocation de démon (1/jour)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Druide
@@ -11727,7 +11729,7 @@ ___
 >A|**Bâton**. +2, , 1d6 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -11798,7 +11800,7 @@ ___
 >A|**Charme des fées**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -11830,7 +11832,7 @@ ___
 >A|**Invisibilité (Recharge après un repos court ou long)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -11861,7 +11863,7 @@ ___
 >Agrandissement (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, âmelame legacy
@@ -11893,7 +11895,7 @@ ___
 >Invisibilité (Recharge après un repos court ou long).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, despote
@@ -11928,7 +11930,7 @@ ___
 >Incantation (psionniques).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, despote legacy
@@ -11965,7 +11967,7 @@ ___
 >A|**Jet de flammes**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, gardepierre
@@ -11998,7 +12000,7 @@ ___
 >Agrandissement (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, gardepierre legacy
@@ -12030,7 +12032,7 @@ ___
 >A|**Invisibilité (Recharge 4-6)**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, kavalrachni
@@ -12062,7 +12064,7 @@ ___
 >Invisibilité partagée (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, kavalrachni legacy
@@ -12094,7 +12096,7 @@ ___
 >A|**Invisibilité partagée (Recharge après un repos court ou long)**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, mentaliste
@@ -12128,7 +12130,7 @@ ___
 >Réduction (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, mentaliste legacy
@@ -12162,7 +12164,7 @@ ___
 >A|**Réduction (Recharge après un repos court ou long)**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, seigneur de guerre
@@ -12195,7 +12197,7 @@ ___
 >Agrandissement (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, seigneur de guerre legacy
@@ -12228,7 +12230,7 @@ ___
 >A|**Invisibilité (Recharge 4-6)**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, xarrorn
@@ -12259,7 +12261,7 @@ ___
 >Agrandissement (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duergar, xarrorn legacy
@@ -12290,7 +12292,7 @@ ___
 >Invisibilité (Recharge après un repos court ou long).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Duodrone
@@ -12319,7 +12321,7 @@ ___
 >A|**Javeline**. +3, 1,50 m ou 9/36 m, 1d6+1 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dybbuk
@@ -12353,7 +12355,7 @@ ___
 >Contrôle de cadavre.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Dybbuk legacy
@@ -12386,7 +12388,7 @@ ___
 >Posséssion de cadavre (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Éclaireur
@@ -12415,7 +12417,7 @@ ___
 >A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -12474,7 +12476,7 @@ ___
 >A|**Jet de flammes**. +7, 36 m, 5d6 feu  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -12509,7 +12511,7 @@ ___
 >Divine épouvante.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Eidolon legacy
@@ -12542,7 +12544,7 @@ ___
 >A|**Divine épouvante**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Éladrin de l'automne_
@@ -12576,7 +12578,7 @@ ___
 >Favoriser la paix.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Éladrin de l'automne legacy_
@@ -12609,7 +12611,7 @@ ___
 >Favoriser la paix.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Éladrin de l'été_
@@ -12642,7 +12644,7 @@ ___
 >Parade.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Éladrin de l'été legacy_
@@ -12675,7 +12677,7 @@ ___
 >Parade.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Éladrin de l'hiver_
@@ -12708,7 +12710,7 @@ ___
 >Représailles froides.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Éladrin de l'hiver legacy_
@@ -12740,7 +12742,7 @@ ___
 >Représailles froides.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Éladrin du printemps
@@ -12773,7 +12775,7 @@ ___
 >Foulée féerique (Recharge 4–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Éladrin du printemps legacy
@@ -12806,7 +12808,7 @@ ___
 >Arc long.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Élan_
@@ -12833,7 +12835,7 @@ ___
 >A|**Sabots**. +5, 1,50 m, 2d4+3 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -12862,7 +12864,7 @@ ___
 >A|**Sabots**. +6, 1,50 m, 4d8+4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -12894,7 +12896,7 @@ ___
 >A|**Cyclone (Recharge 4-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -12952,7 +12954,7 @@ ___
 >Frappe foudroyante (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Élémentaire de l'air, myrmidon legacy_
@@ -12983,7 +12985,7 @@ ___
 >Frappe foudroyante (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Élémentaire de l'eau_
@@ -13015,7 +13017,7 @@ ___
 >A|**Submersion (Recharge 4-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -13074,7 +13076,7 @@ ___
 >Frappes glaciales (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Élémentaire de l'eau, myrmidon legacy_
@@ -13105,7 +13107,7 @@ ___
 >Frappes glaciales (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Élémentaire de la terre
@@ -13137,7 +13139,7 @@ ___
 >A|**Coup**. +8, 3 m, 2d8+5 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -13198,7 +13200,7 @@ ___
 >Frappe tonitruante (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Élémentaire de la terre, myrmidon legacy
@@ -13229,7 +13231,7 @@ ___
 >Frappe tonitruante (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Élémentaire du feu
@@ -13261,7 +13263,7 @@ ___
 >A|**Contact**. +6, 1,50 m, 2d6+3 feu  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -13324,7 +13326,7 @@ ___
 >Frappes fougueuses (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Élémentaire du feu, myrmidon legacy
@@ -13357,7 +13359,7 @@ ___
 >Frappes fougueuses (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Éléphant
@@ -13384,7 +13386,7 @@ ___
 >A|**Piétinement**. +8, 1,50 m, 3d10+6 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -13438,7 +13440,7 @@ ___
 >**Puissance** 3 (700 PX) **Bonus de maîtrise** +2_
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Empyréen
@@ -13476,7 +13478,7 @@ ___
 >L|**Secousse (coûte 2 actions)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Enchanteur legacy
@@ -13512,7 +13514,7 @@ ___
 >R|**Charme instinctif (Recharge après que l'enchanteur ait lancé un sort d'enchantement de niveau 1 ou supérieur)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Enlaceur
@@ -13544,7 +13546,7 @@ ___
 >A|**Embobiner**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -13574,7 +13576,7 @@ ___
 >A|**Morsure**. +6, 1,50 m, 5d6+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -13605,7 +13607,7 @@ ___
 >A|**Épée longue**. +3, 1,50 m, 1d8+1 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -13636,7 +13638,7 @@ ___
 >A|**Morsure**. +3, 1,50 m, 2d6+1 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Épouvantail
@@ -13668,7 +13670,7 @@ ___
 >A|**Regard terrifiant**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Érinye
@@ -13702,7 +13704,7 @@ ___
 >R|**Parade**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -13733,7 +13735,7 @@ ___
 >A|**Arbalète de poing**. +4, 9/36 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -13765,7 +13767,7 @@ ___
 >Coup psychique (rejeton stellaire uniquement).  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Esprit d'artificiel_
@@ -13796,7 +13798,7 @@ ___
 >Réprimande de fou furieux (argile uniquement).  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Esprit d'élémentaire_
@@ -13826,7 +13828,7 @@ ___
 >Coup.  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Esprit d'ombre_
@@ -13857,7 +13859,7 @@ ___
 >Discrétion dans les ombres (Peur uniquement).  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Esprit de bête_
@@ -13886,7 +13888,7 @@ ___
 >Maillet.  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Esprit de céleste
@@ -13916,7 +13918,7 @@ ___
 >Contact guérisseur (1/jour).  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Esprit de fée
@@ -13947,7 +13949,7 @@ ___
 >Rusé.  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Esprit de fiélon
@@ -13981,7 +13983,7 @@ ___
 >Jet de flammes (diable uniquement).  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Esprit de mort-vivant_
@@ -14013,7 +14015,7 @@ ___
 >Griffe pourrissante (putréfié uniquement).  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Esprit des fournaises
@@ -14041,7 +14043,7 @@ ___
 >A|**Téléportation ardente**.  
 >
 >_Rules (Tasha´s Cauldron of Everything)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Esprit draconique
@@ -14071,7 +14073,7 @@ ___
 >A|**Souffle**.  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Esprit follet
@@ -14100,7 +14102,7 @@ ___
 >A|**Invisibilité**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -14131,7 +14133,7 @@ ___
 >Tentacule.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Étrangleur legacy
@@ -14161,7 +14163,7 @@ ___
 >Tentacule.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >_Étrilleur de crâne de Myrkul_
@@ -14194,7 +14196,7 @@ ___
 >A|**Rayon empoisonné (sort de niveau 1 ; requiert un de sort)**. +5, 18 m, 2d8 poison  
 >
 >_Adventures (Descent into Avernus)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ettercap
@@ -14226,7 +14228,7 @@ ___
 >A|**Toile d'araignée (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -14257,7 +14259,7 @@ ___
 >A|**Morgenstern**. +7, 1,50 m, 2d8+5 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -14288,7 +14290,7 @@ ___
 >Griffes.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Évanescent legacy
@@ -14319,7 +14321,7 @@ ___
 >Griffes.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Évocateur legacy
@@ -14356,7 +14358,7 @@ ___
 >A|**Bâton**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Expert en arts martiaux
@@ -14388,7 +14390,7 @@ ___
 >R|**Parade de projectiles**.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Expert en arts martiaux legacy
@@ -14421,7 +14423,7 @@ ___
 >R|**Parade de projectiles**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Expert (niv 1)
@@ -14452,7 +14454,7 @@ ___
 >A|**Arc court**. +4, 24/96 m, 1d8+2 perforants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Expert (niv 2)
@@ -14484,7 +14486,7 @@ ___
 >A|**Arc court**. +4, 24/96 m, 1d8+2 perforants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Expert (niv 3)
@@ -14517,7 +14519,7 @@ ___
 >A|**Arc court**. +4, 24/96 m, 1d8+2 perforants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Expert (niv 4)
@@ -14550,7 +14552,7 @@ ___
 >A|**Arc court**. +5, 24/96 m, 1d8+3 perforants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Expert (niv 5)
@@ -14583,7 +14585,7 @@ ___
 >A|**Arc court**. +6, 24/96 m, 1d8+3 perforants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Expert (niv 6)
@@ -14617,7 +14619,7 @@ ___
 >A|**Arc court**. +6, 24/96 m, 1d8+3 perforants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Fanatique
@@ -14649,7 +14651,7 @@ ___
 >A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -14683,7 +14685,7 @@ ___
 >A|**Possession (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -14714,7 +14716,7 @@ ___
 >Faille dimensionnelle.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Farfadet legacy
@@ -14745,7 +14747,7 @@ ___
 >A|**Flaque d'huile**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Faucheur de Bhaal
@@ -14776,7 +14778,7 @@ ___
 >A|**Linceul**.  
 >
 >_Adventures (Descent into Avernus)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Faucon
@@ -14803,7 +14805,7 @@ ___
 >A|**Serres**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -14832,7 +14834,7 @@ ___
 >A|**Bec**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -14866,7 +14868,7 @@ ___
 >A|**Invisibilité**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -14900,7 +14902,7 @@ ___
 >A|**Tentacules**. +7, 1,50 m, 2d10+4 psychiques  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Fleur putride
@@ -14933,7 +14935,7 @@ ___
 >Réanimation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Fleur putride legacy
@@ -14964,7 +14966,7 @@ ___
 >Moisson du mort.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Flind
@@ -14996,7 +14998,7 @@ ___
 >Arc long.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Flind legacy
@@ -15028,7 +15030,7 @@ ___
 >A|**Arc long**. +4, 45/180 m, 1d8 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Flumph
@@ -15059,7 +15061,7 @@ ___
 >A|**Vaporisation nauséabonde (1/jour)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Fomorien
@@ -15089,7 +15091,7 @@ ___
 >La créature transformée peut retenter son jet de sauvegarde chaque fois qu'elle finit un repos long, mettant fin à l'effet qui l'affecte en cas de réussite.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Forain de Charme-Lumière
@@ -15153,7 +15155,7 @@ ___
 >Queue.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -15194,7 +15196,7 @@ ___
 >Assassin imaginaire (coûte 2 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Froghémoth
@@ -15227,7 +15229,7 @@ ___
 >Langue.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Froghémoth legacy
@@ -15260,7 +15262,7 @@ ___
 >A|**Langue**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Galeb duhr
@@ -15291,7 +15293,7 @@ ___
 >A|**Animation de rochers (1/jour)**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gantelet noir de Baine
@@ -15329,7 +15331,7 @@ ___
 >
 >
 >Adventures (Descent into Avernus)
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Garde
@@ -15355,7 +15357,7 @@ ___
 >A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -15388,7 +15390,7 @@ ___
 >R|**Bouclier**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -15420,7 +15422,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -15453,7 +15455,7 @@ ___
 >A|**Regard soporifique**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gauth
@@ -15484,7 +15486,7 @@ ___
 >Rayons oculaires.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gauth legacy
@@ -15521,7 +15523,7 @@ ___
 >A|**6- Rayon de sommeil**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gazer
@@ -15552,7 +15554,7 @@ ___
 >Agressif.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gazer legacy
@@ -15587,7 +15589,7 @@ ___
 >A|**4- Rayon télékinétique**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant des collines
@@ -15615,7 +15617,7 @@ ___
 >A|**Rocher**. +8, 18/72 m, 3d10+5 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -15644,7 +15646,7 @@ ___
 >A|**Rocher**. +4, 6/18 m, 1d8+2 contondants  
 >
 >_Extra (Adventurers League)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant des nuages
@@ -15678,7 +15680,7 @@ ___
 >A|**Rocher**. +12, 18/72 m, 4d10+8 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -15712,7 +15714,7 @@ ___
 >Foulée nuageuse (Recharge 4–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant des nuages, souriant legacy
@@ -15752,7 +15754,7 @@ ___
 >A|**Changement de forme**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant des pierres
@@ -15783,7 +15785,7 @@ ___
 >R|**Réception de rocher**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -15816,7 +15818,7 @@ ___
 >Contact pétrifiant.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant des pierres, onirien legacy
@@ -15848,7 +15850,7 @@ ___
 >A|**Rocher**. +10, 18/72 m, 4d10+6 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant des tempêtes
@@ -15884,7 +15886,7 @@ ___
 >A|**Frappe foudroyante (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -15921,7 +15923,7 @@ ___
 >Maître des tempêtes (3 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant des tempêtes, quintessent legacy
@@ -15956,7 +15958,7 @@ ___
 >L|**Maître des tempêtes (3 actions)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant du feu
@@ -15986,7 +15988,7 @@ ___
 >A|**Rocher**. +11, 18/72 m, 4d10+7 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -16019,7 +16021,7 @@ ___
 >Charge avec bouclier (Recharge 5–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant du feu, cuirassé legacy
@@ -16051,7 +16053,7 @@ ___
 >A|**Charge avec bouclier**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant du givre
@@ -16081,7 +16083,7 @@ ___
 >A|**Rocher**. +9, 18/72 m, 4d10+6 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -16115,7 +16117,7 @@ ___
 >Rage de Vaprak (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géant du givre, éternel legacy
@@ -16148,7 +16150,7 @@ ___
 >A|**Rocher**. +11, 18/72 m, 4d10+7 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gelée ocre
@@ -16179,7 +16181,7 @@ ___
 >R|**Division**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -16220,7 +16222,7 @@ ___
 >Dard rapide (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Géryon legacy
@@ -16261,7 +16263,7 @@ ___
 >Téléportation.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Giff
@@ -16292,7 +16294,7 @@ ___
 >Grenade à fragmentation (1/jour).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Giff legacy
@@ -16323,7 +16325,7 @@ ___
 >Grenade à fragmentation (1/jour).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Girallon
@@ -16352,7 +16354,7 @@ ___
 >Agressif.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Girallon legacy
@@ -16382,7 +16384,7 @@ ___
 >A|**Griffes**. +6, 3 m, 1d6+4 tranchants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githyanki, chevalier
@@ -16413,7 +16415,7 @@ ___
 >A|**Épée à deux mains en argent**. +9, 1,50 m, 2d6+6 tranchants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githyanki, commandant suprême
@@ -16447,7 +16449,7 @@ ___
 >Attaque (2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githyanki, commandant suprême legacy
@@ -16480,7 +16482,7 @@ ___
 >Téléportation.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githyanki, gish
@@ -16511,7 +16513,7 @@ ___
 >Foulée astrale (Recharge 4–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githyanki, gish legacy
@@ -16542,7 +16544,7 @@ ___
 >Épée longue.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githyanki, guerrier
@@ -16572,7 +16574,7 @@ ___
 >A|**Épée à deux mains**. +4, 1,50 m, 2d6+2 tranchants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githyanki, kith'rak
@@ -16604,7 +16606,7 @@ ___
 >Parade.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githyanki, kith'rak legacy
@@ -16635,7 +16637,7 @@ ___
 >Parade.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githzerai, anarque
@@ -16669,7 +16671,7 @@ ___
 >Changement de gravité (coûte 3 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githzerai, anarque legacy
@@ -16702,7 +16704,7 @@ ___
 >Changement de gravité (coûte 3 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githzerai, illuminé
@@ -16734,7 +16736,7 @@ ___
 >Chute ralentie.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githzerai, illuminé legacy
@@ -16765,7 +16767,7 @@ ___
 >Frappe temporelle (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githzerai, moine
@@ -16797,7 +16799,7 @@ ___
 >A|**Attaque à mains nues**. +4, 1,50 m, 1d8+2 contondants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Githzerai, zerth
@@ -16830,7 +16832,7 @@ ___
 >A|**Attaque à mains nues**. +7, 1,50 m, 2d6+4 contondants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Glabrezu
@@ -16865,7 +16867,7 @@ ___
 >A|**Poing**. +9, 1,50 m, 2d4+2 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -16898,7 +16900,7 @@ ___
 >R|**Parade**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -16927,7 +16929,7 @@ ___
 >A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -16958,7 +16960,7 @@ ___
 >Déchaîné.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gnoll, carnasseur legacy
@@ -16988,7 +16990,7 @@ ___
 >A|**Rush soudain**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gnoll, chasseur
@@ -17018,7 +17020,7 @@ ___
 >Déchaîné.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gnoll, chasseur legacy
@@ -17048,7 +17050,7 @@ ___
 >A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gnoll, croc de Yeenoghu
@@ -17077,7 +17079,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gnoll, désséché
@@ -17109,7 +17111,7 @@ ___
 >Frappe vengeresse.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gnoll, désséché legacy
@@ -17140,7 +17142,7 @@ ___
 >R|**Frappe vengeresse**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gnoll, seigneur de meute
@@ -17170,7 +17172,7 @@ ___
 >A|**Incitation au déchaînement (Recharge 5-6)**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gnome des profondeurs (svirfnebelin)
@@ -17202,7 +17204,7 @@ ___
 >A|**Dard empoisonné**. +4, 9/36 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -17231,7 +17233,7 @@ ___
 >A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -17262,7 +17264,7 @@ ___
 >R|**Attaque redirigée**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gobelours
@@ -17291,7 +17293,7 @@ ___
 >A|**Javeline**. +4, 1,50 m ou 9/36 m, 2d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -17323,7 +17325,7 @@ ___
 >A|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Golem d'argile
@@ -17357,7 +17359,7 @@ ___
 >A|**Hâte (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -17393,7 +17395,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Golem de bronze
@@ -17428,7 +17430,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Golem de chair
@@ -17462,7 +17464,7 @@ ___
 >A|**Coup**. +7, 1,50 m, 2d8+4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -17497,7 +17499,7 @@ ___
 >A|**Souffle empoisonné (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -17533,7 +17535,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Golem de pierre
@@ -17565,7 +17567,7 @@ ___
 >A|**Lenteur (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -17599,7 +17601,7 @@ ___
 >Souffle pétrifiant (Recharge 5-6).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gorgone
@@ -17629,7 +17631,7 @@ ___
 >A|**Souffle pétrifiant (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -17667,7 +17669,7 @@ ___
 >A|**Cornes**. +13, 3 m, 7d10+7 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Goule
@@ -17695,7 +17697,7 @@ ___
 >A|**Morsure**. +2, 1,50 m, 2d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -17737,7 +17739,7 @@ ___
 >Éclat chromatique (coûte 2 actions).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Grand dracosire diamantin
@@ -17779,7 +17781,7 @@ ___
 >Rayon psychique (coûte 3 actions).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Grand dracosire métallique
@@ -17822,7 +17824,7 @@ ___
 >Rugissement fracassant (coûte 2 actions).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Grand singe
@@ -17850,7 +17852,7 @@ ___
 >A|**Rocher**. +5, 7,50/15 m, 1d6+3 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -17891,7 +17893,7 @@ ___
 >Danse, ma marionnette.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Graz'zt legacy
@@ -17935,7 +17937,7 @@ ___
 >L|**Téléportation**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Greffeur transdraconique
@@ -17958,7 +17960,7 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 3 (700 PX) **Bonus de maîtrise** +2
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Grell
@@ -17988,7 +17990,7 @@ ___
 >A|**Bec**. +4, 1,50 m, 2d4+2 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Grenouille
@@ -18015,7 +18017,7 @@ ___
 >**Saut sans élan**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -18045,7 +18047,7 @@ ___
 >A|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -18075,7 +18077,7 @@ ___
 >A|**Bec**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -18106,7 +18108,7 @@ ___
 >A|**Bec**. +7, 3 m, 2d8+4 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Griffe rampante
@@ -18134,7 +18136,7 @@ ___
 >A|**Griffes**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Griffecendre
@@ -18169,7 +18171,7 @@ ___
 >Portée mortelle.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Griffecendre legacy
@@ -18203,7 +18205,7 @@ ___
 >Portée mortelle.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Griffon
@@ -18232,7 +18234,7 @@ ___
 >A|**Griffes**. +6, 1,50 m, 2d6+4 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -18266,7 +18268,7 @@ ___
 >Dague.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Grung, guerrier d'élite
@@ -18301,7 +18303,7 @@ ___
 >Gazouilli envoûtant (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Grung, guerrier d'élite legacy
@@ -18335,7 +18337,7 @@ ___
 >A|**Gazouilli envoûtant (Recharge 6)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Grung legacy
@@ -18367,7 +18369,7 @@ ___
 >A|**Dague**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Grung, sauvageon
@@ -18402,7 +18404,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Grung, sauvageon legacy
@@ -18439,7 +18441,7 @@ ___
 >A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Guenaude annis
@@ -18471,7 +18473,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Guenaude annis legacy
@@ -18504,7 +18506,7 @@ ___
 >A|**Étreinte excessive**. +8, 1,50 m, 9d6+5 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Guenaude frige
@@ -18539,7 +18541,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Guenaude frige legacy
@@ -18574,7 +18576,7 @@ ___
 >A|**Festin oppressant**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Guenaude marine
@@ -18603,7 +18605,7 @@ ___
 >A|**Apparence illusoire**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -18639,7 +18641,7 @@ ___
 >A|**Invasion cauchemardesque (1/jour)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -18672,7 +18674,7 @@ ___
 >A|**Passage invisible**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -18705,7 +18707,7 @@ ___
 >
 >
 >Adventures (Descent into Avernus)
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Guêpe géante
@@ -18730,7 +18732,7 @@ ___
 >A|**Dard**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -18761,7 +18763,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Guerrier tribal
@@ -18787,7 +18789,7 @@ ___
 >A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -18817,7 +18819,7 @@ ___
 >Dégorgement (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gueule abyssale legacy
@@ -18846,7 +18848,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 2d8+2 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gueule de Grolantor
@@ -18875,7 +18877,7 @@ ___
 >Poing.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gueule de Grolantor legacy
@@ -18908,7 +18910,7 @@ ___
 >A|**Poing**. +8, 3 m, 3d8+5 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Gynosphinx
@@ -18950,7 +18952,7 @@ ___
 >L|**Sort (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19013,7 +19015,7 @@ ___
 >A|**Chant captivant**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19047,7 +19049,7 @@ ___
 >Métamorphe.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Héritier des profondeurs legacy
@@ -19080,7 +19082,7 @@ ___
 >A|**Hurlement psychique (forme hybride uniquement ; Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hezrou
@@ -19113,7 +19115,7 @@ ___
 >A|**Morsure**. +7, 1,50 m, 2d10+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19139,7 +19141,7 @@ ___
 >**Respiration aquatique**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19167,7 +19169,7 @@ ___
 >A|**Coup de tête**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19197,7 +19199,7 @@ ___
 >A|**Griffes**. +5, 1,50 m, 2d6+3 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19225,7 +19227,7 @@ ___
 >A|**Arc long**. +3, 45/180 m, 1d8+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19255,7 +19257,7 @@ ___
 >A|**Commandement (Recharge après un repos court ou long)**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hobgobelin, dévastateur
@@ -19285,7 +19287,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hobgobelin, dévastateur legacy
@@ -19319,7 +19321,7 @@ ___
 >A|**Bâton**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hobgobelin, ombre de fer
@@ -19350,7 +19352,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hobgobelin, ombre de fer legacy
@@ -19383,7 +19385,7 @@ ___
 >A|**Détour par les ombres**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hobgobelin, seigneur de guerre
@@ -19415,7 +19417,7 @@ ___
 >R|**Parade**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Homme-lézard
@@ -19446,7 +19448,7 @@ ___
 >A|**Bouclier à pointe**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19482,7 +19484,7 @@ ___
 >A|**Changement de forme (Recharge après un repos court ou long)**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Homme-poisson
@@ -19509,7 +19511,7 @@ ___
 >A|**Lance**. +2, 1,50 m ou 6/18 m, 1d6 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19538,7 +19540,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19571,7 +19573,7 @@ ___
 >A|**Épée longue**. +6, 1,50 m, 1d8+4 tranchants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Horreur chasseresse
@@ -19605,7 +19607,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Horreur chasseresse legacy
@@ -19639,7 +19641,7 @@ ___
 >Rayon paralysant (Recharge 5–6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Horreur crochue
@@ -19668,7 +19670,7 @@ ___
 >A|**Crochet**. +6, 3 m, 2d6+4 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Huldin
@@ -19700,7 +19702,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hurleur
@@ -19731,7 +19733,7 @@ ___
 >Hurlement briseur d'esprit (Recharge 4–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hurleur legacy
@@ -19762,7 +19764,7 @@ ___
 >Hurlement briseur d'esprit (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hutijin
@@ -19806,7 +19808,7 @@ ___
 >Tempête d'éclairs (Costs 2 Actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hutijin legacy
@@ -19851,7 +19853,7 @@ ___
 >Téléportation.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hydre
@@ -19882,7 +19884,7 @@ ___
 >A|**Morsure**. +8, 3 m, 1d10+5 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -19922,7 +19924,7 @@ ___
 >Téléportation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hydroloth legacy
@@ -19961,7 +19963,7 @@ ___
 >Téléportation.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Hyène
@@ -19988,7 +19990,7 @@ ___
 >A|**Morsure**. +2, 1,50 m, 1d6 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -20016,7 +20018,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -20076,7 +20078,7 @@ ___
 >A|**Bâton**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Imix
@@ -20103,7 +20105,7 @@ ___
 >**Puissance** 19 (22000 PX)
 >
 >_Adventures (Princes of the Apocalypse)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Incantateur (niv 1)
@@ -20137,7 +20139,7 @@ ___
 >A|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Incantateur (niv 2)
@@ -20171,7 +20173,7 @@ ___
 >A|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Incantateur (niv 3)
@@ -20205,7 +20207,7 @@ ___
 >A|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Incantateur (niv 4)
@@ -20239,7 +20241,7 @@ ___
 >A|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Incantateur (niv 5)
@@ -20275,7 +20277,7 @@ ___
 >A|**Bâton**. +3, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Incantateur (niv 6)
@@ -20312,7 +20314,7 @@ ___
 >A|**Bâton**. +3, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Invocateur legacy
@@ -20348,7 +20350,7 @@ ___
 >A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Irisia
@@ -20382,7 +20384,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Jarlaxle Baenre
@@ -20461,7 +20463,7 @@ ___
 >Contact corrupteur (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Juiblex legacy
@@ -20503,7 +20505,7 @@ ___
 >Contact corrupteur (coûte 2 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kenku
@@ -20532,7 +20534,7 @@ ___
 >A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ki-rin
@@ -20568,7 +20570,7 @@ ___
 >Châtiment.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ki-rin legacy
@@ -20618,7 +20620,7 @@ ___
 >L|**Déplacement**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kobold
@@ -20646,7 +20648,7 @@ ___
 >A|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -20675,7 +20677,7 @@ ___
 >A|**Chute de pierre**. +5, , 1d6+3 contondants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kobold, écu-dragon
@@ -20707,7 +20709,7 @@ ___
 >Lance.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kobold, écu-dragon legacy
@@ -20739,7 +20741,7 @@ ___
 >A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kobold, ensorceleur des écailles
@@ -20770,7 +20772,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kobold, ensorceleur des écailles legacy
@@ -20803,7 +20805,7 @@ ___
 >A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kobold, inventeur
@@ -20832,7 +20834,7 @@ ___
 >Invention militaire.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kobold, inventeur legacy
@@ -20870,7 +20872,7 @@ ___
 >A|**8- Nid de guêpes dans un sac**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Korred
@@ -20902,7 +20904,7 @@ ___
 >Corde de cheveux.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Korred legacy
@@ -20937,7 +20939,7 @@ ___
 >A|**Rocher**. +9, , 2d8+6 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kraken
@@ -20975,7 +20977,7 @@ ___
 >L|**Nuage d'encre (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -21006,7 +21008,7 @@ ___
 >Épines.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kruthik, adulte legacy
@@ -21036,7 +21038,7 @@ ___
 >Épines.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kruthik, jeune
@@ -21063,7 +21065,7 @@ ___
 >Frappe.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kruthik, jeune legacy
@@ -21091,7 +21093,7 @@ ___
 >Frappe.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kruthik, seigneur de la ruche
@@ -21121,7 +21123,7 @@ ___
 >Vaporisation d'acide (Recharge 5–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kruthik, seigneur de la ruche legacy
@@ -21152,7 +21154,7 @@ ___
 >Vaporisation d'acide (Recharge 5–6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kuo-toa
@@ -21185,7 +21187,7 @@ ___
 >R|**Bouclier collant**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kuo-toa, archiprêtre
@@ -21224,7 +21226,7 @@ ___
 >A|**Attaque à mains nues**. +6, 1,50 m, 1d4+3 contondants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Kuo-toa, fouet
@@ -21259,7 +21261,7 @@ ___
 >A|**Bâton à pinces**. +4, 3 m, 1d6+2 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >L'abandon legacy
@@ -21289,7 +21291,7 @@ ___
 >Étreinte serrée.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >La colère legacy
@@ -21319,7 +21321,7 @@ ___
 >Crochet.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >La faim legacy
@@ -21348,7 +21350,7 @@ ___
 >Griffes.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >La misère legacy
@@ -21375,7 +21377,7 @@ ___
 >Morsure.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >La solitude legacy
@@ -21405,7 +21407,7 @@ ___
 >Étreinte douloureuse.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Laeral Silverhand
@@ -21486,7 +21488,7 @@ ___
 >Fureur martiale.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Lame-en-peine, commandant legacy
@@ -21520,7 +21522,7 @@ ___
 >Appel à l'honneur (1/jour).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Lame-en-peine, guerrier
@@ -21551,7 +21553,7 @@ ___
 >Fureur martiale.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Lame-en-peine, guerrier legacy
@@ -21581,7 +21583,7 @@ ___
 >Arc long.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Lame nocturne
@@ -21608,7 +21610,7 @@ ___
 >A|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >Adventures (Descent into Avernus)
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Lamie
@@ -21641,7 +21643,7 @@ ___
 >A|**Contact enivrant**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -21678,7 +21680,7 @@ ___
 >A|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
 >
 >_Extra (Adventurers League)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Lémure
@@ -21708,7 +21710,7 @@ ___
 >A|**Poing**. +3, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -21740,7 +21742,7 @@ ___
 >Retraite percutante.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Leucrotta legacy
@@ -21772,7 +21774,7 @@ ___
 >A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Léviathan
@@ -21810,7 +21812,7 @@ ___
 >Coup (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Léviathan legacy
@@ -21848,7 +21850,7 @@ ___
 >Déplacement.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Lézard
@@ -21873,7 +21875,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -21899,7 +21901,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -21976,7 +21978,7 @@ ___
 >L|**Perturbation de la vie (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22017,7 +22019,7 @@ ___
 >L|**Soin personnel (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22075,7 +22077,7 @@ ___
 >A|**Enchevêtrement des plantes (Recharge 5-6)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Lièvre
@@ -22131,7 +22133,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22160,7 +22162,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 2d4+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22192,7 +22194,7 @@ ___
 >A|**Souffle glacé (Recharge 5-6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22225,7 +22227,7 @@ ___
 >A|**Lance (forme humanoïde uniquement)**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22254,7 +22256,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22288,7 +22290,7 @@ ___
 >Armes infernales.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Machine de guerre infernale legacy
@@ -22320,7 +22322,7 @@ ___
 >Armes infernales.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Mage
@@ -22354,7 +22356,7 @@ ___
 >A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22386,7 +22388,7 @@ ___
 >Protection arcanique (Recharge 4–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Magicien devin
@@ -22417,7 +22419,7 @@ ___
 >Présage (3/jour).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Magicien enchanteur
@@ -22447,7 +22449,7 @@ ___
 >Charme instinctif (Recharge 4–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Magicien évocateur
@@ -22477,7 +22479,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Magicien illusionniste
@@ -22507,7 +22509,7 @@ ___
 >Déplacement (Recharge 5–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Magicien invocateur
@@ -22538,7 +22540,7 @@ ___
 >Convocation d'élémentaire (1/jour).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Magicien nécromant
@@ -22570,7 +22572,7 @@ ___
 >Sinistre moisson (1/tour).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Magicien transmutateur
@@ -22600,7 +22602,7 @@ ___
 >Transmutation (Recharge 4–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Magmatique
@@ -22629,7 +22631,7 @@ ___
 >A|**Contact**. +4, 1,50 m, 2d6 feu  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22668,7 +22670,7 @@ ___
 >
 >
 >Adventures (Descent into Avernus)
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Maître voleur
@@ -22700,7 +22702,7 @@ ___
 >R|**Esquive**.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Maître voleur legacy
@@ -22733,7 +22735,7 @@ ___
 >R|**Esquive**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Maldryn
@@ -22770,7 +22772,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Malfrat
@@ -22799,7 +22801,7 @@ ___
 >A|**Arbalète lourde**. +2, 30/120 m, 1d10 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22827,7 +22829,7 @@ ___
 >A|**Piétinement**. +10, 1,50 m, 4d10+7 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22856,7 +22858,7 @@ ___
 >A|**Griffes**. +2, 1,50 m, 2d4 tranchants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Manshoon
@@ -22915,7 +22917,7 @@ ___
 >A|**Aura ténébreuse (1/jour)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22949,7 +22951,7 @@ ___
 >A|**Fantasmes (Recharge après un repos court ou long)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -22979,7 +22981,7 @@ ___
 >A|**Piquant**. +5, 30/60 m, 1d8+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23015,7 +23017,7 @@ ___
 >A|**Jet d'eau**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Marilith
@@ -23051,7 +23053,7 @@ ___
 >R|**Parade**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23089,7 +23091,7 @@ ___
 >Changement de plan (3/jour).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Maruth legacy
@@ -23126,7 +23128,7 @@ ___
 >Renvoi.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Mastodonte des ombres
@@ -23155,7 +23157,7 @@ ___
 >A|**Mandibules**. +8, 1,50 m, 2d8+5 tranchants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Maurezhi
@@ -23189,7 +23191,7 @@ ___
 >Relever les goules (Recharge 5–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Maurezhi legacy
@@ -23223,7 +23225,7 @@ ___
 >Relever les goules (Recharge 5–6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Méduse
@@ -23253,7 +23255,7 @@ ___
 >A|**Arc Long**. +5, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23285,7 +23287,7 @@ ___
 >A|**Souffle boueux (Recharge 6)**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Méphite fumant
@@ -23316,7 +23318,7 @@ ___
 >A|**Souffle de cendre (Recharge 6)**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Méphite gelé
@@ -23349,7 +23351,7 @@ ___
 >A|**Souffle de givre (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23383,7 +23385,7 @@ ___
 >A|**Souffle de feu (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23416,7 +23418,7 @@ ___
 >A|**Souffle aveuglant (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23447,7 +23449,7 @@ ___
 >A|**Souffle vaporeux (Recharge 6)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23476,7 +23478,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Merregon
@@ -23509,7 +23511,7 @@ ___
 >Garde du corps fidèle.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Merregon legacy
@@ -23542,7 +23544,7 @@ ___
 >Garde du corps fidèle.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Merrenoloth
@@ -23577,7 +23579,7 @@ ___
 >Téléportation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Merrenoloth legacy
@@ -23613,7 +23615,7 @@ ___
 >Regard de peur.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Merrow
@@ -23642,7 +23644,7 @@ ___
 >A|**Harpon**. +6, 1,50 m ou 6/18 m, 2d6+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23676,7 +23678,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Mezzoloth
@@ -23713,7 +23715,7 @@ ___
 >A|**Téléportation**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Miirym
@@ -23764,7 +23766,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23798,7 +23800,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23824,7 +23826,7 @@ ___
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Minotaure
@@ -23854,7 +23856,7 @@ ___
 >A|**Corne**. +6, 1,50 m, 2d8+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23883,7 +23885,7 @@ ___
 >A|**Contact pourrissant**. +2, 3 m, 1d8 nécrotiques  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -23926,7 +23928,7 @@ ___
 >Sort (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Moloch legacy
@@ -23971,7 +23973,7 @@ ___
 >L|**Fouet**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Molosse
@@ -23998,7 +24000,7 @@ ___
 >A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -24029,7 +24031,7 @@ ___
 >Mélange d'ombre.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Molosse des ombres dominant
@@ -24060,7 +24062,7 @@ ___
 >Mélange d'ombre.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Molosse des ombres legacy
@@ -24091,7 +24093,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Molydée
@@ -24130,7 +24132,7 @@ ___
 >Sort (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Molydée legacy
@@ -24170,7 +24172,7 @@ ___
 >Sort.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Momie
@@ -24202,7 +24204,7 @@ ___
 >A|**Regard d'épouvante**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -24231,7 +24233,7 @@ ___
 >A|**Javeline**. +2, 1,50 m ou 9/36 m, 1d6 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Morbilleux
@@ -24260,7 +24262,7 @@ ___
 >Discrétion dans les ombres.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Morbilleux legacy
@@ -24289,7 +24291,7 @@ ___
 >Téléportation par les ombres (Recharge 5–6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Morkoth
@@ -24322,7 +24324,7 @@ ___
 >Renvoi de sort.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Morkoth legacy
@@ -24363,7 +24365,7 @@ ___
 >R|**Renvoi de sort**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Morse
@@ -24475,7 +24477,7 @@ ___
 >A|**Sabots**. +2, 1,50 m, 1d4+2 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -24505,7 +24507,7 @@ ___
 >A|**Spores de communication (3/jour)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Myconide, pousse
@@ -24533,7 +24535,7 @@ ___
 >A|**Spores de communication (3/jour)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Myconide, souverain
@@ -24565,7 +24567,7 @@ ___
 >A|**Spores de communication**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nabassu
@@ -24601,7 +24603,7 @@ ___
 >Regard voleur d'âme.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nabassu legacy
@@ -24638,7 +24640,7 @@ ___
 >Regard voleur d'âme.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Naga corrupteur
@@ -24674,7 +24676,7 @@ ___
 >A|**Morsure**. +7, 3 m, 1d6+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -24713,7 +24715,7 @@ ___
 >A|**Crachat empoisonné**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -24751,7 +24753,7 @@ ___
 >Niv 3 (2) : _éclair_  
 >A|**Morsure**. +5, 3 m, 2d6+3 perforants  
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nagpa
@@ -24783,7 +24785,7 @@ ___
 >Paralysie (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nagpa legacy
@@ -24813,7 +24815,7 @@ ___
 >Batôn.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nalfeshnie
@@ -24847,7 +24849,7 @@ ___
 >A|**Téléportation**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -24884,7 +24886,7 @@ ___
 >Guérison (1/jour).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Narzugon legacy
@@ -24921,7 +24923,7 @@ ___
 >A|**Guérison (1/jour)**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nécromant legacy
@@ -24959,7 +24961,7 @@ ___
 >A|**Toucher flétrissant**. +7, 1,50 m, 2d4 nécrotiques  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nécromite de Myrkul
@@ -24987,7 +24989,7 @@ ___
 >
 >
 >Adventures (Descent into Avernus)
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nécrophage
@@ -25020,7 +25022,7 @@ ___
 >A|**Arc long**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -25052,7 +25054,7 @@ ___
 >Asservissement (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Néogi, larve
@@ -25079,7 +25081,7 @@ ___
 >Morsure.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Néogi, larve legacy
@@ -25106,7 +25108,7 @@ ___
 >A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Néogi legacy
@@ -25137,7 +25139,7 @@ ___
 >A|**Asservissement (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Néogi, maître
@@ -25172,7 +25174,7 @@ ___
 >Asservissement (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Néogi, maître legacy
@@ -25207,7 +25209,7 @@ ___
 >A|**Asservissement (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Néothélide
@@ -25237,7 +25239,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Néothélide legacy
@@ -25269,7 +25271,7 @@ ___
 >A|**Souffle d'acide (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nerissa
@@ -25299,7 +25301,7 @@ ___
 >R|**Parade**.  
 >
 >_Extra (Adventurers League)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nielleux
@@ -25328,7 +25330,7 @@ ___
 >A|**Griffes**. +3, 1,50 m, 1d4+1 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -25360,7 +25362,7 @@ ___
 >Revers de fortune.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nilebog legacy
@@ -25393,7 +25395,7 @@ ___
 >R|**Revers de fortune**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Noble
@@ -25420,7 +25422,7 @@ ___
 >R|**Parade**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -25451,7 +25453,7 @@ ___
 >A|**Intuition mystérieuse**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nuée d'insectes
@@ -25479,7 +25481,7 @@ ___
 >A|**Morsures**. +3, 0 m, 4d4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -25510,7 +25512,7 @@ ___
 >A|**Morsures**. +4, 0 m, 2d4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -25540,7 +25542,7 @@ ___
 >A|**Becs**. +4, 1,50 m, 2d6 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -25569,7 +25571,7 @@ ___
 >A|**Cimeterre minuscule**. +3, 0 m, 4d4 tranchants  
 >
 >_Extra (Adventurers League)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nuée de piranhas
@@ -25599,7 +25601,7 @@ ___
 >A|**Morsures**. +5, 0 m, 4d6 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -25629,7 +25631,7 @@ ___
 >A|**Morsures**. +2, 0 m, 2d6 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -25661,7 +25663,7 @@ ___
 >Éclairage.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nuée de rats-crânes legacy
@@ -25694,7 +25696,7 @@ ___
 >A|**Morsure**. +5, , 4d6 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nuée de serpents venimeux
@@ -25722,7 +25724,7 @@ ___
 >A|**Morsures**. +6, 0 m, 2d6 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -25751,7 +25753,7 @@ ___
 >Morsures.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nuée de vers putrides legacy
@@ -25779,7 +25781,7 @@ ___
 >A|**Morsures**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nupperibo
@@ -25810,7 +25812,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nupperibo legacy
@@ -25841,7 +25843,7 @@ ___
 >Morsure.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Nycaloth
@@ -25877,7 +25879,7 @@ ___
 >A|**Téléportation**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Objet dansant
@@ -25940,7 +25942,7 @@ ___
 >Imitation sulfureuse.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Oblex, adulte legacy
@@ -25974,7 +25976,7 @@ ___
 >Mangeur de souvenirs.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Oblex, rejeton
@@ -26004,7 +26006,7 @@ ___
 >Pseudopode.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Oblex, rejeton legacy
@@ -26034,7 +26036,7 @@ ___
 >Pseudopode.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Oblex, vénérable
@@ -26069,7 +26071,7 @@ ___
 >Imitation sulfureuse.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Oblex, vénérable legacy
@@ -26104,7 +26106,7 @@ ___
 >Mangeur de souvenirs.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Occultiste de l'Archifée
@@ -26138,7 +26140,7 @@ ___
 >R|**Échappatoire brumeuse (Recharge après un repos court ou long)**.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Occultiste de l'Archifée legacy
@@ -26173,7 +26175,7 @@ ___
 >R|**Échappatoire brumeuse (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Occultiste du Fiélon
@@ -26208,7 +26210,7 @@ ___
 >R|**Représailles fiélonnes (3/jour)**.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Occultiste du Fiélon legacy
@@ -26243,7 +26245,7 @@ ___
 >A|**Masse d'armes**. +3, 1,50 m, 1d6 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Occultiste du Grand Ancien
@@ -26277,7 +26279,7 @@ ___
 >1/jour chacun : _détection des pensées, vision suprême_  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Occultiste du Grand Ancien legacy
@@ -26312,7 +26314,7 @@ ___
 >A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ogre
@@ -26338,7 +26340,7 @@ ___
 >A|**Javeline**. +6, 1,50 m ou 9/36 m, 2d6+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -26365,7 +26367,7 @@ ___
 >Balistard.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ogre, balistard legacy
@@ -26391,7 +26393,7 @@ ___
 >Balistard.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ogre, brise-portail
@@ -26419,7 +26421,7 @@ ___
 >Barrage.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ogre, brise-portail legacy
@@ -26446,7 +26448,7 @@ ___
 >Barrage.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ogre, brute-à-chaînes
@@ -26473,7 +26475,7 @@ ___
 >Balayage.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ogre, brute-à-chaînes legacy
@@ -26500,7 +26502,7 @@ ___
 >Casse-chaîne (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ogre, howdah
@@ -26526,7 +26528,7 @@ ___
 >Masse d'armes.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ogre, howdah legacy
@@ -26552,7 +26554,7 @@ ___
 >Masse d'armes.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ogrémoch
@@ -26579,7 +26581,7 @@ ___
 >**Puissance** 20 (24500 PX)
 >
 >_Adventures (Princes of the Apocalypse)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Oinoloth
@@ -26615,7 +26617,7 @@ ___
 >Porteur de pestes (Recharge 5–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Oinoloth legacy
@@ -26653,7 +26655,7 @@ ___
 >Regard transperçant.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Olhydra
@@ -26680,7 +26682,7 @@ ___
 >**Puissance** 18 (20000 PX)
 >
 >_Adventures (Princes of the Apocalypse)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ombre
@@ -26713,7 +26715,7 @@ ___
 >A|**Absorption de Force**. +4, 1,50 m, 2d6+2 nécrotiques  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -26748,7 +26750,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ombre, vénérable
@@ -26784,7 +26786,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Oni
@@ -26819,7 +26821,7 @@ ___
 >A|**Changement de forme**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -26845,7 +26847,7 @@ ___
 >**Langues** commun, draconique et deux langues au choix  
 >**Puissance** 2 (450 PX) **Bonus de maîtrise** +2
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Orc
@@ -26873,7 +26875,7 @@ ___
 >A|**Javeline**. +5, 1,50 m ou 9/36 m, 1d6+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -26906,7 +26908,7 @@ ___
 >A|**Cri de guerre (1/jour)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Orc, croc rouge de Shargaas
@@ -26938,7 +26940,7 @@ ___
 >A|**Voile de Shargaas (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Orc, griffe de Luthic
@@ -26971,7 +26973,7 @@ ___
 >A|**Griffes**. +4, 1,50 m, 1d8+2 tranchants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Orc, lame d'Ilneval
@@ -27003,7 +27005,7 @@ ___
 >A|**Injonction d'Ilneval (Recharge 4-6)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Orc, main de Yurtrus
@@ -27034,7 +27036,7 @@ ___
 >A|**Toucher de la Main blanche**. +3, 1,50 m, 2d8 nécrotiques  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Orc, Oeil de Gruumsh
@@ -27103,7 +27105,7 @@ ___
 >Mort rampante (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27148,7 +27150,7 @@ ___
 >L|**Mort rampante (coûte 2 actions)**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Orog
@@ -27177,7 +27179,7 @@ ___
 >A|**Javeline**. +6, 1,50 m ou 9/36 m, 1d6+4 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Orthon
@@ -27211,7 +27213,7 @@ ___
 >Punition explosive.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Orthon legacy
@@ -27245,7 +27247,7 @@ ___
 >Punition explosive.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Otyugh
@@ -27275,7 +27277,7 @@ ___
 >A|**Frappe tentaculaire**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27305,7 +27307,7 @@ ___
 >A|**Morsure**. +6, 1,50 m, 1d8+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27338,7 +27340,7 @@ ___
 >A|**Hache à deux mains (forme humanoïde ou hybride uniquement)**. +7, 1,50 m, 1d12+4 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27368,7 +27370,7 @@ ___
 >A|**Griffes**. +7, 1,50 m, 2d8+5 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27398,7 +27400,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27428,7 +27430,7 @@ ___
 >A|**Morsure**. +7, 1,50 m, 1d8+5 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27457,7 +27459,7 @@ ___
 >A|**Antennes**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27487,7 +27489,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27513,7 +27515,7 @@ ___
 >A|**Dard**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Extra (Adventurers League)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Pégase
@@ -27540,7 +27542,7 @@ ___
 >A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27571,7 +27573,7 @@ ___
 >A|**Gaz paralysant (Recharge 5-6)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Perceur
@@ -27599,7 +27601,7 @@ ___
 >A|**Plongeon**. +3, , 1d6 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Péryton
@@ -27631,7 +27633,7 @@ ___
 >A|**Serres**. +5, 1,50 m, 2d4+3 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Pétrifié maudit
@@ -27662,7 +27664,7 @@ ___
 >Griffes pétrifiantes.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Pétrifié maudit legacy
@@ -27692,7 +27694,7 @@ ___
 >Griffes pétrifiantes.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Phénix
@@ -27732,7 +27734,7 @@ ___
 >Plongée (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Phénix legacy
@@ -27772,7 +27774,7 @@ ___
 >Plongée (coûte 2 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Phoque
@@ -27826,7 +27828,7 @@ ___
 >Étouffement.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Piégeur legacy
@@ -27854,7 +27856,7 @@ ___
 >A|**Étouffement**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Pieuvre
@@ -27884,7 +27886,7 @@ ___
 >A|**Nuage d'encre (Recharges après un repos court ou long)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27915,7 +27917,7 @@ ___
 >A|**Nuage d'encre (Recharge après un repos court ou long)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27943,7 +27945,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -27974,7 +27976,7 @@ ___
 >A|**Invisibilité supérieure**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Planétar
@@ -28012,7 +28014,7 @@ ___
 >A|**Contact guérisseur (4/jour)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28040,7 +28042,7 @@ ___
 >A|**Morsure**. +6, 3 m, 3d6+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28070,7 +28072,7 @@ ___
 >
 >
 >Adventures (Descent into Avernus)
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Poney
@@ -28095,7 +28097,7 @@ ___
 >A|**Sabots**. +4, 1,50 m, 2d4+2 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28127,7 +28129,7 @@ ___
 >R|**Division**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28163,7 +28165,7 @@ ___
 >Rugissement étourdissant (Recharge 5–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Prédateur d'acier legacy
@@ -28198,7 +28200,7 @@ ___
 >Rugissement étourdissant (Recharge 5–6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Prestelin
@@ -28227,7 +28229,7 @@ ___
 >Dague.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Prestelin legacy
@@ -28256,7 +28258,7 @@ ___
 >A|**Dague**. +8, 1,50 m ou 6/18 m, 1d4+6 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Prêtre
@@ -28288,7 +28290,7 @@ ___
 >A|**Masse d'armes**. +2, 1,50 m, 1d6 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28322,7 +28324,7 @@ ___
 >B|**Lumière de guérison (Recharge 4-6)**.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Prêtre de guerre legacy
@@ -28358,7 +28360,7 @@ ___
 >R|**Frappe guidée (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Prêtre du kraken
@@ -28392,7 +28394,7 @@ ___
 >A|**Voix du kraken (Recharge après un repos court ou long)**.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Prêtre du kraken legacy
@@ -28425,7 +28427,7 @@ ___
 >A|**Voix du kraken (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Protégé du dragon
@@ -28450,7 +28452,7 @@ ___
 >**Langues** commun, draconique et deux langues au choix  
 >**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Pseudodragon
@@ -28480,7 +28482,7 @@ ___
 >A|**Dard**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28508,7 +28510,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28539,7 +28541,7 @@ ___
 >A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Quaggoth
@@ -28569,7 +28571,7 @@ ___
 >A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Quaggoth, serviteur des spores
@@ -28597,7 +28599,7 @@ ___
 >A|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Quasit
@@ -28630,7 +28632,7 @@ ___
 >A|**Invisibilité**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28658,7 +28660,7 @@ ___
 >Morsure.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Quetzalcoatlus legacy
@@ -28686,7 +28688,7 @@ ___
 >A|**Morsure**. +4, 3 m, 3d6+2 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Racine diabolique
@@ -28720,7 +28722,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Raie manta de récif
@@ -28748,7 +28750,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rakshasa
@@ -28782,7 +28784,7 @@ ___
 >A|**Griffes**. +7, 1,50 m, 2d6+2 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28809,7 +28811,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28837,7 +28839,7 @@ ___
 >Éclairage.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rat-crâne legacy
@@ -28864,7 +28866,7 @@ ___
 >A|**Morsure**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rat-garou
@@ -28896,7 +28898,7 @@ ___
 >A|**Arbalète de poing (forme humanoïde ou hybride uniquement)**. +4, 9/36 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28924,7 +28926,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -28958,7 +28960,7 @@ ___
 >Ver fouisseur.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton de Kyuss legacy
@@ -28990,7 +28992,7 @@ ___
 >A|**Griffes**. +6, 1,50 m, 1d6+3 tranchants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton des mers
@@ -29018,7 +29020,7 @@ ___
 >Anatomie de poisson.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton des mers legacy
@@ -29049,7 +29051,7 @@ ___
 >A|**Tentacule**. +5, 3 m, 1d6+2 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton stellaire, colosse
@@ -29081,7 +29083,7 @@ ___
 >Bras moissonneurs (Recharge 5–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton stellaire, colosse legacy
@@ -29113,7 +29115,7 @@ ___
 >Bras moissonneurs (Recharge 5–6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton stellaire, frémisseur
@@ -29140,7 +29142,7 @@ ___
 >Morsure confondante.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton stellaire, frémisseur legacy
@@ -29167,7 +29169,7 @@ ___
 >Morsure confondante.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton stellaire, magever
@@ -29206,7 +29208,7 @@ ___
 >Faim (coûte 3 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton stellaire, magever legacy
@@ -29243,7 +29245,7 @@ ___
 >Faim (coûte 3 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton stellaire, massacreur
@@ -29277,7 +29279,7 @@ ___
 >Discrétion dans les ombres.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton stellaire, massacreur legacy
@@ -29311,7 +29313,7 @@ ___
 >Tourbillon de griffes (Recharge 4–6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton stellaire, voyant
@@ -29346,7 +29348,7 @@ ___
 >Distance forcée.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rejeton stellaire, voyant legacy
@@ -29381,7 +29383,7 @@ ___
 >Distance forcée.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Remorhaz
@@ -29409,7 +29411,7 @@ ___
 >A|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -29437,7 +29439,7 @@ ___
 >A|**Morsure**. +6, 1,50 m, 3d10+4 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Renard
@@ -29491,7 +29493,7 @@ ___
 >A|**Morsure**. +6, 1,50 m, 2d8+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -29520,7 +29522,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -29549,7 +29551,7 @@ ___
 >A|**Morsure**. +9, 1,50 m, 3d10+6 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -29577,7 +29579,7 @@ ___
 >A|**Épines**. +3, 9/18 m, 2d6+1 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Revenant
@@ -29612,7 +29614,7 @@ ___
 >A|**Éblouissement vengeur**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rhinocéros
@@ -29638,7 +29640,7 @@ ___
 >A|**Corne**. +7, 1,50 m, 2d8+5 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -29669,7 +29671,7 @@ ___
 >A|**Serres**. +13, 1,50 m, 4d6+9 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -29703,7 +29705,7 @@ ___
 >A|**Trident**. +5, 1,50 m ou 6/18 m, 1d6+3 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rothé
@@ -29729,7 +29731,7 @@ ___
 >A|**Corne**. +6, 1,50 m, 1d6+4 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rothé des profondeurs
@@ -29756,7 +29758,7 @@ ___
 >Lumières dansantes.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rothé des profondeurs legacy
@@ -29783,7 +29785,7 @@ ___
 >A|**Corne**. +6, 1,50 m, 1d6+4 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Roturier
@@ -29808,7 +29810,7 @@ ___
 >A|**Gourdin**. +2, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -29842,7 +29844,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rutterkin
@@ -29871,7 +29873,7 @@ ___
 >Morsure.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Rutterkin legacy
@@ -29900,7 +29902,7 @@ ___
 >Morsure.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sage
@@ -29993,7 +29995,7 @@ ___
 >A|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30027,7 +30029,7 @@ ___
 >A|**Trident**. +7, 1,50 m ou 6/18 m, 2d6+4 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sahuagin, prêtresse
@@ -30063,7 +30065,7 @@ ___
 >A|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Salamandre
@@ -30095,7 +30097,7 @@ ___
 >A|**Queue**. +7, 3 m, 2d6+4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30129,7 +30131,7 @@ ___
 >Souffle glacial (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Salamandre du givre legacy
@@ -30162,7 +30164,7 @@ ___
 >Souffle glacial (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sanglier
@@ -30189,7 +30191,7 @@ ___
 >A|**Défenses**. +3, 1,50 m, 1d6+1 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30222,7 +30224,7 @@ ___
 >A|**Défenses (forme de sanglier ou hybride uniquement)**. +5, 1,50 m, 2d6+3 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30250,7 +30252,7 @@ ___
 >A|**Défenses**. +5, 1,50 m, 2d6+3 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30282,7 +30284,7 @@ ___
 >A|**Bâton**.  
 >
 >_Extra (Adventurers League)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Satyre
@@ -30311,7 +30313,7 @@ ___
 >A|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30338,7 +30340,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30361,7 +30363,7 @@ ___
 >**Langues** -  
 >**Puissance** 1/8 (25 PX) **Bonus de maîtrise** +2
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Scorpion
@@ -30386,7 +30388,7 @@ ___
 >A|**Dard**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30414,7 +30416,7 @@ ___
 >A|**Dard**. +4, 1,50 m, 1d10+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30449,7 +30451,7 @@ ___
 >L|**Ennemi apeuré (coûte 2 actions)**.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Seigneur de guerre legacy
@@ -30483,7 +30485,7 @@ ___
 >L|**Ennemi apeuré (coûte 2 actions)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Seigneur des crânes
@@ -30522,7 +30524,7 @@ ___
 >Convocation de mort-vivant (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Seigneur des crânes legacy
@@ -30560,7 +30562,7 @@ ___
 >Convocation de mort-vivant (coûte 3 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Seigneur momie
@@ -30607,7 +30609,7 @@ ___
 >L|**Tourbillon de sable (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30646,9 +30648,10 @@ ___
 >Frappe (coûte 2 actions).  
 >Sort (coûte 3 actions).  
 >
->
 >Adventures (Shadow of the Dragon Queen)
->
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
 >Selkie
 >==========
 >
@@ -30679,7 +30682,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sentinelle d'eau
@@ -30709,7 +30712,7 @@ ___
 >A|**Constriction**. +5, 3 m, 3d6+3 contondants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Serpent constricteur
@@ -30735,7 +30738,7 @@ ___
 >A|**Constriction**. +4, 1,50 m, 1d8+2 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30763,7 +30766,7 @@ ___
 >A|**Constriction**. +6, 1,50 m, 2d8+4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30795,7 +30798,7 @@ ___
 >A|**Queue**. +3, 1,50 m, 1d4+1 contondants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Serpent de mer, ancien
@@ -30819,8 +30822,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique  
 >**Puissance** 14 (11500 PX) **Bonus de maîtrise** +5
+>
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Serpent de mer, jeune
@@ -30844,8 +30848,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** commun, draconique  
 >**Puissance** 8 (3900 PX) **Bonus de maîtrise** +3
+>
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Serpent venimeux
@@ -30870,7 +30875,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30897,7 +30902,7 @@ ___
 >A|**Morsure**. +6, 3 m, 1d4+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30924,7 +30929,7 @@ ___
 >A|**Morsure**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -30960,9 +30965,10 @@ ___
 >Poing destructeur.  
 >Bond écrasant.  
 >
->
 >Rules (Tasha´s Cauldron of Everything)
->
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
 >Serviteur homoncule
 >=======================
 >
@@ -30990,9 +30996,11 @@ ___
 >A|**Frappe de force**.  
 >R|**Conduit magique**.  
 >
->
 >Rules (Tasha´s Cauldron of Everything)
->
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
+
 >Serviteur miniature
 >=======================
 >
@@ -31018,7 +31026,9 @@ ___
 >
 >
 >Rules (Xanathar´s Guide to Everything)
->
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
 >Shadar-kai, colporte-âmes
 >=============================
 >
@@ -31052,7 +31062,7 @@ ___
 >Vague de lassitude (Recharge 4–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Shadar-kai, colporte-âmes legacy
@@ -31088,7 +31098,7 @@ ___
 >Vague de lassitude (Recharge 4–6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Shadar-kai, danseur des ombres
@@ -31120,7 +31130,7 @@ ___
 >Saut des ombres.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Shadar-kai, danseur des ombres legacy
@@ -31152,7 +31162,7 @@ ___
 >Chaîne barbelée.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Shadar-kai, ténébriste
@@ -31185,7 +31195,7 @@ ___
 >Échappatoire brumeuse (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Shadar-kai, ténébriste legacy
@@ -31219,7 +31229,7 @@ ___
 >Échappatoire brumeuse (Recharge après un repos court ou long).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Shoosuva
@@ -31251,7 +31261,7 @@ ___
 >Déchaîné.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Shoosuva legacy
@@ -31283,7 +31293,7 @@ ___
 >A|**Dard caudal**. +7, 4,50 m, 2d8+4 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sibriex
@@ -31323,7 +31333,7 @@ ___
 >Corruption (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sibriex legacy
@@ -31366,7 +31376,7 @@ ___
 >L|**Corruption (coûte 2 actions)**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Singe géant
@@ -31394,7 +31404,7 @@ ___
 >A|**Rocher**. +9, 15/30 m, 7d6+6 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -31426,7 +31436,7 @@ ___
 >A|**Morsure**. +8, 1,50 m, 2d6+5 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Slaad funeste
@@ -31464,7 +31474,7 @@ ___
 >A|**Épée à deux mains**. +9, 1,50 m, 2d6+5 tranchants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Slaad gris
@@ -31502,7 +31512,7 @@ ___
 >A|**Épée à deux mains**. +7, 1,50 m, 2d6+3 tranchants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Slaad rouge
@@ -31533,7 +31543,7 @@ ___
 >A|**Morsure**. +6, 1,50 m, 2d4+3 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Slaad, têtard
@@ -31561,7 +31571,7 @@ ___
 >A|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Slaad vert
@@ -31599,7 +31609,7 @@ ___
 >A|**Jet de flammes**. +4, 18 m, 3d6 feu  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Solar
@@ -31643,7 +31653,7 @@ ___
 >L|**Regard aveuglant (coûte 3 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -31672,7 +31682,7 @@ ___
 >Dague.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sombrelin, aîné
@@ -31701,7 +31711,7 @@ ___
 >Ténèbres (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sombrelin, aîné legacy
@@ -31730,7 +31740,7 @@ ___
 >A|**Ténèbres (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sombrelin legacy
@@ -31758,7 +31768,7 @@ ___
 >A|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sorcemort
@@ -31793,7 +31803,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sorcemort, conspirateur
@@ -31829,7 +31839,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sorcemort, conspirateur legacy
@@ -31863,7 +31873,7 @@ ___
 >Carreau de la tombe.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sorcemort legacy
@@ -31896,7 +31906,7 @@ ___
 >Griffes mortelles.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sorcemort, nécrophage
@@ -31931,7 +31941,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Sorcemort, nécrophage legacy
@@ -31965,7 +31975,7 @@ ___
 >Absorption de vie.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Souffle animé
@@ -31989,7 +31999,7 @@ ___
 >**Langues** comprend le draconique mais ne peut pas parler  
 >**Puissance** 6 (2300 PX) **Bonus de maîtrise** +3
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Spectateur
@@ -32023,7 +32033,7 @@ ___
 >R|**Renvoi de sort**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Spectre
@@ -32053,7 +32063,7 @@ ___
 >A|**Absorption de vie**. +4, 1,50 m, 3d6 nécrotiques  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32083,7 +32093,7 @@ ___
 >A|**Contact**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Squelette
@@ -32112,7 +32122,7 @@ ___
 >A|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32141,7 +32151,7 @@ ___
 >A|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32172,7 +32182,7 @@ ___
 >A|**Corne**. +6, 1,50 m, 2d8+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32239,7 +32249,7 @@ ___
 >A|**Absorption de sang**. +5, 1,50 m, 1d4+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32272,7 +32282,7 @@ ___
 >A|**Forme éthérée**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32305,7 +32315,7 @@ ___
 >A|**Animation des arbres (1/jour)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32396,7 +32406,7 @@ ___
 >Unbridled Fury.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tanarukk legacy
@@ -32428,7 +32438,7 @@ ___
 >R|**Furie effrénée**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tapis étouffant
@@ -32458,7 +32468,7 @@ ___
 >A|**Étouffement**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32500,7 +32510,7 @@ ___
 >L|**Mastication (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32533,7 +32543,7 @@ ___
 >Rayons oculaires.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Témoin psychique legacy
@@ -32571,7 +32581,7 @@ ___
 >A|**6- Rayon télékinétique**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tendriculaire
@@ -32603,7 +32613,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ténébreux
@@ -32637,7 +32647,7 @@ ___
 >Doigt de la mort (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ténébreux legacy
@@ -32670,7 +32680,7 @@ ___
 >Doigt de la mort (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Teril
@@ -32700,7 +32710,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tertre errant
@@ -32732,7 +32742,7 @@ ___
 >A|**Engloutissement**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32763,7 +32773,7 @@ ___
 >A|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tiamat
@@ -32817,7 +32827,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32847,7 +32857,7 @@ ___
 >A|**Morsure**. +6, 1,50 m, 1d10+5 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32882,7 +32892,7 @@ ___
 >A|**Arc long (forme humanoïde ou hybride uniquement)**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -32925,7 +32935,7 @@ ___
 >Assaut (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Titivilus legacy
@@ -32968,7 +32978,7 @@ ___
 >Téléportation.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tlincalli
@@ -32997,7 +33007,7 @@ ___
 >Dard.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tlincalli legacy
@@ -33026,7 +33036,7 @@ ___
 >A|**Dard**. +6, 1,50 m, 1d6+3 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Torte
@@ -33056,7 +33066,7 @@ ___
 >Carapace protectrice.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Torte, druide
@@ -33087,7 +33097,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Torte, druide legacy
@@ -33117,7 +33127,7 @@ ___
 >Carapace protectrice.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Torte legacy
@@ -33147,7 +33157,7 @@ ___
 >Carapace protectrice.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Torve
@@ -33177,7 +33187,7 @@ ___
 >A|**Gourdin d'os hérissé de pointes**. +5, 1,50 m, 1d4+3 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -33217,7 +33227,7 @@ ___
 >Coup de vent hurlant (coûte 3 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tourmente, vénérable legacy
@@ -33256,7 +33266,7 @@ ___
 >Coup de vent hurlant (coûte 3 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Transmutateur legacy
@@ -33297,7 +33307,7 @@ ___
 >A|**Bâton**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Traqueur diamantin
@@ -33323,7 +33333,7 @@ ___
 >**Puissance** 5 (1800 PX) **Bonus de maîtrise** +3
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Traqueur gluant
@@ -33357,7 +33367,7 @@ ___
 >Discrétion aqueuse.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Traqueur gluant legacy
@@ -33394,7 +33404,7 @@ ___
 >A|**Suceur de vie**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Traqueur invisible
@@ -33426,7 +33436,7 @@ ___
 >A|**Coup**. +6, 1,50 m, 2d6+3 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -33454,7 +33464,7 @@ ___
 >A|**Piétinement**. +9, 1,50 m, 3d10+6 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -33484,7 +33494,7 @@ ___
 >A|**Javeline**. +3, 1,50 m ou 9/36 m, 1d6+1 perforants  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Triton du feu, guerrier
@@ -33513,7 +33523,7 @@ ___
 >Cracheur de feu (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Triton du feu, guerrier legacy
@@ -33542,7 +33552,7 @@ ___
 >A|**Cracheur de feu (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Triton du feu, occultiste d'Imix
@@ -33574,7 +33584,7 @@ ___
 >Incantation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Triton du feu, occultiste d'Imix legacy
@@ -33606,7 +33616,7 @@ ___
 >A|**Morgenstern**. +3, 1,50 m, 1d8+1 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tritsir
@@ -33642,7 +33652,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Troglodyte
@@ -33673,7 +33683,7 @@ ___
 >A|**Griffes**. +4, 1,50 m, 1d4+2 tranchants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Troll
@@ -33703,7 +33713,7 @@ ___
 >A|**Morsure**. +7, 1,50 m, 1d6+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -33734,7 +33744,7 @@ ___
 >Griffes.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Troll putride legacy
@@ -33764,7 +33774,7 @@ ___
 >Griffes.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Troll sanguinaire
@@ -33797,7 +33807,7 @@ ___
 >Tourbillon de griffes (Recharge 5–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Troll sanguinaire legacy
@@ -33831,7 +33841,7 @@ ___
 >Tourbillon de griffes (Recharge 5–6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Troll spectral
@@ -33864,7 +33874,7 @@ ___
 >Griffes.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Troll spectral legacy
@@ -33897,7 +33907,7 @@ ___
 >Griffes.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Troll venimeux
@@ -33930,7 +33940,7 @@ ___
 >Bouffée de venin (Recharge 6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Troll venimeux legacy
@@ -33964,7 +33974,7 @@ ___
 >Bouffée de venin (Recharge 6).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Truite têtevide
@@ -33992,7 +34002,9 @@ ___
 >
 >
 >Adventures (Rime of the Frostmaiden)
->
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
 >Tyramort
 >============
 >
@@ -34032,7 +34044,7 @@ ___
 >L|**Rayon oculaire**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tyrannoeil
@@ -34073,7 +34085,7 @@ ___
 >L|**Rayon oculaire**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Tyrannosaure
@@ -34101,7 +34113,7 @@ ___
 >A|**Queue**. +10, 3 m, 3d8+7 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -34135,7 +34147,7 @@ ___
 >Incantation (psioniques).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ulitharid legacy
@@ -34170,7 +34182,7 @@ ___
 >A|**Explosion de l'esprit (Recharge 5-6)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ultroloth
@@ -34208,7 +34220,7 @@ ___
 >A|**Téléportation**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vajra Safahr
@@ -34239,7 +34251,9 @@ ___
 >
 >
 >Adventures (Dragon Heist)
->
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
 >Vampire
 >===========
 >
@@ -34282,7 +34296,7 @@ ___
 >L|**Morsure (coûte 2 actions)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -34320,7 +34334,7 @@ ___
 >A|**Morsure**. +6, 1,50 m, 1d6+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -34353,7 +34367,7 @@ ___
 >Absorption de sang.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vampyrannoeil legacy
@@ -34385,7 +34399,7 @@ ___
 >A|**Absorption de sang**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vargouille
@@ -34415,7 +34429,7 @@ ___
 >Cri étourdissant (Recharge 5–6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vargouille legacy
@@ -34445,7 +34459,7 @@ ___
 >A|**Cri étourdissant**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vase de Sangdragon
@@ -34477,7 +34491,7 @@ ___
 >Souffle de vase (Recharge 6).  
 >
 >_Fizban´s Treasury of Dragons_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vase grise
@@ -34508,7 +34522,7 @@ ___
 >A|**Pseudopode**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -34537,7 +34551,7 @@ ___
 >A|**Bec**. +2, 1,50 m, 1d4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -34568,7 +34582,7 @@ ___
 >A|**Serres**. +5, 1,50 m, 2d6+2 tranchants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -34615,7 +34629,9 @@ ___
 >
 >
 >Extra (D&D Beyond)
->
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
 >Végépygmée
 >==============
 >
@@ -34643,7 +34659,7 @@ ___
 >Fronde.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Végépygmée, chef
@@ -34675,7 +34691,7 @@ ___
 >Spores (1/jour).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Végépygmée, chef legacy
@@ -34707,7 +34723,7 @@ ___
 >A|**Spores (1/jour)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Végépygmée épineux
@@ -34737,7 +34753,7 @@ ___
 >Morsure.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Végépygmée legacy
@@ -34767,7 +34783,7 @@ ___
 >A|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vellynne Harpell
@@ -34792,7 +34808,9 @@ ___
 >**Puissance** 4 (1100 PX)
 >
 >Adventures (Rime of the Frostmaiden)
->
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
 >Vélociraptor
 >================
 >
@@ -34819,7 +34837,7 @@ ___
 >Griffes.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vélociraptor legacy
@@ -34848,7 +34866,7 @@ ___
 >A|**Griffes**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Ver pourpre
@@ -34877,7 +34895,7 @@ ___
 >A|**Dard**. +14, 3 m, 3d6+9 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -34907,7 +34925,7 @@ ___
 >A|**Arbalète lourde**. +3, 30/120 m, 1d10+1 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -34937,7 +34955,7 @@ ___
 >A|**Bâton**.  
 >
 >_Extra (Adventurers League)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vissepince
@@ -34967,7 +34985,7 @@ ___
 >Téléportation par les ombres (Recharge 5-6).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vissepince legacy
@@ -34997,7 +35015,7 @@ ___
 >A|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Vrock
@@ -35031,7 +35049,7 @@ ___
 >A|**Cri étourdissant (1/jour)**.  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -35068,7 +35086,7 @@ ___
 >Reflux.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Wastrilith legacy
@@ -35104,7 +35122,7 @@ ___
 >Bec agrippant.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Wiverne
@@ -35133,7 +35151,7 @@ ___
 >A|**Morsure**. +7, 3 m, 2d6+4 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -35161,7 +35179,7 @@ ___
 >A|**Morsure**. +5, 1,50 m, 2d6+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -35198,7 +35216,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Xorn
@@ -35230,7 +35248,7 @@ ___
 >A|**Morsure**. +6, 1,50 m, 3d6+3 perforants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -35260,7 +35278,7 @@ ___
 >Action fourbe mineure.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Xvart legacy
@@ -35290,7 +35308,7 @@ ___
 >A|**Fronde**. +4, 9/36 m, 1d4+2 contondants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Xvart, occultiste de Raxivort
@@ -35322,7 +35340,7 @@ ___
 >Action fourbe mineure.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Xvart, occultiste de Raxivort legacy
@@ -35356,7 +35374,7 @@ ___
 >A|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yagnoloth
@@ -35393,7 +35411,7 @@ ___
 >Téléportation.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yagnoloth legacy
@@ -35431,7 +35449,7 @@ ___
 >Téléportation.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yan-C-Bin
@@ -35458,7 +35476,7 @@ ___
 >**Puissance** 18 (20000 PX)
 >
 >_Adventures (Princes of the Apocalypse)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yeenoghu
@@ -35497,7 +35515,7 @@ ___
 >Sauvage (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yeenoghu legacy
@@ -35537,7 +35555,7 @@ ___
 >Sauvage (coûte 2 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yéti
@@ -35569,7 +35587,7 @@ ___
 >A|**Regard givrant**.  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -35603,7 +35621,7 @@ ___
 >A|**Souffle de froid (Recharge 6)**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yochlol
@@ -35642,7 +35660,7 @@ ___
 >A|**Forme brumeuse**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, abomination
@@ -35680,7 +35698,7 @@ ___
 >A|**Arc long (forme d'abomination uniquement)**. +6, 45/180 m, 2d8+3 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, anathème
@@ -35717,7 +35735,7 @@ ___
 >Métamorphe.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, anathème legacy
@@ -35757,7 +35775,7 @@ ___
 >A|**Déluge de morsures**. +10, 3 m, 6d6+6 perforants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, annonciateur de cauchemars
@@ -35794,7 +35812,7 @@ ___
 >Métamorphe.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, annonciateur de cauchemars legacy
@@ -35835,7 +35853,7 @@ ___
 >A|**Invocation de cauchemar (Recharge après un repos court ou long)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, chuchoteur des consciences
@@ -35872,7 +35890,7 @@ ___
 >Métamorphe.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, chuchoteur des consciences legacy
@@ -35913,7 +35931,7 @@ ___
 >A|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, garde des couvées
@@ -35945,7 +35963,7 @@ ___
 >Griffes.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, garde des couvées legacy
@@ -35978,7 +35996,7 @@ ___
 >A|**Griffes**. +4, 1,50 m, 1d6+2 tranchants  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, maître de la fosse
@@ -36014,7 +36032,7 @@ ___
 >Métamorphe.  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, maître de la fosse legacy
@@ -36054,7 +36072,7 @@ ___
 >A|**Sommeil de Merrshaulk (1/jour)**.  
 >
 >_Volo´s Guide to Monsters_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Yuan-ti, malison
@@ -36104,7 +36122,7 @@ ___
 >A|**Arc long (forme de yuan-ti uniquement)**. +4, 45/180 m, 1d8+2 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -36139,7 +36157,7 @@ ___
 >A|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
 >
 >_Monster Manual (BR+)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -36183,7 +36201,7 @@ ___
 >Émergence (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -36228,7 +36246,7 @@ ___
 >Émergence (coûte 2 actions).  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Zariel
@@ -36269,7 +36287,7 @@ ___
 >Regard immolant (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Zariel legacy
@@ -36313,7 +36331,7 @@ ___
 >L|**Téléportation**.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Zocalo
@@ -36351,7 +36369,7 @@ ___
 >
 >
 >_Extra (AideDD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Zombi
@@ -36380,7 +36398,7 @@ ___
 >A|**Coup**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -36409,7 +36427,7 @@ ___
 >
 >
 >_Adventures (Tomb of Annihilation)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Zombi ogre
@@ -36438,7 +36456,7 @@ ___
 >A|**Morgenstern**. +6, 1,50 m, 2d8+4 contondants  
 >
 >_Monster Manual (SRD)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -36469,7 +36487,7 @@ ___
 >A|**Coup de tête**. +5, 1,50 m, 2d4+3 contondants  
 >
 >_Extra (Adventurers League)_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -36504,7 +36522,7 @@ ___
 >A|**4- Rayon de désintégration**.  
 >
 >_Monster Manual_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >
@@ -36546,7 +36564,7 @@ ___
 >Regard immolant (coûte 2 actions).  
 >
 >_Monsters of the Multiverse_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
 
 >Zuggtmoy legacy
@@ -36586,5 +36604,5 @@ ___
 >Preuve de volonté.  
 >
 >_Mordenkainen´s Tome of Foes_
->{: .label .label-border-white }
+>{: .label .label.label-statblock }
 {: .statblock5e }
