@@ -2943,6 +2943,8 @@ ___
 >**Langues** toutes les langues connues par son invocateur  
 >**Puissance** -
 >
+>___
+>
 >**Déplacement intangible**.  
 >**Immunité au changement**.
 >
@@ -4348,7 +4350,10 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus
+>
+>___
 >
 >Amphibien.  
 >Lien primitif.  
@@ -4382,7 +4387,10 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus
+>
+>___
 >
 >Charge.  
 >Lien primitif.  
@@ -4416,7 +4424,10 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus
+>
+>___
 >
 >Repli aérien.  
 >Lien primitif.  
@@ -7689,6 +7700,8 @@ ___
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
 >
+>___
+>
 >**Rôle martial**.
 >
 >Action|**Épée longue**. +4, 1,50 m, 1d8+2 tranchants  
@@ -7729,6 +7742,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
+>
+>___
 >
 >**Rôle martial**.  
 >**Second souffle**.
@@ -7771,6 +7786,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
+>
+>___
 >
 >**Rôle martial**.  
 >**Second souffle**.  
@@ -7815,6 +7832,8 @@ ___
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
 >
+>___
+>
 >**Rôle martial**.  
 >**Second souffle**.  
 >**Critique amélioré**.
@@ -7857,6 +7876,8 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
+>
+>___
 >
 >**Rôle martial**.  
 >**Second souffle**.  
@@ -7901,6 +7922,8 @@ ___
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
 >
+>___
+>
 >**Rôle martial**.  
 >**Second souffle**.  
 >**Critique amélioré**.  
@@ -7943,6 +7966,8 @@ ___
 >**Langues** draconique  
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus
+>
+>___
 >
 >**Essence draconique**.
 >
@@ -9012,6 +9037,8 @@ ___
 >**Langues** comprend les langues que vous parlez  
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus
+>
+>___
 >
 >**Vigilant**.
 >
@@ -18187,6 +18214,8 @@ ___
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus
 >
+>___
+>
 >_Régénération (slaad uniquement).  
 >Aura murmurante (rejeton stellaire uniquement).  
 >Attaques multiples.  
@@ -18227,6 +18256,8 @@ ___
 >**Langues** comprend les langues que vous parlez  
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus
+>
+>___
 >
 >Corps brûlant (métal uniquement).  
 >Léthargie de pierre (pierre uniquement).  
@@ -18269,6 +18300,8 @@ ___
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus  
 >
+>___
+>
 >Aspect informe (Air, Feu et Eau uniquement).  
 >Attaques multiples.  
 >Coup.  
@@ -18307,6 +18340,8 @@ ___
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus  
 >
+>___
+>
 >Frénésie de la terreur (Fureur uniquement).  
 >Poids du chagrin (Désespoir uniquement).  
 >Attaques multiples.  
@@ -18344,6 +18379,8 @@ ___
 >**Langues** comprend les langues que vous parlez  
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus  
+>
+>___
 >
 >Repli aérien (Air uniquement).  
 >Tactique de groupe (Terre et Eau uniquement).  
@@ -18385,6 +18422,8 @@ ___
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus  
 >
+>___
+>
 >Attaques multiples.  
 >Arc radiant (Vengeur uniquement).  
 >Masse radiante (Protecteur uniquement).  
@@ -18422,6 +18461,8 @@ ___
 >**Langues** sylvestre, comprend les langues que vous parlez  
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus  
+>
+>___
 >
 >Attaques multiples.  
 >Épée courte.  
@@ -18465,6 +18506,8 @@ ___
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus  
 >
+>___
+>
 >_Spasmes d'agonie (démon uniquement).  
 >Vision du diable (diable uniquement).  
 >Résistance à la magie.  
@@ -18507,6 +18550,8 @@ ___
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus  
 >
+>___
+>
 >_Aura purulente (putréfié uniquement).  
 >Mouvement incorporel (fantôme uniquement).  
 >Attaques multiples.  
@@ -18548,6 +18593,8 @@ ___
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus  
 >
+>___
+>
 >_Action|**Graine de flamme**.  
 >Action|**Téléportation ardente**.  
 >
@@ -18584,6 +18631,8 @@ ___
 >**Langues** draconique, comprend les langues que vous parlez  
 >**Puissance** -  
 >**Bonus de maîtrise** égal à votre bonus  
+>
+>___
 >
 >**Résistances partagées**.
 >
@@ -19086,7 +19135,9 @@ ___
 >**Compétences** Acrobaties +4, Discrétion +4, Escamotage +4, Persuasion +4, Représentation +4  
 >**Sens** Perception passive 10  
 >**Langues** commun, plus une de votre choix  
->**Puissance** -_
+>**Puissance** -  
+>
+>___
 >
 >**Outils**.  
 >**Serviable**.
@@ -19130,6 +19181,8 @@ ___
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -_
 >
+>___
+>
 >**Outils**.  
 >**Serviable**.  
 >**Ruse**.
@@ -19171,7 +19224,9 @@ ___
 >**Compétences** Acrobaties +4, Discrétion +4, Escamotage +4, Persuasion +4, Représentation +4  
 >**Sens** Perception passive 10  
 >**Langues** commun, plus une de votre choix  
->**Puissance** -_
+>**Puissance** -  
+>
+>___
 >
 >**Outils**.  
 >**Serviable**.  
@@ -19215,7 +19270,9 @@ ___
 >**Compétences** Acrobaties +5, Discrétion +5, Escamotage +5, Persuasion +4, Représentation +4  
 >**Sens** Perception passive 10  
 >**Langues** commun, plus une de votre choix  
->**Puissance** -_
+>**Puissance** -  
+>
+>___
 >
 >**Outils**.  
 >**Serviable**.  
@@ -19259,7 +19316,9 @@ ___
 >**Compétences** Acrobaties +6, Discrétion +6, Escamotage +6, Persuasion +5, Représentation +5  
 >**Sens** Perception passive 10  
 >**Langues** commun, plus une de votre choix  
->**Puissance** -_
+>**Puissance** -  
+>
+>___
 >
 >**Outils**.  
 >**Serviable**.  
@@ -19303,7 +19362,9 @@ ___
 >**Compétences** Acrobaties +6, Discrétion +6, Escamotage +6, Persuasion +5, Représentation +5  
 >**Sens** Perception passive 10  
 >**Langues** commun, plus une de votre choix  
->**Puissance** -_
+>**Puissance** -  
+>
+>___
 >
 >**Outils**.  
 >**Serviable**.  
@@ -26561,6 +26622,8 @@ ___
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
 >
+>___
+>
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
 >- Sorts mineurs (à volonté) : _flamme sacrée_  
@@ -26604,6 +26667,8 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
+>
+>___
 >
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
@@ -26649,6 +26714,8 @@ ___
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
 >
+>___
+>
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
 >- Sorts mineurs (à volonté) : _flamme sacrée_  
@@ -26693,6 +26760,8 @@ ___
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
 >
+>___
+>
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
 >- Sorts mineurs (à volonté) : _flamme sacrée, résistance_  
@@ -26736,6 +26805,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
+>
+>___
 >
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
@@ -26782,6 +26853,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** commun, plus une de votre choix  
 >**Puissance** -
+>
+>___
 >
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
@@ -33989,7 +34062,10 @@ ___
 >**Immunités** charmé, épuisement, empoisonné, effrayé  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus
+>
+>___
 >
 >**Forme immuable**.  
 >**Danse irrépressible**.
@@ -40698,7 +40774,8 @@ ___
 >**Immunités** touts les états sauf invisible et à terre  
 >**Sens** vision aveugle 36 m, Perception passive 19  
 >**Langues** comprend les langues des créatures avec lñsquelles il est lié, mais ne parle pas  
->**Puissance** - **Bonus de maîtrise** +7  
+>**Puissance** -  
+>**Bonus de maîtrise** +7  
 >
 >___
 >
@@ -40743,7 +40820,10 @@ ___
 >**Immunités** empoisonné, épuisement  
 >**Sens** vision dans le noir 18 m, Perception passive 10 + (BM x 2)  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus  
+>
+>___
 >
 >**Évasion**.
 >
@@ -40783,6 +40863,8 @@ ___
 >**Sens** blindsight 60 ft. (blind beyond this radius), passive Perception 10  
 >**Langues** —  
 >**Puissance** -
+>
+>___
 >
 >Action|**Coup**. +5, 1,50 m, 1d4 contondants  
 >
