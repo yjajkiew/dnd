@@ -227,7 +227,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
    - [D&Diel with Vin Diesel (Extended Version)](https://www.youtube.com/watch?v=yLEMb_RIZ3o&pp=ygUfY2VsZWJyaWQmZCB3aXRoIGpvZSBtYW5nYW5pZWxsbw%3D%3D) (one-shot)
  - Autre
    - [Relics and Rarities](https://www.youtube.com/playlist?list=PL7atuZxmT954B-AtfJsw_YbULHL_L7J8z) (one-shot)
-   - [B. Dave Walters, Seth Green, Deborah Ann Woll, & More at the BEADLE & GRIMMS Table! | D&D Live 2021](https://www.youtube.com/watch?v=9LUYWVll3-w&pp=ygUORG5kIHNldGggZ3JlZW4%3D) (one-shot)
+   - [B. Dave Walters, Seth Green, Deborah Ann Woll, & More at the BEADLE & GRIMMS Table!](https://www.youtube.com/watch?v=9LUYWVll3-w&pp=ygUORG5kIHNldGggZ3JlZW4%3D) (one-shot)
    - [A Stranger Things Dungeons & Dragons Adventure: The Hellfire Club](https://www.youtube.com/watch?v=RFcfJm3SqGk&pp=ygURRG5kIHN0cmFuZ2VyIGNhc3Q%3D) (one-shot)
 
 
