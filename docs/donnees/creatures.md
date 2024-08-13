@@ -82,7 +82,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** draconique, infernal, télépathie 36 m  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >**Vision de diable**.  
@@ -173,7 +173,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** draconique, infernal, télépathie 36 m  
->**Puissance** 17 (18000 PX) 
+>**Puissance** 17 (18000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Vision de diable.  
@@ -261,7 +261,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** draconique, infernal, télépathie 36 m  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Vision de diable.  
@@ -350,7 +350,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** draconique, infernal, télépathie 36 m  
->**Puissance** 19 (22000 PX) 
+>**Puissance** 19 (22000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Vision de diable.  
@@ -442,7 +442,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** draconique, infernal, télépathie 36 m  
->**Puissance** 15 (13000 PX) 
+>**Puissance** 15 (13000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Vision de diable.  
@@ -619,7 +619,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** Perception passive 11  
 >**Langues** comprend le commun et le draconique mais ne peut pas parler  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >Miasme écoeurant.  
@@ -746,7 +746,7 @@ ___
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >Faim de vie.  
@@ -785,7 +785,7 @@ ___
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 16  
 >**Langues** commun  
->**Puissance** 13 (10000 PX) 
+>**Puissance** 13 (10000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Colère montante.  
@@ -823,7 +823,7 @@ ___
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** —  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Tactique de groupe misérable.  
@@ -860,7 +860,7 @@ ___
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -898,7 +898,7 @@ ___
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Suceur psychique.  
@@ -1015,7 +1015,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, paralysé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 17  
 >**Langues** profond, commun des profondeurs, télépathie 36 m  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4
 >
 >Résistance à la magie.  
@@ -1115,7 +1115,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend l'abyssal mais ne peut pas parler  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >Faille abyssale.  
@@ -1365,7 +1365,7 @@ ___
 >**Immunités** épuisement, effrayé, empoisonné, inconscient  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Mépris du renvoi.  
@@ -1450,7 +1450,7 @@ ___
 >**Immunités** épuisement, effrayé, empoisonné, inconscient  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Nature insolite.  
@@ -1530,7 +1530,7 @@ ___
 >**Immunités** charmé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 17  
 >**Langues** commun, infernal, télépathie 300 m  
->**Puissance** 18 (20000 PX) 
+>**Puissance** 18 (20000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Vision de diable.  
@@ -1740,7 +1740,7 @@ ___
 >**Compétences** Arcanes +4, Histoire +4  
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Action|**Explosion arcanique**. +4, , 1d10+2 force  
@@ -1893,7 +1893,7 @@ ___
 >**Compétences** Discrétion +7, Perception +4  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** —  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Pattes d'araignée.  
@@ -1969,7 +1969,7 @@ ___
 >**Compétences** Discrétion +5, Perception +4  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** —  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Pattes d'araignée.  
@@ -2286,7 +2286,7 @@ ___
 >**Compétences** Acrobaties +6, Perception +5  
 >**Sens** Perception passive 15  
 >**Langues** une langue au choix (généralement le commun)  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Action|**Attaques multiples**.  
@@ -2363,7 +2363,7 @@ ___
 >**Compétences** Médecine +9, Nature +5, Perception +9  
 >**Sens** Perception passive 19  
 >**Langues** druidique plus deux langues au choix  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4
 >
 >Attaques multiples.  
@@ -2500,7 +2500,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** abyssal, télépathie 36 m  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Résistance à la magie.  
@@ -2660,7 +2660,7 @@ ___
 >
 >**Sens** Perception passive 11  
 >**Langues** —  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Corne.  
@@ -2732,7 +2732,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend une langue de son créateur mais ne peut pas parler  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Résistance à la magie.  
@@ -2886,7 +2886,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 15  
 >**Langues** abyssal  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Attaques multiples.  
@@ -3178,7 +3178,7 @@ ___
 >**Immunités** aveuglé  
 >**Sens** vision aveugle 150 m (aveugle au-delà de ce rayon), Perception passive 16  
 >**Langues** comprend le profond, télépathie 1,5 km  
->**Puissance** 11 (7200 PX)  
+>**Puissance** 11 (7200 PX)   
 >**Bonus de maîtrise** +4
 >
 >Résistance légendaire (2/jour).  
@@ -3306,7 +3306,7 @@ ___
 >**Immunités** charmé, effrayé  
 >**Sens** vision dans le noir 36 m, Perception passive 12  
 >**Langues** comprend le commun et les langages de son créateur mais ne peut pas parler  
->**Puissance** 5 (1800 PX)  
+>**Puissance** 5 (1800 PX)   
 >**Bonus de maîtrise** +3
 >
 >Connexion par vibrations.  
@@ -3504,7 +3504,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 24  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 23 (50000 PX) 
+>**Puissance** 23 (50000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Mémoire de labyrinthe.  
@@ -3601,7 +3601,7 @@ ___
 >**Compétences** Acrobaties +4, Perception +5, Représentation +6  
 >**Sens** Perception passive 15  
 >**Langues** deux langues au choix  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Attaques multiples.  
@@ -3687,7 +3687,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 15  
 >**Langues** abyssal, commun, gobelin, infernal, télépathie 18 m  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Bannissement par le feu.  
@@ -4039,7 +4039,7 @@ ___
 >**Compétences** Arcanes +5, Histoire +5, Intuition +2, Perception +2, Religion +5  
 >**Sens** vision véritable 36 m, Perception passive 12  
 >**Langues** toutes  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Attaques multiples.  
@@ -4290,7 +4290,7 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Résistances** froid, feu, poison  
 >**Langues** —  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Puanteur.  
@@ -4511,7 +4511,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** abyssal, les langues qu'il connaissait de son vivant  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >Regard mortel.  
@@ -4592,7 +4592,7 @@ ___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Bête de somme.  
@@ -4667,7 +4667,7 @@ ___
 >**Immunités** charmé, effrayé  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** sylvestre  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Camouflage dans la végétation.  
@@ -4749,7 +4749,7 @@ ___
 >**Compétences** Athlétisme +6, Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, sylvestre  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Bottes en fer.  
@@ -4865,7 +4865,7 @@ ___
 >**Compétences** Acrobaties +8, Athlétisme +5, Persuasion +6  
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >**Défense élégante**.
@@ -4947,7 +4947,7 @@ ___
 >**Immunités** charmé, épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Interdiction.  
@@ -5069,7 +5069,7 @@ ___
 >**Sauvegardes** Con +3, Sag +2  
 >**Sens** Perception passive 10  
 >**Langues** brutacien, commun  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >**Amphibien**.  
@@ -5148,7 +5148,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 9  
 >**Langues** abyssal, télépathie 18 m  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Présence pourrissante.  
@@ -5310,7 +5310,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 18 m, vision véritable 36 m, Perception passive 19  
 >**Langues** abyssal, infernal, télépathie 18 m  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Verrou dimensionnel.  
@@ -5395,7 +5395,7 @@ ___
 >**Compétences** Perception +5  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Puanteur.  
@@ -5581,7 +5581,7 @@ ___
 >**Compétences** Arcanes +10, Intimidation +12, Intuition +14, Persuasion +12, Tromperie +12  
 >**Sens** vision aveugle 36 m, Perception passive 14  
 >**Langues** comprend le commun, le profond et le commun des profondeurs mais ne peut pas parler, télépathie 7,5 kilomètres  
->**Puissance** 14 (11500 PX) 
+>**Puissance** 14 (11500 PX)  
 >**Bonus de maîtrise** +5
 >
 >Perception des créatures.  
@@ -5631,7 +5631,7 @@ ___
 >**Immunités** charmé, effrayé  
 >**Sens** vision aveugle 36 m, Perception passive 28  
 >**Langues** profond, draconique, télépathie 7,5 kilomètres  
->**Puissance** 22 (41000 PX) 
+>**Puissance** 22 (41000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (4/jour).  
@@ -5832,7 +5832,7 @@ ___
 >**Compétences** Athlétisme +9, Intimidation +5, Perception +6  
 >**Sens** Perception passive 16  
 >**Langues** une langue au choix (généralement le commun)  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >**Inflexible (2/jour)**.
@@ -6328,7 +6328,7 @@ ___
 >**Compétences** Athlétisme +7, Tromperie +5, Intimidation +5  
 >**Sens** Perception passive 12  
 >**Langues** une langue au choix (généralement le commun)  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Action|**Attaques multiples**.  
@@ -6596,7 +6596,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** comprend le commun, l'elfique et le sylvestre mais ne peut pas parler  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Banni par le soleil.  
@@ -6857,7 +6857,7 @@ ___
 >**Compétences** Athlétisme +4, Discrétion +4  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun des profondeurs  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Ascendance féerique.  
@@ -6937,7 +6937,7 @@ ___
 >**Compétences** Athlétisme +5, Religion +2, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** commun des profondeurs  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Ascendance féerique.  
@@ -7169,7 +7169,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 10  
 >**Langues** —  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Coquille antimagie.  
@@ -7249,7 +7249,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend toutes les langues mais ne peut pas parler  
->**Puissance** 14 (11500 PX) 
+>**Puissance** 14 (11500 PX)  
 >**Bonus de maîtrise** +5
 >
 >Résistance à la magie.  
@@ -7585,7 +7585,8 @@ ___
 >**Immunités** déterminés par le trait Essence draconique du drake  
 >**Sens** darkvision vision dans le noir 12 m, Perception passive 12  
 >**Langues** draconique  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus
 >
 >**Essence draconique**.
 >
@@ -7740,7 +7741,7 @@ ___
 >**Immunités** feu  
 >**Sens** Perception passive 11  
 >**Langues** —  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Absorption du feu.  
@@ -7849,7 +7850,7 @@ ___
 >**Compétences** Perception +2, Discrétion +5  
 >**Sens** vision aveugle 18 m, Perception passive 12  
 >**Langues** —  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Filament collant.  
@@ -8275,7 +8276,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné, à terre, étourdi  
 >**Sens** vision dans le noir 36 m, Perception passive 19  
 >**Langues** —  
->**Puissance** 21 (33000 PX) 
+>**Puissance** 21 (33000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Cône d'antimagie.  
@@ -8487,7 +8488,7 @@ ___
 >**Compétences** Perception +3  
 >**Sens** vision aveugle 18 m, Perception passive 13  
 >**Langues** —  
->**Puissance** 1/8 (25 PX) 
+>**Puissance** 1/8 (25 PX)  
 >**Bonus de maîtrise** +2
 >
 >Apnée.  
@@ -8524,7 +8525,7 @@ ___
 >**Compétences** Perception +3, Représentation +5  
 >**Sens** vision aveugle 18 m, Perception passive 13  
 >**Langues** aquatique, télépathie 36 m  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Apnée.  
@@ -8763,7 +8764,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 29  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 26 (90000 PX) 
+>**Puissance** 26 (90000 PX)  
 >**Bonus de maîtrise** +8
 >
 >Résistance légendaire (3/jour).  
@@ -8904,7 +8905,7 @@ ___
 >**Compétences** Discrétion +4  
 >**Sens** vision dans le noir 36 m, Perception passive 7  
 >**Langues** nain, commun des profondeurs  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Résistance à la magie.  
@@ -8979,7 +8980,7 @@ ___
 >**Compétences** Discrétion +4  
 >**Sens** vision dans le noir 36 m, Perception passive 7  
 >**Langues** nain, commun des profondeurs  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Résistance à la magie.  
@@ -9179,7 +9180,7 @@ ___
 >**Compétences** Perception +2  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** —  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4
 >
 >Attaques multiples.  
@@ -9305,7 +9306,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** abyssal, télépathie 36 m  
->**Puissance** 13 (10000 PX) 
+>**Puissance** 13 (10000 PX)  
 >**Bonus de maîtrise** +5_
 >
 >Nature insolite.  
@@ -9427,7 +9428,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 18 m, vision aveugle 18 m, Perception passive 10  
 >**Langues** abyssal, infernal, télépathie 18 m  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Résistance à la magie.  
@@ -9977,7 +9978,7 @@ ___
 >**Compétences** Perception +9  
 >**Sens** vision dans le noir 18 m, Perception passive 19  
 >**Langues** comprend le draconique mais ne peut pas parler  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >Têtes multiples.  
@@ -10068,7 +10069,7 @@ ___
 >**Immunités** charmé  
 >**Sens** vision véritable 18 m, Perception passive 13  
 >**Langues** commun, draconique  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >Spasmes d'agonie.  
@@ -10109,7 +10110,7 @@ ___
 >**Sauvegardes** For +6, Sag +2  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, draconique  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Spasmes d'agonie.  
@@ -10147,7 +10148,7 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, draconique  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2
 >
 >**Chute contrôlée**.  
@@ -10189,7 +10190,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, draconique  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Spasmes d'agonie.  
@@ -10227,7 +10228,7 @@ ___
 >**Sauvegardes** Int +2, Sag +2, Cha +4  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, draconique  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Spasmes d'agonie.  
@@ -10269,7 +10270,7 @@ ___
 >**Immunités** à terre  
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** profond, draconique  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Nature insolite.  
@@ -10310,7 +10311,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** abyssal, elfique, commun des profondeurs  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Ascendance féerique.  
@@ -10728,7 +10729,7 @@ ___
 >**Immunités**charmé, assourdi, épuisement, effrayé, paralysé, empoisonné,  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique  
->**Puissance** 18 (20000 PX) 
+>**Puissance** 18 (20000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Résistance légendaire (3/jour).  
@@ -10948,7 +10949,7 @@ ___
 >**Immunités** effrayé, à terre  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 16 (15000 PX) 
+>**Puissance** 16 (15000 PX)  
 >**Bonus de maîtrise** +5
 >
 >**Amphibien**.  
@@ -10999,7 +11000,7 @@ ___
 >**Immunités** effrayé, à terre  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 28  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 23 (50000 PX) 
+>**Puissance** 23 (50000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Amphibien.  
@@ -11048,7 +11049,7 @@ ___
 >**Immunités** effrayé, à terre  
 >**Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 15  
 >**Langues** draconique, télépathie 36 m  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Amphibien.  
@@ -11089,7 +11090,7 @@ ___
 >**Immunités** effrayé, à terre  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Amphibien.  
@@ -11305,7 +11306,7 @@ ___
 >**Résistances** feu, psychique  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 14 (11500 PX) 
+>**Puissance** 14 (11500 PX)  
 >**Bonus de maîtrise** +5
 >
 >**Résistance légendaire (3/jour)**.  
@@ -11357,7 +11358,7 @@ ___
 >**Résistances** feu, psychique  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 28  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 21 (33000 PX) 
+>**Puissance** 21 (33000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (3/jour).  
@@ -11406,7 +11407,7 @@ ___
 >**Résistances** feu, psychique  
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 15  
 >**Langues** draconique, télépathie 36 m  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Fouisseur.  
@@ -11446,7 +11447,7 @@ ___
 >**Résistances** feu, psychique  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Fouisseur.  
@@ -11892,7 +11893,7 @@ ___
 >**Résistances** froid, radiant  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4
 >
 >**Résistance légendaire (3/jour)**.
@@ -11942,7 +11943,7 @@ ___
 >**Résistances** froid, radiant  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 25  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 19 (22000 PX) 
+>**Puissance** 19 (22000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Résistance légendaire (3/jour).  
@@ -11989,7 +11990,7 @@ ___
 >**Résistances** froid, radiant  
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 15  
 >**Langues** draconique, télépathie 36 m  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Morsure.  
@@ -12029,7 +12030,7 @@ ___
 >**Résistances** froid, radiant  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -12244,7 +12245,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 15 (13000 PX) 
+>**Puissance** 15 (13000 PX)  
 >**Bonus de maîtrise** +5
 >
 >**Résistance légendaire (3/jour)**.  
@@ -12296,7 +12297,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 28  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 22 (41000 PX) 
+>**Puissance** 22 (41000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (3/jour).  
@@ -12346,7 +12347,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15  
 >**Langues** draconique, télépathie 36 m  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Pattes d'araignée.  
@@ -12388,7 +12389,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Pattes d'araignée.  
@@ -12431,7 +12432,7 @@ ___
 >**Résistances** froid, nécrotique  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 13 (10000 PX) 
+>**Puissance** 13 (10000 PX)  
 >**Bonus de maîtrise** +5
 >
 >**Amphibien**.  
@@ -12482,7 +12483,7 @@ ___
 >**Résistances** froid, nécrotique  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 20 (25000 PX) 
+>**Puissance** 20 (25000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Amphibien.  
@@ -12531,7 +12532,7 @@ ___
 >**Résistances** froid, nécrotique  
 >**Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 15  
 >**Langues** draconique  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >_Amphibien.  
@@ -12571,7 +12572,7 @@ ___
 >**Résistances** froid, nécrotique  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Amphibien.  
@@ -12614,7 +12615,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision aveugle 18 m, vision dans le noir 45 m, Perception passive 17  
 >**Langues** commun, draconique, commun des profondeurs  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >**Résistance légendaire (3/jour)**.
@@ -12662,7 +12663,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision aveugle 18 m, vision dans le noir 90 m, Perception passive 20  
 >**Langues** commun, draconique, commun des profondeurs  
->**Puissance** 18 (20000 PX) 
+>**Puissance** 18 (20000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Résistance légendaire (3/jour).  
@@ -12709,7 +12710,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision aveugle 3 m, vision dans le noir 27 m, Perception passive 13  
 >**Langues** draconique  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Morsure.  
@@ -12748,7 +12749,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision aveugle 9 m, vision dans le noir 45 m, Perception passive 15  
 >**Langues** commun, draconique, commun des profondeurs  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -12790,7 +12791,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 17 (18000 PX) 
+>**Puissance** 17 (18000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Déplacement intangible.  
@@ -13052,7 +13053,7 @@ ___
 >**Immunités** charmé  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** commun, draconique, elfique, gnome, sylvestre  
->**Puissance** 15 (13000 PX) 
+>**Puissance** 15 (13000 PX)  
 >**Bonus de maîtrise** +5
 >
 >**Résistance légendaire (3/jour)**.
@@ -13102,7 +13103,7 @@ ___
 >**Immunités** charmé  
 >**Sens** vision véritable 36 m, Perception passive 23  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 21 (33000 PX) 
+>**Puissance** 21 (33000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (3/jour).  
@@ -13147,7 +13148,7 @@ ___
 >**Immunités** charmé  
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 >**Langues** draconique  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Morsure.  
@@ -13185,7 +13186,7 @@ ___
 >**Immunités** charmé  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 >**Langues** commun, draconique, sylvestre  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -13431,7 +13432,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 21  
 >**Langues** aquatique, draconique  
->**Puissance** 24 (62000 PX) 
+>**Puissance** 24 (62000 PX)  
 >**Bonus de maîtrise** +7
 >
 >_Fizban´s Treasury of Dragons_
@@ -13465,7 +13466,7 @@ ___
 >**Immunités** feu  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** draconique  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >_Fizban´s Treasury of Dragons_
@@ -13500,7 +13501,7 @@ ___
 >**Immunités** feu  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** aquatique, draconique  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4
 >
 >_Fizban´s Treasury of Dragons_
@@ -13707,7 +13708,7 @@ ___
 >**Compétences** Perception +3  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 13  
 >**Langues** comprend le draconique et le commun mais ne peut pas parler  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Repli aérien.  
@@ -13744,7 +13745,7 @@ ___
 >**Compétences** Perception +2  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend le draconique mais ne peut pas parler  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Attaques multiples.  
@@ -13819,7 +13820,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** Perception passive 15  
 >**Langues** commun, draconique  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Résistance légendaire (1/jour).  
@@ -13861,7 +13862,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** Perception passive 15  
 >**Langues** commun, draconique  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >Résistance légendaire (1/jour).  
@@ -13904,7 +13905,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** Perception passive 14  
 >**Langues** commun, draconique  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3_
 >
 >Résistance légendaire (1/jour).  
@@ -13942,7 +13943,7 @@ ___
 >**Compétences** Perception +7  
 >**Sens** vision dans le noir 18 m, Perception passive 17  
 >**Langues** draconique  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >_Fizban´s Treasury of Dragons_
@@ -14099,7 +14100,7 @@ ___
 >**Résistances** poison  
 >**Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 17  
 >**Langues** elfique, commun des profondeurs, peut parler avec les araignées  
->**Puissance** 13 (10000 PX) 
+>**Puissance** 13 (10000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Ascendance féerique.  
@@ -14192,7 +14193,7 @@ ___
 >**Compétences** Perception +6, Discrétion +8  
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** elfique, commun des profondeurs  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Ordre pendant la bataille.  
@@ -14283,7 +14284,7 @@ ___
 >**Compétences** Acrobaties + 11, Athlétisme +8, Perception +8, Discrétion +11  
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** elfique, commun des profondeurs  
->**Puissance** 18 (20000 PX) 
+>**Puissance** 18 (20000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Ascendance féerique.  
@@ -14412,7 +14413,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** vision dans le noir 36 m, Perception passive 20  
 >**Langues** elfique, commun des profondeurs  
->**Puissance** 14 (11500 PX) 
+>**Puissance** 14 (11500 PX)  
 >**Bonus de maîtrise** +5
 >
 >Mensonge décelé.  
@@ -14556,7 +14557,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 21  
 >**Langues** elfique, commun des profondeurs  
->**Puissance** 20 (25000 PX) 
+>**Puissance** 20 (25000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Équipment spécial.  
@@ -14652,7 +14653,7 @@ ___
 >**Compétences** Perception +6, Discrétion +9  
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** elfique, commun des profondeurs  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >Vision de diable.  
@@ -14948,7 +14949,7 @@ ___
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** nain, commun des profondeurs  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2_
 >
 >_Résistance duergare.  
@@ -15029,7 +15030,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, paralysé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 12  
 >**Langues** nain, commun des profondeurs  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4_
 >
 >_Résistance à la magie.  
@@ -15117,7 +15118,7 @@ ___
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** nain, commun des profondeurs  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2_
 >
 >_Résistance duergare.  
@@ -15200,7 +15201,7 @@ ___
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** nain, commun des profondeurs  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2_
 >
 >_Formation de cavalerie.  
@@ -15284,7 +15285,7 @@ ___
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, vision véritable 9 m, Perception passive 12  
 >**Langues** nain, commun des profondeurs  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2_
 >
 >_Résistance duergare.  
@@ -15368,7 +15369,7 @@ ___
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** nain, commun des profondeurs  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3_
 >
 >_Résistance duergare.  
@@ -15452,7 +15453,7 @@ ___
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** nain, commun des profondeurs  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2_
 >
 >_Résistance duergare.  
@@ -15572,7 +15573,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** abyssal, commun, télépathie 36 m  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2_
 >
 >_Déplacement intangible.  
@@ -15694,7 +15695,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 17 (18000 PX) 
+>**Puissance** 17 (18000 PX)  
 >**Bonus de maîtrise** +6_
 >
 >_Fizban´s Treasury of Dragons_
@@ -15772,7 +15773,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé  
 >**Sens** vision dans le noir 18 m, Perception passive 18  
 >**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4_
 >
 >_Déplacement intangible.  
@@ -15854,7 +15855,7 @@ ___
 >**Résistances** psychique  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, elfique, sylvestre  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4_
 >
 >Présence enchanteresse.  
@@ -15938,7 +15939,7 @@ ___
 >**Résistances** feu  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, elfique, sylvestre  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4_
 >
 >Présence redoutable.  
@@ -16020,7 +16021,7 @@ ___
 >**Résistances** froid  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, elfique, sylvestre  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4_
 >
 >_Résistance à la magie.  
@@ -16103,7 +16104,7 @@ ___
 >**Résistances** psychique  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, elfique, sylvestre  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4_
 >
 >Présence joyeuse.  
@@ -16298,7 +16299,7 @@ ___
 >**Immunités** épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend l'aérien mais ne peut pas parler  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2_
 >
 >**Forme d'air**.
@@ -16337,7 +16338,7 @@ ___
 >**Immunités** paralysé, pétrifié, empoisonné, à terre  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** aérien, une langue au choix de son créateur  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3_
 >
 >Attaques multiples.  
@@ -16456,7 +16457,7 @@ ___
 >**Immunités** épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend l'aquatique mais ne peut pas parler  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2_
 >
 >**Forme d'eau**.  
@@ -16496,7 +16497,7 @@ ___
 >**Immunités** paralysé, pétrifié, empoisonné, à terre  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** aquatique, une langue au choix de son créateur  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3_
 >
 >Attaques multiples.  
@@ -16615,7 +16616,7 @@ ___
 >**Immunités** épuisement, paralysé, pétrifié, empoisonné, inconscient  
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 10  
 >**Langues** comprend le terreux mais ne peut pas parler  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2_
 >
 >**Descente**.  
@@ -16652,7 +16653,7 @@ ___
 >**Immunités** paralysé, pétrifié, empoisonné, à terre  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** terreux, une langue au choix de son créateur  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3_
 >
 >Attaques multiples.  
@@ -16770,7 +16771,7 @@ ___
 >**Immunités** épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend l'igné mais ne peut pas parler  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2_
 >
 >**Forme de feu**.  
@@ -16808,7 +16809,7 @@ ___
 >**Immunités** paralysé, pétrifié, empoisonné, à terre  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** igné, une langue au choix de son créateur  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3_
 >
 >_Éclairage.  
@@ -16962,7 +16963,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** Perception passive 13  
 >**Langues** commun, draconique  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2_
 >
 >_Fizban´s Treasury of Dragons_
@@ -17824,7 +17825,7 @@ ___
 >**Compétences** Discrétion +6  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** profond  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2_
 >
 >_Rapidité aberrante (Recharge après un repos court ou long).  
@@ -18022,7 +18023,7 @@ ___
 >**Immunités** aveuglé  
 >**Sens** vision dans le noir 36 m, Perception passive 8  
 >**Langues** comprend le commun mais ne peut pas parler  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2_
 >
 >_Invisibilité faillible.  
@@ -18144,7 +18145,7 @@ ___
 >**Compétences** Acrobaties +5, Discrétion +5, Intuition +5  
 >**Sens** Perception passive 13  
 >**Langues** une langue au choix (généralement le commun)  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2_
 >
 >**Défense sans armure**.
@@ -18571,7 +18572,7 @@ ___
 >**Résistances** feu  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** sylvestre  
->**Puissance** 1/8 (25 PX) 
+>**Puissance** 1/8 (25 PX)  
 >**Bonus de maîtrise** +2_
 >
 >Coups.  
@@ -18841,7 +18842,7 @@ ___
 >**Immunités** aveuglé, assourdi, empoisonné  
 >**Sens** vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 12  
 >**Langues** —  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3_
 >
 >_Cadavres.  
@@ -18923,7 +18924,7 @@ ___
 >**Compétences** Intimidation +5, Perception +5  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** gnoll, abyssal  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4_
 >
 >_Aura de Soif de sang.  
@@ -19082,7 +19083,7 @@ ___
 >**Compétences** Escamotage +6 (voir aussi Compétence secrète ci-dessous)  
 >**Sens** Perception passive 11  
 >**Langues** commun plus une autre langue  
->**Puissance** 1/8 (25 PX) 
+>**Puissance** 1/8 (25 PX)  
 >**Bonus de maîtrise** +2_
 >
 >**Compétence secrète**.
@@ -19126,7 +19127,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 24  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 23 (50000 PX) 
+>**Puissance** 23 (50000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (3/jour).  
@@ -19218,7 +19219,7 @@ ___
 >**Résistances** feu, foudre  
 >**Sens** vision dans le noir 18 m, Perception passive 19  
 >**Langues** —  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4
 >
 >Amphibien.  
@@ -19542,7 +19543,7 @@ ___
 >**Immunités** à terre  
 >**Sens** vision dans le noir 36 m, Perception passive 15  
 >**Langues** profond, commun des profondeurs  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >Regard étourdissant.  
@@ -19628,7 +19629,7 @@ ___
 >**Immunités** à terre  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** —  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Imitation.  
@@ -19824,7 +19825,7 @@ ___
 >**Compétences** Escamotage +9, Intuition +7, Perception +7, Tromperie +11  
 >**Sens** Perception passive 21  
 >**Langues** commun, géant  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >Contrôle du climat (sort niveau 8).  
@@ -19955,7 +19956,7 @@ ___
 >**Immunités** charmé, effrayé  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, géant  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4
 >
 >Charme d'onirien.  
@@ -20205,7 +20206,7 @@ ___
 >**Immunités** feu  
 >**Sens** Perception passive 15  
 >**Langues** géant  
->**Puissance** 14 (11500 PX) 
+>**Puissance** 14 (11500 PX)  
 >**Bonus de maîtrise** +5
 >
 >Double boucliers.  
@@ -20324,7 +20325,7 @@ ___
 >**Immunités** froid  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** géant  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4
 >
 >Têtes supplémentaires.  
@@ -20449,7 +20450,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 20  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 22 (41000 PX) 
+>**Puissance** 22 (41000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (3/jour).  
@@ -20542,7 +20543,7 @@ ___
 >
 >**Sens** Perception passive 11  
 >**Langues** commun  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Connaissance des armes à feu.  
@@ -20622,7 +20623,7 @@ ___
 >**Compétences** Perception +3, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** —  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Attaques multiples.  
@@ -20739,7 +20740,7 @@ ___
 >**Compétences** Intimidation +9, Intuition +8, Perception +8  
 >**Sens** Perception passive 18  
 >**Langues** gith  
->**Puissance** 14 (11500 PX) 
+>**Puissance** 14 (11500 PX)  
 >**Bonus de maîtrise** +5
 >
 >Résistance légendaire (3/jour).  
@@ -20823,7 +20824,7 @@ ___
 >**Compétences** Discrétion +6, Intuition +6, Perception +6  
 >**Sens** Perception passive 16  
 >**Langues** gith  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4
 >
 >Attaques multiples.  
@@ -20940,7 +20941,7 @@ ___
 >**Compétences** Intimidation +7, Perception +6  
 >**Sens** Perception passive 16  
 >**Langues** gith  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4
 >
 >Attaques multiples.  
@@ -21020,7 +21021,7 @@ ___
 >**Compétences** Arcanes +9, Intuition +10, Perception +10  
 >**Sens** Perception passive 20  
 >**Langues** gith  
->**Puissance** 16 (15000 PX) 
+>**Puissance** 16 (15000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Résistance légendaire (3/jour).  
@@ -21104,7 +21105,7 @@ ___
 >**Compétences** Arcanes +7, Intuition +8, Perception +8  
 >**Sens** Perception passive 18  
 >**Langues** gith  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4
 >
 >Défense psychique.  
@@ -21385,7 +21386,7 @@ ___
 >**Sauvegardes** Dex +4  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** gnoll  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Attaques multiples.  
@@ -21463,7 +21464,7 @@ ___
 >**Compétences** Perception +3, Discrétion +4  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** gnoll  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Attaques multiples.  
@@ -21580,7 +21581,7 @@ ___
 >**Immunités** épuisement, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 7  
 >**Langues** comprend le gnoll mais ne peut pas parler  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Nature insolite.  
@@ -22189,7 +22190,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend le draconique et les langages de son créateur mais ne peut pas parler  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >Aura de peur.  
@@ -22352,7 +22353,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 31  
 >**Langues** commun, draconique  
->**Puissance** 27 (105000 PX) 
+>**Puissance** 27 (105000 PX)  
 >**Bonus de maîtrise** +8
 >
 >Éveil chromatique (Recharge après un repos court ou long).  
@@ -22402,7 +22403,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné, à terre  
 >**Sens** vision véritable 36 m, Perception passive 25  
 >**Langues** commun, draconique  
->**Puissance** 26 (90000 PX) 
+>**Puissance** 26 (90000 PX)  
 >**Bonus de maîtrise** +8
 >
 >Éveil des gemmes (Recharge après un repos court ou long).  
@@ -22453,7 +22454,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 32  
 >**Langues** commun, draconique  
->**Puissance** 28 (120000 PX) 
+>**Puissance** 28 (120000 PX)  
 >**Bonus de maîtrise** +8
 >
 >Résistance légendaire (4/jour).  
@@ -22541,7 +22542,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 22  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 24 (62000 PX) 
+>**Puissance** 24 (62000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (3/jour).  
@@ -22639,7 +22640,7 @@ ___
 >**Sauvegardes** For +5, Con +4  
 >**Sens** Perception passive 10  
 >**Langues** commun, draconique  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >_Fizban´s Treasury of Dragons_
@@ -22897,7 +22898,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, paralysé, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 16  
 >**Langues** commun plus la langue principale de son maître  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4
 >
 >Reconstitution.  
@@ -23020,7 +23021,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** Perception passive 12  
 >**Langues** grung  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Amphibien.  
@@ -23062,7 +23063,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** Perception passive 12  
 >**Langues** grung  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Amphibien.  
@@ -23190,7 +23191,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** Perception passive 14  
 >**Langues** grung  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Amphibien.  
@@ -23278,7 +23279,7 @@ ___
 >**Résistances** froid  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** commun, géant, sylvestre  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -23360,7 +23361,7 @@ ___
 >**Immunités** froid  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** aérien, commun, géant  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Contrôle du climat (1/jour).  
@@ -23713,7 +23714,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** comprend l'abyssal mais ne peut pas parler  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Morsure.  
@@ -23788,7 +23789,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** Perception passive 11  
 >**Langues** géant  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >Gueule du chaos.  
@@ -23997,7 +23998,7 @@ ___
 >**Compétences** Discrétion +3, Escamotage +3, Intuition +3, Tromperie +6  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** aquatique, commun, jargon des voleurs  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Amphibien (forme hybride uniquement).  
@@ -24298,7 +24299,7 @@ ___
 >**Compétences** Arcanes +5  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, gobelin  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Arcanes de l'armée.  
@@ -24379,7 +24380,7 @@ ___
 >**Compétences** Acrobaties +5, Athlétisme +4, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** commun, gobelin  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Défense sans armure.  
@@ -24699,7 +24700,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, paralysé, empoisonné  
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 15  
 >**Langues** comprend l'abyssal, l'elfique et le commun des profondeurs mais ne peut pas parler  
->**Puissance** 14 (11500 PX) 
+>**Puissance** 14 (11500 PX)  
 >**Bonus de maîtrise** +5
 >
 >Traqueur irréprochable.  
@@ -24862,7 +24863,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** comprend l'abyssal mais ne peut pas parler  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Tactique de groupe.  
@@ -24943,7 +24944,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 21  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 21 (33000 PX) 
+>**Puissance** 21 (33000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Désespoir infernal.  
@@ -25088,7 +25089,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 18 m, vision aveugle 18 m, Perception passive 14  
 >**Langues** abyssal, infernal, télépathie 18 m  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Amphibien.  
@@ -25252,7 +25253,7 @@ ___
 >**Immunités** charmé, effrayé  
 >**Sens** vision véritable 18 m, Perception passive 11  
 >**Langues** abyssal, célestial, commun, draconique, elfique, infernal, sylvestre  
->**Puissance** 20 (25000 PX) 
+>**Puissance** 20 (25000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Adventures (The Wild Beyond the Witchlight)
@@ -25772,7 +25773,7 @@ ___
 >**Immunités** aveuglé, charmé, assourdi, épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi, inconscient  
 >**Sens** vision véritable 36 m, Perception passive 22  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 23 (50000 PX) 
+>**Puissance** 23 (50000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Fétide.  
@@ -25907,7 +25908,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4
 >
 >Résistance légendaire (3/jour).  
@@ -26082,7 +26083,7 @@ ___
 >**Résistances** voir Résistance du dragon ci-dessous  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, draconique  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Résistance de dragon.  
@@ -26163,7 +26164,7 @@ ___
 >**Compétences** Arcanes +2, Médecine +1  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, draconique  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Tactique de groupe.  
@@ -26244,7 +26245,7 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, draconique  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Tactique de groupe.  
@@ -26331,7 +26332,7 @@ ___
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Sens** vision dans le noir 36 m, perception des vibrations 36 m, Perception passive 15  
 >**Langues** nain, gnome, sylvestre, terreux, commun des profondeurs  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Camouflage dans les rochers.  
@@ -26461,7 +26462,7 @@ ___
 >**Compétences** Perception +5  
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 15  
 >**Langues** kruthik  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Tactique de groupe.  
@@ -26537,7 +26538,7 @@ ___
 >
 >**Sens** vision dans le noir 9 m, perception des vibrations 18 m, Perception passive 14  
 >**Langues** kruthik  
->**Puissance** 1/8 (25 PX) 
+>**Puissance** 1/8 (25 PX)  
 >**Bonus de maîtrise** +2
 >
 >Tactique de groupe.  
@@ -26609,7 +26610,7 @@ ___
 >
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 18  
 >**Langues** kruthik  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Tactique de groupe.  
@@ -27220,7 +27221,7 @@ ___
 >**Compétences** Tromperie +2, Perception +5  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** abyssal, gnoll  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Imitation.  
@@ -27304,7 +27305,7 @@ ___
 >**Immunités** épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** —  
->**Puissance** 20 (25000 PX) 
+>**Puissance** 20 (25000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Résistance légendaire (3/jour).  
@@ -27904,7 +27905,7 @@ ___
 >**Immunités** charmé, assourdi, épuisement, effrayé, paralysé, empoisonné, inconscient  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend l'infernal mais ne peut pas parler  
->**Puissance** 16 (15000 PX) 
+>**Puissance** 16 (15000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Forme immuable.  
@@ -28025,7 +28026,7 @@ ___
 >**Compétences** Arcanes +8, Histoire +8  
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Attaques multiples.  
@@ -28065,7 +28066,7 @@ ___
 >**Compétences** Arcanes +7, Histoire +7  
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -28105,7 +28106,7 @@ ___
 >**Compétences** Arcanes +6, Histoire +6  
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -28144,7 +28145,7 @@ ___
 >**Compétences** Arcanes +7, Histoire +7  
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Attaques multiples.  
@@ -28183,7 +28184,7 @@ ___
 >**Compétences** Arcanes +5, Histoire +5  
 >**Sens** Perception passive 10  
 >**Langues** quatre langues au choix  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Attaques multiples.  
@@ -28222,7 +28223,7 @@ ___
 >**Compétences** Arcanes +6, Histoire +6  
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -28263,7 +28264,7 @@ ___
 >**Résistances** nécrotique  
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Attaques multiples.  
@@ -28303,7 +28304,7 @@ ___
 >**Compétences** Arcanes +6, Histoire +6  
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -28425,7 +28426,7 @@ ___
 >**Compétences** Acrobaties +7, Athlétisme +3, Perception +3, Escamotage +7, Discrétion +7  
 >**Sens** Perception passive 13  
 >**Langues** une langue au choix (généralement le commun) et le jargon des voleurs  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >**Évasion**.
@@ -28907,7 +28908,7 @@ ___
 >**Immunités** charmé, effrayé, paralysé, empoisonné, inconscient  
 >**Sens** vision dans le noir 18 m, Perception passive 20  
 >**Langues** toutes mais parle rarement  
->**Puissance** 25 (75000 PX) 
+>**Puissance** 25 (75000 PX)  
 >**Bonus de maîtrise** +8
 >
 >Forme immuable.  
@@ -29035,7 +29036,7 @@ ___
 >**Immunités** charmé, épuisement, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** abyssal, elfique, télépathie 36 m  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Prendre une forme.  
@@ -29434,7 +29435,7 @@ ___
 >**Immunités** effrayé, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** comprend l'infernal mais ne peut pas parler, télépathie 36 m  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Vision de diable.  
@@ -29519,7 +29520,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 14  
 >**Langues** abyssal, infernal, télépathie 18 m  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Résistance à la magie.  
@@ -29731,7 +29732,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, agrippé, paralysé, empoisonné, à terre, entravé  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26  
 >**Langues** commun, draconique  
->**Puissance** 22 (41000 PX) 
+>**Puissance** 22 (41000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Adventures (Candlekeep Mysteries)
@@ -29840,7 +29841,7 @@ ___
 >**Immunités** à terre  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, draconique, télépathie 36 m  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >_Fizban´s Treasury of Dragons_
@@ -29951,7 +29952,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 21  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 21 (33000 PX) 
+>**Puissance** 21 (33000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (3/jour).  
@@ -30088,7 +30089,7 @@ ___
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques s'il est dans une lumière faible ou des ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Conscience éthérée.  
@@ -30127,7 +30128,7 @@ ___
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques s'il est dans une lumière faible ou des ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Conscience éthérée.  
@@ -30210,7 +30211,7 @@ ___
 >**Immunités** aveuglé, charmé, assourdi, effrayé, empoisonné, étourdi  
 >**Sens** vision véritable 36 m, Perception passive 31  
 >**Langues** abyssal, télépathie 36 m  
->**Puissance** 21 (33000 PX) 
+>**Puissance** 21 (33000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (3/jour).  
@@ -30378,7 +30379,7 @@ ___
 >**Compétences** Perception +3, Discrétion +5  
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** commun  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Garrot.  
@@ -30454,7 +30455,7 @@ ___
 >**Compétences** Arcanes +9, Histoire +9, Perception +10, Discrétion +6  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** télépathie 36 m  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >Amphibien.  
@@ -30813,7 +30814,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 17  
 >**Langues** abyssal, télépathie 36 m  
->**Puissance** 15 (13000 PX) 
+>**Puissance** 15 (13000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Ombres démoniaques.  
@@ -31034,7 +31035,7 @@ ___
 >**Compétences** Arcanes +12, Histoire +12, Intuition +10, Perception +10, Tromperie +11  
 >**Sens** vision véritable 36 m, Perception passive 20  
 >**Langues** commun et jusqu'à cinq autres langues  
->**Puissance** 17 (18000 PX) 
+>**Puissance** 17 (18000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Attaques multiples.  
@@ -31158,7 +31159,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 22  
 >**Langues** commun, infernal, télépathie 36 m  
->**Puissance** 13 (10000 PX) 
+>**Puissance** 13 (10000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Harnachement infernal.  
@@ -31369,7 +31370,7 @@ ___
 >**Compétences** Intimidation +4, Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, profond, commun des profondeurs  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Résistance mentale.  
@@ -31408,7 +31409,7 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
->**Puissance** 1/8 (25 PX) 
+>**Puissance** 1/8 (25 PX)  
 >**Bonus de maîtrise** +2
 >
 >Résistance mentale.  
@@ -31522,7 +31523,7 @@ ___
 >**Compétences** Arcanes +5, Tromperie +6, Intimidation +6, Perception +3, Persuasion +6  
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** commun, profond, commun des profondeurs, télépathie 9 m  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Vision de diable.  
@@ -31608,7 +31609,7 @@ ___
 >**Sauvegardes** Int +1, Sag +8, Cha +6  
 >**Sens** vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 13  
 >**Langues** —  
->**Puissance** 13 (10000 PX) 
+>**Puissance** 13 (10000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Perception des créatures.  
@@ -31764,7 +31765,7 @@ ___
 >**Compétences** Discrétion +6  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, gobelin  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Nilebogisme.  
@@ -32143,7 +32144,7 @@ ___
 >**Immunités** charmé, effrayé, agrippé, paralysé, pétrifié, à terre, entravé, étourdi  
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** télépathie 9 m  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Nuée.  
@@ -32261,7 +32262,7 @@ ___
 >**Immunités** à terre, agrippé, charmé, effrayé, entravé, paralysé, pétrifié  
 >**Sens** vision aveugle 3 m, Perception passive 6  
 >**Langues** —  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Nuée.  
@@ -32337,7 +32338,7 @@ ___
 >**Immunités** aveuglé, charmé, effrayé, empoisonné  
 >**Sens** vision aveugle 3 m (aveugle au-delà de ce rayon), Perception passive 11  
 >**Langues** comprend l'infernal mais ne peut pas parler  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2
 >
 >**Nuage de vermines**.  
@@ -32499,7 +32500,7 @@ ___
 >**Immunités** aveuglé, charmé, assourdi, épuisement, à terre  
 >**Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 14  
 >**Langues** commun plus deux autres langues  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Informe.  
@@ -32584,7 +32585,7 @@ ___
 >**Immunités** aveuglé, charmé, assourdi, épuisement, à terre  
 >**Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 12  
 >**Langues** —  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Informe.  
@@ -32662,7 +32663,7 @@ ___
 >**Immunités** aveuglé, charmé, assourdi, épuisement, à terre  
 >**Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 15  
 >**Langues** commun plus six autres langues  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4
 >
 >Informe.  
@@ -32749,7 +32750,7 @@ ___
 >**Immunités** charmé  
 >**Sens** Perception passive 11  
 >**Langues** deux langues au choix (généralement sylvestre)  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Action|**Attaques multiples**.  
@@ -32835,7 +32836,7 @@ ___
 >**Résistances** feu  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** deux langues au choix (généralement abyssal ou infernal)  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >**Chance du ténébreux (Recharge après un repos court ou long)**.
@@ -32924,7 +32925,7 @@ ___
 >**Résistances** psychique  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** deux langues au choix, télépathie 9 m  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >**Aura chuchotante**.
@@ -33042,7 +33043,7 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Poing.  
@@ -33111,7 +33112,7 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Monstre de siège.  
@@ -33183,7 +33184,7 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Poing.  
@@ -33254,7 +33255,7 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Howdah.  
@@ -33363,7 +33364,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 17  
 >**Langues** abyssal, infernal, télépathie 18 m  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4
 >
 >Résistance à la magie.  
@@ -33659,7 +33660,7 @@ ___
 >**Immunités** charmé, effrayé  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, draconique et deux langues au choix  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >_Fizban´s Treasury of Dragons_
@@ -33971,7 +33972,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 22  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 26 (90000 PX) 
+>**Puissance** 26 (90000 PX)  
 >**Bonus de maîtrise** +8
 >
 >Équipement spécial.  
@@ -34112,7 +34113,7 @@ ___
 >**Immunités** charmé, épuisement, empoisonné  
 >**Sens** vision dans le noir 36 m, vision véritable 9 m, Perception passive 20  
 >**Langues** commun, infernal, télépathie 36 m  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4
 >
 >Résistance à la magie.  
@@ -34678,7 +34679,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, pétrifié, empoisonné  
 >**Sens** Perception passive 9  
 >**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Opportuniste rusé.  
@@ -34757,7 +34758,7 @@ ___
 >**Immunités** épuisement, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
->**Puissance** 16 (15000 PX) 
+>**Puissance** 16 (15000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Mort ardente et renaissance.  
@@ -34886,7 +34887,7 @@ ___
 >**Compétences** Discrétion +2  
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Apparence trompeuse.  
@@ -35302,7 +35303,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné, étourdi  
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 17  
 >**Langues** comprend le modron et la langue de son propriétaire mais ne peut pas parler  
->**Puissance** 16 (15000 PX) 
+>**Puissance** 16 (15000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Résistance à la magie.  
@@ -35386,7 +35387,7 @@ ___
 >**Compétences** Acrobaties +8, Escamotage +8, Discrétion +8, Perception +5  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** commun, sylvestre  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Mouvement flou.  
@@ -35502,7 +35503,7 @@ ___
 >**Compétences** Intimidation +5, Religion +4  
 >**Sens** Perception passive 13  
 >**Langues** deux langues au choix  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Action|**Attaques multiples**.  
@@ -35587,7 +35588,7 @@ ___
 >**Compétences** Perception +5  
 >**Sens** Perception passive 15  
 >**Langues** deux langues au choix  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >**Amphibien**.
@@ -35674,7 +35675,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** Perception passive 13  
 >**Langues** commun, draconique et deux langues au choix  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -35934,7 +35935,7 @@ ___
 >**Compétences** Perception +2  
 >**Sens** Perception passive 12  
 >**Langues** —  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Repli aérien.  
@@ -36161,7 +36162,7 @@ ___
 >
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** télépathie 9 m  
->**Puissance** 0 (10 PX) 
+>**Puissance** 0 (10 PX)  
 >**Bonus de maîtrise** +2
 >
 >Voile télépathique.  
@@ -36311,7 +36312,7 @@ ___
 >**Immunités** épuisement, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** comprend les langues qu'il connaissait de son vivant mais ne peut pas parler  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Régénération.  
@@ -36391,7 +36392,7 @@ ___
 >
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend l'aquatique et le commun mais ne peut pas parler  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Amphibie limitée.  
@@ -36472,7 +36473,7 @@ ___
 >**Immunités** charmé, effrayé  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** profond  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4
 >
 >Miroir psychique.  
@@ -36550,7 +36551,7 @@ ___
 >**Immunités** psychique  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** profond  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Aura de cris.  
@@ -36625,7 +36626,7 @@ ___
 >**Immunités** charmé, effrayé, paralysé, pétrifié, empoisonné, entravé  
 >**Sens** vision dans le noir 18 m, Perception passive 16  
 >**Langues** profond  
->**Puissance** 16 (15000 PX) 
+>**Puissance** 16 (15000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Retour aux vers.  
@@ -36718,7 +36719,7 @@ ___
 >**Immunités** charmé, effrayé, à terre  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** profond  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Embuscade.  
@@ -36803,7 +36804,7 @@ ___
 >**Immunités** charmé, effrayé  
 >**Sens** vision dans le noir 18 m, Perception passive 19  
 >**Langues** commun, profond, commun des profondeurs  
->**Puissance** 13 (10000 PX) 
+>**Puissance** 13 (10000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Déplacement hors phase.  
@@ -37330,7 +37331,7 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Bête de somme.  
@@ -37478,7 +37479,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** comprend l'abyssal mais ne peut pas parler  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Peur immobilisante.  
@@ -37551,7 +37552,7 @@ ___
 >**Compétences** Arcanes +8, Histoire +8, Intuition +4, Investigation +8, Médecine +6, Nature +8, Religion +8  
 >**Sens** Perception passive 12  
 >**Langues** commun et quatre autres langues  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Action|**Poigne électrique (sort mineur)**. +6, , 2d8 foudre  
@@ -37592,7 +37593,7 @@ ___
 >**Compétences** Arcanes +11, Histoire +11, Intuition +7, Investigation +11, Médecine +10, Nature +11, Religion +11  
 >**Sens** Perception passive 14  
 >**Langues** commun et cinq autres langues  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Action|**Poigne électrique (sort mineur)**. +8, , 3d8 foudre  
@@ -37803,7 +37804,7 @@ ___
 >**Immunités** froid  
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 14  
 >**Langues** primordial  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Fureur brûlante.  
@@ -38102,7 +38103,7 @@ ___
 >
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 9  
 >**Langues** -  
->**Puissance** 1/8 (25 PX) 
+>**Puissance** 1/8 (25 PX)  
 >**Bonus de maîtrise** +2
 >
 >_Fizban´s Treasury of Dragons_
@@ -38202,7 +38203,7 @@ ___
 >**Compétences** Athlétisme +9, Intimidation +8, Perception +5, Persuasion +8  
 >**Sens** Perception passive 15  
 >**Langues** deux langues au choix  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4
 >
 >**Inflexible (3/jour)**.  
@@ -38291,7 +38292,7 @@ ___
 >**Immunités** aveuglé, charmé, assourdi, épuisement, effrayé, empoisonné, étourdi, inconscient  
 >**Sens** vision dans le noir 18 m, Perception passive 22  
 >**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 15 (13000 PX) 
+>**Puissance** 15 (13000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Esquive totale.  
@@ -38438,7 +38439,7 @@ ___
 >**Immunités** épuisement, effrayé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** commun, infernal, solamnique  
->**Puissance** 19 (22000 PX) 
+>**Puissance** 19 (22000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Résistance légendaire (3/jour).  
@@ -38674,7 +38675,7 @@ ___
 >**Immunités** froid  
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique  
->**Puissance** 14 (11500 PX) 
+>**Puissance** 14 (11500 PX)  
 >**Bonus de maîtrise** +5
 >
 >_Fizban´s Treasury of Dragons_
@@ -38709,7 +38710,7 @@ ___
 >**Immunités** froid  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** commun, draconique  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >_Fizban´s Treasury of Dragons_
@@ -38965,7 +38966,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé  
 >**Sens** vision dans le noir 18 m, Perception passive 17  
 >**Langues** commun, elfique  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >Ascendance féerique.  
@@ -39054,7 +39055,7 @@ ___
 >**Immunités** charmé, épuisement  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, elfique  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Ascendance féerique.  
@@ -39134,7 +39135,7 @@ ___
 >**Immunités** charmé, épuisement  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, elfique  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Fardeau du temps.  
@@ -39219,7 +39220,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, gnoll, télépathie 36 m  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -39302,7 +39303,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 23  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 18 (20000 PX) 
+>**Puissance** 18 (20000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Contamination.  
@@ -39744,7 +39745,7 @@ ___
 >**Compétences** Acrobaties +5, Tromperie +2, Perception +5, Discrétion +7  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15  
 >**Langues** elfique, sylvestre  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Mort éblouissante.  
@@ -39781,7 +39782,7 @@ ___
 >**Compétences** Acrobaties +5, Tromperie +3, Perception +6, Discrétion +7  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 >**Langues** elfique, sylvestre  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Mort brûlante.  
@@ -39898,7 +39899,7 @@ ___
 >**Immunités** épuisement, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Résistance au renvoi.  
@@ -39942,7 +39943,7 @@ ___
 >**Immunités** épuisement, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Vision de diable.  
@@ -40070,7 +40071,7 @@ ___
 >**Immunités** épuisement, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Sensibilité au soleil.  
@@ -40153,7 +40154,7 @@ ___
 >**Immunités** épuisement, paralysé, pétrifié, empoisonné, entravé, inconscient  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend le draconique mais ne peut pas parler  
->**Puissance** 6 (2300 PX) 
+>**Puissance** 6 (2300 PX)  
 >**Bonus de maîtrise** +3
 >
 >_Fizban´s Treasury of Dragons_
@@ -40655,7 +40656,7 @@ ___
 >**Résistances** feu, poison  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, commun, plus une autre langue  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Magic Resistance.  
@@ -40825,7 +40826,7 @@ ___
 >**Immunités** à terre  
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** profond, commun des profondeurs, télépathie 180 m  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Relai télépathique.  
@@ -40954,7 +40955,7 @@ ___
 >**Immunités** épuisement, effrayé, agrippé, paralysé, pétrifié, empoisonné, à terre, entravé  
 >**Sens** vision dans le noir 36 m, Perception passive 9  
 >**Langues** —  
->**Puissance** 20 (25000 PX) 
+>**Puissance** 20 (25000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Aura d'annihilation.  
@@ -41308,7 +41309,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 16 (15000 PX) 
+>**Puissance** 16 (15000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Résistance légendaire (3/jour).  
@@ -41406,7 +41407,7 @@ ___
 >**Compétences** Perception +4, Discrétion +4, Survie +4  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** tlincalli  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Attaques multiples.  
@@ -41481,7 +41482,7 @@ ___
 >**Compétences** Athlétisme +4, Survie +3  
 >**Sens** Perception passive 11  
 >**Langues** aquatique, commun  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Apnée.  
@@ -41520,7 +41521,7 @@ ___
 >**Compétences** Dressage +4, Nature +2, Survie +4  
 >**Sens** Perception passive 12  
 >**Langues** aquatique, commun  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Apnée.  
@@ -41677,7 +41678,7 @@ ___
 >**Immunités** épuisement, agrappé, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
->**Puissance** 23 (50000 PX) 
+>**Puissance** 23 (50000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Forme d'air.  
@@ -41820,7 +41821,7 @@ ___
 >**Résistances** psychique  
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** comprend le draconique mais ne peut pas parler, télépathie 18 m  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >_Fizban´s Treasury of Dragons_
@@ -41856,7 +41857,7 @@ ___
 >**Immunités** aveuglé, assourdi, épuisement, agrippé, paralysé, pétrifié, à terre, entravé, inconscient  
 >**Sens** vision aveugle 36 m, Perception passive 12  
 >**Langues** comprend les langues qu'il connaissait sous sa forme précédente mais ne peut pas parler  
->**Puissance** 3 (700 PX) 
+>**Puissance** 3 (700 PX)  
 >**Bonus de maîtrise** +2
 >
 >Apparence trompeuse.  
@@ -42055,7 +42056,7 @@ ___
 >**Immunités** feu  
 >**Sens** Perception passive 10  
 >**Langues** draconique, igné  
->**Puissance** 1/2 (100 PX) 
+>**Puissance** 1/2 (100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Amphibien.  
@@ -42131,7 +42132,7 @@ ___
 >**Immunités** feu  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** draconique, igné  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Amphibien.  
@@ -42337,7 +42338,7 @@ ___
 >**Immunités** nécrotique  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** géant  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Dégénérescence.  
@@ -42416,7 +42417,7 @@ ___
 >**Immunités** effrayé, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** géant  
->**Puissance** 13 (10000 PX) 
+>**Puissance** 13 (10000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Régénération.  
@@ -42500,7 +42501,7 @@ ___
 >**Immunités** épuisement, agrappé, paralysé, pétrifié, à terre, entravé, inconscient  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** géant  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >Déplacement intangible.  
@@ -42582,7 +42583,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** géant  
->**Puissance** 7 (2900 PX) 
+>**Puissance** 7 (2900 PX)  
 >**Bonus de maîtrise** +3
 >
 >Aspersion de poison.  
@@ -42838,7 +42839,7 @@ ___
 >**Compétences** Arcanes +9, Discrétion +5, Intuition +8, Perception +8  
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** profond, commun des profondeurs, télépathie 3 kilomètres  
->**Puissance** 9 (5000 PX) 
+>**Puissance** 9 (5000 PX)  
 >**Bonus de maîtrise** +4
 >
 >Perception des créatures.  
@@ -43109,7 +43110,7 @@ ___
 >**Immunités** à terre  
 >**Sens** vision dans le noir 36 m, Perception passive 15  
 >**Langues** profond, commun des profondeurs  
->**Puissance** 10 (5900 PX) 
+>**Puissance** 10 (5900 PX)  
 >**Bonus de maîtrise** +4
 >
 >Sang de foudre.  
@@ -43190,7 +43191,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** comprend l'abyssal, l'infernal et toutes les langues qu'elle connaissait avant de devenir une vargouille mais ne peut pas parler  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Morsure.  
@@ -43267,7 +43268,7 @@ ___
 >**Immunités** aveuglé, charmé, assourdi, épuisement, effrayé, agrippé, à terre, entravé  
 >**Sens** vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 14  
 >**Langues** comprend le draconique et les langages de son créateur mais ne peut pas parler  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Informe.  
@@ -43423,7 +43424,7 @@ ___
 >**Immunités** charmé, effrayé, empoisonné, épuisement, paralysé  
 >**Sens** vision véritable 36 m, Perception passive 25  
 >**Langues** commun, draconique, elfique, infernal  
->**Puissance** 26 (90000 PX) 
+>**Puissance** 26 (90000 PX)  
 >**Bonus de maîtrise** +8
 >
 >**Résistance légendaire (5/jour)**.  
@@ -43476,7 +43477,7 @@ ___
 >**Résistances** foudre, perforant  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** végépygmée  
->**Puissance** 1/4 (50 PX) 
+>**Puissance** 1/4 (50 PX)  
 >**Bonus de maîtrise** +2
 >
 >Camouflage dans la végétation.  
@@ -43515,7 +43516,7 @@ ___
 >**Résistances** foudre, perforant  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** végépygmée  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Camouflage dans la végétation.  
@@ -43597,7 +43598,7 @@ ___
 >**Résistances** foudre, perforant  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** —  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Camouflage dans la végétation.  
@@ -43893,7 +43894,7 @@ ___
 >**Immunités** effrayé  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** télépathie 36 m  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Aura de peur.  
@@ -44015,7 +44016,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** abyssal, télépathie 36 m  
->**Puissance** 13 (10000 PX) 
+>**Puissance** 13 (10000 PX)  
 >**Bonus de maîtrise** +5
 >
 >Amphibien.  
@@ -44257,7 +44258,7 @@ ___
 >**Compétences** Discrétion +4  
 >**Sens** vision dans le noir 9 m, Perception passive 8  
 >**Langues** abyssal  
->**Puissance** 1/8 (25 PX) 
+>**Puissance** 1/8 (25 PX)  
 >**Bonus de maîtrise** +2
 >
 >Langue de Raxivort.  
@@ -44334,7 +44335,7 @@ ___
 >**Compétences** Discrétion +3  
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** abyssal  
->**Puissance** 1 (200 PX) 
+>**Puissance** 1 (200 PX)  
 >**Bonus de maîtrise** +2
 >
 >Bénédiction de Raxivort.  
@@ -44422,7 +44423,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 16  
 >**Langues** abyssal, infernal, télépathie 18 m  
->**Puissance** 11 (7200 PX) 
+>**Puissance** 11 (7200 PX)  
 >**Bonus de maîtrise** +4
 >
 >Résistance à la magie.  
@@ -44549,7 +44550,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 24  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 24 (62000 PX) 
+>**Puissance** 24 (62000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (3/jour).  
@@ -44821,7 +44822,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 21  
 >**Langues** abyssal, commun, draconique  
->**Puissance** 12 (8400 PX) 
+>**Puissance** 12 (8400 PX)  
 >**Bonus de maîtrise** +4
 >
 >Résistance à la magie.  
@@ -44916,7 +44917,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** abyssal, commun, draconique  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Vision de diable.  
@@ -45011,7 +45012,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m (traverse les ténèbres magiques), Perception passive 12  
 >**Langues** abyssal, commun, draconique  
->**Puissance** 4 (1100 PX) 
+>**Puissance** 4 (1100 PX)  
 >**Bonus de maîtrise** +2
 >
 >Vision de diable.  
@@ -45107,7 +45108,7 @@ ___
 >**Immunités** charme, paralysé, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, commun, draconique  
->**Puissance** 2 (450 PX) 
+>**Puissance** 2 (450 PX)  
 >**Bonus de maîtrise** +2
 >
 >Téméraire.  
@@ -45190,7 +45191,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** abyssal, commun, draconique  
->**Puissance** 5 (1800 PX) 
+>**Puissance** 5 (1800 PX)  
 >**Bonus de maîtrise** +3
 >
 >Vision de diable.  
@@ -45383,7 +45384,7 @@ ___
 >**Immunités** épuisement, paralysé, pétrifié, empoisonné, étourdi  
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 15  
 >**Langues** —  
->**Puissance** 22 (41000 PX) 
+>**Puissance** 22 (41000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Résistance légendaire (3/jour).  
@@ -45486,7 +45487,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 26  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 26 (90000 PX) 
+>**Puissance** 26 (90000 PX)  
 >**Bonus de maîtrise** +8
 >
 >Vision de diable.  
@@ -45589,7 +45590,7 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** draconique, infernal, télépathie 36 m  
->**Puissance** 8 (3900 PX) 
+>**Puissance** 8 (3900 PX)  
 >**Bonus de maîtrise** +3
 >
 >**Vision de diable**.  
@@ -45828,7 +45829,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 21  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 23 (50000 PX) 
+>**Puissance** 23 (50000 PX)  
 >**Bonus de maîtrise** +7
 >
 >Vision de diable.  
