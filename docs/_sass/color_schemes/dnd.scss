@@ -37,6 +37,9 @@ a:not([class]):hover {
 .label.label-purple {
   background-color: rebeccapurple;
 }
+.label.label-statblock {
+  background-color: var(--statblock5e-primary-color);
+}
 
 /* callouts */
 blockquote.note::before {
