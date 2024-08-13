@@ -3079,7 +3079,7 @@ ___
 >**Immunités** charmé, épuisement, effrayé, empoisonné  
 >**Sens** vision véritable 36 m, Perception passive 23  
 >**Langues** toutes, télépathie 36 m  
->**Puissance** 19 (22000 PX) 
+>**Puissance** 19 (22000 PX)  
 >**Bonus de maîtrise** +6
 >
 >Épouvante.  
