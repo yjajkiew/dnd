@@ -41,7 +41,6 @@ ___
 >
 >**Attaque en piqué**. Si l'aarakocra vole sur au moins 9 mètres en ligne droite vers une cible, puis la touche lors d'une attaque au corps à corps avec une arme, l'attaque inflige 3 (1d6) dégâts supplémentaires à la cible.
 >
->|:---|:---|
 >Action|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
 >Action|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
 >
