@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Maître du Donjon (MD)
+title: Guide du maître
 parent: La Malédiction de Strahd (2023-2024)
 grand_parent: Campagnes
 nav_order: 1
 ---
 
-# Maître du Donjon (MD)
+# Guide du maître pour La Malédiction de Strahd
 {: .no_toc }
 
 <details open markdown="block">
