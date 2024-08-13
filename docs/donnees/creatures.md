@@ -1101,7 +1101,12 @@ ___
 >A|**Morsure**. +6, 1,50 m, 2d10+4 perforants  
 >
 >Monster Manual (BR)
->
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
+___
+
+
 >Âme en peine
 >============
 >
@@ -1130,6 +1135,145 @@ ___
 >A|**Création de spectre**.  
 >
 >_Monster Manual (SRD)_
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
+
+>Âme-en-peine, commandant
+>=============================
+>
+>_\[ Sword Wraith Commander \]_
+>
+>_Mort-vivant de taille M, typiquement loyal mauvais_
+>
+>**Classe d'armure** 18 (cuirasse, bouclier)  
+>**Points de vie** 127 (15d8 + 60)  
+>**Vitesse** 9 m
+>
+>| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|14 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)
+>
+>**Compétences** Perception +4  
+>**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
+>**Immunités** poison  
+>**Immunités** épuisement, effrayé, empoisonné, inconscient  
+>**Sens** vision dans le noir 18 m, Perception passive 14  
+>**Langues** les langues qu'il connaissait de son vivant  
+>**Puissance** 8 (3900 PX)
+>**Bonus de maîtrise** +3
+>
+>Mépris du renvoi.  
+>Nature insolite.  
+>Attaques multiples.  
+>Épée longue.  
+>Arc long.  
+>Appel à l'honneur (1/jour).  
+>Fureur martiale.  
+>
+>_Monsters of the Multiverse_
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
+___
+
+>Âme-en-peine, commandant legacy
+>====================================
+>
+>_\[ Sword Wraith Commander \]_
+>
+>_Mort-vivant de taille M, loyal mauvais_
+>
+>**Classe d'armure** 18 (cuirasse, bouclier)  
+>**Points de vie** 127 (15d8 + 60)  
+>**Vitesse** 9 m
+>
+>| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|14 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)
+>
+>**Compétences** Perception +4  
+>**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
+>**Immunités** poison  
+>**Immunités** épuisement, effrayé, empoisonné, inconscient  
+>**Sens** vision dans le noir 18 m, Perception passive 14  
+>**Langues** les langues qu'il connaissait de son vivant  
+>**Puissance** 8 (3900 PX)
+>
+>Fureur martiale.  
+>Mépris du renvoi.  
+>Attaques multiples.  
+>Épée longue.  
+>Arc long.  
+>Appel à l'honneur (1/jour).  
+>
+>_Mordenkainen´s Tome of Foes_
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
+___
+
+>Âme-en-peine, guerrier
+>===========================
+>
+>_\[ Sword Wraith Warrior \] \[ Lame-en-peine, soldat \]_
+>
+>_Mort-vivant de taille M, typiquement loyal mauvais_
+>
+>**Classe d'armure** 16 (chemise de mailles, bouclier)  
+>**Points de vie** 45 (6d8 + 18)  
+>**Vitesse** 9 m
+>
+>| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|12 (+1)|17 (+3)|6 (-2)|9 (-1)|10 (+0)
+>
+>**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
+>**Immunités** poison  
+>**Immunités** épuisement, effrayé, empoisonné, inconscient  
+>**Sens** vision dans le noir 18 m, Perception passive 9  
+>**Langues** les langues qu'il connaissait de son vivant  
+>**Puissance** 3 (700 PX)
+>**Bonus de maîtrise** +2
+>
+>Nature insolite.  
+>Hache d'armes.  
+>Arc long.  
+>Fureur martiale.  
+>
+>_Monsters of the Multiverse_
+>{: .label .label.label-statblock }
+{: .statblock5e }
+
+___
+
+>Âme-en-peine, guerrier legacy
+>==================================
+>
+>_\[ Sword Wraith Warrior \]_
+>
+>_Mort-vivant de taille M, loyal mauvais_
+>
+>**Classe d'armure** 16 (chemise de mailles, bouclier)  
+>**Points de vie** 45 (6d8 + 18)  
+>**Vitesse** 9 m
+>
+>| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|12 (+1)|17 (+3)|6 (-2)|9 (-1)|10 (+0)
+>
+>**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
+>**Immunités** poison  
+>**Immunités** épuisement, effrayé, empoisonné, inconscient  
+>**Sens** vision dans le noir 18 m, Perception passive 9  
+>**Langues** les langues qu'il connaissait de son vivant  
+>**Puissance** 3 (700 PX)
+>
+>Fureur martiale.  
+>Épée longue.  
+>Arc long.  
+>
+>_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
@@ -22592,146 +22736,6 @@ ___
 >
 >
 >Adventures (Dragon Heist)
-{: .statblock5e }
-
-___
-
->Lame-en-peine, commandant
->=============================
->
->_\[ Sword Wraith Commander \]_
->
->_Mort-vivant de taille M, typiquement loyal mauvais_
->
->**Classe d'armure** 18 (cuirasse, bouclier)  
->**Points de vie** 127 (15d8 + 60)  
->**Vitesse** 9 m
->
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|14 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)
->
->**Compétences** Perception +4  
->**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
->**Immunités** poison  
->**Immunités** épuisement, effrayé, empoisonné, inconscient  
->**Sens** vision dans le noir 18 m, Perception passive 14  
->**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 8 (3900 PX)
->**Bonus de maîtrise** +3
->
->Mépris du renvoi.  
->Nature insolite.  
->Attaques multiples.  
->Épée longue.  
->Arc long.  
->Appel à l'honneur (1/jour).  
->Fureur martiale.  
->
->_Monsters of the Multiverse_
->{: .label .label.label-statblock }
-{: .statblock5e }
-
-___
-
->Lame-en-peine, commandant legacy
->====================================
->
->_\[ Sword Wraith Commander \]_
->
->_Mort-vivant de taille M, loyal mauvais_
->
->**Classe d'armure** 18 (cuirasse, bouclier)  
->**Points de vie** 127 (15d8 + 60)  
->**Vitesse** 9 m
->
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|14 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)
->
->**Compétences** Perception +4  
->**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
->**Immunités** poison  
->**Immunités** épuisement, effrayé, empoisonné, inconscient  
->**Sens** vision dans le noir 18 m, Perception passive 14  
->**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 8 (3900 PX)
->
->Fureur martiale.  
->Mépris du renvoi.  
->Attaques multiples.  
->Épée longue.  
->Arc long.  
->Appel à l'honneur (1/jour).  
->
->_Mordenkainen´s Tome of Foes_
->{: .label .label.label-statblock }
-{: .statblock5e }
-
-___
-
->Lame-en-peine, guerrier
->===========================
->
->_\[ Sword Wraith Warrior \] \[ Lame-en-peine, soldat \]_
->
->_Mort-vivant de taille M, typiquement loyal mauvais_
->
->**Classe d'armure** 16 (chemise de mailles, bouclier)  
->**Points de vie** 45 (6d8 + 18)  
->**Vitesse** 9 m
->
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|12 (+1)|17 (+3)|6 (-2)|9 (-1)|10 (+0)
->
->**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
->**Immunités** poison  
->**Immunités** épuisement, effrayé, empoisonné, inconscient  
->**Sens** vision dans le noir 18 m, Perception passive 9  
->**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 3 (700 PX)
->**Bonus de maîtrise** +2
->
->Nature insolite.  
->Hache d'armes.  
->Arc long.  
->Fureur martiale.  
->
->_Monsters of the Multiverse_
->{: .label .label.label-statblock }
-{: .statblock5e }
-
-___
-
->Lame-en-peine, guerrier legacy
->==================================
->
->_\[ Sword Wraith Warrior \]_
->
->_Mort-vivant de taille M, loyal mauvais_
->
->**Classe d'armure** 16 (chemise de mailles, bouclier)  
->**Points de vie** 45 (6d8 + 18)  
->**Vitesse** 9 m
->
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|12 (+1)|17 (+3)|6 (-2)|9 (-1)|10 (+0)
->
->**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
->**Immunités** poison  
->**Immunités** épuisement, effrayé, empoisonné, inconscient  
->**Sens** vision dans le noir 18 m, Perception passive 9  
->**Langues** les langues qu'il connaissait de son vivant  
->**Puissance** 3 (700 PX)
->
->Fureur martiale.  
->Épée longue.  
->Arc long.  
->
->_Mordenkainen´s Tome of Foes_
->{: .label .label.label-statblock }
 {: .statblock5e }
 
 ___
