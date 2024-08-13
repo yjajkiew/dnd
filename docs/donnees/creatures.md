@@ -7,17 +7,15 @@ parent: Bases de données
 
 # Créatures
 {: .no_toc }
-{: .statblock5e }
+
 
 <details open markdown="block">
   <summary>
     Liste des créatures
   </summary>
   {: .text-delta }
-{: .statblock5e }
 - TOC
 {:toc}
-{: .statblock5e }
 </details>
 
 ___
@@ -49,8 +47,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
-
->
+___
 >Abishaï blanc
 >=============
 >
@@ -87,6 +84,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
 >Abishaï blanc legacy
 >====================
 >
@@ -124,6 +122,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
 >Abishaï bleu
 >============
 >
@@ -160,6 +159,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
 >Abishaï bleu legacy
 >===================
 >
@@ -196,6 +196,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Abishaï noir
 >============
 >
@@ -230,6 +232,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Abishaï noir legacy
 >===================
@@ -268,6 +272,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Abishaï rouge
 >=============
 >
@@ -304,6 +310,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Abishaï rouge legacy
 >====================
@@ -343,6 +351,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Abishaï vert
 >============
 >
@@ -376,6 +386,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Abishaï vert legacy
 >===================
@@ -412,6 +424,8 @@ ___
 >Mordenkainen´s Tome of Foes
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Abjurateur legacy
 >=================
@@ -451,6 +465,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Aboleth
 >=======
 >
@@ -487,7 +503,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Abomination transdraconique
 >===========================
 >
@@ -520,6 +536,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Acérérak
 >========
@@ -563,6 +581,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Acolyte
 >=======
 >
@@ -592,7 +612,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Affligé affamé
 >==============
 >
@@ -621,6 +641,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Affligé colérique
 >=================
@@ -652,6 +674,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Affligé misérable
 >=================
 >
@@ -678,6 +702,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Affligé perdu
 >=============
@@ -709,6 +735,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Affligé solitaire
 >=================
 >
@@ -739,6 +767,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Aigle
 >=====
 >
@@ -765,6 +795,8 @@ ___
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Aigle géant
 >===========
@@ -794,6 +826,8 @@ ___
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Alhoon
 >======
@@ -832,6 +866,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Alhoon legacy
 >=============
@@ -877,6 +913,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Alkilith
 >========
 >
@@ -915,6 +953,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Alkilith legacy
 >===============
 >
@@ -950,6 +990,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Allip
 >=====
 >
@@ -984,6 +1026,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Allip legacy
 >============
 >
@@ -1016,6 +1060,8 @@ ___
 >Mordenkainen´s Tome of Foes
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Allosaure
 >=========
@@ -1074,6 +1120,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Amnizu
 >======
 >
@@ -1110,6 +1158,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Amnizu legacy
 >=============
@@ -1148,6 +1198,8 @@ ___
 >Mordenkainen´s Tome of Foes
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Androsphinx
 >===========
@@ -1196,6 +1248,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Ankheg
 >======
 >
@@ -1222,6 +1276,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Ankylosaure
 >===========
 >
@@ -1246,6 +1302,8 @@ ___
 >_Monster Manual (BR)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Apprenti magicien
 >=================
@@ -1301,7 +1359,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Arach
 >=======
 >
@@ -1340,6 +1398,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Araignée
 >==========
 >
@@ -1368,6 +1428,8 @@ ___
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Araignée de monte, femelle
 >============================
@@ -1398,6 +1460,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Araignée de monte, femelle legacy
 >===================================
 >
@@ -1426,6 +1490,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Araignée de monte, mâle
 >=========================
@@ -1456,6 +1522,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Araignée de monte, mâle legacy
 >================================
 >
@@ -1485,6 +1553,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Araignée de phase
 >===================
 >
@@ -1513,6 +1583,8 @@ ___
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Araignée géante
 >=================
@@ -1544,6 +1616,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Araignée-loup géante
 >======================
 >
@@ -1573,6 +1647,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Arbre éveillé
 >===============
 >
@@ -1600,6 +1676,8 @@ ___
 >_Monster Manual (SRD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Arbuste éveillé
 >=================
@@ -1629,7 +1707,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Arcanaloth
 >============
 >
@@ -1675,6 +1753,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Archer
 >========
 >
@@ -1704,6 +1784,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Archer legacy
 >===============
 >
@@ -1732,6 +1814,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Archidruide
 >=============
@@ -1763,6 +1847,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Archidruide legacy
 >====================
@@ -1802,6 +1888,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Archimage
 >===========
@@ -1844,7 +1932,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Armanite
 >==========
 >
@@ -1877,6 +1965,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Armanite legacy
 >=================
@@ -1912,6 +2002,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Armure animée
 >===============
 >
@@ -1942,7 +2034,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Assassin
 >==========
 >
@@ -1976,7 +2068,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Auroch
 >========
 >
@@ -2001,6 +2093,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Auroch legacy
 >===============
@@ -2027,6 +2121,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Automate, cobra de fer
 >========================
@@ -2058,6 +2154,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Automate, cobra de fer legacy
 >===============================
 >
@@ -2087,6 +2185,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Avatar de la mort
 >===================
 >
@@ -2115,6 +2215,8 @@ ___
 >_Rules (Dungeon Master´s Guide)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Azer
 >======
@@ -2147,7 +2249,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Babau
 >=======
 >
@@ -2179,6 +2281,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Babau legacy
 >==============
@@ -2214,6 +2318,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Babélien
 >==========
 >
@@ -2244,7 +2350,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Babouin
 >=========
 >
@@ -2271,7 +2377,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Badîan
 >========
 >
@@ -2300,6 +2406,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Baël
 >======
@@ -2341,6 +2449,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Baël legacy
 >=============
@@ -2385,6 +2495,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Balhannoth
 >============
 >
@@ -2419,6 +2531,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Balhannoth legacy
 >===================
 >
@@ -2452,6 +2566,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Balor
 >=======
@@ -2489,7 +2605,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Banderhobb
 >============
 >
@@ -2523,6 +2639,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Banderhobb legacy
 >===================
 >
@@ -2555,6 +2673,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Bandit
 >========
 >
@@ -2581,7 +2701,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Bandit, capitaine
 >===================
 >
@@ -2612,7 +2732,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Banshie
 >=========
 >
@@ -2645,6 +2765,8 @@ ___
 >_Monster Manual (BR)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Baphomet
 >==========
@@ -2685,6 +2807,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Baphomet legacy
 >=================
@@ -2729,6 +2853,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Barde
 >=======
 >
@@ -2760,6 +2886,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Barde legacy
 >==============
@@ -2795,6 +2923,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Barghest
 >==========
 >
@@ -2828,6 +2958,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Barghest legacy
 >=================
@@ -2864,6 +2996,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Barlgura
 >==========
@@ -2902,6 +3036,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Basilic
 >=========
 >
@@ -2928,7 +3064,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Bec de hache
 >==============
 >
@@ -2954,7 +3090,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Béhir
 >=======
 >
@@ -2986,7 +3122,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Belaphoss
 >===========
 >
@@ -3025,6 +3161,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Belette
 >=========
 >
@@ -3052,7 +3190,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Belette géante
 >================
 >
@@ -3080,7 +3218,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Berbalang
 >===========
 >
@@ -3111,6 +3249,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Berbalang legacy
 >==================
@@ -3143,6 +3283,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Berserker
 >===========
 >
@@ -3169,7 +3311,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Bête de la mer
 >================
 >
@@ -3197,7 +3339,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Bête de la terre
 >==================
 >
@@ -3225,7 +3367,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Bête du ciel
 >==============
 >
@@ -3253,7 +3395,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Bête éclipsante
 >=================
 >
@@ -3282,6 +3424,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Bison fétide
 >==============
 >
@@ -3308,6 +3452,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Bison fétide legacy
 >=====================
@@ -3337,6 +3483,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Blaireau
 >==========
 >
@@ -3363,7 +3511,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Blaireau géant
 >================
 >
@@ -3392,7 +3540,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Blarks
 >========
 >
@@ -3420,6 +3568,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Blême
 >=======
@@ -3452,7 +3602,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Bodak
 >=======
 >
@@ -3487,6 +3637,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Bodak legacy
 >==============
 >
@@ -3520,6 +3672,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Boeuf
 >=======
 >
@@ -3545,6 +3699,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Boeuf legacy
 >==============
@@ -3572,6 +3728,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Boiseux
 >=========
@@ -3605,6 +3763,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Boiseux legacy
 >================
@@ -3640,6 +3800,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Bonnet-rouge
 >==============
 >
@@ -3669,6 +3831,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Bonnet-rouge legacy
 >=====================
@@ -3700,6 +3864,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Bousniarf
 >===========
 >
@@ -3729,6 +3895,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Bretteur
 >==========
@@ -3760,6 +3928,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Bretteur legacy
 >=================
 >
@@ -3789,6 +3959,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Brume vampirique
 >==================
@@ -3824,6 +3996,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Brume vampirique legacy
 >=========================
 >
@@ -3858,6 +4032,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Brutacien
 >===========
 >
@@ -3888,6 +4064,8 @@ ___
 >
 >_Monster Manual (BR+)_{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Brutacien, chevalier
 >======================
@@ -3920,6 +4098,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Bulette
 >=========
 >
@@ -3948,7 +4128,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Bulezau
 >=========
 >
@@ -3979,6 +4159,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Bulezau legacy
 >================
@@ -4011,6 +4193,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Cachalot
 >==========
 >
@@ -4040,6 +4224,8 @@ ___
 >_Adventures (Rime of the Frostmaiden)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Cambion
 >=========
@@ -4076,6 +4262,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Canoloth
 >==========
 >
@@ -4110,6 +4298,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Canoloth legacy
 >=================
@@ -4147,6 +4337,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Catoblépas
 >============
 >
@@ -4175,6 +4367,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Catoblépas legacy
 >===================
 >
@@ -4202,6 +4396,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Centaure
 >==========
@@ -4233,7 +4429,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Cérébrum
 >==========
 >
@@ -4267,6 +4463,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Cerf
 >======
 >
@@ -4292,7 +4490,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Cerveau, vénérable
 >====================
 >
@@ -4332,6 +4530,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Cerveau vénérable draconique
 >==============================
 >
@@ -4369,6 +4569,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Cerveau, vénérable legacy
 >===========================
@@ -4411,6 +4613,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chacal
 >========
 >
@@ -4439,7 +4643,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chamane Uthgardt
 >==================
 >
@@ -4470,6 +4674,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chameau
 >=========
 >
@@ -4495,7 +4701,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Champion
 >==========
 >
@@ -4526,6 +4732,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Champion legacy
 >=================
@@ -4558,6 +4766,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Charognard rampant
 >====================
 >
@@ -4587,6 +4797,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Chasme
 >========
@@ -4621,6 +4833,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chat
 >======
 >
@@ -4648,7 +4862,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chauve-souris
 >===============
 >
@@ -4676,7 +4890,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chauve-souris-garou
 >=====================
 >
@@ -4712,6 +4926,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chauve-souris géante
 >======================
 >
@@ -4739,7 +4955,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Cheval de guerre
 >==================
 >
@@ -4766,7 +4982,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Cheval de selle
 >=================
 >
@@ -4792,7 +5008,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Cheval de trait
 >=================
 >
@@ -4818,7 +5034,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chevalier
 >===========
 >
@@ -4850,7 +5066,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chevalier de la mort
 >======================
 >
@@ -4891,6 +5107,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chevalier noir
 >================
 >
@@ -4926,6 +5144,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chevalier noir legacy
 >=======================
 >
@@ -4960,6 +5180,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chèvre
 >========
 >
@@ -4987,7 +5209,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chèvre de montagne
 >====================
 >
@@ -5014,6 +5236,8 @@ ___
 >_Adventures (Rime of the Frostmaiden)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Chèvre géante
 >===============
@@ -5042,7 +5266,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chèvre géante à deux têtes
 >============================
 >
@@ -5099,7 +5323,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chien de chasse yeth
 >======================
 >
@@ -5130,6 +5354,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Chien de chasse yeth legacy
 >=============================
@@ -5162,6 +5388,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chien du trépas
 >=================
 >
@@ -5190,7 +5418,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chien esquiveur
 >=================
 >
@@ -5219,7 +5447,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chien sauvage
 >===============
 >
@@ -5275,6 +5503,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chimère
 >=========
 >
@@ -5305,7 +5535,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chitineux
 >===========
 >
@@ -5337,6 +5567,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chitineux legacy
 >==================
 >
@@ -5367,6 +5599,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Choldrithe
 >============
@@ -5400,6 +5634,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Choldrithe legacy
 >===================
@@ -5437,6 +5673,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Chouette
 >==========
 >
@@ -5465,7 +5703,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chouette géante
 >=================
 >
@@ -5494,7 +5732,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Chuul
 >=======
 >
@@ -5527,7 +5765,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Cockatrice
 >============
 >
@@ -5553,7 +5791,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Colimassue
 >============
 >
@@ -5584,6 +5822,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Colimassue legacy
 >===================
@@ -5617,6 +5857,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Collecteur de cadavres
 >========================
 >
@@ -5649,6 +5891,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Collecteur de cadavres legacy
 >===============================
 >
@@ -5680,6 +5924,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Compagnon d'armes (niv 1)
 >===========================
 >
@@ -5709,6 +5955,8 @@ ___
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Compagnon d'armes (niv 2)
 >===========================
@@ -5740,6 +5988,8 @@ ___
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Compagnon d'armes (niv 3)
 >===========================
@@ -5773,6 +6023,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Compagnon d'armes (niv 4)
 >===========================
 >
@@ -5805,6 +6057,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Compagnon d'armes (niv 5)
 >===========================
 >
@@ -5836,6 +6090,8 @@ ___
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Compagnon d'armes (niv 6)
 >===========================
@@ -5870,6 +6126,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Compagnon Drake
 >=================
 >
@@ -5898,6 +6156,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Consul de fer
 >===============
@@ -5930,7 +6190,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Corbeau
 >=========
 >
@@ -5958,7 +6218,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Couatl
 >========
 >
@@ -5995,7 +6255,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Coursier géant
 >================
 >
@@ -6023,6 +6283,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Coursier géant legacy
 >=======================
@@ -6052,6 +6314,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Crabe
 >=======
 >
@@ -6079,7 +6343,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Crabe des cavernes
 >====================
 >
@@ -6112,6 +6376,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Crabe des cavernes legacy
 >===========================
 >
@@ -6143,6 +6409,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Crabe géant
 >=============
 >
@@ -6170,7 +6438,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Crâne de Bhaal
 >================
 >
@@ -6202,7 +6470,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Crânefeu
 >==========
 >
@@ -6241,6 +6509,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Crapaud géant
 >===============
 >
@@ -6269,7 +6539,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Criard
 >========
 >
@@ -6297,7 +6567,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Crocodile
 >===========
 >
@@ -6325,7 +6595,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Crocodile géant
 >=================
 >
@@ -6355,7 +6625,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Crokek'toeck
 >==============
 >
@@ -6391,6 +6661,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Cube gélatineux
 >=================
 >
@@ -6420,7 +6692,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Cuirassier astral
 >===================
 >
@@ -6460,6 +6732,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Cuirassier astral legacy
 >==========================
@@ -6501,6 +6775,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Cultiste
 >==========
 >
@@ -6528,7 +6804,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Cyclope
 >=========
 >
@@ -6556,6 +6832,8 @@ ___
 >_Monster Manual (BR)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dao
 >=====
@@ -6593,6 +6871,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dauphin
 >=========
 >
@@ -6619,6 +6899,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >_Dauphin enchanteur
 >====================
@@ -6651,6 +6933,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dauphin legacy
 >================
 >
@@ -6678,6 +6962,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Défenseur d'acier
 >===================
@@ -6711,7 +6997,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Demi-dragon rouge, vétéran
 >============================
 >
@@ -6742,6 +7028,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Demi-liche
 >============
@@ -6780,6 +7068,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Demi-ogre
 >===========
 >
@@ -6805,6 +7095,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Démogorgon
 >============
@@ -6844,6 +7136,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Démogorgon legacy
 >===================
@@ -6890,6 +7184,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Démon des ombres
 >==================
 >
@@ -6924,6 +7220,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Derro
 >=======
 >
@@ -6953,6 +7251,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Derro legacy
 >==============
 >
@@ -6981,6 +7281,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Derro, savant
 >===============
@@ -7012,6 +7314,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Derro, savant legacy
 >======================
 >
@@ -7040,6 +7344,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Deslor
 >========
@@ -7102,7 +7408,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Déva
 >======
 >
@@ -7140,7 +7446,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dévastateur gris
 >==================
 >
@@ -7171,6 +7477,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dévastateur gris legacy
 >=========================
 >
@@ -7200,6 +7508,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Devin legacy
 >==============
@@ -7240,6 +7550,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dévoreur
 >==========
 >
@@ -7271,6 +7583,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dévoreur d'intellect
 >======================
@@ -7304,6 +7618,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dévoreur legacy
 >=================
 >
@@ -7334,6 +7650,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dhergoloth
 >============
@@ -7368,6 +7686,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dhergoloth legacy
 >===================
@@ -7404,6 +7724,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Diable à chaînes
 >==================
 >
@@ -7438,7 +7760,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Diable barbelé
 >================
 >
@@ -7475,7 +7797,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Diable barbu
 >==============
 >
@@ -7510,7 +7832,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Diable cornu
 >==============
 >
@@ -7545,7 +7867,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Diable épineux
 >================
 >
@@ -7580,6 +7902,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Diable gelé
 >=============
@@ -7616,7 +7940,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Diable osseux
 >===============
 >
@@ -7651,7 +7975,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Diablotin
 >===========
 >
@@ -7685,7 +8009,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Diantrefosse
 >==============
 >
@@ -7725,7 +8049,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Djinn
 >=======
 >
@@ -7760,7 +8084,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Doppelganger
 >==============
 >
@@ -7793,7 +8117,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dracohydre
 >============
 >
@@ -7824,6 +8148,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dracoliche bleue, adulte
 >==========================
@@ -7865,6 +8191,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Draconien, conspirateur
 >=========================
 >
@@ -7899,6 +8227,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Draconien, cuirassé
 >=====================
 >
@@ -7929,6 +8259,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Draconien, fantassin
 >======================
 >
@@ -7956,6 +8288,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Draconien, infiltré
 >=====================
@@ -7989,6 +8323,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Draconien, mage
 >=================
 >
@@ -8020,6 +8356,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Draconnoeil
 >=============
 >
@@ -8050,6 +8388,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Draegloth
 >===========
@@ -8083,6 +8423,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Draegloth legacy
 >==================
@@ -8118,6 +8460,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon blanc, adulte
 >======================
@@ -8157,7 +8501,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon blanc, ancien
 >======================
 >
@@ -8196,7 +8540,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon blanc, dragonnet
 >=========================
 >
@@ -8226,7 +8570,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon blanc, jeune
 >=====================
 >
@@ -8259,7 +8603,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon bleu, adulte
 >=====================
 >
@@ -8297,7 +8641,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon bleu, ancien
 >=====================
 >
@@ -8335,7 +8679,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon bleu, dragonnet
 >========================
 >
@@ -8365,7 +8709,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon bleu, jeune
 >====================
 >
@@ -8397,7 +8741,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon-cave
 >=============
 >
@@ -8436,6 +8780,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >_Dragon d'airain, adulte
 >=========================
@@ -8476,7 +8822,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'airain, ancien
 >=========================
 >
@@ -8517,7 +8863,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'airain, dragonnet
 >============================
 >
@@ -8549,7 +8895,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'airain, jeune
 >========================
 >
@@ -8583,7 +8929,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'améthyste, adulte
 >============================
 >
@@ -8625,6 +8971,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon d'améthyste, ancien
 >============================
 >
@@ -8665,6 +9013,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon d'améthyste, dragonnet
 >===============================
 >
@@ -8696,6 +9046,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon d'améthyste, jeune
 >===========================
@@ -8730,6 +9082,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon d'argent, adulte
 >=========================
@@ -8771,7 +9125,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'argent, ancien
 >=========================
 >
@@ -8812,7 +9166,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'argent, dragonnet
 >============================
 >
@@ -8844,7 +9198,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'argent, jeune
 >========================
 >
@@ -8878,7 +9232,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'émeraude, adulte
 >===========================
 >
@@ -8921,6 +9275,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon d'émeraude, ancien
 >===========================
 >
@@ -8961,6 +9317,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon d'émeraude, dragonnet
 >==============================
 >
@@ -8991,6 +9349,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon d'émeraude, jeune
 >==========================
@@ -9024,6 +9384,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon d'ombre rouge, jeune
 >=============================
@@ -9059,6 +9421,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon d'or, adulte
 >=====================
@@ -9101,7 +9465,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'or, ancien
 >=====================
 >
@@ -9143,7 +9507,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'or, dragonnet
 >========================
 >
@@ -9176,7 +9540,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon d'or, jeune
 >====================
 >
@@ -9211,7 +9575,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon de bronze, adulte
 >==========================
 >
@@ -9253,7 +9617,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon de bronze, ancien
 >==========================
 >
@@ -9295,7 +9659,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon de bronze, dragonnet
 >=============================
 >
@@ -9328,7 +9692,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon de bronze, jeune
 >=========================
 >
@@ -9363,7 +9727,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon de cristal, adulte
 >===========================
 >
@@ -9404,6 +9768,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon de cristal, ancien
 >===========================
 >
@@ -9442,6 +9808,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon de cristal, dragonnet
 >==============================
 >
@@ -9472,6 +9840,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon de cristal, jeune
 >==========================
@@ -9504,6 +9874,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon de cuivre, adulte
 >==========================
@@ -9544,7 +9916,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon de cuivre, ancien
 >==========================
 >
@@ -9585,7 +9957,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon de cuivre, dragonnet
 >=============================
 >
@@ -9617,7 +9989,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon de cuivre, jeune
 >=========================
 >
@@ -9651,7 +10023,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon de saphir, adulte
 >==========================
 >
@@ -9694,6 +10066,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon de saphir, ancien
 >==========================
 >
@@ -9735,6 +10109,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon de saphir, dragonnet
 >=============================
 >
@@ -9767,6 +10143,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon de saphir, jeune
 >=========================
@@ -9802,6 +10180,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon de topaze, adulte
 >==========================
@@ -9844,6 +10224,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon de topaze, ancien
 >==========================
 >
@@ -9884,6 +10266,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon de topaze, dragonnet
 >=============================
 >
@@ -9914,6 +10298,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon de topaze, jeune
 >=========================
@@ -9947,6 +10333,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon des profondeurs, adulte
 >================================
@@ -9986,6 +10374,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon des profondeurs, ancien
 >================================
 >
@@ -10024,6 +10414,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon des profondeurs, dragonnet
 >===================================
 >
@@ -10053,6 +10445,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon des profondeurs, jeune
 >===============================
@@ -10085,6 +10479,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon fantôme
 >================
@@ -10121,6 +10517,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon féerique
 >=================
@@ -10162,6 +10560,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon noir, adulte
 >=====================
 >
@@ -10201,7 +10601,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon noir, ancien
 >=====================
 >
@@ -10240,7 +10640,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon noir, dragonnet
 >========================
 >
@@ -10271,7 +10671,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon noir, jeune
 >====================
 >
@@ -10304,7 +10704,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon pierre-de-lune, adulte
 >===============================
 >
@@ -10345,6 +10745,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon pierre-de-lune, ancien
 >===============================
 >
@@ -10381,6 +10783,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon pierre-de-lune, dragonnet
 >==================================
 >
@@ -10409,6 +10813,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon pierre-de-lune, jeune
 >==============================
@@ -10441,6 +10847,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon rouge, adulte
 >======================
@@ -10479,7 +10887,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon rouge, ancien
 >======================
 >
@@ -10517,7 +10925,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon rouge, dragonnet
 >=========================
 >
@@ -10547,7 +10955,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon rouge, jeune
 >=====================
 >
@@ -10579,7 +10987,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon-tortue
 >===============
 >
@@ -10612,7 +11020,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon-tortue, ancien
 >=======================
 >
@@ -10640,6 +11048,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dragon-tortue, dragonnet
 >==========================
 >
@@ -10664,6 +11074,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon-tortue, jeune
 >======================
@@ -10690,6 +11102,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dragon vert, adulte
 >=====================
@@ -10730,7 +11144,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon vert, ancien
 >=====================
 >
@@ -10770,7 +11184,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon vert, dragonnet
 >========================
 >
@@ -10802,7 +11216,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragon vert, jeune
 >====================
 >
@@ -10836,7 +11250,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Dragonnel
 >===========
 >
@@ -10864,6 +11278,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Drake gardien
 >===============
@@ -10893,6 +11309,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Drake gardien legacy
 >======================
 >
@@ -10920,6 +11338,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Drakéide de Bahamut
 >=====================
@@ -10952,6 +11372,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Drakéide de Sardior
 >=====================
@@ -10988,6 +11410,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Drakéide de Tiamat
 >====================
 >
@@ -11019,6 +11443,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Draquelion
 >============
 >
@@ -11042,6 +11468,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dretch
 >========
@@ -11074,7 +11502,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Drider
 >========
 >
@@ -11111,7 +11539,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Drow
 >======
 >
@@ -11144,7 +11572,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Drow, arachnomancien
 >======================
 >
@@ -11182,6 +11610,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Drow, arachnomancien legacy
 >=============================
@@ -11222,6 +11652,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Drow, capitaine de maison
 >===========================
 >
@@ -11257,6 +11689,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Drow, capitaine de maison legacy
 >==================================
@@ -11295,6 +11729,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Drow, consort favori
 >======================
 >
@@ -11327,6 +11763,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Drow, consort favori legacy
 >=============================
@@ -11361,6 +11799,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Drow, guerrier d'élite
 >========================
@@ -11397,6 +11837,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Drow, inquisitrice
 >====================
 >
@@ -11430,6 +11872,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Drow, inquisitrice legacy
 >===========================
@@ -11475,6 +11919,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Drow, mage
 >============
 >
@@ -11513,6 +11959,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Drow, Mère matrone
 >====================
@@ -11554,6 +12002,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Drow, Mère matrone legacy
 >===========================
 >
@@ -11594,6 +12044,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Drow, ombrelame
 >=================
 >
@@ -11628,6 +12080,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Drow, ombrelame legacy
 >========================
 >
@@ -11660,6 +12114,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Drow, prêtresse de Lolth
 >==========================
@@ -11702,6 +12158,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Druide
 >========
 >
@@ -11732,7 +12190,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Druide du givre
 >=================
 >
@@ -11803,7 +12261,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Duergar
 >=========
 >
@@ -11835,7 +12293,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Duergar, âmelame
 >==================
 >
@@ -11865,6 +12323,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Duergar, âmelame legacy
 >=========================
@@ -11897,6 +12357,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Duergar, despote
 >==================
@@ -11932,6 +12394,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Duergar, despote legacy
 >=========================
@@ -11970,6 +12434,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Duergar, gardepierre
 >======================
 >
@@ -12003,6 +12469,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Duergar, gardepierre legacy
 >=============================
 >
@@ -12034,6 +12502,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Duergar, kavalrachni
 >======================
@@ -12067,6 +12537,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Duergar, kavalrachni legacy
 >=============================
 >
@@ -12098,6 +12570,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Duergar, mentaliste
 >=====================
@@ -12133,6 +12607,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Duergar, mentaliste legacy
 >============================
 >
@@ -12167,6 +12643,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Duergar, seigneur de guerre
 >=============================
 >
@@ -12199,6 +12677,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Duergar, seigneur de guerre legacy
 >====================================
@@ -12233,6 +12713,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Duergar, xarrorn
 >==================
 >
@@ -12263,6 +12745,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Duergar, xarrorn legacy
 >=========================
@@ -12295,6 +12779,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Duodrone
 >==========
 >
@@ -12323,6 +12809,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Dybbuk
 >========
@@ -12358,6 +12846,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Dybbuk legacy
 >===============
 >
@@ -12391,6 +12881,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Éclaireur
 >===========
 >
@@ -12420,7 +12912,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Éclat draconique
 >==================
 >
@@ -12479,7 +12971,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Eidolon
 >=========
 >
@@ -12514,6 +13006,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Eidolon legacy
 >================
 >
@@ -12546,6 +13040,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >_Éladrin de l'automne_
 >======================
@@ -12581,6 +13077,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >_Éladrin de l'automne legacy_
 >=============================
 >
@@ -12613,6 +13111,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >_Éladrin de l'été_
 >==================
@@ -12647,6 +13147,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >_Éladrin de l'été legacy_
 >=========================
 >
@@ -12679,6 +13181,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >_Éladrin de l'hiver_
 >====================
@@ -12713,6 +13217,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >_Éladrin de l'hiver legacy_
 >===========================
 >
@@ -12744,6 +13250,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Éladrin du printemps
 >======================
@@ -12778,6 +13286,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Éladrin du printemps legacy
 >=============================
 >
@@ -12811,6 +13321,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >_Élan_
 >======
 >
@@ -12838,7 +13350,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Élan géant
 >============
 >
@@ -12867,7 +13379,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >_Élémentaire de l'air_
 >======================
 >
@@ -12899,7 +13411,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >_Élémentaire de l'air mineur_
 >=============================
 >
@@ -12957,6 +13469,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >_Élémentaire de l'air, myrmidon legacy_
 >=======================================
 >
@@ -12987,6 +13501,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >_Élémentaire de l'eau_
 >======================
@@ -13020,7 +13536,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >_Élémentaire de l'eau mineur_
 >=============================
 >
@@ -13079,6 +13595,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >_Élémentaire de l'eau, myrmidon legacy_
 >=======================================
 >
@@ -13109,6 +13627,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Élémentaire de la terre
 >=========================
@@ -13142,7 +13662,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Élémentaire de la terre mineur
 >================================
 >
@@ -13203,6 +13723,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Élémentaire de la terre, myrmidon legacy
 >==========================================
 >
@@ -13233,6 +13755,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Élémentaire du feu
 >====================
@@ -13266,7 +13790,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Élémentaire du feu mineur
 >===========================
 >
@@ -13329,6 +13853,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Élémentaire du feu, myrmidon legacy
 >=====================================
 >
@@ -13362,6 +13888,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Éléphant
 >==========
 >
@@ -13389,7 +13917,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >_Elric_
 >=======
 >
@@ -13443,6 +13971,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Empyréen
 >==========
 >
@@ -13481,6 +14011,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Enchanteur legacy
 >===================
 >
@@ -13517,6 +14049,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Enlaceur
 >==========
 >
@@ -13549,7 +14083,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Épaulard
 >==========
 >
@@ -13579,7 +14113,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Épée volante
 >==============
 >
@@ -13610,7 +14144,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Épineux legacy
 >================
 >
@@ -13640,6 +14174,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Épouvantail
 >=============
@@ -13672,6 +14208,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Érinye
 >========
@@ -13707,7 +14245,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Espion
 >========
 >
@@ -13738,7 +14276,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >_Esprit d'aberration_
 >=====================
 >
@@ -13769,6 +14307,8 @@ ___
 >_Rules (Tasha´s Cauldron of Everything)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >_Esprit d'artificiel_
 >=====================
@@ -13801,6 +14341,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >_Esprit d'élémentaire_
 >======================
 >
@@ -13830,6 +14372,8 @@ ___
 >_Rules (Tasha´s Cauldron of Everything)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >_Esprit d'ombre_
 >================
@@ -13862,6 +14406,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >_Esprit de bête_
 >================
 >
@@ -13890,6 +14436,8 @@ ___
 >_Rules (Tasha´s Cauldron of Everything)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Esprit de céleste
 >===================
@@ -13921,6 +14469,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Esprit de fée
 >===============
 >
@@ -13951,6 +14501,8 @@ ___
 >_Rules (Tasha´s Cauldron of Everything)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Esprit de fiélon
 >==================
@@ -13986,6 +14538,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >_Esprit de mort-vivant_
 >=======================
 >
@@ -14018,6 +14572,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Esprit des fournaises
 >=======================
 >
@@ -14045,6 +14601,8 @@ ___
 >_Rules (Tasha´s Cauldron of Everything)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Esprit draconique
 >===================
@@ -14076,6 +14634,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Esprit follet
 >===============
 >
@@ -14105,7 +14665,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Étrangleur
 >============
 >
@@ -14136,6 +14696,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Étrangleur legacy
 >===================
 >
@@ -14165,6 +14727,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >_Étrilleur de crâne de Myrkul_
 >==============================
@@ -14199,6 +14763,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Ettercap
 >==========
 >
@@ -14231,7 +14797,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >_Ettin_
 >=======
 >
@@ -14262,7 +14828,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Évanescent
 >============
 >
@@ -14292,6 +14858,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Évanescent legacy
 >===================
@@ -14323,6 +14891,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Évocateur legacy
 >==================
@@ -14361,6 +14931,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Expert en arts martiaux
 >=========================
 >
@@ -14392,6 +14964,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Expert en arts martiaux legacy
 >================================
@@ -14426,6 +15000,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Expert (niv 1)
 >================
 >
@@ -14456,6 +15032,8 @@ ___
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Expert (niv 2)
 >================
@@ -14488,6 +15066,8 @@ ___
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Expert (niv 3)
 >================
@@ -14522,6 +15102,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Expert (niv 4)
 >================
 >
@@ -14555,6 +15137,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Expert (niv 5)
 >================
 >
@@ -14587,6 +15171,8 @@ ___
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Expert (niv 6)
 >================
@@ -14622,6 +15208,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Fanatique
 >===========
 >
@@ -14654,7 +15242,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >_Fantôme_
 >=========
 >
@@ -14688,7 +15276,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Farfadet
 >==========
 >
@@ -14718,6 +15306,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Farfadet legacy
 >=================
@@ -14750,6 +15340,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Faucheur de Bhaal
 >===================
 >
@@ -14781,6 +15373,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Faucon
 >========
 >
@@ -14808,7 +15402,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Faucon de sang
 >================
 >
@@ -14837,7 +15431,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Feu follet
 >============
 >
@@ -14871,7 +15465,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Flagelleur mental
 >===================
 >
@@ -14904,6 +15498,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Fleur putride
 >===============
@@ -14938,6 +15534,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Fleur putride legacy
 >======================
 >
@@ -14968,6 +15566,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Flind
 >=======
@@ -15001,6 +15601,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Flind legacy
 >==============
 >
@@ -15033,6 +15635,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Flumph
 >========
 >
@@ -15064,6 +15668,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Fomorien
 >==========
 >
@@ -15093,6 +15699,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Forain de Charme-Lumière
 >==========================
@@ -15158,7 +15766,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >
 >Fraz-Urb'luu legacy
 >=======================
@@ -15199,6 +15807,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Froghémoth
 >==============
 >
@@ -15231,6 +15841,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Froghémoth legacy
 >=====================
@@ -15265,6 +15877,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Galeb duhr
 >==============
 >
@@ -15295,6 +15909,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Gantelet noir de Baine
 >==========================
@@ -15334,6 +15950,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Garde
 >=========
 >
@@ -15360,7 +15978,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Gardien animé
 >=================
 >
@@ -15393,7 +16011,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Gargouille
 >==============
 >
@@ -15425,7 +16043,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Garou-chacal
 >================
 >
@@ -15458,6 +16076,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Gauth
 >=========
 >
@@ -15488,6 +16108,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Gauth legacy
 >================
@@ -15526,6 +16148,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Gazer
 >=========
 >
@@ -15556,6 +16180,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Gazer legacy
 >================
@@ -15592,6 +16218,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Géant des collines
 >======================
 >
@@ -15620,7 +16248,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Géant des collines maudit
 >=============================
 >
@@ -15648,6 +16276,8 @@ ___
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Géant des nuages
 >====================
@@ -15683,7 +16313,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Géant des nuages, souriant
 >==============================
 >
@@ -15716,6 +16346,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Géant des nuages, souriant legacy
 >=====================================
@@ -15757,6 +16389,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Géant des pierres
 >=====================
 >
@@ -15788,7 +16422,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Géant des pierres, onirien
 >==============================
 >
@@ -15821,6 +16455,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Géant des pierres, onirien legacy
 >=====================================
 >
@@ -15852,6 +16488,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Géant des tempêtes
 >======================
@@ -15889,7 +16527,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Géant des tempêtes, quintessent
 >===================================
 >
@@ -15926,6 +16564,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Géant des tempêtes, quintessent legacy
 >==========================================
 >
@@ -15961,6 +16601,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Géant du feu
 >================
 >
@@ -15991,7 +16633,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Géant du feu, cuirassé
 >==========================
 >
@@ -16023,6 +16665,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Géant du feu, cuirassé legacy
 >=================================
@@ -16056,6 +16700,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Géant du givre
 >==================
 >
@@ -16086,7 +16732,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Géant du givre, éternel
 >===========================
 >
@@ -16119,6 +16765,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Géant du givre, éternel legacy
 >==================================
@@ -16153,6 +16801,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Gelée ocre
 >==============
 >
@@ -16184,7 +16834,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Géryon
 >==========
 >
@@ -16224,6 +16874,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Géryon legacy
 >=================
@@ -16266,6 +16918,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Giff
 >========
 >
@@ -16296,6 +16950,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Giff legacy
 >===============
@@ -16328,6 +16984,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Girallon
 >============
 >
@@ -16356,6 +17014,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Girallon legacy
 >===================
@@ -16387,6 +17047,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Githyanki, chevalier
 >========================
 >
@@ -16417,6 +17079,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Githyanki, commandant suprême
 >=================================
@@ -16452,6 +17116,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Githyanki, commandant suprême legacy
 >========================================
 >
@@ -16485,6 +17151,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Githyanki, gish
 >===================
 >
@@ -16515,6 +17183,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Githyanki, gish legacy
 >==========================
@@ -16547,6 +17217,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Githyanki, guerrier
 >=======================
 >
@@ -16576,6 +17248,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Githyanki, kith'rak
 >=======================
@@ -16609,6 +17283,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Githyanki, kith'rak legacy
 >==============================
 >
@@ -16639,6 +17315,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Githzerai, anarque
 >======================
@@ -16674,6 +17352,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Githzerai, anarque legacy
 >=============================
 >
@@ -16707,6 +17387,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Githzerai, illuminé
 >=======================
 >
@@ -16739,6 +17421,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Githzerai, illuminé legacy
 >==============================
 >
@@ -16769,6 +17453,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Githzerai, moine
 >====================
@@ -16802,6 +17488,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Githzerai, zerth
 >====================
 >
@@ -16834,6 +17522,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Glabrezu
 >============
@@ -16870,7 +17560,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Gladiateur
 >==============
 >
@@ -16903,7 +17593,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Gnoll
 >=========
 >
@@ -16932,7 +17622,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Gnoll, carnasseur
 >=====================
 >
@@ -16962,6 +17652,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Gnoll, carnasseur legacy
 >============================
@@ -16993,6 +17685,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Gnoll, chasseur
 >===================
 >
@@ -17022,6 +17716,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Gnoll, chasseur legacy
 >==========================
@@ -17053,6 +17749,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Gnoll, croc de Yeenoghu
 >===========================
 >
@@ -17081,6 +17779,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Gnoll, désséché
 >===================
@@ -17114,6 +17814,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Gnoll, désséché legacy
 >==========================
 >
@@ -17145,6 +17847,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Gnoll, seigneur de meute
 >============================
 >
@@ -17174,6 +17878,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Gnome des profondeurs (svirfnebelin)
 >========================================
@@ -17207,7 +17913,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Gobelin
 >===========
 >
@@ -17236,7 +17942,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Gobelin, chef
 >=================
 >
@@ -17267,6 +17973,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Gobelours
 >=============
 >
@@ -17296,7 +18004,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Gobelours, chef
 >===================
 >
@@ -17327,6 +18035,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Golem d'argile
 >==================
@@ -17362,7 +18072,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Golem de bois
 >=================
 >
@@ -17397,6 +18107,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Golem de bronze
 >===================
@@ -17433,6 +18145,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Golem de chair
 >==================
 >
@@ -17467,7 +18181,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Golem de fer
 >================
 >
@@ -17502,7 +18216,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Golem de glace
 >==================
 >
@@ -17538,6 +18252,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Golem de pierre
 >===================
 >
@@ -17570,7 +18286,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Golem dracosseux
 >====================
 >
@@ -17604,6 +18320,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Gorgone
 >===========
 >
@@ -17634,7 +18352,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Goristro
 >============
 >
@@ -17672,6 +18390,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Goule
 >=========
 >
@@ -17700,7 +18420,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Grand dracosire chromatique
 >===============================
 >
@@ -17741,6 +18461,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Grand dracosire diamantin
 >=============================
@@ -17783,6 +18505,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Grand dracosire métallique
 >==============================
@@ -17827,6 +18551,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Grand singe
 >===============
 >
@@ -17855,7 +18581,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Graz'zt
 >===========
 >
@@ -17895,6 +18621,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Graz'zt legacy
 >==================
@@ -17940,6 +18668,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Greffeur transdraconique
 >============================
 >
@@ -17962,6 +18692,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Grell
 >=========
@@ -17993,6 +18725,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Grenouille
 >==============
 >
@@ -18020,7 +18754,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Grenouille géante
 >=====================
 >
@@ -18050,7 +18784,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Grick
 >=========
 >
@@ -18080,7 +18814,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Grick dominant
 >==================
 >
@@ -18111,6 +18845,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Griffe rampante
 >===================
 >
@@ -18138,6 +18874,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Griffecendre
 >================
@@ -18174,6 +18912,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Griffecendre legacy
 >=======================
 >
@@ -18208,6 +18948,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Griffon
 >===========
 >
@@ -18237,7 +18979,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Grung
 >=========
 >
@@ -18270,6 +19012,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Grung, guerrier d'élite
 >===========================
@@ -18306,6 +19050,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Grung, guerrier d'élite legacy
 >==================================
 >
@@ -18340,6 +19086,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Grung legacy
 >================
 >
@@ -18371,6 +19119,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Grung, sauvageon
 >====================
@@ -18406,6 +19156,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Grung, sauvageon legacy
 >===========================
@@ -18444,6 +19196,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Guenaude annis
 >==================
 >
@@ -18475,6 +19229,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Guenaude annis legacy
 >=========================
@@ -18508,6 +19264,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Guenaude frige
 >==================
@@ -18544,6 +19302,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Guenaude frige legacy
 >=========================
 >
@@ -18579,6 +19339,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Guenaude marine
 >===================
 >
@@ -18608,7 +19370,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Guenaude nocturne
 >=====================
 >
@@ -18644,7 +19406,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Guenaude verte
 >==================
 >
@@ -18677,7 +19439,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Guêpe des enfers
 >====================
 >
@@ -18710,6 +19472,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Guêpe géante
 >================
 >
@@ -18735,7 +19499,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Guerrier momifié
 >====================
 >
@@ -18766,6 +19530,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Guerrier tribal
 >===================
 >
@@ -18792,7 +19558,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Gueule abyssale
 >===================
 >
@@ -18821,6 +19587,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Gueule abyssale legacy
 >==========================
@@ -18851,6 +19619,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Gueule de Grolantor
 >=======================
 >
@@ -18879,6 +19649,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Gueule de Grolantor legacy
 >==============================
@@ -18912,6 +19684,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Gynosphinx
 >==============
@@ -18955,7 +19729,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Halaster Blackcloak
 >=======================
 >
@@ -19018,7 +19792,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Héritier des profondeurs
 >============================
 >
@@ -19051,6 +19825,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Héritier des profondeurs legacy
 >===================================
@@ -19085,6 +19861,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Hezrou
 >==========
 >
@@ -19118,7 +19896,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Hippocampe
 >==============
 >
@@ -19144,7 +19922,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Hippocampe géant
 >====================
 >
@@ -19172,7 +19950,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Hippogriffe
 >===============
 >
@@ -19202,7 +19980,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Hobgobelin
 >==============
 >
@@ -19230,7 +20008,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Hobgobelin, capitaine
 >=========================
 >
@@ -19259,6 +20037,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Hobgobelin, dévastateur
 >===========================
@@ -19289,6 +20069,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Hobgobelin, dévastateur legacy
 >==================================
@@ -19324,6 +20106,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Hobgobelin, ombre de fer
 >============================
 >
@@ -19354,6 +20138,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Hobgobelin, ombre de fer legacy
 >===================================
@@ -19388,6 +20174,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Hobgobelin, seigneur de guerre
 >==================================
 >
@@ -19420,6 +20208,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Homme-lézard
 >================
 >
@@ -19451,7 +20241,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Homme-lézard, chaman
 >========================
 >
@@ -19487,6 +20277,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Homme-poisson
 >=================
 >
@@ -19514,7 +20306,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Homoncule
 >=============
 >
@@ -19543,7 +20335,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Horreur casquée
 >===================
 >
@@ -19575,6 +20367,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Horreur chasseresse
 >=======================
@@ -19610,6 +20404,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Horreur chasseresse legacy
 >==============================
 >
@@ -19644,6 +20440,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Horreur crochue
 >===================
 >
@@ -19672,6 +20470,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Huldin
 >==========
@@ -19705,6 +20505,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Hurleur
 >===========
 >
@@ -19736,6 +20538,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Hurleur legacy
 >==================
 >
@@ -19766,6 +20570,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Hutijin
 >===========
@@ -19810,6 +20616,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Hutijin legacy
 >==================
@@ -19856,6 +20664,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Hydre
 >=========
 >
@@ -19887,7 +20697,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Hydroloth
 >=============
 >
@@ -19926,6 +20736,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Hydroloth legacy
 >====================
@@ -19966,6 +20778,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Hyène
 >=========
 >
@@ -19993,7 +20807,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Hyène géante
 >================
 >
@@ -20021,7 +20835,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Iggwilv, la Reine-Sorcière
 >==============================
 >
@@ -20081,6 +20895,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Imix
 >========
 >
@@ -20107,6 +20923,8 @@ ___
 >_Adventures (Princes of the Apocalypse)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Incantateur (niv 1)
 >=======================
@@ -20142,6 +20960,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Incantateur (niv 2)
 >=======================
 >
@@ -20175,6 +20995,8 @@ ___
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Incantateur (niv 3)
 >=======================
@@ -20210,6 +21032,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Incantateur (niv 4)
 >=======================
 >
@@ -20243,6 +21067,8 @@ ___
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Incantateur (niv 5)
 >=======================
@@ -20279,6 +21105,8 @@ ___
 >_Rules (Essentials Kit)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Incantateur (niv 6)
 >=======================
@@ -20317,6 +21145,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Invocateur legacy
 >=====================
 >
@@ -20353,6 +21183,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Irisia
 >==========
 >
@@ -20386,6 +21218,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Jarlaxle Baenre
 >===================
@@ -20466,6 +21300,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Juiblex legacy
 >==================
 >
@@ -20508,6 +21344,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Kenku
 >=========
 >
@@ -20536,6 +21374,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ki-rin
 >==========
@@ -20572,6 +21412,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ki-rin legacy
 >=================
@@ -20623,6 +21465,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Kobold
 >==========
 >
@@ -20651,7 +21495,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Kobold ailé
 >===============
 >
@@ -20679,6 +21523,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Kobold, écu-dragon
 >======================
@@ -20712,6 +21558,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Kobold, écu-dragon legacy
 >=============================
 >
@@ -20744,6 +21592,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Kobold, ensorceleur des écailles
 >====================================
 >
@@ -20774,6 +21624,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Kobold, ensorceleur des écailles legacy
 >===========================================
@@ -20808,6 +21660,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Kobold, inventeur
 >=====================
 >
@@ -20836,6 +21690,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Kobold, inventeur legacy
 >============================
@@ -20875,6 +21731,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Korred
 >==========
 >
@@ -20906,6 +21764,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Korred legacy
 >=================
@@ -20941,6 +21801,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Kraken
 >==========
@@ -20980,7 +21842,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Kruthik, adulte
 >===================
 >
@@ -21010,6 +21872,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Kruthik, adulte legacy
 >==========================
@@ -21041,6 +21905,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Kruthik, jeune
 >==================
 >
@@ -21067,6 +21933,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Kruthik, jeune legacy
 >=========================
@@ -21095,6 +21963,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Kruthik, seigneur de la ruche
 >=================================
@@ -21126,6 +21996,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Kruthik, seigneur de la ruche legacy
 >========================================
 >
@@ -21156,6 +22028,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Kuo-toa
 >===========
@@ -21189,6 +22063,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Kuo-toa, archiprêtre
 >========================
@@ -21229,6 +22105,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Kuo-toa, fouet
 >==================
 >
@@ -21264,6 +22142,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >L'abandon legacy
 >====================
 >
@@ -21293,6 +22173,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >La colère legacy
 >====================
@@ -21324,6 +22206,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >La faim legacy
 >==================
 >
@@ -21353,6 +22237,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >La misère legacy
 >====================
 >
@@ -21379,6 +22265,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >La solitude legacy
 >======================
@@ -21409,6 +22297,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Laeral Silverhand
 >=====================
@@ -21491,6 +22381,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Lame-en-peine, commandant legacy
 >====================================
 >
@@ -21525,6 +22417,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Lame-en-peine, guerrier
 >===========================
 >
@@ -21556,6 +22450,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Lame-en-peine, guerrier legacy
 >==================================
 >
@@ -21586,6 +22482,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Lame nocturne
 >=================
 >
@@ -21612,6 +22510,8 @@ ___
 >Adventures (Descent into Avernus)
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Lamie
 >=========
@@ -21646,7 +22546,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Lekhet
 >==========
 >
@@ -21683,6 +22583,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Lémure
 >==========
 >
@@ -21713,7 +22615,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Leucrotta
 >=============
 >
@@ -21744,6 +22646,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Leucrotta legacy
 >====================
@@ -21776,6 +22680,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Léviathan
 >=============
@@ -21815,6 +22721,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Léviathan legacy
 >====================
 >
@@ -21853,6 +22761,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Lézard
 >==========
 >
@@ -21878,7 +22788,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Lézard géant
 >================
 >
@@ -21904,7 +22814,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Liane meurtrière
 >====================
 >
@@ -21981,7 +22891,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Licorne
 >===========
 >
@@ -22022,7 +22932,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Lierre musqué jaune
 >=======================
 >
@@ -22080,6 +22990,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Lièvre
 >==========
 >
@@ -22136,7 +23048,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Loup
 >========
 >
@@ -22165,7 +23077,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Loup arctique
 >=================
 >
@@ -22197,7 +23109,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Loup-garou
 >==============
 >
@@ -22230,7 +23142,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Loup sanguinaire
 >====================
 >
@@ -22259,7 +23171,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Machine de guerre infernale
 >===============================
 >
@@ -22293,6 +23205,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Machine de guerre infernale legacy
 >======================================
 >
@@ -22324,6 +23238,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Mage
 >========
@@ -22359,7 +23275,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Magicien abjurateur
 >=======================
 >
@@ -22390,6 +23306,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Magicien devin
 >==================
@@ -22422,6 +23340,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Magicien enchanteur
 >=======================
 >
@@ -22451,6 +23371,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Magicien évocateur
 >======================
@@ -22482,6 +23404,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Magicien illusionniste
 >==========================
 >
@@ -22511,6 +23435,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Magicien invocateur
 >=======================
@@ -22542,6 +23468,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Magicien nécromant
 >======================
@@ -22575,6 +23503,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Magicien transmutateur
 >==========================
 >
@@ -22605,6 +23535,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Magmatique
 >==============
 >
@@ -22634,7 +23566,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Maître des âmes
 >===================
 >
@@ -22673,6 +23605,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Maître voleur
 >=================
 >
@@ -22704,6 +23638,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Maître voleur legacy
 >========================
@@ -22737,6 +23673,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Maldryn
 >===========
@@ -22775,6 +23713,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Malfrat
 >===========
 >
@@ -22804,7 +23744,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Mammouth
 >============
 >
@@ -22832,7 +23772,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Mâne
 >========
 >
@@ -22860,6 +23800,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Manshoon
 >============
@@ -22920,7 +23862,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Manteleur
 >=============
 >
@@ -22954,7 +23896,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Manticore
 >=============
 >
@@ -22984,7 +23926,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Maride
 >==========
 >
@@ -23019,6 +23961,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Marilith
 >============
@@ -23056,7 +24000,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Maruth
 >==========
 >
@@ -23093,6 +24037,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Maruth legacy
 >=================
@@ -23131,6 +24077,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Mastodonte des ombres
 >=========================
 >
@@ -23159,6 +24107,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Maurezhi
 >============
@@ -23194,6 +24144,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Maurezhi legacy
 >===================
 >
@@ -23228,6 +24180,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Méduse
 >==========
 >
@@ -23258,7 +24212,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Méphite boueux
 >==================
 >
@@ -23290,6 +24244,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Méphite fumant
 >==================
 >
@@ -23320,6 +24276,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Méphite gelé
 >================
@@ -23354,7 +24312,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Méphite magmatique
 >======================
 >
@@ -23388,7 +24346,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Méphite poussiéreux
 >=======================
 >
@@ -23421,7 +24379,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Méphite vaporeux
 >====================
 >
@@ -23452,7 +24410,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Mercenaire de Bois noir
 >===========================
 >
@@ -23480,6 +24438,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Merregon
 >============
@@ -23514,6 +24474,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Merregon legacy
 >===================
 >
@@ -23546,6 +24508,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Merrenoloth
 >===============
@@ -23581,6 +24545,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Merrenoloth legacy
 >======================
@@ -23618,6 +24584,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Merrow
 >==========
 >
@@ -23647,7 +24615,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Mez'Arate
 >=============
 >
@@ -23680,6 +24648,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Mezzoloth
 >=============
@@ -23717,6 +24687,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Miirym
 >==========
@@ -23769,7 +24741,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Mimique
 >===========
 >
@@ -23803,7 +24775,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Mimique de magot
 >====================
 >
@@ -23828,6 +24800,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Minotaure
 >=============
@@ -23859,7 +24833,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Moisissure violette
 >=======================
 >
@@ -23888,7 +24862,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Moloch
 >==========
 >
@@ -23930,6 +24904,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Moloch legacy
 >=================
@@ -23976,6 +24952,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Molosse
 >===========
 >
@@ -24003,7 +24981,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Molosse des ombres
 >======================
 >
@@ -24033,6 +25011,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Molosse des ombres dominant
 >===============================
@@ -24065,6 +25045,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Molosse des ombres legacy
 >=============================
 >
@@ -24095,6 +25077,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Molydée
 >===========
@@ -24134,6 +25118,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Molydée legacy
 >==================
@@ -24175,6 +25161,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Momie
 >=========
 >
@@ -24207,7 +25195,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Monodrone
 >=============
 >
@@ -24235,6 +25223,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Morbilleux
 >==============
@@ -24265,6 +25255,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Morbilleux legacy
 >=====================
 >
@@ -24293,6 +25285,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Morkoth
 >===========
@@ -24326,6 +25320,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Morkoth legacy
 >==================
@@ -24367,6 +25363,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Morse
 >=========
@@ -24480,7 +25478,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Myconide, adulte
 >====================
 >
@@ -24510,6 +25508,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Myconide, pousse
 >====================
 >
@@ -24537,6 +25537,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Myconide, souverain
 >=======================
@@ -24569,6 +25571,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Nabassu
 >===========
@@ -24605,6 +25609,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Nabassu legacy
 >==================
@@ -24643,6 +25649,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Naga corrupteur
 >===================
 >
@@ -24679,7 +25687,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Naga gardien
 >================
 >
@@ -24718,7 +25726,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Naga osseux
 >===============
 >
@@ -24756,6 +25764,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Nagpa
 >=========
 >
@@ -24788,6 +25798,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Nagpa legacy
 >================
 >
@@ -24817,6 +25829,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Nalfeshnie
 >==============
@@ -24852,7 +25866,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Narzugon
 >============
 >
@@ -24888,6 +25902,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Narzugon legacy
 >===================
@@ -24925,6 +25941,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Nécromant legacy
 >====================
@@ -24964,6 +25982,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Nécromite de Myrkul
 >=======================
 >
@@ -24991,6 +26011,8 @@ ___
 >Adventures (Descent into Avernus)
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Nécrophage
 >==============
@@ -25025,7 +26047,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Néogi
 >=========
 >
@@ -25057,6 +26079,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Néogi, larve
 >================
 >
@@ -25084,6 +26108,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Néogi, larve legacy
 >=======================
 >
@@ -25110,6 +26136,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Néogi legacy
 >================
@@ -25141,6 +26169,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Néogi, maître
 >=================
@@ -25177,6 +26207,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Néogi, maître legacy
 >========================
 >
@@ -25212,6 +26244,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Néothélide
 >==============
 >
@@ -25241,6 +26275,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Néothélide legacy
 >=====================
@@ -25274,6 +26310,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Nerissa
 >===========
 >
@@ -25304,6 +26342,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Nielleux
 >============
 >
@@ -25333,7 +26373,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Nilebog
 >===========
 >
@@ -25364,6 +26404,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Nilebog legacy
 >==================
@@ -25398,6 +26440,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Noble
 >=========
 >
@@ -25425,7 +26469,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Nothic
 >==========
 >
@@ -25456,6 +26500,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Nuée d'insectes
 >===================
 >
@@ -25484,7 +26530,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Nuée de chauves-souris
 >==========================
 >
@@ -25515,7 +26561,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Nuée de corbeaux
 >====================
 >
@@ -25545,7 +26591,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Nuée de gobelins maudits
 >============================
 >
@@ -25573,6 +26619,8 @@ ___
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Nuée de piranhas
 >====================
@@ -25604,7 +26652,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Nuée de rats
 >================
 >
@@ -25634,7 +26682,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Nuée de rats-crânes
 >=======================
 >
@@ -25665,6 +26713,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Nuée de rats-crânes legacy
 >==============================
@@ -25699,6 +26749,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Nuée de serpents venimeux
 >=============================
 >
@@ -25727,7 +26779,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Nuée de vers putrides
 >=========================
 >
@@ -25756,6 +26808,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Nuée de vers putrides legacy
 >================================
 >
@@ -25783,6 +26837,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Nupperibo
 >=============
@@ -25815,6 +26871,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Nupperibo legacy
 >====================
 >
@@ -25845,6 +26903,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Nycaloth
 >============
@@ -25881,6 +26941,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Objet dansant
 >=================
@@ -25945,6 +27007,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Oblex, adulte legacy
 >========================
 >
@@ -25979,6 +27043,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Oblex, rejeton
 >==================
 >
@@ -26009,6 +27075,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Oblex, rejeton legacy
 >=========================
 >
@@ -26038,6 +27106,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Oblex, vénérable
 >====================
@@ -26074,6 +27144,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Oblex, vénérable legacy
 >===========================
 >
@@ -26109,6 +27181,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Occultiste de l'Archifée
 >============================
 >
@@ -26142,6 +27216,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Occultiste de l'Archifée legacy
 >===================================
@@ -26178,6 +27254,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Occultiste du Fiélon
 >========================
 >
@@ -26212,6 +27290,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Occultiste du Fiélon legacy
 >===============================
@@ -26248,6 +27328,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Occultiste du Grand Ancien
 >==============================
 >
@@ -26281,6 +27363,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Occultiste du Grand Ancien legacy
 >=====================================
@@ -26317,6 +27401,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Ogre
 >========
 >
@@ -26343,7 +27429,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Ogre, balistard
 >===================
 >
@@ -26370,6 +27456,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Ogre, balistard legacy
 >==========================
 >
@@ -26395,6 +27483,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ogre, brise-portail
 >=======================
@@ -26424,6 +27514,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Ogre, brise-portail legacy
 >==============================
 >
@@ -26450,6 +27542,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ogre, brute-à-chaînes
 >=========================
@@ -26478,6 +27572,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Ogre, brute-à-chaînes legacy
 >================================
 >
@@ -26505,6 +27601,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Ogre, howdah
 >================
 >
@@ -26530,6 +27628,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ogre, howdah legacy
 >=======================
@@ -26557,6 +27657,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Ogrémoch
 >============
 >
@@ -26583,6 +27685,8 @@ ___
 >_Adventures (Princes of the Apocalypse)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Oinoloth
 >============
@@ -26619,6 +27723,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Oinoloth legacy
 >===================
@@ -26658,6 +27764,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Olhydra
 >===========
 >
@@ -26684,6 +27792,8 @@ ___
 >_Adventures (Princes of the Apocalypse)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ombre
 >=========
@@ -26718,7 +27828,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Ombre, ancienne
 >===================
 >
@@ -26752,6 +27862,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ombre, vénérable
 >====================
@@ -26789,6 +27901,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Oni
 >=======
 >
@@ -26824,7 +27938,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Orateur du dragon
 >=====================
 >
@@ -26849,6 +27963,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Orc
 >=======
@@ -26878,7 +27994,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Orc, chef de guerre
 >=======================
 >
@@ -26911,6 +28027,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Orc, croc rouge de Shargaas
 >===============================
 >
@@ -26942,6 +28060,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Orc, griffe de Luthic
 >=========================
@@ -26976,6 +28096,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Orc, lame d'Ilneval
 >=======================
 >
@@ -27008,6 +28130,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Orc, main de Yurtrus
 >========================
 >
@@ -27038,6 +28162,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Orc, Oeil de Gruumsh
 >========================
@@ -27108,7 +28234,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Orcus legacy
 >================
 >
@@ -27153,6 +28279,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Orog
 >========
 >
@@ -27181,6 +28309,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Orthon
 >==========
@@ -27216,6 +28346,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Orthon legacy
 >=================
 >
@@ -27250,6 +28382,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Otyugh
 >==========
 >
@@ -27280,7 +28414,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Ours brun
 >=============
 >
@@ -27310,7 +28444,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Ours-garou
 >==============
 >
@@ -27343,7 +28477,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Ours-hibou
 >==============
 >
@@ -27373,7 +28507,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Ours noir
 >=============
 >
@@ -27403,7 +28537,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Ours polaire
 >================
 >
@@ -27433,7 +28567,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Oxydeur
 >===========
 >
@@ -27462,7 +28596,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Panthère
 >============
 >
@@ -27492,7 +28626,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Particules d'avarice
 >========================
 >
@@ -27517,6 +28651,8 @@ ___
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Pégase
 >==========
@@ -27545,7 +28681,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Pentadrone
 >==============
 >
@@ -27576,6 +28712,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Perceur
 >===========
 >
@@ -27603,6 +28741,8 @@ ___
 >_Monster Manual (BR+)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Péryton
 >===========
@@ -27636,6 +28776,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Pétrifié maudit
 >===================
 >
@@ -27667,6 +28809,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Pétrifié maudit legacy
 >==========================
 >
@@ -27696,6 +28840,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Phénix
 >==========
@@ -27737,6 +28883,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Phénix legacy
 >=================
 >
@@ -27776,6 +28924,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Phoque
 >==========
@@ -27831,6 +28981,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Piégeur legacy
 >==================
 >
@@ -27858,6 +29010,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Pieuvre
 >===========
@@ -27889,7 +29043,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Pieuvre géante
 >==================
 >
@@ -27920,7 +29074,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Piranha
 >===========
 >
@@ -27948,7 +29102,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Pixie
 >=========
 >
@@ -27978,6 +29132,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Planétar
 >============
@@ -28017,7 +29173,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Plésiosaure
 >===============
 >
@@ -28045,7 +29201,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Poing de Baine
 >==================
 >
@@ -28075,6 +29231,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Poney
 >=========
 >
@@ -28100,7 +29258,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Pouding noir
 >================
 >
@@ -28132,7 +29290,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Prédateur d'acier
 >=====================
 >
@@ -28167,6 +29325,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Prédateur d'acier legacy
 >============================
@@ -28203,6 +29363,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Prestelin
 >=============
 >
@@ -28232,6 +29394,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Prestelin legacy
 >====================
 >
@@ -28260,6 +29424,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Prêtre
 >==========
@@ -28293,7 +29459,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Prêtre de guerre
 >====================
 >
@@ -28326,6 +29492,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Prêtre de guerre legacy
 >===========================
@@ -28363,6 +29531,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Prêtre du kraken
 >====================
 >
@@ -28397,6 +29567,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Prêtre du kraken legacy
 >===========================
 >
@@ -28430,6 +29602,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Protégé du dragon
 >=====================
 >
@@ -28454,6 +29628,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Pseudodragon
 >================
@@ -28485,7 +29661,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Ptéranodon
 >==============
 >
@@ -28513,7 +29689,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Quadrone
 >============
 >
@@ -28543,6 +29719,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Quaggoth
 >============
@@ -28574,6 +29752,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Quaggoth, serviteur des spores
 >==================================
 >
@@ -28601,6 +29781,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Quasit
 >==========
@@ -28635,7 +29817,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Quetzalcoatlus
 >==================
 >
@@ -28662,6 +29844,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Quetzalcoatlus legacy
 >=========================
@@ -28690,6 +29874,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Racine diabolique
 >=====================
@@ -28725,6 +29911,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Raie manta de récif
 >=======================
 >
@@ -28752,6 +29940,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Rakshasa
 >============
@@ -28787,7 +29977,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Rat
 >=======
 >
@@ -28814,7 +30004,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Rat-crâne
 >=============
 >
@@ -28842,6 +30032,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rat-crâne legacy
 >====================
 >
@@ -28868,6 +30060,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Rat-garou
 >=============
@@ -28901,7 +30095,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Rat géant
 >=============
 >
@@ -28929,7 +30123,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Rejeton de Kyuss
 >====================
 >
@@ -28963,6 +30157,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rejeton de Kyuss legacy
 >===========================
 >
@@ -28995,6 +30191,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rejeton des mers
 >====================
 >
@@ -29022,6 +30220,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Rejeton des mers legacy
 >===========================
@@ -29053,6 +30253,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Rejeton stellaire, colosse
 >==============================
@@ -29086,6 +30288,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rejeton stellaire, colosse legacy
 >=====================================
 >
@@ -29118,6 +30322,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rejeton stellaire, frémisseur
 >=================================
 >
@@ -29145,6 +30351,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rejeton stellaire, frémisseur legacy
 >========================================
 >
@@ -29171,6 +30379,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Rejeton stellaire, magever
 >==============================
@@ -29211,6 +30421,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rejeton stellaire, magever legacy
 >=====================================
 >
@@ -29248,6 +30460,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rejeton stellaire, massacreur
 >=================================
 >
@@ -29282,6 +30496,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rejeton stellaire, massacreur legacy
 >========================================
 >
@@ -29315,6 +30531,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Rejeton stellaire, voyant
 >=============================
@@ -29351,6 +30569,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rejeton stellaire, voyant legacy
 >====================================
 >
@@ -29386,6 +30606,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Remorhaz
 >============
 >
@@ -29414,7 +30636,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Remorhaz, jeune
 >===================
 >
@@ -29441,6 +30663,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Renard
 >==========
@@ -29496,7 +30720,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Requin de récif
 >===================
 >
@@ -29525,7 +30749,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Requin géant
 >================
 >
@@ -29554,7 +30778,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Résinieux
 >=============
 >
@@ -29581,6 +30805,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Revenant
 >============
@@ -29617,6 +30843,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rhinocéros
 >==============
 >
@@ -29643,7 +30871,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Roc
 >=======
 >
@@ -29674,7 +30902,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Roi/reine lézard
 >====================
 >
@@ -29708,6 +30936,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rothé
 >=========
 >
@@ -29733,6 +30963,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Rothé des profondeurs
 >=========================
@@ -29761,6 +30993,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rothé des profondeurs legacy
 >================================
 >
@@ -29788,6 +31022,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Roturier
 >============
 >
@@ -29813,7 +31049,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Rotz
 >========
 >
@@ -29847,6 +31083,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rutterkin
 >=============
 >
@@ -29876,6 +31114,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Rutterkin legacy
 >====================
 >
@@ -29904,6 +31144,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Sage
 >========
@@ -29998,7 +31240,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Sahuagin, baron
 >===================
 >
@@ -30031,6 +31273,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Sahuagin, prêtresse
 >=======================
@@ -30068,6 +31312,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Salamandre
 >==============
 >
@@ -30100,7 +31346,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Salamandre du givre
 >=======================
 >
@@ -30133,6 +31379,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Salamandre du givre legacy
 >==============================
@@ -30167,6 +31415,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Sanglier
 >============
 >
@@ -30194,7 +31444,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Sanglier-garou
 >==================
 >
@@ -30227,7 +31477,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Sanglier géant
 >==================
 >
@@ -30255,7 +31505,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Sanuya
 >==========
 >
@@ -30287,6 +31537,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Satyre
 >==========
 >
@@ -30316,7 +31568,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Scarabée de feu géant
 >=========================
 >
@@ -30343,7 +31595,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Scarabée de magot
 >=====================
 >
@@ -30365,6 +31617,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Scorpion
 >============
@@ -30391,7 +31645,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Scorpion géant
 >==================
 >
@@ -30419,7 +31673,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Seigneur de guerre
 >======================
 >
@@ -30454,6 +31708,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Seigneur de guerre legacy
 >=============================
 >
@@ -30487,6 +31743,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Seigneur des crânes
 >=======================
@@ -30527,6 +31785,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Seigneur des crânes legacy
 >==============================
 >
@@ -30564,6 +31824,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Seigneur momie
 >==================
@@ -30612,7 +31874,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Seigneur Soth
 >=================
 >
@@ -30652,6 +31914,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Selkie
 >==========
 >
@@ -30685,6 +31949,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Sentinelle d'eau
 >====================
 >
@@ -30715,6 +31981,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Serpent constricteur
 >========================
 >
@@ -30741,7 +32009,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Serpent constricteur géant
 >==============================
 >
@@ -30769,7 +32037,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Serpent de feu
 >==================
 >
@@ -30801,6 +32069,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Serpent de mer, ancien
 >==========================
 >
@@ -30826,6 +32096,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Serpent de mer, jeune
 >=========================
@@ -30853,6 +32125,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Serpent venimeux
 >====================
 >
@@ -30878,7 +32152,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Serpent venimeux géant
 >==========================
 >
@@ -30905,7 +32179,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Serpent volant
 >==================
 >
@@ -30932,7 +32206,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Servant imposant de Leuk-O
 >==============================
 >
@@ -30969,6 +32243,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Serviteur homoncule
 >=======================
 >
@@ -31000,6 +32276,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 
 >Serviteur miniature
 >=======================
@@ -31028,6 +32306,8 @@ ___
 >Rules (Xanathar´s Guide to Everything)
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Shadar-kai, colporte-âmes
 >=============================
@@ -31065,6 +32345,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Shadar-kai, colporte-âmes legacy
 >====================================
 >
@@ -31101,6 +32383,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Shadar-kai, danseur des ombres
 >==================================
 >
@@ -31132,6 +32416,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Shadar-kai, danseur des ombres legacy
 >=========================================
@@ -31165,6 +32451,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Shadar-kai, ténébriste
 >==========================
 >
@@ -31197,6 +32485,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Shadar-kai, ténébriste legacy
 >=================================
@@ -31232,6 +32522,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Shoosuva
 >============
 >
@@ -31264,6 +32556,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Shoosuva legacy
 >===================
 >
@@ -31295,6 +32589,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Sibriex
 >===========
@@ -31335,6 +32631,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Sibriex legacy
 >==================
@@ -31379,6 +32677,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Singe géant
 >===============
 >
@@ -31407,7 +32707,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Slaad bleu
 >==============
 >
@@ -31438,6 +32738,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Slaad funeste
 >=================
@@ -31477,6 +32779,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Slaad gris
 >==============
 >
@@ -31515,6 +32819,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Slaad rouge
 >===============
 >
@@ -31546,6 +32852,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Slaad, têtard
 >=================
 >
@@ -31573,6 +32881,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Slaad vert
 >==============
@@ -31611,6 +32921,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Solar
 >=========
@@ -31656,7 +32968,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Sombrelin
 >=============
 >
@@ -31684,6 +32996,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Sombrelin, aîné
 >===================
@@ -31714,6 +33028,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Sombrelin, aîné legacy
 >==========================
 >
@@ -31743,6 +33059,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Sombrelin legacy
 >====================
 >
@@ -31770,6 +33088,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Sorcemort
 >=============
@@ -31805,6 +33125,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Sorcemort, conspirateur
 >===========================
@@ -31842,6 +33164,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Sorcemort, conspirateur legacy
 >==================================
 >
@@ -31876,6 +33200,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Sorcemort legacy
 >====================
 >
@@ -31908,6 +33234,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Sorcemort, nécrophage
 >=========================
@@ -31944,6 +33272,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Sorcemort, nécrophage legacy
 >================================
 >
@@ -31978,6 +33308,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Souffle animé
 >=================
 >
@@ -32001,6 +33333,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Spectateur
 >==============
@@ -32036,6 +33370,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Spectre
 >===========
 >
@@ -32066,7 +33402,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Spore gazeuse
 >=================
 >
@@ -32095,6 +33431,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Squelette
 >=============
@@ -32125,7 +33463,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Squelette de cheval de guerre
 >=================================
 >
@@ -32154,7 +33492,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Squelette de minotaure
 >==========================
 >
@@ -32185,7 +33523,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Strahd von Zarovich
 >=======================
 >
@@ -32252,7 +33590,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Succube
 >===========
 >
@@ -32285,7 +33623,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Sylvanien
 >=============
 >
@@ -32318,7 +33656,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Tabaxi, chasseur
 >====================
 >
@@ -32409,6 +33747,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Tanarukk legacy
 >===================
 >
@@ -32441,6 +33781,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Tapis étouffant
 >===================
 >
@@ -32471,7 +33813,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Tarasque
 >============
 >
@@ -32513,7 +33855,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Témoin psychique
 >====================
 >
@@ -32545,6 +33887,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Témoin psychique legacy
 >===========================
@@ -32584,6 +33928,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Tendriculaire
 >=================
 >
@@ -32615,6 +33961,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ténébreux
 >=============
@@ -32650,6 +33998,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Ténébreux legacy
 >====================
 >
@@ -32683,6 +34033,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Teril
 >=========
 >
@@ -32712,6 +34064,8 @@ ___
 >_Extra (AideDD)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Tertre errant
 >=================
@@ -32745,7 +34099,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Thri-kreen
 >==============
 >
@@ -32775,6 +34129,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Tiamat
 >==========
@@ -32830,7 +34186,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Tigre à dents de sabre
 >==========================
 >
@@ -32860,7 +34216,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Tigre-garou
 >===============
 >
@@ -32895,7 +34251,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Titivilus
 >=============
 >
@@ -32937,6 +34293,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Titivilus legacy
 >====================
@@ -32981,6 +34339,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Tlincalli
 >=============
 >
@@ -33009,6 +34369,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Tlincalli legacy
 >====================
@@ -33039,6 +34401,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Torte
 >=========
 >
@@ -33068,6 +34432,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Torte, druide
 >=================
@@ -33100,6 +34466,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Torte, druide legacy
 >========================
 >
@@ -33129,6 +34497,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Torte legacy
 >================
@@ -33160,6 +34530,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Torve
 >=========
 >
@@ -33190,7 +34562,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Tourmente, vénérable
 >========================
 >
@@ -33230,6 +34602,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Tourmente, vénérable legacy
 >===============================
 >
@@ -33268,6 +34642,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Transmutateur legacy
 >========================
@@ -33310,6 +34686,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Traqueur diamantin
 >======================
 >
@@ -33335,6 +34713,8 @@ ___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Traqueur gluant
 >===================
@@ -33369,6 +34749,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Traqueur gluant legacy
 >==========================
@@ -33407,6 +34789,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Traqueur invisible
 >======================
 >
@@ -33439,7 +34823,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Tricératops
 >===============
 >
@@ -33467,7 +34851,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Tridrone
 >============
 >
@@ -33496,6 +34880,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Triton du feu, guerrier
 >===========================
@@ -33526,6 +34912,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Triton du feu, guerrier legacy
 >==================================
 >
@@ -33554,6 +34942,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Triton du feu, occultiste d'Imix
 >====================================
@@ -33587,6 +34977,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Triton du feu, occultiste d'Imix legacy
 >===========================================
 >
@@ -33618,6 +35010,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Tritsir
 >===========
@@ -33655,6 +35049,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Troglodyte
 >==============
 >
@@ -33686,6 +35082,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Troll
 >=========
 >
@@ -33716,7 +35114,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Troll putride
 >=================
 >
@@ -33747,6 +35145,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Troll putride legacy
 >========================
 >
@@ -33776,6 +35176,8 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Troll sanguinaire
 >=====================
@@ -33809,6 +35211,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Troll sanguinaire legacy
 >============================
@@ -33844,6 +35248,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Troll spectral
 >==================
 >
@@ -33876,6 +35282,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Troll spectral legacy
 >=========================
@@ -33910,6 +35318,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Troll venimeux
 >==================
 >
@@ -33942,6 +35352,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Troll venimeux legacy
 >=========================
@@ -33977,6 +35389,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Truite têtevide
 >===================
 >
@@ -34004,6 +35418,8 @@ ___
 >Adventures (Rime of the Frostmaiden)
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Tyramort
 >============
@@ -34047,6 +35463,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Tyrannoeil
 >==============
 >
@@ -34088,6 +35506,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Tyrannosaure
 >================
 >
@@ -34116,7 +35536,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Ulitharid
 >=============
 >
@@ -34149,6 +35569,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ulitharid legacy
 >====================
@@ -34184,6 +35606,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ultroloth
 >=============
@@ -34223,6 +35647,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Vajra Safahr
 >================
 >
@@ -34253,6 +35679,8 @@ ___
 >Adventures (Dragon Heist)
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Vampire
 >===========
@@ -34299,7 +35727,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Vampirien
 >=============
 >
@@ -34337,7 +35765,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Vampyrannoeil
 >=================
 >
@@ -34369,6 +35797,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Vampyrannoeil legacy
 >========================
@@ -34402,6 +35832,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Vargouille
 >==============
 >
@@ -34432,6 +35864,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Vargouille legacy
 >=====================
 >
@@ -34461,6 +35895,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Vase de Sangdragon
 >======================
@@ -34494,6 +35930,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Vase grise
 >==============
 >
@@ -34525,7 +35963,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Vautour
 >===========
 >
@@ -34554,7 +35992,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Vautour géant
 >=================
 >
@@ -34585,7 +36023,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Vecna l'archiliche
 >======================
 >
@@ -34632,6 +36070,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Végépygmée
 >==============
 >
@@ -34661,6 +36101,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Végépygmée, chef
 >====================
@@ -34694,6 +36136,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Végépygmée, chef legacy
 >===========================
 >
@@ -34726,6 +36170,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Végépygmée épineux
 >======================
 >
@@ -34755,6 +36201,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Végépygmée legacy
 >=====================
@@ -34786,6 +36234,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Vellynne Harpell
 >====================
 >
@@ -34810,6 +36260,8 @@ ___
 >Adventures (Rime of the Frostmaiden)
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Vélociraptor
 >================
@@ -34840,6 +36292,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Vélociraptor legacy
 >=======================
 >
@@ -34868,6 +36322,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Ver pourpre
 >===============
@@ -34898,7 +36354,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Vétéran
 >===========
 >
@@ -34928,7 +36384,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Viplo
 >=========
 >
@@ -34957,6 +36413,8 @@ ___
 >_Extra (Adventurers League)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Vissepince
 >==============
@@ -34988,6 +36446,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Vissepince legacy
 >=====================
 >
@@ -35017,6 +36477,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Vrock
 >=========
@@ -35052,7 +36514,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Wastrilith
 >==============
 >
@@ -35088,6 +36550,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Wastrilith legacy
 >=====================
@@ -35125,6 +36589,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Wiverne
 >===========
 >
@@ -35154,7 +36620,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Worg
 >========
 >
@@ -35182,7 +36648,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Xiximantre
 >==============
 >
@@ -35219,6 +36685,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Xorn
 >========
 >
@@ -35251,7 +36719,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Xvart
 >=========
 >
@@ -35280,6 +36748,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Xvart legacy
 >================
@@ -35310,6 +36780,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Xvart, occultiste de Raxivort
 >=================================
@@ -35342,6 +36814,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Xvart, occultiste de Raxivort legacy
 >========================================
@@ -35376,6 +36850,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yagnoloth
 >=============
@@ -35413,6 +36889,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yagnoloth legacy
 >====================
@@ -35452,6 +36930,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Yan-C-Bin
 >=============
 >
@@ -35478,6 +36958,8 @@ ___
 >_Adventures (Princes of the Apocalypse)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yeenoghu
 >============
@@ -35517,6 +36999,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yeenoghu legacy
 >===================
@@ -35558,6 +37042,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Yéti
 >========
 >
@@ -35590,7 +37076,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Yéti abominable
 >===================
 >
@@ -35623,6 +37109,8 @@ ___
 >_Monster Manual_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yochlol
 >===========
@@ -35663,6 +37151,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Yuan-ti, abomination
 >========================
 >
@@ -35701,6 +37191,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Yuan-ti, anathème
 >=====================
 >
@@ -35737,6 +37229,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yuan-ti, anathème legacy
 >============================
@@ -35778,6 +37272,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Yuan-ti, annonciateur de cauchemars
 >=======================================
 >
@@ -35814,6 +37310,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yuan-ti, annonciateur de cauchemars legacy
 >==============================================
@@ -35856,6 +37354,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Yuan-ti, chuchoteur des consciences
 >=======================================
 >
@@ -35892,6 +37392,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yuan-ti, chuchoteur des consciences legacy
 >==============================================
@@ -35934,6 +37436,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Yuan-ti, garde des couvées
 >==============================
 >
@@ -35965,6 +37469,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yuan-ti, garde des couvées legacy
 >=====================================
@@ -35998,6 +37504,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yuan-ti, maître de la fosse
 >===============================
@@ -36034,6 +37542,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yuan-ti, maître de la fosse legacy
 >======================================
@@ -36074,6 +37584,8 @@ ___
 >_Volo´s Guide to Monsters_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Yuan-ti, malison
 >====================
@@ -36125,7 +37637,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Yuan-ti, sang-pur
 >=====================
 >
@@ -36160,7 +37672,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Zaratan
 >===========
 >
@@ -36204,7 +37716,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Zaratan legacy
 >==================
 >
@@ -36249,6 +37761,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Zariel
 >==========
 >
@@ -36289,6 +37803,8 @@ ___
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Zariel legacy
 >=================
@@ -36334,6 +37850,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Zocalo
 >==========
 >
@@ -36372,6 +37890,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Zombi
 >=========
 >
@@ -36401,7 +37921,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Zombi musqué jaune
 >======================
 >
@@ -36429,6 +37949,8 @@ ___
 >_Adventures (Tomb of Annihilation)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
 
 >Zombi ogre
 >==============
@@ -36459,7 +37981,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Zombi rothé
 >===============
 >
@@ -36490,7 +38012,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Zombi tyrannoeil
 >====================
 >
@@ -36525,7 +38047,7 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
->
+___
 >Zuggtmoy
 >============
 >
@@ -36567,6 +38089,8 @@ ___
 >{: .label .label.label-statblock }
 {: .statblock5e }
 
+___
+
 >Zuggtmoy legacy
 >===================
 >
@@ -36606,3 +38130,5 @@ ___
 >_Mordenkainen´s Tome of Foes_
 >{: .label .label.label-statblock }
 {: .statblock5e }
+
+___
