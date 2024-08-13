@@ -39,7 +39,7 @@ ___
 >**Langues** aérien, aarakocra  
 >**Puissance** 1/4 (50 PX)
 >
->**Attaque en piqué**.  
+>**Attaque en piqué**. Si l'aarakocra vole sur au moins 9 mètres en ligne droite vers une cible, puis la touche lors d'une attaque au corps à corps avec une arme, l'attaque inflige 3 (1d6) dégâts supplémentaires à la cible.
 >Action|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
 >Action|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
 >
@@ -72,14 +72,14 @@ ___
 >**Puissance** 6 (2300 PX)
 >**Bonus de maîtrise** +3
 >
->Vision de diable.  
->Résistance à la magie.  
->Téméraire.  
->Attaques multiples.  
->Morsure.  
->Griffes.  
->Épée longue.  
->Représailles vicieuses.  
+>**Vision de diable**.  
+>**Résistance à la magie**.  
+>**Téméraire**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**.  
+>Action|**Griffes**.  
+>Action|**Épée longue**.  
+>Réaction|**Représailles vicieuses**.  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -109,15 +109,15 @@ ___
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 6 (2300 PX)
 >
->Vision de diable.  
->Résistance à la magie.  
->Armes magiques.  
->Téméraire.  
->Attaques multiples.  
->Épée longue.  
->Morsure.  
->Griffes.  
->Représailles vicieuses.  
+>**Vision de diable**.  
+>**Résistance à la magie**.  
+>**Armes magiques**. 
+>**Téméraire**.  
+>Action|**Attaques multiples**.  
+>Action|**Morsure**.  
+>Action|**Griffes**.  
+>Action|**Épée longue**.  
+>Réaction|**Représailles vicieuses**. 
 >
 >Mordenkainen´s Tome of Foes
 >{: .label .label.label-statblock }
@@ -454,15 +454,17 @@ ___
 >**Puissance** 9 (5000 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumières dansantes, réparation, rayon de givre_  
->Niv 1 (4) : _bouclier\*_  
->Niv 2 (3) : _invisibilité_  
->Niv 3 (3) : _boule de feu_  
->Niv 4 (3) : _peau de pierre\*_  
->Niv 5 (2) : _cône de froid, mur de force_  
->Niv 6 (1) : _pétrification, globe d'invulnérabilité\*_  
->Niv 7 (1) : _téléportation_  
->\* sort d'abjuration de niveau 1 ou supérieur  
+>- Sorts mineurs (à volonté) : _lumières dansantes, réparation, rayon de givre_  
+>- Niv 1 (4) : _bouclier\*_  
+>- Niv 2 (3) : _invisibilité_  
+>- Niv 3 (3) : _boule de feu_  
+>- Niv 4 (3) : _peau de pierre\*_  
+>- Niv 5 (2) : _cône de froid, mur de force_  
+>- Niv 6 (1) : _pétrification, globe d'invulnérabilité\*_  
+>- Niv 7 (1) : _téléportation_  
+>
+>_\* sort d'abjuration de niveau 1 ou supérieur_
+>
 >**Protection arcanique**.  
 >Action|**Bâton**.  
 >
