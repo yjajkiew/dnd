@@ -27,13 +27,13 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
 
 #### Tolkien
 
- - Le Hobbit
- - La trilogie **Le Seigneur des anneaux**
+ - Le Hobbit ★★★★★
+ - La trilogie **Le Seigneur des anneaux** ★★★★★
    - Le Seigneur des anneaux : la Communauté de l'anneau
    - Le Seigneur des anneaux : Les Deux Tours
    - Le Seigneur des anneaux : Le Retour du roi
 
-#### Série DragonLance
+#### Série DragonLance ★★★★★
 
  - Trilogie des Chroniques de Lancedragon
    - Dragons d'un crépuscule d'automne (1996, Margaret Weis & Tracy Hickman)
@@ -58,14 +58,14 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
 
 #### Série Ravenloft
 
- - Le Vampire des brumes (1995, Christie Golden)
- - Le Chevalier de la Rose Noire (1995, James Lowder)
- - Coeur de minuit (1995, J. Robert King)
- - Danse avec les morts (1995, Christie Golden)
- - Les Âmes dans le canevas (1996, Elaine Bergstrom)
- - Le Carnaval de la peur (1996, J. Robert King)
- - L'Ennemi intime numéro un (1996, Christie Golden)
- - Mordenheim (1996, Chet Williamson)
+ - Le Vampire des brumes (1995, Christie Golden) ★★★★★
+ - Le Chevalier de la Rose Noire (1995, James Lowder) ★★★☆☆
+ - Coeur de minuit (1995, J. Robert King) ★☆☆☆☆
+ - Danse avec les morts (1995, Christie Golden) ★★★☆☆
+ - Les Âmes dans le canevas (1996, Elaine Bergstrom) ★★★☆☆
+ - Le Carnaval de la peur (1996, J. Robert King) ★★★★☆
+ - L'Ennemi intime numéro un (1996, Christie Golden) ★★★★☆
+ - Mordenheim (1996, Chet Williamson) ★★★★☆
  - La Tour de la désolation (1997, Mark Anthony)
  - La Baronne sanglante (1997, ELaine Bergstrom)
  - Moi, Strahd : journal d'un vampire (1997, P. N. Elrod) ★★★★★
