@@ -612,8 +612,8 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
->Niv 1 (3) : _bénédiction, soins_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
+>- Niv 1 (3) : _bénédiction, soins_  
 >Action|**Gourdin**. +2, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
@@ -875,7 +875,7 @@ ___
 >Trait arcanique.  
 >Explosion de l'esprit (Recharge 5-6).  
 >Incantation.  
->Annulation de sort (3/jour).  
+>- Annulation de sort (3/jour).  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -909,16 +909,16 @@ ___
 >
 >**Résistance à la magie**.  
 >**Incantation innée (psioniques)**.  
->À volonté : _détection des pensées, lévitation_  
->1/jour chacun : _changement de plan_ (personnel uniquement)  
+>- À volonté : _détection des pensées, lévitation_  
+>- 1/jour chacun : _changement de plan_ (personnel uniquement)  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumières dansantes, poigne électrique_  
->Niv 1 (4) : _détection de la magie, déguisement, bouclier_  
->Niv 2 (3) : _invisibilité, rayon ardent_  
->Niv 3 (3) : _éclair_  
->Niv 4 (3) : _assassin imaginaire_  
->Niv 5 (2) : _modification de mémoire, mur de force_  
->Niv 6 (1) : _désintégration, globe d'invulnérabilité_  
+>- Sorts mineurs (à volonté) : _lumières dansantes, poigne électrique_  
+>- Niv 1 (4) : _détection de la magie, déguisement, bouclier_  
+>- Niv 2 (3) : _invisibilité, rayon ardent_  
+>- Niv 3 (3) : _éclair_  
+>- Niv 4 (3) : _assassin imaginaire_  
+>- Niv 5 (2) : _modification de mémoire, mur de force_  
+>- Niv 6 (1) : _désintégration, globe d'invulnérabilité_  
 >**Résistance au renvoi**.  
 >Action|**Étreinte glaciale**. +8, 1,50 m, 3d6 froid  
 >Action|**Explosion de l'esprit (Recharge 5-6)**.  
@@ -1387,13 +1387,13 @@ ___
 >**Inscrutable**.  
 >**Armes magiques**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
->Niv 1 (4) : _détection de la magie, détection du mal et du bien, injonction_  
->Niv 2 (3) : _zone de vérité_  
->Niv 3 (3) : _don des langues_  
->Niv 4 (3) : _liberté de mouvement_  
->Niv 5 (2) : _restauration supérieure_  
->Niv 6 (1) : _festin des héros_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
+>- Niv 1 (4) : _détection de la magie, détection du mal et du bien, injonction_  
+>- Niv 2 (3) : _zone de vérité_  
+>- Niv 3 (3) : _don des langues_  
+>- Niv 4 (3) : _liberté de mouvement_  
+>- Niv 5 (2) : _restauration supérieure_  
+>- Niv 6 (1) : _festin des héros_  
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +12, 1,50 m, 2d10+6 tranchants  
 >Action|**Rugissement (3/jour)**.  
@@ -1488,8 +1488,8 @@ ___
 >
 >Action|**Explosion arcanique**. +4, , 1d10+2 force  
 >Action|**Incantation**.  
->À volonté : _prestidigitation_  
->1/jour : _mains brûlantes, déguisement,
+>- À volonté : _prestidigitation_  
+>- 1/jour : _mains brûlantes, déguisement,
 >
 >Apprenti magicien legacy
 >========================
@@ -1512,8 +1512,8 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _réparation, prestidigitation_  
->Niv 1 (2) : _mains brûlantes, déguisement, bouclier_  
+>- Sorts mineurs (à volonté) : _réparation, prestidigitation_  
+>- Niv 1 (2) : _mains brûlantes, déguisement, bouclier_  
 >Action|**Dague**. +2, 1,50 m ou 6/18 m, 1d4 perforants  
 >
 >_Volo´s Guide to Monsters_
@@ -1544,13 +1544,13 @@ ___
 >**Puissance** 9 (5000 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumières dansantes, message_  
->Niv 1 (4) : _sommeil_  
->Niv 2 (3) : _toile d'araignée_  
->Niv 3 (3) : _toucher du vampire\*_  
->Niv 4 (3) : _flétrissement\*, peau de pierre_  
->Niv 5 (2) : _brume mortelle_  
->Niv 6 (1) : _création de mort-vivant\*_  
+>- Sorts mineurs (à volonté) : _lumières dansantes, message_  
+>- Niv 1 (4) : _sommeil_  
+>- Niv 2 (3) : _toile d'araignée_  
+>- Niv 3 (3) : _toucher du vampire\*_  
+>- Niv 4 (3) : _flétrissement\*, peau de pierre_  
+>- Niv 5 (2) : _brume mortelle_  
+>- Niv 6 (1) : _création de mort-vivant\*_  
 >\* sort de nécromancie de niveau 1 ou supérieur  
 >**Sinistre moisson (1/tour)**.  
 >Action|**Toucher flétrissant**. +7, 1,50 m, 2d4 nécrotiques  
@@ -1896,19 +1896,19 @@ ___
 >**Puissance** 12 (8400 PX)
 >
 >**Incantation innée**.  
->À volonté : _ténèbres, métal brûlant, invisibilité_ (personnel uniquement), _projectile magique_  
+>- À volonté : _ténèbres, métal brûlant, invisibilité_ (personnel uniquement), _projectile magique_  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _prestidigitation_  
->Niv 1 (4) : _détection de la magie, disque flottant de Tenser_  
->Niv 2 (3) : _détection des pensées, suggestion_  
->Niv 3 (3) : _boule de feu_  
->Niv 4 (3) : _porte dimensionnelle_  
->Niv 5 (2) : _immobilisation de monstre_  
->Niv 6 (1) : _chaîne d'éclairs_  
->Niv 7 (1) : _doigt de mort_  
->Niv 8 (1) : _esprit impénétrable_  
+>- Sorts mineurs (à volonté) : _prestidigitation_  
+>- Niv 1 (4) : _détection de la magie, disque flottant de Tenser_  
+>- Niv 2 (3) : _détection des pensées, suggestion_  
+>- Niv 3 (3) : _boule de feu_  
+>- Niv 4 (3) : _porte dimensionnelle_  
+>- Niv 5 (2) : _immobilisation de monstre_  
+>- Niv 6 (1) : _chaîne d'éclairs_  
+>- Niv 7 (1) : _doigt de mort_  
+>- Niv 8 (1) : _esprit impénétrable_  
 >Action|**Griffes**. +7, 1,50 m, 2d4+3 tranchants  
 >Action|**Téléportation**.  
 >
@@ -2037,16 +2037,16 @@ ___
 >**Puissance** 12 (8400 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _réparation, bouffée de poison, flammes_  
->Niv 1 (4) : _enchevêtrement, lueurs féeriques, communication avec les animaux_  
->Niv 2 (3) : _immobilisation de personne_  
->Niv 3 (3) : _respiration aquatique_  
->Niv 4 (3) : _domination de bête, localisation de créature, mur de feu_  
->Niv 5 (3) : _passage par les arbres_  
->Niv 6 (1) : _guérison, festin des héros, rayon de soleil_  
->Niv 7 (1) : _tempête de feu_  
->Niv 8 (1) : _formes animales_  
->Niv 9 (1) : _prémonition_  
+>- Sorts mineurs (à volonté) : _réparation, bouffée de poison, flammes_  
+>- Niv 1 (4) : _enchevêtrement, lueurs féeriques, communication avec les animaux_  
+>- Niv 2 (3) : _immobilisation de personne_  
+>- Niv 3 (3) : _respiration aquatique_  
+>- Niv 4 (3) : _domination de bête, localisation de créature, mur de feu_  
+>- Niv 5 (3) : _passage par les arbres_  
+>- Niv 6 (1) : _guérison, festin des héros, rayon de soleil_  
+>- Niv 7 (1) : _tempête de feu_  
+>- Niv 8 (1) : _formes animales_  
+>- Niv 9 (1) : _prémonition_  
 >Action|**Cimeterre**. +6, 1,50 m, 1d6+2 tranchants  
 >Action|**Changement de forme (2/jour)**. 
 >
@@ -2079,16 +2079,16 @@ ___
 >**Puissance** 12 (8400 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, poigne électrique_  
->Niv 1 (4) : _détection de la magie, projectile magique_  
->Niv 2 (3) : _détection des pensées, foulée brumeuse_  
->Niv 3 (3) : _éclair_  
->Niv 4 (3) : _peau de pierre\*_  
->Niv 5 (3) : _cône de froid, mur de force_  
->Niv 6 (1) : _globe d'invulnérabilité_  
->Niv 7 (1) : _téléportation_  
->Niv 8 (1) : _esprit impénétrable_\*  
->Niv 9 (1) : _arrêt du temps_  
+>- Sorts mineurs (à volonté) : _lumière, poigne électrique_  
+>- Niv 1 (4) : _détection de la magie, projectile magique_  
+>- Niv 2 (3) : _détection des pensées, foulée brumeuse_  
+>- Niv 3 (3) : _éclair_  
+>- Niv 4 (3) : _peau de pierre\*_  
+>- Niv 5 (3) : _cône de froid, mur de force_  
+>- Niv 6 (1) : _globe d'invulnérabilité_  
+>- Niv 7 (1) : _téléportation_  
+>- Niv 8 (1) : _esprit impénétrable_\*  
+>- Niv 9 (1) : _arrêt du temps_  
 >\* L'archimage jette ces sorts avant le combat.  
 >**Résistance à la magie**.  
 >Action|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+2 perforants  
@@ -2477,7 +2477,7 @@ ___
 >**Puissance** 4 (1100 PX)
 >
 >**Incantation innée**.  
->À volonté : _ténèbres, métal brûlant, lévitation_  
+>- À volonté : _ténèbres, métal brûlant, lévitation_  
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +6, 1,50 m, 1d8+4 tranchants  
 >Action|**Lance**. +6, 1,50 m ou 6/18 m, 1d6+4 perforants  
@@ -3055,7 +3055,7 @@ ___
 >Arc court.  
 >Cacophonie (Recharge 4–6).  
 >Incantation.  
->Raillerie (2/jour) 
+>- Raillerie (2/jour) 
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -3085,9 +3085,9 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _moquerie cruelle_  
->Niv 1 (4) : _mot de guérison, héroïsme, vague tonnante_  
->Niv 2 (3) : _invisibilité, fracassement_  
+>- Sorts mineurs (à volonté) : _moquerie cruelle_  
+>- Niv 1 (4) : _mot de guérison, héroïsme, vague tonnante_  
+>- Niv 2 (3) : _invisibilité, fracassement_  
 >**Chant reposant**.  
 >**Provocation (2/jour)**.  
 >Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
@@ -3163,8 +3163,8 @@ ___
 >**Bannissement par le feu**.  
 >**Odorat aiguisé**.  
 >**Incantation innée**.  
->À volonté : _lévitation, passage sans trace,_  
->1/jour chacun : _suggestion_  
+>- À volonté : _lévitation, passage sans trace,_  
+>- 1/jour chacun : _suggestion_  
 >Action|**Morsure (forme véritable uniquement)**. +6, 1,50 m, 2d8+4 perforants  
 >Action|**Griffes**. +6, 1,50 m, 1d8+4 tranchants 
 >
@@ -3199,8 +3199,8 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Incantation innée**.  
->1/jour chacun : _enchevêtrement, force fantasmagorique_  
->2/jour chacun : _déguisement, invisibilité_ (personnel uniquement)  
+>- 1/jour chacun : _enchevêtrement, force fantasmagorique_  
+>- 2/jour chacun : _déguisement, invisibilité_ (personnel uniquement)  
 >**Téméraire**.  
 >**Saut avec élan**.  
 >Action|**Attaques multiples**.  
@@ -3420,7 +3420,7 @@ ___
 >Morsure.  
 >Griffes.  
 >Incantation.  
->Duplication spectrale (Recharge après un repos court ou long).  
+>- Duplication spectrale (Recharge après un repos court ou long).  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -4436,8 +4436,8 @@ ___
 >
 >**Faveur impie**.  
 >**Incantation innée**.  
->3/jour chacun : _détection de la magie, modification d'apparence_  
->1/jour : _changement de plan_ (personnel uniquement)  
+>- 3/jour chacun : _détection de la magie, modification d'apparence_  
+>- 1/jour : _changement de plan_ (personnel uniquement)  
 >Action|**Attaques multiples**.  
 >Action|**Lance**. +7, 1,50 m ou 6/12 m, 1d6+4 perforants  
 >Action|**Rayon de feu**. +7, 36 m, 3d6 feu  
@@ -4784,8 +4784,8 @@ ___
 >
 >**Perception des créatures**.  
 >**Incantation innée (psioniques)**.  
->À volonté : _détection des pensées, lévitation_  
->1/jour chacun : _changement de plan_ (personnel uniquement)  
+>- À volonté : _détection des pensées, lévitation_  
+>- 1/jour chacun : _changement de plan_ (personnel uniquement)  
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Relai télépathique**.  
@@ -4854,8 +4854,8 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Incantation innée**.  
->À volonté : _lumières dansantes, thaumaturgie_  
->1/jour chacun : _malédiction, cordon de flèches, détection de la magie, maléfice, prière de guérison, communication avec les morts, esprits gardiens_  
+>- À volonté : _lumières dansantes, thaumaturgie_  
+>- 1/jour chacun : _malédiction, cordon de flèches, détection de la magie, maléfice, prière de guérison, communication avec les morts, esprits gardiens_  
 >Action|**Lance**. +4, 1,50 m ou 6/18 m, 1d6+2 perforants  
 >Action|**Arc court**. +3, 24/96 m, 1d6+1 perforants  
 >
@@ -5283,11 +5283,11 @@ ___
 >**Général des Morts**.  
 >**Nature morte-vivante**.  
 >**Incantation**.  
->Niv 1 (4) : _châtiment calcinant, duel forcé, injonction_  
->Niv 2 (3) : _immobilisation de personne_  
->Niv 3 (3) : _arme élémentaire, dissipation de la magie_  
->Niv 4 (3) : _châtiment débilitant_  
->Niv 5 (2) : _vague destructrice_ (nécrotique)  
+>- Niv 1 (4) : _châtiment calcinant, duel forcé, injonction_  
+>- Niv 2 (3) : _immobilisation de personne_  
+>- Niv 3 (3) : _arme élémentaire, dissipation de la magie_  
+>- Niv 4 (3) : _châtiment débilitant_  
+>- Niv 5 (2) : _vague destructrice_ (nécrotique)  
 >Action|**Attaques multiples**.  
 >Action|**Épée longue**. +11, 1,50 m, 1d8+5 tranchants  
 >Action|**Flammes impies (1/jour)**.  
@@ -5326,7 +5326,7 @@ ___
 >Action|**Arc court**. +3, 24/96 m, 1d6+2 perforants  
 >Action|**Aspect épouvantable (Recharge après un repos court ou long)**.  
 >Action|**Incantation**.  
->2/jour chacun : _appel de destrier_  
+>- 2/jour chacun : _appel de destrier_  
 >Action Bonus|**Châtiment**.  
 >Action Bonus|**Aveuglé**.  
 >Action Bonus|**Repoussé**.  
@@ -5359,9 +5359,9 @@ ___
 >**Puissance** 8 (3900 PX)
 >
 >**Incantation**.  
->Niv 1 (4) : _châtiment tonitruant_  
->Niv 2 (3) : _châtiment révélateur, appel de destrier_  
->Niv 3 (2) : _châtiment aveuglant, dissipation de la magie_  
+>- Niv 1 (4) : _châtiment tonitruant_  
+>- Niv 2 (3) : _châtiment révélateur, appel de destrier_  
+>- Niv 3 (2) : _châtiment aveuglant, dissipation de la magie_  
 >Action|**Attaques multiples**.  
 >Action|**Coutille**. +7, 3 m, 1d10+4 tranchants  
 >Action|**Arc court**. +3, 24/96 m, 1d6+2 perforants  
@@ -5860,9 +5860,9 @@ ___
 >
 >**Ascendance féerique**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _réparation, résistance, thaumaturgie_  
->Niv 1 (4) : _fléau, mot de guérison, bouclier de la foi_  
->Niv 2 (3) : _arme spirituelle_ (dague)  
+>- Sorts mineurs (à volonté) : _réparation, résistance, thaumaturgie_  
+>- Niv 1 (4) : _fléau, mot de guérison, bouclier de la foi_  
+>- Niv 2 (3) : _arme spirituelle_ (dague)  
 >**Pattes d'araignée**.  
 >**Sensibilité au soleil**.  
 >**Sens de la toile**.  
@@ -6445,9 +6445,9 @@ ___
 >**Puissance** 4 (1100 PX)
 >
 >**Incantation innée**.  
->À volonté : _détection du mal et du bien, détection de la magie, détection des pensées_  
->3/jour chacun : _bénédiction, création de nourriture et d'eau, soins_  
->1/jour chacun : _restauration supérieure, songe_  
+>- À volonté : _détection du mal et du bien, détection de la magie, détection des pensées_  
+>- 3/jour chacun : _bénédiction, création de nourriture et d'eau, soins_  
+>- 1/jour chacun : _restauration supérieure, songe_  
 >**Armes magiques**.  
 >**Esprit fortifié**.  
 >Action|**Morsure**. +8, 1,50 m, 1d6+5 perforants  
@@ -6703,10 +6703,10 @@ ___
 >**Résistance à la magie**.  
 >**Reconstitution**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _main de mage_  
->Niv 1 (3 de sorts) : _projectile magique_  
->Niv 2 (2 de sorts) : _sphère de feu_  
->Niv 3 (1 de sort) : _boule de feu_  
+>- Sorts mineurs (à volonté) : _main de mage_  
+>- Niv 1 (3 de sorts) : _projectile magique_  
+>- Niv 2 (2 de sorts) : _sphère de feu_  
+>- Niv 3 (1 de sort) : _boule de feu_  
 >Action|**Attaques multiples**.  
 >Action|**Rayon de feu**. +5, 9 m, 3d6 feu 
 >
@@ -7064,9 +7064,9 @@ ___
 >
 >**Disparition élémentaire**.  
 >**Incantation innée**.  
->À volonté : _détection de la magie, détection du mal et du bien, façonnage de la pierre_  
->3/jour : _terraformage_  
->1/jour chacun : _invocation d'élémentaire_ (élémentaire de la terre uniquement), _invisibilité, mur de pierre_  
+>- À volonté : _détection de la magie, détection du mal et du bien, façonnage de la pierre_  
+>- 3/jour : _terraformage_  
+>- 1/jour chacun : _invocation d'élémentaire_ (élémentaire de la terre uniquement), _invisibilité, mur de pierre_  
 >**Déplacement dans la terre**.  
 >**Pieds sûrs**.  
 >Action|**Attaques multiples**.  
@@ -7373,9 +7373,9 @@ ___
 >**Puissance** 26 (90000 PX)
 >
 >**Incantation innée**.  
->À volonté : _détection de la magie, image majeure_  
->3/jour chacun : _télékinésie_  
->1/jour chacun : _projection d'image_  
+>- À volonté : _détection de la magie, image majeure_  
+>- 3/jour chacun : _télékinésie_  
+>- 1/jour chacun : _projection d'image_  
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
@@ -7580,12 +7580,12 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, trait de feu_  
->Niv 1 (4) : _sommeil_  
->Niv 2 (3) : _déblocage, suggestion_  
->Niv 3 (3) : _vol_  
->Niv 4 (3) : _invisibilité supérieure, tempête de grêle_  
->Niv 5 (1) : _cône de froid_  
+>- Sorts mineurs (à volonté) : _lumière, trait de feu_  
+>- Niv 1 (4) : _sommeil_  
+>- Niv 2 (3) : _déblocage, suggestion_  
+>- Niv 3 (3) : _vol_  
+>- Niv 4 (3) : _invisibilité supérieure, tempête de grêle_  
+>- Niv 5 (1) : _cône de froid_  
 >Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+1 perforants 
 >
 >_Extra (AideDD)_
@@ -7648,8 +7648,8 @@ ___
 >
 >**Armes angéliques**.  
 >**Incantation innée**.  
->À volonté : _détection du mal et du bien_  
->1/jour chacun : _rappel à la vie_  
+>- À volonté : _détection du mal et du bien_  
+>- 1/jour chacun : _rappel à la vie_  
 >**Résistance à la magie**.  
 >Action|**Attaques multiples**.  
 >Action|**Masse d'armes**. +8, 1,50 m, 1d6+4 contondants  
@@ -7748,15 +7748,15 @@ ___
 >**Puissance** 8 (3900 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, coup au but_  
->Niv 1 (4) : _détection de la magie\*, armure de mage_  
->Niv 2 (3) : _détection des pensées\*, rayon ardent_  
->Niv 3 (3) : _boule de feu_  
->Niv 4 (3) : _tempête de grêle, peau de pierre_  
->Niv 5 (2) : _lien télépathique de Rary\*, scrutation\*_  
->Niv 6 (1) : _vision suprême\*_  
->Niv 7 (1) : _boule de feu à retardement, téléportation_  
->Niv 8 (1) : _dédale_  
+>- Sorts mineurs (à volonté) : _lumière, coup au but_  
+>- Niv 1 (4) : _détection de la magie\*, armure de mage_  
+>- Niv 2 (3) : _détection des pensées\*, rayon ardent_  
+>- Niv 3 (3) : _boule de feu_  
+>- Niv 4 (3) : _tempête de grêle, peau de pierre_  
+>- Niv 5 (2) : _lien télépathique de Rary\*, scrutation\*_  
+>- Niv 6 (1) : _vision suprême\*_  
+>- Niv 7 (1) : _boule de feu à retardement, téléportation_  
+>- Niv 8 (1) : _dédale_  
 >\* sort de divination de niveau 1 ou supérieur  
 >**Présage (Recharge après que le devin ait lancé un sort de divination de niveau 1 ou supérieur)**.  
 >Action|**Bâton**.
@@ -8254,8 +8254,8 @@ ___
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Incantation innée**.  
->À volonté : _détection de la magie, boule de feu_  
->3/jour chacun : _mur de feu_  
+>- À volonté : _détection de la magie, boule de feu_  
+>- 3/jour chacun : _mur de feu_  
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +14, 1,50 m, 4d6+8 perforants  
 >Action|**Griffes**. +14, 3 m, 2d8+8 tranchants  
@@ -8290,8 +8290,8 @@ ___
 >
 >**Disparition élémentaire**.  
 >**Incantation innée**.  
->À volonté : _détection du mal et du bien, détection de la magie, vague tonnante_  
->3/jour chacun : _création de nourriture et d'eau_ (peut créer du vin à la place de l'eau), _marche sur le vent_  
+>- À volonté : _détection du mal et du bien, détection de la magie, vague tonnante_  
+>- 3/jour chacun : _création de nourriture et d'eau_ (peut créer du vin à la place de l'eau), _marche sur le vent_  
 >1/jour chacun : _invocation d'élémentaire_ (élémentaire de l'air uniquement), _création, invisibilité, changement de plan_  
 >Action|**Attaques multiples**.  
 >Action|**Cimeterre**. +9, 1,50 m, 2d6+5 tranchants  
@@ -8676,8 +8676,8 @@ ___
 >
 >**Ascendance féerique**.  
 >**Incantation innée**.  
->À volonté : _ténèbres_  
->1/jour chacun : _lumières dansantes, lueurs féeriques_  
+>- À volonté : _ténèbres_  
+>- 1/jour chacun : _lumières dansantes, lueurs féeriques_  
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +8, 1,50 m, 2d10+5 perforants  
 >Action|**Griffes**. +8, 3 m, 2d10+5 tranchants
@@ -9186,7 +9186,7 @@ ___
 >Action|**Morsure**. +12, 3 m, 2d10+7 perforants  
 >Action|**Griffes**. +12, 3 m, 1d8+7 tranchants  
 >Action|**Incantation (psioniques)**.  
->1/jour chacun : _contrôle de l'eau, communication à distance_  
+>- 1/jour chacun : _contrôle de l'eau, communication à distance_  
 >Action|**Souffle singulier (Recharge 5-6)**.  
 >Action Bonus|**Changement de forme**.  
 >Action Bonus|**Foulée psychique**.  
@@ -9493,8 +9493,8 @@ ___
 >Action|**Morsure**. +11, 3 m, 2d10+6 perforants  
 >Action|**Griffes**. +11, 1,50 m, 1d8+6 tranchants  
 >Action|**Incantation (psioniques)**.  
->À volonté : _illusion mineure_  
->1/jour chacun : _détection des pensées, dissipation de la magie, invisibilité, image majeure_  
+>- À volonté : _illusion mineure_  
+>- 1/jour chacun : _détection des pensées, dissipation de la magie, invisibilité, image majeure_  
 >Action|**Souffle désorientant (Recharge 5-6)**.  
 >Action Bonus|**Changement de forme**.  
 >Action Bonus|**Foulée psychique**.  
@@ -9990,8 +9990,8 @@ ___
 >Action|**Morsure**. +9, 3 m, 2d10+5 perforants  
 >Action|**Griffes**. +9, 1,50 m, 1d8+5 tranchants  
 >Action|**Incantation (psioniques)**.  
->À volonté : _lumières dansantes, assistance_  
->1/jour chacun : _restauration partielle_  
+>- À volonté : _lumières dansantes, assistance_  
+>- 1/jour chacun : _restauration partielle_  
 >Action|**Souffle scintillant (Recharge 5-6)**.  
 >Action Bonus|**Changement de forme**.  
 >Action Bonus|**Foulée psychique**.  
@@ -10293,7 +10293,7 @@ ___
 >Action|**Morsure**. +11, 3 m, 2d10+6 perforants  
 >Action|**Griffes**. +11, 1,50 m, 1d8+6 tranchants  
 >Action|**Incantation (psioniques)**.  
->1/jour chacun : _télékinésie_  
+>- 1/jour chacun : _télékinésie_  
 >Action|**Souffle débilitant (Recharge 5-6)**.  
 >Action Bonus|**Changement de forme**.  
 >Action Bonus|**Foulée psychique**.  
@@ -10455,7 +10455,7 @@ ___
 >Action|**Morsure**. +9, 3 m, 2d10+4 perforants  
 >Action|**Griffes**. +9, 1,50 m, 1d8+4 tranchants  
 >Action|**Incantation (psioniques)**.  
->1/jour chacun : _fléau, contrôle de l'eau, création ou destruction d'eau,_  
+>- 1/jour chacun : _fléau, contrôle de l'eau, création ou destruction d'eau,_  
 >Action|**Souffle desséchant (Recharge 5-6)**.  
 >Action Bonus|**Changement de forme**.  
 >Action Bonus|**Foulée psychique**.  
@@ -10795,13 +10795,13 @@ ___
 >**Télépathie limitée**.  
 >**Résistance à la magie**.  
 >**Incantation innée**.  
->Rouge (200 XP), 1/jour chacun : _lumières dansantes, illusion mineure_  
->Orange (200 XP), 1/jour : _couleurs dansantes_  
->Jaune (200 XP), 1/jour : _image miroir_  
->Vert (450 XP), 1/jour : _suggestion_  
->Bleu (450 XP), 1/jour : _image majeure_  
->Indigo (450 XP), 1/jour : _terrain hallucinatoire_  
->Violet (450 XP), 1/jour : _métamorphose_  
+>- Rouge (200 XP), 1/jour chacun : _lumières dansantes, illusion mineure_  
+>- Orange (200 XP), 1/jour : _couleurs dansantes_  
+>- Jaune (200 XP), 1/jour : _image miroir_  
+>- Vert (450 XP), 1/jour : _suggestion_  
+>- Bleu (450 XP), 1/jour : _image majeure_  
+>- Indigo (450 XP), 1/jour : _terrain hallucinatoire_  
+>- Violet (450 XP), 1/jour : _métamorphose_  
 >Action|**Morsure**.  
 >Action|**Souffle d'euphorie (Recharge 5-6)**.  
 >Action|**1-4**.  
@@ -10988,8 +10988,8 @@ ___
 >Action|**Souffle de rêve**.  
 >Action|**Souffle de lune**.  
 >Action|**Incantation**.  
->À volonté : _lueurs féeriques_  
->1/jour chacun : _apaisement des émotions, invisibilité, retour à la vie  
+>- À volonté : _lueurs féeriques_  
+>- 1/jour chacun : _apaisement des émotions, invisibilité, retour à la vie  
 >Action Légendaire|**Queue**.  
 >Action Légendaire|**Sort (coûte 2 actions)**.  
 >
@@ -11789,8 +11789,8 @@ ___
 >
 >**Ascendance féerique**.  
 >**Incantation innée**.  
->À volonté : _lumières dansantes_  
->1/jour chacun : _ténèbres, lueurs féeriques_  
+>- À volonté : _lumières dansantes_  
+>- 1/jour chacun : _ténèbres, lueurs féeriques_  
 >**Pattes d'araignée**.  
 >**Sensibilité au soleil**.  
 >**Déplacement sur la toile**.  
@@ -11826,8 +11826,8 @@ ___
 >
 >**Ascendance féerique**.  
 >**Incantation innée**.  
->À volonté : _lumières dansantes_  
->1/jour chacun : _ténèbres, lueurs féeriques_  
+>- À volonté : _lumières dansantes_  
+>- 1/jour chacun : _ténèbres, lueurs féeriques_  
 >**Sensibilité au soleil**.  
 >Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
 >Action|**Arbalète de poing**. +4, 9/36 m, 1d6+2 perforants  
@@ -11982,8 +11982,8 @@ ___
 >**Ordre de bataille**.  
 >**Ascendance féerique**.  
 >**Incantation innée**.  
->À volonté : _lumières dansantes_  
->1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
+>- À volonté : _lumières dansantes_  
+>- 1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
 >**Sensibilité au soleil**.  
 >Action|**Attaques multiples**.  
 >Action|**Cimeterre**. +8, 1,50 m, 1d6+4 tranchants  
@@ -12092,8 +12092,8 @@ ___
 >
 >**Ascendance féerique**.  
 >**Incantation innée**.  
->À volonté : _lumières dansantes_  
->1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
+>- À volonté : _lumières dansantes_  
+>- 1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
 >**Sensibilité au soleil**.  
 >Action|**Attaques multiples**.  
 >Action|**Épée courte**. +7, 1,50 m, 1d6+4 perforants  
@@ -12168,17 +12168,17 @@ ___
 >**Mensonge décelé**.  
 >**Ascendance féerique**.  
 >**Incantation innée**.  
->À volonté : _lumières dansantes, détection de la magie_  
->1/jour chacun : _ténèbres, détection des pensées, lueurs féeriques, lévitation_ (personnel uniquement), _suggestion_  
+>- À volonté : _lumières dansantes, détection de la magie_  
+>- 1/jour chacun : _ténèbres, détection des pensées, lueurs féeriques, lévitation_ (personnel uniquement), _suggestion_  
 >**Résistance à la magie**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _bouffée de poison, résistance, thaumaturgie_  
->Niv 1 (4) : _fléau_  
->Niv 2 (3) : _cécité/surdité, arme spirituelle_  
->Niv 3 (3) : _malédiction, cercle magique_  
->Niv 4 (3) : _liberté de mouvement_  
->Niv 5 (2) : _fléau d'insectes_  
->Niv 6 (1) : _vision suprême, contamination_  
+>- Sorts mineurs (à volonté) : _bouffée de poison, résistance, thaumaturgie_  
+>- Niv 1 (4) : _fléau_  
+>- Niv 2 (3) : _cécité/surdité, arme spirituelle_  
+>- Niv 3 (3) : _malédiction, cercle magique_  
+>- Niv 4 (3) : _liberté de mouvement_  
+>- Niv 5 (2) : _fléau d'insectes_  
+>- Niv 6 (1) : _vision suprême, contamination_  
 >**Sensibilité au soleil**.  
 >Action|**Attaques multiples**.  
 >Action|**Lance d'arçon mortelle**. +10, 1,50 m, 1d6+5 perforants 
@@ -12211,15 +12211,15 @@ ___
 >
 >**Ascendance féerique**.  
 >**Incantation innée**.  
->À volonté : _lumières dansantes_  
->1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
+>- À volonté : _lumières dansantes_  
+>- 1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _bouffée de poison, rayon de givre_  
->Niv 1 (4) : _trait ensorcelé_  
->Niv 2 (3) : _foulée brumeuse, toile d'araignée_  
->Niv 3 (3) : _éclair_  
->Niv 4 (3) : _invisibilité supérieure_  
->Niv 5 (2) : _brume mortelle_  
+>- Sorts mineurs (à volonté) : _bouffée de poison, rayon de givre_  
+>- Niv 1 (4) : _trait ensorcelé_  
+>- Niv 2 (3) : _foulée brumeuse, toile d'araignée_  
+>- Niv 3 (3) : _éclair_  
+>- Niv 4 (3) : _invisibilité supérieure_  
+>- Niv 5 (2) : _brume mortelle_  
 >**Sensibilité au soleil**.  
 >Action|**Bâton**.  
 >Action|**Invocation de démon (1/jour)**.  
@@ -12410,15 +12410,15 @@ ___
 >
 >**Ascendance féerique**.  
 >**Incantation innée**.  
->À volonté : _lumières dansantes_  
->1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
+>- À volonté : _lumières dansantes_  
+>- 1/jour chacun : _ténèbres, lueurs féeriques, lévitation_ (personnel uniquement)  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _bouffée de poison, résistance_  
->Niv 1 (4) : _amitié avec les animaux, détection du poison et des maladies, rayon empoisonné_  
->Niv 2 (3) : _toile d'araignée_  
->Niv 3 (3) : _invocation d'animaux_ (2 araignées géantes), _dissipation de la magie_  
->Niv 4 (3) : _liberté de mouvement_  
->Niv 5 (2) : _fléau d'insectes, soins de groupe_  
+>- Sorts mineurs (à volonté) : _bouffée de poison, résistance_  
+>- Niv 1 (4) : _amitié avec les animaux, détection du poison et des maladies, rayon empoisonné_  
+>- Niv 2 (3) : _toile d'araignée_  
+>- Niv 3 (3) : _invocation d'animaux_ (2 araignées géantes), _dissipation de la magie_  
+>- Niv 4 (3) : _liberté de mouvement_  
+>- Niv 5 (2) : _fléau d'insectes, soins de groupe_  
 >**Sensibilité au soleil**.  
 >Action|**Attaques multiples**.  
 >Action|**Fouet barbelé**. +5, 1,50 m, 1d6+2 perforants  
@@ -12451,9 +12451,9 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _gourdin magique_  
->Niv 1 (4) : _enchevêtrement, grande foulée, vague tonnante_  
->Niv 2 (3) : _peau d'écorce_  
+>- Sorts mineurs (à volonté) : _gourdin magique_  
+>- Niv 1 (4) : _enchevêtrement, grande foulée, vague tonnante_  
+>- Niv 2 (3) : _peau d'écorce_  
 >Action|**Bâton**. +2, , 1d6 contondants  
 >
 >_Monster Manual (SRD)_
@@ -12484,12 +12484,12 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Incantation (forme humanoïde uniquement)**.  
->Sorts mineurs (à volonté) : _résistance_  
->Niv 1 (4) : _amitié avec les animaux, communication avec les animaux_  
->Niv 2 (3) : _passage sans trace_  
->Niv 3 (3) : _tempête de neige, mur de vent_  
->Niv 4 (3) : _tempête de grêle_  
->Niv 5 (1) : _éveil_  
+>- Sorts mineurs (à volonté) : _résistance_  
+>- Niv 1 (4) : _amitié avec les animaux, communication avec les animaux_  
+>- Niv 2 (3) : _passage sans trace_  
+>- Niv 3 (3) : _tempête de neige, mur de vent_  
+>- Niv 4 (3) : _tempête de grêle_  
+>- Niv 5 (1) : _éveil_  
 >Action|**Attaques multiples**.  
 >Action|**Serpe de glace (forme humanoïde uniquement)**. +4, 1,50 m, 1d6 tranchants  
 >Action|**Maillet (forme de bête uniquement)**.  
@@ -12521,9 +12521,9 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Incantation innée**.  
->À volonté : _druidisme_  
->3/jour chacun : _enchevêtrement, baies nourricières_  
->1/jour chacun : _peau d'écorce, gourdin magique_  
+>- À volonté : _druidisme_  
+>- 3/jour chacun : _enchevêtrement, baies nourricières_  
+>- 1/jour chacun : _peau d'écorce, gourdin magique_  
 >**Résistance à la magie**.  
 >**Communication avec les animaux et avec les plantes**.  
 >**Passage par les arbres**.  
@@ -12695,8 +12695,8 @@ ___
 >**Puissance** 12 (8400 PX)
 >
 >**Incantation innée (psionniques)**.  
->À volonté : _illusion mineure_  
->1/jour chacun : _foulée brumeuse, nuage nauséabond_  
+>- À volonté : _illusion mineure_  
+>- 1/jour chacun : _foulée brumeuse, nuage nauséabond_  
 >**Résistance à la magie**.  
 >**Moteur psychique**.  
 >**Sensibilité au soleil**.  
@@ -13248,9 +13248,9 @@ ___
 >
 >**Disparition élémentaire**.  
 >**Incantation innée**.  
->À volonté : _détection de la magie_  
->3/jour chacun : _don des langues_  
->1/jour chacun : _invocation d'élémentaire_ (élémentaire du feu uniquement), _invisibilité, mur de feu_  
+>- À volonté : _détection de la magie_  
+>- 3/jour chacun : _don des langues_  
+>- 1/jour chacun : _invocation d'élémentaire_ (élémentaire du feu uniquement), _invisibilité, mur de feu_  
 >Action|**Attaques multiples**.  
 >Action|**Cimeterre**. +10, 1,50 m, 2d6+6 tranchants  
 >Action|**Jet de flammes**. +7, 36 m, 5d6 feu  
@@ -14250,8 +14250,8 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière_  
->Niv 1 (2) : _repli expéditif_  
+>- Sorts mineurs (à volonté) : _lumière_  
+>- Niv 1 (2) : _repli expéditif_  
 >Action|**Dague**. +2, 1,50 m ou 6/18 m, 1d4 perforants  
 >
 >_Extra (AideDD)_
@@ -14312,8 +14312,8 @@ ___
 >**Puissance** 23 (50000 PX)
 >
 >**Incantation innée**.  
->À volonté : _restauration supérieure, marche sur l'eau_  
->1/jour chacun : _tempête de feu, changement de plan_ (personnel uniquement)  
+>- À volonté : _restauration supérieure, marche sur l'eau_  
+>- 1/jour chacun : _tempête de feu, changement de plan_ (personnel uniquement)  
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
@@ -14351,12 +14351,12 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _réparation, message_  
->Niv 1 (4) : _projectile magique_  
->Niv 2 (3) : _invisibilité, suggestion\*_  
->Niv 3 (3) : _hâte, don des langues_  
->Niv 4 (3) : _domination de bête\*, peau de pierre_  
->Niv 5 (2) : _immobilisation de monstre_  
+>- Sorts mineurs (à volonté) : _réparation, message_  
+>- Niv 1 (4) : _projectile magique_  
+>- Niv 2 (3) : _invisibilité, suggestion\*_  
+>- Niv 3 (3) : _hâte, don des langues_  
+>- Niv 4 (3) : _domination de bête\*, peau de pierre_  
+>- Niv 5 (2) : _immobilisation de monstre_  
 >\* sort d'enchantement de niveau 1 ou supérieur  
 >Action|**Bâton**.  
 >Réaction|**Charme instinctif (Recharge après que l'enchanteur ait lancé un sort d'enchantement de niveau 1 ou supérieur)**.  
@@ -15070,9 +15070,9 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _prestidigitation_  
->Niv 1 (4) : _détection de la magie, rayon empoisonné_ (voir "Actions" ci-dessous)  
->Niv 2 (3) : _ténèbres, foulée brumeuse_  
+>- Sorts mineurs (à volonté) : _prestidigitation_  
+>- Niv 1 (4) : _détection de la magie, rayon empoisonné_ (voir "Actions" ci-dessous)  
+>- Niv 2 (3) : _ténèbres, foulée brumeuse_  
 >Action|**Attaques multiples**.  
 >Action|**Fléau de crâne en fer**. +2, 1,50 m, 1d8 contondants  
 >Action|**Rayon empoisonné (sort de niveau 1 ; requiert un de sort)**. +5, 18 m, 2d8 poison  
@@ -15235,13 +15235,13 @@ ___
 >**Puissance** 9 (5000 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière\*, rayon de givre\*_  
->Niv 1 (4) : _mains brûlantes\*, projectile magique\*_  
->Niv 2 (3) : _foulée brumeuse, fracassement\*_  
->Niv 3 (3) : _éclair\*_  
->Niv 4 (3) : _tempête de grêle\*, peau de pierre_  
->Niv 5 (2) : _cône de froid\*_  
->Niv 6 (1) : _chaîne d'éclairs\*, mur de glace\*_  
+>- Sorts mineurs (à volonté) : _lumière\*, rayon de givre\*_  
+>- Niv 1 (4) : _mains brûlantes\*, projectile magique\*_  
+>- Niv 2 (3) : _foulée brumeuse, fracassement\*_  
+>- Niv 3 (3) : _éclair\*_  
+>- Niv 4 (3) : _tempête de grêle\*, peau de pierre_  
+>- Niv 5 (2) : _cône de froid\*_  
+>- Niv 6 (1) : _chaîne d'éclairs\*, mur de glace\*_  
 >\* sort d'évocation  
 >**Façonneur de sorts**.  
 >Action|**Bâton**.  
@@ -15552,9 +15552,9 @@ ___
 >
 >**Sombre dévotion**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
->Niv 1 (4) : _injonction_  
->Niv 2 (3) : _immobilisation de personne_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
+>- Niv 1 (4) : _injonction_  
+>- Niv 2 (3) : _immobilisation de personne_  
 >Action|**Attaques multiples**.  
 >Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
@@ -15685,7 +15685,7 @@ ___
 >
 >**Aura de meurtre**.  
 >**Incantation innée**.  
->1/jour chacun: _déguisement, sanctuaire_  
+>- 1/jour chacun: _déguisement, sanctuaire_  
 >Action|**Attaques multiples**.  
 >Action|**Dague**. +7, 1,50 m ou 6/18 m, 1d4+5 perforants  
 >Action|**Linceul**.  
@@ -15810,8 +15810,8 @@ ___
 >
 >**Résistance à la magie**.  
 >**Incantation innée (psioniques)**.  
->À volonté : _détection des pensées, lévitation_  
->1/jour chacun : _changement de plan_ (personnel uniquement)  
+>- À volonté : _détection des pensées, lévitation_  
+>- 1/jour chacun : _changement de plan_ (personnel uniquement)  
 >Action|**Explosion de l'esprit (Recharge 5-6)**.  
 >Action|**Extraction de cerveau**.  
 >Action|**Tentacules**. +7, 1,50 m, 2d10+4 psychiques  
@@ -16050,7 +16050,7 @@ ___
 >Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >Action|**Poussière de pixie (1/jour)**.  
 >Action|**Incantation**.  
->À volonté : _lumières dansantes,
+>- À volonté : _lumières dansantes,
 >
 >Extra (Adventurers League)
 >{: .label .label.label-statblock }
@@ -16268,10 +16268,10 @@ ___
 >
 >**Aura de terreur**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
->Niv 1 (4) : _fléau, bénédiction, éclair traçant_ (voir "Actions" ci-dessous)  
->Niv 2 (3) : _cécité/surdité, silence_  
->Niv 3 (2) : _communication à distance, esprits gardiens_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
+>- Niv 1 (4) : _fléau, bénédiction, éclair traçant_ (voir "Actions" ci-dessous)  
+>- Niv 2 (3) : _cécité/surdité, silence_  
+>- Niv 3 (2) : _communication à distance, esprits gardiens_  
 >**Discipline tactique**.  
 >Action|**Attaques multiples**.  
 >Action|**Masse d'armes**. +7, 1,50 m, 1d6+4 contondants  
@@ -16636,9 +16636,9 @@ ___
 >
 >**Odorat aiguisé**.  
 >**Incantation innée**.  
->À volonté : _détection de la magie, lumière_  
->3/jour chacun : _foulée brumeuse, télékinésie_  
->1/jour chacun : _contrôle du climat, forme gazeuse_  
+>- À volonté : _détection de la magie, lumière_  
+>- 3/jour chacun : _foulée brumeuse, télékinésie_  
+>- 1/jour chacun : _contrôle du climat, forme gazeuse_  
 >Action|**Attaques multiples**.  
 >Action|**Morgenstern**. +12, 3 m, 3d8+8 perforants  
 >Action|**Rocher**. +12, 18/72 m, 4d10+8 contondants  
@@ -16706,14 +16706,14 @@ ___
 >**Puissance** 11 (7200 PX)
 >
 >**Incantation innée**.  
->À volonté : _détection de la magie, lumière_  
->3/jour chacun : _foulée brumeuse, télékinésie_  
->1/jour chacun : _contrôle du climat, forme gazeuse_  
+>- À volonté : _détection de la magie, lumière_  
+>- 3/jour chacun : _foulée brumeuse, télékinésie_  
+>- 1/jour chacun : _contrôle du climat, forme gazeuse_  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _moquerie cruelle_  
->Niv 1 (4) : _déguisement, fou rire de Tasha_  
->Niv 2 (3) : _invisibilité, suggestion_  
->Niv 3 (2) : _don des langues_  
+>- Sorts mineurs (à volonté) : _moquerie cruelle_  
+>- Niv 1 (4) : _déguisement, fou rire de Tasha_  
+>- Niv 2 (3) : _invisibilité, suggestion_  
+>- Niv 3 (2) : _don des langues_  
 >**Odorat aiguisé**.  
 >Action|**Attaques multiples**.  
 >Action|**Morgenstern**. +12, 3 m, 3d8+8 contondants  
@@ -16852,8 +16852,8 @@ ___
 >
 >**Amphibien**.  
 >**Incantation innée**.  
->À volonté : _détection de la magie, lévitation, lumière_  
->3/jour chacun : _contrôle du climat, respiration aquatique_  
+>- À volonté : _détection de la magie, lévitation, lumière_  
+>- 3/jour chacun : _contrôle du climat, respiration aquatique_  
 >Action|**Attaques multiples**.  
 >Action|**Épée à deux mains**. +14, 3 m, 6d6+9 tranchants  
 >Action|**Rocher**. +14, 18/72 m, 4d12+9 contondants  
@@ -17411,9 +17411,9 @@ ___
 >**Puissance** 8 (3900 PX)
 >
 >**Incantation innée (psioniques)**.  
->À volonté : _main de mage_ (la main est invisible)  
->3/jour chacun : _foulée brumeuse, antidétection_ (personnel uniquement), _don des langues_  
->1/jour chacun : _télékinésie_  
+>- À volonté : _main de mage_ (la main est invisible)  
+>- 3/jour chacun : _foulée brumeuse, antidétection_ (personnel uniquement), _don des langues_  
+>- 1/jour chacun : _télékinésie_  
 >Action|**Attaques multiples**.  
 >Action|**Épée à deux mains en argent**. +9, 1,50 m, 2d6+6 tranchants  
 >
@@ -17583,8 +17583,8 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Incantation innée (psioniques)**.  
->À volonté : _main de mage_ (la main est invisible)  
->3/jour chacun : _foulée brumeuse, antidétection_ (personnel uniquement)  
+>- À volonté : _main de mage_ (la main est invisible)  
+>- 3/jour chacun : _foulée brumeuse, antidétection_ (personnel uniquement)  
 >Action|**Attaques multiples**.  
 >Action|**Épée à deux mains**. +4, 1,50 m, 2d6+2 tranchants  
 >
@@ -17824,8 +17824,8 @@ ___
 >**Puissance** 2 (450 PX)
 >
 >**Incantation innée (psioniques)**.  
->À volonté : _main de mage_ (la main est invisible)  
->3/jour chacun : _bouclier_  
+>- À volonté : _main de mage_ (la main est invisible)  
+>- 3/jour chacun : _bouclier_  
 >**Défense psychique**.  
 >Action|**Attaques multiples**.  
 >Action|**Attaque à mains nues**. +4, 1,50 m, 1d8+2 contondants  
@@ -17858,9 +17858,9 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Incantation innée (psioniques)**.  
->À volonté : _main de mage_ (la main est invisible)  
->3/jour chacun : _bouclier_  
->1/jour chacun : _changement de plan_  
+>- À volonté : _main de mage_ (la main est invisible)  
+>- 3/jour chacun : _bouclier_  
+>- 1/jour chacun : _changement de plan_  
 >**Défense psychique**.  
 >Action|**Attaques multiples**.  
 >Action|**Attaque à mains nues**. +7, 1,50 m, 2d6+4 contondants  
@@ -17895,8 +17895,8 @@ ___
 >**Puissance** 9 (5000 PX)
 >
 >**Incantation innée**.  
->À volonté : _ténèbres, détection de la magie, dissipation de la magie_  
->1/jour chacun : _mot de pouvoir étourdissant_  
+>- À volonté : _ténèbres, détection de la magie, dissipation de la magie_  
+>- 1/jour chacun : _mot de pouvoir étourdissant_  
 >**Résistance à la magie**.  
 >Action|**Attaques multiples**.  
 >Action|**Pinces**. +9, 3 m, 2d10+5 contondants  
@@ -18253,8 +18253,8 @@ ___
 >**Camouflage dans les rochers**.  
 >**Ruse de gnome**.  
 >**Incantation innée**.  
->À volonté : _antidétection_ (personnel uniquement)  
->1/jour chacun : _cécité/surdité, déguisement_  
+>- À volonté : _antidétection_ (personnel uniquement)  
+>- 1/jour chacun : _cécité/surdité, déguisement_  
 >Action|**Pic de guerre**. +4, 1,50 m, 1d8+2 perforants  
 >Action|**Dard empoisonné**. +4, 9/36 m, 1d4+2 perforants  
 >
@@ -19004,9 +19004,9 @@ ___
 >
 >**Métamorphe**.  
 >**Incantation innée**.  
->À volonté : _couronne du dément, détection de la magie, murmures dissonants_  
->3/jour chacun : _ténèbres, télékinésie, téléportation_  
->1/jour chacun : _invisibilité supérieure_  
+>- À volonté : _couronne du dément, détection de la magie, murmures dissonants_  
+>- 3/jour chacun : _ténèbres, télékinésie, téléportation_  
+>- 1/jour chacun : _invisibilité supérieure_  
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
@@ -19546,9 +19546,9 @@ ___
 >**Peau vénéneuse**.  
 >**Saut sans élan**.  
 >**Incantation**.  
->Niv 1 (4) : _saut_  
->Niv 2 (3) : _peau d'écorce, croissance d'épines_  
->Niv 3 (2) : _croissance végétale_  
+>- Niv 1 (4) : _saut_  
+>- Niv 2 (3) : _peau d'écorce, croissance d'épines_  
+>- Niv 3 (2) : _croissance végétale_  
 >Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+3 perforants  
 >Action|**Arc court**. +5, 24/96 m, 1d6+3 perforants  
 >
@@ -19616,7 +19616,7 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Incantation innée**.  
->3/jour chacun : _déguisement_ (peut prendre la forme d'un humanoïde de taille M), _nappe de brouillard_  
+>- 3/jour chacun : _déguisement_ (peut prendre la forme d'un humanoïde de taille M), _nappe de brouillard_  
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +8, 1,50 m, 3d6+5 perforants  
 >Action|**Griffes**. +8, 1,50 m, 3d6+5 tranchants  
@@ -19691,9 +19691,9 @@ ___
 >**Magie de bâton-gris**.  
 >**Marche sur la glace**.  
 >**Incantation innée**.  
->À volonté : _rayon de givre_  
->3/jour chacun : _cône de froid\*, tempête de grêle\*, mur de glace\*_  
->1/jour chacun : _contrôle du climat_  
+>- À volonté : _rayon de givre_  
+>- 3/jour chacun : _cône de froid\*, tempête de grêle\*, mur de glace\*_  
+>- 1/jour chacun : _contrôle du climat_  
 >Action|**Coup**. +4, 1,50 m, 2d8+1 contondants  
 >Action|**Festin oppressant**.  
 >
@@ -19756,8 +19756,8 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Incantation innée**.  
->À volonté : _détection de la magie, projectile magique_  
->2/jour chacun : _sommeil_  
+>- À volonté : _détection de la magie, projectile magique_  
+>- 2/jour chacun : _sommeil_  
 >**Résistance à la magie**.  
 >Action|**Griffes (forme de guenaude uniquement)**. +7, 1,50 m, 2d8+4 tranchants  
 >Action|**Changement de forme**.  
@@ -19791,7 +19791,7 @@ ___
 >
 >**Amphibien**.  
 >**Incantation innée**.  
->À volonté : _lumières dansantes, moquerie cruelle_  
+>- À volonté : _lumières dansantes, moquerie cruelle_  
 >**Imitation**.  
 >Action|**Griffes**. +6, 1,50 m, 2d8+4 tranchants  
 >Action|**Apparence illusoire**.  
@@ -20077,12 +20077,12 @@ ___
 >**Inscrutable**.  
 >**Armes magiques**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _prestidigitation_  
->Niv 1 (4) : _détection de la magie, identification_  
->Niv 2 (3) : _ténèbres, suggestion_  
->Niv 3 (3) : _délivrance des malédictions, don des langues_  
->Niv 4 (3) : _invisibilité supérieure_  
->Niv 5 (1) : _Mythes et légendes_  
+>- Sorts mineurs (à volonté) : _prestidigitation_  
+>- Niv 1 (4) : _détection de la magie, identification_  
+>- Niv 2 (3) : _ténèbres, suggestion_  
+>- Niv 3 (3) : _délivrance des malédictions, don des langues_  
+>- Niv 4 (3) : _invisibilité supérieure_  
+>- Niv 5 (1) : _Mythes et légendes_  
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +8, 1,50 m, 2d8+4 tranchants  
 >Action Légendaire|**Attaque avec les griffes**.  
@@ -20466,11 +20466,11 @@ ___
 >**Avantage des arcanes**.  
 >**Arcanes de l'armée**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _poigne électrique_  
->Niv 1 (4) : _vague tonnante_  
->Niv 2 (3) : _flèche acide de Melf, rayon ardent_  
->Niv 3 (3) : _éclair_  
->Niv 4 (1) : _tempête de grêle_  
+>- Sorts mineurs (à volonté) : _poigne électrique_  
+>- Niv 1 (4) : _vague tonnante_  
+>- Niv 2 (3) : _flèche acide de Melf, rayon ardent_  
+>- Niv 3 (3) : _éclair_  
+>- Niv 4 (1) : _tempête de grêle_  
 >Action|**Bâton**. +3, 1,50 m, 1d6+1 contondants  
 >
 >_Volo´s Guide to Monsters_
@@ -20636,10 +20636,10 @@ ___
 >
 >**Apnée**.  
 >**Incantation (forme d'homme-lézard uniquement)**.  
->Sorts mineurs (à volonté) : _fouet épineux_  
->Niv 1 (4) : _enchevêtrement, nappe de brouillard_  
->Niv 2 (3) : _métal brûlant, croissance d'épines_  
->Niv 3 (2) : _croissance végétale_  
+>- Sorts mineurs (à volonté) : _fouet épineux_  
+>- Niv 1 (4) : _enchevêtrement, nappe de brouillard_  
+>- Niv 2 (3) : _métal brûlant, croissance d'épines_  
+>- Niv 3 (2) : _croissance végétale_  
 >Action|**Attaques multiples (forme d'homme-lézard uniquement)**.  
 >Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >Action|**Griffes (forme d'homme-lézard uniquement)**. +4, 1,50 m, 1d4+2 tranchants  
@@ -21263,11 +21263,11 @@ ___
 >**Puissance** 3 (700 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumières dansantes, bouffée de poison_  
->Niv 1 (4) : _déguisement\*, projectile magique_  
->Niv 2 (3) : _invisibilité\*, force fantasmagorique\*_  
->Niv 3 (3) : _monture fantôme\*_  
->Niv 4 (1) : _assassin imaginaire\*_  
+>- Sorts mineurs (à volonté) : _lumières dansantes, bouffée de poison_  
+>- Niv 1 (4) : _déguisement\*, projectile magique_  
+>- Niv 2 (3) : _invisibilité\*, force fantasmagorique\*_  
+>- Niv 3 (3) : _monture fantôme\*_  
+>- Niv 4 (1) : _assassin imaginaire\*_  
 >\* sort d'illusion de niveau 1 ou supérieur  
 >**Déplacement (Recharge après que l'illusionniste ait lancé un sort d'illusion de niveau 1 ou supérieur)**.  
 >Action|**Bâton**.  
@@ -21330,11 +21330,11 @@ ___
 >
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
->Sorts mineurs (à volonté) : _flamme sacrée_  
->Niv 1 (2) : _soins_  
+>- Sorts mineurs (à volonté) : _flamme sacrée_  
+>- Niv 1 (2) : _soins_  
 >**Incantation (mage)**.  
->Sorts mineurs (à volonté) : _lumière, trait de feu_  
->Niv 1 (2) : _sommeil_  
+>- Sorts mineurs (à volonté) : _lumière, trait de feu_  
+>- Niv 1 (2) : _sommeil_  
 >Action|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
@@ -21366,11 +21366,11 @@ ___
 >
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
->Sorts mineurs (à volonté) : _flamme sacrée_  
->Niv 1 (2) : _bénédiction, soins_  
+>- Sorts mineurs (à volonté) : _flamme sacrée_  
+>- Niv 1 (2) : _bénédiction, soins_  
 >**Incantation (mage)**.  
->Sorts mineurs (à volonté) : _lumière, trait de feu_  
->Niv 1 (2) : _mains brûlantes, sommeil_  
+>- Sorts mineurs (à volonté) : _lumière, trait de feu_  
+>- Niv 1 (2) : _mains brûlantes, sommeil_  
 >Action|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
@@ -21402,11 +21402,11 @@ ___
 >
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
->Sorts mineurs (à volonté) : _flamme sacrée_  
->Niv 1 (3) : _bénédiction, soins_  
+>- Sorts mineurs (à volonté) : _flamme sacrée_  
+>- Niv 1 (3) : _bénédiction, soins_  
 >**Incantation (mage)**.  
->Sorts mineurs (à volonté) : _lumière, trait de feu_  
->Niv 1 (3) : _mains brûlantes, sommeil_  
+>- Sorts mineurs (à volonté) : _lumière, trait de feu_  
+>- Niv 1 (3) : _mains brûlantes, sommeil_  
 >Action|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
@@ -21438,11 +21438,11 @@ ___
 >
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
->Sorts mineurs (à volonté) : _flamme sacrée, résistance_  
->Niv 1 (3) : _bénédiction, soins_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, résistance_  
+>- Niv 1 (3) : _bénédiction, soins_  
 >**Incantation (mage)**.  
->Sorts mineurs (à volonté) : _lumière, trait de feu_  
->Niv 1 (3) : _mains brûlantes, sommeil_  
+>- Sorts mineurs (à volonté) : _lumière, trait de feu_  
+>- Niv 1 (3) : _mains brûlantes, sommeil_  
 >Action|**Bâton**. +2, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
@@ -21474,13 +21474,13 @@ ___
 >
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
->Sorts mineurs (à volonté) : _flamme sacrée, résistance_  
->Niv 1 (4) : _bénédiction, soins_  
->Niv 2 (2) : _aide_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, résistance_  
+>- Niv 1 (4) : _bénédiction, soins_  
+>- Niv 2 (2) : _aide_  
 >**Incantation (mage)**.  
->Sorts mineurs (à volonté) : _lumière, trait de feu_  
->Niv 1 (4) : _mains brûlantes, sommeil_  
->Niv 2 (2) : _invisibilité_  
+>- Sorts mineurs (à volonté) : _lumière, trait de feu_  
+>- Niv 1 (4) : _mains brûlantes, sommeil_  
+>- Niv 2 (2) : _invisibilité_  
 >Action|**Bâton**. +3, 1,50 m, 1d6 contondants  
 >
 >_Rules (Essentials Kit)_
@@ -21512,13 +21512,13 @@ ___
 >
 >**Rôle magique**.  
 >**Incantation (guérisseur)**.  
->Sorts mineurs (à volonté) : _flamme sacrée, résistance_  
->Niv 1 (4) : _bénédiction, soins_  
->Niv 2 (2) : _aide_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, résistance_  
+>- Niv 1 (4) : _bénédiction, soins_  
+>- Niv 2 (2) : _aide_  
 >**Incantation (mage)**.  
->Sorts mineurs (à volonté) : _lumière, trait de feu_  
->Niv 1 (4) : _mains brûlantes, sommeil_  
->Niv 2 (2) : _invisibilité_  
+>- Sorts mineurs (à volonté) : _lumière, trait de feu_  
+>- Niv 1 (4) : _mains brûlantes, sommeil_  
+>- Niv 2 (2) : _invisibilité_  
 >**Sorts mineurs puissants**.  
 >Action|**Bâton**. +3, 1,50 m, 1d6 contondants  
 >
@@ -21550,12 +21550,12 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _bouffée de poison, prestidigitation_  
->Niv 1 (4) : _serviteur invisible\*_  
->Niv 2 (3) : _nuée de dagues\*, foulée brumeuse\*, toile d'araignée\*_  
->Niv 3 (3) : _nuage nauséabond\*_  
->Niv 4 (3) : _peau de pierre_  
->Niv 5 (2) : _invocation d'élémentaire\*_  
+>- Sorts mineurs (à volonté) : _bouffée de poison, prestidigitation_  
+>- Niv 1 (4) : _serviteur invisible\*_  
+>- Niv 2 (3) : _nuée de dagues\*, foulée brumeuse\*, toile d'araignée\*_  
+>- Niv 3 (3) : _nuage nauséabond\*_  
+>- Niv 4 (3) : _peau de pierre_  
+>- Niv 5 (2) : _invocation d'élémentaire\*_  
 >\* sort d'invocation de niveau 1 ou supérieur  
 >**Transport bénin (Recharge après que l'invocateur ait lancé un sort d'invocation de niveau 1 ou supérieur)**.  
 >Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
@@ -21588,10 +21588,10 @@ ___
 >
 >**Préservation de la vie (Recharge après un repos court ou long)**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _flamme sacrée, lumière, stabilisation_  
->Niv 1 (4) : _détection du mal et du bien, éclair traçant, soins_  
->Niv 2 (3) : _restauration partielle_  
->Niv 3 (3) : _esprits gardiens_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, lumière, stabilisation_  
+>- Niv 1 (4) : _détection du mal et du bien, éclair traçant, soins_  
+>- Niv 2 (3) : _restauration partielle_  
+>- Niv 3 (3) : _esprits gardiens_  
 >Action|**Épée longue**.  
 >Action|**Renvoi des morts-vivants (Recharge après un repos court ou long)**.  
 >
@@ -21824,22 +21824,22 @@ ___
 >**Puissance** 12 (8400 PX)
 >
 >**Incantation innée**.  
->À volonté : _image majeure_ (lancé au niveau 6), _marche sur le vent_  
->1/jour : _création de nourriture et d'eau_  
+>- À volonté : _image majeure_ (lancé au niveau 6), _marche sur le vent_  
+>- 1/jour : _création de nourriture et d'eau_  
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, réparation, flamme sacrée, thaumaturgie_  
->Niv 1 (4) : _détection du mal et du bien, sanctuaire_  
->Niv 2 (3) : _apaisement des émotions, silence_  
->Niv 3 (3) : _délivrance des malédictions, communication à distance_  
->Niv 4 (3) : _liberté de mouvement, gardien de la foi_  
->Niv 5 (3) : _restauration supérieure, scrutation_  
->Niv 6 (1) : _festin des héros, vision suprême_  
->Niv 7 (1) : _forme éthérée, changement de plan_  
->Niv 8 (1) : _contrôle du climat_  
->Niv 9 (1) : _résurrection suprême_  
+>- Sorts mineurs (à volonté) : _lumière, réparation, flamme sacrée, thaumaturgie_  
+>- Niv 1 (4) : _détection du mal et du bien, sanctuaire_  
+>- Niv 2 (3) : _apaisement des émotions, silence_  
+>- Niv 3 (3) : _délivrance des malédictions, communication à distance_  
+>- Niv 4 (3) : _liberté de mouvement, gardien de la foi_  
+>- Niv 5 (3) : _restauration supérieure, scrutation_  
+>- Niv 6 (1) : _festin des héros, vision suprême_  
+>- Niv 7 (1) : _forme éthérée, changement de plan_  
+>- Niv 8 (1) : _contrôle du climat_  
+>- Niv 9 (1) : _résurrection suprême_  
 >Action|**Attaques multiples**.  
 >Action|**Sabot**. +9, 4,50 m, 2d4+5 contondants  
 >Action|**Corne**. +9, 1,50 m, 2d8+5 perforants  
@@ -22180,8 +22180,8 @@ ___
 >
 >**Corde de cheveux**.  
 >**Incantation innée**.  
->À volonté : _façonnage de la pierre_  
->1/jour chacun : _invocation d'élémentaire_ (comme un sort de niveau 6 ; galeb duhr, gargouille, élémentaire de terre ou xorn uniquement), _danse irrésistible d'Otto_  
+>- À volonté : _façonnage de la pierre_  
+>- 1/jour chacun : _invocation d'élémentaire_ (comme un sort de niveau 6 ; galeb duhr, gargouille, élémentaire de terre ou xorn uniquement), _danse irrésistible d'Otto_  
 >**Camouflage dans les rochers**.  
 >**Force de la pierre**.  
 >Action|**Attaques multiples**.  
@@ -22484,12 +22484,12 @@ ___
 >**Visqueux**.  
 >**Sensibilité au soleil**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
->Niv 1 (4) : _détection de la magie, bouclier de la foi_  
->Niv 2 (3) : _arme spirituelle_  
->Niv 3 (3) : _don des langues_  
->Niv 4 (3) : _contrôle de l'eau, divination_  
->Niv 5 (2) : _soins de groupe_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
+>- Niv 1 (4) : _détection de la magie, bouclier de la foi_  
+>- Niv 2 (3) : _arme spirituelle_  
+>- Niv 3 (3) : _don des langues_  
+>- Niv 4 (3) : _contrôle de l'eau, divination_  
+>- Niv 5 (2) : _soins de groupe_  
 >Action|**Attaques multiples**.  
 >Action|**Sceptre**. +6, 1,50 m, 1d6+3 contondants  
 >Action|**Attaque à mains nues**. +6, 1,50 m, 1d4+3 contondants  
@@ -22525,8 +22525,8 @@ ___
 >**Visqueux**.  
 >**Sensibilité au soleil**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
->Niv 1 (3) : _fléau_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
+>- Niv 1 (3) : _fléau_  
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 >Action|**Bâton à pinces**. +4, 3 m, 1d6+2 perforants  
@@ -22720,16 +22720,16 @@ ___
 >**Équipement spécial**.  
 >**Résistance à la magie**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, rayon de givre_  
->Niv 1 (à volonté) : _détection de la magie, déguisement, projectile magique, bouclier_  
->Niv 2 (à volonté) : _détection des pensées, invisibilité, foulée brumeuse_  
->Niv 3 (3) : _communication à distance, langues_  
->Niv 4 (3) : _invisibilité supérieure, sphère résiliente d'Otiluke_  
->Niv 5 (3) : _cône de froid, quête, lien télépathique de Rary_  
->Niv 6 (2) : _globe d'invulnérabilité, suggestion de groupe_  
->Niv 7 (1) : _téléportation_  
->Niv 8 (1) : _mot de pouvoir étourdissant_  
->Niv 9 (1) : _arrêt du temps_  
+>- Sorts mineurs (à volonté) : _lumière, rayon de givre_  
+>- Niv 1 (à volonté) : _détection de la magie, déguisement, projectile magique, bouclier_  
+>- Niv 2 (à volonté) : _détection des pensées, invisibilité, foulée brumeuse_  
+>- Niv 3 (3) : _communication à distance, langues_  
+>- Niv 4 (3) : _invisibilité supérieure, sphère résiliente d'Otiluke_  
+>- Niv 5 (3) : _cône de froid, quête, lien télépathique de Rary_  
+>- Niv 6 (2) : _globe d'invulnérabilité, suggestion de groupe_  
+>- Niv 7 (1) : _téléportation_  
+>- Niv 8 (1) : _mot de pouvoir étourdissant_  
+>- Niv 9 (1) : _arrêt du temps_  
 >Action|**Attaques multiples**.  
 >Action|**Cheveux d'argent**. +11, 1,50 m, 2d6 force  
 >Action|**Épée ardente**. +7, 1,50 m, 1d8+1 tranchants  
@@ -22792,9 +22792,9 @@ ___
 >**Puissance** 4 (1100 PX)
 >
 >**Incantation innée**.  
->À volonté : _déguisement_ (n'importe quelle forme humanoïde), _image majeure_  
->3/jour : _suggestion_  
->1/jour : _quête_  
+>- À volonté : _déguisement_ (n'importe quelle forme humanoïde), _image majeure_  
+>- 3/jour : _suggestion_  
+>- 1/jour : _quête_  
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +5, 1,50 m, 2d10+3 tranchants  
 >Action|**Dague**. +5, 1,50 m, 1d4+3 perforants  
@@ -22828,10 +22828,10 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Incantation innée**.  
->À volonté : _amitié avec les animaux_ (serpents uniquement)  
->3/jour chacun : _bouffée de poison_  
+>- À volonté : _amitié avec les animaux_ (serpents uniquement)  
+>- 3/jour chacun : _bouffée de poison_  
 >**Amulette du rêveur**.  
->2/jour chacun : _couronne du dément, rayon empoisonné, sommeil_  
+>- 2/jour chacun : _couronne du dément, rayon empoisonné, sommeil_  
 >**Résistance à la magie**.  
 >Action|**Attaques multiples**.  
 >Action|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
@@ -23134,16 +23134,16 @@ ___
 >**Résistance légendaire (3/jour)**.  
 >**Reconstitution**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _rayon de givre_  
->Niv 1 (4) : _détection de la magie, vague tonnante_  
->Niv 2 (3) : _détection des pensées, invisibilité, flèche acide de Melf, image miroir_  
->Niv 3 (3) : _boule de feu_  
->Niv 4 (3) : _flétrissement, porte dimensionnelle_  
->Niv 5 (3) : _scrutation_  
->Niv 6 (1) : _désintégration, globe d'invulnérabilité_  
->Niv 7 (1) : _changement de plan_  
->Niv 8 (1) : _mot de pouvoir étourdissant_  
->Niv 9 (1) : _mot de pouvoir mortel_  
+>- Sorts mineurs (à volonté) : _rayon de givre_  
+>- Niv 1 (4) : _détection de la magie, vague tonnante_  
+>- Niv 2 (3) : _détection des pensées, invisibilité, flèche acide de Melf, image miroir_  
+>- Niv 3 (3) : _boule de feu_  
+>- Niv 4 (3) : _flétrissement, porte dimensionnelle_  
+>- Niv 5 (3) : _scrutation_  
+>- Niv 6 (1) : _désintégration, globe d'invulnérabilité_  
+>- Niv 7 (1) : _changement de plan_  
+>- Niv 8 (1) : _mot de pouvoir étourdissant_  
+>- Niv 9 (1) : _mot de pouvoir mortel_  
 >**Résistance au renvoi**.  
 >Action|**Contact paralysant**. +12, 1,50 m, 3d6 froid  
 >Action Légendaire|**Sort mineur**.  
@@ -23179,8 +23179,8 @@ ___
 >
 >**Charge**.  
 >**Incantation innée**.  
->À volonté : _détection du mal et du bien, passage sans trace_  
->1/jour chacun : _apaisement des émotions, enchevêtrement, dissipation du mal et du bien_  
+>- À volonté : _détection du mal et du bien, passage sans trace_  
+>- 1/jour chacun : _apaisement des émotions, enchevêtrement, dissipation du mal et du bien_  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >Action|**Attaques multiples**.  
@@ -23534,12 +23534,12 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, prestidigitation_  
->Niv 1 (4) : _détection de la magie, projectile magique_  
->Niv 2 (3) : _foulée brumeuse, suggestion_  
->Niv 3 (3) : _vol_  
->Niv 4 (3) : _invisibilité supérieure, tempête de grêle_  
->Niv 5 (1) : _cône de froid_  
+>- Sorts mineurs (à volonté) : _lumière, prestidigitation_  
+>- Niv 1 (4) : _détection de la magie, projectile magique_  
+>- Niv 2 (3) : _foulée brumeuse, suggestion_  
+>- Niv 3 (3) : _vol_  
+>- Niv 4 (3) : _invisibilité supérieure, tempête de grêle_  
+>- Niv 5 (1) : _cône de froid_  
 >Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
 >_Monster Manual (SRD)_
@@ -23607,7 +23607,7 @@ ___
 >Explosion arcanique.  
 >Révélation accablante (Recharge 5–6).  
 >Incantation.  
->Présage (3/jour).  
+>- Présage (3/jour).  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -23869,10 +23869,10 @@ ___
 >
 >**Magie de la tombe**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _prestidigitation_  
->Niv 1 (4) : _mains brûlantes, détection de la magie, rayon empoisonné_ (voir "Actions" ci-dessous), _bouclier_  
->Niv 2 (3) : _ténèbres, foulée brumeuse, rayon ardent_ (voir "Actions" ci-dessous)  
->Niv 3 (2) : _boule de feu_  
+>- Sorts mineurs (à volonté) : _prestidigitation_  
+>- Niv 1 (4) : _mains brûlantes, détection de la magie, rayon empoisonné_ (voir "Actions" ci-dessous), _bouclier_  
+>- Niv 2 (3) : _ténèbres, foulée brumeuse, rayon ardent_ (voir "Actions" ci-dessous)  
+>- Niv 3 (2) : _boule de feu_  
 >Action|**Attaques multiples**.  
 >Action|**Fléau de crâne en argent**. +2, 1,50 m, 1d8 contondants  
 >Action|**Contact glacial (sort mineur)**. +6, 36 m, 2d8 nécrotiques  
@@ -23979,11 +23979,11 @@ ___
 >
 >**Équipement spécial**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, trait de feu_  
->Niv 1 (4) : _compréhension des langues\*, détection de la magie\*, feuille morte_  
->Niv 2 (3) : _ténèbres_  
->Niv 3 (3) : _vol_  
->Niv 4 (1) : _tempête de grêle_  
+>- Sorts mineurs (à volonté) : _lumière, trait de feu_  
+>- Niv 1 (4) : _compréhension des langues\*, détection de la magie\*, feuille morte_  
+>- Niv 2 (3) : _ténèbres_  
+>- Niv 3 (3) : _vol_  
+>- Niv 4 (1) : _tempête de grêle_  
 >\* sort de divination de niveau 1 ou supérieur  
 >**Présage (Recharge après qu'il ait lancé un sort de divination de niveau 1 ou supérieur)**.  
 >Action|**Bâton**. +2, 1,50 m, 1d6 contondants  
@@ -24234,9 +24234,9 @@ ___
 >**Amphibien**.  
 >**Disparition élémentaire**.  
 >**Incantation innée**.  
->À volonté : _création ou destruction d'eau, détection du mal et du bien, détection de la magie, nappe de brouillard, purification de nourriture et d'eau_  
->3/jour chacun : _marche sur l'eau_  
->1/jour chacun : _invocation d'élémentaire_ (élémentaire de l'eau uniquement), _contrôle de l'eau, invisibilité, changement de plan_  
+>- À volonté : _création ou destruction d'eau, détection du mal et du bien, détection de la magie, nappe de brouillard, purification de nourriture et d'eau_  
+>- 3/jour chacun : _marche sur l'eau_  
+>- 1/jour chacun : _invocation d'élémentaire_ (élémentaire de l'eau uniquement), _contrôle de l'eau, invisibilité, changement de plan_  
 >Action|**Attaques multiples**.  
 >Action|**Trident**. +10, 1,50 m ou 6/18 m, 2d6+6 perforants  
 >Action|**Jet d'eau**.  
@@ -24926,9 +24926,9 @@ ___
 >
 >**Équipement spécial**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, bouffée de poison_  
->Niv 1 (4) : _trait ensorcelé, sommeil_  
->Niv 2 (3) : _flèche acide de Melf, sphère de feu, vision dans le noir_  
+>- Sorts mineurs (à volonté) : _lumière, bouffée de poison_  
+>- Niv 1 (4) : _trait ensorcelé, sommeil_  
+>- Niv 2 (3) : _flèche acide de Melf, sphère de feu, vision dans le noir_  
 >Action|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+1 perforants  
 >
 >
@@ -24962,8 +24962,8 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Incantation innée**.  
->2/jour chacun : _ténèbres, dissipation de la magie_  
->1/jour : _brume mortelle_  
+>- 2/jour chacun : _ténèbres, dissipation de la magie_  
+>- 1/jour : _brume mortelle_  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >Action|**Attaques multiples**.  
@@ -25228,8 +25228,8 @@ ___
 >**Puissance** 21 (33000 PX)
 >
 >**Incantation innée**.  
->À volonté : _modification d'apparence_ (peut être de catégorie de taille M lorsqu'il change d'apparence), _mains brûlantes_ (lancé comme un sort de niveau 7), _détection de la magie, quête, nuage nauséabond, mur de feu_  
->1/jour chacun : _symbole_ (étourdissant uniquement)  
+>- À volonté : _modification d'apparence_ (peut être de catégorie de taille M lorsqu'il change d'apparence), _mains brûlantes_ (lancé comme un sort de niveau 7), _détection de la magie, quête, nuage nauséabond, mur de feu_  
+>- 1/jour chacun : _symbole_ (étourdissant uniquement)  
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
@@ -25648,13 +25648,13 @@ ___
 >
 >**Amphibien**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _réparation, poigne électrique_  
->Niv 1 (4) : _détection de la magie, trait ensorcelé_  
->Niv 2 (3) : _ténèbres, détection des pensées, fracassement_  
->Niv 3 (3) : _éclair, communication à distance_  
->Niv 4 (3) : _tentacules noirs d'Evard_  
->Niv 5 (3) : _quête, scrutation_  
->Niv 6 (1) : _chaîne d'éclairs_  
+>- Sorts mineurs (à volonté) : _réparation, poigne électrique_  
+>- Niv 1 (4) : _détection de la magie, trait ensorcelé_  
+>- Niv 2 (3) : _ténèbres, détection des pensées, fracassement_  
+>- Niv 3 (3) : _éclair, communication à distance_  
+>- Niv 4 (3) : _tentacules noirs d'Evard_  
+>- Niv 5 (3) : _quête, scrutation_  
+>- Niv 6 (1) : _chaîne d'éclairs_  
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +6, 1,50 m, 2d6+2 tranchants  
 >Action|**Tentacules**. +6, 1,50 m, 3d8+2 contondants  
@@ -25986,12 +25986,12 @@ ___
 >
 >**Reconstitution**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _rayon de givre_  
->Niv 1 (4) : _détection de la magie, sommeil_  
->Niv 2 (3) : _détection des pensées, immobilisation de personne_  
->Niv 3 (3) : _éclair, respiration aquatique_  
->Niv 4 (3) : _flétrissement, porte dimensionnelle_  
->Niv 5 (2) : _domination de personne_  
+>- Sorts mineurs (à volonté) : _rayon de givre_  
+>- Niv 1 (4) : _détection de la magie, sommeil_  
+>- Niv 2 (3) : _détection des pensées, immobilisation de personne_  
+>- Niv 3 (3) : _éclair, respiration aquatique_  
+>- Niv 4 (3) : _flétrissement, porte dimensionnelle_  
+>- Niv 5 (2) : _domination de personne_  
 >Action|**Morsure**. +7, 3 m, 1d6+4 perforants  
 >
 >_Monster Manual (SRD)_
@@ -26023,13 +26023,13 @@ ___
 >
 >**Reconstitution**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _réparation, flamme sacrée, thaumaturgie_  
->Niv 1 (4) : _bouclier de la foi_  
->Niv 2 (3) : _apaisement des émotions, immobilisation de personne_  
->Niv 3 (3) : _malédiction, clairvoyance_  
->Niv 4 (3) : _liberté de mouvement_  
->Niv 5 (2) : _quête_  
->Niv 6 (1) : _vision suprême_  
+>- Sorts mineurs (à volonté) : _réparation, flamme sacrée, thaumaturgie_  
+>- Niv 1 (4) : _bouclier de la foi_  
+>- Niv 2 (3) : _apaisement des émotions, immobilisation de personne_  
+>- Niv 3 (3) : _malédiction, clairvoyance_  
+>- Niv 4 (3) : _liberté de mouvement_  
+>- Niv 5 (2) : _quête_  
+>- Niv 6 (1) : _vision suprême_  
 >Action|**Morsure**. +8, 3 m, 1d8+4 perforants  
 >Action|**Crachat empoisonné**.  
 >
@@ -26060,16 +26060,16 @@ ___
 >**Puissance** 4 (1100 PX)
 >
 >**Incantation**.  
->Si le naga était un naga gardien lorsqu'il était en vie, sa caractéristique d'incantation est la Sagesse, et il a préparé les sorts de clerc suivants :  
->Sorts mineurs (à volonté) : _réparation, flamme sacrée, thaumaturgie_  
->Niv 1 (4) : _bouclier de la foi_  
->Niv 2 (3) : _apaisement des émotions, immobilisation de personne_  
->Niv 3 (2) : _malédiction_  
->Si le naga était un naga corrupteur lorsqu'il était en vie, sa caractéristique d'incantation est l'Intelligence, et il a préparé les sorts de magicien suivants :  
->Sorts mineurs (à volonté) : _rayon de givre_  
->Niv 1 (4) : _sommeil_  
->Niv 2 (3) : _détection des pensées, immobilisation de personne_  
->Niv 3 (2) : _éclair_  
+>- Si le naga était un naga gardien lorsqu'il était en vie, sa caractéristique d'incantation est la Sagesse, et il a préparé les sorts de clerc suivants :  
+>- Sorts mineurs (à volonté) : _réparation, flamme sacrée, thaumaturgie_  
+>- Niv 1 (4) : _bouclier de la foi_  
+>- Niv 2 (3) : _apaisement des émotions, immobilisation de personne_  
+>- Niv 3 (2) : _malédiction_  
+>- Si le naga était un naga corrupteur lorsqu'il était en vie, sa caractéristique d'incantation est l'Intelligence, et il a préparé les sorts de magicien suivants :  
+>- Sorts mineurs (à volonté) : _rayon de givre_  
+>- Niv 1 (4) : _sommeil_  
+>- Niv 2 (3) : _détection des pensées, immobilisation de personne_  
+>- Niv 3 (2) : _éclair_  
 >Action|**Morsure**. +5, 3 m, 2d6+3 perforants
 >
 >_Monster Manual_
@@ -26281,13 +26281,13 @@ ___
 >**Puissance** 9 (5000 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumières dansantes, réparation_  
->Niv 1 (4) : _rayon empoisonné\*_  
->Niv 2 (3) : _cécité/surdité\*, toile d'araignée_  
->Niv 3 (3) : _malédiction\*, toucher du vampire\*_  
->Niv 4 (3) : _flétrissement\*, peau de pierre_  
->Niv 5 (2) : _brume mortelle_  
->Niv 6 (1) : _cercle de mort\*_  
+>- Sorts mineurs (à volonté) : _lumières dansantes, réparation_  
+>- Niv 1 (4) : _rayon empoisonné\*_  
+>- Niv 2 (3) : _cécité/surdité\*, toile d'araignée_  
+>- Niv 3 (3) : _malédiction\*, toucher du vampire\*_  
+>- Niv 4 (3) : _flétrissement\*, peau de pierre_  
+>- Niv 5 (2) : _brume mortelle_  
+>- Niv 6 (1) : _cercle de mort\*_  
 >\* sort de nécromancie de niveau 1 ou supérieur  
 >**Sinistre moisson (1/tour)**.  
 >Action|**Toucher flétrissant**. +7, 1,50 m, 2d4 nécrotiques  
@@ -26550,8 +26550,8 @@ ___
 >**Résistance mentale**.  
 >**Pattes d'araignée**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 mètres, bonus de +4 à chaque jet de dégâts), _moquerie cruelle_  
->Nivx 1-4 (2 de niveau 4) : _voracité de Hadar, invisibilité, serviteur invisible_  
+>- Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 mètres, bonus de +4 à chaque jet de dégâts), _moquerie cruelle_  
+>- Nivx 1-4 (2 de niveau 4) : _voracité de Hadar, invisibilité, serviteur invisible_  
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +5, 1,50 m, 1d6+3 perforants  
 >Action|**Griffes**. +5, 1,50 m, 2d4+3 tranchants  
@@ -26618,8 +26618,8 @@ ___
 >
 >**Perception des créatures**.  
 >**Incantation innée (psioniques)**.  
->À volonté : _lévitation_  
->1/jour chacun : _télékinésie_  
+>- À volonté : _lévitation_  
+>- 1/jour chacun : _télékinésie_  
 >**Résistance à la magie**.  
 >Action|**Tentacules**. +13, 4,50 m, 3d8+8 contondants  
 >Action|**Souffle d'acide (Recharge 5-6)**.  
@@ -26747,8 +26747,8 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Incantation innée**.  
->À volonté : _moquerie cruelle_  
->1/jour : _confusion_  
+>- À volonté : _moquerie cruelle_  
+>- 1/jour : _confusion_  
 >**Nilebogisme**.  
 >**Fuite agile**.  
 >Action|**Sceptre du sot**. +4, 1,50 m, 1d6+2 contondants  
@@ -27059,8 +27059,8 @@ ___
 >
 >**Éclairage**.  
 >**Incantation innée (psioniques)**.  
->À volonté : _compréhension des langues, détection des pensées_  
->1/jour chacun : _domination de monstre_  
+>- À volonté : _compréhension des langues, détection des pensées_  
+>- 1/jour chacun : _domination de monstre_  
 >**Nuée**.  
 >**Voile télépathique**.  
 >Action|**Morsure**. +5, , 4d6 perforants  
@@ -27252,7 +27252,7 @@ ___
 >**Puissance** 9 (5000 PX)
 >
 >**Incantation innée**.  
->À volonté : _ténèbres, détection de la magie, invisibilité_ (personnel uniquement), _image miroir_  
+>- À volonté : _ténèbres, détection de la magie, invisibilité_ (personnel uniquement), _image miroir_  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >Action|**Attaques multiples**.  
@@ -27538,8 +27538,8 @@ ___
 >Action|**Rapière**. +5, , 1d8+3 perforants  
 >Action|**Mot déconcertant**.  
 >Action|**Incantation**.  
->À volonté : _lumières dansantes, déguisement, communication avec les animaux_  
->1/jour chacun : _immobilisation de monstre_  
+>- À volonté : _lumières dansantes, déguisement, communication avec les animaux_  
+>- 1/jour chacun : _immobilisation de monstre_  
 >Réaction|**Échappatoire brumeuse (Recharge après un repos court ou long)**.  
 >
 >_Monsters of the Multiverse_
@@ -27571,11 +27571,11 @@ ___
 >**Puissance** 4 (1100 PX)
 >
 >**Incantation innée**.  
->À volonté : _déguisement, communication avec les animaux_  
->1/jour : _invocation de fée_  
+>- À volonté : _déguisement, communication avec les animaux_  
+>- 1/jour : _invocation de fée_  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _décharge occulte, lumières dansantes, moquerie cruelle_  
->Niv 1-5 (3 de niveau 5) : _domination de bête, lueurs féeriques, foulée brumeuse, apparence trompeuse_  
+>- Sorts mineurs (à volonté) : _décharge occulte, lumières dansantes, moquerie cruelle_  
+>- Niv 1-5 (3 de niveau 5) : _domination de bête, lueurs féeriques, foulée brumeuse, apparence trompeuse_  
 >Action|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >Réaction|**Échappatoire brumeuse (Recharge après un repos court ou long)**.  
 >
@@ -27613,8 +27613,8 @@ ___
 >Action|**Cimeterre**. +6, , 1d6+3 contondants  
 >Action|**Feu de l'enfer**.  
 >Action|**Incantation**.  
->À volonté : _prestidigitation_  
->1/jour chacun : _suggestion_  
+>- À volonté : _prestidigitation_  
+>- 1/jour chacun : _suggestion_  
 >Réaction|**Représailles fiélonnes (3/jour)**.  
 >
 >_Monsters of the Multiverse_
@@ -27646,11 +27646,11 @@ ___
 >**Puissance** 7 (2900 PX)
 >
 >**Incantation innée**.  
->À volonté : _lévitation (personnel uniquement), image silencieuse_  
->1/jour chacun : _changement de plan_  
+>- À volonté : _lévitation (personnel uniquement), image silencieuse_  
+>- 1/jour chacun : _changement de plan_  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _décharge occulte, poigne électrique_  
->Nivx 1 à 5 (4 de niveau 5) : _mains brûlantes, représailles infernales, nuage nauséabond, mur de feu_  
+>- Sorts mineurs (à volonté) : _décharge occulte, poigne électrique_  
+>- Nivx 1 à 5 (4 de niveau 5) : _mains brûlantes, représailles infernales, nuage nauséabond, mur de feu_  
 >**Chance du ténébreux (Recharge après un repos court ou long)**.  
 >Action|**Masse d'armes**. +3, 1,50 m, 1d6 contondants  
 >
@@ -27688,8 +27688,8 @@ ___
 >Action|**Dague**. +6, 1,50 m ou 6/18 m, 1d4+3 perforants  
 >Action|**Vide hurlant**.  
 >Action|**Incantation**.  
->À volonté : _détection de la magie, assistance, lévitation, communication avec les morts_  
->1/jour chacun : _détection des pensées, vision suprême_  
+>- À volonté : _détection de la magie, assistance, lévitation, communication avec les morts_  
+>- 1/jour chacun : _détection des pensées, vision suprême_  
 >
 >_Monsters of the Multiverse_
 >{: .label .label.label-statblock }
@@ -27720,11 +27720,11 @@ ___
 >**Puissance** 6 (2300 PX)
 >
 >**Incantation innée**.  
->À volonté : _détection de la magie, lévitation, communication avec les morts_  
->1/jour chacun : _vision suprême, portail magique_  
+>- À volonté : _détection de la magie, lévitation, communication avec les morts_  
+>- 1/jour chacun : _vision suprême, portail magique_  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _décharge occulte, poigne électrique_  
->Niv 1-5 (3 de niveau 5) : _couronne du dément, détection des pensées, domination de bête, télékinésie, toucher du vampire_  
+>- Sorts mineurs (à volonté) : _décharge occulte, poigne électrique_  
+>- Niv 1-5 (3 de niveau 5) : _couronne du dément, détection des pensées, domination de bête, télékinésie, toucher du vampire_  
 >**Aura chuchotante**.  
 >Action|**Dague**. +5, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
@@ -28261,8 +28261,8 @@ ___
 >**Puissance** 7 (2900 PX)
 >
 >**Incantation innée**.  
->À volonté : _ténèbres, invisibilité_  
->1/jour chacun : _cône de froid, sommeil_  
+>- À volonté : _ténèbres, invisibilité_  
+>- 1/jour chacun : _cône de froid, sommeil_  
 >**Armes magiques**.  
 >**Régénération**.  
 >Action|**Attaques multiples**.  
@@ -28423,10 +28423,10 @@ ___
 >
 >**Agressif**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _réparation, résistance, thaumaturgie_  
->Niv 1 (4) : _fléau, éclair traçant_  
->Niv 2 (3) : _lien de protection_  
->Niv 3 (2) : _malédiction, création de nourriture et d'eau_  
+>- Sorts mineurs (à volonté) : _réparation, résistance, thaumaturgie_  
+>- Niv 1 (4) : _fléau, éclair traçant_  
+>- Niv 2 (3) : _lien de protection_  
+>- Niv 3 (2) : _malédiction, création de nourriture et d'eau_  
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +4, 1,50 m, 1d8+2 tranchants  
 >
@@ -28492,9 +28492,9 @@ ___
 >
 >**Agressif**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _réparation, résistance, thaumaturgie_  
->Niv 1 (4) : _fléau, détection de la magie, protection contre le mal et le bien_  
->Niv 2 (3) : _cécité/surdité, silence_  
+>- Sorts mineurs (à volonté) : _réparation, résistance, thaumaturgie_  
+>- Niv 1 (4) : _fléau, détection de la magie, protection contre le mal et le bien_  
+>- Niv 2 (3) : _cécité/surdité, silence_  
 >Action|**Toucher de la Main blanche**. +3, 1,50 m, 2d8 nécrotiques  
 >
 >_Volo´s Guide to Monsters_
@@ -28526,9 +28526,9 @@ ___
 >**Agressif**.  
 >**Furie de Gruumsh**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _résistance, thaumaturgie_  
->Niv 1 (4) : _bénédiction, injonction_  
->Niv 2 (2) :_
+>- Sorts mineurs (à volonté) : _résistance, thaumaturgie_  
+>- Niv 1 (4) : _bénédiction, injonction_  
+>- Niv 2 (2) :_
 {: .statblock5e }
 
 ___
@@ -28603,9 +28603,9 @@ ___
 >
 >**Baguette d'Orcus**.  
 >**Incantation innée**.  
->À volonté : _contact glacial_ (niveau 17), _détection de la magie_  
->3/jour chacun : _création de mort-vivant, dissipation de la magie_  
->1/jour : _arrêt du temps_  
+>- À volonté : _contact glacial_ (niveau 17), _détection de la magie_  
+>- 3/jour chacun : _création de mort-vivant, dissipation de la magie_  
+>- 1/jour : _arrêt du temps_  
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
@@ -29474,8 +29474,8 @@ ___
 >
 >**Résistance à la magie**.  
 >**Incantation innée**.  
->À volonté : _druidisme_  
->1/jour chacun : _lumières dansantes, détection du mal et du bien, détection des pensées, enchevêtrement, métamorphose, sommeil_  
+>- À volonté : _druidisme_  
+>- 1/jour chacun : _lumières dansantes, détection du mal et du bien, détection des pensées, enchevêtrement, métamorphose, sommeil_  
 >Action|**Invisibilité supérieure**.  
 >
 >_Monster Manual_
@@ -29510,9 +29510,9 @@ ___
 >**Armes angéliques**.  
 >**Conscience divine**.  
 >**Incantation innée**.  
->À volonté : _détection du mal et du bien, invisibilité_ (personnel uniquement)  
->3/jour chacun : _barrière de lames, rappel à la vie_  
->1/jour chacun : _contrôle du climat, fléau d'insectes_  
+>- À volonté : _détection du mal et du bien, invisibilité_ (personnel uniquement)  
+>- 3/jour chacun : _barrière de lames, rappel à la vie_  
+>- 1/jour chacun : _contrôle du climat, fléau d'insectes_  
 >**Résistance à la magie**.  
 >Action|**Attaques multiples**.  
 >Action|**Épée à deux mains**. +12, 1,50 m, 4d6+7 tranchants  
@@ -29800,10 +29800,10 @@ ___
 >
 >**Distinction divine**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
->Niv 1 (4) : _éclair traçant, soins_  
->Niv 2 (3) : _restauration partielle_  
->Niv 3 (2) : _esprits gardiens_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
+>- Niv 1 (4) : _éclair traçant, soins_  
+>- Niv 2 (3) : _restauration partielle_  
+>- Niv 3 (2) : _esprits gardiens_  
 >Action|**Masse d'armes**. +2, 1,50 m, 1d6 contondants  
 >
 >_Monster Manual (SRD)_
@@ -29837,8 +29837,8 @@ ___
 >Action|**Maillet**.  
 >Action|**Feu sacré**.  
 >Action|**Incantation**.  
->À volonté : _lumière, thaumaturgie_  
->1/jour chacun : _retour à la vie_  
+>- À volonté : _lumière, thaumaturgie_  
+>- 1/jour chacun : _retour à la vie_  
 >Action Bonus|**Lumière de guérison (Recharge 4-6)**.  
 >
 >_Monsters of the Multiverse_
@@ -29869,12 +29869,12 @@ ___
 >**Puissance** 9 (5000 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, réparation, flamme sacrée, stabilisation_  
->Niv 1 (4) : _éclair traçant, mot de guérison, bouclier de la foi_  
->Niv 2 (3) : _prière de guérison, arme spirituelle_  
->Niv 3 (3) : _aura du croisé, retour à la vie, marche sur l'eau_  
->Niv 4 (3) : _liberté de mouvement, peau de pierre_  
->Niv 5 (1) : _immobilisation de monstre_  
+>- Sorts mineurs (à volonté) : _lumière, réparation, flamme sacrée, stabilisation_  
+>- Niv 1 (4) : _éclair traçant, mot de guérison, bouclier de la foi_  
+>- Niv 2 (3) : _prière de guérison, arme spirituelle_  
+>- Niv 3 (3) : _aura du croisé, retour à la vie, marche sur l'eau_  
+>- Niv 4 (3) : _liberté de mouvement, peau de pierre_  
+>- Niv 5 (1) : _immobilisation de monstre_  
 >Action|**Attaques multiples**.  
 >Action|**Maillet**.  
 >Réaction|**Frappe guidée (Recharge après un repos court ou long)**.  
@@ -29911,9 +29911,9 @@ ___
 >Action|**Contact tonitruant**. +5, 1,50 m, 5d10 tonnerre  
 >Action|**Coup de tonnerre**. +5, , 2d10 foudre  
 >Action|**Incantation innée**.  
->À volonté : _création ou destruction d'eau_  
->3/jour chacun : _contrôle de l'eau, ténèbres, marche sur l'eau_  
->1/jour : _tentacules noirs d'Evard_  
+>- À volonté : _création ou destruction d'eau_  
+>- 3/jour chacun : _contrôle de l'eau, ténèbres, marche sur l'eau_  
+>- 1/jour : _tentacules noirs d'Evard_  
 >Action|**Voix du kraken (Recharge après un repos court ou long)**.  
 >
 >_Monsters of the Multiverse_
@@ -29945,9 +29945,9 @@ ___
 >
 >**Amphibien**.  
 >**Incantation innée**.  
->À volonté : _création ou destruction d'eau_  
->3/jour chacun : _contrôle de l'eau, ténèbres, marche sur l'eau_  
->1/jour chacun : _tentacules noirs d'Evard_  
+>- À volonté : _création ou destruction d'eau_  
+>- 3/jour chacun : _contrôle de l'eau, ténèbres, marche sur l'eau_  
+>- 1/jour chacun : _tentacules noirs d'Evard_  
 >Action|**Contact tonitruant**. +5, 1,50 m, 5d10 tonnerre  
 >Action|**Voix du kraken (Recharge après un repos court ou long)**.  
 >
@@ -30322,9 +30322,9 @@ ___
 >
 >**Immunité magique partielle**.  
 >**Incantation innée**.  
->À volonté : _déguisement, détection des pensées, main de mage_  
->3/jour chacun : _détection de la magie, invisibilité, suggestion_  
->1/jour chacun : _vision suprême, vol_  
+>- À volonté : _déguisement, détection des pensées, main de mage_  
+>- 3/jour chacun : _détection de la magie, invisibilité, suggestion_  
+>- 1/jour chacun : _vision suprême, vol_  
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +7, 1,50 m, 2d6+2 tranchants  
 >
@@ -31440,9 +31440,9 @@ ___
 >
 >**Sombre dévotion**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
->Niv 1 (4) : _injonction_  
->Niv 2 (3) : _immobilisation de personne_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
+>- Niv 1 (4) : _injonction_  
+>- Niv 2 (3) : _immobilisation de personne_  
 >Action|**Attaques multiples**.  
 >Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
@@ -31539,9 +31539,9 @@ ___
 >
 >Action|**Poigne électrique (sort mineur)**. +6, , 2d8 foudre  
 >Action|**Incantation**.  
->À volonté : _lumière, réparation_  
->3/jour chacun : _compréhension des langues, détection de la magie, identification_  
->1/jour chacun : _lévitation, localisation d'objet, voir l'invisible, communication à distance, don des langues, serviteur invisible_  
+>- À volonté : _lumière, réparation_  
+>- 3/jour chacun : _compréhension des langues, détection de la magie, identification_  
+>- 1/jour chacun : _lévitation, localisation d'objet, voir l'invisible, communication à distance, don des langues, serviteur invisible_  
 >Réaction|**Bouclier (sort de niveau 1 ; 3/jour)**.  
 >
 >
@@ -31575,9 +31575,9 @@ ___
 >Action|**Poigne électrique (sort mineur)**. +8, , 3d8 foudre  
 >Action|**Boule de feu (sort de niveau 3 ; 3/jour)**.  
 >Action|**Incantation**.  
->À volonté : _lumière, réparation, prestidigitation_  
->3/jour chacun : _compréhension des langues, détection de la magie, lévitation, localisation d'objet, disque flottant de Tenser, serviteur invisible_  
->1/jour chacun : _bannissement, contact avec un autre plan, convocations instantanées de Drawmij, mythes et légendes, localisation de créature, contrat, métamorphose, scrutation, communication à distance, vision suprême_  
+>- À volonté : _lumière, réparation, prestidigitation_  
+>- 3/jour chacun : _compréhension des langues, détection de la magie, lévitation, localisation d'objet, disque flottant de Tenser, serviteur invisible_  
+>- 1/jour chacun : _bannissement, contact avec un autre plan, convocations instantanées de Drawmij, mythes et légendes, localisation de créature, contrat, métamorphose, scrutation, communication à distance, vision suprême_  
 >Réaction|**Bouclier (sort de niveau 1 ; 3/jour)**.  
 >
 >
@@ -31679,10 +31679,10 @@ ___
 >**Amphibie limitée**.  
 >**Télépathie avec les requins**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _thaumaturgie_  
->Niv 1 (4) : _bénédiction, détection de la magie, éclair traçant_  
->Niv 2 (3) : _arme spirituelle_ (trident)  
->Niv 3 (3) : _mot de guérison de groupe, don des langues_  
+>- Sorts mineurs (à volonté) : _thaumaturgie_  
+>- Niv 1 (4) : _bénédiction, détection de la magie, éclair traçant_  
+>- Niv 2 (3) : _arme spirituelle_ (trident)  
+>- Niv 3 (3) : _mot de guérison de groupe, don des langues_  
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +3, 1,50 m, 1d4+1 tranchants  
 >Action|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
@@ -31908,9 +31908,9 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, poigne électrique_  
->Niv 1 (4) : _projectile magique_  
->Niv 2 (3) : _foulée brumeuse, immobilisation de personne_  
+>- Sorts mineurs (à volonté) : _lumière, poigne électrique_  
+>- Niv 1 (4) : _projectile magique_  
+>- Niv 2 (3) : _foulée brumeuse, immobilisation de personne_  
 >Action|**Bâton**.  
 >
 >_Extra (Adventurers League)_
@@ -32239,13 +32239,13 @@ ___
 >**Résistance à la magie**.  
 >**Reconstitution**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
->Niv 1 (4) : _éclair traçant, injonction_  
->Niv 2 (3) : _silence_  
->Niv 3 (3) : _dissipation de la magie_  
->Niv 4 (3) : _gardien de la foi_  
->Niv 5 (2) : _fléau d'insectes_  
->Niv 6 (1) : _contamination_  
+>- Sorts mineurs (à volonté) : _flamme sacrée, thaumaturgie_  
+>- Niv 1 (4) : _éclair traçant, injonction_  
+>- Niv 2 (3) : _silence_  
+>- Niv 3 (3) : _dissipation de la magie_  
+>- Niv 4 (3) : _gardien de la foi_  
+>- Niv 5 (2) : _fléau d'insectes_  
+>- Niv 6 (1) : _contamination_  
 >Action|**Attaques multiples**.  
 >Action|**Poings putréfiants**. +9, 1,50 m, 3d6+4 contondants  
 >Action|**Regard d'épouvante**.  
@@ -33053,8 +33053,8 @@ ___
 >
 >**Contamination**.  
 >**Incantation innée**.  
->À volonté : _immobilisation de monstre_  
->3/jour : _esprit faible_  
+>- À volonté : _immobilisation de monstre_  
+>- 3/jour : _esprit faible_  
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >Action|**Attaques multiples**.  
@@ -33157,9 +33157,9 @@ ___
 >
 >**Métamorphe**.  
 >**Incantation innée**.  
->À volonté : _détection de la magie, détection des pensées, invisibilité_ (personnel uniquement), _image majeure_  
->2/jour chacun : _don des langues_  
->1/jour chacun : _changement de plan_  
+>- À volonté : _détection de la magie, détection des pensées, invisibilité_ (personnel uniquement), _image majeure_  
+>- 2/jour chacun : _don des langues_  
+>- 1/jour chacun : _changement de plan_  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Régénération**.  
@@ -33197,9 +33197,9 @@ ___
 >
 >**Métamorphe**.  
 >**Incantation innée**.  
->À volonté : _détection de la magie, détection des pensées, invisibilité_ (personnel uniquement), _image majeure_  
->2/jour chacun : _don des langues_  
->1/jour : _changement de plan_ (personnel uniquement)  
+>- À volonté : _détection de la magie, détection des pensées, invisibilité_ (personnel uniquement), _image majeure_  
+>- 2/jour chacun : _don des langues_  
+>- 1/jour : _changement de plan_ (personnel uniquement)  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Régénération**.  
@@ -33300,9 +33300,9 @@ ___
 >
 >**Métamorphe**.  
 >**Incantation innée**.  
->À volonté : _détection de la magie, détection des pensées, main de mage_  
->2/jour chacun : _invisibilité_ (personnel)  
->1/jour : _boule de feu_  
+>- À volonté : _détection de la magie, détection des pensées, main de mage_  
+>- 2/jour chacun : _invisibilité_ (personnel)  
+>- 1/jour : _boule de feu_  
 >**Résistance à la magie**.  
 >**Régénération**.  
 >Action|**Attaques multiples**.  
@@ -33344,9 +33344,9 @@ ___
 >**Armes angéliques**.  
 >**Conscience divine**.  
 >**Incantation innée**.  
->À volonté : _détection du mal et du bien, invisibilité_ (personnel uniquement)  
->3/jour chacun : _barrière de lames, résurrection_  
->1/jour chacun : _contrôle du climat_  
+>- À volonté : _détection du mal et du bien, invisibilité_ (personnel uniquement)  
+>- 3/jour chacun : _barrière de lames, résurrection_  
+>- 1/jour chacun : _contrôle du climat_  
 >**Résistance à la magie**.  
 >Action|**Attaques multiples**.  
 >Action|**Épée à deux mains**. +15, 1,50 m, 4d6+8 tranchants  
@@ -35089,13 +35089,13 @@ ___
 >**Puissance** 5 (1800 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, réparation, rayon de givre_  
->Niv 1 (4) : _repli expéditif\*, armure de mage_  
->Niv 2 (3) : _déblocage\*_  
->Niv 3 (3) : _lenteur\*_  
->Niv 4 (3) : _métamorphose\*, peau de pierre_  
->Niv 5 (1) : _télékinésie\*_  
->\* sort de transmutation de niveau 1 ou supérieur  
+>- Sorts mineurs (à volonté) : _lumière, réparation, rayon de givre_  
+>- Niv 1 (4) : _repli expéditif\*, armure de mage_  
+>- Niv 2 (3) : _déblocage\*_  
+>- Niv 3 (3) : _lenteur\*_  
+>- Niv 4 (3) : _métamorphose\*, peau de pierre_  
+>- Niv 5 (1) : _télékinésie\*_  
+>- \* sort de transmutation de niveau 1 ou supérieur  
 >**Pierre du transmutateur**.  
 >• vision dans le noir 18 mètres  
 >• 3 mètres de vitesse supplémentaires si le porteur n'est pas encombré  
@@ -35428,8 +35428,8 @@ ___
 >**Amphibien**.  
 >**Incantation innée**.  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _lumière, prestidigitation_  
->Nivx 1-2 (2 de niveau 2) : _mains brûlantes, sphère de feu, représailles infernales, rayon ardent_  
+>- Sorts mineurs (à volonté) : _lumière, prestidigitation_  
+>- Nivx 1-2 (2 de niveau 2) : _mains brûlantes, sphère de feu, représailles infernales, rayon ardent_  
 >**Bénédiction d'Imix**.  
 >Action|**Morgenstern**. +3, 1,50 m, 1d8+1 perforants  
 >
@@ -35462,11 +35462,11 @@ ___
 >**Puissance** 7 (2900 PX)
 >
 >**Incantation innée**.  
->À volonté : _lévitation (personnel uniquement), oeil magique_  
->1/jour chacun : _esprit faible_  
+>- À volonté : _lévitation (personnel uniquement), oeil magique_  
+>- 1/jour chacun : _esprit faible_  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _décharge occulte, bouffée de poison_  
->Nivx 1 à 5 (4 de niveau 5) : _représailles infernales, mains brûlantes, nuage nauséabond, représailles infernales, suggestion_  
+>- Sorts mineurs (à volonté) : _décharge occulte, bouffée de poison_  
+>- Nivx 1 à 5 (4 de niveau 5) : _représailles infernales, mains brûlantes, nuage nauséabond, représailles infernales, suggestion_  
 >**Chance du ténébreux (Recharge après un repos court ou long)**.  
 >Action|**Masse d'armes**. +3, 1,50 m, 1d6 contondants  
 >
@@ -36028,8 +36028,8 @@ ___
 >**Résistance à la magie**.  
 >**Relai psionique**.  
 >**Incantation innée (psioniques)**.  
->À volonté : _détection des pensées, lévitation_  
->1/jour chacun : _télékinésie, changement de plan_ (personnel uniquement)  
+>- À volonté : _détection des pensées, lévitation_  
+>- 1/jour chacun : _télékinésie, changement de plan_ (personnel uniquement)  
 >Action|**Tentacules**. +9, 3 m, 4d10+5 psychiques  
 >Action|**Extraction de cerveau**. +9, 1,50 m, 10d10 perforants  
 >Action|**Explosion de l'esprit (Recharge 5-6)**.  
@@ -36064,9 +36064,9 @@ ___
 >**Puissance** 13 (10000 PX)
 >
 >**Incantation innée**.  
->À volonté : _ténèbres, détection de la magie, détection des pensées, invisibilité_ (personnel uniquement), _suggestion_  
->3/jour chacun : _mur de feu_  
->1/jour chacun : _tempête de feu, suggestion de groupe_  
+>- À volonté : _ténèbres, détection de la magie, détection des pensées, invisibilité_ (personnel uniquement), _suggestion_  
+>- 3/jour chacun : _mur de feu_  
+>- 1/jour chacun : _tempête de feu, suggestion de groupe_  
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >Action|**Attaques multiples**.  
@@ -36492,9 +36492,9 @@ ___
 >Action|**Volée des damnés (Recharge 5–6)**.  
 >Action|**Destin funeste**.  
 >Action|**Incantation**.  
->À volonté : _animation des morts_ (par une action), _détection de la magie, dissipation de la magie, éclair, main de mage, prestidigitation, vol_  
->2/jour chacun : _invisibilité, porte dimensionnelle, scrutation_ (par une action)  
->1/jour chacun : _changement de plan_ (personnel uniquement), _domination de monstre, globe d'invulnérabilité_  
+>- À volonté : _animation des morts_ (par une action), _détection de la magie, dissipation de la magie, éclair, main de mage, prestidigitation, vol_  
+>- 2/jour chacun : _invisibilité, porte dimensionnelle, scrutation_ (par une action)  
+>- 1/jour chacun : _changement de plan_ (personnel uniquement), _domination de monstre, globe d'invulnérabilité_  
 >Action Bonus|**Téléportation néfaste**.  
 >Vecna peut effectuer jusqu'à trois réactions par round mais une seule par tour.  
 >Réaction|**Contresort effroyable**.  
@@ -36844,8 +36844,8 @@ ___
 >**Puissance** 1/4 (50 PX)
 >
 >**Incantation**.  
->Sorts mineurs (à volonté) : _réparation, trait de feu_  
->Niv 1 (2) : _déguisement, mains brûlantes_  
+>- Sorts mineurs (à volonté) : _réparation, trait de feu_  
+>- Niv 1 (2) : _déguisement, mains brûlantes_  
 >Action|**Bâton**.  
 >
 >_Extra (Adventurers League)_
@@ -37112,11 +37112,11 @@ ___
 >**Puissance** 4 (1100 PX)
 >
 >**Incantation innée**.  
->À volonté : _lévitation, communication avec les morts_  
->1/jour chacun : _vision suprême_  
+>- À volonté : _lévitation, communication avec les morts_  
+>- 1/jour chacun : _vision suprême_  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _décharge occulte, protection contre les armes_  
->Niv 1-5 (3 de niveau 5) : _compréhension des langues, couronne du dément, détection des pensées_  
+>- Sorts mineurs (à volonté) : _décharge occulte, protection contre les armes_  
+>- Niv 1-5 (3 de niveau 5) : _compréhension des langues, couronne du dément, détection des pensées_  
 >**Nature immortelle**.  
 >Action|**Dague**. +3, 1,50 m ou 6/18 m, 1d4+2 perforants  
 >
@@ -37280,10 +37280,10 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Incantation innée**.  
->À volonté : _détection de la magie, armure de mage_ (personnel uniquement)  
+>- À volonté : _détection de la magie, armure de mage_ (personnel uniquement)  
 >**Incantation**.  
->Sorts mineurs (à volonté) : _décharge occulte, bouffée de poison, prestidigitation_  
->Nivx 1-2 (2 de niveau 2) : _mains brûlantes, repli expéditif, invisibilité, rayon ardent_  
+>- Sorts mineurs (à volonté) : _décharge occulte, bouffée de poison, prestidigitation_  
+>- Nivx 1-2 (2 de niveau 2) : _mains brûlantes, repli expéditif, invisibilité, rayon ardent_  
 >**Action fourbe mineure**.  
 >**Bénédiction de Raxivort**.  
 >**Langue de Raxivort**.  
@@ -37584,8 +37584,8 @@ ___
 >**Résistance à la magie**.  
 >**Pattes d'araignée**.  
 >**Incantation innée**.  
->À volonté : _détection des pensées, toile d'araignée_  
->1/jour : _domination de personne_  
+>- À volonté : _détection des pensées, toile d'araignée_  
+>- 1/jour : _domination de personne_  
 >**Déplacement sur la toile**.  
 >Action|**Attaques multiples**.  
 >Action|**Coup (Morsure sous forme d'araignée)**. +6, 1,50 m, 1d6+2 contondants  
@@ -37621,9 +37621,9 @@ ___
 >
 >**Métamorphe**.  
 >**Incantation innée (forme d'abomination uniquement)**.  
->À volonté : _amitié avec les animaux_ (serpents uniquement)  
->3/jour : _suggestion_  
->1/jour : _peur_  
+>- À volonté : _amitié avec les animaux_ (serpents uniquement)  
+>- 3/jour : _suggestion_  
+>- 1/jour : _peur_  
 >**Résistance à la magie**.  
 >Action|**Attaques multiples (forme d'abomination uniquement)**.  
 >Action|**Morsure**. +7, 1,50 m, 1d6+4 perforants  
@@ -37701,9 +37701,9 @@ ___
 >**Puissance** 12 (8400 PX)
 >
 >**Incantation innée (forme d'anathème uniquement)**.  
->À volonté : _amitié avec les animaux_ (serpents uniquement)  
->3/jour chacun : _ténèbres, enchevêtrement, peur, hâte, suggestion, polymorphe_  
->1/jour : _parole divine_  
+>- À volonté : _amitié avec les animaux_ (serpents uniquement)  
+>- 3/jour chacun : _ténèbres, enchevêtrement, peur, hâte, suggestion, polymorphe_  
+>- 1/jour : _parole divine_  
 >**Résistance à la magie**.  
 >**Aura d'ophidiophobie**.  
 >**Métamorphe**.  
@@ -37785,12 +37785,12 @@ ___
 >**Métamorphe**.  
 >**Crocs de la mort (2/jour)**.  
 >**Incantation innée (forme de yuan-ti uniquement)**.  
->À volonté : _amitié avec les animaux_ (serpents uniquement)  
->3/jour : _suggestion_  
+>- À volonté : _amitié avec les animaux_ (serpents uniquement)  
+>- 3/jour : _suggestion_  
 >**Résistance à la magie**.  
 >**Incantation (forme de yuan-ti uniquement)**.  
->Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 m, bonus de +3 à chaque jet de dégâts), _bouffée de poison, prestidigitation_  
->Niv 1 à 3 (2 de niveau 3) : _ténèbres, maléfice, voracité de Hadar, trait ensorcelé_  
+>- Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 m, bonus de +3 à chaque jet de dégâts), _bouffée de poison, prestidigitation_  
+>- Niv 1 à 3 (2 de niveau 3) : _ténèbres, maléfice, voracité de Hadar, trait ensorcelé_  
 >Action|**Attaques multiples (forme de yuan-ti uniquement)**.  
 >Action|**Constriction**. +5, 3 m, 2d6+3 contondants  
 >Action|**Cimeterre (forme de yuan-ti uniquement)**. +5, 1,50 m, 1d6+3 tranchants  
@@ -37867,13 +37867,13 @@ ___
 >
 >**Métamorphe**.  
 >**Incantation innée (forme de yuan-ti uniquement)**.  
->À volonté : _amitié avec les animaux_ (serpents uniquement)  
->3/jour : _suggestion_  
+>- À volonté : _amitié avec les animaux_ (serpents uniquement)  
+>- 3/jour : _suggestion_  
 >**Résistance à la magie**.  
 >**Crocs de l'esprit (2/jour)**.  
 >**Incantation (forme de yuan-ti uniquement)**.  
->Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 mètres, bonus de +3 à chaque jet de dégâts), _bouffée de poison, prestidigitation_  
->Niv 1-3 (2 de niveau 3) : _couronne du dément, détection des pensées, repli expéditif, texte illusoire_  
+>- Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 mètres, bonus de +3 à chaque jet de dégâts), _bouffée de poison, prestidigitation_  
+>- Niv 1-3 (2 de niveau 3) : _couronne du dément, détection des pensées, repli expéditif, texte illusoire_  
 >**Bénédiction de Sseth**.  
 >Action|**Attaques multiples (forme de yuan-ti uniquement)**.  
 >Action|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
@@ -38019,13 +38019,13 @@ ___
 >
 >**Métamorphe**.  
 >**Incantation innée (forme de yuan-ti uniquement)**.  
->À volonté : _amitié avec les animaux_ (serpents uniquement)  
->3/jour : _suggestion_  
+>- À volonté : _amitié avec les animaux_ (serpents uniquement)  
+>- 3/jour : _suggestion_  
 >**Résistance à la magie**.  
 >**Disciple du poison (2/jour)**.  
 >**Incantation (forme de yuan-ti uniquement)**.  
->Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 mètres, bonus de +3 à chaque jet de dégâts), _bouffée de poison_  
->Niv 1-3 (2 de niveau 3) : _représailles infernales, invisibilité, invisibilité, serviteur invisible, toucher du vampire_  
+>- Sorts mineurs (à volonté) : _décharge occulte_ (portée 90 mètres, bonus de +3 à chaque jet de dégâts), _bouffée de poison_  
+>- Niv 1-3 (2 de niveau 3) : _représailles infernales, invisibilité, invisibilité, serviteur invisible, toucher du vampire_  
 >Action|**Attaques multiples (forme Yuan-ti uniquement)**.  
 >Action|**Morsure**. +5, 1,50 m, 1d4+3 perforants  
 >Action|**Sommeil de Merrshaulk (1/jour)**.  
@@ -38060,8 +38060,8 @@ ___
 >
 >**Métamorphe**.  
 >**Incantation innée (forme de yuan-ti uniquement)**.  
->À volonté : _amitié avec les animaux_ (serpents uniquement)  
->3/jour : _suggestion_  
+>- À volonté : _amitié avec les animaux_ (serpents uniquement)  
+>- 3/jour : _suggestion_  
 >**Résistance à la magie**.  
 >**Type de malison**.  
 >Type 1 : Corps humain et tête de serpent.  
@@ -38110,8 +38110,8 @@ ___
 >**Puissance** 1 (200 PX)
 >
 >**Incantation innée**.  
->À volonté : _amitié avec les animaux_ (serpents uniquement)  
->3/jour chacun : _bouffée de poison_  
+>- À volonté : _amitié avec les animaux_ (serpents uniquement)  
+>- 3/jour chacun : _bouffée de poison_  
 >**Résistance à la magie**.  
 >Action|**Attaques multiples**.  
 >Action|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
@@ -38284,8 +38284,8 @@ ___
 >**Vision de diable**.  
 >**Armes ardentes**.  
 >**Incantation innée**.  
->À volonté : _détection du mal et du bien, invisibilité_ (personnel uniquement), _mur de feu_  
->3/jour chacun : _barrière de lames, doigt de mort_  
+>- À volonté : _détection du mal et du bien, invisibilité_ (personnel uniquement), _mur de feu_  
+>- 3/jour chacun : _barrière de lames, doigt de mort_  
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
 >**Régénération**.  
