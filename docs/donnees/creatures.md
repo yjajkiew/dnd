@@ -45,6 +45,8 @@ ___
 >**Langues** aérien, aarakocra  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Attaque en piqué**. Si l'aarakocra vole sur au moins 9 mètres en ligne droite vers une cible, puis la touche lors d'une attaque au corps à corps avec une arme, l'attaque inflige 3 (1d6) dégâts supplémentaires à la cible.
 >
 >Action|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
@@ -83,7 +85,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >**Vision de diable**.  
 >**Résistance à la magie**.  
@@ -128,6 +132,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Vision de diable**.  
 >**Résistance à la magie**.  
@@ -174,7 +180,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 17 (18000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -219,6 +227,8 @@ ___
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 17 (18000 PX)
 >
+>___
+>
 >Vision de diable.  
 >Résistance à la magie.  
 >Armes magiques.  
@@ -262,7 +272,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -306,6 +318,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -351,7 +365,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 19 (22000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -398,6 +414,8 @@ ___
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 19 (22000 PX)
 >
+>___
+>
 >Vision de diable.  
 >Résistance à la magie.  
 >Armes magiques.  
@@ -443,7 +461,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 15 (13000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -487,6 +507,8 @@ ___
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 15 (13000 PX)
 >
+>___
+>
 >Vision de diable.  
 >Incantation innée.  
 >Résistance à la magie.  
@@ -527,6 +549,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumières dansantes, réparation, rayon de givre_  
@@ -577,6 +601,8 @@ ___
 >**Langues** profond, télépathie 36 m  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Nuage de mucus**.  
 >**Pénétration télépathique**.
@@ -620,7 +646,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** comprend le commun et le draconique mais ne peut pas parler  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Miasme écoeurant.  
 >Régénération.  
@@ -665,6 +693,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 22  
 >**Langues** abyssal, commun, commun des profondeurs, draconique, elfique, géant, infernal, nain, primordial  
 >**Puissance** 23 (50000 PX)
+>
+>___
 >
 >Équipement spécial.  
 >Résistance légendaire (3/jour).  
@@ -712,6 +742,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
 >- Niv 1 (3) : _bénédiction, soins_  
@@ -747,7 +779,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Faim de vie.  
 >Attaques multiples.  
@@ -786,7 +820,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 16  
 >**Langues** commun  
 >**Puissance** 13 (10000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Colère montante.  
 >Deux têtes.  
@@ -824,7 +860,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Tactique de groupe misérable.  
 >Morsure.  
@@ -861,7 +899,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Bras épineux.  
@@ -899,7 +939,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Suceur psychique.  
 >Avantage sur les groupes.  
@@ -939,6 +981,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Vue aiguisée**.
 >
 >Action|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
@@ -974,6 +1018,8 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** Un aigle géant comprend le commun et l'aérien mais ne peut pas les parler  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Vue aiguisée**.
 >
@@ -1016,7 +1062,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 17  
 >**Langues** profond, commun des profondeurs, télépathie 36 m  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Résistance à la magie.  
 >Résistance au renvoi.  
@@ -1063,6 +1111,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 17  
 >**Langues** profond, commun des profondeurs, télépathie 36 m  
 >**Puissance** 10 (5900 PX)
+>
+>___
 >
 >**Résistance à la magie**.  
 >**Incantation innée (psioniques)**.  
@@ -1116,7 +1166,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Faille abyssale.  
 >Informe.  
@@ -1164,6 +1216,8 @@ ___
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 11 (7200 PX)
 >
+>___
+>
 >Informe.  
 >Apparence trompeuse.  
 >Fomentation de la folie.  
@@ -1207,6 +1261,8 @@ ___
 >**Langues** les langues qu'elle connaissait de son vivant  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >Déplacement intangible.  
 >Nature insolite.  
 >Contact perturbant.  
@@ -1249,6 +1305,8 @@ ___
 >**Langues** les langues qu'elle connaissait de son vivant  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Déplacement intangible**.
 >
 >Action|**Contact perturbant**. +6, 1,50 m, 4d6+3 psychiques  
@@ -1286,6 +1344,8 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** —  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Bond agressif**.
 >
@@ -1327,6 +1387,8 @@ ___
 >**Langues** les langues qu'elle connaissait de son vivant  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Déplacement intangible**.  
 >**Sensibilité au soleil**.
 >
@@ -1366,7 +1428,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Mépris du renvoi.  
 >Nature insolite.  
@@ -1411,6 +1475,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >Fureur martiale.  
 >Mépris du renvoi.  
 >Attaques multiples.  
@@ -1451,7 +1517,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Nature insolite.  
 >Hache d'armes.  
@@ -1492,6 +1560,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Fureur martiale.  
 >Épée longue.  
 >Arc long.  
@@ -1531,7 +1601,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 17  
 >**Langues** commun, infernal, télépathie 300 m  
 >**Puissance** 18 (20000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -1578,6 +1650,8 @@ ___
 >**Langues** commun, infernal, télépathie 300 m  
 >**Puissance** 18 (20000 PX)
 >
+>___
+>
 >Vision de diable.  
 >Incantation innée.  
 >Résistance à la magie.  
@@ -1622,6 +1696,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 20  
 >**Langues** commun, sphinx  
 >**Puissance** 17 (18000 PX)
+>
+>___
 >
 >**Inscrutable**.  
 >**Armes magiques**.  
@@ -1674,6 +1750,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Action|**Morsure**. +5, 1,50 m, 2d6+3 tranchants  
 >Action|**Vaporisation d'acide (Recharge 6)**.  
 >
@@ -1708,6 +1786,8 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Action|**Queue**. +7, 3 m, 4d6+4 contondants  
 >
 >_Monster Manual (BR)_
@@ -1741,7 +1821,9 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Action|**Explosion arcanique**. +4, , 1d10+2 force  
 >Action|**Incantation**.  
@@ -1773,6 +1855,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _réparation, prestidigitation_  
@@ -1811,6 +1895,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** commun, elfique, orc, géant  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumières dansantes, message_  
@@ -1857,6 +1943,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Pattes d'araignée**.  
 >**Sens de la toile**.  
 >**Déplacement sur la toile**.
@@ -1894,7 +1982,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** —  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Pattes d'araignée.  
 >Saut extraordinaire.  
@@ -1933,6 +2023,8 @@ ___
 >**Langues** —  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Pattes d'araignée**.  
 >**Saut extraordinaire**.
 >
@@ -1970,7 +2062,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Pattes d'araignée.  
 >Saut extraordinaire.  
@@ -2008,6 +2102,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Pattes d'araignée**.  
 >**Saut extraordinaire**.
@@ -2047,6 +2143,8 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Saut éthérée**.  
 >**Pattes d'araignée**.  
 >**Déplacement sur la toile**.
@@ -2084,6 +2182,8 @@ ___
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Déplacement sur la toile**.  
 >**Pattes d'araignée**.  
@@ -2124,6 +2224,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Déplacement sur la toile**.  
 >**Pattes d'araignée**.  
 >**Sens de la toile**.
@@ -2163,6 +2265,8 @@ ___
 >**Langues** une langue connue par son créateur  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Apparence trompeuse**.
 >
 >Action|**Coup**. +6, 3 m, 3d6+4 contondants  
@@ -2199,6 +2303,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** une langue connue par son créateur  
 >**Puissance** 0 (10 PX)
+>
+>___
 >
 >**Apparence trompeuse**.
 >
@@ -2238,6 +2344,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 17  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 12 (8400 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _ténèbres, métal brûlant, invisibilité_ (personnel uniquement), _projectile magique_  
@@ -2287,7 +2395,9 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Épée courte**. +6, 1,50 m, 1d6+4 perforants  
@@ -2325,6 +2435,8 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Oeil de l'archer (3/jour)**.
 >
@@ -2364,7 +2476,9 @@ ___
 >**Sens** Perception passive 19  
 >**Langues** druidique plus deux langues au choix  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Attaques multiples.  
 >Bâton.  
@@ -2404,6 +2518,8 @@ ___
 >**Sens** Perception passive 19  
 >**Langues** druidique plus deux langues au choix  
 >**Puissance** 12 (8400 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _réparation, bouffée de poison, flammes_  
@@ -2453,6 +2569,8 @@ ___
 >**Langues** six langues au choix  
 >**Puissance** 12 (8400 PX)
 >
+>___
+>
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumière, poigne électrique_  
 >- Niv 1 (4) : _détection de la magie, projectile magique_  
@@ -2501,7 +2619,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Résistance à la magie.  
 >Attaques multiples.  
@@ -2544,6 +2664,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >Résistance à la magie.  
 >Armes magiques.  
 >Attaques multiples.  
@@ -2585,6 +2707,8 @@ ___
 >**Langues** —  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Apparence trompeuse**.  
 >**Sensibilité à l'antimagie**.
 >
@@ -2624,6 +2748,8 @@ ___
 >**Langues** jargon des voleurs plus deux langues au choix  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >**Assassinat**.  
 >**Attaque sournoise**.  
 >**Esquive totale**.
@@ -2661,7 +2787,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** —  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Corne.  
 >
@@ -2695,6 +2823,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** —  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Charge**.
 >
@@ -2733,7 +2863,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend une langue de son créateur mais ne peut pas parler  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Résistance à la magie.  
 >Nature insolite.  
@@ -2772,6 +2904,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend une langue de son créateur mais ne peut pas parler  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >Résistance à la magie.  
 >Morsure.  
@@ -2848,6 +2982,8 @@ ___
 >**Langues** igné  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Corps brûlant**.  
 >**Armes brûlantes**.  
 >**Illumination**.
@@ -2887,7 +3023,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 15  
 >**Langues** abyssal  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Attaques multiples.  
 >Griffes.  
@@ -2929,6 +3067,8 @@ ___
 >**Langues** abyssal  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _ténèbres, métal brûlant, lévitation_  
 >Action|**Attaques multiples**.  
@@ -2968,6 +3108,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Sol aberrant**.  
 >**Charabia**.
 >
@@ -3005,6 +3147,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Tactique de groupe**.
 >
 >Action|**Morsure**.  
@@ -3039,6 +3183,8 @@ ___
 >**Sens** vision dans le noir 18 mètres, Perception passive 12  
 >**Langues** commun, nain  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Marteau de guerre**. +5, 1,50 m, 1d8+3 contondants  
@@ -3080,7 +3226,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 23  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 19 (22000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Épouvante.  
 >Résistance légendaire (3/jour)  
@@ -3131,6 +3279,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 19 (22000 PX)
 >
+>___
+>
 >Épouvante.  
 >Incantation innée.  
 >Résistance légendaire (3/jour)  
@@ -3179,7 +3329,9 @@ ___
 >**Sens** vision aveugle 150 m (aveugle au-delà de ce rayon), Perception passive 16  
 >**Langues** comprend le profond, télépathie 1,5 km  
 >**Puissance** 11 (7200 PX)   
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Résistance légendaire (2/jour).  
 >Attaques multiples.  
@@ -3222,6 +3374,8 @@ ___
 >**Sens** vision aveugle 150 m (aveugle au-delà de ce rayon), Perception passive 16  
 >**Langues** comprend le profond, télépathie 1,5 km  
 >**Puissance** 11 (7200 PX)
+>
+>___
 >
 >Résistance légendaire (2/jour).  
 >Attaques multiples.  
@@ -3266,6 +3420,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 19 (22000 PX)
 >
+>___
+>
 >**Spasmes d'agonie**.  
 >**Aura de feu**.  
 >**Résistance à la magie**.  
@@ -3307,7 +3463,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 12  
 >**Langues** comprend le commun et les langages de son créateur mais ne peut pas parler  
 >**Puissance** 5 (1800 PX)   
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Connexion par vibrations.  
 >Attaques multiples.  
@@ -3350,6 +3508,8 @@ ___
 >**Langues** comprend le commun et les langages de son créateur mais ne peut pas parler  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Connexion par vibrations**.  
 >**Discrétion dans les ombres**.
 >
@@ -3389,6 +3549,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >Action|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
 >Action|**Arbalète légère**. +3, 24/96 m, 1d8+1 perforants  
 >
@@ -3423,6 +3585,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** deux langues au choix  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Cimeterre**. +5, 1,50 m, 1d6+3 tranchants  
@@ -3462,6 +3626,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, elfique  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Détection de la vie**.  
 >**Déplacement intangible**.
@@ -3505,7 +3671,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 24  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 23 (50000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Mémoire de labyrinthe.  
 >Résistance légendaire (3/jour).  
@@ -3555,6 +3723,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 23 (50000 PX)
 >
+>___
+>
 >Charge.  
 >Incantation innée.  
 >Mémoire de labyrinthe.  
@@ -3602,7 +3772,9 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** deux langues au choix  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Attaques multiples.  
 >Épée courte.  
@@ -3643,6 +3815,8 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** deux langues au choix  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _moquerie cruelle_  
@@ -3688,7 +3862,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 15  
 >**Langues** abyssal, commun, gobelin, infernal, télépathie 18 m  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Bannissement par le feu.  
 >Nourrir l'âme.  
@@ -3731,6 +3907,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 15  
 >**Langues** abyssal, commun, gobelin, infernal, télépathie 18 m  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Bannissement par le feu**.  
@@ -3777,6 +3955,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- 1/jour chacun : _enchevêtrement, force fantasmagorique_  
 >- 2/jour chacun : _déguisement, invisibilité_ (personnel uniquement)  
@@ -3818,6 +3998,8 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Regard pétrifiant**.
 >
 >Action|**Morsure**. +5, 1,50 m, 2d6+3 perforants 
@@ -3852,6 +4034,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >Action|**Bec**. +4, 1,50 m, 1d8+2 tranchants  
 >
 >_Monster Manual (SRD)_
@@ -3885,6 +4069,8 @@ ___
 >**Sens** vision dans le noir 27 m, Perception passive 16  
 >**Langues** draconique  
 >**Puissance** 11 (7200 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +10, 3 m, 3d10+6 perforants  
@@ -3925,6 +4111,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 13  
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 20 (25000 PX)
+>
+>___
 >
 >**Spasmes d'agonie**.  
 >**Aura de feu**.  
@@ -3970,6 +4158,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Odorat et ouïe aiguisés**.
 >
 >Action|**Morsure**.  
@@ -4004,6 +4194,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
+>
+>___
 >
 >**Odorat et ouïe aiguisés**.
 >
@@ -4040,7 +4232,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 12  
 >**Langues** toutes  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -4081,6 +4275,8 @@ ___
 >**Langues** toutes, mais parle rarement  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Incantation innée.  
 >Duplication spectrale (Recharge après un repos court ou long).  
 >Attaques multiples.  
@@ -4117,6 +4313,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Téméraire**.
 >
@@ -4254,6 +4452,8 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Esquive totale**.  
 >**Déplacement**.
 >
@@ -4291,7 +4491,9 @@ ___
 >**Résistances** froid, feu, poison  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Puanteur.  
 >Corne.  
@@ -4327,6 +4529,8 @@ ___
 >**Résistances** froid, feu, poison  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Charge**.  
 >**Puanteur**.
@@ -4364,6 +4568,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Odorat aiguisé**.
 >
 >Action|**Morsure**.  
@@ -4397,6 +4603,8 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Odorat aiguisé**.
 >
@@ -4436,6 +4644,8 @@ ___
 >**Langues** commun  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Hache à deux mains**. +4, 1,50 m, 1d12+3 tranchants 
 >
@@ -4472,6 +4682,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Puanteur**.  
 >**Mépris du renvoi**.
@@ -4512,7 +4724,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** abyssal, les langues qu'il connaissait de son vivant  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Regard mortel.  
 >Hypersensibilité au soleil.  
@@ -4556,6 +4770,8 @@ ___
 >**Langues** abyssal, les langues qu'il connaissait de son vivant  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >**Aura d'annihilation**.  
 >**Regard mortel**.  
 >**Hypersensibilité au soleil**.
@@ -4593,7 +4809,9 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Bête de somme.  
 >Corne.  
@@ -4628,6 +4846,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Bête de somme**.  
 >**Charge**.
@@ -4668,7 +4888,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** sylvestre  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Camouflage dans la végétation.  
 >Régénération.  
@@ -4711,6 +4933,8 @@ ___
 >**Langues** sylvestre  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Gourdin magique**.  
 >**Camouflage dans la végétation**.  
 >**Régénération**.  
@@ -4750,7 +4974,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, sylvestre  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Bottes en fer.  
 >Force hors normes.  
@@ -4789,6 +5015,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, sylvestre  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Bottes en fer**.  
 >**Force hors normes**.
@@ -4830,6 +5058,8 @@ ___
 >**Langues** commun, commun des profondeurs  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Fouet**. +5, 3 m, 1d4+3 tranchants  
 >Action|**Dague +1**. +6, 1,50 m ou 6/18 m, 1d4+4 perforants  
@@ -4866,7 +5096,9 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >**Défense élégante**.
 >
@@ -4906,6 +5138,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Pied léger**.  
 >**Défense élégante**.
@@ -4948,7 +5182,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Interdiction.  
 >Sens de la vie.  
@@ -4992,6 +5228,8 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Interdiction.  
 >Sens de la vie.  
 >Forme brumeuse.  
@@ -5030,6 +5268,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** brutacien  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Communication avec les grenouilles et les crapauds**.  
@@ -5070,7 +5310,9 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** brutacien, commun  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >**Amphibien**.  
 >**Communication avec les grenouilles et les crapauds**.  
@@ -5112,6 +5354,8 @@ ___
 >**Langues** —  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Saut sans élan**.
 >
 >Action|**Morsure**. +7, 1,50 m, 4d12+4 perforants  
@@ -5149,7 +5393,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 9  
 >**Langues** abyssal, télépathie 18 m  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Présence pourrissante.  
 >Saut sans élan.  
@@ -5190,6 +5436,8 @@ ___
 >**Langues** abyssal, télépathie 18 m  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Présence pourrissante.  
 >Saut sans élan.  
 >Pieds sûrs.  
@@ -5225,6 +5473,8 @@ ___
 >**Sens** vision aveugle 36 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 8 (3900 PX)
+>
+>___
 >
 >**Écholocalisation**.  
 >**Apnée**.  
@@ -5267,6 +5517,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** abyssal, commun, infernal  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Faveur impie**.  
 >**Incantation innée**.  
@@ -5311,7 +5563,9 @@ ___
 >**Sens** vision dans le noir 18 m, vision véritable 36 m, Perception passive 19  
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Verrou dimensionnel.  
 >Résistance à la magie.  
@@ -5356,6 +5610,8 @@ ___
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >Verrou dimensionnel.  
 >Résistance à la magie.  
 >Armes magiques.  
@@ -5396,7 +5652,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Puanteur.  
 >Queue.  
@@ -5432,6 +5690,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** —  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Odorat aiguisé**.  
 >**Puanteur**.
@@ -5470,6 +5730,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** elfique, sylvestre  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Charge**.
 >
@@ -5511,6 +5773,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Détection de la sentience.  
 >Incantation innée (psioniques).  
 >Résistance à la magie.  
@@ -5549,6 +5813,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >Action|**Morsure**. +2, 1,50 m, 1d4 perforants  
 >
 >_Monster Manual (SRD)_
@@ -5582,7 +5848,9 @@ ___
 >**Sens** vision aveugle 36 m, Perception passive 14  
 >**Langues** comprend le commun, le profond et le commun des profondeurs mais ne peut pas parler, télépathie 7,5 kilomètres  
 >**Puissance** 14 (11500 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Perception des créatures.  
 >Résistance légendaire (3/jour).  
@@ -5632,7 +5900,9 @@ ___
 >**Sens** vision aveugle 36 m, Perception passive 28  
 >**Langues** profond, draconique, télépathie 7,5 kilomètres  
 >**Puissance** 22 (41000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (4/jour).  
 >Monstre de siège.  
@@ -5677,6 +5947,8 @@ ___
 >**Sens** vision aveugle 36 m, Perception passive 14  
 >**Langues** comprend le commun, le profond et le commun des profondeurs mais ne peut pas parler, télépathie 7,5 kilomètres  
 >**Puissance** 14 (11500 PX)
+>
+>___
 >
 >**Perception des créatures**.  
 >**Incantation innée (psioniques)**.  
@@ -5727,6 +5999,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.
 >
@@ -5762,6 +6036,8 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** bothii, commun  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _lumières dansantes, thaumaturgie_  
@@ -5800,6 +6076,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >Action|**Morsure**. +5, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
@@ -5833,7 +6111,9 @@ ___
 >**Sens** Perception passive 16  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >**Inflexible (2/jour)**.
 >
@@ -5875,6 +6155,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 9 (5000 PX)
 >
+>___
+>
 >**Inflexible (2/jour)**.  
 >**Second souffle (Recharge après un repos court ou long)**.
 >
@@ -5913,6 +6195,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** —  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Odorat aiguisé**.  
 >**Pattes d'araignée**.
@@ -5957,6 +6241,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >**Bourdonnement**.  
 >**Résistance à la magie**.  
 >**Pattes d'araignée**.
@@ -5995,6 +6281,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Odorat aiguisé**.
 >
 >Action|**Griffes**.  
@@ -6028,6 +6316,8 @@ ___
 >**Sens** vision aveugle 18 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 0 (10 PX)
+>
+>___
 >
 >**Écholocalisation**.  
 >**Ouïe aiguisée**.
@@ -6065,6 +6355,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** gobelin (ne peut pas parler sous forme de chauve-souris)  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Écholocation (forme de chauve-souris ou hybride uniquement)**.  
@@ -6108,6 +6400,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Écholocalisation**.  
 >**Ouïe aiguisée**.
 >
@@ -6143,6 +6437,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Charge écrasante**.
 >
 >Action|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
@@ -6177,6 +6473,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >Action|**Sabots**. +5, 1,50 m, 2d4+3 contondants  
 >
 >_Monster Manual (SRD)_
@@ -6208,6 +6506,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >Action|**Sabots**. +6, 1,50 m, 2d4+4 contondants  
 >
@@ -6241,6 +6541,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Brave**.
 >
@@ -6282,6 +6584,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** abyssal, commun  
 >**Puissance** 17 (18000 PX)
+>
+>___
 >
 >**Résistance à la magie**.  
 >**Général des Morts**.  
@@ -6329,7 +6633,9 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Coutille**. +7, 3 m, 1d10+4 tranchants  
@@ -6374,6 +6680,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >**Incantation**.  
 >- Niv 1 (4) : _châtiment tonitruant_  
 >- Niv 2 (3) : _châtiment révélateur, appel de destrier_  
@@ -6414,6 +6722,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Charge**.  
 >**Stable**.
 >
@@ -6448,6 +6758,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
+>
+>___
 >
 >**Charge**.  
 >**Pied sûr**.
@@ -6485,6 +6797,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Charge**.  
 >**Stable**.
 >
@@ -6520,6 +6834,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Charge**.  
 >**Stable**.
@@ -6559,6 +6875,8 @@ ___
 >**Langues** comprend l'infernal mais ne peut pas parler  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.
 >
@@ -6597,7 +6915,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** comprend le commun, l'elfique et le sylvestre mais ne peut pas parler  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Banni par le soleil.  
 >Lien télépathique.  
@@ -6636,6 +6956,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** comprend le commun, l'elfique et le sylvestre mais ne peut pas parler  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Odorat et ouïe aiguisés**.  
 >**Banni par le soleil**.  
@@ -6676,6 +6998,8 @@ ___
 >**Langues** —  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Bicéphale**.
 >
 >Action|**Attaques multiples**.  
@@ -6711,6 +7035,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** Un chien esquiveur comprend le sylvestre mais ne peut pas le parler  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Odorat et ouïe aiguisés**.
 >
@@ -6748,6 +7074,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Odorat et ouïe aiguisés**.
 >
 >Action|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
@@ -6782,6 +7110,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** —  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.  
@@ -6822,6 +7152,8 @@ ___
 >**Langues** comprend le draconique mais ne peut pas parler  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Cornes**. +7, 1,50 m, 1d12+4 contondants  
 >Action|**Griffes**. +7, 1,50 m, 2d6+4 tranchants  
@@ -6858,7 +7190,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun des profondeurs  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Ascendance féerique.  
 >Sensibilité au soleil.  
@@ -6899,6 +7233,8 @@ ___
 >**Langues** commun des profondeurs  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Ascendance féerique**.  
 >**Sensibilité au soleil**.  
 >**Sens de la toile**.  
@@ -6938,7 +7274,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** commun des profondeurs  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Ascendance féerique.  
 >Pattes d'araignée.  
@@ -6980,6 +7318,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** commun des profondeurs  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Ascendance féerique**.  
 >**Incantation**.  
@@ -7026,6 +7366,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Repli aérien**.  
 >**Ouïe et vue aiguisées**.
 >
@@ -7061,6 +7403,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 15  
 >**Langues** Une chouette géante comprend le commun, l'elfique et le sylvestre mais ne peut pas les parler  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Repli aérien**.  
 >**Ouïe et vue aiguisées**.
@@ -7100,6 +7444,8 @@ ___
 >**Langues** comprend le profond mais ne peut pas parler  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Détection de la magie**.
 >
@@ -7137,6 +7483,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >Action|**Morsure**. +3, 1,50 m, 1d4+1 perforants  
 >
 >_Monster Manual (SRD)_
@@ -7170,7 +7518,9 @@ ___
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Coquille antimagie.  
 >Attaques multiples.  
@@ -7211,6 +7561,8 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Coquille antimagie.  
 >Massue tentacules.  
 >Attaques multiples.  
@@ -7250,7 +7602,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend toutes les langues mais ne peut pas parler  
 >**Puissance** 14 (11500 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Résistance à la magie.  
 >Nature insolite.  
@@ -7291,6 +7645,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend toutes les langues mais ne peut pas parler  
 >**Puissance** 14 (11500 PX)
+>
+>___
 >
 >Résistance à la magie.  
 >Convocation de spectres (Recharge après un repos court ou long).  
@@ -7627,6 +7983,8 @@ ___
 >**Langues** commun  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Discipline tactique**.
 >
 >Action|**Attaques multiples**.  
@@ -7664,6 +8022,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Imitation**.
 >
 >Action|**Bec**.  
@@ -7700,6 +8060,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 15  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _détection du mal et du bien, détection de la magie, détection des pensées_  
@@ -7742,7 +8104,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** —  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Absorption du feu.  
 >Morsure.  
@@ -7779,6 +8143,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** —  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Absorption du feu**.
 >
@@ -7817,6 +8183,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Pinces**.  
@@ -7851,7 +8219,9 @@ ___
 >**Sens** vision aveugle 18 m, Perception passive 12  
 >**Langues** —  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Filament collant.  
 >Sang inflammable.  
@@ -7893,6 +8263,8 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Filament collant**.  
 >**Sang inflammable**.  
 >**Pattes d'araignée**.
@@ -7933,6 +8305,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Pinces**. +3, 1,50 m, 1d6+1 contondants  
@@ -7967,6 +8341,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** commun  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Aura de meurtre**.  
 >**Résistance à la magie**.
@@ -8010,6 +8386,8 @@ ___
 >**Langues** commun  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Illumination**.  
 >**Résistance à la magie**.  
 >**Reconstitution**.  
@@ -8052,6 +8430,8 @@ ___
 >**Langues** —  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Saut sans élan**.
 >
@@ -8089,6 +8469,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Apparence trompeuse**.  
 >Réaction|**Hurlement**.  
 >
@@ -8122,6 +8504,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Apnée**.
 >
@@ -8157,6 +8541,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** —  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Apnée**.
 >
@@ -8198,6 +8584,8 @@ ___
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 14 (11500 PX)
 >
+>___
+>
 >Amphibie.  
 >Résistance à la magie.  
 >Armes magiques.  
@@ -8238,6 +8626,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Vase cubique**.  
 >**Transparent**.
 >
@@ -8277,7 +8667,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 19  
 >**Langues** —  
 >**Puissance** 21 (33000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Cône d'antimagie.  
 >Entité astrale.  
@@ -8327,6 +8719,8 @@ ___
 >**Langues** —  
 >**Puissance** 21 (33000 PX)
 >
+>___
+>
 >**Cône d'antimagie**.  
 >**Entité astrale**.  
 >**Donjon demi-planaire**.  
@@ -8373,6 +8767,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Sombre dévotion**.
 >
 >Action|**Cimeterre**. +3, 1,50 m, 1d6+1 tranchants  
@@ -8406,6 +8802,8 @@ ___
 >**Sens** Perception passive 8  
 >**Langues** géant  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Faible perception du relief**.
 >
@@ -8445,6 +8843,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** terreux  
 >**Puissance** 11 (7200 PX)
+>
+>___
 >
 >**Disparition élémentaire**.  
 >**Incantation innée**.  
@@ -8489,7 +8889,9 @@ ___
 >**Sens** vision aveugle 18 m, Perception passive 13  
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Apnée.  
 >Coup.  
@@ -8526,7 +8928,9 @@ ___
 >**Sens** vision aveugle 18 m, Perception passive 13  
 >**Langues** aquatique, télépathie 36 m  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Apnée.  
 >Attaques multiples.  
@@ -8566,6 +8970,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Charge**.  
 >**Apnée**.
 >
@@ -8604,7 +9010,8 @@ ___
 >**Immunités** charmé, empoisonné, épuisement  
 >**Sens** vision dans le noir 18 m, Perception passive 10 + (BM x 2)  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus
 >
 >**Vigilant**.
 >
@@ -8643,6 +9050,8 @@ ___
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 12  
 >**Langues** commun, draconique  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
@@ -8684,6 +9093,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 13  
 >**Langues** —  
 >**Puissance** 18 (20000 PX)
+>
+>___
 >
 >**Esquive totale**.  
 >**Résistance légendaire (3/jour)**.  
@@ -8727,6 +9138,8 @@ ___
 >**Langues** commun, géant  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >Action|**Hache d'armes**. +5, 1,50 m, 2d8+3 tranchants  
 >Action|**Javeline**. +5, 1,50 m ou 9/36 m, 2d6+3 perforants  
 >
@@ -8765,7 +9178,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 29  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 26 (90000 PX)  
->**Bonus de maîtrise** +8
+>**Bonus de maîtrise** +8  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -8813,6 +9228,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 29  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 26 (90000 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _détection de la magie, image majeure_  
@@ -8869,6 +9286,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Déplacement intangible**.  
 >**Sensibilité à la lumière**.  
 >**Discrétion dans les ombres**.
@@ -8906,7 +9325,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 7  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Résistance à la magie.  
 >Sensibilité au soleil.  
@@ -8945,6 +9366,8 @@ ___
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >Eésistance à la magie.  
 >Sensibilité au soleil.  
 >Lance crochue.  
@@ -8981,7 +9404,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 7  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Résistance à la magie.  
 >Sensibilité au soleil.  
@@ -9021,6 +9446,8 @@ ___
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Résistance à la magie.  
 >Incantation.  
 >Sensibilité au soleil.  
@@ -9058,6 +9485,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** commun, elfique, draconique, géant  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumière, trait de feu_  
@@ -9099,6 +9528,8 @@ ___
 >**Langues** comprend l'abyssal, le commun et l'infernal mais ne peut pas parler  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Résistance au feu partagée**.  
 >**Illumination**.
 >
@@ -9138,6 +9569,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 19  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 10 (5900 PX)
+>
+>___
 >
 >**Armes angéliques**.  
 >**Incantation innée**.  
@@ -9181,7 +9614,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** —  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -9221,6 +9656,8 @@ ___
 >**Langues** —  
 >**Puissance** 12 (8400 PX)
 >
+>___
+>
 >Attaques multiples.  
 >Morsure.  
 >Griffes.  
@@ -9258,6 +9695,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 8 (3900 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumière, coup au but_  
@@ -9307,7 +9746,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 13 (10000 PX)  
->**Bonus de maîtrise** +5_
+>**Bonus de maîtrise** +5  
+>
+>___  
 >
 >Nature insolite.  
 >Attaques multiples.  
@@ -9348,6 +9789,8 @@ ___
 >**Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 12  
 >**Langues** comprend le profond mais ne peut pas parler, télépathie 18 m  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Détection de la sentience**.
 >
@@ -9390,6 +9833,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +10, 1,50 m, 2d6+5 tranchants  
 >Action|**Emprisonnement de l'âme**.  
@@ -9429,7 +9874,9 @@ ___
 >**Sens** vision dans le noir 18 m, vision aveugle 18 m, Perception passive 10  
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Résistance à la magie.  
 >Attaques multiples.  
@@ -9472,6 +9919,8 @@ ___
 >**Sens** vision dans le noir 18 m, vision aveugle 18 m, Perception passive 10  
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >Incantation innée.  
 >Résistance à la magie.  
@@ -9516,6 +9965,8 @@ ___
 >**Langues** infernal, télépathie 36 m  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >**Vision de diable**.  
 >**Résistance à la magie**.
 >
@@ -9558,6 +10009,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** infernal, télépathie 36 m  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Peau barbelée**.  
 >**Vision de diable**.  
@@ -9602,6 +10055,8 @@ ___
 >**Langues** infernal, télépathie 36 m  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Vision de diable**.  
 >**Résistance à la magie**.  
 >**Inébranlable**.
@@ -9644,6 +10099,8 @@ ___
 >**Langues** infernal, télépathie 36 m  
 >**Puissance** 11 (7200 PX)
 >
+>___
+>
 >**Vision de diable**.  
 >**Résistance à la magie**.
 >
@@ -9684,6 +10141,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 12  
 >**Langues** infernal, télépathie 36 m  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Vision de diable**.  
 >**Repli aérien**.  
@@ -9730,6 +10189,8 @@ ___
 >**Langues** infernal, télépathie 36 m  
 >**Puissance** 14 (11500 PX)
 >
+>___
+>
 >**Vision de diable**.  
 >**Résistance à la magie**.
 >
@@ -9774,6 +10235,8 @@ ___
 >**Langues** infernal, télépathie 36 m  
 >**Puissance** 9 (5000 PX)
 >
+>___
+>
 >**Vision de diable**.  
 >**Résistance à la magie**.
 >
@@ -9815,6 +10278,8 @@ ___
 >**Langues** infernal, commun  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Métamorphe**.  
 >**Vision de diable**.  
 >**Résistance à la magie**.
@@ -9855,6 +10320,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 14  
 >**Langues** infernal, télépathie 36 m  
 >**Puissance** 20 (25000 PX)
+>
+>___
 >
 >**Aura de peur**.  
 >**Résistance à la magie**.  
@@ -9900,6 +10367,8 @@ ___
 >**Langues** aérien  
 >**Puissance** 11 (7200 PX)
 >
+>___
+>
 >**Disparition élémentaire**.  
 >**Incantation innée**.  
 >- À volonté : _détection du mal et du bien, détection de la magie, vague tonnante_  
@@ -9941,6 +10410,8 @@ ___
 >**Langues** commun  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Métamorphe**.  
 >**Embuscade**.  
 >**Attaque surprise**.
@@ -9979,7 +10450,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 19  
 >**Langues** comprend le draconique mais ne peut pas parler  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Têtes multiples.  
 >Têtes réactives.  
@@ -10023,6 +10496,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24  
 >**Langues** commun, draconique  
 >**Puissance** 17 (18000 PX)
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.
@@ -10070,7 +10545,9 @@ ___
 >**Sens** vision véritable 18 m, Perception passive 13  
 >**Langues** commun, draconique  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Spasmes d'agonie.  
 >Attaques multiples.  
@@ -10111,7 +10588,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, draconique  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Spasmes d'agonie.  
 >Attaques multiples.  
@@ -10149,7 +10628,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, draconique  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >**Chute contrôlée**.  
 >**Spasmes d'agonie**.
@@ -10191,7 +10672,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, draconique  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Spasmes d'agonie.  
 >Vol plané.  
@@ -10229,7 +10712,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, draconique  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Spasmes d'agonie.  
 >Vol plané.  
@@ -10271,7 +10756,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** profond, draconique  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Nature insolite.  
 >Morsure.  
@@ -10312,7 +10799,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** abyssal, elfique, commun des profondeurs  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Ascendance féerique.  
 >Attaques multiples.  
@@ -10355,6 +10844,8 @@ ___
 >**Langues** abyssal, elfique, commun des profondeurs  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >**Ascendance féerique**.  
 >**Incantation innée**.  
 >- À volonté : _ténèbres_  
@@ -10396,6 +10887,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21  
 >**Langues** commun, draconique  
 >**Puissance** 13 (10000 PX)
+>
+>___
 >
 >**Marche sur la glace**.  
 >**Résistance légendaire (3/jour)**.
@@ -10443,6 +10936,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 20 (25000 PX)
 >
+>___
+>
 >**Marche sur la glace**.  
 >**Résistance légendaire (3/jour)**.
 >
@@ -10489,6 +10984,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 >Action|**Souffle de froid (Recharge 5-6)**.  
 >
@@ -10524,6 +11021,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 >**Langues** commun, draconique  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Marche sur la glace**.
 >
@@ -10564,6 +11063,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22  
 >**Langues** commun, draconique  
 >**Puissance** 16 (15000 PX)
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.
 >
@@ -10610,6 +11111,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 23 (50000 PX)
 >
+>___
+>
 >**Résistance légendaire (3/jour)**.
 >
 >Action|**Attaques multiples**.  
@@ -10655,6 +11158,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Action|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
 >Action|**Souffle de foudre (Recharge 5-6)**.  
 >
@@ -10690,6 +11195,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19  
 >**Langues** commun, draconique  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +9, 3 m, 2d10+5 perforants  
@@ -10730,7 +11237,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique  
 >**Puissance** 18 (20000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Reconstruction.  
@@ -10776,6 +11285,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21  
 >**Langues** commun, draconique  
 >**Puissance** 13 (10000 PX)
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.
 >
@@ -10823,6 +11334,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24  
 >**Langues** commun, draconique  
 >**Puissance** 20 (25000 PX)
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.
 >
@@ -10872,6 +11385,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 >Action|**Souffle de combat (Recharge 5-6)**.  
 >Action|**Souffle de feu**.  
@@ -10909,6 +11424,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 >**Langues** commun, draconique  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +7, 3 m, 2d10+4 perforants  
@@ -10950,7 +11467,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 16 (15000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.
@@ -11001,7 +11520,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 28  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 23 (50000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Amphibien.  
 >Résistance légendaire (3/jour).  
@@ -11050,7 +11571,9 @@ ___
 >**Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 15  
 >**Langues** draconique, télépathie 36 m  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Amphibien.  
 >Morsure.  
@@ -11091,7 +11614,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Amphibien.  
 >Attaques multiples.  
@@ -11133,6 +11658,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21  
 >**Langues** commun, draconique  
 >**Puissance** 16 (15000 PX)
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.
 >
@@ -11182,6 +11709,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 23 (50000 PX)
 >
+>___
+>
 >**Résistance légendaire (3/jour)**.
 >
 >Action|**Attaques multiples**.  
@@ -11230,6 +11759,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Action|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
 >Action|**Souffle de combat (Recharge 5-6)**.  
 >Action|**Souffle de froid**.  
@@ -11267,6 +11798,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +10, 3 m, 2d10+6 perforants  
@@ -11307,7 +11840,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 14 (11500 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.  
 >**Perception décalée (1/jour)**.  
@@ -11359,7 +11894,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 28  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 21 (33000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Fouisseur.  
@@ -11408,7 +11945,9 @@ ___
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 15  
 >**Langues** draconique, télépathie 36 m  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Fouisseur.  
 >Morsure.  
@@ -11448,7 +11987,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Fouisseur.  
 >Attaques multiples.  
@@ -11492,6 +12033,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >**Ombre vivante**.  
 >**Discrétion dans les ombres**.  
 >**Sensibilité au soleil**.
@@ -11534,6 +12077,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24  
 >**Langues** commun, draconique  
 >**Puissance** 17 (18000 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.
@@ -11584,6 +12129,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 24 (62000 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.
 >
@@ -11633,6 +12180,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
@@ -11672,6 +12221,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19  
 >**Langues** commun, draconique  
 >**Puissance** 10 (5900 PX)
+>
+>___
 >
 >**Amphibien**.
 >
@@ -11714,6 +12265,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22  
 >**Langues** commun, draconique  
 >**Puissance** 15 (13000 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.
@@ -11764,6 +12317,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 22 (41000 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.
 >
@@ -11813,6 +12368,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Morsure**. +5, 1,50 m, 1d10+3 perforants  
@@ -11852,6 +12409,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17  
 >**Langues** commun, draconique  
 >**Puissance** 8 (3900 PX)
+>
+>___
 >
 >**Amphibien**.
 >
@@ -11894,7 +12453,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.
 >
@@ -11944,7 +12505,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 25  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 19 (22000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Attaques multiples.  
@@ -11991,7 +12554,9 @@ ___
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 15  
 >**Langues** draconique, télépathie 36 m  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Morsure.  
 >Souffle scintilant (Recharge 5-6).  
@@ -12031,7 +12596,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -12072,6 +12639,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22  
 >**Langues** commun, draconique  
 >**Puissance** 14 (11500 PX)
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.
 >
@@ -12119,6 +12688,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27  
 >**Langues** commun, draconique  
 >**Puissance** 21 (33000 PX)
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.
 >
@@ -12168,6 +12739,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
 >Action|**Souffle de combat (Recharge 5-6)**.  
 >Action|**Souffle d'acide**.  
@@ -12205,6 +12778,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17  
 >**Langues** commun, draconique  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +7, 3 m, 2d10+4 perforants  
@@ -12246,7 +12821,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 15 (13000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.  
 >**Pattes d'araignée**.  
@@ -12298,7 +12875,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 28  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 22 (41000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Pattes d'araignée.  
@@ -12348,7 +12927,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15  
 >**Langues** draconique, télépathie 36 m  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Pattes d'araignée.  
 >Fouisseur.  
@@ -12390,7 +12971,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Pattes d'araignée.  
 >Fouisseur.  
@@ -12433,7 +13016,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 13 (10000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >**Amphibien**.  
 >**Fabrication (1/jour)**.  
@@ -12484,7 +13069,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 20 (25000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Amphibien.  
 >Fabrication (1/jour).  
@@ -12533,7 +13120,9 @@ ___
 >**Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 15  
 >**Langues** draconique  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >_Amphibien.  
 >Morsure.  
@@ -12573,7 +13162,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Amphibien.  
 >Attaques multiples.  
@@ -12616,7 +13207,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 45 m, Perception passive 17  
 >**Langues** commun, draconique, commun des profondeurs  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.
 >
@@ -12664,7 +13257,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 90 m, Perception passive 20  
 >**Langues** commun, draconique, commun des profondeurs  
 >**Puissance** 18 (20000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Attaques multiples.  
@@ -12711,7 +13306,9 @@ ___
 >**Sens** vision aveugle 3 m, vision dans le noir 27 m, Perception passive 13  
 >**Langues** draconique  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Morsure.  
 >Souffle de cauchemar (Recharge 5-6).  
@@ -12750,7 +13347,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 45 m, Perception passive 15  
 >**Langues** commun, draconique, commun des profondeurs  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -12792,7 +13391,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 17 (18000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Déplacement intangible.  
 >Résistance légendaire (3/jour).  
@@ -12833,6 +13434,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** draconique, sylvestre  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Invisibilité supérieure**.  
 >**Télépathie limitée**.  
@@ -12884,6 +13487,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 14 (11500 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.
 >
@@ -12931,6 +13536,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 21 (33000 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.
 >
@@ -12977,6 +13584,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
@@ -13014,6 +13623,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 >**Langues** commun, draconique  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >**Amphibien**.
 >
@@ -13054,7 +13665,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** commun, draconique, elfique, gnome, sylvestre  
 >**Puissance** 15 (13000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.
 >
@@ -13104,7 +13717,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 23  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 21 (33000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Attaques multiples.  
@@ -13149,7 +13764,9 @@ ___
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14  
 >**Langues** draconique  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Morsure.  
 >Souffle (Recharge 5–6).  
@@ -13187,7 +13804,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 >**Langues** commun, draconique, sylvestre  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -13228,6 +13847,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23  
 >**Langues** commun, draconique  
 >**Puissance** 17 (18000 PX)
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.
 >
@@ -13274,6 +13895,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 24 (62000 PX)
 >
+>___
+>
 >**Résistance légendaire (3/jour)**.
 >
 >Action|**Attaques multiples**.  
@@ -13319,6 +13942,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >Action|**Morsure**. +6, 1,50 m, 1d10+4 perforants  
 >Action|**Souffle de feu (Recharge 5-6)**.  
 >
@@ -13354,6 +13979,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique  
 >**Puissance** 10 (5900 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +10, 1,50 m, 2d6+6 tranchants  
@@ -13391,6 +14018,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** aquatique, draconique  
 >**Puissance** 17 (18000 PX)
+>
+>___
 >
 >**Amphibien**.
 >
@@ -13433,7 +14062,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 21  
 >**Langues** aquatique, draconique  
 >**Puissance** 24 (62000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -13467,7 +14098,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** draconique  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -13502,7 +14135,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** aquatique, draconique  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -13538,6 +14173,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22  
 >**Langues** commun, draconique  
 >**Puissance** 15 (13000 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.
@@ -13586,6 +14223,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 22 (41000 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Résistance légendaire (3/jour)**.
 >
@@ -13633,6 +14272,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Morsure**. +4, 1,50 m, 1d10+2 perforants  
@@ -13672,6 +14313,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Attaques multiples**.  
@@ -13709,7 +14352,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 13  
 >**Langues** comprend le draconique et le commun mais ne peut pas parler  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Repli aérien.  
 >Attaques multiples.  
@@ -13746,7 +14391,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend le draconique mais ne peut pas parler  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -13783,6 +14430,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend le draconique mais ne peut pas parler  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +5, 1,50 m, 1d8+3 perforants  
@@ -13821,7 +14470,9 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** commun, draconique  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Résistance légendaire (1/jour).  
 >Attaques multiples.  
@@ -13863,7 +14514,9 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** commun, draconique  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Résistance légendaire (1/jour).  
 >Défense mentale.  
@@ -13906,7 +14559,9 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** commun, draconique  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3_
+>**Bonus de maîtrise** +3  
+>
+>___  
 >
 >Résistance légendaire (1/jour).  
 >Attaques multiples.  
@@ -13944,7 +14599,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 17  
 >**Langues** draconique  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -13979,6 +14636,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** abyssal, télépathie 18 m (ne fonctionne qu'avec les créatures qui comprennent l'abyssal)  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +2, 1,50 m, 2d4 tranchants  
@@ -14015,6 +14674,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 15  
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Ascendance féerique**.  
 >**Incantation innée**.  
@@ -14060,6 +14721,8 @@ ___
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Ascendance féerique**.  
 >**Incantation innée**.  
 >- À volonté : _lumières dansantes_  
@@ -14101,7 +14764,9 @@ ___
 >**Sens** vision aveugle 3 m, vision dans le noir 36 m, Perception passive 17  
 >**Langues** elfique, commun des profondeurs, peut parler avec les araignées  
 >**Puissance** 13 (10000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Ascendance féerique.  
 >Pattes d'araignée.  
@@ -14149,6 +14814,8 @@ ___
 >**Langues** elfique, commun des profondeurs, peut parler avec les araignées  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >Métamorphe (Recharge après un repos court ou long).  
 >Ascendance féerique.  
 >Incantation innée.  
@@ -14194,7 +14861,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Ordre pendant la bataille.  
 >Ascendance féerique.  
@@ -14239,6 +14908,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Ordre de bataille**.  
 >**Ascendance féerique**.  
@@ -14285,7 +14956,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 18 (20000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Ascendance féerique.  
 >Sensibilité au soleil.  
@@ -14328,6 +15001,8 @@ ___
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 18 (20000 PX)
 >
+>___
+>
 >Ascendance féerique.  
 >Incantation innée.  
 >Incantation.  
@@ -14369,6 +15044,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Ascendance féerique**.  
 >**Incantation innée**.  
@@ -14414,7 +15091,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 20  
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 14 (11500 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Mensonge décelé.  
 >Ascendance féerique.  
@@ -14457,6 +15136,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 20  
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 14 (11500 PX)
+>
+>___
 >
 >**Mensonge décelé**.  
 >**Ascendance féerique**.  
@@ -14509,6 +15190,8 @@ ___
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >**Ascendance féerique**.  
 >**Incantation innée**.  
 >- À volonté : _lumières dansantes_  
@@ -14558,7 +15241,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 21  
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 20 (25000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Équipment spécial.  
 >Ascendance féerique.  
@@ -14608,6 +15293,8 @@ ___
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 20 (25000 PX)
 >
+>___
+>
 >Ascendance féerique.  
 >Incantation innée.  
 >Faveur capricieuse de Lolth.  
@@ -14654,7 +15341,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Vision de diable.  
 >Ascendance féerique.  
@@ -14698,6 +15387,8 @@ ___
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 11 (7200 PX)
 >
+>___
+>
 >Ascendance féerique.  
 >Incantation innée.  
 >Foulée d'ombre.  
@@ -14738,6 +15429,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** elfique, commun des profondeurs  
 >**Puissance** 8 (3900 PX)
+>
+>___
 >
 >**Ascendance féerique**.  
 >**Incantation innée**.  
@@ -14788,6 +15481,8 @@ ___
 >**Langues** druidique plus deux langues au choix  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _gourdin magique_  
 >- Niv 1 (4) : _enchevêtrement, grande foulée, vague tonnante_  
@@ -14826,6 +15521,8 @@ ___
 >**Sens** visions dans le noir 18 m (forme de bête uniquement), Perception passive 16  
 >**Langues** commun, druidique  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Incantation (forme humanoïde uniquement)**.  
 >- Sorts mineurs (à volonté) : _résistance_  
@@ -14870,6 +15567,8 @@ ___
 >**Langues** elfique, sylvestre  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _druidisme_  
 >- 3/jour chacun : _enchevêtrement, baies nourricières_  
@@ -14912,6 +15611,8 @@ ___
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Résistance duergare**.  
 >**Sensibilité au soleil**.
 >
@@ -14950,7 +15651,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >_Résistance duergare.  
 >Sensibilité au soleil.  
@@ -14989,6 +15692,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >_Création d'âmelame.  
 >Résistance duergare.  
@@ -15031,7 +15736,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 12  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4_
+>**Bonus de maîtrise** +4  
+>
+>___  
 >
 >_Résistance à la magie.  
 >Moteur psychique.  
@@ -15076,6 +15783,8 @@ ___
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 12 (8400 PX)
 >
+>___
+>
 >**Incantation innée (psionniques)**.  
 >- À volonté : _illusion mineure_  
 >- 1/jour chacun : _foulée brumeuse, nuage nauséabond_  
@@ -15119,7 +15828,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >_Résistance duergare.  
 >Formation de phalange.  
@@ -15162,6 +15873,8 @@ ___
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Résistance duergare**.  
 >**Formation de phalange**.  
 >**Sensibilité au soleil**.
@@ -15202,7 +15915,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >_Formation de cavalerie.  
 >Résistance duergare.  
@@ -15243,6 +15958,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Formation de cavalerie**.  
 >**Résistance duergare**.  
@@ -15286,7 +16003,9 @@ ___
 >**Sens** vision dans le noir 36 m, vision véritable 9 m, Perception passive 12  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >_Résistance duergare.  
 >Sensibilité au soleil.  
@@ -15330,6 +16049,8 @@ ___
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Résistance duergare**.  
 >**Sensibilité au soleil**.
 >
@@ -15370,7 +16091,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3_
+>**Bonus de maîtrise** +3  
+>
+>___  
 >
 >_Résistance duergare.  
 >Sensibilité au soleil.  
@@ -15413,6 +16136,8 @@ ___
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >**Résistance duergare**.  
 >**Sensibilité au soleil**.
 >
@@ -15454,7 +16179,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >_Résistance duergare.  
 >Sensibilité au soleil.  
@@ -15495,6 +16222,8 @@ ___
 >**Langues** nain, commun des profondeurs  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >_Résistance duergare.  
 >Sensibilité au soleil.  
 >Lance d'arçon de feu.  
@@ -15532,6 +16261,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 10  
 >**Langues** modron  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Esprit axiomatique**.  
 >**Désintégration**.
@@ -15574,7 +16305,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** abyssal, commun, télépathie 36 m  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >_Déplacement intangible.  
 >Résistance à la magie.  
@@ -15618,6 +16351,8 @@ ___
 >**Langues** abyssal, commun, télépathie 36 m  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >_Incantation innée.  
 >Résistance à la magie.  
 >Violation de cadavre.  
@@ -15655,6 +16390,8 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Ouïe et vue aiguisées**.
 >
@@ -15696,7 +16433,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 17 (18000 PX)  
->**Bonus de maîtrise** +6_
+>**Bonus de maîtrise** +6  
+>
+>___  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -15730,6 +16469,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 12  
 >**Langues** igné  
 >**Puissance** 11 (7200 PX)
+>
+>___
 >
 >**Disparition élémentaire**.  
 >**Incantation innée**.  
@@ -15774,7 +16515,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 18  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4_
+>**Bonus de maîtrise** +4  
+>
+>___  
 >
 >_Déplacement intangible.  
 >Animation sacrée (Recharge 5-6).  
@@ -15818,6 +16561,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 12 (8400 PX)
 >
+>___
+>
 >**Déplacement intangible**.  
 >**Animation sacrée (Recharge 5-6)**.  
 >**Résistance au renvoi**.
@@ -15856,7 +16601,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4_
+>**Bonus de maîtrise** +4  
+>
+>___  
 >
 >Présence enchanteresse.  
 >Résistance à la magie.  
@@ -15900,6 +16647,8 @@ ___
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >Présence enchanteresse.  
 >Foulée féerique (Recharge 4–6).  
 >Incantation innée.  
@@ -15940,7 +16689,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4_
+>**Bonus de maîtrise** +4  
+>
+>___  
 >
 >Présence redoutable.  
 >Résistance à la magie.  
@@ -15983,6 +16734,8 @@ ___
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >Présence redoutable.  
 >Foulée féerique (Recharge 4–6).  
 >Résistance à la magie.  
@@ -16022,7 +16775,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4_
+>**Bonus de maîtrise** +4  
+>
+>___  
 >
 >_Résistance à la magie.  
 >Présence douloureuse.  
@@ -16065,6 +16820,8 @@ ___
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >_Foulée féerique (Recharge 4–6).  
 >Incantation innée.  
 >Résistance à la magie.  
@@ -16105,7 +16862,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4_
+>**Bonus de maîtrise** +4  
+>
+>___  
 >
 >Présence joyeuse.  
 >Résistance à la magie.  
@@ -16148,6 +16907,8 @@ ___
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >_Foulée féerique (Recharge 4–6).  
 >Incantation innée.  
 >Présence joyeuse.  
@@ -16187,6 +16948,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Charge**.
 >
 >Action|**Coup de tête**. +5, 1,50 m, 1d6+3 contondants  
@@ -16222,6 +16985,8 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** Un élan géant comprend le commun, l'elfique et le sylvestre mais ne peut pas les parler  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Charge**.
 >
@@ -16260,6 +17025,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** aérien  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Forme d'air**.
 >
@@ -16300,7 +17067,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend l'aérien mais ne peut pas parler  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >**Forme d'air**.
 >
@@ -16339,7 +17108,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** aérien, une langue au choix de son créateur  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3_
+>**Bonus de maîtrise** +3  
+>
+>___  
 >
 >Attaques multiples.  
 >Fléau d'armes.  
@@ -16379,6 +17150,8 @@ ___
 >**Langues** aérien, une langue au choix de son créateur  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >_Armes magiques.  
 >Attaques multiples.  
 >Fléau d'armes.  
@@ -16417,6 +17190,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** aquatique  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Forme d'eau**.  
 >**Congelé**.
@@ -16458,7 +17233,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend l'aquatique mais ne peut pas parler  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >**Forme d'eau**.  
 >**Congelé**.
@@ -16498,7 +17275,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** aquatique, une langue au choix de son créateur  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3_
+>**Bonus de maîtrise** +3  
+>
+>___  
 >
 >Attaques multiples.  
 >Trident.  
@@ -16537,6 +17316,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** aquatique, une langue au choix de son créateur  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >_Armes magiques  
 >Attaques multiples.  
@@ -16578,6 +17359,8 @@ ___
 >**Langues** terreux  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Déplacement dans la terre**.  
 >**Monstre de siège**.
 >
@@ -16617,7 +17400,9 @@ ___
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 10  
 >**Langues** comprend le terreux mais ne peut pas parler  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >**Descente**.  
 >**Déplacement dans la terre**.  
@@ -16654,7 +17439,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** terreux, une langue au choix de son créateur  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3_
+>**Bonus de maîtrise** +3  
+>
+>___  
 >
 >Attaques multiples.  
 >Maillet.  
@@ -16693,6 +17480,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** terreux, une langue au choix de son créateur  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >_Armes magiques.  
 >Attaques multiples.  
@@ -16733,6 +17522,8 @@ ___
 >**Langues** igné  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Forme de feu**.  
 >**Illumination**.  
 >**Susceptibilité à l'eau**.
@@ -16772,7 +17563,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend l'igné mais ne peut pas parler  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >**Forme de feu**.  
 >**Illumination**.  
@@ -16810,7 +17603,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** igné, une langue au choix de son créateur  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3_
+>**Bonus de maîtrise** +3  
+>
+>___  
 >
 >_Éclairage.  
 >Susceptibilité à l'eau.  
@@ -16852,6 +17647,8 @@ ___
 >**Langues** igné, une langue au choix de son créateur  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >_Éclairage.  
 >Armes magiques  
 >Susceptibilité à l'eau.  
@@ -16890,6 +17687,8 @@ ___
 >**Langues** —  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Charge écrasante**.
 >
 >Action|**Défenses**. +8, 1,50 m, 3d8+6 perforants  
@@ -16925,6 +17724,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** commun, gobelin  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumière_  
@@ -16964,7 +17765,9 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** commun, draconique  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -16999,6 +17802,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 16  
 >**Langues** toutes  
 >**Puissance** 23 (50000 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _restauration supérieure, marche sur l'eau_  
@@ -17046,6 +17851,8 @@ ___
 >**Langues** quatre langues au choix  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _réparation, message_  
 >- Niv 1 (4) : _projectile magique_  
@@ -17089,6 +17896,8 @@ ___
 >**Langues** —  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Apparence trompeuse**.  
 >**Filaments agrippants**.  
 >**Pattes d'araignée**.
@@ -17129,6 +17938,8 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Écholocalisation**.  
 >**Apnée**.  
 >**Ouïe aiguisée**.
@@ -17168,6 +17979,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Apparence trompeuse**.  
 >**Sensibilité à l'antimagie**.
 >
@@ -17204,6 +18017,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** —  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Camouflage dans la végétation**.  
 >**Régénération**.  
@@ -17246,6 +18061,8 @@ ___
 >**Langues** comprend les langues de son créateur mais ne peut pas parler  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Apparence trompeuse**.
 >
 >Action|**Attaques multiples**.  
@@ -17287,6 +18104,8 @@ ___
 >**Langues** infernal, télépathie 36 m  
 >**Puissance** 12 (8400 PX)
 >
+>___
+>
 >**Armes infernales**.  
 >**Résistance à la magie**.
 >
@@ -17326,6 +18145,8 @@ ___
 >**Langues** deux langues au choix  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Ruse**.  
 >**Attaque sournoise (1/tour)**.
 >
@@ -17363,7 +18184,8 @@ ___
 >**Immunités** psychique  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** profond, comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus
 >
 >_Régénération (slaad uniquement).  
 >Aura murmurante (rejeton stellaire uniquement).  
@@ -17403,7 +18225,8 @@ ___
 >**Immunités** charmé, épuisement, effrayé, incapable d'agir, paralysé, pétrifié, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus
 >
 >Corps brûlant (métal uniquement).  
 >Léthargie de pierre (pierre uniquement).  
@@ -17443,7 +18266,8 @@ ___
 >**Immunités** épuisement, paralysé, pétrifié, empoisonné, inconscient  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** primordial, comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus  
 >
 >Aspect informe (Air, Feu et Eau uniquement).  
 >Attaques multiples.  
@@ -17480,7 +18304,8 @@ ___
 >**Immunités** effrayé  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus  
 >
 >Frénésie de la terreur (Fureur uniquement).  
 >Poids du chagrin (Désespoir uniquement).  
@@ -17517,7 +18342,8 @@ ___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus  
 >
 >Repli aérien (Air uniquement).  
 >Tactique de groupe (Terre et Eau uniquement).  
@@ -17556,7 +18382,8 @@ ___
 >**Immunités** charmé, effrayé  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** céleste, comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus  
 >
 >Attaques multiples.  
 >Arc radiant (Vengeur uniquement).  
@@ -17593,7 +18420,8 @@ ___
 >**Immunités** charmé  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** sylvestre, comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus  
 >
 >Attaques multiples.  
 >Épée courte.  
@@ -17634,7 +18462,8 @@ ___
 >**Immunités** empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** abyssal, infernal, télépathie 18 m  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus  
 >
 >_Spasmes d'agonie (démon uniquement).  
 >Vision du diable (diable uniquement).  
@@ -17675,7 +18504,8 @@ ___
 >**Immunités** épuisement, effrayé, paralysé, empoisonné  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus  
 >
 >_Aura purulente (putréfié uniquement).  
 >Mouvement incorporel (fantôme uniquement).  
@@ -17715,7 +18545,8 @@ ___
 >**Immunités** charmé, effrayé, agrippé, à terre, entravé  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus  
 >
 >_Action|**Graine de flamme**.  
 >Action|**Téléportation ardente**.  
@@ -17751,7 +18582,8 @@ ___
 >**Immunités** charmé, effrayé, empoisonné  
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 12  
 >**Langues** draconique, comprend les langues que vous parlez  
->**Puissance** - **Bonus de maîtrise** égal à votre bonus_
+>**Puissance** -  
+>**Bonus de maîtrise** égal à votre bonus  
 >
 >**Résistances partagées**.
 >
@@ -17791,6 +18623,8 @@ ___
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >_Action|**Épée longue**.  
 >Action|**Arc court**.  
 >Action|**Perception du for intérieur**.  
@@ -17826,7 +18660,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** profond  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >_Rapidité aberrante (Recharge après un repos court ou long).  
 >Sans os.  
@@ -17866,6 +18702,8 @@ ___
 >**Langues** profond  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >_Rapidité aberrante (Recharge après un repos court ou long).  
 >Sans os.  
 >Pattes d'araignée.  
@@ -17904,6 +18742,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** abyssal, commun, infernal  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _prestidigitation_  
@@ -17945,6 +18785,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Pattes d'araignée**.  
 >**Sens de la toile**.  
 >**Déplacement sur la toile**.
@@ -17985,6 +18827,8 @@ ___
 >**Langues** géant, orc  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Bicéphale**.  
 >**Alerte**.
 >
@@ -18024,7 +18868,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 8  
 >**Langues** comprend le commun mais ne peut pas parler  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >_Invisibilité faillible.  
 >Sans trace.  
@@ -18065,6 +18911,8 @@ ___
 >**Langues** comprend le commun mais ne peut pas parler  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >_Invisibilité faillible.  
 >Sans trace.  
 >Griffes.  
@@ -18101,6 +18949,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumière\*, rayon de givre\*_  
@@ -18146,7 +18996,9 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >**Défense sans armure**.
 >
@@ -18188,6 +19040,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Défense sans armure**.
 >
@@ -18493,6 +19347,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Sombre dévotion**.  
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _flamme sacrée, lumière, thaumaturgie_  
@@ -18534,6 +19390,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Déplacement intangible**.  
 >**Vision éthérée**.
 >
@@ -18573,7 +19431,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** sylvestre  
 >**Puissance** 1/8 (25 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >Coups.  
 >Flaque d'huile.  
@@ -18612,6 +19472,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** sylvestre  
 >**Puissance** 1/8 (25 PX)
+>
+>___
 >
 >**Huile de farfadet**.  
 >**Faille dimensionnelle**.  
@@ -18652,6 +19514,8 @@ ___
 >**Langues** commun  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Aura de meurtre**.  
 >**Incantation innée**.  
 >- 1/jour chacun: _déguisement, sanctuaire_  
@@ -18691,6 +19555,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Vue aiguisée**.
 >
 >Action|**Serres**.  
@@ -18725,6 +19591,8 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
+>
+>___
 >
 >**Tactique de groupe**.  
 >**Vue aiguisée**.
@@ -18763,6 +19631,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 12  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Absorption de vie**.  
 >**Éphémère**.  
@@ -18804,6 +19674,8 @@ ___
 >**Langues** profond, commun des profondeurs, télépathie 36 m  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >**Résistance à la magie**.  
 >**Incantation innée (psioniques)**.  
 >- À volonté : _détection des pensées, lévitation_  
@@ -18843,7 +19715,9 @@ ___
 >**Sens** vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 12  
 >**Langues** —  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3_
+>**Bonus de maîtrise** +3  
+>
+>___  
 >
 >_Cadavres.  
 >Pattes d'araignée.  
@@ -18886,6 +19760,8 @@ ___
 >**Langues** —  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >_Cadavres.  
 >Pattes d'araignée.  
 >Puanteur de mort.  
@@ -18925,7 +19801,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** gnoll, abyssal  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4_
+>**Bonus de maîtrise** +4  
+>
+>___  
 >
 >_Aura de Soif de sang.  
 >Attaques multiples.  
@@ -18966,6 +19844,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** gnoll, abyssal  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Aura de Soif de sang**.
 >
@@ -19008,6 +19888,8 @@ ___
 >**Langues** comprend le commun des profondeurs mais ne peut pas parler, télépathie 18 m  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Télépathie avancée**.  
 >**Handicap à terre**.  
 >**Voile télépathique**.
@@ -19047,6 +19929,8 @@ ___
 >**Langues** géant, commun des profondeurs  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >_Action|**Attaques multiples**.  
 >Action|**Massue**. +9, 4,50 m, 3d8+6 contondants  
 >Action|**Mauvais Œil**.  
@@ -19084,7 +19968,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** commun plus une autre langue  
 >**Puissance** 1/8 (25 PX)  
->**Bonus de maîtrise** +2_
+>**Bonus de maîtrise** +2  
+>
+>___  
 >
 >**Compétence secrète**.
 >
@@ -19128,7 +20014,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 24  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 23 (50000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -19176,6 +20064,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 23 (50000 PX)
 >
+>___
+>
 >Incantation innée.  
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -19220,7 +20110,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 19  
 >**Langues** —  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Amphibien.  
 >Vulnérabilité à l'électrocution.  
@@ -19262,6 +20154,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 19  
 >**Langues** —  
 >**Puissance** 10 (5900 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Vulnérabilité à l'électrocution**.
@@ -19305,6 +20199,8 @@ ___
 >**Langues** terreux  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >**Apparence trompeuse**.  
 >**Charge en roulade**.
 >
@@ -19344,6 +20240,8 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** commun  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Aura de terreur**.  
 >**Incantation**.  
@@ -19390,6 +20288,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >Action|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
 >
 >_Monster Manual (SRD)_
@@ -19423,6 +20323,8 @@ ___
 >**Immunités** charmé, épuisement, effrayé, paralysé, empoisonné  
 >**Langues** comprend les ordres donnés dans toutes les langues mais ne peut pas parler  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >**Lien**.  
 >**Régénération**.  
@@ -19465,6 +20367,8 @@ ___
 >**Langues** terreux  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Apparence trompeuse**.
 >
 >Action|**Attaques multiples**.  
@@ -19502,6 +20406,8 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** commun (ne peut pas parler sous forme de chacal)  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Odorat et ouïe aiguisés**.  
@@ -19544,7 +20450,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 15  
 >**Langues** profond, commun des profondeurs  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Regard étourdissant.  
 >Spasmes d'agonie.  
@@ -19584,6 +20492,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 15  
 >**Langues** profond, commun des profondeurs  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Regard étourdissant**.  
 >**Spasmes d'agonie**.
@@ -19630,7 +20540,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Imitation.  
 >Morsure.  
@@ -19670,6 +20582,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Agressif**.  
 >**Imitation**.
@@ -19713,6 +20627,8 @@ ___
 >**Langues** géant  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Massue**. +8, 3 m, 3d8+5 contondants  
 >Action|**Rocher**. +8, 18/72 m, 3d10+5 contondants  
@@ -19747,6 +20663,8 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** géant, gobelin  
 >**Puissance** 1 (100 PX)
+>
+>___
 >
 >**Attaques multiples**.
 >
@@ -19785,6 +20703,8 @@ ___
 >**Sens** Perception passive 17  
 >**Langues** commun, géant  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Odorat aiguisé**.  
 >**Incantation innée**.  
@@ -19826,7 +20746,9 @@ ___
 >**Sens** Perception passive 21  
 >**Langues** commun, géant  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Contrôle du climat (sort niveau 8).  
 >Attaques multiples.  
@@ -19868,6 +20790,8 @@ ___
 >**Sens** Perception passive 17  
 >**Langues** commun, géant  
 >**Puissance** 11 (7200 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _détection de la magie, lumière_  
@@ -19918,6 +20842,8 @@ ___
 >**Langues** géant  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >**Camouflage dans les rochers**.
 >
 >Action|**Attaques multiples**.  
@@ -19957,7 +20883,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, géant  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Charme d'onirien.  
 >Attaques multiples.  
@@ -19998,6 +20926,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, géant  
 >**Puissance** 10 (5900 PX)
+>
+>___
 >
 >**Charme d'onirien**.
 >
@@ -20041,6 +20971,8 @@ ___
 >**Langues** commun, géant  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Incantation innée**.  
 >- À volonté : _détection de la magie, lévitation, lumière_  
@@ -20083,6 +21015,8 @@ ___
 >**Sens** vision véritable 18 m, Perception passive 20  
 >**Langues** commun, géant  
 >**Puissance** 16 (15000 PX)
+>
+>___
 >
 >Amphibien.  
 >Résistance légendaire (1/jour).  
@@ -20128,6 +21062,8 @@ ___
 >**Langues** commun, géant  
 >**Puissance** 16 (15000 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Attaques multiples**.  
@@ -20171,6 +21107,8 @@ ___
 >**Langues** géant  
 >**Puissance** 9 (5000 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Épée à deux mains**. +11, 3 m, 6d6+7 tranchants  
 >Action|**Rocher**. +11, 18/72 m, 4d10+7 contondants  
@@ -20207,7 +21145,9 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** géant  
 >**Puissance** 14 (11500 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Double boucliers.  
 >Attaques multiples.  
@@ -20248,6 +21188,8 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** géant  
 >**Puissance** 14 (11500 PX)
+>
+>___
 >
 >**Double boucliers**.
 >
@@ -20290,6 +21232,8 @@ ___
 >**Langues** géant  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Hache à deux mains**. +9, 3 m, 3d12+6 tranchants  
 >Action|**Rocher**. +9, 18/72 m, 4d10+6 contondants  
@@ -20326,7 +21270,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** géant  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Têtes supplémentaires.  
 >Régénération.  
@@ -20368,6 +21314,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** géant  
 >**Puissance** 12 (8400 PX)
+>
+>___
 >
 >**Têtes supplémentaires**.  
 >**Régénération**.  
@@ -20411,6 +21359,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Informe**.  
 >**Pattes d'araignée**.
 >
@@ -20451,7 +21401,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 20  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 22 (41000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -20501,6 +21453,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 22 (41000 PX)
 >
+>___
+>
 >Incantation innée.  
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -20544,7 +21498,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** commun  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Connaissance des armes à feu.  
 >Charge tête la première.  
@@ -20585,6 +21541,8 @@ ___
 >**Langues** commun  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Connaissance des armes à feu.  
 >Charge tête la première.  
 >Attaques multiples.  
@@ -20624,7 +21582,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** —  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -20662,6 +21622,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** —  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Agressif**.  
 >**Odorat aiguisé**.
@@ -20702,6 +21664,8 @@ ___
 >**Langues** gith  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >**Incantation innée (psioniques)**.  
 >- À volonté : _main de mage_ (la main est invisible)  
 >- 3/jour chacun : _foulée brumeuse, antidétection_ (personnel uniquement), _don des langues_  
@@ -20741,7 +21705,9 @@ ___
 >**Sens** Perception passive 18  
 >**Langues** gith  
 >**Puissance** 14 (11500 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Attaques multiples.  
@@ -20785,6 +21751,8 @@ ___
 >**Langues** gith  
 >**Puissance** 14 (11500 PX)
 >
+>___
+>
 >Incantation innée (psioniques).  
 >Attaques multiples.  
 >Épée à deux mains en argent.  
@@ -20825,7 +21793,9 @@ ___
 >**Sens** Perception passive 16  
 >**Langues** gith  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Attaques multiples.  
 >Épée longue.  
@@ -20866,6 +21836,8 @@ ___
 >**Langues** gith  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >Incantation innée (psioniques).  
 >Incantation.  
 >Magie de guerre.  
@@ -20903,6 +21875,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** gith  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Incantation innée (psioniques)**.  
 >- À volonté : _main de mage_ (la main est invisible)  
@@ -20942,7 +21916,9 @@ ___
 >**Sens** Perception passive 16  
 >**Langues** gith  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Attaques multiples.  
 >Épée à deux mains.  
@@ -20984,6 +21960,8 @@ ___
 >**Langues** gith  
 >**Puissance** 12 (8400 PX)
 >
+>___
+>
 >Incantation innée (psioniques).  
 >Ralliement des troupes.  
 >Attaques multiples.  
@@ -21022,7 +22000,9 @@ ___
 >**Sens** Perception passive 20  
 >**Langues** gith  
 >**Puissance** 16 (15000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Défense psychique.  
@@ -21066,6 +22046,8 @@ ___
 >**Langues** gith  
 >**Puissance** 16 (15000 PX)
 >
+>___
+>
 >Incantation innée (psioniques).  
 >Défense psychique.  
 >Attaques multiples.  
@@ -21106,7 +22088,9 @@ ___
 >**Sens** Perception passive 18  
 >**Langues** gith  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Défense psychique.  
 >Attaques multiples.  
@@ -21148,6 +22132,8 @@ ___
 >**Langues** gith  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >Incantation innée (psioniques).  
 >Défense psychique.  
 >Attaques multiples.  
@@ -21186,6 +22172,8 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** gith  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Incantation innée (psioniques)**.  
 >- À volonté : _main de mage_ (la main est invisible)  
@@ -21227,6 +22215,8 @@ ___
 >**Sens** Perception passive 16  
 >**Langues** gith  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Incantation innée (psioniques)**.  
 >- À volonté : _main de mage_ (la main est invisible)  
@@ -21272,6 +22262,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 9 (5000 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _ténèbres, détection de la magie, dissipation de la magie_  
 >- 1/jour chacun : _mot de pouvoir étourdissant_  
@@ -21313,6 +22305,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Brave**.  
 >**Brutal**.
 >
@@ -21351,6 +22345,8 @@ ___
 >**Langues** gnoll  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Déchaîné**.
 >
 >Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
@@ -21387,7 +22383,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** gnoll  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -21427,6 +22425,8 @@ ___
 >**Langues** gnoll  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Déchaîné**.
 >
 >Action|**Attaques multiples**.  
@@ -21465,7 +22465,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** gnoll  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -21504,6 +22506,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** gnoll  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Déchaîné**.
 >
@@ -21544,6 +22548,8 @@ ___
 >**Langues** abyssal, gnoll  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Déchaîné**.
 >
 >Action|**Attaques multiples**.  
@@ -21582,7 +22588,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 7  
 >**Langues** comprend le gnoll mais ne peut pas parler  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Nature insolite.  
 >Attaques multiples.  
@@ -21624,6 +22632,8 @@ ___
 >**Langues** comprend le gnoll mais ne peut pas parler  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Déchaîné**.
 >
 >Action|**Attaques multiples**.  
@@ -21661,6 +22671,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** gnoll  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Déchaîné**.
 >
@@ -21702,6 +22714,8 @@ ___
 >**Langues** gnome, terreux, commun des profondeurs  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Camouflage dans les rochers**.  
 >**Ruse de gnome**.  
 >**Incantation innée**.  
@@ -21741,6 +22755,8 @@ ___
 >**Langues** commun, gobelin  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Fuite agile**.
 >
 >Action|**Cimeterre**. +4, 1,50 m, 1d6+2 tranchants  
@@ -21776,6 +22792,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, gobelin  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Fuite agile**.
 >
@@ -21816,6 +22834,8 @@ ___
 >**Langues** commun, gobelin  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Attaque surprise**.  
 >**Brutal**.
 >
@@ -21852,6 +22872,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, gobelin  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Attaque surprise**.  
 >**Brutal**.  
@@ -21893,6 +22915,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** comprend les langues de son créateur mais ne peut pas parler  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Absorption de l'acide**.  
 >**Fou furieux**.  
@@ -21938,6 +22962,8 @@ ___
 >**Langues** comprend les langues de son créateur mais ne peut pas parler  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Aversion au feu**.  
 >**Forme immuable**.  
 >**Dissimulation**.  
@@ -21979,6 +23005,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend les langues de son créateur mais ne peut pas parler  
 >**Puissance** 13 (10000 PX)
+>
+>___
 >
 >**Absorption de la foudre**.  
 >**Forme immuable**.  
@@ -22024,6 +23052,8 @@ ___
 >**Langues** comprend les langues de son créateur mais ne peut pas parler  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Fou furieux**.  
 >**Absorption de la foudre**.  
 >**Aversion au feu**.  
@@ -22065,6 +23095,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend les langues de son créateur mais ne peut pas parler  
 >**Puissance** 16 (15000 PX)
+>
+>___
 >
 >**Absorption du feu**.  
 >**Forme immuable**.  
@@ -22109,6 +23141,8 @@ ___
 >**Langues** comprend les langues de son créateur mais ne peut pas parler  
 >**Puissance** 9 (5000 PX)
 >
+>___
+>
 >**Absorption du froid**.  
 >**Forme immuable**.  
 >**Résistance à la magie**.  
@@ -22152,6 +23186,8 @@ ___
 >**Langues** comprend les langues de son créateur mais ne peut pas parler  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >**Forme immuable**.  
 >**Résistance à la magie**.  
 >**Armes magiques**.
@@ -22191,7 +23227,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend le draconique et les langages de son créateur mais ne peut pas parler  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Aura de peur.  
 >Résistance à la magie.  
@@ -22234,6 +23272,8 @@ ___
 >**Langues** —  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Charge écrasante**.
 >
 >Action|**Corne**. +8, 1,50 m, 2d12+5 perforants  
@@ -22274,6 +23314,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 17  
 >**Langues** abyssal  
 >**Puissance** 17 (18000 PX)
+>
+>___
 >
 >**Charge**.  
 >**Mémoire de labyrinthe**.  
@@ -22318,6 +23360,8 @@ ___
 >**Langues** commun  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >Action|**Griffes**. +4, 1,50 m, 2d4+2 tranchants  
 >Action|**Morsure**. +2, 1,50 m, 2d6+2 perforants  
 >
@@ -22354,7 +23398,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 31  
 >**Langues** commun, draconique  
 >**Puissance** 27 (105000 PX)  
->**Bonus de maîtrise** +8
+>**Bonus de maîtrise** +8  
+>
+>___
 >
 >Éveil chromatique (Recharge après un repos court ou long).  
 >Résistance légendaire (4/jour).  
@@ -22404,7 +23450,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 25  
 >**Langues** commun, draconique  
 >**Puissance** 26 (90000 PX)  
->**Bonus de maîtrise** +8
+>**Bonus de maîtrise** +8  
+>
+>___
 >
 >Éveil des gemmes (Recharge après un repos court ou long).  
 >Résistance légendaire (4/jour).  
@@ -22455,7 +23503,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 32  
 >**Langues** commun, draconique  
 >**Puissance** 28 (120000 PX)  
->**Bonus de maîtrise** +8
+>**Bonus de maîtrise** +8  
+>
+>___
 >
 >Résistance légendaire (4/jour).  
 >Éveil métallique (Recharge après un repos court ou long).  
@@ -22505,6 +23555,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Poing**. +5, 1,50 m, 1d6+3 contondants  
 >Action|**Rocher**. +5, 7,50/15 m, 1d6+3 contondants  
@@ -22543,7 +23595,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 22  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 24 (62000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -22593,6 +23647,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 24 (62000 PX)
 >
+>___
+>
 >**Métamorphe**.  
 >**Incantation innée**.  
 >- À volonté : _couronne du dément, détection de la magie, murmures dissonants_  
@@ -22641,7 +23697,9 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** commun, draconique  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -22676,6 +23734,8 @@ ___
 >**Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 14  
 >**Langues** grell  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Tentacules**. +4, 3 m, 1d10+2 perforants  
@@ -22713,6 +23773,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (0 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Saut sans élan**.  
 >
@@ -22746,6 +23808,8 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 12  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Saut sans élan**.
@@ -22784,6 +23848,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Camouflage dans les rochers**.
 >
 >Action|**Attaques multiples**.  
@@ -22820,6 +23886,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** —  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >**Camouflage dans les rochers**.
 >
@@ -22861,6 +23929,8 @@ ___
 >**Langues** comprend le commun mais ne peut pas parler  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Immunité au renvoi**.
 >
 >Action|**Griffes**.  
@@ -22899,7 +23969,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 16  
 >**Langues** commun plus la langue principale de son maître  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Reconstitution.  
 >Nature insolite.  
@@ -22944,6 +24016,8 @@ ___
 >**Langues** commun plus la langue principale de son maître  
 >**Puissance** 12 (8400 PX)
 >
+>___
+>
 >Reconstitution.  
 >Discrétion dans les ombres.  
 >Attaques multiples.  
@@ -22982,6 +24056,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Vue aiguisée**.
 >
@@ -23022,7 +24098,9 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** grung  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Amphibien.  
 >Peau vénéneuse.  
@@ -23064,7 +24142,9 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** grung  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Amphibien.  
 >Peau vénéneuse.  
@@ -23109,6 +24189,8 @@ ___
 >**Langues** grung  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Peau vénéneuse**.  
 >**Saut sans élan**.
@@ -23152,6 +24234,8 @@ ___
 >**Langues** grung  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Peau vénéneuse**.  
 >**Saut sans élan**.
@@ -23192,7 +24276,9 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** grung  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Amphibien.  
 >Peau vénéneuse.  
@@ -23237,6 +24323,8 @@ ___
 >**Langues** grung  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Peau vénéneuse**.  
 >**Saut sans élan**.  
@@ -23280,7 +24368,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** commun, géant, sylvestre  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -23322,6 +24412,8 @@ ___
 >**Langues** commun, géant, sylvestre  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- 3/jour chacun : _déguisement_ (peut prendre la forme d'un humanoïde de taille M), _nappe de brouillard_  
 >Action|**Attaques multiples**.  
@@ -23362,7 +24454,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** aérien, commun, géant  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Contrôle du climat (1/jour).  
 >Magie de bâton-gris.  
@@ -23407,6 +24501,8 @@ ___
 >**Langues** aérien, commun, géant  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >**Magie de bâton-gris**.  
 >**Marche sur la glace**.  
 >**Incantation innée**.  
@@ -23446,6 +24542,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** aquatique, commun, géant  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Apparence horrifique**.
@@ -23487,6 +24585,8 @@ ___
 >**Langues** abyssal, commun, infernal, primordial  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _détection de la magie, projectile magique_  
 >- 2/jour chacun : _sommeil_  
@@ -23527,6 +24627,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** commun, draconique, sylvestre  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Incantation innée**.  
@@ -23570,6 +24672,8 @@ ___
 >**Langues** infernal, télépathie 90 m (avec d'autres guêpes des enfers uniquement)  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Armes magiques**.
 >
 >Action|**Attaques multiples**.  
@@ -23608,6 +24712,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >Action|**Dard**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Monster Manual (SRD)_
@@ -23642,6 +24748,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** comprend le commun mais ne peut pas parler  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Tenacité de mort-vivant**.
 >
@@ -23679,6 +24787,8 @@ ___
 >**Langues** une langue au choix  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Tactique de groupe**.
 >
 >Action|**Lance**. +3, 1,50 m ou 6/18 m, 1d6+1 perforants  
@@ -23715,7 +24825,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Morsure.  
 >Dégorgement (Recharge 6).  
@@ -23754,6 +24866,8 @@ ___
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Déchaîné**.
 >
 >Action|**Morsure**. +4, 1,50 m, 2d8+2 perforants  
@@ -23790,7 +24904,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** géant  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Gueule du chaos.  
 >Morsure.  
@@ -23828,6 +24944,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** géant  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Geule de la démence**.  
 >**1-3**.  
@@ -23872,6 +24990,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 18  
 >**Langues** commun, sphinx  
 >**Puissance** 11 (7200 PX)
+>
+>___
 >
 >**Inscrutable**.  
 >**Armes magiques**.  
@@ -23922,6 +25042,8 @@ ___
 >**Langues** abyssal, céleste, commun, draconique, nain, elfique, infernal, commun des profondeurs  
 >**Puissance** 23 (50000 PX)
 >
+>___
+>
 >Équipement spécial.  
 >Incantation.  
 >Reconstitution.  
@@ -23963,6 +25085,8 @@ ___
 >**Langues** commun  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +3, 1,50 m, 2d4+1 tranchants  
 >Action|**Gourdin**. +3, 1,50 m, 1d4+1 contondants  
@@ -23999,7 +25123,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** aquatique, commun, jargon des voleurs  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Amphibien (forme hybride uniquement).  
 >Attaques multiples.  
@@ -24041,6 +25167,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** aquatique, commun, jargon des voleurs  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Amphibien (forme hybride uniquement)**.
@@ -24086,6 +25214,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >**Résistance à la magie**.  
 >**Puanteur**.
 >
@@ -24123,6 +25253,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (0 PX)
 >
+>___
+>
 >**Respiration aquatique**.  
 >
 >_Monster Manual (SRD)_
@@ -24154,6 +25286,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Charge**.  
 >**Respiration aquatique**.
@@ -24191,6 +25325,8 @@ ___
 >**Langues** —  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Vue aiguisée**.
 >
 >Action|**Attaques multiples**.  
@@ -24227,6 +25363,8 @@ ___
 >**Langues** commun, gobelin  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Avantage martial**.
 >
 >Action|**Épée longue**. +3, 1,50 m, 1d8+1 tranchants  
@@ -24261,6 +25399,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, gobelin  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Avantage martial**.
 >
@@ -24300,7 +25440,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, gobelin  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Arcanes de l'armée.  
 >Attaques multiples.  
@@ -24339,6 +25481,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, gobelin  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Avantage des arcanes**.  
 >**Arcanes de l'armée**.  
@@ -24381,7 +25525,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** commun, gobelin  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Défense sans armure.  
 >Attaques multiples.  
@@ -24421,6 +25567,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** commun, gobelin  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Incantation**.  
 >Sorts mineurs (à volonté) : _coup au but_  
@@ -24464,6 +25612,8 @@ ___
 >**Langues** commun, gobelin  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >**Avantage martial**.
 >
 >Action|**Attaques multiples**.  
@@ -24505,6 +25655,8 @@ ___
 >**Langues** draconique  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Apnée**.
 >
 >Action|**Attaques multiples**.  
@@ -24543,6 +25695,8 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** draconique  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Apnée**.  
 >**Incantation (forme d'homme-lézard uniquement)**.  
@@ -24587,6 +25741,8 @@ ___
 >**Langues** aquatique, commun  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Lance**. +2, 1,50 m ou 6/18 m, 1d6 perforants  
@@ -24622,6 +25778,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend les langues de son créateur mais ne peut pas parler  
 >**Puissance** 0 (10 PX)
+>
+>___
 >
 >**Lien télépathique**.
 >
@@ -24660,6 +25818,8 @@ ___
 >**Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 14  
 >**Langues** comprend les langues de son créateur mais ne peut pas parler  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Résistance à la magie**.  
 >**Immunité aux sorts**.
@@ -24701,7 +25861,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 15  
 >**Langues** comprend l'abyssal, l'elfique et le commun des profondeurs mais ne peut pas parler  
 >**Puissance** 14 (11500 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Traqueur irréprochable.  
 >Attaques multiples.  
@@ -24745,6 +25907,8 @@ ___
 >**Langues** comprend l'abyssal, l'elfique et le commun des profondeurs mais ne peut pas parler  
 >**Puissance** 14 (11500 PX)
 >
+>___
+>
 >Traqueur irréprochable.  
 >Incantation innée.  
 >Attaques multiples.  
@@ -24784,6 +25948,8 @@ ___
 >**Langues** horreur crochue  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Écholocalisation**.  
 >**Audition affûtée**.
 >
@@ -24822,6 +25988,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** commun, orc  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Brave**.  
 >**Brutal**.
@@ -24864,7 +26032,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Tactique de groupe.  
 >Attaques multiples.  
@@ -24904,6 +26074,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 8 (3900 PX)
+>
+>___
 >
 >Tactique de groupe.  
 >Attaques multiples.  
@@ -24945,7 +26117,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 21  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 21 (33000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Désespoir infernal.  
 >Résistance légendaire (3/jour)  
@@ -24999,6 +26173,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 21 (33000 PX)
 >
+>___
+>
 >Désespoir infernal.  
 >Incantation innée.  
 >Résistance légendaire (3/jour)  
@@ -25048,6 +26224,8 @@ ___
 >**Langues** —  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >**Apnée**.  
 >**Têtes multiples**.  
 >**Têtes réactives**.  
@@ -25090,7 +26268,9 @@ ___
 >**Sens** vision dans le noir 18 m, vision aveugle 18 m, Perception passive 14  
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Amphibien.  
 >Résistance à la magie.  
@@ -25139,6 +26319,8 @@ ___
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 9 (5000 PX)
 >
+>___
+>
 >Amphibien.  
 >Résistance à la magie.  
 >Armes magiques.  
@@ -25182,6 +26364,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Tactique de groupe**.
 >
 >Action|**Morsure**. +2, 1,50 m, 1d6 perforants  
@@ -25216,6 +26400,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** —  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Déchaîné**.
 >
@@ -25254,7 +26440,9 @@ ___
 >**Sens** vision véritable 18 m, Perception passive 11  
 >**Langues** abyssal, célestial, commun, draconique, elfique, infernal, sylvestre  
 >**Puissance** 20 (25000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Adventures (The Wild Beyond the Witchlight)
 {: .statblock5e }
@@ -25287,6 +26475,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** quatre langues au choix  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumières dansantes, bouffée de poison_  
@@ -25333,6 +26523,8 @@ ___
 >**Sens** vision aveugle 36 m, Perception passive 13  
 >**Langues** commun, igné  
 >**Puissance** 19 (22000 PX)
+>
+>___
 >
 >_Adventures (Princes of the Apocalypse)_
 >{: .label .label.label-statblock }
@@ -25637,6 +26829,8 @@ ___
 >**Langues** quatre langues au choix  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _bouffée de poison, prestidigitation_  
 >- Niv 1 (4) : _serviteur invisible\*_  
@@ -25681,6 +26875,8 @@ ___
 >**Langues** elfique, géant  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Préservation de la vie (Recharge après un repos court ou long)**.  
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _flamme sacrée, lumière, stabilisation_  
@@ -25723,6 +26919,8 @@ ___
 >**Sens** darkvision 36 m, Perception passive 18  
 >**Langues** abyssal, commun, draconique, nain, elfique, commun des profondeurs  
 >**Puissance** 15 (13000 PX)
+>
+>___
 >
 >Équipement spécial.  
 >Ascendance féerique.  
@@ -25774,7 +26972,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 22  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 23 (50000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Fétide.  
 >Résistance légendaire (3/jour).  
@@ -25824,6 +27024,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 23 (50000 PX)
 >
+>___
+>
 >Fétide.  
 >Incantation innée.  
 >Résistance légendaire (3/jour).  
@@ -25870,6 +27072,8 @@ ___
 >**Langues** comprend l'aérien et le commun mais ne peut parler qu'en utilisant son trait Imitation des sons  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Embuscade**.  
 >**Imitation**.
 >
@@ -25909,7 +27113,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -25954,6 +27160,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 12 (8400 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _image majeure_ (lancé au niveau 6), _marche sur le vent_  
@@ -26010,6 +27218,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Sensibilité au soleil**.  
 >**Tactique de groupe**.
 >
@@ -26045,6 +27255,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, draconique  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Sensibilité au soleil**.  
 >**Tactique de groupe**.
@@ -26084,7 +27296,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, draconique  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Résistance de dragon.  
 >Cœur du dragon.  
@@ -26126,6 +27340,8 @@ ___
 >**Langues** commun, draconique  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Résistance de dragon**.  
 >**Cœur du dragon**.  
 >**Sensibilité au soleil**.  
@@ -26165,7 +27381,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, draconique  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Tactique de groupe.  
 >Sensibilité au soleil.  
@@ -26205,6 +27423,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, draconique  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Incantation**.  
 >Sorts mineurs (à volonté) : _réparation, bouffée de poison_  
@@ -26246,7 +27466,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, draconique  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Tactique de groupe.  
 >Sensibilité au soleil.  
@@ -26285,6 +27507,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, draconique  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Tactique de groupe**.  
 >**Sensibilité au soleil**.
@@ -26333,7 +27557,9 @@ ___
 >**Sens** vision dans le noir 36 m, perception des vibrations 36 m, Perception passive 15  
 >**Langues** nain, gnome, sylvestre, terreux, commun des profondeurs  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Camouflage dans les rochers.  
 >Attaques multiples.  
@@ -26374,6 +27600,8 @@ ___
 >**Sens** vision dans le noir 36 m, perception des vibrations 36 m, Perception passive 15  
 >**Langues** nain, gnome, sylvestre, terreux, commun des profondeurs  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >**Corde de cheveux**.  
 >**Incantation innée**.  
@@ -26420,6 +27648,8 @@ ___
 >**Langues** comprend l'abyssal, le céleste, l'infernal et le primordial mais ne peut pas parler, télépathie 36 m  
 >**Puissance** 23 (50000 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Liberté de mouvement**.  
 >**Monstre de siège**.
@@ -26463,7 +27693,9 @@ ___
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 15  
 >**Langues** kruthik  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Tactique de groupe.  
 >Fouisseur.  
@@ -26502,6 +27734,8 @@ ___
 >**Langues** kruthik  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Odorat aiguisé.  
 >Tactique de groupe.  
 >Fouisseur.  
@@ -26539,7 +27773,9 @@ ___
 >**Sens** vision dans le noir 9 m, perception des vibrations 18 m, Perception passive 14  
 >**Langues** kruthik  
 >**Puissance** 1/8 (25 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Tactique de groupe.  
 >Fouisseur.  
@@ -26576,6 +27812,8 @@ ___
 >**Langues** kruthik  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >Odorat aiguisé.  
 >Tactique de groupe.  
 >Fouisseur.  
@@ -26611,7 +27849,9 @@ ___
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 18  
 >**Langues** kruthik  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Tactique de groupe.  
 >Fouisseur.  
@@ -26650,6 +27890,8 @@ ___
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 12  
 >**Langues** kruthik  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >Odorat aiguisé.  
 >Tactique de groupe.  
@@ -26690,6 +27932,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** commun des profondeurs  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Perception d'un autre monde**.  
@@ -26732,6 +27976,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 19  
 >**Langues** commun des profondeurs  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Perception d'un autre monde**.  
@@ -26780,6 +28026,8 @@ ___
 >**Langues** commun des profondeurs  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Perception d'un autre monde**.  
 >**Visqueux**.  
@@ -26824,6 +28072,8 @@ ___
 >**Langues** commun  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >Attaques multiples.  
 >Bras épineux.  
 >Étreinte.  
@@ -26862,6 +28112,8 @@ ___
 >**Langues** commun  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >Colère montante.  
 >Deux têtes.  
 >Attaques multiples.  
@@ -26898,6 +28150,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun  
 >**Puissance** 11 (7200 PX)
+>
+>___
 >
 >Faim de vie.  
 >Attaques multiples.  
@@ -26936,6 +28190,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >Tactique de groupe misérable.  
 >Morsure.  
 >
@@ -26970,6 +28226,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >Suceur psychique.  
 >Avantage sur les groupes.  
@@ -27012,6 +28270,8 @@ ___
 >**Sens** vision véritable 18 m, Perception passive 21  
 >**Langues** commun, draconique, nain, elfique, géant, infernal  
 >**Puissance** 17 (18000 PX)
+>
+>___
 >
 >**Équipement spécial**.  
 >**Résistance à la magie**.  
@@ -27064,6 +28324,8 @@ ___
 >**Langues** commun  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Aura de meurtre**.
 >
 >Action|**Dague**. +4, 1,50 m ou 6/18 m, 1d4+2 perforants  
@@ -27099,6 +28361,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, commun  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _déguisement_ (n'importe quelle forme humanoïde), _image majeure_  
@@ -27141,6 +28405,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _amitié avec les animaux_ (serpents uniquement)  
@@ -27187,6 +28453,8 @@ ___
 >**Langues** comprend l'infernal mais ne peut pas parler  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Vision de diable**.  
 >**Reconstitution infernale**.
 >
@@ -27222,7 +28490,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** abyssal, gnoll  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Imitation.  
 >Déchaîné.  
@@ -27262,6 +28532,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** abyssal, gnoll  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Odorat aiguisé**.  
 >**Retraite percutante**.  
@@ -27306,7 +28578,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** —  
 >**Puissance** 20 (25000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Gel partiel.  
@@ -27354,6 +28628,8 @@ ___
 >**Langues** —  
 >**Puissance** 20 (25000 PX)
 >
+>___
+>
 >Résistance légendaire (3/jour).  
 >Gel partiel.  
 >Monstre de siège.  
@@ -27396,6 +28672,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >Action|**Morsure**.  
 >
 >_Monster Manual (SRD)_
@@ -27427,6 +28705,8 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >Action|**Morsure**. +4, 1,50 m, 1d8+2 perforants  
 >
@@ -27462,6 +28742,8 @@ ___
 >**Sens** vision aveugle 9 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Faux semblant**.
 >
@@ -27503,6 +28785,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 19  
 >**Langues** commun et jusqu'à cinq autres langues  
 >**Puissance** 21 (33000 PX)
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.  
 >**Reconstitution**.  
@@ -27557,6 +28841,8 @@ ___
 >**Langues** céleste, elfique, sylvestre, télépathie 18 m  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Charge**.  
 >**Incantation innée**.  
 >- À volonté : _détection du mal et du bien, passage sans trace_  
@@ -27604,6 +28890,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Apparence trompeuse**.  
 >**Régénération**.
 >
@@ -27643,6 +28931,8 @@ ___
 >**Langues** commun  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Apparence trompeuse**.
 >
 >Action|**Constriction**. +4, 3 m, 2d6+2 contondants  
@@ -27680,6 +28970,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (0 PX)
 >
+>___
+>
 >**Évasion**.  
 >
 >
@@ -27713,6 +29005,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** —  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Odorat aiguisé**.  
 >**Tactique de groupe**.  
@@ -27753,6 +29047,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.
 >
@@ -27789,6 +29085,8 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** commun, géant, loup arctique  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.  
@@ -27829,6 +29127,8 @@ ___
 >**Langues** commun (ne peut pas parler sous forme de loup)  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Métamorphe**.  
 >**Odorat et ouïe aiguisés**.
 >
@@ -27868,6 +29168,8 @@ ___
 >**Langues** —  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Odorat et ouïe aiguisés**.  
 >**Tactique de groupe**.
 >
@@ -27906,7 +29208,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend l'infernal mais ne peut pas parler  
 >**Puissance** 16 (15000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Forme immuable.  
 >Résistance à la magie.  
@@ -27949,6 +29253,8 @@ ___
 >**Langues** comprend l'infernal mais ne peut pas parler  
 >**Puissance** 16 (15000 PX)
 >
+>___
+>
 >Forme immuable.  
 >Résistance à la magie.  
 >Foulée fracassante.  
@@ -27986,6 +29292,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumière, prestidigitation_  
@@ -28027,7 +29335,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Attaques multiples.  
 >Explosion arcanique.  
@@ -28067,7 +29377,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Explosion arcanique.  
@@ -28107,7 +29419,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Explosion arcanique.  
@@ -28146,7 +29460,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Attaques multiples.  
 >Explosion arcanique.  
@@ -28185,7 +29501,9 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** quatre langues au choix  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Attaques multiples.  
 >Explosion arcanique.  
@@ -28224,7 +29542,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Explosion arcanique.  
@@ -28265,7 +29585,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Attaques multiples.  
 >Explosion arcanique.  
@@ -28305,7 +29627,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Explosion arcanique.  
@@ -28345,6 +29669,8 @@ ___
 >**Langues** igné  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Mort explosive**.  
 >**Illumination enflammée**.
 >
@@ -28381,6 +29707,8 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** abyssal, commun, infernal  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Magie de la tombe**.  
 >**Incantation**.  
@@ -28427,7 +29755,9 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** une langue au choix (généralement le commun) et le jargon des voleurs  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >**Évasion**.
 >
@@ -28470,6 +29800,8 @@ ___
 >**Langues** une langue au choix (généralement le commun) et le jargon des voleurs  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Action fourbe**.  
 >**Évasion**.  
 >**Attaque sournoise (1/tour)**.
@@ -28511,6 +29843,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** commun, elfique, draconique, commun des profondeurs  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Équipement spécial**.  
 >**Incantation**.  
@@ -28557,6 +29891,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Tactique de groupe**.
 >
 >Action|**Attaques multiples**.  
@@ -28592,6 +29928,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** —  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Charge écrasante**.
 >
@@ -28631,6 +29969,8 @@ ___
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >Action|**Griffes**. +2, 1,50 m, 2d4 tranchants  
 >
 >_Monster Manual_
@@ -28665,6 +30005,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** commun, draconique, goblin, infernal, orc, commun des profondeurs  
 >**Puissance** 13 (10000 PX)
+>
+>___
 >
 >Équipement spécial.  
 >Résistance à la magie.  
@@ -28704,6 +30046,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Écholocalisation**.  
 >**Apparence trompeuse**.
 >
@@ -28740,6 +30084,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** profond, commun des profondeurs  
 >**Puissance** 8 (3900 PX)
+>
+>___
 >
 >**Transfert de dégâts**.  
 >**Apparence trompeuse**.  
@@ -28781,6 +30127,8 @@ ___
 >**Langues** commun  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Refloraison de piquants**.
 >
 >Action|**Attaques multiples**.  
@@ -28819,6 +30167,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 13  
 >**Langues** aquatique  
 >**Puissance** 11 (7200 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Disparition élémentaire**.  
@@ -28865,6 +30215,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 16 (15000 PX)
 >
+>___
+>
 >**Résistance à la magie**.  
 >**Armes magiques**.  
 >**Réactif**.
@@ -28909,7 +30261,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 20  
 >**Langues** toutes mais parle rarement  
 >**Puissance** 25 (75000 PX)  
->**Bonus de maîtrise** +8
+>**Bonus de maîtrise** +8  
+>
+>___
 >
 >Forme immuable.  
 >Résistance légendaire (3/jour).  
@@ -28956,6 +30310,8 @@ ___
 >**Langues** toutes mais parle rarement  
 >**Puissance** 25 (75000 PX)
 >
+>___
+>
 >Forme immuable.  
 >Incantation innée.  
 >Résistance légendaire (3/jour).  
@@ -28995,6 +30351,8 @@ ___
 >**Sens** vision dans le noir 36 m, perception des vibrations 18 m, Perception passive 10  
 >**Langues** mastodonte des ombres  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Regard déstabilisant**.  
 >**Fouisseur**.
@@ -29037,7 +30395,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** abyssal, elfique, télépathie 36 m  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Prendre une forme.  
 >Résistance à la magie.  
@@ -29081,6 +30441,8 @@ ___
 >**Langues** abyssal, elfique, télépathie 36 m  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >Prendre une forme.  
 >Résistance à la magie.  
 >Attaques multiples.  
@@ -29119,6 +30481,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** commun  
 >**Puissance** 6 (2300 PX)
+>
+>___
 >
 >**Regard pétrifiant**.
 >
@@ -29160,6 +30524,8 @@ ___
 >**Langues** aquatique, terreux  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Mort explosive**.  
 >**Apparence trompeuse**.
 >
@@ -29199,6 +30565,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** aérien, igné  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Mort explosive**.  
 >**Incantation innée (1/jour)**.
@@ -29241,6 +30609,8 @@ ___
 >**Langues** aérien, aquatique  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Mort explosive**.  
 >**Apparence trompeuse**.  
 >**Incantation innée (1/jour)**.
@@ -29281,6 +30651,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** igné, terreux  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Mort explosive**.  
 >**Apparence trompeuse**.  
@@ -29323,6 +30695,8 @@ ___
 >**Langues** aérien, terreux  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Mort explosive**.  
 >**Incantation innée (1/jour)**.
 >
@@ -29361,6 +30735,8 @@ ___
 >**Langues** aquatique, igné  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Mort explosive**.  
 >**Incantation innée (1/jour)**.
 >
@@ -29396,6 +30772,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** commun  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Attaques multiples**.
 >
@@ -29436,7 +30814,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** comprend l'infernal mais ne peut pas parler, télépathie 36 m  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -29478,6 +30858,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** comprend l'infernal mais ne peut pas parler, télépathie 36 m  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -29521,7 +30903,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 14  
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Résistance à la magie.  
 >Attaques multiples.  
@@ -29566,6 +30950,8 @@ ___
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Incantation innée.  
 >Résistance à la magie.  
 >Armes magiques.  
@@ -29605,6 +30991,8 @@ ___
 >**Langues** abyssal, aquatique  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Attaques multiples**.  
@@ -29643,6 +31031,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** commun, elfique  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Équipement spécial**.  
 >**Incantation**.  
@@ -29686,6 +31076,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 13  
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- 2/jour chacun : _ténèbres, dissipation de la magie_  
@@ -29733,7 +31125,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26  
 >**Langues** commun, draconique  
 >**Puissance** 22 (41000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Adventures (Candlekeep Mysteries)
 {: .statblock5e }
@@ -29764,6 +31158,8 @@ ___
 >**Sens** vision aveugle 9 m, Perception passive 8  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
 >
@@ -29800,6 +31196,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Collant (forme d'objet uniquement)**.  
@@ -29842,7 +31240,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, draconique, télépathie 36 m  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -29875,6 +31275,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 17  
 >**Langues** abyssal  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Charge**.  
 >**Mémoire de labyrinthe**.  
@@ -29913,6 +31315,8 @@ ___
 >**Sens** vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 6  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Apparence trompeuse**.
 >
@@ -29953,7 +31357,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 21  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 21 (33000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -30005,6 +31411,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 21 (33000 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _modification d'apparence_ (peut être de catégorie de taille M lorsqu'il change d'apparence), _mains brûlantes_ (lancé comme un sort de niveau 7), _détection de la magie, quête, nuage nauséabond, mur de feu_  
 >- 1/jour chacun : _symbole_ (étourdissant uniquement)  
@@ -30055,6 +31463,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Odorat et ouïe aiguisés**.
 >
 >Action|**Morsure**. +3, 1,50 m, 1d6+1 perforants  
@@ -30090,7 +31500,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Conscience éthérée.  
 >Impuissance face à la lumière du soleil.  
@@ -30129,7 +31541,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Conscience éthérée.  
 >Impuissance face à la lumière du soleil.  
@@ -30169,6 +31583,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** —  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Conscience éthérée**.  
 >**Odorat et ouïe aiguisés**.  
@@ -30212,7 +31628,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 31  
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 21 (33000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -30260,6 +31678,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 31  
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 21 (33000 PX)
+>
+>___
 >
 >Incantation innée.  
 >Résistance légendaire (3/jour).  
@@ -30309,6 +31729,8 @@ ___
 >**Langues** les langues qu'elle connaissait de son vivant  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Poings putréfiants**. +5, 1,50 m, 2d6+3 contondants  
 >Action|**Regard d'épouvante**.  
@@ -30342,6 +31764,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 10  
 >**Langues** modron  
 >**Puissance** 1/8 (25 PX)
+>
+>___
 >
 >**Esprit axiomatique**.  
 >**Désintégration**.
@@ -30380,7 +31804,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** commun  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Garrot.  
 >Épée courte.  
@@ -30419,6 +31845,8 @@ ___
 >**Langues** commun  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >Discrétion dans les ombres.  
 >Garrot.  
 >Épée courte.  
@@ -30456,7 +31884,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** télépathie 36 m  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Amphibien.  
 >Attaques multiples.  
@@ -30499,6 +31929,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 20  
 >**Langues** télépathie 36 m  
 >**Puissance** 11 (7200 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Incantation**.  
@@ -30546,6 +31978,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Apnée**.
 >
 >Action|**Défenses**. +4, 1,50 m, 2d4+2 perforants  
@@ -30580,6 +32014,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Apnée**.
 >
@@ -30619,6 +32055,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** commun, nain, elfique, gobelin, commun des profondeurs  
 >**Puissance** 13 (10000 PX)
+>
+>___
 >
 >Incantation.  
 >Résistance légendaire (3/jour).  
@@ -30660,6 +32098,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Bête de somme**.  
 >**Pied sûr**.
 >
@@ -30694,6 +32134,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Spores de détresse**.  
 >**Maladie solaire**.
@@ -30733,6 +32175,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Spores de détresse**.  
 >**Maladie solaire**.
 >
@@ -30769,6 +32213,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 12  
 >**Langues** —  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Spores de détresse**.  
 >**Maladie solaire**.
@@ -30815,7 +32261,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 17  
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 15 (13000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Ombres démoniaques.  
 >Dévoreur d'âme.  
@@ -30861,6 +32309,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 15 (13000 PX)
 >
+>___
+>
 >Ombres démoniaques.  
 >Dévoreur d'âme.  
 >Résistance à la magie.  
@@ -30903,6 +32353,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, commun  
 >**Puissance** 8 (3900 PX)
+>
+>___
 >
 >**Reconstitution**.  
 >**Incantation**.  
@@ -30947,6 +32399,8 @@ ___
 >**Langues** céleste, commun  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >**Reconstitution**.  
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _réparation, flamme sacrée, thaumaturgie_  
@@ -30990,6 +32444,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** commun, plus une autre langue  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Si le naga était un naga gardien lorsqu'il était en vie, sa caractéristique d'incantation est la Sagesse, et il a préparé les sorts de clerc suivants :  
@@ -31036,7 +32492,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 20  
 >**Langues** commun et jusqu'à cinq autres langues  
 >**Puissance** 17 (18000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Attaques multiples.  
 >Batôn.  
@@ -31078,6 +32536,8 @@ ___
 >**Langues** commun et jusqu'à cinq autres langues  
 >**Puissance** 17 (18000 PX)
 >
+>___
+>
 >Corruption.  
 >Paralysie (Recharge 6).  
 >Incantation.  
@@ -31117,6 +32577,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 11  
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 13 (10000 PX)
+>
+>___
 >
 >**Résistance à la magie**.
 >
@@ -31160,7 +32622,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 22  
 >**Langues** commun, infernal, télépathie 36 m  
 >**Puissance** 13 (10000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Harnachement infernal.  
 >Résistance à la magie.  
@@ -31206,6 +32670,8 @@ ___
 >**Langues** commun, infernal, télépathie 36 m  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >**Sens diaboliques**.  
 >**Harnachement infernal**.  
 >**Résistance à la magie**.
@@ -31249,6 +32715,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumières dansantes, réparation_  
@@ -31295,6 +32763,8 @@ ___
 >**Langues** abyssal, commun, infernal  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >Action|**Fléau de crâne**. +2, 1,50 m, 1d8 contondants  
 >Action|**Griffes de la tombe**. +5, 27 m, 2d4+3 nécrotiques  
 >
@@ -31334,6 +32804,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Sensibilité au soleil**.
 >
 >Action|**Attaques multiples**.  
@@ -31371,7 +32843,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, profond, commun des profondeurs  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Résistance mentale.  
 >Pattes d'araignée.  
@@ -31410,7 +32884,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Résistance mentale.  
 >Pattes d'araignée.  
@@ -31446,6 +32922,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
+>
+>___
 >
 >**Résistance mentale**.  
 >**Pattes d'araignée**.
@@ -31483,6 +32961,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** commun, profond, commun des profondeurs  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Résistance mentale**.  
 >**Pattes d'araignée**.
@@ -31524,7 +33004,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** commun, profond, commun des profondeurs, télépathie 9 m  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Vision de diable.  
 >Résistance mentale.  
@@ -31569,6 +33051,8 @@ ___
 >**Langues** commun, profond, commun des profondeurs, télépathie 9 m  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Résistance mentale**.  
 >**Pattes d'araignée**.  
 >**Incantation**.  
@@ -31610,7 +33094,9 @@ ___
 >**Sens** vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 13  
 >**Langues** —  
 >**Puissance** 13 (10000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Perception des créatures.  
 >Résistance à la magie.  
@@ -31649,6 +33135,8 @@ ___
 >**Sens** vision aveugle 36 m, Perception passive 13  
 >**Langues** —  
 >**Puissance** 13 (10000 PX)
+>
+>___
 >
 >**Perception des créatures**.  
 >**Incantation innée (psioniques)**.  
@@ -31691,6 +33179,8 @@ ___
 >**Langues** commun  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Défense sans armure**.  
 >**Déplacement sans armure**.
 >
@@ -31732,6 +33222,8 @@ ___
 >**Langues** comprend le commun mais ne peut pas parler  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Apparence trompeuse**.
 >
 >Action|**Griffes**. +3, 1,50 m, 1d4+1 perforants  
@@ -31766,7 +33258,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, gobelin  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Nilebogisme.  
 >Sceptre du sot.  
@@ -31806,6 +33300,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, gobelin  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _moquerie cruelle_  
@@ -31849,6 +33345,8 @@ ___
 >**Langues** deux langues au choix  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >Action|**Rapière**. +3, 1,50 m, 1d8+1 perforants  
 >Réaction|**Parade**.  
 >
@@ -31882,6 +33380,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 12  
 >**Langues** commun des profondeurs  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Vue aiguisée**.
 >
@@ -31923,6 +33423,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Nuée**.
 >
 >Action|**Morsures**. +3, 0 m, 4d4 perforants  
@@ -31958,6 +33460,8 @@ ___
 >**Sens** vision aveugle 18 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Écholocalisation**.  
 >**Ouïe aiguisée**.  
@@ -31998,6 +33502,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Nuée**.
 >
 >Action|**Becs**. +4, 1,50 m, 2d6 perforants  
@@ -32033,6 +33539,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** gobelin  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Nuée**.
 >
@@ -32070,6 +33578,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** —  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Frénésie sanguinaire**.  
 >**Nuée**.  
@@ -32109,6 +33619,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Odorat aiguisé**.  
 >**Nuée**.
 >
@@ -32145,7 +33657,9 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** télépathie 9 m  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Nuée.  
 >Voile télépathique.  
@@ -32185,6 +33699,8 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** télépathie 9 m  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Éclairage**.  
 >**Incantation innée (psioniques)**.  
@@ -32228,6 +33744,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Nuée**.
 >
 >Action|**Morsures**. +6, 0 m, 2d6 perforants  
@@ -32263,7 +33781,9 @@ ___
 >**Sens** vision aveugle 3 m, Perception passive 6  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Nuée.  
 >Morsures.  
@@ -32300,6 +33820,8 @@ ___
 >**Sens** vision aveugle 3 m, Perception passive 6  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Nuée**.
 >
@@ -32339,7 +33861,9 @@ ___
 >**Sens** vision aveugle 3 m (aveugle au-delà de ce rayon), Perception passive 11  
 >**Langues** comprend l'infernal mais ne peut pas parler  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >**Nuage de vermines**.  
 >**Traqueur guidé**.
@@ -32381,6 +33905,8 @@ ___
 >**Langues** comprend l'infernal mais ne peut pas parler  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >Nuage de vermines.  
 >Guidé par la faim.  
 >Morsure.  
@@ -32419,6 +33945,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 14  
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _ténèbres, détection de la magie, invisibilité_ (personnel uniquement), _image miroir_  
@@ -32501,7 +34029,9 @@ ___
 >**Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 14  
 >**Langues** commun plus deux autres langues  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Informe.  
 >Aversion au feu.  
@@ -32546,6 +34076,8 @@ ___
 >**Langues** commun plus deux autres langues  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >Informe.  
 >Aversion au feu.  
 >Incantation innée.  
@@ -32586,7 +34118,9 @@ ___
 >**Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 12  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Informe.  
 >Aversion au feu.  
@@ -32626,6 +34160,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >Informe.  
 >Aversion au feu.  
 >Nature insolite.  
@@ -32664,7 +34200,9 @@ ___
 >**Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 15  
 >**Langues** commun plus six autres langues  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Informe.  
 >Aversion au feu.  
@@ -32709,6 +34247,8 @@ ___
 >**Langues** commun plus six autres langues  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >Informe.  
 >Aversion au feu.  
 >Nature insolite.  
@@ -32751,7 +34291,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** deux langues au choix (généralement sylvestre)  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Rapière**. +5, , 1d8+3 perforants  
@@ -32795,6 +34337,8 @@ ___
 >**Langues** deux langues au choix (généralement sylvestre)  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _déguisement, communication avec les animaux_  
 >- 1/jour : _invocation de fée_  
@@ -32837,7 +34381,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** deux langues au choix (généralement abyssal ou infernal)  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >**Chance du ténébreux (Recharge après un repos court ou long)**.
 >
@@ -32883,6 +34429,8 @@ ___
 >**Langues** deux langues au choix (généralement abyssal ou infernal)  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _lévitation (personnel uniquement), image silencieuse_  
 >- 1/jour chacun : _changement de plan_  
@@ -32926,7 +34474,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** deux langues au choix, télépathie 9 m  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >**Aura chuchotante**.
 >
@@ -32971,6 +34521,8 @@ ___
 >**Langues** deux langues au choix, télépathie 9 m  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _détection de la magie, lévitation, communication avec les morts_  
 >- 1/jour chacun : _vision suprême, portail magique_  
@@ -33012,6 +34564,8 @@ ___
 >**Langues** commun, géant  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Action|**Massue**. +6, 1,50 m, 2d8+4 contondants  
 >Action|**Javeline**. +6, 1,50 m ou 9/36 m, 2d6+4 perforants  
 >
@@ -33044,7 +34598,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Poing.  
 >Balistard.  
@@ -33080,6 +34636,8 @@ ___
 >**Langues** commun, géant  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Poing.  
 >Balistard.  
 >
@@ -33113,7 +34671,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Monstre de siège.  
 >Attaques multiples.  
@@ -33151,6 +34711,8 @@ ___
 >**Langues** commun, géant  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >Monstre de siège.  
 >Coup.  
 >Barrage.  
@@ -33185,7 +34747,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Poing.  
 >Casse-chaîne (Recharge 6).  
@@ -33222,6 +34786,8 @@ ___
 >**Langues** commun, géant  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Poing.  
 >Balayage.  
 >Casse-chaîne (Recharge 6).  
@@ -33256,7 +34822,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Howdah.  
 >Masse d'armes.  
@@ -33291,6 +34859,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >Howdah.  
 >Masse d'armes.  
@@ -33330,6 +34900,8 @@ ___
 >**Langues** commun, terreux  
 >**Puissance** 20 (24500 PX)
 >
+>___
+>
 >_Adventures (Princes of the Apocalypse)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
@@ -33365,7 +34937,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 17  
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Résistance à la magie.  
 >Attaques multiples.  
@@ -33410,6 +34984,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 17  
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 12 (8400 PX)
+>
+>___
 >
 >Porteur de pestes (Recharge 5–6).  
 >Incantation innée.  
@@ -33456,6 +35032,8 @@ ___
 >**Langues** aquatique  
 >**Puissance** 18 (20000 PX)
 >
+>___
+>
 >_Adventures (Princes of the Apocalypse)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
@@ -33491,6 +35069,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Informe**.  
 >**Discrétion dans les ombres**.  
@@ -33532,6 +35112,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Informe**.  
 >**Discrétion dans les ombres**.  
@@ -33576,6 +35158,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Informe**.  
 >**Discrétion dans les ombres**.  
 >**Hypersensibilité au soleil**.  
@@ -33617,6 +35201,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive +4  
 >**Langues** commun, géant  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _ténèbres, invisibilité_  
@@ -33661,7 +35247,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, draconique et deux langues au choix  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -33694,6 +35282,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, orc  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Agressif**.
 >
@@ -33731,6 +35321,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, orc  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Agressif**.  
 >**Furie de Gruumsh**.
@@ -33772,6 +35364,8 @@ ___
 >**Langues** commun, orc  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Ruse**.  
 >**Main de Shargaas**.  
 >**Vision de Shargaas**.  
@@ -33812,6 +35406,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** commun, orc  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Agressif**.  
 >**Incantation**.  
@@ -33855,6 +35451,8 @@ ___
 >**Langues** commun, orc  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Agressif**.  
 >**Châtieur d'ennemis d'Ilneval**.
 >
@@ -33895,6 +35493,8 @@ ___
 >**Langues** comprend le commun et l'orc mais ne peut pas parler  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Agressif**.  
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _réparation, résistance, thaumaturgie_  
@@ -33933,6 +35533,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, orc  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Agressif**.  
 >**Furie de Gruumsh**.  
@@ -33973,7 +35575,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 22  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 26 (90000 PX)  
->**Bonus de maîtrise** +8
+>**Bonus de maîtrise** +8  
+>
+>___
 >
 >Équipement spécial.  
 >Résistance légendaire (3/jour).  
@@ -34024,6 +35628,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 26 (90000 PX)
 >
+>___
+>
 >**Baguette d'Orcus**.  
 >**Incantation innée**.  
 >- À volonté : _contact glacial_ (niveau 17), _détection de la magie_  
@@ -34073,6 +35679,8 @@ ___
 >**Langues** commun, orc  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Agressif**.
 >
 >Action|**Attaques multiples**.  
@@ -34114,7 +35722,9 @@ ___
 >**Sens** vision dans le noir 36 m, vision véritable 9 m, Perception passive 20  
 >**Langues** commun, infernal, télépathie 36 m  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Résistance à la magie.  
 >Dague infernale.  
@@ -34158,6 +35768,8 @@ ___
 >**Langues** commun, infernal, télépathie 36 m  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >Champ d'invisibilité.  
 >Résistance à la magie.  
 >Dague infernale.  
@@ -34195,6 +35807,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** otyugh  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Télépathie limitée**.
 >
@@ -34234,6 +35848,8 @@ ___
 >**Langues** —  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Odorat aiguisé**.
 >
 >Action|**Attaques multiples**.  
@@ -34271,6 +35887,8 @@ ___
 >**Sens** Perception passive 17  
 >**Langues** commun (ne peut pas parler sous forme d'ours)  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Odorat aiguisé**.
@@ -34311,6 +35929,8 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Odorat et vue aiguisés**.
 >
 >Action|**Attaques multiples**.  
@@ -34347,6 +35967,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Odorat aiguisé**.
 >
@@ -34385,6 +36007,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Odorat aiguisé**.
 >
 >Action|**Attaques multiples**.  
@@ -34420,6 +36044,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Odorat ferreux**.  
 >**Oxydation**.
@@ -34458,6 +36084,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Odorat aiguisé**.  
 >**Bond agressif**.
 >
@@ -34494,6 +36122,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >Action|**Dard**. +4, 1,50 m, 1d6+2 perforants  
 >
 >_Extra (Adventurers League)_
@@ -34529,6 +36159,8 @@ ___
 >**Langues** comprend le céleste, le commun, l'elfique et le sylvestre mais ne peut pas parler  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Action|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 >
 >_Monster Manual (SRD)_
@@ -34561,6 +36193,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 14  
 >**Langues** modron  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Esprit axiomatique**.  
 >**Désintégration**.
@@ -34601,6 +36235,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Apparence trompeuse**.  
 >**Pattes d'araignée**.
 >
@@ -34638,6 +36274,8 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** comprend le commun et l'elfique mais ne peut pas parler  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Attaque en piqué**.  
 >**Repli aérien**.  
@@ -34680,7 +36318,9 @@ ___
 >**Sens** Perception passive 9  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Opportuniste rusé.  
 >Apparence trompeuse.  
@@ -34721,6 +36361,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >Opportuniste rusé.  
 >Apparence trompeuse.  
 >Griffes pétrifiantes.  
@@ -34759,7 +36401,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
 >**Puissance** 16 (15000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Mort ardente et renaissance.  
 >Forme de feu.  
@@ -34809,6 +36453,8 @@ ___
 >**Langues** —  
 >**Puissance** 16 (15000 PX)
 >
+>___
+>
 >Mort ardente et renaissance.  
 >Forme de feu.  
 >Repli aérien.  
@@ -34853,6 +36499,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Apnée**.  
 >**Odorat aiguisé**.  
 >**Morsure**.  
@@ -34888,7 +36536,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Apparence trompeuse.  
 >Pattes d'araignée.  
@@ -34926,6 +36576,8 @@ ___
 >**Langues** —  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Apparence trompeuse**.  
 >**Pattes d'araignée**.
 >
@@ -34962,6 +36614,8 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 12  
 >**Langues** —  
 >**Puissance** 0 (10 PX)
+>
+>___
 >
 >**Apnée**.  
 >**Camouflage dans l'eau**.  
@@ -35001,6 +36655,8 @@ ___
 >**Langues** —  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Apnée**.  
 >**Camouflage dans l'eau**.  
 >**Respiration aquatique**.
@@ -35038,6 +36694,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Frénésie sanguinaire**.  
 >**Respiration aquatique**.
 >
@@ -35073,6 +36731,8 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** sylvestre  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Résistance à la magie**.  
 >**Incantation innée**.  
@@ -35114,6 +36774,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 21  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 16 (15000 PX)
+>
+>___
 >
 >**Armes angéliques**.  
 >**Conscience divine**.  
@@ -35158,6 +36820,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Apnée**.
 >
 >Action|**Morsure**. +6, 3 m, 3d6+4 perforants  
@@ -35192,6 +36856,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** commun  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Discipline tactique**.
 >
@@ -35230,6 +36896,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >Action|**Sabots**. +4, 1,50 m, 2d4+2 contondants  
 >
 >_Monster Manual (SRD)_
@@ -35263,6 +36931,8 @@ ___
 >**Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8  
 >**Langues** —  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Informe**.  
 >**Forme corrosive**.  
@@ -35304,7 +36974,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 17  
 >**Langues** comprend le modron et la langue de son propriétaire mais ne peut pas parler  
 >**Puissance** 16 (15000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Résistance à la magie.  
 >Nature insolite.  
@@ -35349,6 +37021,8 @@ ___
 >**Langues** comprend le modron et la langue de son propriétaire mais ne peut pas parler  
 >**Puissance** 16 (15000 PX)
 >
+>___
+>
 >Incantation innée.  
 >Résistance à la magie.  
 >Armes magiques.  
@@ -35388,7 +37062,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** commun, sylvestre  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Mouvement flou.  
 >Esquive totale.  
@@ -35427,6 +37103,8 @@ ___
 >**Langues** commun, sylvestre  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Mouvement flou**.  
 >**Esquive totale**.
 >
@@ -35464,6 +37142,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** deux langues au choix  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Distinction divine**.  
 >**Incantation**.  
@@ -35504,7 +37184,9 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** deux langues au choix  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Maillet**.  
@@ -35546,6 +37228,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** deux langues au choix  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumière, réparation, flamme sacrée, stabilisation_  
@@ -35589,7 +37273,9 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** deux langues au choix  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >**Amphibien**.
 >
@@ -35635,6 +37321,8 @@ ___
 >**Langues** deux langues au choix  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Amphibien**.  
 >**Incantation innée**.  
 >- À volonté : _création ou destruction d'eau_  
@@ -35676,7 +37364,9 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** commun, draconique et deux langues au choix  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
 {: .statblock5e }
@@ -35708,6 +37398,8 @@ ___
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13  
 >**Langues** comprend le commun et le draconique mais ne peut pas parler  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Sens aiguisés**.  
 >**Résistance à la magie**.  
@@ -35747,6 +37439,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Repli aérien**.
 >
 >Action|**Morsure**.  
@@ -35781,6 +37475,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 12  
 >**Langues** modron  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Esprit axiomatique**.  
 >**Désintégration**.
@@ -35823,6 +37519,8 @@ ___
 >**Langues** commun des profondeurs  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Fureur du blessé**.
 >
 >Action|**Attaques multiples**.  
@@ -35860,6 +37558,8 @@ ___
 >**Sens** vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 8  
 >**Langues** —  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Griffes**. +5, 1,50 m, 1d6+3 tranchants  
@@ -35899,6 +37599,8 @@ ___
 >**Langues** abyssal, commun  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Métamorphe**.  
 >**Résistance à la magie**.
 >
@@ -35936,7 +37638,9 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** —  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Repli aérien.  
 >Morsure.  
@@ -35972,6 +37676,8 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** —  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Attaque en piqué**.  
 >**Repli aérien**.
@@ -36013,6 +37719,8 @@ ___
 >**Langues** abyssal, commun, infernal  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >**Apparence trompeuse**.  
 >**Communication avec les plantes**.
 >
@@ -36051,6 +37759,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Charge**.  
 >**Respiration aquatique**.
@@ -36092,6 +37802,8 @@ ___
 >**Langues** commun, infernal  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >**Immunité magique partielle**.  
 >**Incantation innée**.  
 >- À volonté : _déguisement, détection des pensées, main de mage_  
@@ -36130,6 +37842,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Odorat aiguisé**.
 >
 >Action|**Morsure**.  
@@ -36163,7 +37877,9 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** télépathie 9 m  
 >**Puissance** 0 (10 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Voile télépathique.  
 >Morsure.  
@@ -36199,6 +37915,8 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** télépathie 9 m  
 >**Puissance** 0 (10 PX)
+>
+>___
 >
 >**Éclairage**.  
 >**Voile télépathique**.
@@ -36238,6 +37956,8 @@ ___
 >**Langues** commun (ne peut pas parler sous forme de rat)  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Métamorphe**.  
 >**Odorat aiguisé**.
 >
@@ -36276,6 +37996,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Odorat aiguisé**.  
 >**Tactique de groupe**.
 >
@@ -36313,7 +38035,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** comprend les langues qu'il connaissait de son vivant mais ne peut pas parler  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Régénération.  
 >Nature insolite.  
@@ -36356,6 +38080,8 @@ ___
 >**Langues** comprend les langues qu'il connaissait de son vivant mais ne peut pas parler  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Régénération**.  
 >**Vers**.
 >
@@ -36393,7 +38119,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend l'aquatique et le commun mais ne peut pas parler  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Amphibie limitée.  
 >Attaques multiples.  
@@ -36430,6 +38158,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend l'aquatique et le commun mais ne peut pas parler  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Amphibie limitée**.
 >
@@ -36474,7 +38204,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** profond  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Miroir psychique.  
 >Attaques multiples.  
@@ -36516,6 +38248,8 @@ ___
 >**Langues** profond  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >Miroir psychique.  
 >Attaques multiples.  
 >Coup.  
@@ -36552,7 +38286,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** profond  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Aura de cris.  
 >Morsure confondante.  
@@ -36588,6 +38324,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** profond  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >Aura de folie.  
 >Morsure confondante.  
@@ -36627,7 +38365,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 16  
 >**Langues** profond  
 >**Puissance** 16 (15000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Retour aux vers.  
 >Attaques multiples.  
@@ -36676,6 +38416,8 @@ ___
 >**Langues** profond  
 >**Puissance** 16 (15000 PX)
 >
+>___
+>
 >Incantation innée.  
 >Retour aux vers.  
 >Coup.  
@@ -36720,7 +38462,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** profond  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Embuscade.  
 >Attaques multiples.  
@@ -36764,6 +38508,8 @@ ___
 >**Langues** profond  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >Embuscade.  
 >Discrétion dans les ombres.  
 >Attaques multiples.  
@@ -36805,7 +38551,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 19  
 >**Langues** commun, profond, commun des profondeurs  
 >**Puissance** 13 (10000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Déplacement hors phase.  
 >Attaques multiples.  
@@ -36850,6 +38598,8 @@ ___
 >**Langues** commun, profond, commun des profondeurs  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >Déplacement hors phase.  
 >Attaques multiples.  
 >Bâton de comète.  
@@ -36889,6 +38639,8 @@ ___
 >**Langues** —  
 >**Puissance** 11 (7200 PX)
 >
+>___
+>
 >**Corps brûlant**.
 >
 >Action|**Morsure**. +11, 3 m, 6d10+7 perforants  
@@ -36925,6 +38677,8 @@ ___
 >**Langues** —  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Corps brûlant**.
 >
 >Action|**Morsure**. +6, 1,50 m, 3d10+4 perforants  
@@ -36960,6 +38714,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** —  
 >**Puissance** 0 (10 PX)
+>
+>___
 >
 >**Ouïe aiguisée**.
 >
@@ -36998,6 +38754,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Frénésie sanguinaire**.  
 >**Respiration aquatique**.
 >
@@ -37033,6 +38791,8 @@ ___
 >**Sens** vision aveugle 9 m, Perception passive 12  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Tactique de groupe**.  
 >**Respiration aquatique**.
@@ -37070,6 +38830,8 @@ ___
 >**Langues** —  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Frénésie sanguinaire**.  
 >**Respiration aquatique**.
 >
@@ -37105,6 +38867,8 @@ ___
 >**Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 9  
 >**Langues** comprend le commun mais ne peut pas parler  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >Action|**Griffes**. +3, 1,50 m, 2d4+1 perforants  
 >Action|**Épines**. +3, 9/18 m, 2d6+1 perforants  
@@ -37143,6 +38907,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Régénération**.  
 >**Reconstitution**.  
@@ -37184,6 +38950,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Charge**.
 >
 >Action|**Corne**. +7, 1,50 m, 2d8+5 contondants  
@@ -37219,6 +38987,8 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** —  
 >**Puissance** 11 (7200 PX)
+>
+>___
 >
 >**Vue aiguisée**.
 >
@@ -37259,6 +39029,8 @@ ___
 >**Langues** abyssal, draconique  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >**Apnée**.  
 >**Embrocher**.
 >
@@ -37298,6 +39070,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Charge**.
 >
 >Action|**Corne**. +6, 1,50 m, 1d6+4 perforants  
@@ -37332,7 +39106,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Bête de somme.  
 >Corne.  
@@ -37368,6 +39144,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Charge**.  
 >**Incantation innée**.
@@ -37405,6 +39183,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >Action|**Gourdin**. +2, 1,50 m, 1d4 contondants  
 >
 >_Monster Manual (SRD)_
@@ -37437,6 +39217,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** commun  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Sombre dévotion**.  
 >**Incantation**.  
@@ -37480,7 +39262,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Peur immobilisante.  
 >Morsure.  
@@ -37519,6 +39303,8 @@ ___
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Peur immobilisante.  
 >Morsure.  
 >
@@ -37553,7 +39339,9 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** commun et quatre autres langues  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Action|**Poigne électrique (sort mineur)**. +6, , 2d8 foudre  
 >Action|**Incantation**.  
@@ -37594,7 +39382,9 @@ ___
 >**Sens** Perception passive 14  
 >**Langues** commun et cinq autres langues  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Action|**Poigne électrique (sort mineur)**. +8, , 3d8 foudre  
 >Action|**Boule de feu (sort de niveau 3 ; 3/jour)**.  
@@ -37637,6 +39427,8 @@ ___
 >**Langues** sahuagin  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Frénésie sanguinaire**.  
 >**Amphibie limitée**.  
 >**Télépathie avec les requins**.
@@ -37678,6 +39470,8 @@ ___
 >**Langues** sahuagin  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Frénésie sanguinaire**.  
 >**Amphibie limitée**.  
 >**Télépathie avec les requins**.
@@ -37718,6 +39512,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** sahuagin  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Frénésie sanguinaire**.  
 >**Amphibie limitée**.  
@@ -37765,6 +39561,8 @@ ___
 >**Langues** igné  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Corps brûlant**.  
 >**Armes brûlantes**.
 >
@@ -37805,7 +39603,9 @@ ___
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 14  
 >**Langues** primordial  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Fureur brûlante.  
 >Attaques multiples.  
@@ -37848,6 +39648,8 @@ ___
 >**Langues** primordial  
 >**Puissance** 9 (5000 PX)
 >
+>___
+>
 >Fureur brûlante.  
 >Attaques multiples.  
 >Morsure.  
@@ -37885,6 +39687,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Charge**.  
 >**Implacable (Recharge après un repos court ou long)**.
 >
@@ -37921,6 +39725,8 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** commun (ne peut pas parler sous forme de sanglier)  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Charge (forme de sanglier ou hybride uniquement)**.  
@@ -37960,6 +39766,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Charge**.  
 >**Implacable (Recharge après un Repos court ou long)**.
 >
@@ -37996,6 +39804,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** commun, nain, elfique  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumière, poigne électrique_  
@@ -38035,6 +39845,8 @@ ___
 >**Langues** commun, elfique, sylvestre  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Résistance à la magie**.
 >
 >Action|**Coup de tête**.  
@@ -38071,6 +39883,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Illumination**.
 >Action|**Morsure**.
 >
@@ -38104,7 +39918,9 @@ ___
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 9  
 >**Langues** -  
 >**Puissance** 1/8 (25 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -38137,6 +39953,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >Action|**Dard**.  
 >
 >_Monster Manual (SRD)_
@@ -38168,6 +39986,8 @@ ___
 >**Sens** vision aveugle 18 m, Perception passive 9  
 >**Langues** —  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >Action|**Attaques multiples**.  
 >Action|**Pinces**. +4, 1,50 m, 1d8+2 contondants  
@@ -38204,7 +40024,9 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** deux langues au choix  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >**Inflexible (3/jour)**.  
 >**Survivant**.
@@ -38248,6 +40070,8 @@ ___
 >**Sens** Perception passive 15  
 >**Langues** deux langues au choix  
 >**Puissance** 12 (8400 PX)
+>
+>___
 >
 >**Inflexible (3/jour)**.  
 >**Survivant**.
@@ -38293,7 +40117,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 22  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 15 (13000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Esquive totale.  
 >Résistance légendaire (3/jour).  
@@ -38342,6 +40168,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 15 (13000 PX)
 >
+>___
+>
 >Esquive totale.  
 >Résistance légendaire (3/jour).  
 >Maître de la tombe.  
@@ -38388,6 +40216,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 15 (13000 PX)
+>
+>___
 >
 >**Résistance à la magie**.  
 >**Reconstitution**.  
@@ -38440,7 +40270,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** commun, infernal, solamnique  
 >**Puissance** 19 (22000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -38487,6 +40319,8 @@ ___
 >**Langues** commun, aquatique (ne peut pas parler sous forme de phoque)  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Métamorphe**.  
 >**Mammifère aquatique (forme de phoque ou hybride uniquement)**.  
 >**Incantation innée (1/jour ; forme humanoïde ou hybride uniquement)**.
@@ -38531,6 +40365,8 @@ ___
 >**Langues** comprend l'aquatique mais ne peut pas parler  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Invisible dans l'eau**.  
 >**Connexion à l'eau**.
 >
@@ -38567,6 +40403,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >Action|**Constriction**. +4, 1,50 m, 1d8+2 contondants  
 >
@@ -38600,6 +40438,8 @@ ___
 >**Sens** vision aveugle 3 m, Perception passive 12  
 >**Langues** —  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >Action|**Morsure**. +6, 3 m, 2d6+4 perforants  
 >Action|**Constriction**. +6, 1,50 m, 2d8+4 contondants  
@@ -38636,6 +40476,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend l'igné mais ne peut pas parler  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Corps brûlant**.
 >
@@ -38676,7 +40518,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** commun, draconique  
 >**Puissance** 14 (11500 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -38711,7 +40555,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** commun, draconique  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -38743,6 +40589,8 @@ ___
 >**Sens** vision aveugle 3 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
+>
+>___
 >
 >Action|**Morsure**.  
 >
@@ -38777,6 +40625,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >Action|**Morsure**. +6, 3 m, 1d4+4 perforants  
 >
 >_Monster Manual (SRD)_
@@ -38808,6 +40658,8 @@ ___
 >**Sens** vision aveugle 3 m, Perception passive 11  
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
+>
+>___
 >
 >**Repli aérien**.
 >
@@ -38846,7 +40698,9 @@ ___
 >**Immunités** touts les états sauf invisible et à terre  
 >**Sens** vision aveugle 36 m, Perception passive 19  
 >**Langues** comprend les langues des créatures avec lñsquelles il est lié, mais ne parle pas  
->**Puissance** - **Bonus de maîtrise** +7
+>**Puissance** - **Bonus de maîtrise** +7  
+>
+>___
 >
 >Existence immuable.  
 >Artificiel résistant à la magie.  
@@ -38967,7 +40821,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 17  
 >**Langues** commun, elfique  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Ascendance féerique.  
 >Résistance à la magie.  
@@ -39013,6 +40869,8 @@ ___
 >**Langues** commun, elfique  
 >**Puissance** 11 (7200 PX)
 >
+>___
+>
 >Ascendance féerique.  
 >Incantation innée.  
 >Résistance à la magie.  
@@ -39056,7 +40914,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, elfique  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Ascendance féerique.  
 >Attaques multiples.  
@@ -39098,6 +40958,8 @@ ___
 >**Langues** commun, elfique  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >Ascendance féerique.  
 >Saut des ombres.  
 >Attaques multiples.  
@@ -39136,7 +40998,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, elfique  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Fardeau du temps.  
 >Ascendance féerique.  
@@ -39178,6 +41042,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, elfique  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >Fardeau du temps.  
 >Ascendance féerique.  
@@ -39221,7 +41087,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, gnoll, télépathie 36 m  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Morsure.  
@@ -39262,6 +41130,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, gnoll, télépathie 36 m  
 >**Puissance** 8 (3900 PX)
+>
+>___
 >
 >**Déchaîné**.
 >
@@ -39304,7 +41174,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 23  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 18 (20000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Contamination.  
 >Résistance légendaire (3/jour).  
@@ -39354,6 +41226,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 18 (20000 PX)
 >
+>___
+>
 >**Contamination**.  
 >**Incantation innée**.  
 >- À volonté : _immobilisation de monstre_  
@@ -39402,6 +41276,8 @@ ___
 >**Langues** —  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Poing**. +9, 3 m, 3d10+6 contondants  
 >Action|**Rocher**. +9, 15/30 m, 7d6+6 contondants  
@@ -39437,6 +41313,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** slaad, télépathie 18 m  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >**Résistance à la magie**.  
 >**Régénération**.
@@ -39477,6 +41355,8 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 18  
 >**Langues** slaad, télépathie 18 m  
 >**Puissance** 10 (5900 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Incantation innée**.  
@@ -39525,6 +41405,8 @@ ___
 >**Langues** slaad, télépathie 18 m  
 >**Puissance** 9 (5000 PX)
 >
+>___
+>
 >**Métamorphe**.  
 >**Incantation innée**.  
 >- À volonté : _détection de la magie, détection des pensées, invisibilité_ (personnel uniquement), _image majeure_  
@@ -39572,6 +41454,8 @@ ___
 >**Langues** slaad, télépathie 18 m  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Résistance à la magie**.  
 >**Régénération**.
 >
@@ -39612,6 +41496,8 @@ ___
 >**Langues** comprend le slaad mais ne peut pas parler  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >**Résistance à la magie**.
 >
 >Action|**Morsure**. +4, 1,50 m, 1d4+2 perforants  
@@ -39648,6 +41534,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 12  
 >**Langues** slaad, télépathie 18 m  
 >**Puissance** 8 (3900 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Incantation innée**.  
@@ -39699,6 +41587,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 21 (33000 PX)
 >
+>___
+>
 >**Armes angéliques**.  
 >**Conscience divine**.  
 >**Incantation innée**.  
@@ -39746,7 +41636,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15  
 >**Langues** elfique, sylvestre  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Mort éblouissante.  
 >Sensibilité à la lumière.  
@@ -39783,7 +41675,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
 >**Langues** elfique, sylvestre  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Mort brûlante.  
 >Attaques multiples.  
@@ -39822,6 +41716,8 @@ ___
 >**Langues** elfique, sylvestre  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Mort brûlante**.
 >
 >Action|**Attaques multiples**.  
@@ -39859,6 +41755,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15  
 >**Langues** elfique, sylvestre  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Mort éblouissante**.  
 >**Sensibilité à la lumière**.
@@ -39900,7 +41798,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Résistance au renvoi.  
 >Nature insolite.  
@@ -39944,7 +41844,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Vision de diable.  
 >Résistance au renvoi.  
@@ -39990,6 +41892,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >Incantation innée.  
 >Incantation.  
 >Résistance au renvoi.  
@@ -40032,6 +41936,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >Incantation innée.  
 >Incantation.  
 >Résistance au renvoi.  
@@ -40072,7 +41978,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Sensibilité au soleil.  
 >Nature insolite.  
@@ -40117,6 +42025,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Incantation innée.  
 >Sensibilité au soleil.  
 >Attaques multiples.  
@@ -40155,7 +42065,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** comprend le draconique mais ne peut pas parler  
 >**Puissance** 6 (2300 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -40189,6 +42101,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** profond, commun des profondeurs, télépathie 36 m  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >Action|**Morsure**.  
 >Action|**Rayons oculaires**.  
@@ -40233,6 +42147,8 @@ ___
 >**Langues** comprend les langues qu'il connaissait de son vivant mais ne peut pas parler  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Déplacement intangible**.  
 >**Sensibilité au soleil**.
 >
@@ -40269,6 +42185,8 @@ ___
 >**Sens** vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 5  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Mort explosive**.  
 >**Sinistre ressemblance**.
@@ -40309,6 +42227,8 @@ ___
 >**Langues** comprend les langues qu'il connaissait de son vivant mais ne peut pas parler  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >Action|**Épée courte**. +4, 1,50 m, 1d6+2 perforants  
 >Action|**Arc court**. +4, 24/96 m, 1d6+2 perforants  
 >
@@ -40345,6 +42265,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >Action|**Sabots**. +6, 1,50 m, 2d6+4 contondants  
 >
 >_Monster Manual (SRD)_
@@ -40379,6 +42301,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** comprend l'abyssal mais ne peut pas parler  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Charge**.
 >
@@ -40418,6 +42342,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 22  
 >**Langues** abyssal, commun, draconique, elfe, géant, infernal  
 >**Puissance** 15 (13000 PX)
+>
+>___
 >
 >Mátamorphe.  
 >Résistance légendaire (3/jour).  
@@ -40467,6 +42393,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/8 (25 PX)
 >
+>___
+>
 >Action|**Absorption de sang**. +5, 1,50 m, 1d4+3 perforants  
 >
 >_Monster Manual (SRD)_
@@ -40500,6 +42428,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** abyssal, commun, infernal, télépathie 18 m  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Lien télépathique**.  
 >**Métamorphe**.
@@ -40541,6 +42471,8 @@ ___
 >**Langues** commun, druidique, elfique, sylvestre  
 >**Puissance** 9 (5000 PX)
 >
+>___
+>
 >**Apparence trompeuse**.  
 >**Monstre de siège**.
 >
@@ -40580,6 +42512,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** commun plus une autre langue  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Agilité féline**.
 >
@@ -40621,6 +42555,8 @@ ___
 >**Langues** commun plus deux autres langues  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Agilité féline**.  
 >**Inspirer (1/jour)**.
 >
@@ -40657,7 +42593,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, commun, plus une autre langue  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Magic Resistance.  
 >Multiattack.  
@@ -40698,6 +42636,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, commun, orc  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Agressif**.  
 >**Résistance à la magie**.
@@ -40740,6 +42680,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Sensibilité à l'antimagie**.  
 >**Transfert de dégâts**.  
 >**Apparence trompeuse**.
@@ -40778,6 +42720,8 @@ ___
 >**Sens** vision aveugle 36 m, Perception passive 10  
 >**Langues** —  
 >**Puissance** 30 (155000 PX)
+>
+>___
 >
 >**Résistance légendaire (3/jour)**.  
 >**Résistance à la magie**.  
@@ -40827,7 +42771,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** profond, commun des profondeurs, télépathie 180 m  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Relai télépathique.  
 >Attaques multiples.  
@@ -40868,6 +42814,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** profond, commun des profondeurs, télépathie 180 m  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Relai télépathique**.
 >
@@ -40916,6 +42864,8 @@ ___
 >**Langues** —  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +9, 3 m, 6d10+6 perforants  
 >Action|**Appendice**. +4, 4,50 m, 1d6+6 contondants  
@@ -40956,7 +42906,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 9  
 >**Langues** —  
 >**Puissance** 20 (25000 PX)  
->**Bonus de maîtrise** +6
+>**Bonus de maîtrise** +6  
+>
+>___
 >
 >Aura d'annihilation.  
 >Mangeur de vie.  
@@ -41000,6 +42952,8 @@ ___
 >**Langues** —  
 >**Puissance** 20 (25000 PX)
 >
+>___
+>
 >Aura d'annihilation.  
 >Mangeur de vie.  
 >Attaques multiples.  
@@ -41037,6 +42991,8 @@ ___
 >**Sens** Perception passive 16  
 >**Langues** commun, elfique  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Ouïe et vue aiguisées**.
 >
@@ -41080,6 +43036,8 @@ ___
 >**Langues** —  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Absorption de foudre**.
 >
 >Action|**Attaques multiples**.  
@@ -41116,6 +43074,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** thri-kreen  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Carapace caméléon**.  
 >**Saut sans élan**.
@@ -41159,6 +43119,8 @@ ___
 >**Langues** commun, draconique infernal  
 >**Puissance** 30 (155000 PX)
 >
+>___
+>
 >Adventures (Tyranny of Dragons)
 >{: .label .label.label-statblock }
 {: .statblock5e }
@@ -41190,6 +43152,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** —  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Odorat aiguisé**.  
 >**Bond agressif**.
@@ -41228,6 +43192,8 @@ ___
 >**Langues** —  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Odorat aiguisé**.  
 >**Bond agressif**.
 >
@@ -41265,6 +43231,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** commun (ne peut pas parler sous forme de tigre)  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Odorat et ouïe aiguisés**.  
@@ -41310,7 +43278,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 16 (15000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -41362,6 +43332,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 16 (15000 PX)
 >
+>___
+>
 >Incantation innée.  
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -41408,7 +43380,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** tlincalli  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Attaques multiples.  
 >Épée longue.  
@@ -41447,6 +43421,8 @@ ___
 >**Langues** tlincalli  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Épée longue**. +6, 1,50 m, 1d8+3 tranchants  
 >Action|**Chaîne barbelée**. +6, 3 m, 1d6+3 perforants  
@@ -41483,7 +43459,9 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** aquatique, commun  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Apnée.  
 >Griffes.  
@@ -41522,7 +43500,9 @@ ___
 >**Sens** Perception passive 12  
 >**Langues** aquatique, commun  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Apnée.  
 >Attaques multiples.  
@@ -41563,6 +43543,8 @@ ___
 >**Langues** aquatique, commun  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >Apnée.  
 >Incantation.  
 >Griffes.  
@@ -41600,6 +43582,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** aquatique, commun  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >Apnée.  
 >Griffes.  
@@ -41640,6 +43624,8 @@ ___
 >**Langues** commun des profondeurs  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Sens aveugles**.  
 >**Odorat et ouïe aiguisés**.  
 >**Camouflage dans les rochers**.
@@ -41679,7 +43665,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** —  
 >**Puissance** 23 (50000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Forme d'air.  
 >Repli aérien.  
@@ -41728,6 +43716,8 @@ ___
 >**Langues** —  
 >**Puissance** 23 (50000 PX)
 >
+>___
+>
 >Forme d'air.  
 >Repli aérien.  
 >Résistance légendaire (3/jour).  
@@ -41772,6 +43762,8 @@ ___
 >**Sens** Perception passive 11  
 >**Langues** quatre langues au choix  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _lumière, réparation, rayon de givre_  
@@ -41822,7 +43814,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 13  
 >**Langues** comprend le draconique mais ne peut pas parler, télépathie 18 m  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >_Fizban´s Treasury of Dragons_
 >{: .label .label.label-statblock }
@@ -41858,7 +43852,9 @@ ___
 >**Sens** vision aveugle 36 m, Perception passive 12  
 >**Langues** comprend les langues qu'il connaissait sous sa forme précédente mais ne peut pas parler  
 >**Puissance** 3 (700 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Apparence trompeuse.  
 >Forme liquide.  
@@ -41901,6 +43897,8 @@ ___
 >**Sens** vision aveugle 36 m, Perception passive 12  
 >**Langues** comprend les langues qu'il connaissait sous sa forme précédente mais ne peut pas parler  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Embuscade**.  
 >**Transfert de dégâts**.  
@@ -41948,6 +43946,8 @@ ___
 >**Langues** aérien, comprend le commun mais ne peut pas parler  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >**Invisibilité**.  
 >**Traqueur irréprochable**.
 >
@@ -41984,6 +43984,8 @@ ___
 >**Langues** —  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Charge écrasante**.
 >
 >Action|**Corne**. +9, 1,50 m, 4d8+6 perforants  
@@ -42018,6 +44020,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 10  
 >**Langues** modron  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Esprit axiomatique**.  
 >**Désintégration**.
@@ -42057,7 +44061,9 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** draconique, igné  
 >**Puissance** 1/2 (100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Amphibien.  
 >Attaques multiples.  
@@ -42096,6 +44102,8 @@ ___
 >**Langues** draconique, igné  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Amphibien**.
 >
 >Action|**Attaques multiples**.  
@@ -42133,7 +44141,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** draconique, igné  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Amphibien.  
 >Vision de diable.  
@@ -42174,6 +44184,8 @@ ___
 >**Sens** vision dans le noir 36 m (traverse les ténèbres magiques), Perception passive 10  
 >**Langues** draconique, igné  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Amphibien**.  
 >**Incantation innée**.  
@@ -42218,6 +44230,8 @@ ___
 >**Langues** commun, infernal, abyssal  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _lévitation (personnel uniquement), oeil magique_  
 >- 1/jour chacun : _esprit faible_  
@@ -42261,6 +44275,8 @@ ___
 >**Langues** troglodyte  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Peau de caméléon**.  
 >**Puanteur**.  
 >**Sensibilité au soleil**.
@@ -42301,6 +44317,8 @@ ___
 >**Langues** géant  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Odorat aiguisé**.  
 >**Régénération**.
 >
@@ -42339,7 +44357,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** géant  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Dégénérescence.  
 >Attaques multiples.  
@@ -42378,6 +44398,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** géant  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >Dégénérescence.  
 >Attaques multiples.  
@@ -42418,7 +44440,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** géant  
 >**Puissance** 13 (10000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Régénération.  
 >Attaques multiples.  
@@ -42461,6 +44485,8 @@ ___
 >**Langues** géant  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >Sens aiguisés.  
 >Régénération.  
 >Attaques multiples.  
@@ -42502,7 +44528,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** géant  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Déplacement intangible.  
 >Régénération.  
@@ -42545,6 +44573,8 @@ ___
 >**Langues** géant  
 >**Puissance** 11 (7200 PX)
 >
+>___
+>
 >Déplacement intangible.  
 >Régénération.  
 >Attaques multiples.  
@@ -42584,7 +44614,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** géant  
 >**Puissance** 7 (2900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Aspersion de poison.  
 >Régénération.  
@@ -42627,6 +44659,8 @@ ___
 >**Langues** géant  
 >**Puissance** 7 (2900 PX)
 >
+>___
+>
 >Odorat aiguisé.  
 >Aspersion de poison.  
 >Régénération.  
@@ -42665,6 +44699,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** —  
 >**Puissance** 0 (10 PX)
+>
+>___
 >
 >**Respiration aquatique**.
 >
@@ -42706,6 +44742,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 22  
 >**Langues** profond, commun des profondeurs  
 >**Puissance** 14 (11500 PX)
+>
+>___
 >
 >**Cône d'énergie négative**.
 >
@@ -42757,6 +44795,8 @@ ___
 >**Langues** profond, commun des profondeurs  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >**Cône d'antimagie**.
 >
 >Action|**Morsure**. +5, 1,50 m, 4d6 perforants  
@@ -42805,6 +44845,8 @@ ___
 >**Langues** —  
 >**Puissance** 8 (3900 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Morsure**. +10, 3 m, 4d12+7 perforants  
 >Action|**Queue**. +10, 3 m, 3d8+7 contondants  
@@ -42840,7 +44882,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** profond, commun des profondeurs, télépathie 3 kilomètres  
 >**Puissance** 9 (5000 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Perception des créatures.  
 >Résistance à la magie.  
@@ -42882,6 +44926,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 18  
 >**Langues** profond, commun des profondeurs, télépathie 3 kilomètres  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Perception des créatures**.  
 >**Résistance à la magie**.  
@@ -42928,6 +44974,8 @@ ___
 >**Langues** abyssal, infernal, télépathie 36 m  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _ténèbres, détection de la magie, détection des pensées, invisibilité_ (personnel uniquement), _suggestion_  
 >- 3/jour chacun : _mur de feu_  
@@ -42973,6 +45021,8 @@ ___
 >**Langues** commun, nain, elfique, géant, halfelin, commun des profondeurs  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >Équipement spécial.  
 >Résistance à la magie.  
 >Incantation.  
@@ -43012,6 +45062,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 17  
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 13 (10000 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Résistance légendaire (3/jour)**.  
@@ -43066,6 +45118,8 @@ ___
 >**Langues** les langues qu'il connaissait de son vivant  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Régénération**.  
 >**Pattes d'araignée**.  
 >**Faiblesses de vampire**.  
@@ -43111,7 +45165,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 15  
 >**Langues** profond, commun des profondeurs  
 >**Puissance** 10 (5900 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Sang de foudre.  
 >Attaques multiples.  
@@ -43153,6 +45209,8 @@ ___
 >**Langues** profond, commun des profondeurs  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >**Sang de foudre**.
 >
 >Action|**Attaques multiples**.  
@@ -43192,7 +45250,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** comprend l'abyssal, l'infernal et toutes les langues qu'elle connaissait avant de devenir une vargouille mais ne peut pas parler  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Morsure.  
 >Malédiction des Abysses.  
@@ -43232,6 +45292,8 @@ ___
 >**Langues** comprend l'abyssal, l'infernal et toutes les langues qu'elle connaissait avant de devenir une vargouille mais ne peut pas parler  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >Action|**Morsure**. +4, 1,50 m, 1d6+2 perforants  
 >Action|**Baiser**.  
 >Action|**Cri étourdissant**.  
@@ -43269,7 +45331,9 @@ ___
 >**Sens** vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 14  
 >**Langues** comprend le draconique et les langages de son créateur mais ne peut pas parler  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Informe.  
 >Pattes d'araignée.  
@@ -43311,6 +45375,8 @@ ___
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
 >
+>___
+>
 >**Informe**.  
 >**Corrosion du métal**.  
 >**Apparence trompeuse**.
@@ -43348,6 +45414,8 @@ ___
 >**Langues** —  
 >**Puissance** 0 (10 PX)
 >
+>___
+>
 >**Odorat et vue aiguisés**.  
 >**Tactique de groupe**.
 >
@@ -43383,6 +45451,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** comprend le commun mais ne peut pas parler  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Odorat et vue aiguisés**.  
 >**Tactique de groupe**.
@@ -43425,7 +45495,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 25  
 >**Langues** commun, draconique, elfique, infernal  
 >**Puissance** 26 (90000 PX)  
->**Bonus de maîtrise** +8
+>**Bonus de maîtrise** +8  
+>
+>___
 >
 >**Résistance légendaire (5/jour)**.  
 >**Équipement spécial**.  
@@ -43478,7 +45550,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** végépygmée  
 >**Puissance** 1/4 (50 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Camouflage dans la végétation.  
 >Régénération.  
@@ -43517,7 +45591,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 13  
 >**Langues** végépygmée  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Camouflage dans la végétation.  
 >Régénération.  
@@ -43559,6 +45635,8 @@ ___
 >**Langues** végépygmée  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Camouflage dans la végétation**.  
 >**Régénération**.
 >
@@ -43599,7 +45677,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** —  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Camouflage dans la végétation.  
 >Régénération.  
@@ -43638,6 +45718,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** végépygmée  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Camouflage dans la végétation**.  
 >**Régénération**.
@@ -43678,6 +45760,8 @@ ___
 >**Langues** commun, draconique, nain, elfique, orc  
 >**Puissance** 4 (1100 PX)
 >
+>___
+>
 >Adventures (Rime of the Frostmaiden)
 >{: .label .label.label-statblock }
 {: .statblock5e }
@@ -43709,6 +45793,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >Tactique de groupe.  
 >Attaques multiples.  
@@ -43746,6 +45832,8 @@ ___
 >**Sens** Perception passive 13  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Tactique de groupe**.
 >
@@ -43785,6 +45873,8 @@ ___
 >**Langues** —  
 >**Puissance** 15 (13000 PX)
 >
+>___
+>
 >**Fouisseur**.
 >
 >Action|**Attaques multiples**.  
@@ -43822,6 +45912,8 @@ ___
 >**Langues** une langue au choix (généralement le commun)  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Épée longue**. +5, 1,50 m, 1d8+3 tranchants  
 >Action|**Épée courte**. +5, 1,50 m, 1d6+3 perforants  
@@ -43857,6 +45949,8 @@ ___
 >**Sens** Perception passive 10  
 >**Langues** commun  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Incantation**.  
 >- Sorts mineurs (à volonté) : _réparation, trait de feu_  
@@ -43895,7 +45989,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** télépathie 36 m  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Aura de peur.  
 >Sensibilité à la lumière.  
@@ -43934,6 +46030,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 14  
 >**Langues** télépathie 36 m  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Aura de peur**.  
 >**Sensibilité à la lumière**.  
@@ -43976,6 +46074,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >**Résistance à la magie**.
 >
 >Action|**Attaques multiples**.  
@@ -44017,7 +46117,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 13 (10000 PX)  
->**Bonus de maîtrise** +5
+>**Bonus de maîtrise** +5  
+>
+>___
 >
 >Amphibien.  
 >Eau corrompue.  
@@ -44063,6 +46165,8 @@ ___
 >**Langues** abyssal, télépathie 36 m  
 >**Puissance** 13 (10000 PX)
 >
+>___
+>
 >Amphibien.  
 >Eau corrompue.  
 >Résistance à la magie.  
@@ -44104,6 +46208,8 @@ ___
 >**Langues** —  
 >**Puissance** 6 (2300 PX)
 >
+>___
+>
 >Action|**Attaques multiples**.  
 >Action|**Dard**. +7, 3 m, 2d6+4 perforants  
 >Action|**Griffes**. +7, 1,50 m, 2d8+4 tranchants  
@@ -44139,6 +46245,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 14  
 >**Langues** gobelin, worg  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Odorat et ouïe aiguisés**.
 >
@@ -44176,6 +46284,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun, gobelin  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _lévitation, communication avec les morts_  
@@ -44221,6 +46331,8 @@ ___
 >**Langues** terreux  
 >**Puissance** 5 (1800 PX)
 >
+>___
+>
 >**Déplacement dans la terre**.  
 >**Camouflage dans les rochers**.  
 >**Perception des trésors**.
@@ -44259,7 +46371,9 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 8  
 >**Langues** abyssal  
 >**Puissance** 1/8 (25 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Langue de Raxivort.  
 >Épée courte.  
@@ -44297,6 +46411,8 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 8  
 >**Langues** abyssal  
 >**Puissance** 1/8 (25 PX)
+>
+>___
 >
 >**Action fourbe mineure**.  
 >**Groupe autoritaire**.  
@@ -44336,7 +46452,9 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** abyssal  
 >**Puissance** 1 (200 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Bénédiction de Raxivort.  
 >Langue de Raxivort.  
@@ -44377,6 +46495,8 @@ ___
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** abyssal  
 >**Puissance** 1 (200 PX)
+>
+>___
 >
 >**Incantation innée**.  
 >- À volonté : _détection de la magie, armure de mage_ (personnel uniquement)  
@@ -44424,7 +46544,9 @@ ___
 >**Sens** vision aveugle 18 m, vision dans le noir 18 m, Perception passive 16  
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 11 (7200 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Résistance à la magie.  
 >Attaques multiples.  
@@ -44471,6 +46593,8 @@ ___
 >**Langues** abyssal, infernal, télépathie 18 m  
 >**Puissance** 11 (7200 PX)
 >
+>___
+>
 >Incantation innée.  
 >Résistance à la magie.  
 >Armes magiques.  
@@ -44516,6 +46640,8 @@ ___
 >**Langues** aérien  
 >**Puissance** 18 (20000 PX)
 >
+>___
+>
 >_Adventures (Princes of the Apocalypse)_
 >{: .label .label.label-statblock }
 {: .statblock5e }
@@ -44551,7 +46677,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 24  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 24 (62000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -44600,6 +46728,8 @@ ___
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 24 (62000 PX)
 >
+>___
+>
 >Incantation innée.  
 >Résistance légendaire (3/jour).  
 >Résistance à la magie.  
@@ -44645,6 +46775,8 @@ ___
 >**Langues** yéti  
 >**Puissance** 3 (700 PX)
 >
+>___
+>
 >**Camouflage dans la neige**.  
 >**Crainte du feu**.  
 >**Odorat aiguisé**.
@@ -44684,6 +46816,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** yéti  
 >**Puissance** 9 (5000 PX)
+>
+>___
 >
 >**Camouflage dans la neige**.  
 >**Crainte du feu**.  
@@ -44730,6 +46864,8 @@ ___
 >**Langues** abyssal, elfique, commun des profondeurs  
 >**Puissance** 10 (5900 PX)
 >
+>___
+>
 >**Métamorphe**.  
 >**Résistance à la magie**.  
 >**Pattes d'araignée**.  
@@ -44775,6 +46911,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 15  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 7 (2900 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Incantation innée (forme d'abomination uniquement)**.  
@@ -44823,7 +46961,9 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 21  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 12 (8400 PX)  
->**Bonus de maîtrise** +4
+>**Bonus de maîtrise** +4  
+>
+>___
 >
 >Résistance à la magie.  
 >Aura d'ophidiophobie.  
@@ -44869,6 +47009,8 @@ ___
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 17  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 12 (8400 PX)
+>
+>___
 >
 >**Incantation innée (forme d'anathème uniquement)**.  
 >- À volonté : _amitié avec les animaux_ (serpents uniquement)  
@@ -44918,7 +47060,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -44964,6 +47108,8 @@ ___
 >**Sens** vision dans le noir 36 m (traverse les ténèbres magiques), Perception passive 11  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Crocs de la mort (2/jour)**.  
@@ -45013,7 +47159,9 @@ ___
 >**Sens** vision dans le noir 36 m (traverse les ténèbres magiques), Perception passive 12  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 4 (1100 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -45059,6 +47207,8 @@ ___
 >**Sens** vision dans le noir 36 m (traverse les ténèbres magiques), Perception passive 12  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 4 (1100 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Incantation innée (forme de yuan-ti uniquement)**.  
@@ -45109,7 +47259,9 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 2 (450 PX)  
->**Bonus de maîtrise** +2
+>**Bonus de maîtrise** +2  
+>
+>___
 >
 >Téméraire.  
 >Attaques multiples.  
@@ -45150,6 +47302,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 2 (450 PX)
+>
+>___
 >
 >**Résistance mentale**.  
 >**Téméraire**.
@@ -45192,7 +47346,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 5 (1800 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >Vision de diable.  
 >Résistance à la magie.  
@@ -45237,6 +47393,8 @@ ___
 >**Sens** vision dans le noir 36 m (traverse les ténèbres magiques), Perception passive 11  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Incantation innée (forme de yuan-ti uniquement)**.  
@@ -45284,6 +47442,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 3 (700 PX)
+>
+>___
 >
 >**Métamorphe**.  
 >**Incantation innée (forme de yuan-ti uniquement)**.  
@@ -45342,6 +47502,8 @@ ___
 >**Langues** abyssal, commun, draconique  
 >**Puissance** 1 (200 PX)
 >
+>___
+>
 >**Incantation innée**.  
 >- À volonté : _amitié avec les animaux_ (serpents uniquement)  
 >- 3/jour chacun : _bouffée de poison_  
@@ -45385,7 +47547,9 @@ ___
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 15  
 >**Langues** —  
 >**Puissance** 22 (41000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Résistance légendaire (3/jour).  
 >Monstre de siège.  
@@ -45436,6 +47600,8 @@ ___
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 15  
 >**Langues** —  
 >**Puissance** 22 (41000 PX)
+>
+>___
 >
 >Mouvement de tremblement.  
 >Résistance légendaire (3/jour).  
@@ -45488,7 +47654,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 26  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 26 (90000 PX)  
->**Bonus de maîtrise** +8
+>**Bonus de maîtrise** +8  
+>
+>___
 >
 >Vision de diable.  
 >Résistance légendaire (3/jour).  
@@ -45538,6 +47706,8 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 26  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 26 (90000 PX)
+>
+>___
 >
 >**Vision de diable**.  
 >**Armes ardentes**.  
@@ -45591,7 +47761,9 @@ ___
 >**Sens** vision dans le noir 36 m, Perception passive 16  
 >**Langues** draconique, infernal, télépathie 36 m  
 >**Puissance** 8 (3900 PX)  
->**Bonus de maîtrise** +3
+>**Bonus de maîtrise** +3  
+>
+>___
 >
 >**Vision de diable**.  
 >**Résistance à la magie**.
@@ -45638,6 +47810,8 @@ ___
 >**Langues** comprend les langues qu'il connaissait de son vivant mais ne peut pas parler  
 >**Puissance** 1/4 (50 PX)
 >
+>___
+>
 >**Tenacité de mort-vivant**.
 >
 >Action|**Coup**. +3, 1,50 m, 1d6+1 contondants  
@@ -45672,6 +47846,8 @@ ___
 >**Sens** **Sens** vision aveugle 9 m, Perception passive 8  
 >**Langues** —  
 >**Puissance** 1/4 (50 PX)
+>
+>___
 >
 >**Tenacité de mort-vivant**.
 >
@@ -45712,6 +47888,8 @@ ___
 >**Langues** comprend le commun et le géant mais ne peut pas parler  
 >**Puissance** 2 (450 PX)
 >
+>___
+>
 >**Tenacité de mort-vivant**.
 >
 >Action|**Morgenstern**. +6, 1,50 m, 2d8+4 contondants  
@@ -45748,6 +47926,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** —  
 >**Puissance** 1/2 (100 PX)
+>
+>___
 >
 >**Charge**.  
 >**Tenacité de mort-vivant**.
@@ -45786,6 +47966,8 @@ ___
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** comprend le profond et le commun des profondeurs mais ne peut pas parler  
 >**Puissance** 5 (1800 PX)
+>
+>___
 >
 >**Tenacité de mort-vivant**.
 >
@@ -45830,7 +48012,9 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 21  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 23 (50000 PX)  
->**Bonus de maîtrise** +7
+>**Bonus de maîtrise** +7  
+>
+>___
 >
 >Vision de diable.  
 >Résistance légendaire (3/jour).  
@@ -45880,6 +48064,8 @@ ___
 >**Sens** vision véritable 36 m, Perception passive 21  
 >**Langues** toutes, télépathie 36 m  
 >**Puissance** 23 (50000 PX)
+>
+>___
 >
 >Incantation innée.  
 >Résistance légendaire (3/jour).  
