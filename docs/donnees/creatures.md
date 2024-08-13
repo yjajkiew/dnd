@@ -17,6 +17,34 @@ parent: Bases de données
 {:toc}
 </details>
 
+___
+>Aarakocra
+>=========
+>
+>_\[ Aarakocra \] \[ Aarakocre \]_
+>
+>_Humanoïde (aarakocra) de taille M, neutre bon_
+>
+>**Classe d'armure** 12  
+>**Points de vie** 13 (3d8)  
+>**Vitesse** 6 m, vol 15 m
+>
+>| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|10 (+0)|11 (+0)|12 (+1)|11 (+0)
+>
+>**Compétences** Perception +5  
+>**Sens** Perception passive 15  
+>**Langues** aérien, aarakocra  
+>**Puissance** 1/4 (50 PX)
+>
+>**Attaque en piqué**.  
+>A|**Serres**. +4, 1,50 m, 1d4+2 tranchants  
+>A|**Javeline**. +4, 1,50 m ou 9/36 m, 1d6+2 perforants  
+>
+>Monster Manual (BR+)
+>{: .label .label-border-white }
+{: .statblock5e }
 
 Aarakocra
 =========
