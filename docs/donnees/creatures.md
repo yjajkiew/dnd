@@ -30,9 +30,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 6 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|11 (+0)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Sens** Perception passive 15  
@@ -60,9 +64,13 @@ ___
 >**Points de vie** 68 (8d8 + 32)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|18 (+4)|11 (+0)|12 (+1)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** For +6, Con +7  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -99,9 +107,13 @@ ___
 >**Points de vie** 68 (8d8 + 32)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|18 (+4)|11 (+0)|12 (+1)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** For +6, Con +7  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -138,9 +150,13 @@ ___
 >**Points de vie** 202 (27d8 + 81)  
 >**Vitesse** 9 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|17 (+3)|22 (+6)|23 (+6)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Int +12, Sag +12  
 >**Compétences** Arcanes +12  
@@ -176,9 +192,13 @@ ___
 >**Points de vie** 195 (26d8 + 78)  
 >**Vitesse** 9 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|17 (+3)|22 (+6)|23 (+6)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Int +12, Sag +12  
 >**Compétences** Arcanes +12  
@@ -214,9 +234,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|17 (+3)|14 (+2)|13 (+1)|16 (+3)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Sag +6  
 >**Compétences** Perception +6, Discrétion +6  
@@ -252,9 +276,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|17 (+3)|14 (+2)|13 (+1)|16 (+3)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Sag +6  
 >**Compétences** Perception +6, Discrétion +6  
@@ -291,9 +319,13 @@ ___
 >**Points de vie** 289 (34d8 + 136)  
 >**Vitesse** 9 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|16 (+3)|19 (+4)|14 (+2)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** For +12, Con +10, Sag +8  
 >**Compétences** Intimidation +10, Perception +8  
@@ -331,9 +363,13 @@ ___
 >**Points de vie** 255 (30d8 + 120)  
 >**Vitesse** 9 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|16 (+3)|19 (+4)|14 (+2)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** For +12, Con +10, Sag +8  
 >**Compétences** Intimidation +10, Perception +8  
@@ -371,9 +407,13 @@ ___
 >**Points de vie** 195 (26d8 + 78)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|17 (+3)|16 (+3)|17 (+3)|12 (+1)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Int +8, Cha +9  
 >**Compétences** Intuition +6, Perception +6, Persuasion +9, Tromperie +9  
@@ -408,9 +448,13 @@ ___
 >**Points de vie** 187 (25d8 + 75)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|17 (+3)|16 (+3)|17 (+3)|12 (+1)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Int +8, Cha +9  
 >**Compétences** Intuition +6, Perception +6, Persuasion +9, Tromperie +9  
@@ -446,9 +490,13 @@ ___
 >**Points de vie** 84 (13d8 + 26)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|14 (+2)|18 (+4)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +8, Sag +5  
 >**Compétences** Arcanes +8, Histoire +8  
@@ -489,9 +537,13 @@ ___
 >**Points de vie** 135 (18d10 + 36)  
 >**Vitesse** 3 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Con +6, Int +8, Sag +6  
 >**Compétences** Histoire +12, Perception +10  
@@ -527,9 +579,13 @@ ___
 >**Points de vie** 66 (7d12 + 21)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|17 (+3)|5 (-3)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Sauvegardes** For +7, Con +6  
 >**Immunités** charmé, effrayé, empoisonné  
@@ -563,9 +619,13 @@ ___
 >**Points de vie** 285 (30d8+150)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|20 (+5)|27 (+8)|21 (+5)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Con +12, Int +15, Sag +12  
 >**Compétences** Arcanes +22, Histoire +22, Intuition +12, Perception +12, Religion +15  
@@ -607,9 +667,13 @@ ___
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Médecine +4, Religion +2  
 >**Sens** Perception passive 12  
@@ -637,9 +701,13 @@ ___
 >**Points de vie** 225 (30d8 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|6 (-2)|11 (+0)|6 (-2)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -669,9 +737,13 @@ ___
 >**Points de vie** 255 (30d8 + 120)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|19 (+4)|8 (-1)|13 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +6  
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
@@ -702,9 +774,13 @@ ___
 >**Points de vie** 10 (4d6 - 4)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|12 (+1)|9 (-1)|5 (-3)|6 (-2)|5 (-3)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 8  
@@ -732,9 +808,13 @@ ___
 >**Points de vie** 78 (12d8 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|15 (+2)|6 (-2)|7 (-2)|5 (-3)
+>
+>___
 >
 >**Compétences** Athlétisme +6  
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
@@ -765,9 +845,13 @@ ___
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|17 (+3)|6 (-2)|11 (+0)|6 (-2)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -798,9 +882,13 @@ ___
 >**Points de vie** 3 (1d6)  
 >**Vitesse** 3 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|15 (+2)|10 (+0)|2 (-4)|14 (+2)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** Perception passive 14  
@@ -828,9 +916,13 @@ ___
 >**Points de vie** 26 (4d10 + 4)  
 >**Vitesse** 3 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|17 (+3)|13 (+1)|8 (-1)|14 (+2)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** Perception passive 14  
@@ -860,9 +952,13 @@ ___
 >**Points de vie** 150 (20d8 + 60)  
 >**Vitesse** 9 m, vol 4,50 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|16 (+3)|19 (+4)|17 (+3)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +7, Int +8, Sag +7, Cha +7  
 >**Compétences** Arcanes +8, Discrétion +5, Histoire +8, Intuition +7, Perception +7, Tromperie +7  
@@ -901,9 +997,13 @@ ___
 >**Points de vie** 120 (16d8 + 48)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|16 (+3)|19 (+4)|17 (+3)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +7, Int +8, Sag +7, Cha +7  
 >**Compétences** Arcanes +8, Discrétion +5, Histoire +8, Intuition +7, Perception +7, Tromperie +7  
@@ -948,9 +1048,13 @@ ___
 >**Points de vie** 168 (16d8 + 96)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|19 (+4)|22 (+6)|6 (-2)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +10  
 >**Compétences** Discrétion +8  
@@ -989,9 +1093,13 @@ ___
 >**Points de vie** 157 (15d8 + 90)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|19 (+4)|22 (+6)|6 (-2)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +10  
 >**Compétences** Discrétion +8  
@@ -1026,9 +1134,13 @@ ___
 >**Points de vie** 40 (9d18)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|17 (+3)|10 (+0)|17 (+3)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +5  
 >**Compétences** Perception +5, Discrétion +6  
@@ -1062,9 +1174,13 @@ ___
 >**Points de vie** 40 (9d18)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|17 (+3)|10 (+0)|17 (+3)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +5  
 >**Compétences** Perception +5, Discrétion +6  
@@ -1098,9 +1214,13 @@ ___
 >**Points de vie** 51 (6d10 + 18)  
 >**Vitesse** 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|13 (+1)|17 (+3)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Sens** Perception passive 15  
@@ -1130,9 +1250,13 @@ ___
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 0 m, vol 18 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)
+>
+>___
 >
 >**Résistances** acide, feu, foudre, froid, tonnerre ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
 >**Immunités** nécrotique, poison  
@@ -1163,9 +1287,13 @@ ___
 >**Points de vie** 127 (15d8 + 60)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
@@ -1201,9 +1329,13 @@ ___
 >**Points de vie** 127 (15d8 + 60)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
@@ -1237,9 +1369,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|17 (+3)|6 (-2)|9 (-1)|10 (+0)
+>
+>___
 >
 >**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -1271,9 +1407,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|17 (+3)|6 (-2)|9 (-1)|10 (+0)
+>
+>___
 >
 >**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -1303,9 +1443,13 @@ ___
 >**Points de vie** 202 (27d8 + 81)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|16 (+3)|20 (+5)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +9, Sag +7, Cha +10  
 >**Compétences** Perception +7  
@@ -1343,9 +1487,13 @@ ___
 >**Points de vie** 202 (27d8 + 81)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|16 (+3)|20 (+5)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +9, Sag +7, Cha +10  
 >**Compétences** Perception +7  
@@ -1383,9 +1531,13 @@ ___
 >**Points de vie** 199 (19d10 + 95)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|10 (+0)|20 (+5)|16 (+3)|18 (+4)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +11, Int +9, Sag +10  
 >**Compétences** Arcanes +9, Perception +10, Religion +15  
@@ -1432,9 +1584,13 @@ ___
 >**Points de vie** 39 (6d10 + 6)  
 >**Vitesse** 9 m, creusement 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|13 (+1)|1 (-5)|13 (+1)|6 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 11  
 >**Langues** —  
@@ -1460,9 +1616,13 @@ ___
 >**Points de vie** 68 (8d12 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|15 (+2)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** —  
@@ -1487,9 +1647,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Arcanes +4, Histoire +4  
 >**Sens** Perception passive 10  
@@ -1513,9 +1677,13 @@ ___
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|14 (+2)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Arcanes +4, Histoire +4  
 >**Sens** Perception passive 10  
@@ -1543,9 +1711,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|11 (+0)|12 (+1)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +7, Sag +5  
 >**Compétences** Arcanes +7, Histoire +7  
@@ -1584,9 +1756,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|14 (+2)|8 (-1)|1 (-5)|10 (+0)|2 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +4  
 >**Sens** vision dans le noir 9 m, Perception passive 10  
@@ -1616,9 +1792,13 @@ ___
 >**Points de vie** 30 (4d10 + 8)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|2 (-4)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +7, Perception +4  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
@@ -1648,9 +1828,13 @@ ___
 >**Points de vie** 30 (4d10 + 8)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|2 (-4)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +7, Perception +4  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
@@ -1680,9 +1864,13 @@ ___
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|14 (+2)|2 (-4)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +5, Perception +4  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
@@ -1712,9 +1900,13 @@ ___
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|14 (+2)|2 (-4)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +5, Perception +4  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
@@ -1744,9 +1936,13 @@ ___
 >**Points de vie** 32 (5d10 + 5)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|15 (+2)|12 (+1)|6 (-2)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +6  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -1776,9 +1972,13 @@ ___
 >**Points de vie** 26 (4d10 + 4)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|12 (+1)|2 (-4)|11 (+0)|4 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +7  
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10  
@@ -1809,9 +2009,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|13 (+1)|3 (-4)|12 (+1)|4 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +7, Perception +3  
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13  
@@ -1841,9 +2045,13 @@ ___
 >**Points de vie** 59 (7d12 + 14)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|6 (-2)|15 (+2)|10 (+0)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Vulnérabilités** feu  
 >**Résistances** contondant, perforant  
@@ -1872,9 +2080,13 @@ ___
 >**Points de vie** 10 (3d6)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|8 (-1)|11 (+0)|10 (+0)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Vulnérabilités** feu  
 >**Résistances** perforant  
@@ -1902,9 +2114,13 @@ ___
 >**Points de vie** 104 (16d8 + 32)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|14 (+2)|20 (+5)|16 (+3)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Int +9, Sag +7, Cha +7  
 >**Compétences** Arcanes +13, Intuition +9, Perception +7, Tromperie +9  
@@ -1949,9 +2165,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|16 (+3)|11 (+0)|13 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Acrobaties +6, Perception +5  
 >**Sens** Perception passive 15  
@@ -1981,9 +2201,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|16 (+3)|11 (+0)|13 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Acrobaties +6, Perception +5  
 >**Sens** Perception passive 15  
@@ -2013,9 +2237,13 @@ ___
 >**Points de vie** 154 (28d8 + 28)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|12 (+1)|12 (+1)|20 (+5)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +9  
 >**Compétences** Médecine +9, Nature +5, Perception +9  
@@ -2047,9 +2275,13 @@ ___
 >**Points de vie** 132 (24d8 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|12 (+1)|20 (+5)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +9  
 >**Compétences** Médecine +9, Nature +5, Perception +9  
@@ -2088,9 +2320,13 @@ ___
 >**Points de vie** 99 (18d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +9, Sag +6  
 >**Compétences** Arcanes +13, Histoire +13  
@@ -2131,9 +2367,13 @@ ___
 >**Points de vie** 94 (9d10 + 45)  
 >**Vitesse** 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|18 (+4)|21 (+5)|8 (-1)|12 (+1)|13 (+1)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -2167,9 +2407,13 @@ ___
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|18 (+4)|21 (+5)|8 (-1)|12 (+1)|13 (+1)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -2203,9 +2447,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|13 (+1)|1 (-5)|3 (-4)|1 (-5)
+>
+>___
 >
 >**Immunités** poison, psychique  
 >**Immunités** assourdi, aveuglé, charmé, empoisonné, épuisement, paralysé, pétrifié, effrayé  
@@ -2235,9 +2483,13 @@ ___
 >**Points de vie** 78 (12d8 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Int +4  
 >**Compétences** Acrobaties +6, Discrétion +9, Perception +3, Tromperie +3  
@@ -2270,9 +2522,13 @@ ___
 >**Points de vie** 38 (4d10 + 16)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** —  
@@ -2298,9 +2554,13 @@ ___
 >**Points de vie** 38 (4d10 + 16)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** —  
@@ -2327,9 +2587,13 @@ ___
 >**Points de vie** 91 (14d8 + 28)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|14 (+2)|3 (-4)|10 (+0)|1 (-5)
+>
+>___
 >
 >**Compétences** Discrétion +7  
 >**Immunités** poison  
@@ -2360,9 +2624,13 @@ ___
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|14 (+2)|3 (-4)|10 (+0)|1 (-5)
+>
+>___
 >
 >**Compétences** Discrétion +7  
 >**Immunités** poison ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -2391,9 +2659,13 @@ ___
 >**Points de vie** la moitié du maximum de points de vie de son invocateur  
 >**Vitesse** 18 m, vol 18 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|16 (+3)|16 (+3)|16 (+3)
+>
+>___
 >
 >**Immunités** nécrotique, poison  
 >**Immunités** charmé, effrayé, paralysé, pétrifié, empoisonné, inconscient  
@@ -2423,9 +2695,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +4  
 >**Immunités** feu, poison  
@@ -2456,9 +2732,13 @@ ___
 >**Points de vie** 82 (11d8 + 33)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|16 (+3)|11 (+0)|12 (+1)|13 (+1)
+>
+>___
 >
 >**Compétences** Perception +5, Discrétion +5  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -2491,9 +2771,13 @@ ___
 >**Points de vie** 82 (11d8 + 33)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|16 (+3)|11 (+0)|12 (+1)|13 (+1)
+>
+>___
 >
 >**Compétences** Perception +5, Discrétion +5  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -2527,9 +2811,13 @@ ___
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 3 m, nage 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|8 (-1)|16 (+3)|3 (-4)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Immunités** à terre  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -2559,9 +2847,13 @@ ___
 >**Points de vie** 3 (1d6)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|11 (+0)|4 (-3)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** —  
@@ -2587,9 +2879,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Athlétisme +5, Perception +2  
 >**Sens** vision dans le noir 18 mètres, Perception passive 12  
@@ -2618,9 +2914,13 @@ ___
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|17 (+3)|20 (+5)|21 (+5)|24 (+7)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +11, Int +11, Cha +13  
 >**Compétences** Intimidation +13, Perception +13, Persuasion +13  
@@ -2662,9 +2962,13 @@ ___
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|17 (+3)|20 (+5)|21 (+5)|24 (+7)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +11, Int +11, Cha +13  
 >**Compétences** Intimidation +13, Perception +13, Persuasion +13  
@@ -2707,9 +3011,13 @@ ___
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 7,50 m, escalade 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|8 (-1)|18 (+4)|6 (-2)|15 (+2)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** Con +8  
 >**Compétences** Perception +6  
@@ -2744,9 +3052,13 @@ ___
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 7,50 m, escalade 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|8 (-1)|18 (+4)|6 (-2)|15 (+2)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** Con +8  
 >**Compétences** Perception +6  
@@ -2780,9 +3092,13 @@ ___
 >**Points de vie** 262 (21d12 + 126)  
 >**Vitesse** 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)
+>
+>___
 >
 >**Sauvegardes** For +14, Con +12, Sag +9, Cha +12  
 >**Résistances** foudre, froid ; contondant, perforant et tranchant d'attaques non magiques  
@@ -2818,9 +3134,13 @@ ___
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|20 (+5)|11 (+0)|14 (+2)|8 (-1)
+>
+>___
 >
 >**Compétences** Athlétisme +8, Discrétion +7  
 >**Immunités** charmé, effrayé  
@@ -2854,9 +3174,13 @@ ___
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|20 (+5)|11 (+0)|14 (+2)|8 (-1)
+>
+>___
 >
 >**Compétences** Athlétisme +8, Discrétion +7  
 >**Immunités** charmé, effrayé  
@@ -2889,9 +3213,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
@@ -2916,9 +3244,13 @@ ___
 >**Points de vie** 65 (10d8 + 20)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** For +4, Dex +5, Sag +2  
 >**Compétences** Athlétisme +4, Tromperie +4  
@@ -2947,9 +3279,13 @@ ___
 >**Points de vie** 58 (13d8)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|14 (+2)|10 (+0)|12 (+1)|11 (+0)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +2, Cha +5  
 >**Résistances** acide, foudre, feu, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -2983,9 +3319,13 @@ ___
 >**Points de vie** 319 (22d12 + 176)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|14 (+2)|26 (+8)|18 (+4)|24 (+7)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +15, Sag +14  
 >**Compétences** Intimidation +17, Perception +14  
@@ -3026,9 +3366,13 @@ ___
 >**Points de vie** 275 (19d12 + 152)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|14 (+2)|26 (+8)|18 (+4)|24 (+7)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +15, Sag +14  
 >**Compétences** Intimidation +17, Perception +14  
@@ -3071,9 +3415,13 @@ ___
 >**Points de vie** 44 (8d8 + 8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Sag +3  
 >**Compétences** Acrobaties +4, Perception +5, Représentation +6  
@@ -3106,9 +3454,13 @@ ___
 >**Points de vie** 44 (8d8 + 8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Sag +3  
 >**Compétences** Acrobaties +4, Perception +5, Représentation +6  
@@ -3143,9 +3495,13 @@ ___
 >**Points de vie** 60 (8d10 + 16)  
 >**Vitesse** 18 m (9 m sous forme de gobelin)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|15 (+2)|14 (+2)|13 (+1)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +4, Intimidation +4, Perception +5, Tromperie +4  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -3180,9 +3536,13 @@ ___
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 18 m (9 m sous forme de gobelin)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|15 (+2)|14 (+2)|13 (+1)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +4, Intimidation +4, Perception +5, Tromperie +4  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -3218,9 +3578,13 @@ ___
 >**Points de vie** 68 (8d10 + 24)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|7 (-2)|14 (+2)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +6  
 >**Compétences** Discrétion +5, Perception +5  
@@ -3258,9 +3622,13 @@ ___
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|8 (-1)|15 (+2)|2 (-4)|8 (-1)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** —  
@@ -3286,9 +3654,13 @@ ___
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|12 (+1)|2 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -3312,9 +3684,13 @@ ___
 >**Points de vie** 168 (16d12 + 64)  
 >**Vitesse** 15 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|16 (+3)|18 (+4)|7 (-2)|14 (+2)|12 (+1)
+>
+>___
 >
 >**Compétences** Discrétion +7, Perception +6  
 >**Immunités** foudre  
@@ -3344,9 +3720,13 @@ ___
 >**Points de vie** 262 (21d12 + 126)  
 >**Vitesse** 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)
+>
+>___
 >
 >**Sauvegardes** For +14, Con +12, Sag +9, Cha +12  
 >**Résistances** froid, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -3385,9 +3765,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|16 (+3)|8 (-1)|2 (-4)|12 (+1)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +5, Perception +3  
 >**Sens** Perception passive 13  
@@ -3414,9 +3798,13 @@ ___
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|10 (+0)|4 (-3)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +5, Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -3443,9 +3831,13 @@ ___
 >**Points de vie** 49 (14d8 - 14)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|9 (-1)|17 (+3)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Int +5  
 >**Compétences** Arcanes +5, Histoire +5, Intuition +2, Perception +2, Religion +5  
@@ -3477,9 +3869,13 @@ ___
 >**Points de vie** 38 (11d8 - 11)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|9 (-1)|17 (+3)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Int +5  
 >**Compétences** Arcanes +5, Histoire +5, Intuition +2, Perception +2, Religion +5  
@@ -3510,9 +3906,13 @@ ___
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|17 (+3)|9 (-1)|11 (+0)|9 (-1)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
@@ -3538,9 +3938,13 @@ ___
 >**Points de vie** 5 + cinq fois votre niveau de rôdeur (la bête a un nombre de Dés de vie \[d8\] égal à votre niveau de rôdeur)  
 >**Vitesse** 1,50 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|15 (+2)|8 (-1)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend les langues que vous parlez  
@@ -3566,9 +3970,13 @@ ___
 >**Points de vie** 5 + cinq fois votre niveau de rôdeur (la bête a un nombre de Dés de vie \[d8\] égal à votre niveau de rôdeur)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|15 (+2)|8 (-1)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend les langues que vous parlez  
@@ -3594,9 +4002,13 @@ ___
 >**Points de vie** 4 + quatre fois votre niveau de rôdeur (la bête a un nombre de Dés de vie \[d6\] égal à votre niveau de rôdeur)  
 >**Vitesse** 3 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|13 (+1)|8 (-1)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend les langues que vous parlez  
@@ -3622,9 +4034,13 @@ ___
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|6 (-2)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
@@ -3653,9 +4069,13 @@ ___
 >**Points de vie** 15 (2d10 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Résistances** froid, feu, poison  
@@ -3683,9 +4103,13 @@ ___
 >**Points de vie** 15 (2d10 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Résistances** froid, feu, poison  
@@ -3714,9 +4138,13 @@ ___
 >**Points de vie** 3 (1d4 + 1)  
 >**Vitesse** 6 m, creusement 1,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|11 (+0)|12 (+1)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, Perception passive 11  
 >**Langues** —  
@@ -3742,9 +4170,13 @@ ___
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m, creusement 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|10 (+0)|15 (+2)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, Perception passive 11  
 >**Langues** —  
@@ -3772,9 +4204,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|16 (+3)|12 (+1)|11 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** For +4, Con +5  
 >**Compétences** Athlétisme +4, Tromperie +4  
@@ -3802,9 +4238,13 @@ ___
 >**Points de vie** 36 (8d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|17 (+3)|10 (+0)|11 (+0)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Résistances** nécrotique  
 >**Immunités** poison  
@@ -3835,9 +4275,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|15 (+2)|7 (-2)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Compétences** Perception +4, Discrétion +6  
 >**Résistances** froid, feu, nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
@@ -3872,9 +4316,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|15 (+2)|7 (-2)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Compétences** Perception +4, Discrétion +6  
 >**Résistances** froid, feu, nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
@@ -3908,9 +4356,13 @@ ___
 >**Points de vie** 15 (2d10 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -3937,9 +4389,13 @@ ___
 >**Points de vie** 15 (2d10 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -3967,9 +4423,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|16 (+3)|10 (+0)|13 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Athlétisme +7, Perception +4, Discrétion +4  
 >**Vulnérabilités** feu  
@@ -4003,9 +4463,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|16 (+3)|10 (+0)|13 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Athlétisme +7, Perception +4, Discrétion +4  
 >**Vulnérabilités** feu  
@@ -4040,9 +4504,13 @@ ___
 >**Points de vie** 45 (6d6 + 24)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|18 (+4)|10 (+0)|12 (+1)|9 (-1)
+>
+>___
 >
 >**Compétences** Athlétisme +6, Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -4073,9 +4541,13 @@ ___
 >**Points de vie** 45 (6d6 + 24)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|18 (+4)|10 (+0)|12 (+1)|9 (-1)
+>
+>___
 >
 >**Compétences** Athlétisme +6, Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -4106,9 +4578,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|16 (+3)|14 (+2)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** For +4, Dex +5, Sag +2  
 >**Compétences** Persuasion +4, Tromperie +4  
@@ -4138,9 +4614,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|12 (+1)|14 (+2)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Compétences** Acrobaties +8, Athlétisme +5, Persuasion +6  
 >**Sens** Perception passive 10  
@@ -4172,9 +4652,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|12 (+1)|14 (+2)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Compétences** Acrobaties +8, Athlétisme +5, Persuasion +6  
 >**Sens** Perception passive 10  
@@ -4205,9 +4689,13 @@ ___
 >**Points de vie** 30 (4d8 + 12)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|16 (+3)|6 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Sag +3  
 >**Résistances** acide, froid, foudre, nécrotique, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -4242,9 +4730,13 @@ ___
 >**Points de vie** 30 (4d8 + 12)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|16 (+3)|6 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Sag +3  
 >**Résistances** acide, froid, foudre, nécrotique, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -4278,9 +4770,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 6 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|12 (+1)|13 (+1)|7 (-2)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +3  
 >**Sens** Perception passive 10  
@@ -4312,9 +4808,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|13 (+1)|9 (-1)|11 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Con +3, Sag +2  
 >**Sens** Perception passive 10  
@@ -4347,9 +4847,13 @@ ___
 >**Points de vie** 94 (9d10 + 45)  
 >**Vitesse** 12 m, creusement 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|21 (+5)|2 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +6  
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 16  
@@ -4377,9 +4881,13 @@ ___
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|17 (+3)|8 (-1)|9 (-1)|6 (-2)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -4411,9 +4919,13 @@ ___
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|17 (+3)|8 (-1)|9 (-1)|6 (-2)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -4444,9 +4956,13 @@ ___
 >**Points de vie** 189 (14d20 + 42)  
 >**Vitesse** 0 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|8 (-1)|17 (+3)|3 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sens** vision aveugle 36 m, Perception passive 11  
 >**Langues** —  
@@ -4477,9 +4993,13 @@ ___
 >**Points de vie** 82 (11d8 + 33)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|16 (+3)|14 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** For +7, Con +6, Int +5, Cha +6  
 >**Compétences** Discrétion +7, Intimidation +6, Perception +4, Tromperie +6  
@@ -4514,9 +5034,13 @@ ___
 >**Points de vie** 120 (16d8 + 48)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|17 (+3)|5 (-3)|17 (+3)|12 (+1)
+>
+>___
 >
 >**Compétences** Investigation +3, Perception +9  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -4552,9 +5076,13 @@ ___
 >**Points de vie** 120 (16d8 + 48)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|17 (+3)|5 (-3)|17 (+3)|12 (+1)
+>
+>___
 >
 >**Compétences** Investigation +3, Perception +9  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -4590,9 +5118,13 @@ ___
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|21 (+5)|3 (-4)|14 (+2)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
@@ -4621,9 +5153,13 @@ ___
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|21 (+5)|3 (-4)|14 (+2)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** —  
@@ -4652,9 +5188,13 @@ ___
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|14 (+2)|9 (-1)|13 (+1)|11 (+0)
+>
+>___
 >
 >**Compétences** Athlétisme +6, Perception +3, Survie +3  
 >**Sens** Perception passive 13  
@@ -4684,9 +5224,13 @@ ___
 >**Points de vie** 55 (10d6 + 20)  
 >**Vitesse** 0 m, vol 3 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|3 (-4)|15 (+2)|19 (+4)|10 (+0)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Int +6, Cha +4  
 >**Immunités** poison  
@@ -4719,9 +5263,13 @@ ___
 >**Points de vie** 4 (1d8)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|11 (+0)|2 (-4)|14 (+2)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 12  
 >**Langues** —  
@@ -4745,9 +5293,13 @@ ___
 >**Points de vie** 210 (20d10 + 100)  
 >**Vitesse** 1,50 m, nage 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|20 (+5)|21 (+5)|19 (+4)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** Int +10, Sag +9, Cha +12  
 >**Compétences** Arcanes +10, Intimidation +12, Intuition +14, Persuasion +12, Tromperie +12  
@@ -4787,9 +5339,13 @@ ___
 >**Points de vie** 350 (20d20 + 140)  
 >**Vitesse** 12 m, vol 24 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|13 (+1)|25 (+7)|21 (+5)|19 (+4)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** Con +14, Int +12, Sag +11, Cha +14  
 >**Compétences** Arcanes +12, Intuition +18, Perception +18  
@@ -4828,9 +5384,13 @@ ___
 >**Points de vie** 210 (20d10 + 100)  
 >**Vitesse** 1,50 m, nage 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|20 (+5)|21 (+5)|19 (+4)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** Int +10, Sag +9, Cha +12  
 >**Compétences** Arcanes +10, Intimidation +12, Intuition +14, Persuasion +12, Tromperie +12  
@@ -4872,9 +5432,13 @@ ___
 >**Points de vie** 3 (1d6)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|15 (+2)|11 (+0)|3 (-4)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -4902,9 +5466,13 @@ ___
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|13 (+1)|10 (+0)|15 (+2)|12 (+1)
+>
+>___
 >
 >**Compétences** Médecine +4, Nature +4, Perception +4, Survie +6  
 >**Sens** Perception passive 14  
@@ -4934,9 +5502,13 @@ ___
 >**Points de vie** 15 (2d10 + 4)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|8 (-1)|14 (+2)|2 (-4)|8 (-1)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 9  
 >**Langues** —  
@@ -4960,9 +5532,13 @@ ___
 >**Points de vie** 143 (22d8 + 44)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|14 (+2)|10 (+0)|14 (+2)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** For +9, Con +6  
 >**Compétences** Athlétisme +9, Intimidation +5, Perception +6  
@@ -4995,9 +5571,13 @@ ___
 >**Points de vie** 143 (22d8 + 44)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|14 (+2)|10 (+0)|14 (+2)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** For +9, Con +6  
 >**Compétences** Athlétisme +9, Intimidation +5, Perception +6  
@@ -5029,9 +5609,13 @@ ___
 >**Points de vie** 51 (6d10 + 18)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|13 (+1)|16 (+3)|1 (-5)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -5062,9 +5646,13 @@ ___
 >**Points de vie** 84 (13d10 + 13)  
 >**Vitesse** 6 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|15 (+2)|12 (+1)|11 (+0)|14 (+2)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Sag +5  
 >**Compétences** Perception +5  
@@ -5098,9 +5686,13 @@ ___
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 12 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|15 (+2)|10 (+0)|3 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +3  
 >**Sens** Perception passive 13  
@@ -5127,9 +5719,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 1,50 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|15 (+2)|8 (-1)|2 (-4)|12 (+1)|4 (-3)
+>
+>___
 >
 >**Sens** vision aveugle 18 m, Perception passive 11  
 >**Langues** —  
@@ -5156,9 +5752,13 @@ ___
 >**Points de vie** 24 (7d6)  
 >**Vitesse** 9 m (escalade 9 m, vol 18 m sous forme hybride ou de chauve-souris)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|10 (+0)|10 (+0)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +5  
 >**Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -5194,9 +5794,13 @@ ___
 >**Points de vie** 22 (4d10)  
 >**Vitesse** 3 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|11 (+0)|2 (-4)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Sens** vision aveugle 18 m, Perception passive 11  
 >**Langues** —  
@@ -5223,9 +5827,13 @@ ___
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|13 (+1)|2 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** —  
@@ -5251,9 +5859,13 @@ ___
 >**Points de vie** 13 (2d10 + 2)  
 >**Vitesse** 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|12 (+1)|2 (-4)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -5277,9 +5889,13 @@ ___
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|12 (+1)|2 (-4)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -5303,9 +5919,13 @@ ___
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Con +4, Sag +2  
 >**Sens** Perception passive 10  
@@ -5336,9 +5956,13 @@ ___
 >**Points de vie** 180 (19d8 + 95)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|11 (+0)|20 (+5)|12 (+1)|16 (+3)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Sag +9, Cha +10  
 >**Immunités** nécrotique, poison  
@@ -5378,9 +6002,13 @@ ___
 >**Points de vie** 119 (14d8 + 56)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|18 (+4)|11 (+0)|14 (+2)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Sag +5, Cha +5  
 >**Compétences** Athlétisme +7, Tromperie +5, Intimidation +5  
@@ -5416,9 +6044,13 @@ ___
 >**Points de vie** 153 (18d8 + 72)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|18 (+4)|11 (+0)|14 (+2)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Sag +5, Cha +5  
 >**Compétences** Athlétisme +7, Tromperie +5, Intimidation +5  
@@ -5452,9 +6084,13 @@ ___
 >**Points de vie** 4 (1d8)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|11 (+0)|2 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -5481,9 +6117,13 @@ ___
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 12 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|14 (+2)|2 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -5511,9 +6151,13 @@ ___
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|12 (+1)|3 (-4)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** —  
@@ -5541,9 +6185,13 @@ ___
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|12 (+1)|3 (-4)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** —  
@@ -5571,9 +6219,13 @@ ___
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|14 (+2)|6 (-2)|13 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Immunités** feu  
@@ -5603,9 +6255,13 @@ ___
 >**Points de vie** 51 (6d10 + 18)  
 >**Vitesse** 12 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|17 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -5637,9 +6293,13 @@ ___
 >**Points de vie** 51 (6d10 + 18)  
 >**Vitesse** 12 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|17 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
 >**Immunités** charmé, épuisement, effrayé  
@@ -5671,9 +6331,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|14 (+2)|3 (-4)|13 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +5  
 >**Sens** vision dans le noir 36 m, Perception passive 15  
@@ -5701,9 +6365,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|17 (+3)|12 (+1)|10 (+0)|13 (+1)|11 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +5, Perception +3  
 >**Sens** Perception passive 13  
@@ -5731,9 +6399,13 @@ ___
 >**Points de vie** 5 (1d8 + 1)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|14 (+2)|12 (+1)|3 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -5760,9 +6432,13 @@ ___
 >**Points de vie** 26 (4d10 + 4)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|13 (+1)|3 (-4)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -5793,9 +6469,13 @@ ___
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|19 (+4)|3 (-4)|14 (+2)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +8  
 >**Sens** vision dans le noir 18 m, Perception passive 18  
@@ -5824,9 +6504,13 @@ ___
 >**Points de vie** 18 (4d6 + 4)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Compétences** Athlétisme +4, Discrétion +4  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -5858,9 +6542,13 @@ ___
 >**Points de vie** 18 (4d6 + 4)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Compétences** Athlétisme +4, Discrétion +4  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -5892,9 +6580,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|12 (+1)|11 (+0)|14 (+2)|10 (+0)
+>
+>___
 >
 >**Compétences** Athlétisme +5, Religion +2, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -5928,9 +6620,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|12 (+1)|11 (+0)|14 (+2)|10 (+0)
+>
+>___
 >
 >**Compétences** Athlétisme +5, Religion +2, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -5967,9 +6663,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 1,50 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|13 (+1)|8 (-1)|2 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +3  
 >**Sens** vision dans le noir 36 m, Perception passive 13  
@@ -5997,9 +6697,13 @@ ___
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 1,50 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|15 (+2)|12 (+1)|8 (-1)|13 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +5  
 >**Sens** vision dans le noir 36 m, Perception passive 15  
@@ -6027,9 +6731,13 @@ ___
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|16 (+3)|5 (-3)|11 (+0)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Immunités** poison  
@@ -6061,9 +6769,13 @@ ___
 >**Points de vie** 27 (6d6 + 6)  
 >**Vitesse** 6 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|12 (+1)|12 (+1)|2 (-4)|13 (+1)|5 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
@@ -6087,9 +6799,13 @@ ___
 >**Points de vie** 52 (5d10 + 25)  
 >**Vitesse** 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|5 (-3)|20 (+5)|3 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Immunités** feu, poison  
 >**Immunités** empoisonné  
@@ -6121,9 +6837,13 @@ ___
 >**Points de vie** 52 (5d10 + 25)  
 >**Vitesse** 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|5 (-3)|20 (+5)|3 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Immunités** feu, poison  
 >**Immunités** empoisonné  
@@ -6155,9 +6875,13 @@ ___
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|14 (+2)|20 (+5)|5 (-3)|11 (+0)|8 (-1)
+>
+>___
 >
 >**Immunités** nécrotique, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
@@ -6190,9 +6914,13 @@ ___
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|14 (+2)|20 (+5)|5 (-3)|11 (+0)|8 (-1)
+>
+>___
 >
 >**Immunités** nécrotique, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
@@ -6213,6 +6941,8 @@ ___
 ___
 
 >Compagnon d'armes (niv 1)
+>
+>___
 >===========================
 >
 >_\[ Warrior (lvl 1) \]_
@@ -6223,9 +6953,13 @@ ___
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +4  
 >**Compétences** Athlétisme +4, Perception +3, Survie +3  
@@ -6246,6 +6980,8 @@ ___
 ___
 
 >Compagnon d'armes (niv 2)
+>
+>___
 >===========================
 >
 >_\[ Warrior (lvl 2) \]_
@@ -6256,9 +6992,13 @@ ___
 >**Points de vie** 19 (3d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +4  
 >**Compétences** Athlétisme +4, Perception +3, Survie +3  
@@ -6280,6 +7020,8 @@ ___
 ___
 
 >Compagnon d'armes (niv 3)
+>
+>___
 >===========================
 >
 >_\[ Warrior (lvl 3) \]_
@@ -6290,9 +7032,13 @@ ___
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +4  
 >**Compétences** Athlétisme +4, Perception +3, Survie +3  
@@ -6315,6 +7061,8 @@ ___
 ___
 
 >Compagnon d'armes (niv 4)
+>
+>___
 >===========================
 >
 >_\[ Warrior (lvl 4) \]_
@@ -6325,9 +7073,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +4  
 >**Compétences** Athlétisme +5, Perception +3, Survie +3  
@@ -6350,6 +7102,8 @@ ___
 ___
 
 >Compagnon d'armes (niv 5)
+>
+>___
 >===========================
 >
 >_\[ Warrior (lvl 5) \]_
@@ -6360,9 +7114,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +5  
 >**Compétences** Athlétisme +6, Perception +4, Survie +4  
@@ -6385,6 +7143,8 @@ ___
 ___
 
 >Compagnon d'armes (niv 6)
+>
+>___
 >===========================
 >
 >_\[ Warrior (lvl 6) \]_
@@ -6395,9 +7155,13 @@ ___
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|13 (+1)|14 (+2)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +5  
 >**Compétences** Athlétisme +6, Perception +4, Survie +4  
@@ -6431,9 +7195,13 @@ ___
 >**Points de vie** 5 + cinq fois votre niveau de rôdeur (le drake a un nombre de dés de vie \[d10\] égal à votre niveau de rôdeur)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|15 (+2)|8 (-1)|14 (+2)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +1 plus BM, Sag +2 plus BM  
 >**Immunités** déterminés par le trait Essence draconique du drake  
@@ -6463,9 +7231,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|16 (+3)|12 (+1)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +4  
 >**Compétences** Intimidation +5, Perception +4  
@@ -6496,9 +7268,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 3 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|14 (+2)|8 (-1)|2 (-4)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -6525,9 +7301,13 @@ ___
 >**Points de vie** 97 (13d8 + 39)  
 >**Vitesse** 9 m, vol 27 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|20 (+5)|17 (+3)|18 (+4)|20 (+5)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Con +5, Sag +7, Cha +6  
 >**Résistances** radiant  
@@ -6563,9 +7343,13 @@ ___
 >**Points de vie** 22 (3d10 + 6)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|14 (+2)|4 (-3)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Immunités** feu  
 >**Sens** Perception passive 11  
@@ -6594,9 +7378,13 @@ ___
 >**Points de vie** 22 (3d10 + 6)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|14 (+2)|4 (-3)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Immunités** feu  
 >**Sens** Perception passive 11  
@@ -6625,9 +7413,13 @@ ___
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 6 m, nage 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|11 (+0)|10 (+0)|1 (-5)|8 (-1)|2 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +2  
 >**Sens** vision aveugle 9 m, Perception passive 9  
@@ -6654,9 +7446,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|3 (-4)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Compétences** Perception +2, Discrétion +5  
 >**Sens** vision aveugle 18 m, Perception passive 12  
@@ -6689,9 +7485,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|3 (-4)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Compétences** Perception +2, Discrétion +5  
 >**Sens** vision aveugle 18 m, Perception passive 12  
@@ -6723,9 +7523,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|15 (+2)|11 (+0)|1 (-5)|9 (-1)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +4  
 >**Sens** vision aveugle 9 m, Perception passive 9  
@@ -6752,9 +7556,13 @@ ___
 >**Points de vie** 76 (8d8 + 40)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|20 (+5)|20 (+5)|14 (+2)|13 (+1)|16 (+3)
+>
+>___
 >
 >**Compétences** Intimidation +6, Perception +4, Persuasion +6, Discrétion +11  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
@@ -6785,9 +7593,13 @@ ___
 >**Points de vie** 40 (9d4 + 18)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|17 (+3)|14 (+2)|16 (+3)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Arcanes +5, Perception +2  
 >**Résistances** foudre, nécrotique, perforant  
@@ -6825,9 +7637,13 @@ ___
 >**Points de vie** 39 (6d10 + 6)  
 >**Vitesse** 6 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|13 (+1)|2 (-4)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** —  
@@ -6855,9 +7671,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 0 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|1 (-5)|10 (+0)|1 (-5)|3 (-4)|1 (-5)
+>
+>___
 >
 >**Immunités** aveuglé, assourdi, effrayé  
 >**Sens** vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 6  
@@ -6883,9 +7703,13 @@ ___
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 6 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +2  
 >**Sens** Perception passive 10  
@@ -6912,9 +7736,13 @@ ___
 >**Points de vie** 85 (9d12 + 27)  
 >**Vitesse** 9 m, nage 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|9 (-1)|17 (+3)|2 (-4)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +5  
 >**Sens** Perception passive 10  
@@ -6943,9 +7771,13 @@ ___
 >**Points de vie** 297 (17d20 + 119)  
 >**Vitesse** 18 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|10 (+0)|24 (+7)|6 (-2)|10 (+0)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Con +12, Sag +5  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant non magiques  
@@ -6980,9 +7812,13 @@ ___
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 4,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|3 (-4)|20 (+5)|1 (-5)|6 (-2)|1 (-5)
+>
+>___
 >
 >**Immunités** assourdi, à terre, aveuglé, charmé, effrayé, épuisement  
 >**Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8  
@@ -7011,9 +7847,13 @@ ___
 >**Points de vie** 297 (17d20 + 119)  
 >**Vitesse** 4,50 m, vol 24 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|7 (-2)|25 (+7)|5 (-3)|14 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Sag +9  
 >**Compétences** Perception +9  
@@ -7054,9 +7894,13 @@ ___
 >**Points de vie** 297 (17d20 + 119)  
 >**Vitesse** 4,50 m, vol 24 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|7 (-2)|25 (+7)|5 (-3)|14 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Sag +9  
 >**Compétences** Perception +9  
@@ -7097,9 +7941,13 @@ ___
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Religion +2, Tromperie +2  
 >**Sens** Perception passive 10  
@@ -7126,9 +7974,13 @@ ___
 >**Points de vie** 138 (12d12 + 60)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|11 (+0)|20 (+5)|8 (-1)|6 (-2)|10 (+0)
+>
+>___
 >
 >**Sens** Perception passive 8  
 >**Langues** géant  
@@ -7157,9 +8009,13 @@ ___
 >**Points de vie** 187 (15d10 + 105)  
 >**Vitesse** 9 m, creusement 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|12 (+1)|24 (+7)|12 (+1)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +5, Cha +6  
 >**Immunités** pétrifié  
@@ -7196,9 +8052,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 0 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|13 (+1)|13 (+1)|6 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** vision aveugle 18 m, Perception passive 13  
@@ -7226,9 +8086,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 0 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|13 (+1)|13 (+1)|11 (+0)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +3, Cha +5  
 >**Compétences** Perception +3, Représentation +5  
@@ -7260,9 +8124,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 0 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|13 (+1)|13 (+1)|6 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** vision aveugle 18 m, Perception passive 13  
@@ -7291,9 +8159,13 @@ ___
 >**Points de vie** 2 + votre modificateur d'Intelligence + cinq fois votre niveau d'artificier (le défenseur a un nombre de Dés de vie \[d8\] égal à votre niveau d'artificier)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|14 (+2)|4 (-3)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Sauvegardes** Dex +1 plus BM, Con +2 plus BM  
 >**Compétences** Athlétisme +2 plus BM, Perception +0 plus BM x 2  
@@ -7325,9 +8197,13 @@ ___
 >**Points de vie** 65 (10d8 + 20)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Athlétisme +5, Perception +2  
 >**Résistances** feu  
@@ -7358,9 +8234,13 @@ ___
 >**Points de vie** 80 (32d4)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|20 (+5)|10 (+0)|20 (+5)|17 (+3)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Con +6, Int +11, Sag +9, Cha +11  
 >**Résistances** contondant, perforant et tranchant d'attaques magiques  
@@ -7398,9 +8278,13 @@ ___
 >**Points de vie** 30 (4d10 + 8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|14 (+2)|7 (-2)|9 (-1)|10 (+0)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, géant  
@@ -7426,9 +8310,13 @@ ___
 >**Points de vie** 464 (32d12 + 256)  
 >**Vitesse** 15 m, nage 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|14 (+2)|26 (+8)|20 (+5)|17 (+3)|25 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +10, Con +16, Sag +11, Cha +15  
 >**Compétences** Intuition +11, Perception +19  
@@ -7468,9 +8356,13 @@ ___
 >**Points de vie** 406 (28d12 + 224)  
 >**Vitesse** 15 m, nage 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|14 (+2)|26 (+8)|20 (+5)|17 (+3)|25 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +10, Con +16, Sag +11, Cha +15  
 >**Compétences** Intuition +11, Perception +19  
@@ -7516,9 +8408,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|17 (+3)|12 (+1)|14 (+2)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +5 Cha +4  
 >**Compétences** Discrétion +7  
@@ -7553,9 +8449,13 @@ ___
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|11 (+0)|5 (-3)|9 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +4  
 >**Sens** vision dans le noir 36 m, Perception passive 7  
@@ -7585,9 +8485,13 @@ ___
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|11 (+0)|5 (-3)|9 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +4  
 >**Sens** vision dans le noir 36 m, Perception passive 7  
@@ -7616,9 +8520,13 @@ ___
 >**Points de vie** 36 (8d6 + 8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|12 (+1)|11 (+0)|5 (-3)|14 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +4  
 >**Sens** vision dans le noir 36 m, Perception passive 7  
@@ -7649,9 +8557,13 @@ ___
 >**Points de vie** 36 (8d6 + 8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|12 (+1)|11 (+0)|5 (-3)|14 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +4  
 >**Sens** vision dans le noir 36 m, Perception passive 7  
@@ -7680,9 +8592,13 @@ ___
 >**Points de vie** 49 (9d8+9)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|12 (+1)|16 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +4  
 >**Compétences** Arcanes +6, Histoire +6  
@@ -7715,9 +8631,13 @@ ___
 >**Points de vie** 68 (8d10 + 24)  
 >**Vitesse** 18 m, vol 27 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)
+>
+>___
 >
 >**Immunités** feu  
 >**Sens** Perception passive 11  
@@ -7746,9 +8666,13 @@ ___
 >**Points de vie** 136 (16d8 + 64)  
 >**Vitesse** 9 m, vol 27 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Sag +9, Cha +9  
 >**Compétences** Intuition +9, Perception +9  
@@ -7785,9 +8709,13 @@ ___
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|13 (+1)|20 (+5)|3 (-4)|6 (-2)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** For +8, Con +9  
 >**Compétences** Perception +2  
@@ -7818,9 +8746,13 @@ ___
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|13 (+1)|20 (+5)|3 (-4)|6 (-2)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** For +8, Con +9  
 >**Compétences** Perception +2  
@@ -7850,9 +8782,13 @@ ___
 >**Points de vie** 67 (15d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|18 (+4)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +7, Sag +4  
 >**Compétences** Arcanes +7, Histoire +7  
@@ -7892,9 +8828,13 @@ ___
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|20 (+5)|13 (+1)|10 (+0)|16 (+3)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -7927,9 +8867,13 @@ ___
 >**Points de vie** 21 (6d4 + 6)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|13 (+1)|12 (+1)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +2  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -7962,9 +8906,13 @@ ___
 >**Points de vie** 178 (17d10 + 85)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|20 (+5)|13 (+1)|10 (+0)|16 (+3)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -7995,9 +8943,13 @@ ___
 >**Points de vie** 119 (14d8 + 56)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|19 (+4)|7 (-2)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** For +6  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -8032,9 +8984,13 @@ ___
 >**Points de vie** 119 (14d8 + 56)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|19 (+4)|7 (-2)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** For +6  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -8069,9 +9025,13 @@ ___
 >**Points de vie** 85 (10d8 + 40)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Con +7, Sag +4, Cha +5  
 >**Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -8105,9 +9065,13 @@ ___
 >**Points de vie** 110 (13d8 + 52)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|17 (+3)|18 (+4)|12 (+1)|14 (+2)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** For +6, Con +7, Sag +5, Cha +5  
 >**Compétences** Intuition +5, Perception +8, Tromperie +5  
@@ -8143,9 +9107,13 @@ ___
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|15 (+2)|15 (+2)|9 (-1)|11 (+0)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** For +5, Con +4, Sag +2  
 >**Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -8179,9 +9147,13 @@ ___
 >**Points de vie** 178 (17d10 + 85)  
 >**Vitesse** 6 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|17 (+3)|21 (+5)|12 (+1)|16 (+3)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** For +10, Dex +7, Sag +7, Cha +7  
 >**Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -8215,9 +9187,13 @@ ___
 >**Points de vie** 22 (5d6 + 5)  
 >**Vitesse** 6 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|12 (+1)|11 (+0)|14 (+2)|8 (-1)
+>
+>___
 >
 >**Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
 >**Immunités** feu, poison  
@@ -8253,9 +9229,13 @@ ___
 >**Points de vie** 180 (19d10 + 76)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +9, Sag +7, Cha +9  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -8290,9 +9270,13 @@ ___
 >**Points de vie** 142 (15d10 + 60)  
 >**Vitesse** 12 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +6, Cha +7  
 >**Compétences** Intuition +6, Tromperie +7  
@@ -8326,9 +9310,13 @@ ___
 >**Points de vie** 10 (3d4 + 3)  
 >**Vitesse** 6 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +5, Intuition +3, Persuasion +4, Tromperie +4  
 >**Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -8361,9 +9349,13 @@ ___
 >**Points de vie** 300 (24d10 + 168)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|14 (+2)|24 (+7)|22 (+6)|18 (+4)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +13, Sag +10  
 >**Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -8401,9 +9393,13 @@ ___
 >**Points de vie** 161 (14d10 + 84)  
 >**Vitesse** 9 m, vol 27 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Sag +7, Cha +9  
 >**Immunités** foudre, tonnerre  
@@ -8436,9 +9432,13 @@ ___
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Intuition +3, Tromperie +6  
 >**Immunités** charmé  
@@ -8470,9 +9470,13 @@ ___
 >**Points de vie** 218 (19d12 + 95)  
 >**Vitesse** 9 m, nage 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|20 (+5)|6 (-2)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Compétences** Perception +9  
 >**Sens** vision dans le noir 18 m, Perception passive 19  
@@ -8504,9 +9508,13 @@ ___
 >**Points de vie** 225 (18d12 + 108)  
 >**Vitesse** 12 m, creusement 9 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +12, Sag +8, Cha +10  
 >**Compétences** Discrétion +6, Perception +14  
@@ -8547,9 +9555,13 @@ ___
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|14 (+2)|16 (+3)|15 (+2)|11 (+0)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +3, Cha +6  
 >**Compétences** Perception +3  
@@ -8584,9 +9596,13 @@ ___
 >**Points de vie** 57 (6d10 + 24)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|18 (+4)|10 (+0)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** For +6, Sag +2  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -8617,9 +9633,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|13 (+1)|8 (-1)|8 (-1)|10 (+0)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** commun, draconique  
@@ -8649,9 +9669,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 12 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|14 (+2)|9 (-1)|13 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +5  
 >**Compétences** Perception +3, Stealth +7  
@@ -8684,9 +9708,13 @@ ___
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|11 (+0)|11 (+0)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Int +2, Sag +2, Cha +4  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -8718,9 +9746,13 @@ ___
 >**Points de vie** 119 (14d10 + 42)  
 >**Vitesse** O m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|16 (+3)|14 (+2)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +6, Sag +5  
 >**Compétences** Perception +8, Discrétion +6  
@@ -8752,9 +9784,13 @@ ___
 >**Points de vie** 123 (13d10 + 52)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|18 (+4)|13 (+1)|11 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +5  
 >**Résistances** froid, feu, foudre  
@@ -8788,9 +9824,13 @@ ___
 >**Points de vie** 123 (13d10 + 52)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|18 (+4)|13 (+1)|11 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +5  
 >**Résistances** froid, feu, foudre  
@@ -8825,9 +9865,13 @@ ___
 >**Points de vie** 200 (16d12 + 96)  
 >**Vitesse** 12 m, creusement 9 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|10 (+0)|22 (+6)|8 (-1)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +11, Sag +6, Cha +6  
 >**Compétences** Discrétion +5, Perception +11  
@@ -8865,9 +9909,13 @@ ___
 >**Points de vie** 333 (18d20 + 144)  
 >**Vitesse** 12 m, creusement 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|10 (+0)|26 (+8)|10 (+0)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +14, Sag +7, Cha +8  
 >**Compétences** Discrétion +6, Perception +13  
@@ -8905,9 +9953,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m, creusement 4,50 m, nage 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|14 (+2)|5 (-3)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +2, Con +4, Sag +2, Cha +2  
 >**Compétences** Discrétion +2, Perception +4  
@@ -8935,9 +9987,13 @@ ___
 >**Points de vie** 133 (14d10 + 56)  
 >**Vitesse** 12 m, creusement 6 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|18 (+4)|6 (-2)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Con +7, Sag +3, Cha +4  
 >**Compétences** Discrétion +3, Perception +6  
@@ -8969,9 +10025,13 @@ ___
 >**Points de vie** 225 (18d12 + 108)  
 >**Vitesse** 12 m, creusement 9 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +11, Sag +7, Cha +9  
 >**Compétences** Discrétion +5, Perception +12  
@@ -9008,9 +10068,13 @@ ___
 >**Points de vie** 481 (26d20 + 208)  
 >**Vitesse** 12 m, creusement 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +15, Sag +10, Cha +12  
 >**Compétences** Discrétion +7, Perception +17  
@@ -9047,9 +10111,13 @@ ___
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 9 m, creusement 4,50 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +2, Con +4, Sag +2, Cha +4  
 >**Compétences** Discrétion +2, Perception +4  
@@ -9077,9 +10145,13 @@ ___
 >**Points de vie** 152 (16d10 + 64)  
 >**Vitesse** 12 m, creusement 6 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +8, Sag +5, Cha +7  
 >**Compétences** Discrétion +4, Perception +9  
@@ -9109,9 +10181,13 @@ ___
 >**Points de vie** 241 (21d12 + 105)  
 >**Vitesse** 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|12 (+1)|21 (+5)|16 (+3)|13 (+1)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Con +11, Int +9, Sag +7, Cha +11  
 >**Compétences** Arcanes +9, Histoire +15, Perception +13  
@@ -9151,9 +10227,13 @@ ___
 >**Points de vie** 172 (15d12 + 75)  
 >**Vitesse** 12 m, creusement 9 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|21 (+5)|14 (+2)|13 (+1)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +10, Sag +6, Cha +8  
 >**Compétences** Discrétion +5, Histoire +7, Perception +11, Persuasion +8  
@@ -9192,9 +10272,13 @@ ___
 >**Points de vie** 297 (17d20 + 119)  
 >**Vitesse** 12 m, creusement 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|10 (+0)|25 (+7)|16 (+3)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +13, Sag +8, Cha +10  
 >**Compétences** Discrétion +6, Histoire +9, Perception +14, Persuasion +10  
@@ -9234,9 +10318,13 @@ ___
 >**Points de vie** 16 (3d8 + 3)  
 >**Vitesse** 9 m, creusement 4,50 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|13 (+1)|10 (+0)|11 (+0)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +2, Con +3, Sag +2, Cha +3  
 >**Compétences** Discrétion +2, Perception +4  
@@ -9266,9 +10354,13 @@ ___
 >**Points de vie** 110 (13d10 + 39)  
 >**Vitesse** 12 m, creusement 6 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Con +6, Sag +3, Cha +5  
 >**Compétences** Discrétion +3, Perception +6, Persuasion +5  
@@ -9300,9 +10392,13 @@ ___
 >**Points de vie** 229 (17d12 + 119)  
 >**Vitesse** 12 m, vol 24 m (stationnaire), nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|14 (+2)|25 (+7)|20 (+5)|17 (+3)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +12, Sag +8, Cha +10  
 >**Compétences** Arcanes +15, Perception +13, Persuasion +10, Discrétion +7  
@@ -9345,9 +10441,13 @@ ___
 >**Points de vie** 444 (24d20 + 192)  
 >**Vitesse** 12 m, vol 24 m (stationnaire), nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|14 (+2)|27 (+8)|26 (+8)|19 (+4)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +15, Sag +11, Cha +13  
 >**Compétences** Arcanes +22, Perception +18, Persuasion +13, Discrétion +9  
@@ -9388,9 +10488,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, vol 18 m (stationnaire), nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|16 (+3)|13 (+1)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +2, Con +5, Sag +3, Cha +5  
 >**Compétences** Arcanes +7, Perception +5, Persuasion +5, Discrétion +2  
@@ -9423,9 +10527,13 @@ ___
 >**Points de vie** 168 (16d10 + 80)  
 >**Vitesse** 12 m, vol 24 m (stationnaire), nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +9, Sag +6, Cha +8  
 >**Compétences** Arcanes +12, Perception +10, Persuasion +8, Discrétion +5  
@@ -9460,9 +10568,13 @@ ___
 >**Points de vie** 243 (18d12 + 126)  
 >**Vitesse** 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +12, Sag +6, Cha +10  
 >**Compétences** Arcanes +8, Discrétion +5, Histoire +8, Perception +11  
@@ -9502,9 +10614,13 @@ ___
 >**Points de vie** 487 (25d20 + 225)  
 >**Vitesse** 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +16, Sag +9, Cha +13  
 >**Compétences** Arcanes +11, Discrétion +7, Histoire +11, Perception +16  
@@ -9544,9 +10660,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +2, Con +5, Sag +2, Cha +4  
 >**Compétences** Discrétion +2, Perception +4  
@@ -9576,9 +10696,13 @@ ___
 >**Points de vie** 168 (16d10 + 80)  
 >**Vitesse** 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +9, Sag +4, Cha +8  
 >**Compétences** Arcanes +6, Discrétion +4, Histoire +6, Perception +8  
@@ -9610,9 +10734,13 @@ ___
 >**Points de vie** 207 (18d12 + 90)  
 >**Vitesse** 12 m, creusement 9 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|12 (+1)|21 (+5)|18 (+4)|16 (+3)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +10, Sag +8, Cha +9  
 >**Compétences** Arcanes +9, Tromperie +9, Perception +13, Discrétion +6  
@@ -9656,9 +10784,13 @@ ___
 >**Points de vie** 332 (19d20 + 133)  
 >**Vitesse** 12 m, creusement 9 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|12 (+1)|25 (+7)|20 (+5)|18 (+4)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +14, Sag +11, Cha +12  
 >**Compétences** Arcanes +12, Tromperie +12, Perception +18, Discrétion +8  
@@ -9699,9 +10831,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m, creusement 6 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|15 (+2)|14 (+2)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Con +4, Sag +3, Cha +4  
 >**Compétences** Arcanes +4, Tromperie +4, Perception +5, Discrétion +3  
@@ -9733,9 +10869,13 @@ ___
 >**Points de vie** 142 (15d10 + 60)  
 >**Vitesse** 12 m, creusement 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|12 (+1)|19 (+4)|16 (+3)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +7, Sag +5, Cha +6  
 >**Compétences** Arcanes +6, Tromperie +6, Perception +8, Discrétion +4  
@@ -9769,9 +10909,13 @@ ___
 >**Points de vie** 178 (17d10 + 85)  
 >**Vitesse** 12 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +9, Sag +4, Cha +8  
 >**Compétences** Discrétion +8, Perception +8  
@@ -9807,9 +10951,13 @@ ___
 >**Points de vie** 256 (19d12 + 133)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +13, Sag +8, Cha +13  
 >**Compétences** Discrétion +8, Intuition +8, Perception +14, Persuasion +13  
@@ -9850,9 +10998,13 @@ ___
 >**Points de vie** 546 (28d20 + 252)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|14 (+2)|29 (+9)|18 (+4)|17 (+3)|28 (+9)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +16, Sag +10, Cha +16  
 >**Compétences** Discrétion +9, Intuition +10, Perception +17, Persuasion +16  
@@ -9893,9 +11045,13 @@ ___
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 9 m, nage 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|17 (+3)|14 (+2)|11 (+0)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +5, Sag +2, Cha +5  
 >**Compétences** Discrétion +4, Perception +4  
@@ -9927,9 +11083,13 @@ ___
 >**Points de vie** 178 (17d10 + 85)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|21 (+5)|16 (+3)|13 (+1)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +9, Sag +5, Cha +9  
 >**Compétences** Discrétion +6, Intuition +5, Perception +9, Persuasion +9  
@@ -9963,9 +11123,13 @@ ___
 >**Points de vie** 212 (17d12 + 102)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +11, Sag +7, Cha +9  
 >**Compétences** Discrétion +5, Intuition +7, Perception +12  
@@ -10006,9 +11170,13 @@ ___
 >**Points de vie** 444 (24d20 + 192)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +15, Sag +10, Cha +12  
 >**Compétences** Discrétion +7, Intuition +10, Perception +17  
@@ -10049,9 +11217,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m, nage 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +2, Con +4, Sag +2, Cha +4  
 >**Compétences** Discrétion +2, Perception +4  
@@ -10083,9 +11255,13 @@ ___
 >**Points de vie** 142 (15d10 + 60)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Con +7, Sag +4, Cha +6  
 >**Compétences** Discrétion +3, Intuition +4, Perception +7  
@@ -10119,9 +11295,13 @@ ___
 >**Points de vie** 172 (15d12 + 75)  
 >**Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +9, Sag +6, Cha +8  
 >**Compétences** Perception +10, Discrétion +9, Survival +6  
@@ -10163,9 +11343,13 @@ ___
 >**Points de vie** 222 (12d20 + 96)  
 >**Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|12 (+1)|26 (+8)|20 (+5)|16 (+3)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +14, Sag +9, Cha +11  
 >**Compétences** Perception +15, Discrétion +13, Survival +9  
@@ -10204,9 +11388,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m, creusement 4,50 m, escalade 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|14 (+2)|14 (+2)|13 (+1)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Con +4, Sag +3, Cha +4  
 >**Compétences** Perception +5, Discrétion +5, Survival +3  
@@ -10238,9 +11426,13 @@ ___
 >**Points de vie** 95 (10d10 + 40)  
 >**Vitesse** 12 m, creusement 6 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|18 (+4)|16 (+3)|14 (+2)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +7, Sag +5, Cha +6  
 >**Compétences** Perception +8, Discrétion +7, Survival +5  
@@ -10273,9 +11465,13 @@ ___
 >**Points de vie** 184 (16d12 + 80)  
 >**Vitesse** 12 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +10, Sag +7, Cha +8  
 >**Compétences** Discrétion +6, Perception +12, Tromperie +8  
@@ -10314,9 +11510,13 @@ ___
 >**Points de vie** 350 (20d20 + 140)  
 >**Vitesse** 12 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +14, Sag +10, Cha +11  
 >**Compétences** Discrétion +8, Perception +17, Tromperie +11  
@@ -10356,9 +11556,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m, escalade 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Con +3, Sag +2, Cha +3  
 >**Compétences** Discrétion +3, Perception +4  
@@ -10388,9 +11592,13 @@ ___
 >**Points de vie** 119 (14d10 + 42)  
 >**Vitesse** 12 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +6, Sag +4, Cha +5  
 >**Compétences** Discrétion +4, Perception +7, Tromperie +5  
@@ -10422,9 +11630,13 @@ ___
 >**Points de vie** 225 (18d12 + 108)  
 >**Vitesse** 12 m, creusement 9 m, escalde 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|22 (+6)|18 (+4)|17 (+3)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +11, Sag +8, Cha +9  
 >**Compétences** History +9, Perception +13, Persuasion +14, Discrétion +7  
@@ -10468,9 +11680,13 @@ ___
 >**Points de vie** 370 (20d20 + 160)  
 >**Vitesse** 12 m, creusement 12 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|14 (+2)|27 (+8)|21 (+5)|19 (+4)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +15, Sag +11, Cha +12  
 >**Compétences** History +12, Perception +18, Persuasion +19, Discrétion +9  
@@ -10512,9 +11728,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m, creusement 4,50 m, escalade 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|14 (+2)|16 (+3)|14 (+2)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +5, Sag +3, Cha +4  
 >**Compétences** History +4, Perception +5, Persuasion +6, Discrétion +4  
@@ -10548,9 +11768,13 @@ ___
 >**Points de vie** 157 (15d10 + 75)  
 >**Vitesse** 12 m, creusement 6 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|14 (+2)|20 (+5)|16 (+3)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +9, Sag +6, Cha +7  
 >**Compétences** History +7, Perception +10, Persuasion +11, Discrétion +6  
@@ -10586,9 +11810,13 @@ ___
 >**Points de vie** 210 (20d12 + 80)  
 >**Vitesse** 12 m, vol 24 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|19 (+4)|18 (+4)|17 (+3)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +9, Sag +8, Cha +9  
 >**Compétences** Intimidation +14, Perception +13, Discrétion +6  
@@ -10631,9 +11859,13 @@ ___
 >**Points de vie** 280 (17d20 + 102)  
 >**Vitesse** 12 m, vol 24 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|12 (+1)|23 (+6)|20 (+5)|19 (+4)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +12, Sag +10, Cha +11  
 >**Compétences** Intimidation +17, Perception +16, Discrétion +7  
@@ -10674,9 +11906,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m, vol 18 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|13 (+1)|14 (+2)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Con +3, Sag +3, Cha +4  
 >**Compétences** Intimidation +6, Perception +5, Discrétion +3  
@@ -10708,9 +11944,13 @@ ___
 >**Points de vie** 127 (17d10 + 34)  
 >**Vitesse** 12 m, vol 24 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|15 (+2)|16 (+3)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +5, Sag +5, Cha +6  
 >**Compétences** Intimidation +9, Perception +8, Discrétion +4  
@@ -10744,9 +11984,13 @@ ___
 >**Points de vie** 147 (14d12 + 56)  
 >**Vitesse** 12 m, creusement 9 m, vol 24 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|14 (+2)|18 (+4)|16 (+3)|16 (+3)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +8, Sag +7, Cha +8  
 >**Compétences** Perception +7, Persuasion +12, Discrétion +10  
@@ -10786,9 +12030,13 @@ ___
 >**Points de vie** 201 (13d20 + 65)  
 >**Vitesse** 12 m, creusement 12 m, vol 24 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|16 (+3)|20 (+5)|19 (+4)|18 (+4)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +11, Sag +10, Cha +11  
 >**Compétences** Perception +10, Persuasion +17, Discrétion +15  
@@ -10827,9 +12075,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m, creusement 4,50 m, vol 18 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|12 (+1)|11 (+0)|12 (+1)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +2, Con +3, Sag +3, Cha +3  
 >**Compétences** Perception +3, Persuasion +3, Discrétion +4  
@@ -10860,9 +12112,13 @@ ___
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 12 m, creusement 6 m, vol 24 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|16 (+3)|12 (+1)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +6, Sag +5, Cha +6  
 >**Compétences** Perception +5, Persuasion +6, Discrétion +7  
@@ -10895,9 +12151,13 @@ ___
 >**Points de vie** 324 (24d12 + 168)  
 >**Vitesse** 12 m, vol 24 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|25 (+7)|16 (+3)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Con +13, Sag +8, Cha +10  
 >**Compétences** Perception +14, Stealth +12  
@@ -10934,9 +12194,13 @@ ___
 >**Points de vie** 14 (4d4 + 4)  
 >**Vitesse** 3 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|20 (+5)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Compétences** Arcanes +4, Discrétion +7, Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -10976,9 +12240,13 @@ ___
 >**Points de vie** 195 (17d12 + 85)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|21 (+5)|14 (+2)|13 (+1)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +10, Sag +6, Cha +8  
 >**Compétences** Discrétion +7, Perception +11  
@@ -11017,9 +12285,13 @@ ___
 >**Points de vie** 367 (21d20 + 147)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +14, Sag +9, Cha +11  
 >**Compétences** Discrétion +9, Perception +16  
@@ -11057,9 +12329,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m, nage 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|13 (+1)|10 (+0)|11 (+0)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +3, Sag +2, Cha +3  
 >**Compétences** Perception +4, Discrétion +4  
@@ -11089,9 +12365,13 @@ ___
 >**Points de vie** 127 (15d10 + 45)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|17 (+3)|12 (+1)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +6, Sag +3, Cha +5  
 >**Compétences** Discrétion +5, Perception +6  
@@ -11123,9 +12403,13 @@ ___
 >**Points de vie** 195 (17d12 + 85)  
 >**Vitesse** 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|18 (+4)|20 (+5)|22 (+6)|20 (+5)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Int +11, Sag +10, Cha +11  
 >**Compétences** Discrétion +9, Perception +10, Persuasion +11  
@@ -11167,9 +12451,13 @@ ___
 >**Points de vie** 330 (20d20 + 120)  
 >**Vitesse** 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|18 (+4)|23 (+6)|20 (+5)|22 (+6)|26 (+8)
+>
+>___
 >
 >**Sauvegardes** Int +12, Sag +13, Cha +15  
 >**Compétences** Perception +13, Persuasion +15, Discrétion +11  
@@ -11206,9 +12494,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|14 (+2)|16 (+3)|14 (+2)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +4, Cha +5  
 >**Compétences** Perception +4, Persuasion +5, Discrétion +4  
@@ -11238,9 +12530,13 @@ ___
 >**Points de vie** 144 (17d10 + 51)  
 >**Vitesse** 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|17 (+3)|18 (+4)|17 (+3)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Con +6, Int +7, Sag +6, Cha +7  
 >**Compétences** Perception +6, Persuasion +7, Discrétion +6  
@@ -11273,9 +12569,13 @@ ___
 >**Points de vie** 256 (19d12 + 133)  
 >**Vitesse** 12 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +13, Sag +7, Cha +11  
 >**Compétences** Discrétion +6, Perception +13  
@@ -11312,9 +12612,13 @@ ___
 >**Points de vie** 546 (28d20 + 252)  
 >**Vitesse** 12 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +16, Sag +9, Cha +13  
 >**Compétences** Discrétion +7, Perception +16  
@@ -11351,9 +12655,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, escalade 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +2, Con +5, Sag +2, Cha +4  
 >**Compétences** Discrétion +2, Perception +4  
@@ -11381,9 +12689,13 @@ ___
 >**Points de vie** 178 (17d10 + 85)  
 >**Vitesse** 12 m, escalade 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +9, Sag +4, Cha +8  
 >**Compétences** Discrétion +4, Perception +8  
@@ -11413,9 +12725,13 @@ ___
 >**Points de vie** 341 (22d20 + 110)  
 >**Vitesse** 6 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|20 (+5)|10 (+0)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +11, Sag +7  
 >**Résistances** feu  
@@ -11447,9 +12763,13 @@ ___
 >**Points de vie** 409 (21d20 + 189)  
 >**Vitesse** 9 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|12 (+1)|29 (+9)|14 (+2)|19 (+4)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +16, Sag +11  
 >**Compétences** Perception +11  
@@ -11477,9 +12797,13 @@ ___
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 6 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|15 (+2)|8 (-1)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +2, Con +4, Sag +2  
 >**Immunités** feu  
@@ -11505,9 +12829,13 @@ ___
 >**Points de vie** 178 (17d12 + 68)  
 >**Vitesse** 6 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|19 (+4)|10 (+0)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +8, Sag +5  
 >**Compétences** Perception +11  
@@ -11534,9 +12862,13 @@ ___
 >**Points de vie** 207 (18d12 + 90)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +10, Sag +7, Cha +8  
 >**Compétences** Discrétion +6, Intuition +7, Perception +12, Persuasion +8, Tromperie +8  
@@ -11575,9 +12907,13 @@ ___
 >**Points de vie** 385 (22d20 + 154)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +14, Sag +10, Cha +11  
 >**Compétences** Discrétion +8, Intuition +10, Perception +17, Persuasion +11, Tromperie +11  
@@ -11616,9 +12952,13 @@ ___
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 9 m, nage 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Con +3, Sag +2, Cha +3  
 >**Compétences** Discrétion +3, Perception +4  
@@ -11649,9 +12989,13 @@ ___
 >**Points de vie** 136 (16d10 + 48)  
 >**Vitesse** 12 m, nage 12 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +6, Sag +4, Cha +5  
 >**Compétences** Discrétion +4, Perception +7, Tromperie +5  
@@ -11684,9 +13028,13 @@ ___
 >**Points de vie** 58 (9d10 + 9)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|15 (+2)|12 (+1)|8 (-1)|13 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 13  
@@ -11715,9 +13063,13 @@ ___
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|16 (+3)|4 (-3)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -11746,9 +13098,13 @@ ___
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|16 (+3)|4 (-3)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -11776,9 +13132,13 @@ ___
 >**Points de vie** 93 (11d8 + 44)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|13 (+1)|18 (+4)|12 (+1)|14 (+2)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +7, Int +4, Sag +5, Cha +6  
 >**Compétences** Athlétisme +7, Perception +5, Persuasion +6  
@@ -11811,9 +13171,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|17 (+3)|18 (+4)|14 (+2)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Con +6, Int +7, Sag +5, Cha +4  
 >**Compétences** Arcanes +7, Histoire +7, Perception +5  
@@ -11849,9 +13213,13 @@ ___
 >**Points de vie** 85 (10d8 + 40)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|11 (+0)|18 (+4)|10 (+0)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** For +8, Con +7, Sag +4, Cha +6  
 >**Compétences** Athlétisme +8, Intimidation +6, Perception +4  
@@ -11883,9 +13251,13 @@ ___
 >**Points de vie** 119 (14d10 + 42)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|15 (+2)|17 (+3)|6 (-2)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Compétences** Perception +7  
 >**Sens** vision dans le noir 18 m, Perception passive 17  
@@ -11910,9 +13282,13 @@ ___
 >**Points de vie** 18 (4d6 + 4)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|11 (+0)|12 (+1)|5 (-3)|8 (-1)|3 (-4)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -11942,9 +13318,13 @@ ___
 >**Points de vie** 123 (13d10 + 52)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|12 (+1)
+>
+>___
 >
 >**Compétences** Discrétion +9, Perception +5  
 >**Sens** vision dans le noir 36 m, Perception passive 15  
@@ -11980,9 +13360,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +2  
 >**Sens** vision dans le noir 36 m, Perception passive 12  
@@ -12014,9 +13398,13 @@ ___
 >**Points de vie** 162 (25d8 + 50)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|14 (+2)|19 (+4)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +7, Int +9, Cha +8  
 >**Compétences** Arcanes +9, Nature +9, Perception +7, Discrétion +8  
@@ -12055,9 +13443,13 @@ ___
 >**Points de vie** 162 (25d8 + 50)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|14 (+2)|19 (+4)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +7, Int +9, Cha +8  
 >**Compétences** Arcanes +9, Nature +9, Perception +7, Discrétion +8  
@@ -12096,9 +13488,13 @@ ___
 >**Points de vie** 162 (25d8 + 50)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|19 (+4)|15 (+2)|12 (+1)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +6, Sag +6  
 >**Compétences** Perception +6, Discrétion +8  
@@ -12135,9 +13531,13 @@ ___
 >**Points de vie** 162 (25d8 + 50)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|19 (+4)|15 (+2)|12 (+1)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +6, Sag +6  
 >**Compétences** Perception +6, Discrétion +8  
@@ -12175,9 +13575,13 @@ ___
 >**Points de vie** 240 (32d8 + 96)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|20 (+5)|16 (+3)|18 (+4)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +11, Con +9, Cha +10  
 >**Compétences** Acrobaties + 11, Athlétisme +8, Perception +8, Discrétion +11  
@@ -12211,9 +13615,13 @@ ___
 >**Points de vie** 225 (30d8 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|20 (+5)|16 (+3)|18 (+4)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +11, Con +9, Cha +10  
 >**Compétences** Acrobaties + 11, Athlétisme +8, Perception +8, Discrétion +11  
@@ -12247,9 +13655,13 @@ ___
 >**Points de vie** 71 (11d8 + 22)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|18 (+4)|14 (+2)|11 (+0)|13 (+1)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +5, Sag +4  
 >**Compétences** Discrétion +10, Perception +4  
@@ -12285,9 +13697,13 @@ ___
 >**Points de vie** 149 (23d8 + 46)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|14 (+2)|16 (+3)|21 (+5)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Con +7, Sag +10, Cha +10  
 >**Compétences** Discrétion +7, Intuition +10, Perception +10, Religion +8  
@@ -12322,9 +13738,13 @@ ___
 >**Points de vie** 143 (22d8 + 44)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|14 (+2)|16 (+3)|21 (+5)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Con +7, Sag +10, Cha +10  
 >**Compétences** Discrétion +7, Intuition +10, Perception +10, Religion +8  
@@ -12369,9 +13789,13 @@ ___
 >**Points de vie** 45 (10d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|10 (+0)|17 (+3)|13 (+1)|12 (+1)
+>
+>___
 >
 >**Compétences** Arcanes +6, Discrétion +5, Perception +4, Tromperie +5  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
@@ -12411,9 +13835,13 @@ ___
 >**Points de vie** 247 (33d8 + 99)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|16 (+3)|17 (+3)|21 (+5)|22 (+6)
+>
+>___
 >
 >**Sauvegardes** Con +9, Sag +11, Cha +12  
 >**Compétences** Discrétion +10, Intuition +11, Perception +11, Religion +9  
@@ -12454,9 +13882,13 @@ ___
 >**Points de vie** 262 (35d8 + 105)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|18 (+4)|16 (+3)|17 (+3)|21 (+5)|22 (+6)
+>
+>___
 >
 >**Sauvegardes** Con +9, Sag +11, Cha +12  
 >**Compétences** Discrétion +10, Intuition +11, Perception +11, Religion +9  
@@ -12496,9 +13928,13 @@ ___
 >**Points de vie** 150 (20d8 + 60)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|21 (+5)|16 (+3)|12 (+1)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +7, Sag +6  
 >**Compétences** Perception +6, Discrétion +9  
@@ -12533,9 +13969,13 @@ ___
 >**Points de vie** 150 (20d8 + 60)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|21 (+5)|16 (+3)|12 (+1)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +7, Sag +6  
 >**Compétences** Perception +6, Discrétion +9  
@@ -12568,9 +14008,13 @@ ___
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|13 (+1)|17 (+3)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Con +4, Sag +6, Cha +7  
 >**Compétences** Discrétion +5, Intuition +6, Perception +6, Religion +4  
@@ -12612,9 +14056,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|13 (+1)|12 (+1)|15 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Médecine +4, Nature +3, Perception +4  
 >**Sens** Perception passive 14  
@@ -12643,9 +14091,13 @@ ___
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 9 m, 12 m (forme de loup uniquement), creusement 1,50 m (forme de renard uniquement), escalade 9 m (forme de chêvre uniquement), vol 18 m (forme de chouette uniquement)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|16 (+3)|10 (+0)|16 (+3)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** Int +3, Sag +6  
 >**Compétences** Nature +3, Perception +6, Survie +6  
@@ -12682,9 +14134,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|11 (+0)|14 (+2)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Compétences** Discrétion +5, Perception +4  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
@@ -12718,9 +14174,13 @@ ___
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
@@ -12751,9 +14211,13 @@ ___
 >**Points de vie** 27 (6d8)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
@@ -12784,9 +14248,13 @@ ___
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
@@ -12818,9 +14286,13 @@ ___
 >**Points de vie** 119 (14d8 + 56)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|5 (-3)|19 (+4)|15 (+2)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +6  
 >**Immunités** poison  
@@ -12856,9 +14328,13 @@ ___
 >**Points de vie** 119 (14d8 + 56)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|5 (-3)|19 (+4)|15 (+2)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +6  
 >**Immunités** poison  
@@ -12896,9 +14372,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
@@ -12932,9 +14412,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
@@ -12967,9 +14451,13 @@ ___
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
@@ -13002,9 +14490,13 @@ ___
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
@@ -13037,9 +14529,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|14 (+2)|15 (+2)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Sag +2  
 >**Compétences** Perception +2, Discrétion +5  
@@ -13074,9 +14570,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|14 (+2)|15 (+2)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Sag +2  
 >**Compétences** Perception +2, Discrétion +5  
@@ -13111,9 +14611,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|17 (+3)|12 (+1)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
@@ -13147,9 +14651,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|17 (+3)|12 (+1)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
@@ -13183,9 +14691,13 @@ ___
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
@@ -13217,9 +14729,13 @@ ___
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|14 (+2)|11 (+0)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Résistances** poison  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
@@ -13250,9 +14766,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|12 (+1)|6 (-2)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Sens** vision véritable 36 m, Perception passive 10  
 >**Langues** modron  
@@ -13282,9 +14802,13 @@ ___
 >**Points de vie** 37 (5d8 + 15)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|19 (+4)|16 (+3)|16 (+3)|15 (+2)|14 (+2)
+>
+>___
 >
 >**Compétences** Tromperie +6, Intimidation +4, Perception +4  
 >**Résistances** acide, froid, feu, foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -13319,9 +14843,13 @@ ___
 >**Points de vie** 37 (5d8 + 15)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|19 (+4)|16 (+3)|16 (+3)|15 (+2)|14 (+2)
+>
+>___
 >
 >**Compétences** Tromperie +6, Intimidation +4, Perception +4  
 >**Résistances** acide, froid, feu, foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -13354,9 +14882,13 @@ ___
 >**Points de vie** 16 (3d8 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +6, Nature +4, Perception +5, Survie +5  
 >**Sens** Perception passive 15  
@@ -13385,9 +14917,13 @@ ___
 >**Points de vie** 168 (16d12 + 64)  
 >**Vitesse** 0 m, vol 24 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|12 (+1)|18 (+4)|22 (+6)|18 (+4)|22 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Int +12, Sag +10, Cha +12  
 >**Compétences** Arcanes +12, Histoire +12, Discrétion +7, Perception +16  
@@ -13416,9 +14952,13 @@ ___
 >**Points de vie** 200 (16d10 + 112)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +7, Sag +6, Cha +7  
 >**Immunités** feu  
@@ -13451,9 +14991,13 @@ ___
 >**Points de vie** 63 (18d8 - 18)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|8 (-1)|9 (-1)|14 (+2)|19 (+4)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +8  
 >**Compétences** Perception +8  
@@ -13488,9 +15032,13 @@ ___
 >**Points de vie** 63 (18d8 - 18)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|8 (-1)|9 (-1)|14 (+2)|19 (+4)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +8  
 >**Compétences** Perception +8  
@@ -13524,9 +15072,13 @@ ___
 >**Points de vie** 165 (22d8 + 66)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|16 (+3)|14 (+2)|17 (+3)|18 (+4)
+>
+>___
 >
 >**Compétences** Intuition +7, Médecine +7  
 >**Résistances** psychique  
@@ -13561,9 +15113,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|16 (+3)|14 (+2)|17 (+3)|18 (+4)
+>
+>___
 >
 >**Compétences** Intuition +7, Médecine +7  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -13596,9 +15152,13 @@ ___
 >**Points de vie** 165 (22d8 + 66)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|21 (+5)|16 (+3)|14 (+2)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Compétences** Athlétisme +8, Intimidation +8  
 >**Résistances** feu  
@@ -13632,9 +15192,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|21 (+5)|16 (+3)|14 (+2)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Compétences** Athlétisme +8, Intimidation +8  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -13667,9 +15231,13 @@ ___
 >**Points de vie** 165 (22d8 + 66)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|16 (+3)|18 (+4)|17 (+3)|13 (+1)
+>
+>___
 >
 >**Résistances** froid  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -13703,9 +15271,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|10 (+0)|16 (+3)|18 (+4)|17 (+3)|13 (+1)
+>
+>___
 >
 >**Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -13737,9 +15309,13 @@ ___
 >**Points de vie** 165 (22d8 + 66)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|16 (+3)|18 (+4)|11 (+0)|18 (+4)
+>
+>___
 >
 >**Compétences** Tromperie +8, Persuasion +8  
 >**Résistances** psychique  
@@ -13773,9 +15349,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|16 (+3)|18 (+4)|11 (+0)|18 (+4)
+>
+>___
 >
 >**Compétences** Tromperie +8, Persuasion +8  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -13808,9 +15388,13 @@ ___
 >**Points de vie** 13 (2d10 + 2)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|12 (+1)|2 (-4)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -13837,9 +15421,13 @@ ___
 >**Points de vie** 42 (5d12 + 10)  
 >**Vitesse** 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|14 (+2)|7 (-2)|14 (+2)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** Perception passive 14  
@@ -13867,9 +15455,13 @@ ___
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 0 m, vol 27 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|20 (+5)|14 (+2)|6 (-2)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Résistances** foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -13901,9 +15493,13 @@ ___
 >**Points de vie** 16 (6d4 + 6)  
 >**Vitesse** 0 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|16 (+3)|12 (+1)|3 (-4)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Résistances** foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -13934,9 +15530,13 @@ ___
 >**Points de vie** 117 (18d8 + 36)  
 >**Vitesse** 9 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|14 (+2)|9 (-1)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Résistances** foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -13967,9 +15567,13 @@ ___
 >**Points de vie** 117 (18d8 + 36)  
 >**Vitesse** 9 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|14 (+2)|9 (-1)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Résistances** foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -14000,9 +15604,13 @@ ___
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 9 m, nage 27 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|5 (-3)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Résistances** acide ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -14035,9 +15643,13 @@ ___
 >**Points de vie** 39 (6d6 + 18)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|17 (+3)|3 (-4)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Résistances** acide ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -14069,9 +15681,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 12 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|8 (-1)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Résistances** acide ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -14102,9 +15718,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 12 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|8 (-1)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Résistances** acide ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -14135,9 +15755,13 @@ ___
 >**Points de vie** 126 (12d10 + 60)  
 >**Vitesse** 9 m, creusement 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|8 (-1)|20 (+5)|5 (-3)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Vulnérabilités** tonnerre  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -14169,9 +15793,13 @@ ___
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 3 m (9 m s'il descend), creusement 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|6 (-2)|16 (+3)|3 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Vulnérabilités** tonnerre  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -14201,9 +15829,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|17 (+3)|8 (-1)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -14234,9 +15866,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|17 (+3)|8 (-1)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -14267,9 +15903,13 @@ ___
 >**Points de vie** 102 (12d10 + 36)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|16 (+3)|6 (-2)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** feu, poison  
@@ -14301,9 +15941,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|15 (+2)|14 (+2)|6 (-2)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** feu, poison  
@@ -14333,9 +15977,13 @@ ___
 >**Points de vie** 123 (19d8 + 38)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|18 (+4)|15 (+2)|9 (-1)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** feu, poison  
@@ -14368,9 +16016,13 @@ ___
 >**Points de vie** 123 (19d8 + 38)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|18 (+4)|15 (+2)|9 (-1)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** feu, poison  
@@ -14403,9 +16055,13 @@ ___
 >**Points de vie** 76 (8d12 + 24)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|9 (-1)|17 (+3)|3 (-4)|11 (+0)|6 (-2)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -14432,9 +16088,13 @@ ___
 >**Points de vie** 7 (2d8 - 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|9 (-1)|14 (+2)|10 (+0)|13 (+1)
+>
+>___
 >
 >**Compétences** Arcanes +4, Persuasion +3  
 >**Sens** Perception passive 10  
@@ -14463,9 +16123,13 @@ ___
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|14 (+2)|10 (+0)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** For +6, Dex +6, Con +4  
 >**Compétences** Athlétisme +6, Perception +3  
@@ -14492,9 +16156,13 @@ ___
 >**Points de vie** 313 (19d12 + 190)  
 >**Vitesse** 15 m, nage 15 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|21 (+5)|30 (+10)|21 (+5)|22 (+6)|27 (+8)
+>
+>___
 >
 >**Sauvegardes** For +17, Int +12, Sag +13, Cha +15  
 >**Compétences** Intuition +13, Persuasion +15  
@@ -14533,9 +16201,13 @@ ___
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +4  
 >**Compétences** Arcanes +6, Histoire +6  
@@ -14571,9 +16243,13 @@ ___
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 3 m, escalade 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|8 (-1)|17 (+3)|7 (-2)|16 (+3)|6 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +5, Perception +6  
 >**Sens** vision dans le noir 18 m, Perception passive 16  
@@ -14605,9 +16281,13 @@ ___
 >**Points de vie** 90 (12d12 + 12)  
 >**Vitesse** 0 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|13 (+1)|3 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** vision aveugle 36 m, Perception passive 13  
@@ -14636,9 +16316,13 @@ ___
 >**Points de vie** 17 (5d6)  
 >**Vitesse** 0 m, vol 15 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|11 (+0)|1 (-5)|5 (-3)|1 (-5)
+>
+>___
 >
 >**Sauvegardes** Dex +4  
 >**Immunités** poison, psychique  
@@ -14668,9 +16352,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +4, Discrétion +3  
 >**Résistances** foudre, perforant  
@@ -14701,9 +16389,13 @@ ___
 >**Points de vie** 36 (8d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|11 (+0)|10 (+0)|10 (+0)|13 (+1)
+>
+>___
 >
 >**Vulnérabilités** feu  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -14736,9 +16428,13 @@ ___
 >**Points de vie** 153 (18d8 + 72)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +8, Sag +6, Cha +8  
 >**Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -14772,9 +16468,13 @@ ___
 >**Points de vie** 27 (6d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Compétences** Discrétion +4, Escamotage +4, Intuition +4, Investigation +5, Perception +6, Persuasion +5, Tromperie +5  
 >**Sens** Perception passive 16  
@@ -14805,9 +16505,13 @@ ___
 >**Points de vie** 40 + 10 pour chaque niveau de sort supérieur au niveau 4  
 >**Vitesse** 9 m ; vol 9 m (stationaire) (tyrannoeil uniquement)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|15 (+2)|16 (+3)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Immunités** psychique  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -14838,9 +16542,13 @@ ___
 >**Points de vie** 40 + 15 pour chaque niveau de sort supérieur au niveau 4  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|18 (+4)|14 (+2)|11 (+0)|5 (-3)
+>
+>___
 >
 >**Résistances** poison  
 >**Immunités** charmé, épuisement, effrayé, incapable d'agir, paralysé, pétrifié, empoisonné  
@@ -14871,9 +16579,13 @@ ___
 >**Points de vie** 50 + 10 pour chaque niveau de sort supérieur au niveau 4  
 >**Vitesse** 12 m ; creusement 12 m (Terre uniquement) ; vol 12 m (stationnaire) (Air uniquement) ; nage 12 m (Eau uniquement)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|17 (+3)|4 (-3)|10 (+0)|16 (+3)
+>
+>___
 >
 >**Résistances** acide (Eau uniquement) ; foudre et tonnerre (Air uniquement) ; perforant et tranchant (Terre uniquement)  
 >**Immunités** poison ; feu (Feu uniquement)  
@@ -14903,9 +16615,13 @@ ___
 >**Points de vie** 35 + 15 pour chaque niveau de sort supérieur au niveau 3  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|15 (+2)|4 (-3)|10 (+0)|16 (+3)
+>
+>___
 >
 >**Résistances** nécrotique  
 >**Immunités** effrayé  
@@ -14936,9 +16652,13 @@ ___
 >**Points de vie** 20 (Air uniquement) ou 30 (Terre et Eau uniquement) + 5 pour chaque niveau de sort supérieur au niveau 2  
 >**Vitesse** 9 m ; escalade 9 m (Terre uniquement) ; vol 18 m (Air uniquement) ; nage 9 m (Eau uniquement)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|16 (+3)|4 (-3)|14 (+2)|5 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 12  
 >**Langues** comprend les langues que vous parlez  
@@ -14967,9 +16687,13 @@ ___
 >**Points de vie** 40 + 10 pour chaque niveau de sort supérieur au niveau 5  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|16 (+3)|10 (+0)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Résistances** radiant  
 >**Immunités** charmé, effrayé  
@@ -14999,9 +16723,13 @@ ___
 >**Points de vie** 30 + 10 pour chaque niveau de sort supérieur au niveau 3  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|16 (+3)
+>
+>___
 >
 >**Immunités** charmé  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -15032,9 +16760,13 @@ ___
 >**Points de vie** 50 (démon uniquement) or 40 (diable uniquement) or 60 (yugoloth uniquement) + 15 pour chaque niveau de sort supérieur au niveau 6  
 >**Vitesse** 12 m ; escalade 9 m (démon uniquement) ; vol 18 m (diable uniquement)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|15 (+2)|10 (+0)|10 (+0)|16 (+3)
+>
+>___
 >
 >**Résistances** feu  
 >**Immunités** poison  
@@ -15068,9 +16800,13 @@ ___
 >**Points de vie** 30 (fantôme et putréfié uniquement) or 20 (squelette uniquement) + 10 pour chaque niveau de sort supérieur au niveau 3  
 >**Vitesse** 9 m ; vol 12 m (stationnaire) (fantôme uniquement)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|15 (+2)|4 (-3)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Immunités** nécrotique, poison  
 >**Immunités** épuisement, effrayé, paralysé, empoisonné  
@@ -15102,9 +16838,13 @@ ___
 >**Points de vie** 5 + cinq fois votre niveau de druide  
 >**Vitesse** 9 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|14 (+2)|13 (+1)|15 (+2)|11 (+0)
+>
+>___
 >
 >**Immunités** feu  
 >**Immunités** charmé, effrayé, agrippé, à terre, entravé  
@@ -15132,9 +16872,13 @@ ___
 >**Points de vie** 50 + 10 pour chaque niveau pour chaque niveau de sort supérieur au niveau 5 (le dragon a un nombre de dés de vie \[d10\] égal au niveau du sort)  
 >**Vitesse** 9 m, fvol 18 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|17 (+3)|10 (+0)|14 (+2)|14 (+2)
+>
+>___
 >
 >**Résistances** acide, froid, feu, foudre et poison (chromatique et métallique uniquement) ; force, nécrotique, psychique, radiant et tonnerre (diamantin uniquement)  
 >**Immunités** charmé, effrayé, empoisonné  
@@ -15165,9 +16909,13 @@ ___
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 3 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +8, Perception +3  
 >**Sens** Perception passive 13  
@@ -15195,9 +16943,13 @@ ___
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|4 (-3)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +6  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
@@ -15228,9 +16980,13 @@ ___
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|4 (-3)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +6  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
@@ -15260,9 +17016,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|15 (+2)|16 (+3)|13 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Sag +3  
 >**Compétences** Arcanes +5, Religion +5  
@@ -15295,9 +17055,13 @@ ___
 >**Points de vie** 44 (8d8 + 8)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|13 (+1)|7 (-2)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +3, Survie +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -15329,9 +17093,13 @@ ___
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|8 (-1)|17 (+3)|6 (-2)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
@@ -15361,9 +17129,13 @@ ___
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|19 (+4)|10 (+0)|10 (+0)|7 (-2)|1 (-5)
+>
+>___
 >
 >**Sauvegardes** Con +2  
 >**Compétences** Discrétion +8  
@@ -15394,9 +17166,13 @@ ___
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|19 (+4)|10 (+0)|10 (+0)|7 (-2)|1 (-5)
+>
+>___
 >
 >**Sauvegardes** Con +2  
 >**Compétences** Discrétion +8  
@@ -15427,9 +17203,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +7, Sag +5  
 >**Compétences** Arcanes +7, Histoire +7  
@@ -15467,9 +17247,13 @@ ___
 >**Points de vie** 60 (11d8 + 11)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|13 (+1)|11 (+0)|16 (+3)|10 (+0)
+>
+>___
 >
 >**Compétences** Acrobaties +5, Discrétion +5, Intuition +5  
 >**Sens** Perception passive 13  
@@ -15503,9 +17287,13 @@ ___
 >**Points de vie** 60 (11d8 + 11)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|17 (+3)|13 (+1)|11 (+0)|16 (+3)|10 (+0)
+>
+>___
 >
 >**Compétences** Acrobaties +5, Discrétion +5, Intuition +5  
 >**Sens** Perception passive 13  
@@ -15529,6 +17317,8 @@ ___
 ___
 
 >Expert (niv 1)
+>
+>___
 >================
 >
 >_\[ Expert (lvl 1) \]_
@@ -15539,9 +17329,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +4  
 >**Compétences** Acrobaties +4, Discrétion +4, Escamotage +4, Persuasion +4, Représentation +4  
@@ -15563,6 +17357,8 @@ ___
 ___
 
 >Expert (niv 2)
+>
+>___
 >================
 >
 >_\[ Expert (lvl 2) \]_
@@ -15573,9 +17369,13 @@ ___
 >**Points de vie** 16 (3d8 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +4  
 >**Compétences** Acrobaties +4, Discrétion +4, Escamotage +4, Persuasion +4, Représentation +4  
@@ -15598,6 +17398,8 @@ ___
 ___
 
 >Expert (niv 3)
+>
+>___
 >================
 >
 >_\[ Expert (lvl 3) \]_
@@ -15608,9 +17410,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +4  
 >**Compétences** Acrobaties +4, Discrétion +4, Escamotage +4, Persuasion +4, Représentation +4  
@@ -15634,6 +17440,8 @@ ___
 ___
 
 >Expert (niv 4)
+>
+>___
 >================
 >
 >_\[ Expert (lvl 4) \]_
@@ -15644,9 +17452,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +5  
 >**Compétences** Acrobaties +5, Discrétion +5, Escamotage +5, Persuasion +4, Représentation +4  
@@ -15670,6 +17482,8 @@ ___
 ___
 
 >Expert (niv 5)
+>
+>___
 >================
 >
 >_\[ Expert (lvl 5) \]_
@@ -15680,9 +17494,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +6  
 >**Compétences** Acrobaties +6, Discrétion +6, Escamotage +6, Persuasion +5, Représentation +5  
@@ -15706,6 +17524,8 @@ ___
 ___
 
 >Expert (niv 6)
+>
+>___
 >================
 >
 >_\[ Expert (lvl 6) \]_
@@ -15716,9 +17536,13 @@ ___
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|12 (+1)|13 (+1)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +6  
 >**Compétences** Acrobaties +6, Discrétion +6, Escamotage +6, Persuasion +5, Représentation +5  
@@ -15753,9 +17577,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Persuasion +4, Religion +2, Tromperie +4  
 >**Sens** Perception passive 11  
@@ -15786,9 +17614,13 @@ ___
 >**Points de vie** 45 (10d8)  
 >**Vitesse** 0 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|13 (+1)|10 (+0)|10 (+0)|12 (+1)|17 (+3)
+>
+>___
 >
 >**Résistances** acide, foudre, feu, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** froid, nécrotique, poison  
@@ -15821,9 +17653,13 @@ ___
 >**Points de vie** 18 (4d6 + 4)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|18 (+4)|13 (+1)|6 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +5, Escamotage +6, Discrétion +6  
 >**Résistances** feu  
@@ -15854,9 +17690,13 @@ ___
 >**Points de vie** 18 (4d6 + 4)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|18 (+4)|13 (+1)|6 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3, Escamotage +6, Discrétion +6  
 >**Résistances** feu  
@@ -15888,9 +17728,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|20 (+5)|13 (+1)|15 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Compétences** Intimidation +5, Perception +3, Persuasion +5, Discrétion +9  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -15921,9 +17765,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 3 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|16 (+3)|8 (-1)|2 (-4)|14 (+2)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** Perception passive 14  
@@ -15950,9 +17798,13 @@ ___
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 3 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|10 (+0)|3 (-4)|14 (+2)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** Perception passive 14  
@@ -15980,9 +17832,13 @@ ___
 >**Points de vie** 22 (9d4)  
 >**Vitesse** 0 m, vol 15 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Immunités** foudre, poison  
 >**Résistances** acide, feu, froid, nécrotique, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -16015,9 +17871,13 @@ ___
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|12 (+1)|19 (+4)|17 (+3)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +7, Sag +6, Cha +6  
 >**Compétences** Arcanes +7, Discrétion +4, Intuition +6, Perception +6, Persuasion +6, Tromperie +6  
@@ -16050,9 +17910,13 @@ ___
 >**Points de vie** 127 (15d10 + 45)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|16 (+3)|7 (-2)|15 (+2)|3 (-4)
+>
+>___
 >
 >**Immunités** aveuglé, assourdi, empoisonné  
 >**Sens** vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 12  
@@ -16086,9 +17950,13 @@ ___
 >**Points de vie** 127 (15d10 + 45)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|16 (+3)|7 (-2)|15 (+2)|3 (-4)
+>
+>___
 >
 >**Immunités** aveuglé, assourdi  
 >**Sens** vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 12  
@@ -16119,9 +17987,13 @@ ___
 >**Points de vie** 127 (15d8 + 60)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|14 (+2)|19 (+4)|11 (+0)|13 (+1)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +5  
 >**Compétences** Intimidation +5, Perception +5  
@@ -16154,9 +18026,13 @@ ___
 >**Points de vie** 127 (15d8 + 60)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|19 (+4)|11 (+0)|13 (+1)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +5  
 >**Compétences** Intimidation +5, Perception +5  
@@ -16189,9 +18065,13 @@ ___
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 1,50 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|15 (+2)|10 (+0)|14 (+2)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Arcanes +4, Histoire +4, Religion +4  
 >**Vulnérabilités** psychique  
@@ -16223,9 +18103,13 @@ ___
 >**Points de vie** 149 (13d12 + 65)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|10 (+0)|20 (+5)|9 (-1)|14 (+2)|6 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +8  
 >**Sens** vision dans le noir 36 m, Perception passive 18  
@@ -16255,9 +18139,13 @@ ___
 >**Points de vie** 9 (2d8) si M, 7 (2d6) si P  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|11 (+0)|12 (+1)|13 (+1)|12 (+1)
+>
+>___
 >
 >**Compétences** Escamotage +6 (voir aussi Compétence secrète ci-dessous)  
 >**Sens** Perception passive 11  
@@ -16289,9 +18177,13 @@ ___
 >**Points de vie** 337 (27d10 + 189)  
 >**Vitesse** 12 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|12 (+1)|25 (+7)|26 (+8)|24 (+7)|26 (+8)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +14, Int +15, Sag +14  
 >**Compétences** Tromperie +15, Perception +14, Discrétion +8  
@@ -16330,9 +18222,13 @@ ___
 >**Points de vie** 337 (27d10 + 189)  
 >**Vitesse** 12 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|12 (+1)|25 (+7)|26 (+8)|24 (+7)|26 (+8)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +14, Int +15, Sag +14  
 >**Compétences** Tromperie +15, Perception +14, Discrétion +8  
@@ -16371,9 +18267,13 @@ ___
 >**Points de vie** 161 (14d12 + 70)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|13 (+1)|20 (+5)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sauvegardes** Con +9, Sag +5  
 >**Compétences** Discrétion +5, Perception +9  
@@ -16407,9 +18307,13 @@ ___
 >**Points de vie** 184 (16d12 + 80)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|13 (+1)|20 (+5)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sauvegardes** Con +9, Sag +5  
 >**Compétences** Discrétion +5, Perception +9  
@@ -16443,9 +18347,13 @@ ___
 >**Points de vie** 85 (9d8 + 45)  
 >**Vitesse** 4,50 m (9 m lorsqu'il roule, 18 m s'il roule en descente)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|14 (+2)|20 (+5)|11 (+0)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -16477,9 +18385,13 @@ ___
 >**Points de vie** 51 (6d8 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|18 (+4)|12 (+1)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +5  
 >**Compétences** Intimidation +7, Perception +5  
@@ -16518,9 +18430,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** Perception passive 12  
@@ -16545,9 +18461,13 @@ ___
 >**Points de vie** 142 (15d10 + 60)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|8 (-1)|18 (+4)|7 (-2)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10  
 >**Immunités** poison  
@@ -16579,9 +18499,13 @@ ___
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|16 (+3)|6 (-2)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
 >**Immunités** poison  
@@ -16612,9 +18536,13 @@ ___
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|11 (+0)|13 (+1)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +2, Tromperie +4  
 >**Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -16647,9 +18575,13 @@ ___
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|16 (+3)|15 (+2)|15 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +5, Cha +4  
 >**Compétences** Perception +5  
@@ -16681,9 +18613,13 @@ ___
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|16 (+3)|15 (+2)|15 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +5, Cha +4  
 >**Compétences** Perception +5  
@@ -16721,9 +18657,13 @@ ___
 >**Points de vie** 13 (3d4 + 6)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|17 (+3)|14 (+2)|3 (-4)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Sag +2  
 >**Compétences** Perception +4, Discrétion +5  
@@ -16755,9 +18695,13 @@ ___
 >**Points de vie** 13 (3d4 + 6)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|17 (+3)|14 (+2)|3 (-4)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Sag +2  
 >**Compétences** Perception +4, Discrétion +5  
@@ -16793,9 +18737,13 @@ ___
 >**Points de vie** 105 (10d12 + 40)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|8 (-1)|19 (+4)|5 (-3)|9 (-1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** Perception passive 12  
@@ -16822,9 +18770,13 @@ ___
 >**Points de vie** 27 (6d6 + 6)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|12 (+1)|8 (-1)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** Perception passive 12  
@@ -16853,9 +18805,13 @@ ___
 >**Points de vie** 200 (16d12 + 96)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|10 (+0)|22 (+6)|12 (+1)|16 (+3)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +10, Sag +7, Cha +7  
 >**Compétences** Intuition +7, Perception +7  
@@ -16888,9 +18844,13 @@ ___
 >**Points de vie** 250 (20d12 + 120)  
 >**Vitesse** 12 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|12 (+1)|22 (+6)|15 (+2)|16 (+3)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +10, Int +6, Cha +7  
 >**Compétences** Escamotage +9, Intuition +7, Perception +7, Tromperie +11  
@@ -16924,9 +18884,13 @@ ___
 >**Points de vie** 262 (21d12 + 126)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|12 (+1)|22 (+6)|15 (+2)|16 (+3)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +10, Int +6, Cha +7  
 >**Compétences** Escamotage +9, Intuition +7, Perception +7, Tromperie +11  
@@ -16967,9 +18931,13 @@ ___
 >**Points de vie** 126 (11d12 + 55)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +8, Sag +4  
 >**Compétences** Athlétisme +12, Perception +4  
@@ -17000,9 +18968,13 @@ ___
 >**Points de vie** 161 (14d12 + 70)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|21 (+5)|10 (+0)|8 (-1)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +9, Sag +3  
 >**Compétences** Athlétisme +14, Perception +3  
@@ -17035,9 +19007,13 @@ ___
 >**Points de vie** 161 (14d12 + 70)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|21 (+5)|10 (+0)|8 (-1)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +9, Sag +3  
 >**Compétences** Athlétisme +14, Perception +3  
@@ -17070,9 +19046,13 @@ ___
 >**Points de vie** 230 (20d12 + 100)  
 >**Vitesse** 15 m, nage 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|14 (+2)|20 (+5)|16 (+3)|18 (+4)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** For +14, Con +10, Sag +9, Cha +9  
 >**Compétences** Arcanes +8, Athlétisme +14, Histoire +8, Perception +9  
@@ -17107,9 +19087,13 @@ ___
 >**Points de vie** 230 (20d12 + 100)  
 >**Vitesse** 15 m, nage 15 m, vol 15 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|14 (+2)|20 (+5)|17 (+3)|20 (+5)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** For +14, Con +10, Sag +10, Cha +9  
 >**Compétences** Arcanes +8, Histoire +8, Perception +10  
@@ -17145,9 +19129,13 @@ ___
 >**Points de vie** 230 (20d12 + 100)  
 >**Vitesse** 15 m, nage 15 m, vol 15 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|14 (+2)|20 (+5)|17 (+3)|20 (+5)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** For +14, Con +10, Sag +10, Cha +9  
 >**Compétences** Arcanes +8, Histoire +8, Perception +10  
@@ -17183,9 +19171,13 @@ ___
 >**Points de vie** 162 (13d12 + 78)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Con +10, Cha +5  
 >**Compétences** Athlétisme +11, Perception +6  
@@ -17214,9 +19206,13 @@ ___
 >**Points de vie** 187 (15d12 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|9 (-1)|23 (+6)|8 (-1)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +11, Cha +5  
 >**Compétences** Athlétisme +13, Perception +5  
@@ -17249,9 +19245,13 @@ ___
 >**Points de vie** 187 (15d12 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|9 (-1)|23 (+6)|8 (-1)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +11, Cha +5  
 >**Compétences** Athlétisme +13, Perception +5  
@@ -17284,9 +19284,13 @@ ___
 >**Points de vie** 138 (12d12 + 60)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|9 (-1)|21 (+5)|9 (-1)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +3, Cha +4  
 >**Compétences** Athlétisme +9, Perception +3  
@@ -17315,9 +19319,13 @@ ___
 >**Points de vie** 189 (14d12 + 98)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|9 (-1)|24 (+7)|9 (-1)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** For +11, Con +11, Sag +4  
 >**Compétences** Athlétisme +11, Perception +4  
@@ -17351,9 +19359,13 @@ ___
 >**Points de vie** 189 (14d12 + 98)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|9 (-1)|24 (+7)|9 (-1)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** For +11, Con +11, Sag +4  
 >**Compétences** Athlétisme +11, Perception +4  
@@ -17387,9 +19399,13 @@ ___
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 3 m, escalade 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|6 (-2)|14 (+2)|2 (-4)|6 (-2)|1 (-5)
+>
+>___
 >
 >**Résistances** acide  
 >**Immunités** foudre, tranchant  
@@ -17420,9 +19436,13 @@ ___
 >**Points de vie** 300 (24d12 + 144)  
 >**Vitesse** 9 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|17 (+3)|22 (+6)|19 (+4)|16 (+3)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +10, Con +13, Sag +10, Cha +13  
 >**Compétences** Deception +13, Intimidation +13, Perception +10  
@@ -17463,9 +19483,13 @@ ___
 >**Points de vie** 300 (24d12 + 144)  
 >**Vitesse** 9 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|17 (+3)|22 (+6)|19 (+4)|16 (+3)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +10, Con +13, Sag +10, Cha +13  
 >**Compétences** Deception +13, Intimidation +13, Perception +10  
@@ -17506,9 +19530,13 @@ ___
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|17 (+3)|11 (+0)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** commun  
@@ -17540,9 +19568,13 @@ ___
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|17 (+3)|11 (+0)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** commun  
@@ -17573,9 +19605,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -17605,9 +19641,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|16 (+3)|5 (-3)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -17638,9 +19678,13 @@ ___
 >**Points de vie** 91 (14d8 + 28)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|15 (+2)|14 (+2)|14 (+2)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Con +5, Int +5, Sag +5  
 >**Sens** Perception passive 12  
@@ -17671,9 +19715,13 @@ ___
 >**Points de vie** 187 (22d8 + 88)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|17 (+3)|18 (+4)|16 (+3)|16 (+3)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Con +9, Int +8, Sag +8  
 >**Compétences** Intimidation +9, Intuition +8, Perception +8  
@@ -17708,9 +19756,13 @@ ___
 >**Points de vie** 187 (22d8 + 88)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|17 (+3)|18 (+4)|16 (+3)|16 (+3)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Con +9, Int +8, Sag +8  
 >**Compétences** Intimidation +9, Intuition +8, Perception +8  
@@ -17743,9 +19795,13 @@ ___
 >**Points de vie** 130 (20d8 + 40)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|14 (+2)|16 (+3)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +6, Int +7, Sag +6  
 >**Compétences** Discrétion +6, Intuition +6, Perception +6  
@@ -17777,9 +19833,13 @@ ___
 >**Points de vie** 123 (19d8 + 38)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|14 (+2)|16 (+3)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +6, Int +7, Sag +6  
 >**Compétences** Discrétion +6, Intuition +6, Perception +6  
@@ -17810,9 +19870,13 @@ ___
 >**Points de vie** 49 (9d8 + 9)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|12 (+1)|13 (+1)|13 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +3, Int +3, Sag +3  
 >**Sens** Perception passive 11  
@@ -17842,9 +19906,13 @@ ___
 >**Points de vie** 180 (24d8 + 72)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +7, Int +7, Sag +6  
 >**Compétences** Intimidation +7, Perception +6  
@@ -17877,9 +19945,13 @@ ___
 >**Points de vie** 180 (24d8 + 72)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +7, Int +7, Sag +6  
 >**Compétences** Intimidation +7, Perception +6  
@@ -17910,9 +19982,13 @@ ___
 >**Points de vie** 144 (17d8 + 68)  
 >**Vitesse** 9 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|21 (+5)|18 (+4)|18 (+4)|20 (+5)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** For +8, Dex +10, Int +9, Sag +10  
 >**Compétences** Arcanes +9, Intuition +10, Perception +10  
@@ -17947,9 +20023,13 @@ ___
 >**Points de vie** 144 (17d8 + 68)  
 >**Vitesse** 9 m, vol 12 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|21 (+5)|18 (+4)|18 (+4)|20 (+5)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** For +8, Dex +10, Int +9, Sag +10  
 >**Compétences** Arcanes +9, Intuition +10, Perception +10  
@@ -17982,9 +20062,13 @@ ___
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|19 (+4)|16 (+3)|17 (+3)|19 (+4)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** For +6, Dex +8, Int +7, Sag +8  
 >**Compétences** Arcanes +7, Intuition +8, Perception +8  
@@ -18017,9 +20101,13 @@ ___
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|19 (+4)|16 (+3)|17 (+3)|19 (+4)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** For +6, Dex +8, Int +7, Sag +8  
 >**Compétences** Arcanes +7, Intuition +8, Perception +8  
@@ -18050,9 +20138,13 @@ ___
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|12 (+1)|13 (+1)|14 (+2)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** For +3, Dex +4, Int +3, Sag +4  
 >**Compétences** Intuition +4, Perception +4  
@@ -18085,9 +20177,13 @@ ___
 >**Points de vie** 84 (13d8 + 26)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|18 (+4)|15 (+2)|16 (+3)|17 (+3)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** For +4, Dex +7, Int +6, Sag +6  
 >**Compétences** Arcanes +6, Intuition +6, Perception +6  
@@ -18121,9 +20217,13 @@ ___
 >**Points de vie** 157 (15d10 + 75)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** For +9, Con +9, Sag +7, Cha +7  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -18158,9 +20258,13 @@ ___
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|12 (+1)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** For +7, Dex +5, Con +6  
 >**Compétences** Athlétisme +10, Intimidation +5  
@@ -18192,9 +20296,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|11 (+0)|6 (-2)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** gnoll  
@@ -18222,9 +20330,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|12 (+1)|8 (-1)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +4  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -18255,9 +20367,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|12 (+1)|8 (-1)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +4  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -18288,9 +20404,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|12 (+1)|8 (-1)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +4  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -18321,9 +20441,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|12 (+1)|8 (-1)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +4  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -18354,9 +20478,13 @@ ___
 >**Points de vie** 65 (10d8 + 20)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|15 (+2)|10 (+0)|11 (+0)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Con +4, Sag +2, Cha +3  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -18386,9 +20514,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|8 (-1)|12 (+1)|5 (-3)|5 (-3)|5 (-3)
+>
+>___
 >
 >**Immunités** poison  
 >**Immunités** épuisement, empoisonné  
@@ -18421,9 +20553,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|8 (-1)|12 (+1)|5 (-3)|5 (-3)|5 (-3)
+>
+>___
 >
 >**Immunités** poison  
 >**Immunités** épuisement, empoisonné  
@@ -18455,9 +20591,13 @@ ___
 >**Points de vie** 49 (9d8 + 9)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|8 (-1)|11 (+0)|9 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** gnoll  
@@ -18488,9 +20628,13 @@ ___
 >**Points de vie** 16 (3d6 + 6)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +4, Investigation +3, Perception +2  
 >**Sens** vision dans le noir 36 m, Perception passive 12  
@@ -18521,9 +20665,13 @@ ___
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +6  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
@@ -18551,9 +20699,13 @@ ___
 >**Points de vie** 21 (6d6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +6  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
@@ -18584,9 +20736,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|13 (+1)|8 (-1)|11 (+0)|9 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +6, Survie +2  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -18615,9 +20771,13 @@ ___
 >**Points de vie** 65 (10d8 + 20)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|14 (+2)|14 (+2)|11 (+0)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +6, Intimidation +2, Survie +3  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
@@ -18649,9 +20809,13 @@ ___
 >**Points de vie** 133 (14d10 + 56)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|9 (-1)|18 (+4)|3 (-4)|8 (-1)|1 (-5)
+>
+>___
 >
 >**Immunités** acide, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
 >**Immunités** charmé, empoisonné, épuisement, paralysé, pétrifié, effrayé  
@@ -18685,9 +20849,13 @@ ___
 >**Points de vie** 61 (10d8 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|15 (+2)|6 (-2)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +5  
 >**Immunités** poison  
@@ -18723,9 +20891,13 @@ ___
 >**Points de vie** 147 (18d10 + 100)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|9 (-1)|18 (+4)|3 (-4)|11 (+0)|1 (-5)
+>
+>___
 >
 >**Immunités** feu, foudre, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
@@ -18761,9 +20933,13 @@ ___
 >**Points de vie** 93 (11d8 + 44)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|9 (-1)|18 (+4)|6 (-2)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Immunités** foudre, poison ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
 >**Immunités** charmé, empoisonné, épuisement, paralysé, pétrifié, effrayé  
@@ -18797,9 +20973,13 @@ ___
 >**Points de vie** 210 (20d10 + 100)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|9 (-1)|20 (+5)|3 (-4)|11 (+0)|1 (-5)
+>
+>___
 >
 >**Immunités** feu, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
@@ -18833,9 +21013,13 @@ ___
 >**Points de vie** 126 (12d10 +60)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|9 (-1)|18 (+4)|3 (-4)|11 (+0)|1 (-5)
+>
+>___
 >
 >**Vulnérabilités** feu  
 >**Immunités** froid, poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -18871,9 +21055,13 @@ ___
 >**Points de vie** 178 (17d10 + 85)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|9 (-1)|20 (+5)|3 (-4)|11 (+0)|1 (-5)
+>
+>___
 >
 >**Immunités** poison, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
@@ -18905,9 +21093,13 @@ ___
 >**Points de vie** 161 (19d10 + 57)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|17 (+3)|3 (-4)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Immunités** poison  
 >**Immunités** charmé, épuisement, effrayé, paralysé, pétrifié, empoisonné  
@@ -18941,9 +21133,13 @@ ___
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|11 (+0)|18 (+4)|2 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Immunités** pétrifiée  
@@ -18973,9 +21169,13 @@ ___
 >**Points de vie** 310 (23d12 + 161)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|11 (+0)|25 (+7)|6 (-2)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** For +13, Dex +6, Con +13, Sag +7  
 >**Compétences** Perception +7  
@@ -19013,9 +21213,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|15 (+2)|10 (+0)|7 (-2)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Immunités** poison  
 >**Immunités** charmé, empoisonné, épuisement  
@@ -19042,9 +21246,13 @@ ___
 >**Points de vie** 533 (26d20 + 260)  
 >**Vitesse** 18 m, creusement 18 m, vol 36 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|14 (+2)|30 (+10)|21 (+5)|20 (+5)|26 (+8)
+>
+>___
 >
 >**Sauvegardes** Dex +10, Con +18, Sag +13, Cha +16  
 >**Compétences** Intimidation +16, Perception +21, Discrétion +10  
@@ -19086,9 +21294,13 @@ ___
 >**Points de vie** 507 (26d20 + 234)  
 >**Vitesse** 18 m, creusement 18 m, vol 36 m (stationnaire), nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|14 (+2)|29 (+9)|30 (+10)|24 (+7)|25 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +10, Con +17, Sag +15, Cha +15  
 >**Compétences** Arcanes +26, Histoire +18, Perception +15  
@@ -19131,9 +21343,13 @@ ___
 >**Points de vie** 565 (29d20 + 261)  
 >**Vitesse** 18 m, creusement 18 m, vol 36 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|16 (+3)|29 (+9)|21 (+5)|22 (+6)|30 (+10)
+>
+>___
 >
 >**Sauvegardes** Dex +11, Con +17, Int +13, Cha +18  
 >**Compétences** Intuition +14, Perception +22, Persuasion +18  
@@ -19177,9 +21393,13 @@ ___
 >**Points de vie** 19 (3d8 + 6)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|14 (+2)|6 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Athlétisme +5, Perception +3  
 >**Sens** Perception passive 13  
@@ -19206,9 +21426,13 @@ ___
 >**Points de vie** 346 (33d10 + 165)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|15 (+2)|21 (+5)|23 (+6)|21 (+5)|26 (+8)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +12, Sag +12  
 >**Compétences** Intuition +12, Perception +12, Persuasion +15, Tromperie +15  
@@ -19249,9 +21473,13 @@ ___
 >**Points de vie** 346 (33d10 + 165)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|15 (+2)|21 (+5)|23 (+6)|21 (+5)|26 (+8)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +12, Sag +12  
 >**Compétences** Intuition +12, Perception +12, Persuasion +15, Tromperie +15  
@@ -19296,9 +21524,13 @@ ___
 >**Points de vie** 52 (7d10 + 14)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Sauvegardes** For +5, Con +4  
 >**Sens** Perception passive 10  
@@ -19323,9 +21555,13 @@ ___
 >**Points de vie** 55 (10d8 + 10)  
 >**Vitesse** 3 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|13 (+1)|12 (+1)|11 (+0)|9 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +6, Perception +4  
 >**Immunités** foudre  
@@ -19355,9 +21591,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 6 m, nage 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|13 (+1)|8 (-1)|1 (-5)|8 (-1)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +1  
 >**Sens** vision dans le noir 9 m, Perception passive 11  
@@ -19383,9 +21623,13 @@ ___
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|11 (+0)|2 (-4)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +2  
 >**Sens** vision dans le noir 9 m, Perception passive 12  
@@ -19414,9 +21658,13 @@ ___
 >**Points de vie** 27 (6d8)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|11 (+0)|3 (-4)|14 (+2)|5 (-3)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -19445,9 +21693,13 @@ ___
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|15 (+2)|4 (-3)|14 (+2)|9 (-1)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -19478,9 +21730,13 @@ ___
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|14 (+2)|11 (+0)|5 (-3)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Immunités** poison  
 >**Immunités** charmé, épuisement, empoisonné  
@@ -19509,9 +21765,13 @@ ___
 >**Points de vie** 150 (20d10 + 40)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|15 (+2)|13 (+1)|15 (+2)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +6, Sag +6  
 >**Compétences** Perception +6, Discrétion +7  
@@ -19547,9 +21807,13 @@ ___
 >**Points de vie** 127 (17d10 + 34)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|15 (+2)|13 (+1)|15 (+2)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +6, Sag +6  
 >**Compétences** Perception +6, Discrétion +7  
@@ -19583,9 +21847,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 9 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|2 (-4)|13 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
@@ -19614,9 +21882,13 @@ ___
 >**Points de vie** 11 (2d6 + 4)  
 >**Vitesse** 7,50 m, escalade 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|14 (+2)|15 (+2)|10 (+0)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +4  
 >**Compétences** Athlétisme +2, Discrétion +4, Perception +3, Survie +2  
@@ -19650,9 +21922,13 @@ ___
 >**Points de vie** 49 (9d6 + 18)  
 >**Vitesse** 7,50 m, escalade 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|16 (+3)|15 (+2)|10 (+0)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +5  
 >**Compétences** Athlétisme +2, Perception +2, Discrétion +5, Survie +2  
@@ -19688,9 +21964,13 @@ ___
 >**Points de vie** 49 (9d6 + 18)  
 >**Vitesse** 7,50 m, escalade 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|16 (+3)|15 (+2)|10 (+0)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +5  
 >**Compétences** Athlétisme +2, Perception +2, Discrétion +5, Survie +2  
@@ -19725,9 +22005,13 @@ ___
 >**Points de vie** 11 (2d6 + 4)  
 >**Vitesse** 7,50 m, escalade 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|14 (+2)|15 (+2)|10 (+0)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +4  
 >**Compétences** Athlétisme +2, Discrétion +4, Perception +3, Survie +2  
@@ -19760,9 +22044,13 @@ ___
 >**Points de vie** 27 (5d6 + 10)  
 >**Vitesse** 7,50 m, escalade 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|16 (+3)|15 (+2)|10 (+0)|15 (+2)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +5  
 >**Compétences** Athlétisme +2, Perception +4, Discrétion +5, Survie +4  
@@ -19798,9 +22086,13 @@ ___
 >**Points de vie** 27 (5d6 + 10)  
 >**Vitesse** 7,50 m, escalade 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|16 (+3)|15 (+2)|10 (+0)|15 (+2)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +5  
 >**Compétences** Athlétisme +2, Perception +4, Discrétion +5, Survie +4  
@@ -19837,9 +22129,13 @@ ___
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Con +5  
 >**Compétences** Perception +5, Tromperie +5  
@@ -19872,9 +22168,13 @@ ___
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|12 (+1)|14 (+2)|13 (+1)|14 (+2)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Con +5  
 >**Compétences** Perception +5, Tromperie +5  
@@ -19907,9 +22207,13 @@ ___
 >**Points de vie** 91 (14d8 + 28)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|14 (+2)|12 (+1)|13 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +4  
 >**Compétences** Nature +4, Perception +4, Discrétion +6, Survie +4  
@@ -19945,9 +22249,13 @@ ___
 >**Points de vie** 91 (14d8 + 28)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|14 (+2)|12 (+1)|13 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +4  
 >**Compétences** Nature +4, Perception +4, Discrétion +6, Survie +4  
@@ -19982,9 +22290,13 @@ ___
 >**Points de vie** 52 (7d8 + 21)  
 >**Vitesse** 9 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** aquatique, commun, géant  
@@ -20013,9 +22325,13 @@ ___
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|16 (+3)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Compétences** Discrétion +6, Intuition +6, Perception +6, Tromperie +7  
 >**Résistances** froid, feu ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -20050,9 +22366,13 @@ ___
 >**Points de vie** 82 (11d8 + 33)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)
+>
+>___
 >
 >**Compétences** Arcanes +3, Discrétion +3, Perception +4, Tromperie +4  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
@@ -20084,9 +22404,13 @@ ___
 >**Points de vie** 52 (8d10 + 8)  
 >**Vitesse** 3 m, vol 18 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Sag +3  
 >**Vulnérabilités** froid  
@@ -20119,9 +22443,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 3 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|1 (-5)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -20145,9 +22473,13 @@ ___
 >**Points de vie** 19 (3d8 + 6)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|6 (-2)|14 (+2)|8 (-1)|6 (-2)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** Sag +0  
 >**Immunités** poison  
@@ -20178,9 +22510,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|8 (-1)|11 (+0)|8 (-1)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix  
@@ -20206,9 +22542,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|8 (-1)|13 (+1)|5 (-3)|8 (-1)|5 (-3)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -20238,9 +22578,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|8 (-1)|13 (+1)|5 (-3)|8 (-1)|5 (-3)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -20270,9 +22614,13 @@ ___
 >**Points de vie** 105 (10d12 + 40)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|18 (+4)|5 (-3)|7 (-2)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +1  
 >**Immunités** effrayé  
@@ -20302,9 +22650,13 @@ ___
 >**Points de vie** 105 (10d12 + 40)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|18 (+4)|5 (-3)|7 (-2)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +1  
 >**Immunités** effrayé  
@@ -20338,9 +22690,13 @@ ___
 >**Points de vie** 136 (16d10 + 48)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|18 (+4)|18 (+4)|18 (+4)
+>
+>___
 >
 >**Compétences** Arcanes +12, Histoire +12, Perception +8, Religion +8  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -20382,9 +22738,13 @@ ___
 >**Points de vie** 246 (29d8 + 116)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|18 (+4)|18 (+4)|24 (+7)|18 (+4)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Int + 14, Sag + 11  
 >**Compétences** Arcanes +21, Histoire +21, Perception +11  
@@ -20420,9 +22780,13 @@ ___
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 6 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|12 (+1)|7 (-2)|10 (+0)|13 (+1)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** commun  
@@ -20449,9 +22813,13 @@ ___
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 9 m (6 m et nage 12 m sous forme hybride)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|16 (+3)|10 (+0)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Sag +3, Cha +4  
 >**Compétences** Discrétion +3, Escamotage +3, Intuition +3, Tromperie +6  
@@ -20485,9 +22853,13 @@ ___
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 9 m (6 m et nage 12 m sous forme hybride)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|16 (+3)|10 (+0)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Sag +3, Cha +4  
 >**Compétences** Discrétion +3, Escamotage +3, Intuition +3, Tromperie +6  
@@ -20521,9 +22893,13 @@ ___
 >**Points de vie** 136 (13d10 + 65)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|17 (+3)|20 (+5)|5 (-3)|12 (+1)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** For +7, Con +8, Sag +4  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -20556,9 +22932,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 0 m, nage 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|12 (+1)|8 (-1)|1 (-5)|10 (+0)|2 (-4)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -20582,9 +22962,13 @@ ___
 >**Points de vie** 16 (3d10)  
 >**Vitesse** 0 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|11 (+0)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** —  
@@ -20611,9 +22995,13 @@ ___
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|13 (+1)|13 (+1)|2 (-4)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Sens** Perception passive 15  
@@ -20642,9 +23030,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, gobelin  
@@ -20671,9 +23063,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|13 (+1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, gobelin  
@@ -20703,9 +23099,13 @@ ___
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|14 (+2)|16 (+3)|13 (+1)|11 (+0)
+>
+>___
 >
 >**Compétences** Arcanes +5  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
@@ -20736,9 +23136,13 @@ ___
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|14 (+2)|16 (+3)|13 (+1)|11 (+0)
+>
+>___
 >
 >**Compétences** Arcanes +5  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
@@ -20772,9 +23176,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|15 (+2)|14 (+2)|15 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Acrobaties +5, Athlétisme +4, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -20806,9 +23214,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|15 (+2)|14 (+2)|15 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Acrobaties +5, Athlétisme +4, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -20842,9 +23254,13 @@ ___
 >**Points de vie** 97 (13d8 + 39)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|16 (+3)|14 (+2)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +3, Cha +5  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -20877,9 +23293,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|13 (+1)|7 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +3, Survie +5  
 >**Sens** Perception passive 13  
@@ -20910,9 +23330,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|13 (+1)|10 (+0)|15 (+2)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +4, Survie +6  
 >**Sens** Perception passive 14  
@@ -20947,9 +23371,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 3 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** Perception passive 12  
@@ -20976,9 +23404,13 @@ ___
 >**Points de vie** 5 (2d4)  
 >**Vitesse** 6 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Immunités** poison  
 >**Immunités** charmé, empoisonné  
@@ -21006,9 +23438,13 @@ ___
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|16 (+3)|10 (+0)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -21041,9 +23477,13 @@ ___
 >**Points de vie** 210 (20d10 + 100)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|16 (+3)|20 (+5)|3 (-4)|11 (+0)|4 (-3)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +10, Sag +5  
 >**Compétences** Perception +5, Discrétion +8  
@@ -21078,9 +23518,13 @@ ___
 >**Points de vie** 210 (20d10 + 100)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|16 (+3)|20 (+5)|3 (-4)|11 (+0)|4 (-3)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +10, Sag +5  
 >**Compétences** Perception +5, Discrétion +8  
@@ -21114,9 +23558,13 @@ ___
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|15 (+2)|6 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 13  
@@ -21146,9 +23594,13 @@ ___
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|17 (+3)|12 (+1)|12 (+1)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** For +7, Dex +5, Con +6  
 >**Compétences** Athlétisme +10, Intimidation +5  
@@ -21181,9 +23633,13 @@ ___
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|16 (+3)|15 (+2)|5 (-3)|20 (+5)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -21215,9 +23671,13 @@ ___
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|16 (+3)|15 (+2)|5 (-3)|20 (+5)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +8  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -21248,9 +23708,13 @@ ___
 >**Points de vie** 200 (16d10 + 112)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|15 (+2)|25 (+7)|23 (+6)|19 (+4)|25 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +14, Sag +11  
 >**Compétences** Intimidation +14, Perception +11  
@@ -21295,9 +23759,13 @@ ___
 >**Points de vie** 200 (16d10 + 112)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|15 (+2)|25 (+7)|23 (+6)|19 (+4)|25 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +14, Sag +11  
 >**Compétences** Intimidation +14, Perception +11  
@@ -21342,9 +23810,13 @@ ___
 >**Points de vie** 172 (15d12 + 75)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|20 (+5)|2 (-4)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +6  
 >**Sens** vision dans le noir 18 m, Perception passive 16  
@@ -21375,9 +23847,13 @@ ___
 >**Points de vie** 135 (18d8 + 54)  
 >**Vitesse** 6 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|21 (+5)|16 (+3)|19 (+4)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Compétences** Intuition +4, Perception +4  
 >**Vulnérabilités** feu  
@@ -21417,9 +23893,13 @@ ___
 >**Points de vie** 135 (18d8 + 54)  
 >**Vitesse** 6 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|21 (+5)|16 (+3)|19 (+4)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Compétences** Intuition +4, Perception +4  
 >**Vulnérabilités** feu  
@@ -21458,9 +23938,13 @@ ___
 >**Points de vie** 5 (1d8 + 1)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+1)|12 (+1)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -21487,9 +23971,13 @@ ___
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|14 (+2)|2 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -21517,9 +24005,13 @@ ___
 >**Points de vie** 255 (30d8 + 120)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|18 (+4)|18 (+4)|27 (+8)|12 (+1)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Int +14, Sag +7, Cha +12  
 >**Compétences** Arcanes +20, Histoire +14, Nature +14  
@@ -21545,9 +24037,13 @@ ___
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|13 (+1)|16 (+3)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +2  
 >**Compétences** Arcanes +5, Histoire +5  
@@ -21583,9 +24079,13 @@ ___
 >**Points de vie** 325 (26d12 + 156)  
 >**Vitesse** 15 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|24 (+7)|22 (+6)|15 (+2)|16 (+3)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +14, Con +13, Cha +13  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -21602,6 +24102,8 @@ ___
 ___
 
 >Incantateur (niv 1)
+>
+>___
 >=======================
 >
 >_\[ Spellcaster (lvl 1) \]_
@@ -21612,9 +24114,13 @@ ___
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|15 (+2)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Sag +4  
 >**Compétences** Arcanes +4, Investigation +4, Religion +4  
@@ -21638,6 +24144,8 @@ ___
 ___
 
 >Incantateur (niv 2)
+>
+>___
 >=======================
 >
 >_\[ Spellcaster (lvl 2) \]_
@@ -21648,9 +24156,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|15 (+2)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Sag +4  
 >**Compétences** Arcanes +4, Investigation +4, Religion +4  
@@ -21674,6 +24186,8 @@ ___
 ___
 
 >Incantateur (niv 3)
+>
+>___
 >=======================
 >
 >_\[ Spellcaster (lvl 3) \]_
@@ -21684,9 +24198,13 @@ ___
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|15 (+2)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Sag +4  
 >**Compétences** Arcanes +4, Investigation +4, Religion +4  
@@ -21710,6 +24228,8 @@ ___
 ___
 
 >Incantateur (niv 4)
+>
+>___
 >=======================
 >
 >_\[ Spellcaster (lvl 4) \]_
@@ -21720,9 +24240,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|15 (+2)|16 (+3)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Sag +5  
 >**Compétences** Arcanes +4, Investigation +4, Religion +4  
@@ -21746,6 +24270,8 @@ ___
 ___
 
 >Incantateur (niv 5)
+>
+>___
 >=======================
 >
 >_\[ Spellcaster (lvl 5) \]_
@@ -21756,9 +24282,13 @@ ___
 >**Points de vie** 27 (6d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|15 (+2)|16 (+3)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Sag +6  
 >**Compétences** Arcanes +5, Investigation +5, Religion +5  
@@ -21784,6 +24314,8 @@ ___
 ___
 
 >Incantateur (niv 6)
+>
+>___
 >=======================
 >
 >_\[ Spellcaster (lvl 6) \]_
@@ -21794,9 +24326,13 @@ ___
 >**Points de vie** 31 (7d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|15 (+2)|16 (+3)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Sag +6  
 >**Compétences** Arcanes +5, Investigation +5, Religion +5  
@@ -21834,9 +24370,13 @@ ___
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +4  
 >**Compétences** Arcanes +6, Histoire +6  
@@ -21873,9 +24413,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|12 (+1)|11 (+0)|16 (+3)|13 (+1)
+>
+>___
 >
 >**Compétences** Intuition +5, Persuasion +3, Religion +4  
 >**Sens** Perception passive 13  
@@ -21909,9 +24453,13 @@ ___
 >**Points de vie** 123 (19d8 + 38)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|22 (+6)|14 (+2)|20 (+5)|16 (+3)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +11, Sag +8  
 >**Compétences** Acrobaties +11, Athlétisme +6, Tromperie +14, Perception +8, Escamotage +11, Discrétion +16  
@@ -21951,9 +24499,13 @@ ___
 >**Points de vie** 350 (28d12 + 168)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|10 (+0)|23 (+6)|20 (+5)|20 (+5)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +13, Sag +12  
 >**Compétences** Perception +12  
@@ -21994,9 +24546,13 @@ ___
 >**Points de vie** 350 (28d12 + 168)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|10 (+0)|23 (+6)|20 (+5)|20 (+5)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +13, Sag +12  
 >**Compétences** Perception +12  
@@ -22038,9 +24594,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|16 (+3)|10 (+0)|11 (+0)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +5, Perception +2, Tromperie +4  
 >**Sens** Perception passive 12  
@@ -22070,9 +24630,13 @@ ___
 >**Points de vie** 153 (18d10 + 54)  
 >**Vitesse** 18 m, vol 36 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|16 (+3)|16 (+3)|19 (+4)|20 (+5)|20 (+5)
+>
+>___
 >
 >**Compétences** Intuition +9, Perception +9, Religion +8  
 >**Immunités** poison  
@@ -22109,9 +24673,13 @@ ___
 >**Points de vie** 152 (16d12 + 48)  
 >**Vitesse** 18 m, vol 36 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|16 (+3)|16 (+3)|19 (+4)|20 (+5)|20 (+5)
+>
+>___
 >
 >**Compétences** Intuition +9, Perception +9, Religion +8  
 >**Immunités** poison  
@@ -22161,9 +24729,13 @@ ___
 >**Points de vie** 5 (2d6 - 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|9 (-1)|8 (-1)|7 (-2)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, draconique  
@@ -22191,9 +24763,13 @@ ___
 >**Points de vie** 7 (3d6 - 3)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|16 (+3)|9 (-1)|8 (-1)|7 (-2)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, draconique  
@@ -22222,9 +24798,13 @@ ___
 >**Points de vie** 44 (8d6 + 16)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|14 (+2)|8 (-1)|9 (-1)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +1  
 >**Résistances** voir Résistance du dragon ci-dessous  
@@ -22257,9 +24837,13 @@ ___
 >**Points de vie** 44 (8d6 + 16)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|14 (+2)|8 (-1)|9 (-1)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +1  
 >**Résistances** voir Résistance du dragon ci-dessous  
@@ -22292,9 +24876,13 @@ ___
 >**Points de vie** 27 (5d6 + 10)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|14 (+2)|10 (+0)|9 (-1)|14 (+2)
+>
+>___
 >
 >**Compétences** Arcanes +2, Médecine +1  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
@@ -22326,9 +24914,13 @@ ___
 >**Points de vie** 27 (5d6 + 10)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|14 (+2)|10 (+0)|9 (-1)|14 (+2)
+>
+>___
 >
 >**Compétences** Arcanes +2, Médecine +1  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
@@ -22362,9 +24954,13 @@ ___
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|12 (+1)|8 (-1)|7 (-2)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** commun, draconique  
@@ -22394,9 +24990,13 @@ ___
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|12 (+1)|8 (-1)|7 (-2)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +0  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -22435,9 +25035,13 @@ ___
 >**Points de vie** 93 (11d6 + 55)  
 >**Vitesse** 9 m, creusement 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|20 (+5)|10 (+0)|15 (+2)|9 (-1)
+>
+>___
 >
 >**Compétences** Athlétisme +9, Perception +5, Discrétion +5  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -22470,9 +25074,13 @@ ___
 >**Points de vie** 102 (12d6 + 60)  
 >**Vitesse** 9 m, creusement 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|20 (+5)|10 (+0)|15 (+2)|9 (-1)
+>
+>___
 >
 >**Compétences** Athlétisme +9, Perception +5, Discrétion +5  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -22508,9 +25116,13 @@ ___
 >**Points de vie** 472 (27d20 + 189)  
 >**Vitesse** 6 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|11 (+0)|25 (+7)|22 (+6)|18 (+4)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** For +17, Dex +7, Con +14, Int +13, Sag +11  
 >**Immunités** foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -22548,9 +25160,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 12 m, creusement 6 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|15 (+2)|7 (-2)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 15  
@@ -22581,9 +25197,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 12 m, creusement 6 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|15 (+2)|7 (-2)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 11  
 >**Langues** kruthik  
@@ -22613,9 +25233,13 @@ ___
 >**Points de vie** 9 (2d6 + 2)  
 >**Vitesse** 9 m, creusement 3 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|13 (+1)|4 (-3)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, perception des vibrations 18 m, Perception passive 14  
 >**Langues** kruthik  
@@ -22643,9 +25267,13 @@ ___
 >**Points de vie** 9 (2d6 + 2)  
 >**Vitesse** 9 m, creusement 3 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|13 (+1)|4 (-3)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, perception des vibrations 18 m, Perception passive 10  
 >**Langues** kruthik  
@@ -22673,9 +25301,13 @@ ___
 >**Points de vie** 102 (12d10 + 36)  
 >**Vitesse** 12 m, creusement 6 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|17 (+3)|10 (+0)|14 (+2)|10 (+0)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 18  
 >**Langues** kruthik  
@@ -22706,9 +25338,13 @@ ___
 >**Points de vie** 102 (12d10 + 36)  
 >**Vitesse** 12 m, creusement 6 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|17 (+3)|10 (+0)|14 (+2)|10 (+0)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 12  
 >**Langues** kruthik  
@@ -22739,9 +25375,13 @@ ___
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|10 (+0)|11 (+0)|11 (+0)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** vision dans le noir 36 m, Perception passive 14  
@@ -22775,9 +25415,13 @@ ___
 >**Points de vie** 97 (13d8 + 39)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|16 (+3)|13 (+1)|16 (+3)|14 (+2)
+>
+>___
 >
 >**Compétences** Perception +9, Religion +6  
 >**Sens** vision dans le noir 36 m, Perception passive 19  
@@ -22816,9 +25460,13 @@ ___
 >**Points de vie** 65 (10d8 + 20)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|14 (+2)|12 (+1)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Perception +6, Religion +4  
 >**Sens** vision dans le noir 36 m, Perception passive 16  
@@ -22853,9 +25501,13 @@ ___
 >**Points de vie** 78 (12d8 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|15 (+2)|6 (-2)|7 (-2)|5 (-3)
+>
+>___
 >
 >**Compétences** Athlétisme +6  
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
@@ -22885,9 +25537,13 @@ ___
 >**Points de vie** 255 (30d8 + 120)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|19 (+4)|8 (-1)|13 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +6  
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
@@ -22917,9 +25573,13 @@ ___
 >**Points de vie** 225 (30d8 + 90)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|6 (-2)|11 (+0)|6 (-2)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -22948,9 +25608,13 @@ ___
 >**Points de vie** 10 (4d6 - 4)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|12 (+1)|9 (-1)|5 (-3)|6 (-2)|5 (-3)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 8  
@@ -22977,9 +25641,13 @@ ___
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|17 (+3)|6 (-2)|11 (+0)|6 (-2)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant en zone de lumière faible ou de ténèbres  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -23009,9 +25677,13 @@ ___
 >**Points de vie** 228 (24d8 + 120)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|17 (+3)|20 (+5)|20 (+5)|20 (+5)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Int +11, Sag +11  
 >**Compétences** Arcanes +17, Histoire +17, Intuition +11, Perception +11, Persuasion +10  
@@ -23058,9 +25730,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|12 (+1)|10 (+0)|11 (+0)|14 (+2)
+>
+>___
 >
 >**Compétences** Intimidation +4, Discrétion +6  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -23088,9 +25764,13 @@ ___
 >**Points de vie** 97 (13d10 + 26)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Compétences** Discrétion +3, Intuition +4, Tromperie +7  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -23122,9 +25802,13 @@ ___
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 30 ft.
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +3, Tromperie +6  
 >**Immunités** poison  
@@ -23161,9 +25845,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 4,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|5 (-3)|11 (+0)|1 (-5)|11 (+0)|3 (-4)
+>
+>___
 >
 >**Résistances** froid  
 >**Immunités** feu, poison  
@@ -23193,9 +25881,13 @@ ___
 >**Points de vie** 67 (9d10 + 18)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|9 (-1)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Tromperie +2, Perception +5  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -23227,9 +25919,13 @@ ___
 >**Points de vie** 67 (9d10 + 18)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|9 (-1)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Tromperie +2, Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -23262,9 +25958,13 @@ ___
 >**Points de vie** 328 (16d20 + 160)  
 >**Vitesse** 12 m, nage 36 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|24 (+7)|30 (+10)|2 (-4)|18 (+4)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +10, Cha +9  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -23303,9 +26003,13 @@ ___
 >**Points de vie** 328 (16d20 + 160)  
 >**Vitesse** 12 m, nage 36 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|24 (+7)|30 (+10)|2 (-4)|18 (+4)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +10, Cha +9  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -23343,9 +26047,13 @@ ___
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|11 (+0)|10 (+0)|1 (-5)|8 (-1)|3 (-4)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, Perception passive 9  
 >**Langues** —  
@@ -23369,9 +26077,13 @@ ___
 >**Points de vie** 19 (3d10 + 3)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** —  
@@ -23396,9 +26108,13 @@ ___
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 1,50 m, escalade 1,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|16 (+3)|1 (-5)|10 (+0)|1 (-5)
+>
+>___
 >
 >**Résistances** feu, froid  
 >**Immunités** assourdi, aveuglé, à terre, épuisement  
@@ -23428,9 +26144,13 @@ ___
 >**Points de vie** 135 (18d8 + 54)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +10, Int +12, Sag +9  
 >**Compétences** Arcanes +19, Histoire +12, Intuition +9, Perception +9  
@@ -23478,9 +26198,13 @@ ___
 >**Points de vie** 67 (9d10 + 18)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)
+>
+>___
 >
 >**Immunités** poison  
 >**Immunités** charmé, paralysé, empoisonné  
@@ -23520,9 +26244,13 @@ ___
 >**Points de vie** 60 (11d8 + 11)  
 >**Vitesse** 1,50 m, escalade 1,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|3 (-4)|12 (+1)|1 (-5)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Immunités** assourdi, aveuglé, épuisement, à terre  
 >**Sens** vision aveugle 9 m, Perception passive 10  
@@ -23552,9 +26280,13 @@ ___
 >**Points de vie** 26 (4d8 + 8)  
 >**Vitesse** 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|8 (-1)|14 (+2)|5 (-3)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +1  
 >**Immunités** aveuglé, assourdi  
@@ -23584,9 +26316,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 6 m, creusement 1,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|17 (+3)|9 (-1)|2 (-4)|11 (+0)|4 (-3)
+>
+>___
 >
 >**Compétences** Perception +2, Discrétion +5  
 >**Sens** Perception passive 12  
@@ -23612,9 +26348,13 @@ ___
 >**Points de vie** 26 (4d10 + 4)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|13 (+1)|3 (-4)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +6, Perception +3  
 >**Sens** Perception passive 13  
@@ -23645,9 +26385,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|12 (+1)|3 (-4)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +3  
 >**Sens** Perception passive 13  
@@ -23675,9 +26419,13 @@ ___
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|14 (+2)|7 (-2)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +5  
 >**Immunités** froid  
@@ -23708,9 +26456,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m (12 m sous forme de loup)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +4  
 >**Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -23742,9 +26494,13 @@ ___
 >**Points de vie** 37 (5d10 + 10)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|15 (+2)|3 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +3  
 >**Sens** Perception passive 13  
@@ -23772,9 +26528,13 @@ ___
 >**Points de vie** 216 (16d12 + 112)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|16 (+3)|24 (+7)|2 (-4)|10 (+0)|1 (-5)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Sag +5, Cha +0  
 >**Résistances** froid, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -23808,9 +26568,13 @@ ___
 >**Points de vie** 216 (16d12 + 112)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|16 (+3)|24 (+7)|2 (-4)|10 (+0)|1 (-5)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Sag +5, Cha +0  
 >**Résistances** froid, psychique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -23842,9 +26606,13 @@ ___
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +4  
 >**Compétences** Arcanes +6, Histoire +6  
@@ -23877,9 +26645,13 @@ ___
 >**Points de vie** 104 (16d8 32)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|14 (+2)|18 (+4)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +8, Sag +5  
 >**Compétences** Arcanes +8, Histoire +8  
@@ -23911,9 +26683,13 @@ ___
 >**Points de vie** 90 (20d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|18 (+4)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +7, Sag +4  
 >**Compétences** Arcanes +7, Histoire +7  
@@ -23945,9 +26721,13 @@ ___
 >**Points de vie** 49 (11d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +4  
 >**Compétences** Arcanes +6, Histoire +6  
@@ -23978,9 +26758,13 @@ ___
 >**Points de vie** 121 (22d8 + 22)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +7, Sag +5  
 >**Compétences** Arcanes +7, Histoire +7  
@@ -24011,9 +26795,13 @@ ___
 >**Points de vie** 44 (8d8 + 8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|13 (+1)|16 (+3)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +2  
 >**Compétences** Arcanes +5, Histoire +5  
@@ -24044,9 +26832,13 @@ ___
 >**Points de vie** 58 (13d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +4  
 >**Compétences** Arcanes +6, Histoire +6  
@@ -24078,9 +26870,13 @@ ___
 >**Points de vie** 110 (20d8 + 20)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +7, Sag +5  
 >**Compétences** Arcanes +7, Histoire +7  
@@ -24113,9 +26909,13 @@ ___
 >**Points de vie** 49 (11d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +4  
 >**Compétences** Arcanes +6, Histoire +6  
@@ -24146,9 +26946,13 @@ ___
 >**Points de vie** 9 (2d6 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|12 (+1)|8 (-1)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** feu  
@@ -24177,9 +26981,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|17 (+3)|19 (+4)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Sag +4  
 >**Compétences** Arcanes +6, Religion +6  
@@ -24217,9 +27025,13 @@ ___
 >**Points de vie** 84 (13d8 + 26)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|14 (+2)|11 (+0)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Int +3  
 >**Compétences** Acrobaties +7, Athlétisme +3, Perception +3, Escamotage +7, Discrétion +7  
@@ -24253,9 +27065,13 @@ ___
 >**Points de vie** 84 (13d8 + 26)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|14 (+2)|11 (+0)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Int +3  
 >**Compétences** Acrobaties +7, Athlétisme +3, Perception +3, Escamotage +7, Discrétion +7  
@@ -24289,9 +27105,13 @@ ___
 >**Points de vie** 31 (7d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|10 (+0)|18 (+4)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +3  
 >**Compétences** Arcanes +6, Histoire +6  
@@ -24329,9 +27149,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Intimidation +2  
 >**Sens** Perception passive 10  
@@ -24360,9 +27184,13 @@ ___
 >**Points de vie** 126 (11d12 + 55)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|9 (-1)|21 (+5)|3 (-4)|11 (+0)|6 (-2)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -24389,9 +27217,13 @@ ___
 >**Points de vie** 9 (2d6 + 2)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|9 (-1)|13 (+1)|3 (-4)|8 (-1)|4 (-3)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -24419,9 +27251,13 @@ ___
 >**Points de vie** 126 (23d8 + 23)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|23 (+6)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** For +2, Dex +4, Con +3, Int +13, Sag +9, Cha +5  
 >**Compétences** Arcanes +11, Histoire +11  
@@ -24452,9 +27288,13 @@ ___
 >**Points de vie** 22 (5d6 + 5)  
 >**Vitesse** 3 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +3  
 >**Sens** vision aveugle 18 m, Perception passive 10  
@@ -24483,9 +27323,13 @@ ___
 >**Points de vie** 78 (12d10 + 12)  
 >**Vitesse** 3 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
@@ -24518,9 +27362,13 @@ ___
 >**Points de vie** 68 (8d10 + 24)  
 >**Vitesse** 9 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|16 (+3)|17 (+3)|7 (-2)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** commun  
@@ -24549,9 +27397,13 @@ ___
 >**Points de vie** 229 (17d10 + 136)  
 >**Vitesse** 9 m, nage 27 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|12 (+1)|26 (+8)|18 (+4)|17 (+3)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +5 Sag +7 Cha +8  
 >**Résistances** acide, froid, foudre  
@@ -24586,9 +27438,13 @@ ___
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|20 (+5)|20 (+5)|18 (+4)|16 (+3)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** For +9, Con +10, Sag +8, Cha +10  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant non magiques  
@@ -24624,9 +27480,13 @@ ___
 >**Points de vie** 432 (32d10 + 256)  
 >**Vitesse** 12 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|12 (+1)|26 (+8)|19 (+4)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Int +12, Sag +10, Cha +12  
 >**Compétences** Intimidation +12, Intuition +10, Perception +10  
@@ -24664,9 +27524,13 @@ ___
 >**Points de vie** 432 (32d10 + 256)  
 >**Vitesse** 12 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|12 (+1)|26 (+8)|19 (+4)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Int +12, Sag +10, Cha +12  
 >**Compétences** Intimidation +12, Intuition +10, Perception +10  
@@ -24703,9 +27567,13 @@ ___
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 9 m, creusement 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|13 (+1)|16 (+3)|9 (-1)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Sens** vision dans le noir 36 m, perception des vibrations 18 m, Perception passive 10  
 >**Langues** mastodonte des ombres  
@@ -24735,9 +27603,13 @@ ___
 >**Points de vie** 88 (16d8 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|17 (+3)|12 (+1)|11 (+0)|12 (+1)|15 (+2)
+>
+>___
 >
 >**Compétences** Tromperie +5  
 >**Résistances** froid, feu, foudre, nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
@@ -24772,9 +27644,13 @@ ___
 >**Points de vie** 88 (16d8 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|17 (+3)|12 (+1)|11 (+0)|12 (+1)|15 (+2)
+>
+>___
 >
 >**Compétences** Tromperie +5  
 >**Résistances** froid, feu, foudre, nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
@@ -24808,9 +27684,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|16 (+3)|12 (+1)|13 (+1)|15 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +5, Intuition +4, Perception +4, Tromperie +5  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
@@ -24840,9 +27720,13 @@ ___
 >**Points de vie** 27 (6d6 + 6)  
 >**Vitesse** 6 m, nage 6 m, vol 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|12 (+1)|12 (+1)|9 (-1)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +3  
 >**Immunités** poison  
@@ -24874,9 +27758,13 @@ ___
 >**Points de vie** 22 (5d6 + 5)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +2  
 >**Immunités** feu, poison  
@@ -24908,9 +27796,13 @@ ___
 >**Points de vie** 21 (6d6)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|13 (+1)|10 (+0)|9 (-1)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +2  
 >**Vulnérabilités** contondant, feu  
@@ -24943,9 +27835,13 @@ ___
 >**Points de vie** 22 (5d6 + 5)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|12 (+1)|12 (+1)|7 (-2)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +3  
 >**Vulnérabilités** froid  
@@ -24978,9 +27874,13 @@ ___
 >**Points de vie** 17 (5d6)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|14 (+2)|10 (+0)|9 (-1)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +2  
 >**Vulnérabilités** feu  
@@ -25012,9 +27912,13 @@ ___
 >**Points de vie** 21 (6d6)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Immunités** feu, poison  
 >**Immunités** empoisonné  
@@ -25044,9 +27948,13 @@ ___
 >**Points de vie** 38 (7d8 + 7)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|12 (+1)|10 (+0)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** commun  
@@ -25075,9 +27983,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|17 (+3)|6 (-2)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
 >**Immunités** feu, poison  
@@ -25111,9 +28023,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|17 (+3)|6 (-2)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Résistances** froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
 >**Immunités** feu, poison  
@@ -25146,9 +28062,13 @@ ___
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|10 (+0)|17 (+3)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Int +5  
 >**Compétences** Histoire +5, Nature +5, Perception +4, Survie +4  
@@ -25184,9 +28104,13 @@ ___
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|10 (+0)|17 (+3)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Int +5  
 >**Compétences** Histoire +5, Nature +5, Perception +4, Survie +4  
@@ -25222,9 +28146,13 @@ ___
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 3 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|15 (+2)|8 (-1)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** abyssal, aquatique  
@@ -25253,9 +28181,13 @@ ___
 >**Points de vie** 28 (6d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|11 (+0)|17 (+3)|13 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +3  
 >**Compétences** Arcanes +5, Discrétion +3, Histoire +5, Tromperie +5  
@@ -25288,9 +28220,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|16 (+3)|7 (-2)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -25328,9 +28264,13 @@ ___
 >**Points de vie** 262 (25d10 + 125)  
 >**Vitesse** 0 m, vol 18 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|20 (+5)|18 (+4)|15 (+2)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +12, Int +11, Sag +9, Cha +13  
 >**Compétences** Arcanes +11, Histoire +11, Perception +16, Discrétion +14  
@@ -25358,9 +28298,13 @@ ___
 >**Points de vie** 4 (1d6 + 1)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|14 (+2)|12 (+1)|1 (-5)|7 (-2)|3 (-4)
+>
+>___
 >
 >**Sens** vision aveugle 9 m, Perception passive 8  
 >**Langues** —  
@@ -25385,9 +28329,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 4,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|15 (+2)|5 (-3)|13 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +5  
 >**Immunités** acide  
@@ -25421,9 +28369,13 @@ ___
 >**Points de vie** 123 (13d12 + 39)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|12 (+1)|17 (+3)|10 (+0)|16 (+3)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +6, Sag +6  
 >**Compétences** Persuasion +3, Discrétion +6  
@@ -25450,9 +28402,13 @@ ___
 >**Points de vie** 76 (9d10 + 27)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|16 (+3)|6 (-2)|16 (+3)|9 (-1)
+>
+>___
 >
 >**Compétences** Perception +7  
 >**Sens** vision dans le noir 18 m, Perception passive 17  
@@ -25482,9 +28438,13 @@ ___
 >**Points de vie** 18 (4d8)  
 >**Vitesse** 1,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|1 (-5)|10 (+0)|1 (-5)|3 (-4)|1 (-5)
+>
+>___
 >
 >**Immunités** aveuglé, assourdi, effrayé  
 >**Sens** vision aveugle 9 m (aveugle au-delà de ce rayon), Perception passive 6  
@@ -25512,9 +28472,13 @@ ___
 >**Points de vie** 253 (22d10 + 132)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|19 (+4)|22 (+6)|21 (+5)|18 (+4)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +11, Con +13, Sag +11, Cha +13  
 >**Compétences** Intimidation +13, Perception +11, Tromperie +13  
@@ -25557,9 +28521,13 @@ ___
 >**Points de vie** 253 (22d10 + 132)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|19 (+4)|22 (+6)|21 (+5)|18 (+4)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +11, Con +13, Sag +11, Cha +13  
 >**Compétences** Intimidation +13, Perception +11, Tromperie +13  
@@ -25605,9 +28573,13 @@ ___
 >**Points de vie** 5 (1d8 + 1)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|14 (+2)|12 (+1)|3 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -25634,9 +28606,13 @@ ___
 >**Points de vie** 44 (8d8 + 8)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|5 (-3)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +5, Discrétion +6  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques s'il est dans une lumière faible ou des ténèbres  
@@ -25667,9 +28643,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|5 (-3)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +5, Discrétion +6  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques s'il est dans une lumière faible ou des ténèbres  
@@ -25701,9 +28681,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|5 (-3)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +6  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques s'il est dans une lumière faible ou des ténèbres  
@@ -25735,9 +28719,13 @@ ___
 >**Points de vie** 216 (16d12 + 112)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|22 (+6)|25 (+7)|21 (+5)|24 (+7)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** For +16, Con +14, Sag +14, Cha +14  
 >**Compétences** Perception +21  
@@ -25777,9 +28765,13 @@ ___
 >**Points de vie** 216 (16d12 + 112)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|22 (+6)|25 (+7)|21 (+5)|24 (+7)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** For +16, Con +14, Sag +14, Cha +14  
 >**Compétences** Perception +21  
@@ -25819,9 +28811,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|8 (-1)|15 (+2)|6 (-2)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Sag +2  
 >**Vulnérabilités** feu  
@@ -25852,9 +28848,13 @@ ___
 >**Points de vie** 5 (1d8 + 1)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|12 (+1)|4 (-3)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Sens** vision véritable 36 m, Perception passive 10  
 >**Langues** modron  
@@ -25883,9 +28883,13 @@ ___
 >**Points de vie** 35 (10d8 - 10)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|9 (-1)|14 (+2)|13 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +5  
 >**Sens** vision dans le noir 36 m, Perception passive 13  
@@ -25915,9 +28919,13 @@ ___
 >**Points de vie** 35 (10d8 - 10)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|9 (-1)|14 (+2)|13 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +5  
 >**Sens** vision dans le noir 36 m, Perception passive 13  
@@ -25946,9 +28954,13 @@ ___
 >**Points de vie** 165 (22d10 + 44)  
 >**Vitesse** 7,50 m, nage 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|14 (+2)|20 (+5)|15 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Int +9, Sag +6  
 >**Compétences** Arcanes +9, Histoire +9, Perception +10, Discrétion +6  
@@ -25982,9 +28994,13 @@ ___
 >**Points de vie** 130 (20d8 + 40)  
 >**Vitesse** 7,50 m, nage 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|14 (+2)|20 (+5)|15 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Int +9, Sag +6  
 >**Compétences** Arcanes +9, Histoire +9, Perception +10, Discrétion +6  
@@ -26025,9 +29041,13 @@ ___
 >**Points de vie** 22 (3d10 + 6)  
 >**Vitesse** 6 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|9 (-1)|14 (+2)|3 (-4)|11 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -26054,9 +29074,13 @@ ___
 >**Points de vie** 55 (9d12 + 27)  
 >**Vitesse** 6 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|9 (-1)|16 (+3)|3 (-4)|11 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
@@ -26085,9 +29109,13 @@ ___
 >**Points de vie** 195 (23d10 + 69)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|16 (+3)|18 (+4)|13 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Con +8, Int +9  
 >**Compétences** Arcanes +9, Athlétisme +9, Perception +6, Discrétion +5  
@@ -26121,9 +29149,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -26150,9 +29182,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|12 (+1)|10 (+0)|13 (+1)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 36 m, Perception passive 11  
 >**Langues** —  
@@ -26182,9 +29218,13 @@ ___
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|10 (+0)|10 (+0)|8 (-1)|11 (+0)|5 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** —  
@@ -26213,9 +29253,13 @@ ___
 >**Points de vie** 60 (8d10 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|14 (+2)|13 (+1)|15 (+2)|10 (+0)
+>
+>___
 >
 >**Sens** vision dans le noir 36 m, Perception passive 12  
 >**Langues** —  
@@ -26248,9 +29292,13 @@ ___
 >**Points de vie** 190 (20d8 + 100)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|14 (+2)|21 (+5)|14 (+2)|15 (+2)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** For +11, Dex +7  
 >**Compétences** Perception +7  
@@ -26287,9 +29335,13 @@ ___
 >**Points de vie** 190 (20d8 + 100)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|14 (+2)|21 (+5)|14 (+2)|15 (+2)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** For +11, Dex +7  
 >**Compétences** Perception +7  
@@ -26326,9 +29378,13 @@ ___
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Con +5, Sag +5, Cha +6  
 >**Immunités** poison  
@@ -26363,9 +29419,13 @@ ___
 >**Points de vie** 127 (15d10 + 45)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +7, Int +7, Sag +8, Cha +8  
 >**Immunités** poison  
@@ -26402,9 +29462,13 @@ ___
 >**Points de vie** 58 (9d10 + 9)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|12 (+1)|15 (+2)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Immunités** poison  
 >**Immunités** charmé, épuisement, paralysé, empoisonné  
@@ -26442,9 +29506,13 @@ ___
 >**Points de vie** 203 (37d8 + 37)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|15 (+2)|12 (+1)|23 (+6)|18 (+4)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Int +12, Sag +10, Cha +11  
 >**Compétences** Arcanes +12, Histoire +12, Intuition +10, Perception +10, Tromperie +11  
@@ -26477,9 +29545,13 @@ ___
 >**Points de vie** 187 (34d8 + 34)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|15 (+2)|12 (+1)|23 (+6)|18 (+4)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Int +12, Sag +10, Cha +11  
 >**Compétences** Arcanes +12, Histoire +12, Intuition +10, Perception +10, Tromperie +11  
@@ -26509,9 +29581,13 @@ ___
 >**Points de vie** 184 (16d10 + 96)  
 >**Vitesse** 6 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Con +11, Int +9, Sag +6, Cha +7  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -26545,9 +29621,13 @@ ___
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|17 (+3)|16 (+3)|14 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +8, Cha +9  
 >**Compétences** Perception +12  
@@ -26584,9 +29664,13 @@ ___
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|17 (+3)|16 (+3)|14 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +8, Cha +9  
 >**Compétences** Perception +7  
@@ -26624,9 +29708,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|12 (+1)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +7, Sag +5  
 >**Compétences** Arcanes +7, Histoire +7  
@@ -26665,9 +29753,13 @@ ___
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|15 (+2)|16 (+3)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Arcanes +5, Religion +5  
 >**Sens** Perception passive 10  
@@ -26695,9 +29787,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +3  
 >**Résistances** nécrotique ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -26730,9 +29826,13 @@ ___
 >**Points de vie** 33 (6d6 + 12)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|14 (+2)|13 (+1)|12 (+1)|15 (+2)
+>
+>___
 >
 >**Compétences** Intimidation +4, Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -26764,9 +29864,13 @@ ___
 >**Points de vie** 7 (3d4)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|13 (+1)|10 (+0)|6 (-2)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
@@ -26794,9 +29898,13 @@ ___
 >**Points de vie** 7 (3d4)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|13 (+1)|10 (+0)|6 (-2)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
@@ -26824,9 +29932,13 @@ ___
 >**Points de vie** 33 (6d6 + 12)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|14 (+2)|13 (+1)|12 (+1)|15 (+2)
+>
+>___
 >
 >**Compétences** Intimidation +4, Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -26858,9 +29970,13 @@ ___
 >**Points de vie** 71 (11d8 + 22)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|14 (+2)|16 (+3)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +3  
 >**Compétences** Arcanes +5, Tromperie +6, Intimidation +6, Perception +3, Persuasion +6  
@@ -26896,9 +30012,13 @@ ___
 >**Points de vie** 71 (11d8 + 22)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|14 (+2)|16 (+3)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +3  
 >**Compétences** Arcanes +5, Tromperie +6, Intimidation +6, Perception +3, Persuasion +6  
@@ -26933,9 +30053,13 @@ ___
 >**Points de vie** 232 (15d20 + 75)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|7 (-2)|21 (+5)|3 (-4)|16 (+3)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Int +1, Sag +8, Cha +6  
 >**Sens** vision aveugle 36 m (aveugle au-delà de ce rayon), Perception passive 13  
@@ -26966,9 +30090,13 @@ ___
 >**Points de vie** 325 (21d20 + 105)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|7 (-2)|21 (+5)|3 (-4)|16 (+3)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Int +1, Sag +8, Cha +6  
 >**Sens** vision aveugle 36 m, Perception passive 13  
@@ -27001,9 +30129,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|15 (+2)|12 (+1)|10 (+0)|14 (+2)|9 (-1)
+>
+>___
 >
 >**Compétences** Acrobaties +4, Athlétisme +3, Perception +4  
 >**Sens** Perception passive 14  
@@ -27034,9 +30166,13 @@ ___
 >**Points de vie** 4 (1d6 + 1)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|13 (+1)|12 (+1)|4 (-3)|8 (-1)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +3  
 >**Vulnérabilités** feu  
@@ -27065,9 +30201,13 @@ ___
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|15 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +6  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
@@ -27099,9 +30239,13 @@ ___
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|15 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +6  
 >**Sens** vision dans le noir 18 m, Perception passive 9  
@@ -27135,9 +30279,13 @@ ___
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Compétences** Intuition +4, Persuasion +5, Tromperie +5  
 >**Sens** Perception passive 12  
@@ -27163,9 +30311,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|16 (+3)|13 (+1)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Arcanes +3, Discrétion +5, Intuition +4, Perception +2  
 >**Sens** vision véritable 36 m, Perception passive 12  
@@ -27196,9 +30348,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|13 (+1)|10 (+0)|1 (-5)|7 (-2)|1 (-5)
+>
+>___
 >
 >**Résistances** contondant, perforant, tranchant  
 >**Immunités** à terre, agrippé, charmé, effrayé, entravé, étourdi, paralysé, pétrifié  
@@ -27226,9 +30382,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 0 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|15 (+2)|10 (+0)|2 (-4)|12 (+1)|4 (-3)
+>
+>___
 >
 >**Résistances** contondant, perforant, tranchant  
 >**Immunités** à terre, agrippé, charmé, effrayé, entravé, étourdi, paralysé, pétrifié  
@@ -27258,9 +30418,13 @@ ___
 >**Points de vie** 24 (7d8 - 7)  
 >**Vitesse** 3 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|8 (-1)|3 (-4)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Résistances** contondant, perforant, tranchant  
@@ -27289,9 +30453,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|8 (-1)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Résistances** contondant, perforant, tranchant  
 >**Immunités** entravé  
@@ -27320,9 +30488,13 @@ ___
 >**Points de vie** 28 (8d8 - 8)  
 >**Vitesse** 0 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)
+>
+>___
 >
 >**Résistances** contondant, perforant, tranchant  
 >**Immunités** à terre, agrippé, charmé, effrayé, entravé, étourdi, paralysé, pétrifié  
@@ -27352,9 +30524,13 @@ ___
 >**Points de vie** 24 (7d8 - 7)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|11 (+0)|9 (-1)|2 (-4)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Résistances** contondant, perforant, tranchant  
 >**Immunités** à terre, agrippé, charmé, effrayé, entravé, étourdi, paralysé, pétrifié  
@@ -27383,9 +30559,13 @@ ___
 >**Points de vie** 76 (17d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|14 (+2)
+>
+>___
 >
 >**Résistances** contondant, perforant, tranchant  
 >**Immunités** charmé, effrayé, agrippé, paralysé, pétrifié, à terre, entravé, étourdi  
@@ -27417,9 +30597,13 @@ ___
 >**Points de vie** 36 (8d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|14 (+2)
+>
+>___
 >
 >**Résistances** contondant, perforant, tranchant  
 >**Immunités** charmé, effrayé, agrippé, paralysé, pétrifié, à terre, entravé, étourdi  
@@ -27453,9 +30637,13 @@ ___
 >**Points de vie** 36 (8d8)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|18 (+4)|11 (+0)|1 (-5)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Résistances** contondant, perforant, tranchant  
 >**Immunités** à terre, agrippé, charmé, effrayé, entravé, étourdi, paralysé, pétrifié  
@@ -27483,9 +30671,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 5 ft., climb 5 ft.
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|7 (-2)|10 (+0)|1 (-5)|2 (-4)|1 (-5)
+>
+>___
 >
 >**Résistances** perforant, tranchant  
 >**Immunités** à terre, agrippé, charmé, effrayé, entravé, paralysé, pétrifié  
@@ -27514,9 +30706,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 5 ft., climb 5 ft.
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|7 (-2)|10 (+0)|1 (-5)|2 (-4)|1 (-5)
+>
+>___
 >
 >**Résistances** perforant, tranchant  
 >**Immunités** à terre, agrippé, charmé, effrayé, entravé, paralysé, pétrifié  
@@ -27545,9 +30741,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|13 (+1)|3 (-4)|8 (-1)|1 (-5)
+>
+>___
 >
 >**Compétences** Perception +1  
 >**Résistances** acide, froid  
@@ -27580,9 +30780,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|13 (+1)|3 (-4)|8 (-1)|1 (-5)
+>
+>___
 >
 >**Compétences** Perception +1  
 >**Résistances** acide, froid ; contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -27613,9 +30817,13 @@ ___
 >**Points de vie** 123 (13d10 + 52)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|11 (+0)|19 (+4)|12 (+1)|10 (+0)|15 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +4, Intimidation +6, Perception +4  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -27652,9 +30860,13 @@ ___
 >**Points de vie** 10 + cinq fois votre niveau de barde  
 >**Vitesse** 9 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|16 (+3)|4 (-3)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Immunités** poison, psychique  
 >**Immunités** charmé, épuisement, empoisonné, effrayé  
@@ -27684,9 +30896,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|19 (+4)|16 (+3)|19 (+4)|12 (+1)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Int +7, Cha +5  
 >**Compétences** Tromperie +5, Perception +4, plus une des suivantes : Arcanes +7, Histoire +7, Nature +7 ou Religion +7  
@@ -27722,9 +30938,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|19 (+4)|16 (+3)|19 (+4)|12 (+1)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Int +7, Cha +5  
 >**Compétences** Tromperie +5, Perception +4, plus une des suivantes : Arcanes +7, Histoire +7, Nature +7 ou Religion +7  
@@ -27758,9 +30978,13 @@ ___
 >**Points de vie** 18 (4d4 + 8)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|16 (+3)|15 (+2)|14 (+2)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +4, Cha +2  
 >**Immunités** aveuglé, charmé, assourdi, épuisement, à terre  
@@ -27791,9 +31015,13 @@ ___
 >**Points de vie** 18 (4d4 + 8)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|16 (+3)|15 (+2)|14 (+2)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +4, Cha +2  
 >**Immunités** aveuglé, charmé, assourdi, épuisement, à terre  
@@ -27823,9 +31051,13 @@ ___
 >**Points de vie** 115 (10d12 + 50)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|21 (+5)|22 (+6)|13 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Int +10, Cha +8  
 >**Compétences** Arcanes +10, Tromperie +8, Histoire +10, Nature +10, Perception +5, Religion +10  
@@ -27861,9 +31093,13 @@ ___
 >**Points de vie** 115 (10d12 + 50)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|16 (+3)|21 (+5)|22 (+6)|13 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Int +10, Cha +8  
 >**Compétences** Arcanes +10, Tromperie +8, Histoire +10, Nature +10, Perception +5, Religion +10  
@@ -27898,9 +31134,13 @@ ___
 >**Points de vie** 67 (15d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|11 (+0)|11 (+0)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +3, Cha +6  
 >**Compétences** Arcanes +2, Tromperie +6, Nature +2, Persuasion +6  
@@ -27935,9 +31175,13 @@ ___
 >**Points de vie** 49 (11d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|13 (+1)|11 (+0)|11 (+0)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +3, Cha +6  
 >**Compétences** Arcanes +2, Tromperie +6, Nature +2, Persuasion +6  
@@ -27972,9 +31216,13 @@ ___
 >**Points de vie** 78 (12d8 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|16 (+3)|15 (+2)|12 (+1)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +4, Cha +7  
 >**Compétences** Arcanes +4, Persuasion +7, Religion +4, Tromperie +7  
@@ -28011,9 +31259,13 @@ ___
 >**Points de vie** 78 (12d8 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|15 (+2)|12 (+1)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +4, Cha +7  
 >**Compétences** Arcanes +4, Persuasion +7, Religion +4, Tromperie +7  
@@ -28049,9 +31301,13 @@ ___
 >**Points de vie** 91 (14d8 + 28)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|15 (+2)|12 (+1)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +4, Cha +7  
 >**Compétences** Arcanes +4, Histoire +4  
@@ -28087,9 +31343,13 @@ ___
 >**Points de vie** 91 (14d8 + 28)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|15 (+2)|12 (+1)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +4, Cha +7  
 >**Compétences** Arcanes +4, Histoire +4  
@@ -28125,9 +31385,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
@@ -28152,9 +31416,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
@@ -28181,9 +31449,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
@@ -28209,9 +31481,13 @@ ___
 >**Points de vie** 76 (9d10 + 27)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
@@ -28240,9 +31516,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
@@ -28269,9 +31549,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
@@ -28299,9 +31583,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
@@ -28328,9 +31616,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
@@ -28357,9 +31649,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|8 (-1)|16 (+3)|5 (-3)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** commun, géant  
@@ -28385,9 +31681,13 @@ ___
 >**Points de vie** 526 (27d20 + 243)  
 >**Vitesse** 15 m, creusement 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|11 (+0)|28 (+9)|11 (+0)|15 (+2)|22 (+6)
+>
+>___
 >
 >**Sauvegardes** For +14, Con +15, Sag +8  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -28414,9 +31714,13 @@ ___
 >**Points de vie** 119 (14d8 + 56)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|17 (+3)|18 (+4)|17 (+3)|16 (+3)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +7  
 >**Compétences** Tromperie +8, Intimidation +8, Perception +7  
@@ -28453,9 +31757,13 @@ ___
 >**Points de vie** 126 (12d10 + 60)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|17 (+3)|18 (+4)|17 (+3)|16 (+3)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +7  
 >**Compétences** Tromperie +8, Intimidation +8, Perception +7  
@@ -28493,9 +31801,13 @@ ___
 >**Points de vie** 324 (24d12 + 168)  
 >**Vitesse** 15 m, nage 30 ft.
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|22 (+6)|24 (+7)|17 (+3)|18 (+4)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** For +11, Con +13, Sag +10  
 >**Résistances** foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -28522,9 +31834,13 @@ ___
 >**Points de vie** 16 (3d8 + 3)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|13 (+1)|6 (-2)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +4 (ou +6 dans une lumière faible ou dans les ténèbres)  
 >**Vulnérabilités** radiant  
@@ -28557,9 +31873,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|14 (+2)|6 (-2)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +5 (+7 dans une lumière faible ou dans les ténèbres)  
 >**Vulnérabilités** radiant  
@@ -28594,9 +31914,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|16 (+3)|13 (+1)|6 (-2)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +5 (+7 dans une lumière faible ou dans les ténèbres)  
 >**Vulnérabilités** radiant  
@@ -28633,9 +31957,13 @@ ___
 >**Points de vie** 110 (13d10 + 39)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Con +6, Sag +4, Cha +5  
 >**Compétences** Arcanes +5, Perception +4, Tromperie +8  
@@ -28670,9 +31998,13 @@ ___
 >**Points de vie** 36 (8d6 + 8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|13 (+1)|11 (+0)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Cha +5  
 >**Compétences** Persuasion +5, Religion +3  
@@ -28699,9 +32031,13 @@ ___
 >**Points de vie** 15 (2d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|16 (+3)|7 (-2)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Intimidation +2  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -28729,9 +32065,13 @@ ___
 >**Points de vie** 93 (11d8 + 44)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|18 (+4)|11 (+0)|11 (+0)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** For +6, Con +6, Sag +2  
 >**Compétences** Intimidation +5  
@@ -28764,9 +32104,13 @@ ___
 >**Points de vie** 52 (8d8 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|15 (+2)|9 (-1)|11 (+0)|9 (-1)
+>
+>___
 >
 >**Compétences** Intimidation +1, Perception +2, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -28799,9 +32143,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Intimidation +2, Médecine +4, Survie +4  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -28834,9 +32182,13 @@ ___
 >**Points de vie** 60 (8d8 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|17 (+3)|10 (+0)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Sag +3  
 >**Compétences** Intimidation +4, Intuition +3, Perception +3  
@@ -28869,9 +32221,13 @@ ___
 >**Points de vie** 30 (4d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|11 (+0)|16 (+3)|11 (+0)|14 (+2)|9 (-1)
+>
+>___
 >
 >**Compétences** Arcanes +2, Intimidation +1, Médecine +4, Religion +2  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -28902,9 +32258,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|16 (+3)|9 (-1)|13 (+1)|12 (+1)
+>
+>___
 >
 >**Compétences** Intimidation +3, Religion +1  
 >**Sens** vision dans le noir 18 m, Perception passive 11  
@@ -28932,9 +32292,13 @@ ___
 >**Points de vie** 405 (30d12 + 210)  
 >**Vitesse** 12 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|14 (+2)|25 (+7)|20 (+5)|20 (+5)|25 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +10, Con +15, Sag +13  
 >**Compétences** Arcanes +12, Perception +12  
@@ -28976,9 +32340,13 @@ ___
 >**Points de vie** 405 (30d12 + 210)  
 >**Vitesse** 12 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|14 (+2)|25 (+7)|20 (+5)|20 (+5)|25 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +10, Con +15, Sag + 13  
 >**Compétences** Arcanes +12, Perception +12  
@@ -29023,9 +32391,13 @@ ___
 >**Points de vie** 42 (5d8 + 20)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|18 (+4)|12 (+1)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Compétences** Intimidation +5, Survie +2  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -29055,9 +32427,13 @@ ___
 >**Points de vie** 105 (10d10 + 50)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|16 (+3)|21 (+5)|15 (+2)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +9, Sag +6  
 >**Compétences** Perception +10, Discrétion +11, Survie +10  
@@ -29092,9 +32468,13 @@ ___
 >**Points de vie** 105 (10d10 + 50)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|16 (+3)|21 (+5)|15 (+2)|15 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +9, Sag +6  
 >**Compétences** Perception +10, Discrétion +11, Survie +10  
@@ -29128,9 +32508,13 @@ ___
 >**Points de vie** 114 (12d10 + 48)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|19 (+4)|6 (-2)|13 (+1)|6 (-2)
+>
+>___
 >
 >**Sauvegardes** Con +7  
 >**Sens** vision dans le noir 36 m, Perception passive 11  
@@ -29160,9 +32544,13 @@ ___
 >**Points de vie** 34 (4d10 + 12)  
 >**Vitesse** 12 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|16 (+3)|2 (-4)|13 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -29191,9 +32579,13 @@ ___
 >**Points de vie** 135 (18d8 + 54)  
 >**Vitesse** 9 m (12 m, escalade 9 m sous forme hybride et sous forme d'ours)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|17 (+3)|11 (+0)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Compétences** Perception +7  
 >**Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -29225,9 +32617,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|17 (+3)|3 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -29256,9 +32652,13 @@ ___
 >**Points de vie** 19 (3d8 + 6)  
 >**Vitesse** 12 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|14 (+2)|2 (-4)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -29287,9 +32687,13 @@ ___
 >**Points de vie** 42 (5d10 + 15)  
 >**Vitesse** 12 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|10 (+0)|16 (+3)|2 (-4)|13 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -29318,9 +32722,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|13 (+1)|2 (-4)|13 (+1)|6 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
@@ -29348,9 +32756,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 15 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|10 (+0)|3 (-4)|14 (+2)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +6, Perception +4  
 >**Sens** Perception passive 14  
@@ -29379,9 +32791,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 3 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|10 (+0)|10 (+0)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -29406,9 +32822,13 @@ ___
 >**Points de vie** 59 (7d10 + 21)  
 >**Vitesse** 18 m, vol 27 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Sag +4, Cha +3  
 >**Compétences** Perception +6  
@@ -29434,9 +32854,13 @@ ___
 >**Points de vie** 32 (5d10 + 5)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|13 (+1)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** vision véritable 36 m, Perception passive 14  
@@ -29467,9 +32891,13 @@ ___
 >**Points de vie** 22 (3d8 + 9)  
 >**Vitesse** 1,50 m, escalade 1,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|16 (+3)|1 (-5)|7 (-2)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +5  
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 8  
@@ -29498,9 +32926,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 6 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|13 (+1)|9 (-1)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -29533,9 +32965,13 @@ ___
 >**Points de vie** 19 (3d8 + 4)  
 >**Vitesse** 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|5 (-3)|14 (+2)|5 (-3)|8 (-1)|7 (-2)
+>
+>___
 >
 >**Vulnérabilités** contondant  
 >**Immunités** poison  
@@ -29567,9 +33003,13 @@ ___
 >**Points de vie** 19 (3d8 + 4)  
 >**Vitesse** 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|5 (-3)|14 (+2)|5 (-3)|8 (-1)|7 (-2)
+>
+>___
 >
 >**Vulnérabilités** contondant  
 >**Immunités** poison  
@@ -29599,9 +33039,13 @@ ___
 >**Points de vie** 175 (10d20 + 70)  
 >**Vitesse** 6 m, vol 36 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|26 (+8)|25 (+7)|2 (-4)|21 (+5)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +10, Cha +9  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -29642,9 +33086,13 @@ ___
 >**Points de vie** 175 (10d20 + 70)  
 >**Vitesse** 6 m, vol 36 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|26 (+8)|25 (+7)|2 (-4)|21 (+5)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +10, Cha +9  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -29684,9 +33132,13 @@ ___
 >**Points de vie** 9 (2d8)  
 >**Vitesse** 6 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|11 (+0)|3 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
@@ -29713,9 +33165,13 @@ ___
 >**Points de vie** 68 (8d10 + 24)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|17 (+3)|2 (-4)|13 (+1)|4 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +2  
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 11  
@@ -29744,9 +33200,13 @@ ___
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 3 m, escalade 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|17 (+3)|2 (-4)|13 (+1)|4 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +2  
 >**Sens** vision aveugle 9 m, vision dans le noir 18 m, Perception passive 11  
@@ -29775,9 +33235,13 @@ ___
 >**Points de vie** 3 (1d6)  
 >**Vitesse** 1,50 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|15 (+2)|11 (+0)|3 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +2  
 >**Sens** vision dans le noir 9 m, Perception passive 12  
@@ -29807,9 +33271,13 @@ ___
 >**Points de vie** 52 (8d10 + 8)  
 >**Vitesse** 3 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|13 (+1)|13 (+1)|4 (-3)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +5, Perception +4  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
@@ -29839,9 +33307,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 0 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|16 (+3)|9 (-1)|1 (-5)|7 (-2)|2 (-4)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** —  
@@ -29868,9 +33340,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 3 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|20 (+5)|8 (-1)|10 (+0)|14 (+2)|15 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +7, Perception +4  
 >**Sens** Perception passive 14  
@@ -29900,9 +33376,13 @@ ___
 >**Points de vie** 200 (16d10 + 112)  
 >**Vitesse** 12 m, vol 36 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|20 (+5)|24 (+7)|19 (+4)|22 (+6)|25 (+7)
+>
+>___
 >
 >**Sauvegardes** Con +12, Sag +11, Cha +12  
 >**Compétences** Perception +11  
@@ -29940,9 +33420,13 @@ ___
 >**Points de vie** 68 (8d10 + 24)  
 >**Vitesse** 6 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +3  
 >**Sens** Perception passive 13  
@@ -29969,9 +33453,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|13 (+1)|10 (+0)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Immunités** effrayé  
 >**Sens** Perception passive 11  
@@ -30001,9 +33489,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|13 (+1)|2 (-4)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -30027,9 +33519,13 @@ ___
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|5 (-3)|16 (+3)|1 (-5)|6 (-2)|1 (-5)
+>
+>___
 >
 >**Immunités** acide, froid, foudre, tranchant  
 >**Immunités** aveuglé, charmé, assourdi, épuisement, effrayé, à terre  
@@ -30060,9 +33556,13 @@ ___
 >**Points de vie** 207 (18d10 + 108)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|17 (+3)|22 (+6)|4 (-3)|14 (+2)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +7, Discrétion +8, Survie +7  
 >**Résistances** froid, foudre, nécrotique, tonnerre  
@@ -30098,9 +33598,13 @@ ___
 >**Points de vie** 207 (18d10 + 108)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|17 (+3)|22 (+6)|4 (-3)|14 (+2)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +7, Discrétion +8, Survie +7  
 >**Résistances** froid, foudre, nécrotique, tonnerre  
@@ -30135,9 +33639,13 @@ ___
 >**Points de vie** 10 (3d4 + 3)  
 >**Vitesse** 36 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|23 (+6)|13 (+1)|10 (+0)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Acrobaties +8, Escamotage +8, Discrétion +8, Perception +5  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
@@ -30167,9 +33675,13 @@ ___
 >**Points de vie** 10 (3d4 + 3)  
 >**Vitesse** 36 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|23 (+6)|13 (+1)|10 (+0)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Acrobaties +8, Escamotage +8, Discrétion +8, Perception +5  
 >**Sens** vision dans le noir 18 m, Perception passive 15  
@@ -30199,9 +33711,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)
+>
+>___
 >
 >**Compétences** Médecine +7, Persuasion +3, Religion +5  
 >**Sens** Perception passive 13  
@@ -30232,9 +33748,13 @@ ___
 >**Points de vie** 117 (18d8 + 36)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|14 (+2)|11 (+0)|17 (+3)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Con +6, Sag +7  
 >**Compétences** Intimidation +5, Religion +4  
@@ -30268,9 +33788,13 @@ ___
 >**Points de vie** 117 (18d8 + 36)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|10 (+0)|14 (+2)|11 (+0)|17 (+3)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Con +6, Sag +7  
 >**Compétences** Intimidation +5, Religion +4  
@@ -30306,9 +33830,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|16 (+3)|10 (+0)|15 (+2)|14 (+2)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Sens** Perception passive 15  
@@ -30344,9 +33872,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|16 (+3)|10 (+0)|15 (+2)|14 (+2)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -30379,9 +33911,13 @@ ___
 >**Points de vie** 75 (10d8 + 30)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|10 (+0)|16 (+3)|14 (+2)|17 (+3)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +6, Sag +6  
 >**Compétences** Medicine +6, Religion +5  
@@ -30407,9 +33943,13 @@ ___
 >**Points de vie** 7 (2d4 + 2)  
 >**Vitesse** 4,50 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +3  
 >**Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13  
@@ -30439,9 +33979,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 3 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|10 (+0)|2 (-4)|9 (-1)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +1  
 >**Sens** Perception passive 11  
@@ -30468,9 +34012,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** vision véritable 36 m, Perception passive 12  
@@ -30501,9 +34049,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|16 (+3)|6 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Athlétisme +5  
 >**Immunités** poison  
@@ -30534,9 +34086,13 @@ ___
 >**Points de vie** 45 (6d8 + 18)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|16 (+3)|2 (-4)|6 (-2)|1 (-5)
+>
+>___
 >
 >**Immunités** poison  
 >**Immunités** aveuglé, charmé, effrayé, paralysé, empoisonné  
@@ -30564,9 +34120,13 @@ ___
 >**Points de vie** 7 (3d4)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|17 (+3)|10 (+0)|7 (-2)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +5  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -30599,9 +34159,13 @@ ___
 >**Points de vie** 30 (4d12 + 4)  
 >**Vitesse** 3 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** Perception passive 12  
@@ -30629,9 +34193,13 @@ ___
 >**Points de vie** 30 (4d12 + 4)  
 >**Vitesse** 3 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|13 (+1)|2 (-4)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** Perception passive 12  
@@ -30660,9 +34228,13 @@ ___
 >**Points de vie** 105 (14d8 + 42)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|11 (+0)|17 (+3)|12 (+1)|14 (+2)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Con +6, Sag +5  
 >**Compétences** Perception +5  
@@ -30697,9 +34269,13 @@ ___
 >**Points de vie** 16 (3d8 + 3)  
 >**Vitesse** 0 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|12 (+1)|1 (-5)|12 (+1)|4 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 11  
 >**Langues** —  
@@ -30728,9 +34304,13 @@ ___
 >**Points de vie** 110 (13d8 + 52)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|20 (+5)
+>
+>___
 >
 >**Compétences** Intuition +8, Tromperie +10  
 >**Vulnérabilités** perforant d'armes magiques maniées par une créature bonne  
@@ -30763,9 +34343,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|11 (+0)|9 (-1)|2 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** —  
@@ -30791,9 +34375,13 @@ ___
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|14 (+2)|10 (+0)|4 (-3)|11 (+0)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** télépathie 9 m  
@@ -30821,9 +34409,13 @@ ___
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|14 (+2)|10 (+0)|4 (-3)|11 (+0)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** télépathie 9 m  
@@ -30851,9 +34443,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +2  
 >**Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -30885,9 +34481,13 @@ ___
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|11 (+0)|2 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
@@ -30914,9 +34514,13 @@ ___
 >**Points de vie** 76 (9d8 + 36)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|18 (+4)|5 (-3)|7 (-2)|3 (-4)
+>
+>___
 >
 >**Sauvegardes** Sag +1  
 >**Immunités** poison  
@@ -30950,9 +34554,13 @@ ___
 >**Points de vie** 76 (9d8 + 36)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|11 (+0)|18 (+4)|5 (-3)|7 (-2)|3 (-4)
+>
+>___
 >
 >**Sauvegardes** Sag +1  
 >**Immunités** poison  
@@ -30985,9 +34593,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 6 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|8 (-1)|15 (+2)|6 (-2)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend l'aquatique et le commun mais ne peut pas parler  
@@ -31016,9 +34628,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 6 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|8 (-1)|15 (+2)|6 (-2)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Sens** vision dans le noir 36 m, Perception passive 10  
 >**Langues** comprend l'aquatique et le commun mais ne peut pas parler  
@@ -31050,9 +34666,13 @@ ___
 >**Points de vie** 136 (13d10 + 65)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|8 (-1)|21 (+5)|7 (-2)|12 (+1)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Sag +5  
 >**Compétences** Perception +5  
@@ -31085,9 +34705,13 @@ ___
 >**Points de vie** 136 (13d10 + 65)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|8 (-1)|21 (+5)|7 (-2)|12 (+1)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +3, Sag +5  
 >**Compétences** Perception +5  
@@ -31119,9 +34743,13 @@ ___
 >**Points de vie** 17 (5d6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|13 (+1)|10 (+0)|9 (-1)|11 (+0)|6 (-2)
+>
+>___
 >
 >**Immunités** psychique  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -31149,9 +34777,13 @@ ___
 >**Points de vie** 17 (5d6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|13 (+1)|10 (+0)|9 (-1)|11 (+0)|6 (-2)
+>
+>___
 >
 >**Immunités** psychique  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -31178,9 +34810,13 @@ ___
 >**Points de vie** 168 (16d8 + 96)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|23 (+6)|18 (+4)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Sag +6, Cha +8  
 >**Compétences** Perception +6  
@@ -31220,9 +34856,13 @@ ___
 >**Points de vie** 168 (16d8 + 96)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|23 (+6)|18 (+4)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Sag +6, Cha +8  
 >**Compétences** Perception +6  
@@ -31259,9 +34899,13 @@ ___
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|18 (+4)|12 (+1)|11 (+0)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +4  
 >**Compétences** Discrétion +7  
@@ -31296,9 +34940,13 @@ ___
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|18 (+4)|12 (+1)|11 (+0)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Con +4  
 >**Compétences** Discrétion +7  
@@ -31332,9 +34980,13 @@ ___
 >**Points de vie** 153 (18d8 + 72)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|18 (+4)|22 (+6)|19 (+4)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Int +11, Sag +9, Cha +8  
 >**Compétences** Perception +9  
@@ -31370,9 +35022,13 @@ ___
 >**Points de vie** 153 (18d8 + 72)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|12 (+1)|18 (+4)|22 (+6)|19 (+4)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Int +11, Sag +9, Cha +8  
 >**Compétences** Perception +9  
@@ -31407,9 +35063,13 @@ ___
 >**Points de vie** 195 (17d12 + 85)  
 >**Vitesse** 9 m, creusement 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|13 (+1)|21 (+5)|4 (-3)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Immunités** feu, froid  
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 10  
@@ -31437,9 +35097,13 @@ ___
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 9 m, creusement 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|17 (+3)|3 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Immunités** froid, feu  
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 10  
@@ -31467,9 +35131,13 @@ ___
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 9 m, creusement 1,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|16 (+3)|11 (+0)|3 (-4)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -31498,9 +35166,13 @@ ___
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 0 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|15 (+2)|1 (-5)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** vision aveugle 9 m, Perception passive 12  
@@ -31528,9 +35200,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 0 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|13 (+1)|13 (+1)|1 (-5)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** vision aveugle 9 m, Perception passive 12  
@@ -31558,9 +35234,13 @@ ___
 >**Points de vie** 126 (11d12 + 55)  
 >**Vitesse** 0 m, nage 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|11 (+0)|21 (+5)|1 (-5)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** vision aveugle 18 m, Perception passive 13  
@@ -31588,9 +35268,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|12 (+1)|13 (+1)|4 (-3)|8 (-1)|3 (-4)
+>
+>___
 >
 >**Immunités** aveuglé, assourdi  
 >**Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 9  
@@ -31617,9 +35301,13 @@ ___
 >**Points de vie** 136 (16d8 + 64)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|13 (+1)|16 (+3)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** For +7, Con +7, Sag +6, Cha +7  
 >**Résistances** nécrotique, psychique  
@@ -31655,9 +35343,13 @@ ___
 >**Points de vie** 45 (6d10 + 12)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|21 (+5)|8 (-1)|15 (+2)|2 (-4)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Sens** Perception passive 11  
 >**Langues** —  
@@ -31683,9 +35375,13 @@ ___
 >**Points de vie** 248 (16d20 + 80)  
 >**Vitesse** 6 m, vol 36 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|10 (+0)|20 (+5)|3 (-4)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +9, Sag +4, Cha +3  
 >**Compétences** Perception +4  
@@ -31715,9 +35411,13 @@ ___
 >**Points de vie** 78 (12d8 + 24)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|12 (+1)|15 (+2)|11 (+0)|11 (+0)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Con +4, Sag +2  
 >**Compétences** Discrétion +5, Perception +4, Survie +4  
@@ -31751,9 +35451,13 @@ ___
 >**Points de vie** 15 (2d10 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 9 m, Perception passive 10  
 >**Langues** —  
@@ -31780,9 +35484,13 @@ ___
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
@@ -31810,9 +35518,13 @@ ___
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|14 (+2)|2 (-4)|10 (+0)|4 (-3)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 10  
 >**Langues** —  
@@ -31840,9 +35552,13 @@ ___
 >**Points de vie** 4 (1d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** une langue au choix (généralement le commun)  
@@ -31866,9 +35582,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Persuasion +4, Religion +2, Tromperie +4  
 >**Sens** Perception passive 11  
@@ -31901,9 +35621,13 @@ ___
 >**Points de vie** 37 (5d8 + 15)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|17 (+3)|5 (-3)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -31933,9 +35657,13 @@ ___
 >**Points de vie** 37 (5d8 + 15)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|15 (+2)|17 (+3)|5 (-3)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -31964,9 +35692,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|10 (+0)|10 (+0)|18 (+4)|15 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Arcanes +8, Histoire +8, Intuition +4, Investigation +8, Médecine +6, Nature +8, Religion +8  
 >**Sens** Perception passive 12  
@@ -31999,9 +35731,13 @@ ___
 >**Points de vie** 54 (12d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|10 (+0)|10 (+0)|20 (+5)|18 (+4)|11 (+0)
+>
+>___
 >
 >**Compétences** Arcanes +11, Histoire +11, Intuition +7, Investigation +11, Médecine +10, Nature +11, Religion +11  
 >**Sens** Perception passive 14  
@@ -32035,9 +35771,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|12 (+1)|13 (+1)|9 (-1)
+>
+>___
 >
 >**Compétences** Perception +5  
 >**Sens** vision dans le noir 36 m, Perception passive 15  
@@ -32069,9 +35809,13 @@ ___
 >**Points de vie** 76 (9d10 + 27)  
 >**Vitesse** 9 m, nage 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|15 (+2)|16 (+3)|14 (+2)|13 (+1)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Con +6, Int +5, Sag +4  
 >**Compétences** Perception +7  
@@ -32105,9 +35849,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|12 (+1)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Compétences** Perception +6, Religion +3  
 >**Sens** vision dans le noir 36 m, Perception passive 16  
@@ -32143,9 +35891,13 @@ ___
 >**Points de vie** 90 (12d10 + 24)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|11 (+0)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Vulnérabilités** froid  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -32177,9 +35929,13 @@ ___
 >**Points de vie** 168 (16d12 + 64)  
 >**Vitesse** 18 m, creusement 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|18 (+4)|7 (-2)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +4  
 >**Compétences** Perception +4  
@@ -32213,9 +35969,13 @@ ___
 >**Points de vie** 168 (16d12 + 64)  
 >**Vitesse** 18 m, creusement 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|12 (+1)|18 (+4)|7 (-2)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +4  
 >**Compétences** Perception +4  
@@ -32248,9 +36008,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|2 (-4)|9 (-1)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 9  
 >**Langues** —  
@@ -32277,9 +36041,13 @@ ___
 >**Points de vie** 78 (12d8 + 24)  
 >**Vitesse** 9 m (12 m sous forme de sanglier)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|15 (+2)|10 (+0)|11 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -32311,9 +36079,13 @@ ___
 >**Points de vie** 42 (5d10 + 15)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|16 (+3)|2 (-4)|7 (-2)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 8  
 >**Langues** —  
@@ -32340,9 +36112,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +3  
 >**Compétences** Arcanes +5, Histoire +5  
@@ -32373,9 +36149,13 @@ ___
 >**Points de vie** 31 (7d8)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +5, Perception +2, Représentation +6  
 >**Sens** Perception passive 12  
@@ -32404,9 +36184,13 @@ ___
 >**Points de vie** 4 (1d6 + 1)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|10 (+0)|12 (+1)|1 (-5)|7 (-2)|3 (-4)
+>
+>___
 >
 >**Sens** vision aveugle 9 m, Perception passive 8  
 >**Langues** —  
@@ -32432,9 +36216,13 @@ ___
 >**Points de vie** 7 (3d4)  
 >**Vitesse** 6 m, creusement 6 m, vol 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|16 (+3)|11 (+0)|3 (-4)|8 (-1)|6 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 9  
 >**Langues** -  
@@ -32458,9 +36246,13 @@ ___
 >**Points de vie** 1 (1d4 - 1)  
 >**Vitesse** 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|11 (+0)|8 (-1)|1 (-5)|8 (-1)|2 (-4)
+>
+>___
 >
 >**Sens** vision aveugle 3 m, Perception passive 9  
 >**Langues** —  
@@ -32484,9 +36276,13 @@ ___
 >**Points de vie** 52 (7d10 + 14)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|13 (+1)|15 (+2)|1 (-5)|9 (-1)|3 (-4)
+>
+>___
 >
 >**Sens** vision aveugle 18 m, Perception passive 9  
 >**Langues** —  
@@ -32512,9 +36308,13 @@ ___
 >**Points de vie** 229 (27d8 + 108)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|16 (+3)|18 (+4)|12 (+1)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** For +9, Dex +7, Con +8  
 >**Compétences** Athlétisme +9, Intimidation +8, Perception +5, Persuasion +8  
@@ -32550,9 +36350,13 @@ ___
 >**Points de vie** 229 (27d8 + 108)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|16 (+3)|18 (+4)|12 (+1)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** For +9, Dex +7, Con +8  
 >**Compétences** Athlétisme +9, Intimidation +8, Perception +5, Persuasion +8  
@@ -32587,9 +36391,13 @@ ___
 >**Points de vie** 112 (15d8 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|21 (+5)
+>
+>___
 >
 >**Compétences** Athlétisme +7, Histoire +8, Perception +12, Discrétion +8  
 >**Résistances** froid, nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
@@ -32629,9 +36437,13 @@ ___
 >**Points de vie** 105 (14d8 + 42)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|17 (+3)|16 (+3)|15 (+2)|21 (+5)
+>
+>___
 >
 >**Compétences** Athlétisme +7, Histoire +8, Perception +12, Discrétion +8  
 >**Résistances** froid, nécrotique ; contondant, perforant et tranchant d'attaques non magiques  
@@ -32669,9 +36481,13 @@ ___
 >**Points de vie** 97 (13d8 + 39)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|10 (+0)|17 (+3)|11 (+0)|18 (+4)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +8, Int +5, Sag +9, Cha +8  
 >**Compétences** Histoire +5, Religion +5  
@@ -32717,9 +36533,13 @@ ___
 >**Points de vie** 228 (24d8 + 120)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|11 (+0)|20 (+5)|12 (+1)|16 (+3)|20 (+5)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Sag +9, Cha +11  
 >**Immunités** nécrotique, poison  
@@ -32759,9 +36579,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m (3 m, nage 9 m sous forme hybride ; 3 m, nage 12 m sous forme de phoque)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|16 (+3)|12 (+1)|11 (+0)|10 (+0)|18 (+4)
+>
+>___
 >
 >**Compétences** Acrobaties +4, Nature +2  
 >**Sens** Perception passive 12  
@@ -32795,9 +36619,13 @@ ___
 >**Points de vie** 58 (9d10 + 9)  
 >**Vitesse** 0 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|16 (+3)|13 (+1)|11 (+0)|10 (+0)|10 (+0)
+>
+>___
 >
 >**Résistances** feu ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** poison  
@@ -32828,9 +36656,13 @@ ___
 >**Points de vie** 13 (2d10 + 2)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Sens** vision aveugle 3 m, Perception passive 10  
 >**Langues** —  
@@ -32855,9 +36687,13 @@ ___
 >**Points de vie** 60 (8d12 + 8)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|12 (+1)|1 (-5)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** vision aveugle 3 m, Perception passive 12  
@@ -32883,9 +36719,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|14 (+2)|11 (+0)|7 (-2)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Vulnérabilités** froid  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -32917,9 +36757,13 @@ ___
 >**Points de vie** 170 (11d20 + 55)  
 >**Vitesse** 6 m, nage 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|15 (+2)|20 (+5)|13 (+1)|16 (+3)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** For +12, Con +10  
 >**Compétences** Perception +8, Discrétion +7  
@@ -32946,9 +36790,13 @@ ___
 >**Points de vie** 123 (13d12 + 39)  
 >**Vitesse** 3 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|12 (+1)|17 (+3)|11 (+0)|13 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** For +7, Con +6  
 >**Compétences** Perception +4, Discrétion +4  
@@ -32975,9 +36823,13 @@ ___
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2 (-4)|16 (+3)|11 (+0)|1 (-5)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Sens** vision aveugle 3 m, Perception passive 10  
 >**Langues** —  
@@ -33001,9 +36853,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|18 (+4)|13 (+1)|2 (-4)|10 (+0)|3 (-4)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** vision aveugle 3 m, Perception passive 12  
@@ -33028,9 +36884,13 @@ ___
 >**Points de vie** 5 (2d4)  
 >**Vitesse** 9 m, nage 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|18 (+4)|11 (+0)|2 (-4)|12 (+1)|5 (-3)
+>
+>___
 >
 >**Sens** vision aveugle 3 m, Perception passive 11  
 >**Langues** —  
@@ -33056,9 +36916,13 @@ ___
 >**Points de vie** 310 (27d12 + 135)  
 >**Vitesse** 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|14 (+2)|20 (+5)|1 (-5)|14 (+2)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Sag +9, Cha +7  
 >**Compétences** Perception +9  
@@ -33094,9 +36958,13 @@ ___
 >**Points de vie** 1 + votre modificateur d'Intelligence + votre niveau d'artificier (l'homoncule a un nombre de Dés de vie \[d4\] égal à votre niveau d'artificier)  
 >**Vitesse** 6 m, vol 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|15 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)
+>
+>___
 >
 >**Sauvegardes** Dex +2 plus BM  
 >**Compétences** Perception +0 plus BM x 2, Discrétion +2 plus BM  
@@ -33129,9 +36997,13 @@ ___
 >**Points de vie** 10 (4d4)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|16 (+3)|10 (+0)|2 (-4)|10 (+0)|1 (-5)
+>
+>___
 >
 >**Immunités** poison, psychique  
 >**Immunités** aveuglé, charmé, assourdi, épuisement, effrayé, paralysé, pétrifié, empoisonné  
@@ -33159,9 +37031,13 @@ ___
 >**Points de vie** 136 (21d8 + 42)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|14 (+2)|19 (+4)|15 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Sag +7, Cha +5  
 >**Compétences** Perception +7  
@@ -33198,9 +37074,13 @@ ___
 >**Points de vie** 123 (19d8 + 38)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|14 (+2)|19 (+4)|15 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +7, Sag +7, Cha +5  
 >**Compétences** Perception +7  
@@ -33236,9 +37116,13 @@ ___
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|13 (+1)|11 (+0)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Cha +4  
 >**Compétences** Discrétion +6  
@@ -33271,9 +37155,13 @@ ___
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|16 (+3)|13 (+1)|11 (+0)|12 (+1)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Cha +4  
 >**Compétences** Discrétion +6  
@@ -33305,9 +37193,13 @@ ___
 >**Points de vie** 104 (16d8 + 32)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|14 (+2)|15 (+2)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +6  
 >**Immunités** nécrotique  
@@ -33341,9 +37233,13 @@ ___
 >**Points de vie** 104 (16d8 + 32)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|18 (+4)|14 (+2)|15 (+2)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +8, Con +6  
 >**Immunités** nécrotique  
@@ -33377,9 +37273,13 @@ ___
 >**Points de vie** 136 (16d10 + 48)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|17 (+3)|7 (-2)|14 (+2)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +6, Sag +5  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -33412,9 +37312,13 @@ ___
 >**Points de vie** 110 (13d10 + 39)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|17 (+3)|7 (-2)|14 (+2)|9 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +4, Con +6, Sag +5  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -33447,9 +37351,13 @@ ___
 >**Points de vie** 150 (12d12 + 72)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|3 (-4)|23 (+6)|25 (+7)|24 (+7)|25 (+7)
+>
+>___
 >
 >**Sauvegardes** Int +13, Cha +13  
 >**Compétences** Arcanes +13, Histoire +13, Perception +13  
@@ -33490,9 +37398,13 @@ ___
 >**Points de vie** 150 (12d12 + 72)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|3 (-4)|23 (+6)|25 (+7)|24 (+7)|25 (+7)
+>
+>___
 >
 >**Sauvegardes** Int +13, Cha +13  
 >**Compétences** Arcanes +13, Histoire +13, Perception +13  
@@ -33536,9 +37448,13 @@ ___
 >**Points de vie** 157 (15d12 + 60)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|14 (+2)|18 (+4)|7 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Athlétisme +9, Perception +4  
 >**Sens** Perception passive 14  
@@ -33565,9 +37481,13 @@ ___
 >**Points de vie** 123 (13d10 + 52)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|18 (+4)|7 (-2)|7 (-2)|9 (-1)
+>
+>___
 >
 >**Compétences** Perception +1  
 >**Résistances** acide, froid, feu, foudre, tonnerre  
@@ -33599,9 +37519,13 @@ ___
 >**Points de vie** 170 (20d8 + 80)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|15 (+2)|19 (+4)|15 (+2)|10 (+0)|16 (+3)
+>
+>___
 >
 >**Compétences** Arcanes + 6, Perception +8  
 >**Résistances** acide, froid, feu, foudre, tonnerre  
@@ -33640,9 +37564,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|17 (+3)|16 (+3)|13 (+1)|8 (-1)|14 (+2)
+>
+>___
 >
 >**Compétences** Arcanes + 5, Perception +7  
 >**Résistances** acide, froid, feu, foudre, tonnerre  
@@ -33681,9 +37609,13 @@ ___
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|16 (+3)|6 (-2)|6 (-2)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +1  
 >**Résistances** acide, froid, feu, foudre, tonnerre  
@@ -33715,9 +37647,13 @@ ___
 >**Points de vie** 10 (4d4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|10 (+0)|3 (-4)|5 (-3)|3 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +4  
 >**Résistances** acide, froid, feu, foudre, tonnerre  
@@ -33746,9 +37682,13 @@ ___
 >**Points de vie** 127 (15d10 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|16 (+3)|11 (+0)|8 (-1)|12 (+1)
+>
+>___
 >
 >**Compétences** Arcanes + 3, Perception +2  
 >**Résistances** acide, froid, feu, foudre, tonnerre  
@@ -33787,9 +37727,13 @@ ___
 >**Points de vie** 243 (18d10 + 144)  
 >**Vitesse** 15 m, vol 45 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|26 (+8)|22 (+6)|26 (+8)|25 (+7)|25 (+7)|30 (+10)
+>
+>___
 >
 >**Sauvegardes** Int +14, Sag +14, Cha +17  
 >**Compétences** Perception +14  
@@ -33833,9 +37777,13 @@ ___
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|12 (+1)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Acrobaties +5, Tromperie +2, Perception +5, Discrétion +7  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15  
@@ -33864,9 +37812,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|17 (+3)|12 (+1)|10 (+0)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Compétences** Acrobaties +5, Tromperie +3, Perception +6, Discrétion +7  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
@@ -33896,9 +37848,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|17 (+3)|12 (+1)|10 (+0)|14 (+2)|13 (+1)
+>
+>___
 >
 >**Compétences** Acrobaties +5, Tromperie +3, Perception +6, Discrétion +7  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16  
@@ -33928,9 +37884,13 @@ ___
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|16 (+3)|12 (+1)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Acrobaties +5, Tromperie +2, Perception +5, Discrétion +7  
 >**Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15  
@@ -33959,9 +37919,13 @@ ___
 >**Points de vie** 36 (8d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|10 (+0)|14 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +4, Cha +5  
 >**Compétences** Arcanes +4, Histoire +4  
@@ -33997,9 +37961,13 @@ ___
 >**Points de vie** 110 (20d8 + 20)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|12 (+1)|15 (+2)|12 (+1)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +5, Cha +6  
 >**Compétences** Arcanes +5, Histoire +5, Perception +4  
@@ -34036,9 +38004,13 @@ ___
 >**Points de vie** 110 (20d8 + 20)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|16 (+3)|12 (+1)|15 (+2)|12 (+1)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +5, Cha +6  
 >**Compétences** Arcanes +5, Histoire +5, Perception +4  
@@ -34072,9 +38044,13 @@ ___
 >**Points de vie** 36 (8d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|15 (+2)|10 (+0)|14 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +4, Cha +5  
 >**Compétences** Arcanes +4, Histoire +4  
@@ -34107,9 +38083,13 @@ ___
 >**Points de vie** 37 (5d8 + 15)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|16 (+3)|12 (+1)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +4  
 >**Compétences** Arcanes +3, Perception +4  
@@ -34145,9 +38125,13 @@ ___
 >**Points de vie** 37 (5d8 + 15)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|16 (+3)|12 (+1)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +4  
 >**Compétences** Arcanes +3, Perception +4  
@@ -34181,9 +38165,13 @@ ___
 >**Points de vie** 95 (10d10 + 40)  
 >**Vitesse** 9 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|11 (+0)|18 (+4)|6 (-2)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Résistances** dégâts du type correspondant à la forme du souffle animé (acide, froid, feu, foudre ou poison)  
 >**Immunités** épuisement, paralysé, pétrifié, empoisonné, entravé, inconscient  
@@ -34209,9 +38197,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|14 (+2)|13 (+1)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Perception +6  
 >**Immunités** À terre  
@@ -34245,9 +38237,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 0 m, vol 15 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Résistances** acide, froid, feu, foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
 >**Immunités** nécrotique, poison  
@@ -34277,9 +38273,13 @@ ___
 >**Points de vie** 1 (1d10 - 4)  
 >**Vitesse** 0 m, vol 3 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|5 (-3)|1 (-5)|3 (-4)|1 (-5)|1 (-5)|1 (-5)
+>
+>___
 >
 >**Immunités** poison  
 >**Immunités** aveuglé, assourdi, effrayé, paralysé, empoisonné, à terre  
@@ -34309,9 +38309,13 @@ ___
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|15 (+2)|6 (-2)|8 (-1)|5 (-3)
+>
+>___
 >
 >**Vulnérabilités** contondant  
 >**Immunités** poison  
@@ -34339,9 +38343,13 @@ ___
 >**Points de vie** 22 (3d10 + 6)  
 >**Vitesse** 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|12 (+1)|15 (+2)|2 (-4)|8 (-1)|5 (-3)
+>
+>___
 >
 >**Vulnérabilités** contondant  
 >**Immunités** poison  
@@ -34368,9 +38376,13 @@ ___
 >**Points de vie** 67 (9d10 + 18)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|11 (+0)|15 (+2)|6 (-2)|8 (-1)|5 (-3)
+>
+>___
 >
 >**Vulnérabilités** contondant  
 >**Immunités** poison  
@@ -34401,9 +38413,13 @@ ___
 >**Points de vie** 144 (17d8 + 68)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|18 (+4)|20 (+5)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Sag +7, Cha +9  
 >**Compétences** Arcanes +15, Discrétion +14, Perception +12, Religion +10  
@@ -34446,9 +38462,13 @@ ___
 >**Points de vie** 2 (1d4)  
 >**Vitesse** 3 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|4 (-3)|16 (+3)|11 (+0)|2 (-4)|8 (-1)|6 (-2)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 9  
 >**Langues** —  
@@ -34472,9 +38492,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)
+>
+>___
 >
 >**Compétences** Discrétion +7, Intuition +5, Perception +5, Persuasion +9, Tromperie +9  
 >**Résistances** froid, feu, foudre, poison ; contondant, perforant et tranchant d'attaques non magiques  
@@ -34506,9 +38530,13 @@ ___
 >**Points de vie** 138 (12d12 + 60)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)
+>
+>___
 >
 >**Résistances** contondant, perforant  
 >**Vulnérabilités** feu  
@@ -34541,9 +38569,13 @@ ___
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|17 (+3)|11 (+0)|13 (+1)|14 (+2)|15 (+2)
+>
+>___
 >
 >**Compétences** Athlétisme +2, Discrétion +5, Perception +4, Survie +6  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
@@ -34575,9 +38607,13 @@ ___
 >**Points de vie** 22 (5d8)  
 >**Vitesse** 9 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|15 (+2)|11 (+0)|14 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +3, Représentation +7, Persuasion +5  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -34605,9 +38641,13 @@ ___
 >**Points de vie** 95 (10d8 + 50)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|20 (+5)|9 (-1)|9 (-1)|9 (-1)
+>
+>___
 >
 >**Compétences** Intimidation +2, Perception +2  
 >**Résistances** feu, poison  
@@ -34640,9 +38680,13 @@ ___
 >**Points de vie** 95 (10d8 + 50)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|20 (+5)|9 (-1)|9 (-1)|9 (-1)
+>
+>___
 >
 >**Compétences** Intimidation +2, Perception +2  
 >**Résistances** feu, poison  
@@ -34675,9 +38719,13 @@ ___
 >**Points de vie** 33 (6d10)  
 >**Vitesse** 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|14 (+2)|10 (+0)|1 (-5)|3 (-4)|1 (-5)
+>
+>___
 >
 >**Immunités** poison, psychique  
 >**Immunités** aveuglé, charmé, assourdi, effrayé, paralysé, pétrifié, empoisonné  
@@ -34707,9 +38755,13 @@ ___
 >**Points de vie** 676 (33d20 + 330)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|11 (+0)|30 (+10)|3 (-4)|11 (+0)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +9, Cha +9  
 >**Immunités** feu, poison ; contondant, perforant et tranchant d'attaques non magiques  
@@ -34750,9 +38802,13 @@ ___
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|14 (+2)|15 (+2)|15 (+2)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +5  
 >**Compétences** Perception +8  
@@ -34785,9 +38841,13 @@ ___
 >**Points de vie** 75 (10d10 + 20)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|14 (+2)|15 (+2)|15 (+2)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +5, Sag +5  
 >**Compétences** Perception +8  
@@ -34826,9 +38886,13 @@ ___
 >**Points de vie** 189 (18d10 + 90)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|8 (-1)|20 (+5)|5 (-3)|8 (-1)|5 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +2  
 >**Résistances** acide, contondant  
@@ -34860,9 +38924,13 @@ ___
 >**Points de vie** 337 (25d12 + 175)  
 >**Vitesse** 12 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|19 (+4)|24 (+7)|6 (-2)|9 (-1)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** Con +13  
 >**Résistances** acide, froid, feu, foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -34897,9 +38965,13 @@ ___
 >**Points de vie** 297 (22d12 + 154)  
 >**Vitesse** 12 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|19 (+4)|24 (+7)|6 (-2)|9 (-1)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** Con +13  
 >**Résistances** acide, froid, feu, foudre, tonnerre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -34932,9 +39004,13 @@ ___
 >**Points de vie** 13 (3d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|14 (+2)|11 (+0)|10 (+0)|14 (+2)|12 (+1)
+>
+>___
 >
 >**Compétences** Discrétion +6, Nature +4, Perception +6, Survie +6  
 >**Sens** Perception passive 16  
@@ -34965,9 +39041,13 @@ ___
 >**Points de vie** 136 (16d10 + 48)  
 >**Vitesse** 6 m, nage 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|8 (-1)|16 (+3)|5 (-3)|10 (+0)|5 (-3)
+>
+>___
 >
 >**Compétences** Discrétion +2  
 >**Résistances** froid, feu  
@@ -34999,9 +39079,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|13 (+1)|8 (-1)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +3, Survie +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -35032,9 +39116,13 @@ ___
 >**Points de vie** 615 (30d20 + 300)  
 >**Vitesse** 18 m, vol 36 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|10 (+0)|30 (+10)|26 (+8)|26 (+8)|28 (+9)
+>
+>___
 >
 >**Sauvegardes** For +19, Dex +9, Sag +17  
 >**Compétences** Arcanes +17, Perception +26, Religion +17  
@@ -35061,9 +39149,13 @@ ___
 >**Points de vie** 37 (5d10 + 10)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|14 (+2)|3 (-4)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +6, Perception +3  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -35092,9 +39184,13 @@ ___
 >**Points de vie** 52 (7d10 + 14)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|15 (+2)|3 (-4)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +6, Perception +3  
 >**Sens** Perception passive 13  
@@ -35123,9 +39219,13 @@ ___
 >**Points de vie** 120 (16d8 + 48)  
 >**Vitesse** 9 m (12 m sous forme de tigre)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|11 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +5  
 >**Immunités** contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent  
@@ -35159,9 +39259,13 @@ ___
 >**Points de vie** 150 (20d8 + 60)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|22 (+6)|17 (+3)|24 (+7)|22 (+6)|26 (+8)
+>
+>___
 >
 >**Sauvegardes** Dex +11, Con +8, Sag +11, Cha +13  
 >**Compétences** Intimidation +13, Intuition +11, Persuasion +13, Tromperie +13  
@@ -35204,9 +39308,13 @@ ___
 >**Points de vie** 127 (17d8 + 51)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|22 (+6)|17 (+3)|24 (+7)|22 (+6)|26 (+8)
+>
+>___
 >
 >**Sauvegardes** Dex +11, Con +8, Sag +11, Cha +13  
 >**Compétences** Intimidation +13, Intuition +11, Persuasion +13, Tromperie +13  
@@ -35249,9 +39357,13 @@ ___
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|16 (+3)|8 (-1)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +4, Discrétion +4, Survie +4  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
@@ -35281,9 +39393,13 @@ ___
 >**Points de vie** 85 (10d10 + 30)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|16 (+3)|8 (-1)|12 (+1)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +4, Discrétion +4, Survie +4  
 >**Sens** vision dans le noir 18 m, Perception passive 13  
@@ -35312,9 +39428,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)
+>
+>___
 >
 >**Compétences** Athlétisme +4, Survie +3  
 >**Sens** Perception passive 11  
@@ -35345,9 +39465,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|12 (+1)|11 (+0)|15 (+2)|12 (+1)
+>
+>___
 >
 >**Compétences** Dressage +4, Nature +2, Survie +4  
 >**Sens** Perception passive 12  
@@ -35379,9 +39503,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|12 (+1)|11 (+0)|15 (+2)|12 (+1)
+>
+>___
 >
 >**Compétences** Dressage +4, Nature +2, Survie +4  
 >**Sens** Perception passive 12  
@@ -35411,9 +39539,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)
+>
+>___
 >
 >**Compétences** Athlétisme +4, Survie +3  
 >**Sens** Perception passive 11  
@@ -35443,9 +39575,13 @@ ___
 >**Points de vie** 11 (2d8 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|12 (+1)|12 (+1)|9 (-1)|8 (-1)|6 (-2)
+>
+>___
 >
 >**Compétences** Athlétisme +5, Discrétion +3, Perception +3  
 >**Immunités** aveuglé  
@@ -35475,9 +39611,13 @@ ___
 >**Points de vie** 264 (16d20 + 96)  
 >**Vitesse** 0 m, vol 36 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|28 (+9)|23 (+6)|2 (-4)|21 (+5)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +12, Cha +11  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -35517,9 +39657,13 @@ ___
 >**Points de vie** 264 (16d20 + 96)  
 >**Vitesse** 0 m, vol 36 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|28 (+9)|23 (+6)|2 (-4)|21 (+5)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +12, Cha +11  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -35558,9 +39702,13 @@ ___
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +4  
 >**Compétences** Arcanes +6, Histoire +6  
@@ -35601,9 +39749,13 @@ ___
 >**Points de vie** 67 (9d10 + 18)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|14 (+2)|15 (+2)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Int +5  
 >**Compétences** Perception +3, Discrétion +5  
@@ -35630,9 +39782,13 @@ ___
 >**Points de vie** 39 (6d8 + 12)  
 >**Vitesse** 9 m, escalade 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|19 (+4)|15 (+2)|10 (+0)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +8, Survie +6  
 >**Vulnérabilités** froid, feu  
@@ -35667,9 +39823,13 @@ ___
 >**Points de vie** 32 (5d8 + 10)  
 >**Vitesse** 9 m, escalade 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|19 (+4)|15 (+2)|10 (+0)|14 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +8  
 >**Vulnérabilités** froid, feu  
@@ -35707,9 +39867,13 @@ ___
 >**Points de vie** 104 (16d8 + 32)  
 >**Vitesse** 15 m, vol 15 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|19 (+4)|14 (+2)|10 (+0)|15 (+2)|11 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +10, Perception +8  
 >**Résistances** contondant, perforant et tranchant d'attaques non magiques  
@@ -35741,9 +39905,13 @@ ___
 >**Points de vie** 95 (10d12 + 30)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|9 (-1)|17 (+3)|2 (-4)|11 (+0)|5 (-3)
+>
+>___
 >
 >**Sens** Perception passive 10  
 >**Langues** —  
@@ -35770,9 +39938,13 @@ ___
 >**Points de vie** 16 (3d8 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|13 (+1)|12 (+1)|9 (-1)|10 (+0)|9 (-1)
+>
+>___
 >
 >**Sens** vision véritable 36 m, Perception passive 10  
 >**Langues** modron  
@@ -35802,9 +39974,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|12 (+1)|7 (-2)|11 (+0)|8 (-1)
+>
+>___
 >
 >**Immunités** feu  
 >**Sens** Perception passive 10  
@@ -35834,9 +40010,13 @@ ___
 >**Points de vie** 22 (4d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|13 (+1)|12 (+1)|7 (-2)|11 (+0)|8 (-1)
+>
+>___
 >
 >**Immunités** feu  
 >**Sens** Perception passive 10  
@@ -35866,9 +40046,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|9 (-1)|11 (+0)|14 (+2)
+>
+>___
 >
 >**Immunités** feu  
 >**Sens** vision dans le noir 36 m, Perception passive 10  
@@ -35901,9 +40085,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|9 (-1)|11 (+0)|14 (+2)
+>
+>___
 >
 >**Immunités** feu  
 >**Sens** vision dans le noir 36 m (traverse les ténèbres magiques), Perception passive 10  
@@ -35936,9 +40124,13 @@ ___
 >**Points de vie** 90 (12d8 + 36)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|16 (+3)|14 (+2)|10 (+0)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +3, Cha +6  
 >**Compétences** Arcanes +5, Persuasion +6, Religion +5, Tromperie +6  
@@ -35975,9 +40167,13 @@ ___
 >**Points de vie** 13 (2d8 + 4)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|14 (+2)|6 (-2)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +2  
 >**Sens** vision dans le noir 18 m, Perception passive 10  
@@ -36009,9 +40205,13 @@ ___
 >**Points de vie** 84 (8d10 + 40)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Sens** vision dans le noir 18 m, Perception passive 12  
@@ -36041,9 +40241,13 @@ ___
 >**Points de vie** 138 (12d10 + 72)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|22 (+6)|5 (-3)|8 (-1)|4 (-3)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Immunités** nécrotique  
@@ -36074,9 +40278,13 @@ ___
 >**Points de vie** 138 (12d10 + 72)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|22 (+6)|5 (-3)|8 (-1)|4 (-3)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Immunités** nécrotique  
@@ -36106,9 +40314,13 @@ ___
 >**Points de vie** 172 (15d12 + 75)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|15 (+2)|21 (+5)|9 (-1)|11 (+0)|5 (-3)
+>
+>___
 >
 >**Sauvegardes** Sag +5, Cha +2  
 >**Compétences** Perception +5  
@@ -36142,9 +40354,13 @@ ___
 >**Points de vie** 172 (15d12 + 75)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|15 (+2)|21 (+5)|9 (-1)|11 (+0)|5 (-3)
+>
+>___
 >
 >**Sauvegardes** Sag +5, Cha +2  
 >**Compétences** Perception +5  
@@ -36178,9 +40394,13 @@ ___
 >**Points de vie** 130 (20d10 + 20)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|17 (+3)|13 (+1)|8 (-1)|9 (-1)|16 (+3)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Résistances** acide, froid, feu  
@@ -36214,9 +40434,13 @@ ___
 >**Points de vie** 97 (15d10 + 15)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|17 (+3)|13 (+1)|8 (-1)|9 (-1)|16 (+3)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Résistances** acide, froid, feu, foudre, tonnerre  
@@ -36249,9 +40473,13 @@ ___
 >**Points de vie** 94 (9d10 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Immunités** poison  
@@ -36285,9 +40513,13 @@ ___
 >**Points de vie** 94 (9d10 + 45)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|20 (+5)|7 (-2)|9 (-1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +2  
 >**Immunités** poison  
@@ -36321,9 +40553,13 @@ ___
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 0 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|11 (+0)|1 (-5)|6 (-2)|1 (-5)
+>
+>___
 >
 >**Sens** vision dans le noir 18 m, Perception passive 8  
 >**Langues** —  
@@ -36352,9 +40588,13 @@ ___
 >**Points de vie** 187 (25d10 + 50)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|14 (+2)|19 (+4)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Sauvegardes** For +5, Con +7, Int +9, Sag +7, Cha +9  
 >**Compétences** Perception +12  
@@ -36397,9 +40637,13 @@ ___
 >**Points de vie** 180 (19d10 + 76)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|18 (+4)|17 (+3)|15 (+2)|17 (+3)
+>
+>___
 >
 >**Sauvegardes** Int +8, Sag +7, Cha +8  
 >**Compétences** Perception +12  
@@ -36441,9 +40685,13 @@ ___
 >**Points de vie** 136 (13d12 + 52)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|25 (+7)|10 (+0)|19 (+4)|2 (-4)|12 (+1)|9 (-1)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** Perception passive 14  
@@ -36470,9 +40718,13 @@ ___
 >**Points de vie** 127 (17d10 + 34)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|15 (+2)|21 (+5)|19 (+4)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Int +9, Sag +8, Cha +9  
 >**Compétences** Arcanes +9, Discrétion +5, Intuition +8, Perception +8  
@@ -36506,9 +40758,13 @@ ___
 >**Points de vie** 127 (17d10 + 34)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|12 (+1)|15 (+2)|21 (+5)|19 (+4)|21 (+5)
+>
+>___
 >
 >**Sauvegardes** Int +9, Sag +8, Cha +9  
 >**Compétences** Arcanes +9, Discrétion +5, Intuition +8, Perception +8  
@@ -36543,9 +40799,13 @@ ___
 >**Points de vie** 153 (18d8 + 72)  
 >**Vitesse** 9 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|18 (+4)|18 (+4)|15 (+2)|19 (+4)
+>
+>___
 >
 >**Compétences** Discrétion +8, Intimidation +9, Perception +7  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -36584,9 +40844,13 @@ ___
 >**Points de vie** 126 (23d8 + 23)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|20 (+5)|11 (+0)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** For +2, Dex +4, Con +3, Int +12, Sag +7, Cha +5  
 >**Compétences** Arcanes +10, Histoire +10  
@@ -36617,9 +40881,13 @@ ___
 >**Points de vie** 144 (17d8 + 68)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Sag +7, Cha +9  
 >**Compétences** Discrétion +9, Perception +7  
@@ -36664,9 +40932,13 @@ ___
 >**Points de vie** 82 (11d8 + 33)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Sag +3  
 >**Compétences** Discrétion +6, Perception +3  
@@ -36703,9 +40975,13 @@ ___
 >**Points de vie** 142 (15d10 + 60)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +5  
 >**Compétences** Perception +5  
@@ -36738,9 +41014,13 @@ ___
 >**Points de vie** 161 (17d10 + 68)  
 >**Vitesse** 0 m, vol 9 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|14 (+2)|18 (+4)|10 (+0)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Sauvegardes** Con +8, Sag +5  
 >**Compétences** Perception +5  
@@ -36773,9 +41053,13 @@ ___
 >**Points de vie** 18 (4d4 + 8)  
 >**Vitesse** 1,50 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|14 (+2)|4 (-3)|7 (-2)|2 (-4)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -36806,9 +41090,13 @@ ___
 >**Points de vie** 13 (3d4 + 6)  
 >**Vitesse** 1,50 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|14 (+2)|4 (-3)|7 (-2)|2 (-4)
+>
+>___
 >
 >**Résistances** froid, feu, foudre  
 >**Immunités** poison  
@@ -36838,9 +41126,13 @@ ___
 >**Points de vie** 68 (8d10 + 24)  
 >**Vitesse** 6 m, escalade 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|6 (-2)|17 (+3)|2 (-4)|12 (+1)|10 (+0)
+>
+>___
 >
 >**Compétences** Perception +4, Discrétion +4  
 >**Résistances** acide, froid, feu, foudre, poison  
@@ -36873,9 +41165,13 @@ ___
 >**Points de vie** 22 (3d8 + 9)  
 >**Vitesse** 3 m, escalade 3 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|6 (-2)|16 (+3)|1 (-5)|6 (-2)|2 (-4)
+>
+>___
 >
 >**Compétences** Discrétion +2  
 >**Résistances** acide, froid, feu  
@@ -36906,9 +41202,13 @@ ___
 >**Points de vie** 5 (1d8 + 1)  
 >**Vitesse** 3 m, vol 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|10 (+0)|13 (+1)|2 (-4)|12 (+1)|4 (-3)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -36936,9 +41236,13 @@ ___
 >**Points de vie** 22 (3d10 + 6)  
 >**Vitesse** 3 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|10 (+0)|15 (+2)|6 (-2)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -36968,9 +41272,13 @@ ___
 >**Points de vie** 272 (32d8 + 128)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|16 (+3)|18 (+4)|22 (+6)|24 (+7)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Con +12, Int +14, Sag +15  
 >**Compétences** Arcane +22, Histoire +14, Intuition +15, Perception +15  
@@ -37018,9 +41326,13 @@ ___
 >**Points de vie** 13 (3d6 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|14 (+2)|13 (+1)|6 (-2)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +2, Discrétion +4  
 >**Résistances** foudre, perforant  
@@ -37051,9 +41363,13 @@ ___
 >**Points de vie** 33 (6d6 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|14 (+2)|7 (-2)|12 (+1)|9 (-1)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +4  
 >**Résistances** foudre, perforant  
@@ -37086,9 +41402,13 @@ ___
 >**Points de vie** 33 (6d6 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|14 (+2)|7 (-2)|12 (+1)|9 (-1)
+>
+>___
 >
 >**Compétences** Perception +3, Discrétion +4  
 >**Résistances** foudre, perforant  
@@ -37121,9 +41441,13 @@ ___
 >**Points de vie** 27 (5d8 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|12 (+1)|13 (+1)|2 (-4)|10 (+0)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +4, Discrétion +3  
 >**Résistances** foudre, perforant  
@@ -37154,9 +41478,13 @@ ___
 >**Points de vie** 9 (2d6 + 2)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|14 (+2)|13 (+1)|6 (-2)|11 (+0)|7 (-2)
+>
+>___
 >
 >**Compétences** Perception +2, Discrétion +4  
 >**Résistances** foudre, perforant  
@@ -37187,9 +41515,13 @@ ___
 >**Points de vie** 67 (9d8 + 27)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|12 (+1)|17 (+3)|18 (+4)|15 (+2)|13 (+1)
+>
+>___
 >
 >**Sauvegardes** Int +6, Sag +4  
 >**Compétences** Arcanes +6, Histoire +6  
@@ -37214,9 +41546,13 @@ ___
 >**Points de vie** 10 (3d4 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|13 (+1)|4 (-3)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -37245,9 +41581,13 @@ ___
 >**Points de vie** 10 (3d4 + 3)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|6 (-2)|14 (+2)|13 (+1)|4 (-3)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +3  
 >**Sens** Perception passive 13  
@@ -37277,9 +41617,13 @@ ___
 >**Points de vie** 247 (15d20 + 90)  
 >**Vitesse** 15 m, creusement 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|28 (+9)|7 (-2)|22 (+6)|1 (-5)|8 (-1)|4 (-3)
+>
+>___
 >
 >**Sauvegardes** Con +11, Sag +4  
 >**Sens** vision aveugle 9 m, perception des vibrations 18 m, Perception passive 9  
@@ -37308,9 +41652,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)
+>
+>___
 >
 >**Compétences** Athlétisme +5, Perception +2  
 >**Sens** Perception passive 12  
@@ -37338,9 +41686,13 @@ ___
 >**Points de vie** 9 (2d6 + 2)  
 >**Vitesse** 7,50 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|12 (+1)|14 (+2)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Arcanes +4, Histoire +4  
 >**Sens** Perception passive 10  
@@ -37369,9 +41721,13 @@ ___
 >**Points de vie** 31 (7d6 + 7)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +4, Discrétion +6, Survie +2  
 >**Immunités** effrayé  
@@ -37402,9 +41758,13 @@ ___
 >**Points de vie** 31 (7d6 + 7)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|7 (-2)|15 (+2)|12 (+1)|11 (+0)|10 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +4, Discrétion +6, Survie +2  
 >**Immunités** effrayé  
@@ -37435,9 +41795,13 @@ ___
 >**Points de vie** 104 (11d10 + 44)  
 >**Vitesse** 12 m, vol 18 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|15 (+2)|18 (+4)|8 (-1)|13 (+1)|8 (-1)
+>
+>___
 >
 >**Sauvegardes** Dex +5, Sag +4, Cha +2  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -37471,9 +41835,13 @@ ___
 >**Points de vie** 157 (15d10 + 75)  
 >**Vitesse** 9 m, nage 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|18 (+4)|21 (+5)|19 (+4)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** For +9, Con +10  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -37510,9 +41878,13 @@ ___
 >**Points de vie** 157 (15d10 + 75)  
 >**Vitesse** 9 m, nage 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|18 (+4)|21 (+5)|19 (+4)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Sauvegardes** For +9, Con +10  
 >**Résistances** froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques  
@@ -37548,9 +41920,13 @@ ___
 >**Points de vie** 110 (13d10 + 39)  
 >**Vitesse** 6 m, vol 24 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|10 (+0)|16 (+3)|5 (-3)|12 (+1)|6 (-2)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
@@ -37578,9 +41954,13 @@ ___
 >**Points de vie** 26 (4d10 + 4)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|13 (+1)|13 (+1)|7 (-2)|11 (+0)|8 (-1)
+>
+>___
 >
 >**Compétences** Perception +4  
 >**Sens** vision dans le noir 18 m, Perception passive 14  
@@ -37607,9 +41987,13 @@ ___
 >**Points de vie** 38 (11d8-11)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|13 (+1)|9 (-1)|12 (+1)|12 (+1)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +3, Cha +6  
 >**Compétences** Arcanes +3, Histoire +3, Persuasion +6, Tromperie +6  
@@ -37646,9 +42030,13 @@ ___
 >**Points de vie** 73 (7d8 + 42)  
 >**Vitesse** 6 m, creusement 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|10 (+0)|22 (+6)|11 (+0)|10 (+0)|11 (+0)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +6  
 >**Résistances** perforant et tranchant d'attaques non magiques qui ne sont pas en adamantium  
@@ -37680,9 +42068,13 @@ ___
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|8 (-1)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +4  
 >**Sens** vision dans le noir 9 m, Perception passive 8  
@@ -37712,9 +42104,13 @@ ___
 >**Points de vie** 7 (2d6)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|10 (+0)|8 (-1)|7 (-2)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +4  
 >**Sens** vision dans le noir 9 m, Perception passive 8  
@@ -37745,9 +42141,13 @@ ___
 >**Points de vie** 22 (5d6 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|12 (+1)|8 (-1)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Compétences** Discrétion +3  
 >**Sens** vision dans le noir 9 m, Perception passive 10  
@@ -37780,9 +42180,13 @@ ___
 >**Points de vie** 22 (5d6 + 5)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|12 (+1)|8 (-1)|11 (+0)|12 (+1)
+>
+>___
 >
 >**Compétences** Discrétion +3  
 >**Sens** vision dans le noir 9 m, Perception passive 10  
@@ -37817,9 +42221,13 @@ ___
 >**Points de vie** 147 (14d10 + 70)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|21 (+5)|16 (+3)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Int +7, Sag +6, Cha +8  
 >**Compétences**Intuition +6, Perception +6, Persuasion +8, Tromperie +8  
@@ -37857,9 +42265,13 @@ ___
 >**Points de vie** 147 (14d10 + 70)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|14 (+2)|21 (+5)|16 (+3)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Int +7, Sag +6, Cha +8  
 >**Compétences**Intuition +6, Perception +6, Persuasion +8, Tromperie +8  
@@ -37897,9 +42309,13 @@ ___
 >**Points de vie** 283 (21d12 + 147)  
 >**Vitesse** 15 m, vol 45 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|24 (+7)|24 (+7)|16 (+3)|21 (+5)|23 (+6)
+>
+>___
 >
 >**Sauvegardes** Dex +13, Sag +11, Cha +12  
 >**Résistances** froid, feu ; contondant, perforant et tranchant d'attaques non magiques  
@@ -37926,9 +42342,13 @@ ___
 >**Points de vie** 333 (23d12 + 184)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|16 (+3)|23 (+6)|15 (+2)|24 (+7)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +10, Con +15, Sag +14  
 >**Compétences** Intimidation +9, Perception +14  
@@ -37968,9 +42388,13 @@ ___
 >**Points de vie** 333 (23d12 + 184)  
 >**Vitesse** 15 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|29 (+9)|16 (+3)|23 (+6)|15 (+2)|24 (+7)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +10, Con +15, Sag +14  
 >**Compétences** Intimidation +9, Perception +14  
@@ -38010,9 +42434,13 @@ ___
 >**Points de vie** 51 (6d10 + 18)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|13 (+1)|16 (+3)|8 (-1)|12 (+1)|7 (-2)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +3  
 >**Immunités** froid  
@@ -38044,9 +42472,13 @@ ___
 >**Points de vie** 137 (11d12 + 66)  
 >**Vitesse** 12 m, escalade 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|24 (+7)|10 (+0)|22 (+6)|9 (-1)|13 (+1)|9 (-1)
+>
+>___
 >
 >**Compétences** Discrétion +4, Perception +5  
 >**Immunités** froid  
@@ -38080,9 +42512,13 @@ ___
 >**Points de vie** 136 (16d8 + 64)  
 >**Vitesse** 9 m, escalade 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|18 (+4)|13 (+1)|15 (+2)|15 (+2)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Int +5, Sag +6, Cha +6  
 >**Compétences** Intuition +6, Tromperie +10  
@@ -38122,9 +42558,13 @@ ___
 >**Points de vie** 127 (15d10 + 45)  
 >**Vitesse** 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|16 (+3)|17 (+3)|17 (+3)|15 (+2)|18 (+4)
+>
+>___
 >
 >**Compétences** Discrétion +6, Perception +5  
 >**Immunités** poison  
@@ -38163,9 +42603,13 @@ ___
 >**Points de vie** 189 (18d12 + 72)  
 >**Vitesse** 12 m, escalade 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|13 (+1)|19 (+4)|19 (+4)|17 (+3)|20 (+5)
+>
+>___
 >
 >**Compétences** Perception +11, Discrétion +5  
 >**Résistances** acide, feu, foudre  
@@ -38203,9 +42647,13 @@ ___
 >**Points de vie** 189 (18d12 + 72)  
 >**Vitesse** 12 m, escalade 9 m, nage 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|23 (+6)|13 (+1)|19 (+4)|19 (+4)|17 (+3)|20 (+5)
+>
+>___
 >
 >**Compétences** Perception +7, Discrétion +5  
 >**Résistances** acide, feu, foudre  
@@ -38246,9 +42694,13 @@ ___
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +3, Cha +5  
 >**Compétences** Discrétion +4, Tromperie +5  
@@ -38286,9 +42738,13 @@ ___
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +3, Cha +5  
 >**Compétences** Discrétion +4, Tromperie +5  
@@ -38329,9 +42785,13 @@ ___
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +4, Cha +5  
 >**Compétences** Tromperie +5, Discrétion +4  
@@ -38369,9 +42829,13 @@ ___
 >**Points de vie** 71 (13d8 + 13)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|14 (+2)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +4, Cha +5  
 >**Compétences** Tromperie +5, Discrétion +4  
@@ -38413,9 +42877,13 @@ ___
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|14 (+2)|6 (-2)|11 (+0)|4 (-3)
+>
+>___
 >
 >**Sauvegardes** For +4, Dex +4, Sag +2  
 >**Compétences** Perception +2  
@@ -38448,9 +42916,13 @@ ___
 >**Points de vie** 45 (7d8 + 14)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|14 (+2)|14 (+2)|6 (-2)|11 (+0)|4 (-3)
+>
+>___
 >
 >**Sauvegardes** For +4, Dex +4, Sag +2  
 >**Compétences** Perception +2  
@@ -38484,9 +42956,13 @@ ___
 >**Points de vie** 88 (16d8 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +4, Cha +6  
 >**Compétences** Tromperie +6, Discrétion +5  
@@ -38523,9 +42999,13 @@ ___
 >**Points de vie** 88 (16d8 + 16)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Sauvegardes** Sag +3, Cha +5  
 >**Compétences** Tromperie +5, Discrétion +4  
@@ -38565,9 +43045,13 @@ ___
 >**Points de vie** 66 (12d8 + 12)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|14 (+2)|13 (+1)|14 (+2)|12 (+1)|16 (+3)
+>
+>___
 >
 >**Compétences** Discrétion +4, Tromperie +5  
 >**Immunités** poison  
@@ -38616,9 +43100,13 @@ ___
 >**Points de vie** 40 (9d8)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|12 (+1)|11 (+0)|13 (+1)|12 (+1)|14 (+2)
+>
+>___
 >
 >**Compétences** Discrétion +3, Perception +3, Tromperie +6  
 >**Immunités** poison  
@@ -38652,9 +43140,13 @@ ___
 >**Points de vie** 307 (15d20 + 150)  
 >**Vitesse** 12 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|10 (+0)|30 (+10)|2 (-4)|21 (+5)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +12, Cha +11  
 >**Vulnérabilités** tonnerre  
@@ -38697,9 +43189,13 @@ ___
 >**Points de vie** 307 (15d20 + 150)  
 >**Vitesse** 12 m, nage 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|30 (+10)|10 (+0)|30 (+10)|2 (-4)|21 (+5)|18 (+4)
+>
+>___
 >
 >**Sauvegardes** Sag +12, Cha +11  
 >**Vulnérabilités** tonnerre  
@@ -38743,9 +43239,13 @@ ___
 >**Points de vie** 420 (29d10 + 261)  
 >**Vitesse** 15 m, vol 45 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|24 (+7)|28 (+9)|26 (+8)|27 (+8)|30 (+10)
+>
+>___
 >
 >**Sauvegardes** Int +16, Sag +16, Cha +18  
 >**Compétences** Intimidation +18, Perception +16  
@@ -38787,9 +43287,13 @@ ___
 >**Points de vie** 580 (40d10 + 360)  
 >**Vitesse** 15 m, vol 45 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|27 (+8)|24 (+7)|28 (+9)|26 (+8)|27 (+8)|30 (+10)
+>
+>___
 >
 >**Sauvegardes** Int +16, Sag +16, Cha +18  
 >**Compétences** Intimidation +18, Perception +16  
@@ -38834,9 +43338,13 @@ ___
 >**Points de vie** 58 (9d8 + 18)  
 >**Vitesse** 9 m, vol 12 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|17 (+3)|14 (+2)|15 (+2)|16 (+3)|11 (+0)
+>
+>___
 >
 >**Sauvegardes** Dex +6, Sag +6  
 >**Compétences** Perception +6, Discrétion +6  
@@ -38876,9 +43384,13 @@ ___
 >**Points de vie** 22 (3d8 + 9)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|6 (-2)|16 (+3)|3 (-4)|6 (-2)|5 (-3)
+>
+>___
 >
 >**Sauvegardes** Sag +0  
 >**Immunités** poison  
@@ -38907,9 +43419,13 @@ ___
 >**Points de vie** 33 (6d8 + 6)  
 >**Vitesse** 6 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|9 (-1)|12 (+1)|1 (-5)|6 (-2)|3 (-4)
+>
+>___
 >
 >**Immunités** charmé, épuisement  
 >**Sens** **Sens** vision aveugle 9 m, Perception passive 8  
@@ -38938,9 +43454,13 @@ ___
 >**Points de vie** 85 (9d10 + 36)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|19 (+4)|6 (-2)|18 (+4)|3 (-4)|6 (-2)|5 (-3)
+>
+>___
 >
 >**Sauvegardes** Sag +0  
 >**Immunités** poison  
@@ -38969,9 +43489,13 @@ ___
 >**Points de vie** 22 (3d8 + 9)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|6 (-2)|16 (+3)|2 (-4)|6 (-2)|6 (-2)
+>
+>___
 >
 >**Sauvegardes** Sag +0  
 >**Immunités** poison  
@@ -39001,9 +43525,13 @@ ___
 >**Points de vie** 93 (11d10 + 33)  
 >**Vitesse** 0 m, vol 6 m (stationnaire)
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|8 (-1)|16 (+3)|3 (-4)|8 (-1)|5 (-3)
+>
+>___
 >
 >**Sauvegardes** Sag +2  
 >**Immunités** poison  
@@ -39037,9 +43565,13 @@ ___
 >**Points de vie** 304 (32d10 + 128)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|15 (+2)|18 (+4)|20 (+5)|19 (+4)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +11, Sag +11  
 >**Compétences** Perception +11  
@@ -39081,9 +43613,13 @@ ___
 >**Points de vie** 304 (32d10 + 128)  
 >**Vitesse** 9 m
 >
->| FOR  | DEX  | CON  | INT  | SAG  | CHA |
+>___
+>
+| FOR  | DEX  | CON  | INT  | SAG  | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|22 (+6)|15 (+2)|18 (+4)|20 (+5)|19 (+4)|24 (+7)
+>
+>___
 >
 >**Sauvegardes** Dex +9, Con +11, Sag +11  
 >**Compétences** Perception +11  
