@@ -4,6 +4,7 @@ title: 10 façons d'utiliser ChatGPT pour un Maître du Donjon
 author: yann
 date: 2024-08-15
 categories: Maitre-du-Donjon
+description: ChatGPT peut être une ressource polyvalente pour les Maître du Donjon (MD) afin de brainstormer et éviter la page blanche
 ---
 
 # 10 façons d'utiliser ChatGPT pour un Maître du Donjon
