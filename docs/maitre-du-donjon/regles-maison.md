@@ -60,5 +60,15 @@ D'après les règles ([SRD v5.1 FR](https://media.wizards.com/2023/downloads/dnd
 
 **Règle maison :** à l'image des jets de sauvegarde contre la mort lorsqu'un tombe sur un 20 naturel sur 1d20 (avant d'appliquer tout modificateur) cela compte alors comme 2 réussites de groupe, tandis lorsque le résultat est un 1 naturel sur 1d20 alors cela compte comme 2 échecs pour le groupe.
 
+## Petite Hutte de Léomund pour Clerc
+
+Le deck cartes de sort pour clerc D&D 5e officiel contient 153 cartes cartonnées plastifiées et contient, sûrement par [erreur](https://www.reddit.com/r/dndnext/comments/es47bi/comment/ff7q3x4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) le sort [Petite hutte de Léomund](/donnees/sorts.html#petite-hutte-de-l%C3%A9omund-niveau-3). 
+
+Faisant confiance au matériel officiel WotC il m'a fallu plusieurs mois avant de me rendre que la classe Clerc n'avait pas normalement accès à ce sort, alors en tant que DM j'ai pris la décision de l'autoriser en enfforçant la règle que si le matériel est officiel alors cela fait partie des règles/objets/sorts autorisés, même s'il y a une erreur. Sans quoi s'il faut vérifier chaque deck de cartes, chaque map, chaque détail on ne s'en sort plus !
+
+>Le sort [Petite hutte de Léomund](/donnees/sorts.html#petite-hutte-de-l%C3%A9omund-niveau-3) est autorisé dans les sorts niveau 3 pour la classe de Clerc
+
+
+
 
 
