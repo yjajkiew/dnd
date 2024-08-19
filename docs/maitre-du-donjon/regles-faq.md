@@ -25,9 +25,15 @@ Oui ([Source](https://www.sageadvice.eu/lucky-death-saving-throw/))
 
 Oui, le parchemin est alors détruis ([Source]([https://www.sageadvice.eu/lucky-death-saving-throw/](https://www.sageadvice.eu/copy-a-spell-into-a-spellbook/)))
 
-## Métal brûlant : Si je porte une armure de plates et que je réussis le jet de sauvegarde, est-ce que j’ai quand même un désavantage ?
+## Métal brûlant : si je porte une armure de plates et que je réussis le jet de sauvegarde, est-ce que j’ai quand même un désavantage ?
 
 Vous avez un désavantage tant que vous portez le métal chauffé. Votre meilleure option est de briser la concentration du lanceur de sorts. ([Source]([https://www.sageadvice.eu/lucky-death-saving-throw/](https://www.sageadvice.eu/heat-metal/)))
+
+## Métal brûlant : si je porte une armure ciblée par le sort, puis-je la retirer pour ne plus être affecté ?
+
+D'après les [règles 5e DRS](https://5e-drs.fr/armures/#enfiler-et-retirer-une-armure-2) il faut 1mn pour retirer une armure légère/intermédiaire et 5 minutes pour retirer une armure lourde.
+Étant donné qu'en combat un tour complet constitue 6 secondes, il faudrait alors 10 tours pour qu'un personnage ou ennemi retirer une armure légère/intermédiaire et 50 tours pour une armure lourde.
+
 
 ## Comment calculer le niveau de difficulté (DD) d'un jet de sauvegarde d'une créature ?
 
