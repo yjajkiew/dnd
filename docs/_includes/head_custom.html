@@ -39,12 +39,11 @@
 
 <!-- Scroll to top -->
 <script>
-  let mybutton = document.getElementById('scrollToTop');
   window.onscroll = function() {scrollFunction()};
 
   function scrollFunction() {
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {mybutton.style.display = 'block';} 
-    else {mybutton.style.display = 'none';}
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {document.getElementById('scrollToTop').style.display = 'block';} 
+    else {document.getElementById('scrollToTop').style.display = 'none';}
   }
 
   function topFunction() {
