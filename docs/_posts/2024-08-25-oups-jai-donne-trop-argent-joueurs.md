@@ -2,7 +2,7 @@
 layout: post
 title: Oups, j'ai donné trop d'argent à mes joueurs
 author: yann
-date: 2024-07-10
+date: 2024-08-25
 categories: Maitre-du-Donjon
 ---
 
