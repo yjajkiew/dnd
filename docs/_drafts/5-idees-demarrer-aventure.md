@@ -54,3 +54,29 @@ Session typique : Vous recevez des ordres du quartier général. Les détails et
 Le jeu se déroule principalement en un seul endroit. Vos personnages ne sont pas des explorateurs de donjons ou des vagabonds de la nature. Vous avez des emplois de jour. Vos personnages sont un groupe d'amis et d'alliés non collés les uns aux autres. Vous avez votre propre emploi, organisation et objectifs qui ne sont pas partagés par les autres. Les événements dans la ville offriront des opportunités de faire avancer vos ambitions, mais nécessiteront souvent de s'associer avec les autres joueurs pour augmenter vos chances de succès.
 
 Session typique : Vos personnages commencent leur journée en s'occupant de leurs activités habituelles, qu'il s'agisse de leur travail, de leurs affaires personnelles ou de leurs interactions sociales. Un événement se produit dans la ville, comme un crime, une fête, une visite de dignitaires, ou un trouble social, qui présente une opportunité ou un défi. Chaque joueur décide comment son personnage réagit à cet événement en fonction de ses objectifs personnels. Pour relever le défi ou tirer parti de l'opportunité, les personnages devront souvent unir leurs forces, partageant leurs compétences et ressources. Ils planifient et exécutent leurs actions ensemble, tout en naviguant dans la dynamique complexe de la vie urbaine. Les conséquences de leurs actions peuvent affecter leur statut social, leur richesse ou leurs relations avec d'autres PNJ, et influencer les événements futurs dans la ville.
+
+## 6. Prison break
+
+L'aventure peut commencer avec les personnages joueurs en prison. Ils ont passé les trois premières sessions à planifier et exécuter une évasion ensemble, et une fois qu'ils ont réussi à s'échapper, le groupe était formé.
+
+## 7. En plein milieu de l'action
+
+Si vous suivez la méthode du Lazy DM, un bon départ peut se situer n'importe où, tant qu'il y a un besoin immédiat pour les personnages joueurs (PCs) d'agir. Cela dépend aussi si vous voulez que certains ou tous les PCs se connaissent dès le début.
+
+ - donne une raison à un groupe diversifié d'être ensemble.
+ - offre de nombreuses opportunités de roleplay, ainsi que des tests de compétences, etc., pour bien démarrer.
+ - oblige le groupe à collaborer immédiatement, quelle que soit leur alignement, leur passé, etc.
+
+
+Voici quelques façons dont j'ai commencé mes campagnes dans le passé :
+ - Les PCs se tiennent au-dessus d'un corps sans vie, un couteau ensanglanté à la main, juste au moment où deux gardes tournent le coin. Je laisse les joueurs remplir les détails autour de la table avec le Qui, Quoi, Quand, Où, Pourquoi de ce qui s'est passé.
+ - 1 ou 2 PCs sont poursuivis et croisent les autres en fuyant.
+ - Bagarre dans une taverne.
+ - Les faire commencer à l'entrée d'un donjon, un voyageur leur ayant vendu une carte promettant des richesses pour les aventuriers, et ils viennent juste d'arriver à l'endroit marqué d'un X.
+ - Capturé par des bandits
+- Vous avez été engagés en tant que groupe hétéroclite de mercenaires pour une mission dangereuse après que toutes les compagnies habituelles aient été anéanties ou aient refusé d'accepter le contrat.
+- Vous assistez tous à un festival lorsqu'une catastrophe survient.
+- Vous faites tous partie d'une caravane en route vers un lieu exotique, chacun avec ses propres motivations.
+  
+
+
