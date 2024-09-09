@@ -3,7 +3,7 @@ layout: post
 title: (Checklist) Préparer une session en 8 points
 author: yann
 date: 2024-09-21
-categories: Maitre-du-Donjon
+categories: articles
 ---
 
 Préparer une aventure D&D c’est un peu comme concocter un bon plat : il faut un mélange de créativité, d’organisation et une pincée de magie. Voici ma checklist en 8 points pour préparer votre prochaine session.
