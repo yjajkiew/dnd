@@ -40,6 +40,7 @@ Ce site a pour objectif de fournir des ressources et des astuces précieuses à 
   {% endfor %}
 </ul>
 
+[Voir tous les articles](/articles.html)
 
 ---
 
