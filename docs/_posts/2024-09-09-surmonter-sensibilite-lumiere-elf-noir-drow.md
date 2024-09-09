@@ -6,9 +6,6 @@ date: 2024-09-09
 categories: articles
 ---
 
-# Surmonter la sensibilité à la lumière des elfes noir (drow)
-{: .no_toc }
-
 Les elfes noir, les elfes de la nuit, ou drow selon comment vous souhaitez les appeler, sont porteur d'un désavantage non des moindre dans D&D 5 _(2014)_ : la sensibilité à la lumière, et même plus exactement à la lumière du soleil.
 
 **Sensibilité à la lumière du soleil.** Vous avez un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur ​​la vue quand vous, la cible de l'attaque ou ce que vous essayez de détecter est exposé à la lumière du soleil.
