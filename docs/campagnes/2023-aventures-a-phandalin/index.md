@@ -90,10 +90,10 @@ _Demi-Elfe (Femelle), Barbare_
 >
 > ### Équipement de départ
 > {: .no_toc }
-> 0. 1 armure de cuir   
-> 1. 1 dague
-> 2. 1 grande hâche à deux mains
-> 3. 4 javelines
+> - 1 armure de cuir   
+> - 1 dague
+> - 1 grande hâche à deux mains
+> - 4 javelines
 > 
 >___
 > ### Citation
@@ -144,10 +144,10 @@ _Demi-Elf (Male), Druide_
 >
 > ### Équipement de départ
 > {: .no_toc }
-> 0. 1 armure de cuir   
-> 1. 1 dague
-> 2. 1 arc court
-> 3. 1 bâton (focaliseur druidique) 
+> - 1 armure de cuir   
+> - 1 dague
+> - 1 arc court
+> - 1 bâton (focaliseur druidique) 
 > 
 >___
 > ### Citation
