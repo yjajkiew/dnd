@@ -19,12 +19,6 @@ has_children: true
 </details>
 
 
-{: .highlight-title }
-> Attention
->
-> La page "Guide du maître" contient tout le storytelling, tous les rebondissements, ennemis, rencontres envisagées, etc. et est destinée aux MD qui souhaitent découvrir les coulisses de comment mener cette campagne"
-
-
 # Contexte
 
 En 2023 je souhaitais me lancer et jouer à Donjons et Dragons, dans le plus simple appareil et sans groupe j'ai donc pris l'initiative d'apprendre à maîtriser une partie et de faire jouer ma conjointe.
