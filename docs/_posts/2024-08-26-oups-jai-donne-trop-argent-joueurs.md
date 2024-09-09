@@ -6,9 +6,6 @@ date: 2024-08-26
 categories: articles
 ---
 
-# Oups, j'ai donné trop d'argent à mes joueurs
-{: .no_toc }
-
 Dans Donjons & Dragons, rien ne motive plus un aventurier qu'une bonne vieille pile d'or. Mais que se passe-t-il quand ces trésors s'accumulent plus vite que les quêtes épiques ? Que faire si par erreur vous avez fourni trop d'argent aux aventuriers après avoir vaincu le grand méchant ?
 Les joueurs se retrouvent souvent avec des coffres débordants, transformant leurs héros en véritables banquiers de la fantasy. Ce surplus d'argent peut sembler génial, mais il peut avoir des conséquences sur l'équilibre du jeu et la créativité du maître du donjon pour donner un sens à toute cette richesse.
 
