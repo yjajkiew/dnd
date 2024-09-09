@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Checklist de préparation d'une session
+title: (Checklist) Préparer une session en 8 points
 author: yann
-date: 2024-07-10
+date: 2024-09-21
 categories: Maitre-du-Donjon
 ---
 
