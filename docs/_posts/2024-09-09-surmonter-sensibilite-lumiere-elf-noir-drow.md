@@ -6,6 +6,7 @@ date: 2024-09-09
 categories: articles
 ---
 
+{{ page.date }}
 # Surmonter la sensibilité à la lumière des elfes noir (drow)
 {: .no_toc }
 
