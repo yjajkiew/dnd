@@ -19,12 +19,6 @@ has_children: true
 </details>
 
 
-{: .highlight-title }
-> Attention
->
-> La page "Maître du Donjon (MD)" contient tout le storytelling, tous les rebondissements, ennemis, rencontres envisagées, etc. et est destinée aux MD qui souhaitent découvrir les coulisses de comment mener cette campagne"
-
-
 # Contexte
 
 Des amis souhaitant découvrir Donjons et Dragons, et étant moi-même novice, j'avais concocté une petite aventure one-shot pour dévouvrir le système.
