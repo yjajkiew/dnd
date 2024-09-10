@@ -68,8 +68,6 @@ On retrouve facilement en ligne la version originale de l'objet [Knave's Eye Pat
 
 Résultat : même en plein jour, votre drow peut attaquer normalement, sans souci. Un petit coup de magie, et hop, plus de problème de soleil !
 
-Utiliser le sort ténèbres pour créer une zone sombre et noire : https://www.aidedd.org/dnd/sorts.php?vf=tenebres & coupler avec le sort Occultiste "Vision du diable" https://www.aidedd.org/dnd/invocations.php?vf=vision-du-diable
-
 ### Combo Ténèbres + Vision du diable
 
 Il existe également un combo astucieux pour rester à l'abri de la lumière éblouissante : utiliser le sort [Ténèbres](https://www.aidedd.org/dnd/sorts.php?vf=tenebres) et l'invocation [Vision du diable](https://www.aidedd.org/dnd/invocations.php?vf=vision-du-diable).
