@@ -28,6 +28,9 @@ footer_content: "Copyright &copy; 2023  Yann Jajkiewicz."
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: dnd
 
+# Tell Jekyll Not to Publish Posts Dated in the Future
+future: false
+
 # Archives
 jekyll-archives:
   enabled: 'all'
