@@ -40,4 +40,5 @@ https://www.reddit.com/r/dndnext/comments/7iqcnf/what_do_you_do_after_a_tpk/
 
 https://www.reddit.com/r/DMAcademy/comments/1eatotq/tpk_in_lost_mines_of_phandelver_what_now/
 
+https://chaoticneutraldm.com/2020/11/14/the-art-of-the-total-party-kill/
 
