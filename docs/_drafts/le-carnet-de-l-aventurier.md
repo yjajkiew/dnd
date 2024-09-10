@@ -2,7 +2,7 @@
 layout: post
 title: Le carnet de l'aventurier
 author: yann
-date: 2023-10-14
+date: 
 categories: Joueur, Ressources
 ---
 

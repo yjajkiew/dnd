@@ -2,7 +2,7 @@
 layout: post
 title: Le matériel de peinture pour débuter
 author: yann
-date: 2024-07-10
+date: 
 categories: Joueur, Ressources
 ---
 

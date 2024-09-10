@@ -2,7 +2,7 @@
 layout: post
 title: Test
 author: yann
-date: 2023-09-11
+date: 
 categories: CATEGORY-1 CATEGORY-2
 ---
 

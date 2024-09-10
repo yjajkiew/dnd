@@ -2,7 +2,7 @@
 layout: post
 title: Varier les tactiques de combat en fonction des monstres avec "The Monsters Know"
 author: yann
-date: 2024-07-10
+date: 
 categories: Maitre-du-Donjon
 ---
 

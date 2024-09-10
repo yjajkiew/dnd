@@ -2,7 +2,7 @@
 layout: post
 title: 4 styles de masterisation de campagne
 author: yann
-date: 2024-07-10
+date: 
 categories: Maitre-du-Donjon
 ---
 

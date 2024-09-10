@@ -2,7 +2,7 @@
 layout: post
 title: Introduire de nouveaux joueurs temporairement
 author: yann
-date: 2024-07-10
+date: 
 categories: Maitre-du-Donjon
 ---
 

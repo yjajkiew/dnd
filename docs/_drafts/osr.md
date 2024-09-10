@@ -2,7 +2,7 @@
 layout: post
 title: OSR Old School Renaissance
 author: yann
-date: 2024-07-10
+date: 
 categories: Maitre-du-Donjon
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Créer une campagne
 author: yann
-date: 2023-10-01
+date: 
 categories: Maitre-du-Donjon
 ---
 

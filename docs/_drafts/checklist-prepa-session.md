@@ -2,7 +2,7 @@
 layout: post
 title: (Checklist) Préparer une session en 8 points
 author: yann
-date: 2024-09-21
+date: 
 categories: articles
 ---
 

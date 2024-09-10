@@ -2,7 +2,7 @@
 layout: post
 title: 5 idées pour démarrer une aventure
 author: yann
-date: 2024-07-10
+date: 
 categories: Maitre-du-Donjon
 ---
 

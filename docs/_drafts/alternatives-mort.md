@@ -2,7 +2,7 @@
 layout: post
 title: Les alternatives à la mort
 author: yann
-date: 2023-10-01
+date: 
 categories: CATEGORY-1 CATEGORY-2
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Continuer une campagne après un TPK
 author: yann
-date: 2024-07-10
+date: 
 categories: Maitre-du-Donjon
 ---
 

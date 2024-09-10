@@ -2,7 +2,7 @@
 layout: post
 title: Gestion de l'or et des ressources
 author: yann
-date: 2023-10-14
+date: 
 categories: Maitre-du-Donjon
 ---
 
