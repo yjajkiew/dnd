@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Equilibrer un combat
+title: Equilibrer un combat ou une aventure
 author: yann
 date: 
-categories: Maitre-du-Donjon
+categories: articles
 ---
 
 # Equilibrer un combat
@@ -23,3 +23,5 @@ TODO
 </details>
 
 <br />
+
+https://thedmlair.com/blogs/news/how-to-adjust-d-d-adventures-for-party-size-and-level
