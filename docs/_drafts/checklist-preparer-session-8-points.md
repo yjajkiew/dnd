@@ -2,11 +2,11 @@
 layout: post
 title: (Checklist) Préparer une session en 8 points
 author: yann
-date: 
+date: 2024-09-20
 categories: articles
 ---
 
-Préparer une aventure D&D c’est un peu comme concocter un bon plat : il faut un mélange de créativité, d’organisation et une pincée de magie. Voici ma checklist en 8 points pour préparer votre prochaine session.
+Préparer une aventure D&D c’est un peu comme concocter un bon plat : il faut un mélange de créativité, d’organisation et une pincée de magie. Voici ma checklist en 8 points pour préparer votre prochaine session et vous assurer de n'avoir rien oublié.
 
 <br />
 
@@ -34,7 +34,7 @@ Une lettre mystérieuse trouvée dans une vieille bibliothèque, d’un complot 
 
 ## 3. Agenda des Villains
 
-Chaque vilain a un emploi du temps chargé, et il est crucial que vous connaissiez le vôtre sur le bout des doigts. Que préparent vos antagonistes cette fois-ci ? Sont-ils en train de concocter un plan pour envahir un royaume, ou de mettre en place un rituel diabolique ? Préparez leur « to-do list » pour qu’ils soient une menace cohérente et redoutable. Cela vous permettra aussi de garder le rythme et d’assurer que les événements s’enchaînent sans accroc, comme un ballet parfaitement orchestré... jusqu'à ce que vos joueurs interviennent !
+Chaque ennemi a un emploi du temps chargé, et il est crucial que vous connaissiez le vôtre sur le bout des doigts. Que préparent vos antagonistes cette fois-ci ? Sont-ils en train de concocter un plan pour envahir un royaume, ou de mettre en place un rituel diabolique ? Préparez leur « to-do list » pour qu’ils soient une menace cohérente et redoutable. Cela vous permettra aussi de garder le rythme et d’assurer que les événements s’enchaînent sans accroc, comme un ballet parfaitement orchestré... jusqu'à ce que vos joueurs interviennent !
 
 ## 4. Les lieux et PNJ associés
 
@@ -55,6 +55,6 @@ Si vos joueurs sont prêts à monter de niveau, c’est le moment de préparer c
 
 ## 8. Ne préparez pas l'imprévisible
 
-Je ne me le répéterai jamais assez avant une session : il faut oser improviser ! "Interdire les non pour les transformer en oui mais"
+Je ne me le répéterai jamais assez avant une session, donc je l'écris également ici dans cette checklist : il faut oser improviser ! "Interdire le non et le transformer en 'oui mais'" est un motto connu des MD.
 Les meilleurs moments de D&D sont souvent ceux qui ne sont pas planifiés. Laissez de la place pour la spontanéité et assurez-vous que les interactions entre les personnages soient bien intégrées dans la session. La flexibilité et la capacité à s'adapter aux actions des joueurs sont essentielles pour une session fluide et amusante. C’est souvent dans ces moments d’improvisation que naissent les souvenirs les plus mémorables !
 
