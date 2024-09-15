@@ -26,3 +26,5 @@ TODO
 ## 1. TODO
 
 TODO
+
+https://thedmlair.com/blogs/news/3-character-introduction-mistakes-to-avoid
