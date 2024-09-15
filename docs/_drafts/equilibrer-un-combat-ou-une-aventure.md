@@ -9,7 +9,9 @@ categories: articles
 # Equilibrer un combat
 {: .no_toc }
 
-TODO
+Comment Garder Vos Joueurs Sur Le Fil
+
+Guide détaillé pour ajuster la difficulté des combats, en tenant compte des capacités des personnages et de la dynamique du groupe.
 
 <br />
 
