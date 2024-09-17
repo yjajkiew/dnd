@@ -56,6 +56,8 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
 
 #### Série Royaumes oubliés
 
+ - Blades of Moonsea (TODO)
+
 #### Série Ravenloft
 
  - Le Vampire des brumes (1995, Christie Golden) ★★★★★
@@ -66,11 +68,14 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
  - Le Carnaval de la peur (1996, J. Robert King) ★★★★☆
  - L'Ennemi intime numéro un (1996, Christie Golden) ★★★★☆
  - Mordenheim (1996, Chet Williamson) ★★★★☆
- - La Tour de la désolation (1997, Mark Anthony)
+ - La Tour de la désolation (1997, Mark Anthony) ★★★★★
  - La Baronne sanglante (1997, ELaine Bergstrom)
  - Moi, Strahd : journal d'un vampire (1997, P. N. Elrod) ★★★★★
  - Mort d'un sombre seigneur (1998, Laurell K. Hamilton)
- - Le Maître du déclin (1998, Tanya Huff) 
+ - Le Maître du déclin (1998, Tanya Huff)
+ - I, Strahd : the War against Azalin
+ - Spectre of the Black Rose (James Lowder)
+ - Tales of Ravenloft
 
 
 ### BD
@@ -183,6 +188,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Jonathan Strange and Mr Norrell (2015) - 1 saison
  - Stranger Things (2016) - 4 saisons
  - The Good Place (2016) - 4 saisons
+ - Norsemen (2016) - 3 saisons
  - Dark (2017) - 2 saisons
  - Castle Rock (2018) - 2 saisons
  - Chilling adventures of Sabrina (2018) - 4 saisons
