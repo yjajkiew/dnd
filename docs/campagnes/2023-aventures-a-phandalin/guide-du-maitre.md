@@ -165,4 +165,6 @@ Doomed Forgotten Realms: Fall of Vecna (Volume 3) est la troisième aventure d'u
 Dans Fall of Vecna, les personnages joueurs (de niveau 10 à 20) doivent unir les forces des derniers héros survivants afin de combattre Vecna lui-même. L'aventure se termine par une bataille épique dans les rues dévastées de Waterdeep. Au fil de la campagne, les joueurs explorent aussi Ravenloft et affrontent des défis issus de cette chronologie désespérée.
 
 
+## Musiques
 
+ - [Lost Mine of Phandelver Soundtrack](https://www.youtube.com/playlist?list=PL3Rwc05jJOUTtVvrKA3AQExRoE05NNVpm){:target="_blank"} *(playlist youtube)*
