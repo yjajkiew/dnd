@@ -184,16 +184,21 @@ Cet acte repart sur une progression plus linéaire et séquentielle de par les d
  - **Arc R : la passe de Tsolenka**
    - _LEVEL UP 8_
  - **Arc S : Le temple d'Ambre**
-   - 
+   - En construction
  - **Arc T : Les fanes de Barovie**
-   - _LEVEL UP 9_
+   - En construction
+   -  _LEVEL UP 9_
 
 ### Acte V - La malédiction de Strahd
 
+En construction
 
 _LEVEL UP 9_
 
 
 ## Musiques
 
-TODO
+Pas besoin d'aller chercher très loin : Supernova Collective & Allessandro Maggi ont réalisé deux superbes albums *(une version normale et une version LOOP)* contenant une musique d'ambiance pour chaque grande ville/thème de la campagne La Malédiction de Strahd !
+ - [Curse of Strahd](https://supernovacollective.bandcamp.com/album/curse-of-strahd){:target="_blank"}
+ - [Curse of Strahd (LOOP Deluxe Edition)](https://supernovacollective.bandcamp.com/album/curse-of-strahd-loop-deluxe-edition){:target="_blank"}
+
