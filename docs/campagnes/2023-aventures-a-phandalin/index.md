@@ -23,21 +23,36 @@ has_children: true
 
 En 2023 je souhaitais me lancer et jouer à Donjons et Dragons, dans le plus simple appareil et sans groupe j'ai donc pris l'initiative d'apprendre à maîtriser une partie et de faire jouer ma conjointe.
 
-Pour démarrer j'avais acheté la boîte [Dungeons & Dragons : l'Essentiel](https://dnd.wizards.com/fr/products/essentials-kit) qui, pour seulement 20€, contient des aventures dans un monde sandbox ainsi que tout le matériel nécessaire pour démarrer (dés, écran du maître, carte, livret).
+Pour démarrer j'avais acheté la boîte [Dungeons & Dragons : l'Essentiel](https://dnd.wizards.com/fr/products/essentials-kit){:target="_blank"} qui, pour seulement 20€, contient des aventures dans un monde sandbox ainsi que tout le matériel nécessaire pour démarrer (dés, écran du maître, carte, livret).
 
-À l'époque Wizards of the Coast offrait également une version française et digitale gratuitement sur son site le livret de l'autre kit de débutant [La mine oubliée de Phancreux](https://www.aidedd.org/dnd-5/livres/starter-set-lost-mine-of-phandelver/)
+À l'époque Wizards of the Coast offrait également une version française et digitale gratuitement sur son site le livret de l'autre kit de débutant [La mine oubliée de Phancreux](https://www.aidedd.org/dnd-5/livres/starter-set-lost-mine-of-phandelver/){:target="_blank"}
 
-_Edit : WotC fournit toujours gratuitement en digital et en français le [Livret de règles du Kit d'initiation + La mine oubliée de Phancreux](https://media.wizards.com/2021/dnd/downloads/dnd_loc_2010_10_07_fr.zip)_
+_Edit : WotC fournit toujours gratuitement en digital et en français le [Livret de règles du Kit d'initiation + La mine oubliée de Phancreux](https://media.wizards.com/2021/dnd/downloads/dnd_loc_2010_10_07_fr.zip){:target="_blank"}_
 
 Compte tenu que l'ensemble des quêtes et aventures de ces livrets se déroulent au même moment je décidais donc de fusionner l'ensemble pour créer une campagne mélangeant sandbox et storytelling.
 
-La page "Maître du donjon" de cette campagne explique dans les grandes lignes ce qui était planifié.
+La page "[Guide du maître](guide-du-maitre.html)" de cette campagne explique dans les grandes lignes les dessous de cette aventures pour les Maîtres du Donjon.
 
 Cette campagne n'a jamais été jouée jusqu'au bout car un groupe d'amis souhaitant découvrir DnD ont été mordu par une aventure one-shot que j'avais concoté pour débutants et depuis nous jouons à la Malédiction de Strahd ensemble.
 
 # Campagne
 
-Mines oubliées de Phandelver + Le Dragon de la Flèche de Givre
+Partie 1 :
+
+ - Mines oubliées de Phancreux
+ - [Le Dragon de la Flèche de Givre](https://dnd.wizards.com/fr/products/essentials-kit){:target="_blank"}
+
+Partie 2 : 
+
+ - [Beyond the Dragon of Icepire Peak (part 1) : Storm Lords Wrath](https://marketplace.dndbeyond.com/category/SRC-00050){:target="_blank"}
+ - [Beyond the Dragon of Icepire Peak (part 2) : Sleeping Dragons wake](https://marketplace.dndbeyond.com/category/SRC-00051){:target="_blank"}
+ - [Beyond the Dragon of Icepire Peak (part 3) : Divine Contention](https://marketplace.dndbeyond.com/category/SRC-00052){:target="_blank"}
+
+
+Partie 3 : 
+
+ - [Doomed Forgotten Realms : Fall of Vecna Volume 3](https://www.dmsguild.com/product/421754){:target="_blank"}
+
 
 # Le monde
 
