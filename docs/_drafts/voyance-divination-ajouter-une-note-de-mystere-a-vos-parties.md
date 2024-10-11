@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Template
+title: Voyance & divination : ajouter une note de mystère à vos parties
 author: yann
 date: 
 categories: articles
@@ -27,7 +27,6 @@ Introduction
 
 Sources:
 
-Voyance & divination : ajouter une note de mystère dans vos parties
 
 https://dmmicycle.blogspot.com/2024/09/fortune-teller-mechanics.html
 
