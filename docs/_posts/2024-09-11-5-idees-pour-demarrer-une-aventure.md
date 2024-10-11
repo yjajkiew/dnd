@@ -6,9 +6,6 @@ date: 2024-10-11
 categories: articles
 ---
 
-# 5 idées pour démarrer une aventure
-{: .no_toc }
-
 Si vous suivez la méthode du "[Lazy DM](https://slyflourish.com/lazydm/){:target="_blank"}" vous savez sans doute que le lieu importe peu mais qu'un bon départ pour lancer une aventure exige une réaction immédiate de la part des personnages joueurs (PJ). 
 
 Le début d'une bonne aventure immersive doit aborder plusieurs éléments clés :
