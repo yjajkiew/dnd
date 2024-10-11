@@ -11,7 +11,7 @@ categories: articles
 
 Si vous suivez la méthode du "[Lazy DM](https://slyflourish.com/lazydm/){:target="_blank"}" vous savez sans doute que le lieu importe peu mais qu'un bon départ pour lancer une aventure exige une réaction immédiate de la part des personnages joueurs (PJ). 
 
-Un bon démarrage d'aventure doit aborder plusieurs éléments clés :
+Le début d'une bonne aventure immersive doit aborder plusieurs éléments clés :
  - fournir une raison convaincante pour qu'un groupe se retrouve ensemble, qu'il s'agisse d'une mission commune, d'un danger imminent ou d'un objectif partagé
  - offrir de nombreuses occasions de roleplay, ainsi que des défis de compétences et autres interactions, permettant aux joueurs de plonger pleinement dans leur personnage dès le départ
  - forcer le groupe à collaborer immédiatement, quelles que soient leurs différences d'alignement, de passé ou de motivations personnelles, afin de forger une dynamique de groupe
