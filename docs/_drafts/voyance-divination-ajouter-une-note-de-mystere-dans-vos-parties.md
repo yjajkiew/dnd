@@ -1,4 +1,33 @@
-Voyance & divination : intégrer du mystère dans vos parties
+---
+layout: post
+title: Template
+author: yann
+date: 
+categories: articles
+---
+
+Introduction
+
+<br />
+
+<details open markdown="block">
+  <summary>
+    Sommaire
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+<br />
+
+## 1. Point numéro un
+
+
+
+Sources:
+
+Voyance & divination : ajouter une note de mystère dans vos parties
 
 https://dmmicycle.blogspot.com/2024/09/fortune-teller-mechanics.html
 
