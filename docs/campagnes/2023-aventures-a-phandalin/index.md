@@ -4,6 +4,9 @@ title: Aventures à Phandalin (2023)
 parent: Campagnes
 nav_order: 2
 has_children: true
+redirect_from: 
+ - /campagnes/2023-aventures-a-phandalin/session-1.html
+ - /campagnes/2023-aventures-a-phandalin/session-2.html
 ---
 
 # Aventures à Phandalin (2023)
