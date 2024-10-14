@@ -5,6 +5,7 @@ author: yann
 date: 2024-08-15
 categories: articles
 description: ChatGPT peut être une ressource polyvalente pour les Maître du Donjon (MD) afin de brainstormer et éviter la page blanche
+redirect_from: /maitre-du-donjon/2024/08/15/10-facons-utiliser-chatgpt.html
 ---
 
 Dans D&D le rôle du Maître du Donjon (MD) est essentiel : il ou elle crée des mondes, narre des histoires, et guide les joueurs à travers leurs aventures. 
