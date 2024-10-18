@@ -25,34 +25,7 @@ Générateur de noms : https://fr.fantasynamegenerators.com
 
 Démographie calculateur : https://docs.google.com/spreadsheets/d/1ZFbvC5KSwkGg2RlsOICiW4-gEteXxOEP/edit#gid=56616154
 
-## Cartes
 
-### Cartes du monde
-
-cartes gratuites : https://www.caeora.com/world-region-maps
-
-générateur de cartes du monde : https://azgaar.github.io/Fantasy-Map-Generator/
-
-### Cartes de villes
-
-https://watabou.itch.io/medieval-fantasy-city-generator
-
-### Cartes diverses
-
-https://lostatlas.co/
-
-Création de régions : https://www.wonderdraft.net
-
-Création de battlemaps : https://dungeondraft.net/ 
-Assets gratuits pour dungeondraft : 
- - https://www.dropbox.com/sh/893afgovu1jfcf6/AAAaaaY5kN4-bHT1OFvPbiaSa?dl=0
- - https://www.forgotten-adventures.net/product/map-making/assets/dungeondraft-integration/
- - Forest pack : https://cartographyassets.com/assets/9466/crossheads-forest-pack/
- - liste d'assets gratuits : https://2minutetabletop.com/dungeondraft/
-
-Cartes de donjons et battlemaps : https://www.dungeonscrawl.com
-
-Cartes toutes faites : https://dysonlogos.blog/maps/
 
 ## Création de monstres et PNJ
 
