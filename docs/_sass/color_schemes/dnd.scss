@@ -5,6 +5,7 @@ body {
   background-image: url('/assets/background.jpg');
   font-size: 110%;
 }
+
 .side-bar, .main-header, .search-input {
   background-color: transparent !important;
 }
@@ -12,11 +13,13 @@ body {
 .site-header {
   min-height: 12rem !important;
 }
+
 @media (min-width: 50rem) {
   .site-header {
     height: 20rem !important;
   }
 }
+
 .site-logo {
   background-position: center center !important;
 }
