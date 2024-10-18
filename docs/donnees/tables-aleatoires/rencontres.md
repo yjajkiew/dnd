@@ -2,8 +2,10 @@
 layout: default
 title: Rencontres
 parent: Tables aléatoires
-grand_parent: Maître du Donjon (MD)
+grand_parent: Bases de données
 nav_order: 1
+redirect_from: 
+ - /maitre-du-donjon/tables-aleatoires/rencontres.html
 ---
 
 # Rencontres
