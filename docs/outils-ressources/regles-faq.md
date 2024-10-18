@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Règles FAQ
-parent: Maître du Donjon (MD)
+parent: Outils & Ressources
+redirect_from: /maitre-du-donjon/regles-faq.html
 ---
 
 
