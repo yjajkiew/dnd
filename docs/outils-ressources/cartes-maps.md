@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cartes
+title: Cartes / Maps
 parent: Outils & Ressources
 ---
 
