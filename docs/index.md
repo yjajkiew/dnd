@@ -21,9 +21,7 @@ Ce site a pour objectif de fournir des ressources et des astuces précieuses à 
 
 **[Campagnes](/campagnes/)** : contient les campagnes que j'ai pu créer, adapter ou mener. Vous y retrouverez les éléments nécessaires au Maître du Donjon pour maîtriser les campagnes.
 
-**[Outils & Ressources](/outils-ressources/)** : contient toutes les astuces, ressources et sites en lien avec le jeu D&D qui conviennent aux joueurs et aux MD.
-
-**[Maître du Donjon (MD)](/maitre-du-donjon/)** : toute la panoplie des ressources indispensables du Maître du Donjon avec des tables aléatoires, des outils pour la musique, les outils pour créer un monde et des cartes, etc.
+**[Outils & Ressources](/outils-ressources/)** : contient toutes les astuces, outils, ressources et sites en lien avec le jeu D&D pour les joueurs et les MD.
 
 **[Bases de données](/donnees)** : quelques bases simples mais complètes comme les créatures, les objets magiques, les sorts,... avec leur source, le nom anglais pour faire un rapprochement plus rapide, et les descriptifs.
 
