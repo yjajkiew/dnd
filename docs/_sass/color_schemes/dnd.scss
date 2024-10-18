@@ -8,6 +8,15 @@ body {
   background-color: transparent !important;
 }
 
+.site-header {
+  min-height: 12rem;
+}
+@media (min-width: 50rem) {
+  .site-header {
+    height: 20rem;
+  }
+}
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6, .main-content #toctitle, .main-content summary {
   font-family: 'Alegreya', sans-serif;
 }
