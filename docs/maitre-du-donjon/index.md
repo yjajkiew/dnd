@@ -13,6 +13,3 @@ https://homebrewery.naturalcrit.com
 
 Création de personnages DungeonsMastersVault : Packs : https://docs.google.com/spreadsheets/d/129gwuo7c2STrgnNs82KDIN3FcxKccRafOk4ykO_imak/edit#gid=1046689729
 
-Création de maps :
-
-https://inkarnate.com
