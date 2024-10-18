@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Musiques
-parent: Maître du Donjon (MD)
+parent: Outils & Ressources
+redirect_from: 
+ - /maitre-du-donjon/musiques.html
 ---
 
 
