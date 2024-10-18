@@ -7,7 +7,7 @@ parent: Outils & Ressources
 # Cartes
 {: .no_toc }
 
-## Cartes gratuites
+## Cartes préfaites
 
  - Cartes de mondes : https://www.caeora.com/world-region-maps
  - Cartes de combat & donjons :
@@ -19,8 +19,11 @@ parent: Outils & Ressources
 
  - Générateur de cartes de monde : https://azgaar.github.io/Fantasy-Map-Generator/
  - Générateur de cartes de ville : https://watabou.itch.io/medieval-fantasy-city-generator
- - Création en ligne de cartes de combat & donjons : https://www.dungeonscrawl.com
 
+  <br />
+  
+ - Création en ligne de cartes de monde, région, ville : https://inkarnate.com
+ - Création en ligne de cartes de combat & donjons : https://www.dungeonscrawl.com
 
 ## Logiciels
 
