@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Puzzles
-parent: Maître du Donjon (MD)
+parent: Bases de données
+redirect_from: /maitre-du-donjon/puzzles.html
 ---
 
 
