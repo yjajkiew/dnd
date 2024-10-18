@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tables aléatoires
-parent: Maître du Donjon (MD)
+parent: Bases de données
 has_children: true
 ---
 
