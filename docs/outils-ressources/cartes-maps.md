@@ -19,6 +19,7 @@ parent: Outils & Ressources
 
  - Générateur de cartes de monde : https://azgaar.github.io/Fantasy-Map-Generator/
  - Générateur de cartes de ville : https://watabou.itch.io/medieval-fantasy-city-generator
+ - Générateur de donjons : https://watabou.github.io/one-page-dungeon/
 
   <br />
   
