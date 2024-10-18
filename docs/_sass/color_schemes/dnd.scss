@@ -3,7 +3,7 @@
 /* background */
 body {
   background-image: url('/assets/background.jpg');
-  font-size: 110%;
+  font-size: 110% !important;
 }
 
 .side-bar, .main-header, .search-input {
@@ -41,10 +41,8 @@ a:not([class]):hover {
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
   color: #959396 !important;
 }
-@media (min-width: 50rem) and (min-width: 31.25rem) {
-  .nav-list .nav-list-item {
-    font-size: 1rem !important;
-  }
+.nav-list .nav-list-item {
+  font-size: 1rem !important;
 }
 
 /* labels */
