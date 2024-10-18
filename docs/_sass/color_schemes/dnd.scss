@@ -41,7 +41,7 @@ a:not([class]):hover {
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
   color: #959396 !important;
 }
-.nav-list .nav-list-item {
+#site-nav .nav-list .nav-list-item {
   font-size: 1rem !important;
 }
 
@@ -96,6 +96,7 @@ blockquote.note::before {
   color: black;
   border: none;
   padding: 0.25rem;
+  font-size: 1rem;
 }
 
 
