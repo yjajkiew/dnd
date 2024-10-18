@@ -2,7 +2,9 @@
 layout: default
 title: PNJ
 parent: Tables aléatoires
-grand_parent: Maître du Donjon (MD)
+grand_parent: Bases de données
+redirect_from: 
+ - /maitre-du-donjon/tables-aleatoires/pnj.html
 ---
 
 # PNJ
