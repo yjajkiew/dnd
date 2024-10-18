@@ -2,7 +2,6 @@
 layout: default
 title: Figurines & Miniatures
 parent: Outils & Ressources
-nav_order: 4
 ---
 
 *TODO*
