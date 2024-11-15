@@ -13,7 +13,7 @@ Heureusement je ne pars pas de zéro : deux ouvrages sont parus lors d'éditions
 Plus j'y pense, plus je réalise que c'est en définissant ces éléments qu'on peut créer une ville tangible, une ville qui semble réelle aux yeux des joueurs et dans laquelle on peut vivre de véritables aventures.
 
 {: .note }
-> Le Guide du Maître (D&D 5 de 2014) fournit également des exemples et tables aléatoires pour créer une ville et que vous pouvez utiliser en complément de ce guide :
+> Le Guide du Maître (D&D 5 de 2014) fournit également des exemples et tables aléatoires pour créer une ville et que vous pouvez utiliser en complément :
 >- page 16 : taille de la communauté (village, bourgade, ville)
 >- page 18 : les formes de gouvernement possibles (autocratie, féodalité, hiérarchie, militocratie, etc.)
 >- page 19 : explore en surface les notions de commerce et de monnaie
