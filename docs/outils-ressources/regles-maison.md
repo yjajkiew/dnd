@@ -33,12 +33,12 @@ Les personnages ne deviennent pas excessivement puissants trop rapidement, et le
 **Règle maison :** Les personnages de niveau 1 commencent avec des points de vie équivalents à ceux d'un personnage de niveau 2. Lorsque les personnages atteignent le niveau 2, ils ne gagnent pas de points de vie supplémentaire. À partir du niveau 3, ils re-gagnent des points de vie normalement comme à chaque changement de niveau.
 
 
-
 ## Boire une potion en action bonnus
 
 Dans Donjons & Dragons 5e *(2014)*, les règles stipulent que boire une potion (ou en donner une à un autre personnage) est une action. Cependant, une des règles maison les plus populaires est de pouvoir utiliser une potion sur soi en tant qu'action bonus. Cela permet aux personnages de se soigner sans sacrifier leur capacité à attaquer ou lancer des sorts, ce qui rend les combats plus dynamiques. Comme les potions sont des ressources limitées, cette règle encourage leur utilisation stratégique sans pour autant en abuser.
 
 **Règle maison :** Un personnage peut boire une potion en utilisant une action bonus au lieu d'une action. Cela ne s'applique qu'aux potions consommées par le personnage lui-même, et non lorsqu'il s'agit de donner une potion à un allié.
+
 
 ## Long repos des elfes
 
@@ -52,6 +52,7 @@ Durant cette transe on peut considérer qu'une partie des exercices mentaux est 
 
 **Règle maison :** à l'issu de cette transe le joueur lance un jet d'investigation, selon le résultat il obtient alors de la part du MD un indice ou la confirmation d'un doute sur une intrigue en cours.
 
+
 ## Test de groupe
 
 D'après les règles ([SRD v5.1 FR](https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_FR.pdf)) il est possible de réaliser un test de caractéristiques ou de compétences au niveau d'un groupe :
@@ -61,6 +62,7 @@ D'après les règles ([SRD v5.1 FR](https://media.wizards.com/2023/downloads/dnd
 
 **Règle maison :** à l'image des jets de sauvegarde contre la mort lorsqu'un tombe sur un 20 naturel sur 1d20 (avant d'appliquer tout modificateur) cela compte alors comme 2 réussites de groupe, tandis lorsque le résultat est un 1 naturel sur 1d20 alors cela compte comme 2 échecs pour le groupe.
 
+
 ## Petite Hutte de Léomund pour Clerc
 
 Le deck cartes de sort pour clerc D&D 5e officiel contient 153 cartes cartonnées plastifiées et contient, sûrement par [erreur](https://www.reddit.com/r/dndnext/comments/es47bi/comment/ff7q3x4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) le sort [Petite hutte de Léomund](/donnees/sorts.html#petite-hutte-de-l%C3%A9omund-niveau-3). 
@@ -69,7 +71,9 @@ Faisant confiance au matériel officiel WotC il m'a fallu plusieurs mois avant d
 
 >Le sort [Petite hutte de Léomund](/donnees/sorts.html#petite-hutte-de-l%C3%A9omund-niveau-3) est autorisé dans les sorts niveau 3 pour la classe de Clerc
 
+## 20 naturel sur initiative
 
+Un résultat "20 naturel" sur un jet d'initiative permet au joueur de choisir sa place dans l'ordre d'initiative.
 
 
 
