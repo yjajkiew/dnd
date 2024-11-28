@@ -9,7 +9,7 @@ categories: articles
 # Introduire un nouveau personnage
 {: .no_toc }
 
-Que ce soit parce qu'un personnage est mort que votre joueur doit en créer un nouveau, ou que ce soit tout simplement pour introduire un nouveau personnage temporaire car vous accueillez un joueur invité temporairement dans une campagne, il est toujours intéressant de mettre en place des astuces narratives pour introduire un personnage dans la bande.
+L'intégration d'un nouveau personnage dans une campagne en cours, que ce soit suite à la mort d'un personnage ou pour accueillir un invité temporaire, représente un défi pour les MD en quête de cohérence narrative. Cette introduction est essentielle pour maintenir l'immersion des joueurs, tout en permettant au nouveau venu de participer rapidement à l'aventure. J'ai réfléchi à différentes approches pour gérer cette situation et vous trouverez ci-dessous le résultat de mes réflexions.
 <br />
 
 <details open markdown="block">
@@ -23,62 +23,44 @@ Que ce soit parce qu'un personnage est mort que votre joueur doit en créer un n
 
 <br />
 
-## Quel moment ?
+## Trouver le bon moment
 
-#1 – If the group is in-between adventures in town, I have the new character arrive before the rest of the characters, and then I turn to the player and ask them, “Could you explain why you are here and why you want to join the group?”
+À mon sens il y a deux approches radicalement différentes d’aborder le moment d’introduction, et bien évidemment comme souvent la vérité se trouve à l’équilibre entre les deux :
+- **l'approche organique** : attendre le moment narratif idéal. Bien qu'elle favorise l'immersion cela peut être la pire méthode pour un joueur débutant.
+- **l'approche pragmatique** : privilégier une intégration rapide quitte à mettre à mal la cohérence narrative. L'objectif est de permettre au nouveau joueur de participer rapidement aux aventures.
 
-#2 – If the group is in the middle of an adventure, I have the new character arrive before the rest of the characters, and then I turn to the player and ask them, “Could you explain why you are here and why you want to join the group?”
+Pour moi l'important est que le nouveau joueur puisse participer rapidement et s'amuser donc j’ai tendance à mettre comme **règle d'or** que 5 à 10 minutes doivent suffir pour introduire un nouveau personnage. Mais cela demande de l'ingéniosité pour l'insérer de manière cohérente dans l'histoire. 
 
-Why is that new character there in that moment? Why do they want to join the existing adventuring party? Why are they motivated to help the party with their current goals?
+## L'approche narrative
 
+### Le mandat officiel
 
-### Directement dans l'action
-Usually within 5 minutes we can get them plugged in so they can enjoy the game along with everyone else.
+Une approche formelle où le nouveau personnage est envoyé par une autorité reconnue : une guilde, un souverain, ou une divinité. Cette méthode fonctionne particulièrement bien pour les personnages d'un certain niveau dont la réputation n'est plus à faire. 
+Pour les personnages de bas niveau on peut adapter cette approche en faisant intervenir des autorités locales ou des organisations mineures, permettant ainsi une progression naturelle dans l'importance des missions confiées.
 
-When you’re introducing a character in medias res, you’re introducing them at the next logical step in the very session their player has them ready. This means you’ll have to work some magic to insert them into the story in a sound way. Work with the player to make this happen. Overall, this is the best way to introduce a new character. It keeps the story intact, lets the new player or the old player’s new character quickly join in on the action again, and only requires a bit of coordination and suspension of disbelief from the rest of the group.
+Cette méthode a l'avantage de donner d'emblée un objectif clair et une légitimité au nouveau venu.
 
-### En temps voulu
+### La rencontre fortuite
 
-If you’re willing to wait for the perfect moment to introduce a new party member, you’re following the “at the proper time” approach. Sadly, it might take longer to let a new member join this way, but it might be the right method if your group is super into immersive gameplay. In my view, this is the worst way to introduce a new member, especially if it’s a completely new player. Get people into the game, don’t stall and respect the story, giving it precedence over the fun of the new player unless you see it as a necessary evil.
+Dans une taverne quelconque le groupe rencontre le nouveau personnage déjà présent. Après avoir partagé quelques histoires, ils décident naturellement de faire équipe. On est sur un grand classique mais qui possède l'avantage d'être simple à mettre en place et de s’adapter à beaucoup de scénarios. 
 
- is the PERFECT character introduction at the PERFECT moment really worth it if a player’s personal game experience suffers because of it?
- 
+Pour rendre l’approche plus intéressante on peut ajouter des détails croustillants : peut-être le nouveau personnage possède des informations cruciales sur la quête en cours ou possède un objet mystérieux lié à l'intrigue principale.
 
-### Le plus rapidement possible
+### Le vieil ami
 
-is the PERFECT character introduction at the PERFECT moment really worth it if a player’s personal game experience suffers because of it?
+Le nouveau personnage est un ami de longue d'un membre du groupe. Il contacte son vieil ami pour obtenir de l'aide ou renouer contact mais se retrouve embarqué dans l’aventure en cours.
 
-Some folks don’t care about immersion or story sensibility and love the “as fast as possible” tactic. This means as soon as the session starts, the party gains a new member no matter the circumstance the group is in. I’ve seen groups where the new member simply fades into the group, teleports in via an extra dimensional portal, or just charges into the session-starting battle. It works, just not for all groups. Some people don’t care how their new friend joins in, they just want them there; they’re able to conjure up how and why they’re there on the spot.
-
-I have found that it’s better to lean into the absurd a little bit. 
-
-
-
-## Quelle explication narrative ?
-
-### Envoi par une guilde
-
-Someone you know is in need of assistance or a favor. For low level characters it could be a relative, like a distant cousin or long forgotten uncle, or even a here-to-fore unknown half-sibling, or possibly a childhood friend or former love (see also; #2). For higher level characters perhaps your reputation is becoming renowned. Did you not know the Bards sing of you? The Duke, the GuildMaster, or even the King therefore requests your aid in an urgent matter. it should be noted that many of these hooks or adventure starts involve the PCs being verbally summoned (their presence is requested) by someone; whether King, or relation, or old friend, or Guild, or patron deity
-
-### Une rencontre fortuite
-
-At any town, the party goes to a tavern, the new PC is in said tavern, they share stories and by the end of the night they decide to join up. 
-
-### Un vieil ami
-
-The new PC is a childhood friend of an existing PC. They contact the existing PC for help with something. Maybe they’ve found a map hidden in the binding of an old book, or bought a locket from a traveling merchant and discovered something special. 
+Cette approche classique du "vieil ami" offre l'avantage de créer instantanément des liens narratifs entre les personnages. Cela évite le sentiment artificiel d'une rencontre fortuite tout en donnant au nouveau joueur des points d'accroche immédiats pour le roleplay. De plus, cela permet d'enrichir le background des personnages existants en révélant des aspects de leur passé à travers cette nouvelle relation.
 
 ### Le recrutement
 
-we'd like to hold a job interview in character because we felt like we needed a 4th person.
-The DM then created a bunch of junk options that were there to be comedically bad so the only sensible choice was to hire the new player. 
+Le groupe peut décider d'organiser un recrutement formel pour trouver un nouveau membre. Cette approche peut être particulièrement amusante à jouer en roleplay, avec des entretiens d'embauche où chaque personnage pose ses questions et exprime ses attentes. C'est aussi l'occasion d'établir clairement les objectifs et valeurs du groupe auprès du nouveau venu.
 
-### Le NPC devient PNJ
- Presumably you're pretty familiar with the NPC who comes to the party with their problem. Or the party runs into them. Whatever. Make the player that NPC. 
- 
+### Le PNJ qui devient PJ
 
+Un PNJ familier du groupe vient les solliciter, ou le groupe le rencontre par hasard. Peu importe les circonstances, ce PNJ devient le personnage du nouveau joueur.
 
-
+Cette approche fonctionne particulièrement bien lorsque le groupe a déjà une certaine histoire et que les personnages ont eu l'occasion d'interagir avec divers PNJ au fil de leurs aventures. Cela permet une transition naturelle et crédible, puisque les autres personnages connaissent déjà ce nouveau membre potentiel.
 
 
 
