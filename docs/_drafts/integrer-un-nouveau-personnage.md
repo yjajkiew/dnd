@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Introduire de nouveaux joueurs temporairement
+title: Comment intégrer un nouveau personnage ?
 author: yann
-date: 
+date: 2024-12-06
 categories: articles
 ---
+
+
 
 # Introduire un nouveau personnage
 {: .no_toc }
 
-L'intégration d'un nouveau personnage dans une campagne en cours, que ce soit suite à la mort d'un personnage ou pour accueillir un invité temporaire, représente un défi pour les MD en quête de cohérence narrative. Cette introduction est essentielle pour maintenir l'immersion des joueurs, tout en permettant au nouveau venu de participer rapidement à l'aventure. J'ai réfléchi à différentes approches pour gérer cette situation et vous trouverez ci-dessous le résultat de mes réflexions.
+L'intégration d'un nouveau personnage dans une campagne en cours, que ce soit suite à la mort d'un personnage ou pour accueillir un invité temporaire, représente un défi pour les MD en quête de cohérence narrative. Cette introduction est essentielle pour maintenir l'immersion des joueurs tout en permettant au nouveau venu de participer rapidement à l'aventure. J'ai réfléchi à différentes approches pour gérer cette situation et vous trouverez ci-dessous le résultat de mes réflexions.
 <br />
 
 <details open markdown="block">
@@ -31,7 +33,18 @@ L'intégration d'un nouveau personnage dans une campagne en cours, que ce soit s
 
 Pour moi l'important est que le nouveau joueur puisse participer rapidement et s'amuser donc j’ai tendance à mettre comme **règle d'or** que 5 à 10 minutes doivent suffir pour introduire un nouveau personnage. Mais cela demande de l'ingéniosité pour l'insérer de manière cohérente dans l'histoire. 
 
-## L'approche narrative
+## Les accroches narratives
+
+Chaque accroche narrative s'adaptera différemment selon votre scénario pour préserver la cohérence narrative si durement mise en place par le MD. N'hésitez pas à vous inspirer de ces classiques et à les adapter à votre contexte.
+
+### La rencontre fortuite
+
+> Dans leur taverne préférée le groupe rencontre un voyageur qui n'est ni plus ni moins que le nouveau personnage. Après avoir partagé quelques histoires ils décideront alors de faire équipe.
+
+On est sur un grand classique mais ce dernier possède l'avantage d'être simple à mettre en place et d'être assez flexible pour s’adapter à beaucoup de campagnes/scénarios. 
+
+Pour rendre l’approche plus intéressante n'hésitez pas à ajouter des détails croustillants et faciliter la rencontre : le nouveau personnage posséderai des informations cruciales sur la quête en cours ou possèderai un objet mystérieux lié à l'intrigue principale.
+
 
 ### Le mandat officiel
 
@@ -39,12 +52,6 @@ Une approche formelle où le nouveau personnage est envoyé par une autorité re
 Pour les personnages de bas niveau on peut adapter cette approche en faisant intervenir des autorités locales ou des organisations mineures, permettant ainsi une progression naturelle dans l'importance des missions confiées.
 
 Cette méthode a l'avantage de donner d'emblée un objectif clair et une légitimité au nouveau venu.
-
-### La rencontre fortuite
-
-Dans une taverne quelconque le groupe rencontre le nouveau personnage déjà présent. Après avoir partagé quelques histoires, ils décident naturellement de faire équipe. On est sur un grand classique mais qui possède l'avantage d'être simple à mettre en place et de s’adapter à beaucoup de scénarios. 
-
-Pour rendre l’approche plus intéressante on peut ajouter des détails croustillants : peut-être le nouveau personnage possède des informations cruciales sur la quête en cours ou possède un objet mystérieux lié à l'intrigue principale.
 
 ### Le vieil ami
 
