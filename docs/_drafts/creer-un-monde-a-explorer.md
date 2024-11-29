@@ -1,4 +1,6 @@
 
+Tips : https://grinningrat.substack.com/p/create-unforgettable-worlds
+
 Creer un monde à explorer ? Créeer un sandbox ? Creer une campagne ?
 
 Limitations du format traditionnel de D&D
