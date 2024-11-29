@@ -26,7 +26,7 @@ Introduction
 
 
 Sources:
-
+https://signsinthewilderness.blogspot.com/2024/11/oracles-or-letting-surprising-future.html?utm_source=substack&utm_medium=email
 
 https://dmmicycle.blogspot.com/2024/09/fortune-teller-mechanics.html
 
