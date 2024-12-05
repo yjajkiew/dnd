@@ -6,11 +6,6 @@ date: 2024-12-06
 categories: articles
 ---
 
-
-
-# Introduire un nouveau personnage
-{: .no_toc }
-
 L'intégration d'un nouveau personnage dans une campagne en cours, qu'il s'agisse de remplacer un personnage mort ou d'accueillir un joueur invité, représente un défi pour les MD en quête de cohérence narrative. Cette introduction est cruciale : elle doit maintenir l'immersion des joueurs existants tout en permettant au nouveau venu de rejoindre rapidement l'aventure. Je liste ci-dessous le fruit de ma réflexion sur les différentes approches possibles pour gérer cette situation où il faut à la fois trouver le bon moment et l'astuce narrative qui rend la chose crédible.
 <br />
 
@@ -73,7 +68,7 @@ Un PNJ familier du groupe vient les solliciter, ou le groupe le rencontre par ha
 
 Cette approche fonctionne particulièrement bien lorsque le groupe a déjà une certaine histoire et que les personnages ont eu l'occasion d'interagir avec divers PNJ au fil de leurs aventures. Cela permet une transition naturelle et crédible, puisque les autres personnages connaissent déjà ce nouveau membre potentiel.
 
-# Conclusion
+## Conclusion
 
 L'introduction d'un nouveau personnage dans une campagne en cours nécessite un équilibre délicat entre cohérence narrative et pragmatisme. 
 Quelques points clés à retenir :
