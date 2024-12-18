@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Continuer l'aventure après une TPK
-author: yann
+title: Survivre et continuer après un TPK (Total Party Kill)
 date: 2025-01-17
 categories: articles
 ---
@@ -32,24 +31,24 @@ Avant de décider de comment continuer l'aventure après un TPK il faut regarder
 
 Ce n'est pas la même histoire si votre groupe d’aventurier niveau 2 se fait décimer par des gobelins ou si vos héros niveau 15 tombent face à l’antagoniste final. 
 
-### Niveaux 1-4
+### Tier 1 : niveaux 1-4
 
 Ces niveaux sont paradoxalement les plus mortels mais aussi les plus faciles à gérer en cas de TPK. Les personnages n'ont pas encore découvert beaucoup de l'histoire principale, et les joueurs y sont moins attachés. 
 
 En cas de TPK, il est plus simple de créer de nouveaux personnages chargés d'enquêter sur la disparition des héros précédents.
 
-### Niveaux 5-10
+### Tier 2 : niveaux 5-10
 
 C'est une période plus délicate car les personnages sont déjà impliqués dans l'histoire. Cependant, cela peut rendre les choses plus intéressantes : l’ennemi a gagné en puissance et les enjeux sont plus élevés.
 Si des PNJ peuvent raisonnablement atteindre les corps, une résurrection est envisageable. C'est à ces niveaux que cette option a le plus de sens. Ou leur renommée peut avoir inspiré d'autres aventuriers qui pourraient prendre leur relève.
 
-### Niveaux 11-16
+### Tier 3 : niveaux 11-16
 
 À ce stade les personnages sont bien avancés dans leur classe et possèdent des objets magiques intéressants. La perte est plus douloureuse pour les joueurs et on approche souvent du climax de l'histoire.
 
 La résurrection reste possible mais complexe à ce niveau : les personnages sont souvent morts dans des donjons difficiles d'accès.
 
-### Niveaux 17-20
+### Tier 4 : niveaux 17-20
 
 Les personnages sont désormais légendes vivantes et leur mort a un impact immédiat sur le monde. À ce niveau il peut être préférable de conclure la campagne : toutes les histoires n'ont pas une fin heureuse.
 
