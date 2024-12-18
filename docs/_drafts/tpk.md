@@ -30,8 +30,6 @@ https://www.quora.com/How-do-you-handle-a-TPK-in-D-D
 
 https://3wisedms.com/your-campaign-isnt-broken-recovering-from-a-tpk/
 
-https://forums.giantitp.com/showthread.php?517951-What-to-do-after-a-TPK
-
 https://www.dungeonsolvers.com/what-happens-after-tpk-dnd-5e/
 
 https://thedmlair.com/blogs/news/you-tpk-d-now-what-how-to-handle-a-total-party-kill-in-d-d?srsltid=AfmBOoq058MoaUaSyzQfA6-QpVQ10il2vn4PY4lVoSgzZFvTmAy5sp5p
