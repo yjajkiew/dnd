@@ -30,29 +30,29 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
 #### Tolkien
 
  - Le Hobbit ★★★★★
- - La trilogie **Le Seigneur des anneaux** ★★★★★
-   - Le Seigneur des anneaux : la Communauté de l'anneau
-   - Le Seigneur des anneaux : Les Deux Tours
-   - Le Seigneur des anneaux : Le Retour du roi
+ - La trilogie Le Seigneur des anneaux
+   - Le Seigneur des anneaux : la Communauté de l'anneau ★★★★☆
+   - Le Seigneur des anneaux : Les Deux Tours ★★★★★
+   - Le Seigneur des anneaux : Le Retour du roi ★★★★★
 
-#### Série DragonLance ★★★★★
+#### Série DragonLance
 
- - Trilogie des Chroniques de Lancedragon
+ - Trilogie des Chroniques de Lancedragon ★★★★★
    - Dragons d'un crépuscule d'automne (1996, Margaret Weis & Tracy Hickman)
    - Dragons d'une nuit d'hiver (1996, Margaret Weis & Tracy Hickman)
    - Dragons d'une aube de printemps (1996, Margaret Weis & Tracy Hickman)
- - Chroniques perdues
+ - Chroniques perdues ★★★★☆
    - Dragons des profondeurs (2008, Margaret Weis & Tracy Hickman)
    - Dragons des cieux (2008, Margaret Weis & Tracy Hickman)
    - Le Mage aux sabliers (2009, Margaret Weis & Tracy Hickman)
- - Les Légendes de Lancedragon
+ - Les Légendes de Lancedragon ★★★★★
    - Le Temps des jumeaux (1996, Margaret Weis & Tracy Hickman)
    - La Guerre des jumeaux (1996, Margaret Weis & Tracy Hickman)
    - L'Épreuve des jumeaux (1996, Margaret Weis & Tracy Hickman)
- - Les Nouvelles Chroniques
+ - Les Nouvelles Chroniques ★★★★☆
    - Deuxième Génération (1999, Margaret Weis & Tracy Hickman)
    - Dragons d'une flamme d'été (2002, Margaret Weis & Tracy Hickman)
- - La Séquence de Raistlin
+ - La Séquence de Raistlin ★★★★★
    - Une âme bien trempée (2003, Margaret Weis & Tracy Hickman)
    - Les Frères d'armes (2003, Margaret Weis & Ron Perrin)
 
@@ -71,13 +71,13 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
  - L'Ennemi intime numéro un (1996, Christie Golden) ★★★★☆
  - Mordenheim (1996, Chet Williamson) ★★★★☆
  - La Tour de la désolation (1997, Mark Anthony) ★★★★★
- - La Baronne sanglante (1997, ELaine Bergstrom)
+ - La Baronne sanglante (1997, ELaine Bergstrom) ★★★★★
  - Moi, Strahd : journal d'un vampire (1997, P. N. Elrod) ★★★★★
- - Mort d'un sombre seigneur (1998, Laurell K. Hamilton)
+ - Mort d'un sombre seigneur (1998, Laurell K. Hamilton) ★★★★☆
  - Le Maître du déclin (1998, Tanya Huff)
- - I, Strahd : the War against Azalin
+ - I, Strahd : the War against Azalin ★★★★☆
  - Spectre of the Black Rose (James Lowder)
- - Tales of Ravenloft
+ - Tales of Ravenloft ★★★☆☆
 
 
 ### BD
@@ -86,9 +86,6 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
  - Dark Crystal - Les Ombres du Dark Crystal Tome 1
  - Dark Crystal - Le Chant du Dark Crystal Tome 2
  - Dark Crystal - Les Marées du Dark Crystal Tome 3
-
-Initialement prévu sous forme de film, la suite du grand classique de 1982 ne verra le jour que sous forme de 3 tomes de bandes dessinées en 2017.
-L'histoire se déroule des années après les événements du film où le Dark Crystal a été réparé et la paix restaurée sur Thra. Le monde est désormais confronté à la nécessité de raviver un soleil mourant au centre de la planète. L'histoire de "Power of the Dark Crystal" suit les aventures d'une jeune Fireling nommée Thurma, ainsi que de Kensho, un Gelfling exilé, qui volent un éclat du Cristal de Vérité dans une tentative de raviver le soleil mourant.
 
 
 #### Elfes, Nains, Orcs & Gobelins, Mages / Editions Soleil
