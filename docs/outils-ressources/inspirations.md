@@ -201,7 +201,7 @@ L'univers des Terres d'Arran, dépeint à travers les bandes dessinées "Elfes,"
  - Blood of Zeus (2020) - 2 saisons
  - The Haunting of Bly Manor (2020) - 1 saison
  - Chapelwaite (2021) - 1 saison
- - Arcane (2021) - 1 saison
+ - Arcane (2021) - 2 saisons
  - Midnight Mass (2021) - 1 saison
  - Le Seigneur des anneaux : Les Anneaux de pouvoir (2022) - 2 saisons
  - The Midnight Club (2022) - 1 saison
