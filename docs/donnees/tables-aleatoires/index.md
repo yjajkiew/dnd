@@ -5,6 +5,7 @@ parent: Bases de données
 has_children: true
 redirect_from: 
  - /maitre-du-donjon/tables-aleatoires
+ - /maitre-du-donjon/tables-aleatoires/
 ---
 
 # Tables aléatoires
