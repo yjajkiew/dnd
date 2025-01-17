@@ -28,7 +28,7 @@ Oui, le parchemin est alors détruis ([Source]([https://www.sageadvice.eu/lucky-
 
 ## Métal brûlant : si je porte une armure de plates et que je réussis le jet de sauvegarde, est-ce que j’ai quand même un désavantage ?
 
-Vous avez un désavantage tant que vous portez le métal chauffé. Votre meilleure option est de briser la concentration du lanceur de sorts. ([Source]([https://www.sageadvice.eu/lucky-death-saving-throw/](https://www.sageadvice.eu/heat-metal/)))
+Vous avez un désavantage tant que vous portez le métal chauffé. Votre meilleure option est de briser la concentration du lanceur de sorts. ([Source](https://www.sageadvice.eu/heat-metal/))
 
 ## Métal brûlant : si je porte une armure ciblée par le sort, puis-je la retirer pour ne plus être affecté ?
 
