@@ -2,6 +2,9 @@
 layout: default
 title: Cartes / Maps
 parent: Outils & Ressources
+redirect_from: 
+ - /maitre-du-donjon/worldbuilding.html
+ - /maitre-du-donjon/worldbuilding
 ---
 
 # Cartes
