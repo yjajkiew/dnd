@@ -18,6 +18,21 @@ redirect_from: /maitre-du-donjon/regles-faq.html
 {:toc}
 </details>
 
+
+## Comment calculer le niveau de difficulté (DD) d'un jet de sauvegarde d'une créature ?
+
+Le DD pour un jet de sauvegarde d'un sort est déterminé par la caractéristique d'incantation du lanceur et son bonus de maîtrise.
+La formule est : 8 + modificateur de la caractéristique appropriée + bonus de maîtrise du monstre
+
+## Combien de sorts puis-je préparer ?
+
+Le nombre de sort est égal au niveau du personnage auquel on additionne son modificateur de caractérisitque d'incantation.
+Exemple : un clerc niveau 8 avec SAG+4 peut préparer 12 sorts.
+
+## Un sort lancé en rituel consomme-t-il des composants ?
+
+Le manuel des joueurs (D&D 5e 2014) indique en p. 201 que la version d'un sort lancé en rituel demande 10 minutes de plus que la version normale et ne coûte pas d'emplacement de sort. À mon sens la consommation des composants reste inchangée car non mentionnée.
+
 ## La capacité ou trait "chanceux" (lucky) s'applique-t-elle aux jets de sauvegarde contre la mort
 
 Oui ([Source](https://www.sageadvice.eu/lucky-death-saving-throw/))
@@ -34,12 +49,6 @@ Vous avez un désavantage tant que vous portez le métal chauffé. Votre meilleu
 
 D'après les [règles 5e DRS](https://5e-drs.fr/armures/#enfiler-et-retirer-une-armure-2) il faut 1mn pour retirer une armure légère/intermédiaire et 5 minutes pour retirer une armure lourde.
 Étant donné qu'en combat un tour complet constitue 6 secondes, il faudrait alors 10 tours pour qu'un personnage ou ennemi retirer une armure légère/intermédiaire et 50 tours pour une armure lourde.
-
-
-## Comment calculer le niveau de difficulté (DD) d'un jet de sauvegarde d'une créature ?
-
-Le DD pour un jet de sauvegarde d'un sort est déterminé par la caractéristique d'incantation du lanceur et son bonus de maîtrise.
-La formule est : 8 + modificateur de la caractéristique appropriée + bonus de maîtrise du monstre
 
 ## Un familier ne parle pas le commun, comment peut-il communiquer avec son maître ?
 
