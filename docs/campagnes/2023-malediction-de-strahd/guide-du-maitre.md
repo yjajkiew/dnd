@@ -65,7 +65,6 @@ La timeline est assez linéaire dans cet art d'introduction.
    - C7. Les bois
    - C8. La ville de Valliki
 
-
 ### Acte II - La ville ombragée
 
 Progression du niveau 4 à 5.
@@ -176,24 +175,37 @@ Cet acte repart sur une progression plus linéaire et séquentielle de par les d
    - P11. Les donjons
    - P12. Les catacombes
    - P13. Rahadin
-   - _LEVEL UP 7_
  - **Arc Q : Le réveil du fanal**
    - Q1. S'échapper de Ravenloft
    - Q2. L'avertissement du revenant
    - Q3. Retour à Argynvostholt
- - **Arc R : la passe de Tsolenka**
-   - _LEVEL UP 8_
+   - _LEVEL UP 7_
+ - **Arc R : Le col de Tsolenka**
+   - R1. La route vers Tsolenka
+   - R2. La porte de Tsolenka
+   - R3. Le chemin du froid
  - **Arc S : Le temple d'Ambre**
-   - En construction
- - **Arc T : Les fanes de Barovie**
-   - En construction
-   -  _LEVEL UP 9_
+   - S1. Le vestige de Caelynn
+   - S2. Le Temple d'Ambre
+   - S3a. Neferon
+   - S3b. Les pouvoirs sombres
+   - S3c. Le secret de Kasimir
+   - S3d. Vilnius
+   - S4. Sortie du temple
+   - _LEVEL UP 8_
+ - **Arc T : Les sanctuaires de Barovie**
+   - T1. Les Trois Dames
+   - T2a. Vision des Marais
+   - T2b. Sous l'arbre de Gulthias
+   - T2c. Le coeur de la Montagne
+   - _LEVEL UP 9_
 
 ### Acte V - La malédiction de Strahd
-
-En construction
-
-_LEVEL UP 9_
+ - **Arc U : La malédiction de Strahd**
+   - U1. Discours de Strahd
+   - U2. Le combat final
+   - U3. Epilogue
+_LEVEL UP 10_
 
 
 ## Musiques
