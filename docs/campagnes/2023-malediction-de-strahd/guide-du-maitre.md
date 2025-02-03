@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guide du maître
-parent: La Malédiction de Strahd (2023-2024)
+parent: La Malédiction de Strahd (2023-2025)
 grand_parent: Campagnes
 nav_order: 1
 ---
