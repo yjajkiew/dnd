@@ -10491,8 +10491,6 @@ Occultiste
 Player´s Handbook (BR+)
 {: .label .label-border-white }
 
-{: .label .label-border-white }
-
 
 Nuée de météores _(niveau 9)_
 ================
