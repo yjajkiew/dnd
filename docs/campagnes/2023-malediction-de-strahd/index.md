@@ -1,6 +1,6 @@
 ---
 layout: default
-title: La Malédiction de Strahd (2023-2024)
+title: La Malédiction de Strahd (2023-2025)
 parent: Campagnes
 nav_order: 2
 has_children: true
