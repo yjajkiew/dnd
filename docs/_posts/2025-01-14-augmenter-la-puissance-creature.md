@@ -2,7 +2,7 @@
 layout: post
 title: Augmenter la puissance d'une créature
 author: yann
-date: 2024-02-14
+date: 2025-02-14
 categories: articles
 ---
 
