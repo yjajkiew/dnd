@@ -50,6 +50,10 @@ a:not([class]):hover {
   background-color: transparent;
   border: 1px solid white;
 }
+.label.label-border-black {
+  background-color: transparent;
+  border: 1px solid black;
+}
 .label.label-green {
   background-color: darkolivegreen;
 }
