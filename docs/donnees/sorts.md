@@ -6441,8 +6441,6 @@ Magicien
 Player´s Handbook (BR+)
 {: .label .label-border-white }
 
-{: .label .label-border-white }
-
 
 Forme éthérée _(niveau 7)_
 =============
@@ -10298,8 +10296,6 @@ Barde
 Player´s Handbook (BR+)
 {: .label .label-border-white }
 
-{: .label .label-border-white }
-
 
 Mythes et légendes _(niveau 5)_
 ==================
@@ -10595,8 +10591,6 @@ Magicien
 {: .label .label-green }
 
 Player´s Handbook (BR+)
-{: .label .label-border-white }
-
 {: .label .label-border-white }
 
 
@@ -11593,8 +11587,6 @@ Occultiste
 {: .label .label-green }
 
 Player´s Handbook (BR+)
-{: .label .label-border-white }
-
 {: .label .label-border-white }
 
 
