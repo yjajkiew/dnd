@@ -49,7 +49,7 @@ ___
 >{: .label .label-green }
 >
 >Xanathar´s Guide to Everything
->{: .label .label-border-white }
+>{: .label .label-border-black }
 {: .statblock5e }
 
 Agrandissement/Rapetissement _(niveau 2)_
