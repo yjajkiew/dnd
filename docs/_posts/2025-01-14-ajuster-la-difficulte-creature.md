@@ -62,7 +62,7 @@ Cette méthode pourrait sembler arbitraire, mais c'est là que le **Guide du Ma�
 *Exemples de FP 7 :*
 
 | FP | Bonus de Maîtrise | CA | PV | Bonus d’attaque | Dégâts | DD JS |
-| --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 7 | +3 | 15 | 161-175 | +6 | 45-50 | 15 |
 
 ## Et pour aller plus loin ?
