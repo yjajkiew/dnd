@@ -69,8 +69,8 @@ Cette méthode pourrait sembler arbitraire, mais c'est là que le **Guide du Ma�
 
 Si vous préférez ne pas utiliser le tableau du Guide du Maître, il existe des calculateurs en ligne et des formules plus élaborées permettant d'obtenir des réglages encore plus précis. Voici quelques exemples :
 
-- une méthode de calcul approfondie basée sur une analyse détaillée du Manuel des Monstres : https://www.blogofholding.com/?p=7338
-- calculateur en ligne : https://monsterscalingtool.pythonanywhere.com/
+- une méthode de calcul approfondie basée sur une analyse détaillée du Manuel des Monstres : [https://www.blogofholding.com/?p=7338](https://www.blogofholding.com/?p=7338)
+- calculateur en ligne : [https://monsterscalingtool.pythonanywhere.com](https://monsterscalingtool.pythonanywhere.com)
 
 Vous souhaitez transformer votre orc puissant en véritable boss ? Dotez-le de capacités spéciales de villain. Voici quelques suggestions :
 
