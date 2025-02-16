@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Augmenter la puissance d'une créature
+title: Ajuster la difficulté d'une créature
 author: yann
 date: 2025-02-14
 categories: articles
