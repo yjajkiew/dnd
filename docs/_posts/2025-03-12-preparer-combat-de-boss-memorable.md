@@ -140,7 +140,7 @@ L'ajout de sbires peut enrichir la stratégie et empêcher que les joueurs ne su
 
 ## Après le combat
 
-### **Donner un but et une récompense aux combats**
+### Donner un but et une récompense aux combats
 
 Assurez-vous que chaque affrontement ait une raison d'être dans l'histoire et offre une satisfaction aux joueurs, que ce soit sous forme de trésors, d'informations ou de progression dans l'intrigue.
 
