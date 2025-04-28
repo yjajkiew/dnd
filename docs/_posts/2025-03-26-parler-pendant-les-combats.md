@@ -43,7 +43,7 @@ Pour ma part j’ai essayé deux approches diamétralement opposées au sein de 
 
 Chaque approche a ses avantages et ses inconvénients. Aucune d’elle n’a foncièrement pris racine au sein de mon groupe mais étant donné que chaque dynamique de groupe et chaque table de jeu est différente cela peut valoir le coup de les passer en revue et de les essayer !
 
-### Option 1 : t**our par tour**
+### Option 1 : tour par tour
 
 **Chaque personnage ne peut s’exprimer que pendant son propre tour.** Pas de discussions entre les tours, sauf pour de brèves interjections (réaction instinctive, cri bref, etc.). Cela reflète le chaos d’un combat réel, où parler et écouter simultanément n’est pas si évident.
 
@@ -51,7 +51,7 @@ L’avantage majeur du tour à tour est que la règle est simple, est la même p
 
 Mais en contre-partie cette méthode peut générer de la frustration : si un joueur a une idée brillante ou une réaction logique mais ne peut pas parler au moment voulu la coordination devient plus difficile car les actions combinées deviennent plus dures à réaliser. Cela peut même ralentir le rythme si les joueurs hésitent de peur de mal jouer leur tour sans information du groupe.
 
-### Option 2 : **“tout le monde entend”**
+### Option 2 : “tout le monde entend”
 
 **Pendant un combat, tout le monde peut parler à tout moment en tant que personnage**. Pas de limite stricte de tour. On suppose que les personnages peuvent hurler des instructions, poser des questions, se répondre… même s’ils sont à 30 mètres ou en plein sort de boule de feu.
 
@@ -67,7 +67,7 @@ Ainsi en plus de aider, attaquer, lancer un sort, esquiver, foncer, se désengag
 
 Pourquoi cette nouvelle action ? Je vous propose une démonstration par l’exemple :
 
-### **Exemple de situation**
+### Exemple de situation
 
 Un joueur, pendant son tour de combat, souhaite faire parler son personnage pour tenter de convaincre un ennemi de se rendre ou de fuir, et cela implique une longue tirade roleplay.
 
@@ -135,7 +135,7 @@ Cela permet d’être en accord avec les règles officielles, de respecter les f
 
 Si votre groupe aime le jeu tactique alors autoriser les joueurs à parler stratégie librement entre les tours me semble évident et permet de **favoriser l’engagement collectif**. Mais attention à ne pas laisser les discussions s’éterniser. 
 
-### **Limitez la parole des personnages à une phrase ou deux**
+### Limitez la parole des personnages à une phrase ou deux
 
 In-game, les personnages n’ont pas le temps de débattre longuement. Instaurez une règle simple :
 > “Ton perso peut dire une ou deux phrases courtes par round. Tout le reste, c’est le joueur qui parle hors roleplay.”
