@@ -3729,7 +3729,7 @@ ___
 {: .statblock5e }
 
 ___
-Mailles elfiques
+>Mailles elfiques
 >================
 >
 >_\[ Elven Chain \]_ _\[ Chemise de mailles elfique \]_
