@@ -441,7 +441,7 @@ ___
 
 
 ___
-Anneau de saut
+>Anneau de saut
 >==============
 >
 >_\[ Ring of Jumping \]_
@@ -671,7 +671,7 @@ ___
 {: .statblock5e }
 
 ___
-Armure de mithral
+>Armure de mithral
 >=================
 >
 >_\[ Mithral Armor \]_
@@ -849,7 +849,7 @@ ___
 {: .statblock5e }
 
 ___
-Baguette de boules de feu
+>Baguette de boules de feu
 >=========================
 >
 >_\[ Wand of Fireballs \]_
@@ -1255,7 +1255,7 @@ ___
 {: .statblock5e }
 
 ___
-Bâton de surpuissance
+>Bâton de surpuissance
 >=====================
 >
 >_\[ Staff of Power \]_
@@ -1632,7 +1632,7 @@ ___
 {: .statblock5e }
 
 ___
-Boule de cristal
+>Boule de cristal
 >================
 >
 >_\[ Crystal Ball \]_
@@ -1812,7 +1812,7 @@ ___
 {: .statblock5e }
 
 ___
-Cape de déplacement
+>Cape de déplacement
 >===================
 >
 >_\[ Cloak of Displacement \]_
@@ -1958,7 +1958,7 @@ ___
 {: .statblock5e }
 
 ___
-Carafe intarissable
+>Carafe intarissable
 >===================
 >
 >_\[ Decanter of Endless Water \]_
@@ -2524,7 +2524,7 @@ ___
 {: .statblock5e }
 
 ___
-Cube de force
+>Cube de force
 >=============
 >
 >_\[ Cube of Force \]_
@@ -2627,7 +2627,7 @@ ___
 {: .statblock5e }
 
 ___
-Diadème de destruction
+>Diadème de destruction
 >======================
 >
 >_\[ Circlet of Blasting \]_
@@ -2655,7 +2655,7 @@ ___
 {: .statblock5e }
 
 ___
-Élixir de jouvence
+>Élixir de jouvence
 >==================
 >
 >_\[ Potion of Longevity \]_
@@ -2669,7 +2669,7 @@ ___
 {: .statblock5e }
 
 ___
-Encensoir de contrôle des élémentaires de l'air
+>Encensoir de contrôle des élémentaires de l'air
 >===============================================
 >
 >_\[ Censer of Controlling Air Elementals \]_
@@ -2758,7 +2758,7 @@ ___
 {: .statblock5e }
 
 ___
-Épée de lumière lunaire
+>Épée de lumière lunaire
 >=======================
 >
 >\[ Moon-touched Sword \]
@@ -2800,7 +2800,7 @@ ___
 {: .statblock5e }
 
 ___
-Épée incisive
+>Épée incisive
 >=============
 >
 >_\[ Sword of Wounding \]_
@@ -2848,7 +2848,7 @@ ___
 {: .statblock5e }
 
 ___
-Épée voleuse de vie
+>Épée voleuse de vie
 >===================
 >
 >_\[ Sword of Life Stealing \]_
@@ -3134,7 +3134,7 @@ ___
 {: .statblock5e }
 
 ___
-Gants de nage et d'escalade
+>Gants de nage et d'escalade
 >===========================
 >
 >_\[ Gloves of Swimming and Climbing \]_
@@ -3245,7 +3245,7 @@ ___
 {: .statblock5e }
 
 ___
-Grimoire résistant
+>Grimoire résistant
 >==================
 >
 >_\[ Enduring Spellbook \]_
@@ -3289,7 +3289,7 @@ ___
 {: .statblock5e }
 
 ___
-Hache du berserker
+>Hache du berserker
 >==================
 >
 >_\[ Berserker Axe \]_
@@ -3523,7 +3523,7 @@ ___
 {: .statblock5e }
 
 ___
-Jatte de contrôle des élémentaires de l'eau
+>Jatte de contrôle des élémentaires de l'eau
 >===========================================
 >
 >_\[ Bowl of Commanding Water Elementals \]_
@@ -3605,7 +3605,7 @@ ___
 {: .statblock5e }
 
 ___
-Lanterne de révélation
+>Lanterne de révélation
 >======================
 >
 >_\[ Lantern of Revealing \]_
@@ -3661,7 +3661,7 @@ ___
 {: .statblock5e }
 
 ___
-Les Chapitres sacrés
+>Les Chapitres sacrés
 >====================
 >
 >_\[ Book of Exalted Deeds \]_
@@ -3685,7 +3685,7 @@ Les Chapitres sacrés
 {: .statblock5e }
 
 ___
-Liens de fer de Bilarro
+>Liens de fer de Bilarro
 >=======================
 >
 >_\[ Iron Bands of Bilarro \]_
@@ -4002,7 +4002,7 @@ ___
 {: .statblock5e }
 
 ___
-Oeil artificiel
+>Oeil artificiel
 >===============
 >
 >_\[ Ersatz Eye \]_
@@ -4055,7 +4055,7 @@ ___
 {: .statblock5e }
 
 ___
-Orbe boussole
+>Orbe boussole
 >=============
 >
 >_\[ Orb of Direction \]_
@@ -4127,7 +4127,7 @@ ___
 {: .statblock5e }
 
 ___
-Parchemin de sort
+>Parchemin de sort
 >=================
 >
 >_\[ Spell Scroll \]_
@@ -4348,7 +4348,7 @@ ___
 {: .statblock5e }
 
 ___
-Pigments merveilleux de Nolzur
+>Pigments merveilleux de Nolzur
 >==============================
 >
 >\[ Nolzur's Marvelous Pigments \]
@@ -4509,7 +4509,7 @@ ___
 {: .statblock5e }
 
 ___
-Potion de clairvoyance
+>Potion de clairvoyance
 >======================
 >
 >_\[ Potion of Clairvoyance \]_
@@ -4680,7 +4680,7 @@ ___
 {: .statblock5e }
 
 ___
-Potion de vitalité
+>Potion de vitalité
 >==================
 >
 >_\[ Potion of Vitality \]_
@@ -4694,7 +4694,7 @@ Potion de vitalité
 {: .statblock5e }
 
 ___
-Potion de vitesse
+>Potion de vitesse
 >=================
 >
 >_\[ Potion of Speed \]_
@@ -5138,7 +5138,7 @@ ___
 {: .statblock5e }
 
 ___
-Sceptre de sécurité
+>Sceptre de sécurité
 >===================
 >
 >_\[ Rod of Security \]_
@@ -5202,7 +5202,7 @@ ___
 {: .statblock5e }
 
 ___
-Sceptre inamovible
+>Sceptre inamovible
 >==================
 >
 >_\[ Immovable Rod \]_
@@ -5231,7 +5231,7 @@ ___
 {: .statblock5e }
 
 ___
-Selle du cavalier
+>Selle du cavalier
 >=================
 >
 >_\[ Saddle of the Cavalier \]_ _\[ Selle du hussard \]_
@@ -5245,7 +5245,7 @@ Selle du cavalier
 {: .statblock5e }
 
 ___
-Solvant universel
+>Solvant universel
 >=================
 >
 >_\[ Universal Solvent \]_
@@ -5404,7 +5404,7 @@ ___
 {: .statblock5e }
 
 ___
-Traité d'autorité et d'influence
+>Traité d'autorité et d'influence
 >================================
 >
 >_\[ Tome of Leadership and Influence \]_
@@ -5512,7 +5512,7 @@ ___
 {: .statblock5e }
 
 ___
-Vengeresse sacrée
+>Vengeresse sacrée
 >=================
 >
 >_\[ Holy Avenger \]_
