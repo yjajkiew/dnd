@@ -55,6 +55,15 @@ Cette liste, non exhaustive, regroupe divers médias plus ou moins liés à la f
  - La Séquence de Raistlin ★★★★★
    - Une âme bien trempée (2003, Margaret Weis & Tracy Hickman)
    - Les Frères d'armes (2003, Margaret Weis & Ron Perrin)
+ - Les Préludes de Lancedragon 
+   - L'Ombre et la Lumière (1996, Paul B. Thompson & Tonya R. Carter) ★★★☆☆
+   - Kendermore (1996, Mary Kirchoff) ★★★★☆
+   - Les Frères Majere (1996, Kevin Stein) ★★★★☆
+   - Rivebise, l'homme des plaines (1997, Paul B. Thompson & Tonya R. Carter) ★★★☆☆
+   - Sa majesté Forgefeu (1997, Mary Kirchoff & Douglas Niles) ★★★★☆
+   - Tanis, les années secrètes (1997, Barbara Siegel & Scott Siegel) ★★★★★
+
+
 
 #### Série Royaumes oubliés
 
