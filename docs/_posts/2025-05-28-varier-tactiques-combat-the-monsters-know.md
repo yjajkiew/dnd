@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Varier les tactiques de combat avec The Monster Know
+title: Varier les tactiques de combat avec The Monsters Know
 author: yann
 date: 2025-06-28
 categories: articles
