@@ -108,3 +108,13 @@ Pour cela n’hésitez pas à utiliser les autres guide de ce blog :
 - [Équilibrer un combat](/articles/2025/01/31/equilibrer-un-combat.html)
 - [Ajuster la difficulté d'une créature](/articles/2025/02/14/ajuster-la-difficulte-creature.html)
 - [Préparer un combat de boss mémorable](/articles/2025/04/12/preparer-combat-de-boss-memorable.html)
+
+## Donner de la cohérence
+
+Le dernier élément pour finaliser votre donjon est de donner au tout une cohérence logique et thématique, et ce à chacune des étapes précédentes. C'est ce qui va permettre de transformer une simple succession de salles en un lieu mémorable qui raconte sa propre histoire.
+
+Par exemple, dans ma campagne en cours qui se déroule dans la région de la Mer de Lune des Royaumes Oubliés, mes joueurs se sont rendus à Yûlash, où la légende raconte qu'un ancien temple de Moander serait enfoui dans les profondeurs. En créant ce donjon, j'ai intégré des éléments thématiques liés au dieu de la pourriture : les combats impliquaient des cultistes et des créatures végétales en décomposition, tandis que le boss final était un grand prêtre de Moander en pleine transformation, détenant l'artefact légendaire qu'est le Gantelet de Moander.
+
+Récemment, j'ai préparé un donjon qui se déroule dans une poche du plan Mechanus. J'y ai donc plutôt incorporé des pièges et des puzzles avec des engrenages, des pignons et des roues dentées, le tout accompagné de Modrons. 
+
+Vous l’aurez compris à l’aide de ces exemples : la clé d'un bon donjon est l'équilibre entre cohérence thématique et variété d'expériences. Assurez-vous que chaque salle contribue à raconter l'histoire du lieu tout en offrant des défis diversifiés. N'hésitez pas à intégrer des éléments qui reflètent l'identité culturelle, historique ou mystique de l'endroit.
