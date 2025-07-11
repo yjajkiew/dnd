@@ -2,7 +2,7 @@
 layout: post
 title: Créer un donjon en 5 étapes
 author: yann
-date: 25-07-2025
+date: 2025-07-25
 categories: articles
 ---
 
