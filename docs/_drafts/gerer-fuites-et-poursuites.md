@@ -2,7 +2,7 @@
 layout: post
 title: Gérer les fuites et les poursuites
 author: yann
-date: 11-07-2025
+date: 2025-07-11
 categories: articles
 ---
 
