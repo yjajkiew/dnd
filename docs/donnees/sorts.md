@@ -5383,7 +5383,7 @@ ___
 >Éclair traçant _(niveau 1)_
 >==============
 >
->_\[ Guiding Bolt \]_ \[ Rayon traçant \]
+>_\[ Guiding Bolt \]_ \[ Rayon traçant \] \[ Balisage \]
 >
 >niveau 1 - évocation
 >
