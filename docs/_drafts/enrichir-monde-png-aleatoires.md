@@ -42,7 +42,7 @@ Mais sinon pour faire plus simple il suffit de revenir aux essentiels et piocher
 
 > Un homme avec des bandages sur les yeux, une botte légèrement plus grande que l'autre, et une sorte de prothèse mécanique à la main, guidé par un chien d'apparence peu naturelle. Quand on l'interroge sur ce chien clairement artificiel, il répond simplement "Je lui fais confiance. C'est lui qui m'a ramené de là-bas".
 
-- Disponible en anglais j’ai niché ce superbe PDF qui agrémente chaque rencontre d’un d100 d’un paragraphe pour étouffer la rencontre. *Quelques exemples :*
+- Disponible en anglais j’ai niché ce superbe [PDF](https://drive.google.com/file/d/1MBJ72TrRDMJ4SrJTVgSXSEoJeECiSNZl/view){:target="_blank"} qui agrémente chaque rencontre d’un d100 d’un paragraphe pour étouffer la rencontre. *Quelques exemples :*
 
 > Meet Andreas du Vavier an artisan, a painter. He is painting the local scenery and he
 seems to do a pretty good job, a scruffy dog lays lazy at his feet. For 35 gold pieces he
