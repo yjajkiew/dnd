@@ -6,7 +6,7 @@ date: 2025-08-08
 categories: articles
 ---
 
-L'année dernière j'ai décidé de lire intégralement la trilogie du Seigneur des Anneaux. Je n'avais jamais réussi à aller très loin dans le premier livre mais cette fois-ci la version audio m'a aidé à dépasser l'obstacle où tant de lecteurs comme moi s'arrêtaient : l'épisode de Tom Bombadil dans La Communauté de l'Anneau.
+L'année dernière je décidais de lire intégralement la trilogie du Seigneur des Anneaux. Je n'avais jamais réussi à aller très loin dans le premier livre mais cette fois-ci la version audio m'a aidé à dépasser l'obstacle où tant de lecteurs comme moi s'arrêtaient : l'épisode de Tom Bombadil dans La Communauté de l'Anneau.
 
 Ce personnage et ce chapitre sont probablement parmi les plus débattus dans les discussions sur cette oeuvre : pourquoi ? quel intérêt ? Même Peter Jackson a choisi de les retirer de son adaptation cinématographique tant ce chapitre est déconnecté de l'histoire principale.
 
