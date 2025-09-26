@@ -22,3 +22,5 @@ Introduction
 <br />
 
 ## 1. Point numéro un
+
+<img src="assets/profil.jpg" alt="Photo de Yann Jajkiewicz en noir et blanc." width="100%" style="align: center;" />
