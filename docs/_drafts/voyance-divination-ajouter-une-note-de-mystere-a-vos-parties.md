@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Voyance et divination : ajouter une note de mystère à vos parties
+title: Voyance & divination : ajouter une note de mystère à vos parties
 author: yann
 date: 
 categories: articles
@@ -22,6 +22,14 @@ Introduction
 <br />
 
 ## 1. Point numéro un
+
+## 2. Une image
+
+<img src="assets/profil.jpg" alt="Photo de Yann Jajkiewicz en noir et blanc." width="100%" style="align: center;" />
+
+## 3. Un lien externe
+
+[DnD Speak](https://www.dndspeak.com/2020/08/13/100-travelers-you-meet-on-the-road/){:target="_blank"} 
 
 
 
