@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Voyance & divination : ajouter une note de mystère à vos parties
+title: Voyance & divination: ajouter une note de mystère à vos parties
 author: yann
 date: 
 categories: articles
