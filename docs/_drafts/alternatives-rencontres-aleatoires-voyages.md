@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les voyages : éviter la routine et maintenir l'engagement
+title: Des alternatives aux rencontres aléatoires pendant les voyages
 author: yann
 date: 2026-01-31
 categories: articles
@@ -8,7 +8,7 @@ categories: articles
 
 Le voyage dans D&D est un moment de transition entre deux points d'intérêt : on part du point A, on arrive au point B, et entre les deux... pas grand-chose ou alors majoritairement des rencontres aléatoires. Pourtant il y a d’autres solutions pour éviter ce côté redondant du combat gratuit pour meubler !
 
-L'enjeu n'est pas de transformer chaque déplacement en épopée mais de varier les approches pour que le voyage ne devienne ni un simple "vous arrivez à destination" ni une succession fastidieuse de rencontres aléatoires.
+L'enjeu n'est pas de transformer chaque déplacement en épopée mais de varier les approches pour que le voyage ne devienne ni un simple "vous arrivez à destination" ni une succession fastidieuse de rencontres aléatoires afin de maintenir l'engagement de vos joueurs.
 
 <br />
 
