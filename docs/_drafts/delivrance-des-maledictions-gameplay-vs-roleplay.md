@@ -2,7 +2,7 @@
 layout: post
 title: Délivrance des malédictions : gameplay vs roleplay
 author: yann
-date: 2026-05-02
+date: 2026-05-01
 categories: articles 
 ---
 
