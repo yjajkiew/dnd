@@ -136,8 +136,6 @@ Un piège qui suscite une surprise avec des conséquences pouvant être accepté
 
 ## Pour aller plus loin
 
-[DnD Speak](https://www.dndspeak.com/2020/08/13/100-travelers-you-meet-on-the-road/){:target="_blank"} 
-
 - [Avoiding Gotchas in D&D — Hipsters & Dragons](https://www.hipstersanddragons.com/avoiding-gotchas-in-dnd/){:target="_blank"} 
 - [How the “Odd Detail” Can Make D&D Traps Way More Fun — Blog of Holding](https://www.blogofholding.com/?p=7688){:target="_blank"} 
 - [Hide and Seek: Traps — The Angry GM](https://theangrygm.com/hide-and-seek-traps/){:target="_blank"} 
