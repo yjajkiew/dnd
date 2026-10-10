@@ -2,7 +2,7 @@
 layout: post
 title: Les pièges, entre narration et exploration
 author: yann
-date: 2026-10-09
+date: 2026-10-10
 categories: articles
 ---
 
